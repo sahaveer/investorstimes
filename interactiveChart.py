@@ -25,10 +25,11 @@ results_saved_at = 'C:/Users/sahaveer/OneDrive/Documents/bhavcopy/'
 xlsx_to_read = 'Cravatex'
 type_of_file_chart = '.xlsx'
 logo = Image.open(r'./image/logo.png')
+
 color_hover = "#0D7292"
 color_background = "#32B7D6"
 
-def go_bar(df, row_name):
+def go_bar(df, row_name,color_bar,color_line):
     #fig = ff.create_table(df)
     #st.plotly_chart(fig)
     #st.write(df)                                                   # this is givng data conversion error sometimes
@@ -46,7 +47,7 @@ def go_bar(df, row_name):
                       legend=dict(x=0,y=1.0,bgcolor='rgba(255, 255, 255, 0)',bordercolor='rgba(255, 255, 255, 0)'),bargap=0.15)
     st.plotly_chart(fig)
 
-def go_bar_line(df,row_name):
+def go_bar_line(df,row_name,color_bar,color_line):
     temp_df = df.loc[row_name]
     df_sales_qoq = (temp_df.pct_change() * 100)
     df_sales_qoq.name = row_name + '_QoQ'
@@ -72,7 +73,7 @@ def go_bar_line(df,row_name):
     fig.update_yaxes(title_text="<b>" + row_name + " QoQ</b> in % ", secondary_y=True,showgrid=False)
     st.plotly_chart(fig)
 
-def go_group_bar(df, row_name):
+def go_group_bar(df, row_name,color_bar,color_line):
     bar_list = list(df.index)
     fig = go.Figure(data=[ go.Bar(name=bar_list[0], x=df.columns, y=df.iloc[0], textposition = 'auto', text = df.iloc[0]),
                            go.Bar(name=bar_list[1],  x=df.columns, y=df.iloc[1], textposition = 'auto', text = df.iloc[1]),
@@ -185,14 +186,14 @@ def main():
                                                 "nav-link-selected": {"background-color": color_background}},
                                         menu_icon="cast", default_index=0, orientation="vertical")
                 if param == "key_params":
-                    go_bar_line(pnl,"Sales")
-                    go_bar_line(pnl,"Profit before tax")
-                    go_bar_line(pnl,"Net profit")
+                    go_bar_line(pnl,"Sales",color_bar,color_line)
+                    go_bar_line(pnl,"Profit before tax",color_bar,color_line)
+                    go_bar_line(pnl,"Net profit",color_bar,color_line)
                 else:
                     if st.checkbox("QoQ Growth"):
-                        go_bar_line(pnl, param)
+                        go_bar_line(pnl, param,color_bar,color_line)
                     else:
-                        go_bar(pnl, param)
+                        go_bar(pnl, param,color_bar,color_line)
 
             if sub_choose == "Quarterly PnL":
                 #param = st.selectbox("Select  column", qtr_pnl.index)
@@ -205,14 +206,14 @@ def main():
                                                 "nav-link-selected": {"background-color": color_background}},
                                         menu_icon="cast", default_index=0, orientation="vertical")
                 if param == "key_params":
-                    go_bar_line(qtr_pnl, "Sales")
-                    go_bar_line(qtr_pnl, "Profit before tax")
-                    go_bar_line(qtr_pnl, "Net profit")
+                    go_bar_line(qtr_pnl, "Sales",color_bar,color_line)
+                    go_bar_line(qtr_pnl, "Profit before tax",color_bar,color_line)
+                    go_bar_line(qtr_pnl, "Net profit",color_bar,color_line)
                 else:
                     if st.checkbox("QoQ Growth"):
-                        go_bar_line(qtr_pnl, param)
+                        go_bar_line(qtr_pnl, param,color_bar,color_line)
                     else:
-                        go_bar(qtr_pnl, param)
+                        go_bar(qtr_pnl, param,color_bar,color_line)
 
             if sub_choose == "Balance Sheet":
                 #param = st.selectbox("Select  column", balance_sht.index)
@@ -225,15 +226,15 @@ def main():
                                                 "nav-link-selected": {"background-color": color_background}},
                                         menu_icon="cast", default_index=0, orientation="vertical")
                 if param == "key_params":
-                    go_bar_line(balance_sht, "Reserves")
-                    go_bar_line(balance_sht, "Borrowings")
-                    go_bar_line(balance_sht, "Capital Work in Progress")
-                    go_bar_line(balance_sht, "Cash & Bank")
+                    go_bar_line(balance_sht, "Reserves",color_bar,color_line)
+                    go_bar_line(balance_sht, "Borrowings",color_bar,color_line)
+                    go_bar_line(balance_sht, "Capital Work in Progress",color_bar,color_line)
+                    go_bar_line(balance_sht, "Cash & Bank",color_bar,color_line)
                 else:
                     if st.checkbox("QoQ Growth"):
-                        go_bar_line(balance_sht, param)
+                        go_bar_line(balance_sht, param,color_bar,color_line)
                     else:
-                        go_bar(balance_sht, param)
+                        go_bar(balance_sht, param,color_bar,color_line)
             if sub_choose == "Cash Flow":
                 index_list = ["key_params"] + list(cash_flow.index)
                 #param = st.selectbox("Select  column", cash_flow.index)
@@ -246,12 +247,12 @@ def main():
                                                 "nav-link-selected": {"background-color": color_background}},
                                         menu_icon="cast", default_index=0, orientation="vertical")
                 if param == "key_params":
-                    go_group_bar(cash_flow,"cash_flows")
+                    go_group_bar(cash_flow,"cash_flows",color_bar,color_line)
                 else:
                     if st.checkbox("QoQ Growth"):
-                        go_bar_line(cash_flow, param)
+                        go_bar_line(cash_flow, param,color_bar,color_line)
                     else:
-                        go_bar(cash_flow, param)
+                        go_bar(cash_flow, param,color_bar,color_line)
 
     elif main_menu == "BhavCopy":
         st.markdown("### Site is in progress \n Shall be launched asap")
