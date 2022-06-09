@@ -25,7 +25,9 @@ results_saved_at = 'C:/Users/sahaveer/OneDrive/Documents/bhavcopy/'
 xlsx_to_read = 'Cravatex'
 type_of_file_chart = '.xlsx'
 logo = Image.open(r'./image/logo.png')
-st.title('iTimes')
+color_hover = "#0D7292"
+color_background = "#32B7D6"
+
 def go_bar(df, row_name):
     #fig = ff.create_table(df)
     #st.plotly_chart(fig)
@@ -121,155 +123,161 @@ def get_tables(datasht,file):
         cashflow = pd.read_excel(file, index_col=0, sheet_name=tabs[-1], header=cash_start_row,usecols=reqd_cols,
                                    nrows=cash_end_row-cash_start_row )
     return pnl,qtr_pnl, balancesht,cashflow
-color_hover = "#0D7292"
-color_background = "#32B7D6"
-with st.sidebar:
-    #tab1_color = st.sidebar.color_picker("tab1",value="#1799D0")
-    #tab2_color = st.sidebar.color_picker("tab2",value="#4789A4")
-    main_menu = option_menu("Main Menu", ["About", "Fundamental Charts", "BhavCopy", "Contact"],
-                         icons=['house', 'file-slides', 'app-indicator', 'person lines fill'],
-                         menu_icon="list", default_index=0,
-                         styles={
-                             "container": {"padding": "5!important"},
-                             "icon": {"color": "orange", "font-size": "25px"},
-                             "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
-                                          "--hover-color": color_hover},
-                             "nav-link-selected": {"background-color": color_background}})
 
-if main_menu == "About":
-    col1, col2 = st.columns( [0.8, 0.2])
-    with col1:
-        st.markdown(""" <style> .font {
-        font-size:35px ; font-family: 'Cooper Black'; color: #FF9633;} 
-        </style> """, unsafe_allow_html=True)
-        st.markdown('<p class="font">About the Creator</p>', unsafe_allow_html=True)
-    with col2:               # To display brand log
-        st.image(logo, width=130)
-    st.write("We @iTimes are trying to create basic DIY fundamental analysis. \n\n We shall try bringing you here bse announcements, news, amibroker eod data here")
+def main():
+    st.title('iTimes')
+    with st.sidebar:
+        #tab1_color = st.sidebar.color_picker("tab1",value="#1799D0")
+        #tab2_color = st.sidebar.color_picker("tab2",value="#4789A4")
+        main_menu = option_menu("Main Menu", ["About", "Fundamental Charts", "BhavCopy", "Contact"],
+                             icons=['house', 'file-slides', 'app-indicator', 'person lines fill'],
+                             menu_icon="list", default_index=0,
+                             styles={
+                                 "container": {"padding": "5!important"},
+                                 "icon": {"color": "orange", "font-size": "25px"},
+                                 "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
+                                              "--hover-color": color_hover},
+                                 "nav-link-selected": {"background-color": color_background}})
 
-elif main_menu == "Fundamental Charts":
-    # Add a file uploader to allow users to upload their csv file
-    st.markdown(""" <style> .font {
-        font-size:25px ; font-family: 'Cooper Black'; color: #FF9633;} 
-        </style> """, unsafe_allow_html=True)
-    st.markdown('<p class="font">Upload your xlsx/xlsm from screener.in </p>',
-                unsafe_allow_html=True)  # use st.markdown() with CSS style to create a nice-formatted header/text
-    col1, col2 = st.columns([0.8, 0.2])
-    with col1:
-        uploaded_file = st.file_uploader("", type=['xlsx', 'xlsm'])  # Only accepts xlsx,xlsm file format
-    with col2:
-        color_bar = st.color_picker("Bar",value = "#0f7eec")
-        color_line = st.color_picker("Line",value = "#D60A10")
-    if uploaded_file is not None:
-        book = openpyxl.load_workbook(uploaded_file)
-        pnl, qtr_pnl, balance_sht, cash_flow = get_tables(book[tabs[-1]],uploaded_file)  # send a sheet(not whole workbook)
-        sub_choose = option_menu("Fundamentals", ["Yearly PnL", "Quarterly PnL", "Balance Sheet", "Cash Flow"],
-                                 icons=['house', 'file-slides', 'app-indicator', 'person lines fill'],
-                                 styles={"container": {"padding": "5!important"},
-                                         "icon": {"color": "orange", "font-size": "25px"},
-                                         "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px","--hover-color": color_hover},
-                                         "nav-link-selected": {"background-color": color_background}},
-                                 menu_icon="cast", default_index=0, orientation="horizontal")
-        if sub_choose == "Yearly PnL":
-            index_list = ["key_params"] + list(pnl.index)
-            #param = st.selectbox("Select  column", pnl.index)
-            with st.sidebar:
-                param = option_menu(sub_choose, index_list,
-                                    styles={"container": {"padding": "5!important"},
-                                            "icon": {"color": "orange", "font-size": "25px"},
-                                            "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
-                                                         "--hover-color": color_hover},
-                                            "nav-link-selected": {"background-color": color_background}},
-                                    menu_icon="cast", default_index=0, orientation="vertical")
-            if param == "key_params":
-                go_bar_line(pnl,"Sales")
-                go_bar_line(pnl,"Profit before tax")
-                go_bar_line(pnl,"Net profit")
-            else:
-                if st.checkbox("QoQ Growth"):
-                    go_bar_line(pnl, param)
-                else:
-                    go_bar(pnl, param)
-
-        if sub_choose == "Quarterly PnL":
-            #param = st.selectbox("Select  column", qtr_pnl.index)
-            index_list = ["key_params"] + list(qtr_pnl.index)
-            with st.sidebar:
-                param = option_menu(sub_choose, index_list,
-                                    styles={"container": {"padding": "5!important"},"icon": {"color": "orange", "font-size": "25px"},
-                                            "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
-                                                         "--hover-color": color_hover},
-                                            "nav-link-selected": {"background-color": color_background}},
-                                    menu_icon="cast", default_index=0, orientation="vertical")
-            if param == "key_params":
-                go_bar_line(qtr_pnl, "Sales")
-                go_bar_line(qtr_pnl, "Profit before tax")
-                go_bar_line(qtr_pnl, "Net profit")
-            else:
-                if st.checkbox("QoQ Growth"):
-                    go_bar_line(qtr_pnl, param)
-                else:
-                    go_bar(qtr_pnl, param)
-
-        if sub_choose == "Balance Sheet":
-            #param = st.selectbox("Select  column", balance_sht.index)
-            index_list = ["key_params"] + list(balance_sht.index)
-            with st.sidebar:
-                param = option_menu(sub_choose, index_list,
-                                    styles={"container": {"padding": "5!important"},"icon": {"color": "orange", "font-size": "25px"},
-                                            "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
-                                                         "--hover-color": color_hover},
-                                            "nav-link-selected": {"background-color": color_background}},
-                                    menu_icon="cast", default_index=0, orientation="vertical")
-            if param == "key_params":
-                go_bar_line(balance_sht, "Reserves")
-                go_bar_line(balance_sht, "Borrowings")
-                go_bar_line(balance_sht, "Capital Work in Progress")
-                go_bar_line(balance_sht, "Cash & Bank")
-            else:
-                if st.checkbox("QoQ Growth"):
-                    go_bar_line(balance_sht, param)
-                else:
-                    go_bar(balance_sht, param)
-        if sub_choose == "Cash Flow":
-            index_list = ["key_params"] + list(cash_flow.index)
-            #param = st.selectbox("Select  column", cash_flow.index)
-            with st.sidebar:
-                param = option_menu(sub_choose, index_list,
-                                    styles={"container": {"padding": "5!important"},
-                                            "icon": {"color": "orange", "font-size": "25px"},
-                                            "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
-                                                         "--hover-color": color_hover},
-                                            "nav-link-selected": {"background-color": color_background}},
-                                    menu_icon="cast", default_index=0, orientation="vertical")
-            if param == "key_params":
-                go_group_bar(cash_flow,"cash_flows")
-            else:
-                if st.checkbox("QoQ Growth"):
-                    go_bar_line(cash_flow, param)
-                else:
-                    go_bar(cash_flow, param)
-
-elif main_menu == "BhavCopy":
-    st.markdown("### Site is in progress \n Shall be launched asap")
-    my_date = st.date_input("Select date", value=date.today(),
-                            min_value=datetime.date(1990, 1, 1))
-    ddmmmyyyy = my_date.strftime("%d%b%Y")
-    driver = webdriver.Edge(r"C://Users/sahaveer/PycharmProjects/onlystocks/msedgedriver.exe")
-    if st.button("Download"):
-        EOD.eod_date(driver,ddmmmyyy)
-
-elif main_menu == 'Contact':
-    col1, col2 = st.columns([0.8, 0.2])
-    with col1:  # To display the header text using css style
-        st.markdown(""" <style> .font {
+    if main_menu == "About":
+        col1, col2 = st.columns( [0.8, 0.2])
+        with col1:
+            st.markdown(""" <style> .font {
             font-size:35px ; font-family: 'Cooper Black'; color: #FF9633;} 
             </style> """, unsafe_allow_html=True)
-        st.markdown("Contact us through \n ## [telegram](https://t.me/itimesalgo/) \n ## [Twitter](https://twitter.com/itimesalgo)")
-        #st.markdown('<p class="font">Contact us through [telegram](https://t.me/itimesalgo/). </p>', unsafe_allow_html=True)
-    with col2:  # To display brand log
-        st.image(logo, width=130)
-    st.write("We sincerely appreciates your suggestions and contribution to improvise our iTimes community.")
+            st.markdown('<p class="font">About the Creator</p>', unsafe_allow_html=True)
+        with col2:               # To display brand log
+            st.image(logo, width=130)
+        st.write("We @iTimes are trying to create basic DIY fundamental analysis. \n\n We shall try bringing you here bse announcements, news, amibroker eod data here")
+
+    elif main_menu == "Fundamental Charts":
+        # Add a file uploader to allow users to upload their csv file
+        st.markdown(""" <style> .font {
+            font-size:25px ; font-family: 'Cooper Black'; color: #FF9633;} 
+            </style> """, unsafe_allow_html=True)
+        st.markdown('<p class="font">Upload your xlsx/xlsm from screener.in </p>',
+                    unsafe_allow_html=True)  # use st.markdown() with CSS style to create a nice-formatted header/text
+        col1, col2 = st.columns([0.8, 0.2])
+        with col1:
+            uploaded_file = st.file_uploader("", type=['xlsx', 'xlsm'])  # Only accepts xlsx,xlsm file format
+        with col2:
+            color_bar = st.color_picker("Bar",value = "#0f7eec")
+            color_line = st.color_picker("Line",value = "#D60A10")
+        if uploaded_file is not None:
+            book = openpyxl.load_workbook(uploaded_file)
+            pnl, qtr_pnl, balance_sht, cash_flow = get_tables(book[tabs[-1]],uploaded_file)  # send a sheet(not whole workbook)
+            sub_choose = option_menu("Fundamentals", ["Yearly PnL", "Quarterly PnL", "Balance Sheet", "Cash Flow"],
+                                     icons=['house', 'file-slides', 'app-indicator', 'person lines fill'],
+                                     styles={"container": {"padding": "5!important"},
+                                             "icon": {"color": "orange", "font-size": "25px"},
+                                             "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px","--hover-color": color_hover},
+                                             "nav-link-selected": {"background-color": color_background}},
+                                     menu_icon="cast", default_index=0, orientation="horizontal")
+            if sub_choose == "Yearly PnL":
+                index_list = ["key_params"] + list(pnl.index)
+                #param = st.selectbox("Select  column", pnl.index)
+                with st.sidebar:
+                    param = option_menu(sub_choose, index_list,
+                                        styles={"container": {"padding": "5!important"},
+                                                "icon": {"color": "orange", "font-size": "25px"},
+                                                "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
+                                                             "--hover-color": color_hover},
+                                                "nav-link-selected": {"background-color": color_background}},
+                                        menu_icon="cast", default_index=0, orientation="vertical")
+                if param == "key_params":
+                    go_bar_line(pnl,"Sales")
+                    go_bar_line(pnl,"Profit before tax")
+                    go_bar_line(pnl,"Net profit")
+                else:
+                    if st.checkbox("QoQ Growth"):
+                        go_bar_line(pnl, param)
+                    else:
+                        go_bar(pnl, param)
+
+            if sub_choose == "Quarterly PnL":
+                #param = st.selectbox("Select  column", qtr_pnl.index)
+                index_list = ["key_params"] + list(qtr_pnl.index)
+                with st.sidebar:
+                    param = option_menu(sub_choose, index_list,
+                                        styles={"container": {"padding": "5!important"},"icon": {"color": "orange", "font-size": "25px"},
+                                                "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
+                                                             "--hover-color": color_hover},
+                                                "nav-link-selected": {"background-color": color_background}},
+                                        menu_icon="cast", default_index=0, orientation="vertical")
+                if param == "key_params":
+                    go_bar_line(qtr_pnl, "Sales")
+                    go_bar_line(qtr_pnl, "Profit before tax")
+                    go_bar_line(qtr_pnl, "Net profit")
+                else:
+                    if st.checkbox("QoQ Growth"):
+                        go_bar_line(qtr_pnl, param)
+                    else:
+                        go_bar(qtr_pnl, param)
+
+            if sub_choose == "Balance Sheet":
+                #param = st.selectbox("Select  column", balance_sht.index)
+                index_list = ["key_params"] + list(balance_sht.index)
+                with st.sidebar:
+                    param = option_menu(sub_choose, index_list,
+                                        styles={"container": {"padding": "5!important"},"icon": {"color": "orange", "font-size": "25px"},
+                                                "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
+                                                             "--hover-color": color_hover},
+                                                "nav-link-selected": {"background-color": color_background}},
+                                        menu_icon="cast", default_index=0, orientation="vertical")
+                if param == "key_params":
+                    go_bar_line(balance_sht, "Reserves")
+                    go_bar_line(balance_sht, "Borrowings")
+                    go_bar_line(balance_sht, "Capital Work in Progress")
+                    go_bar_line(balance_sht, "Cash & Bank")
+                else:
+                    if st.checkbox("QoQ Growth"):
+                        go_bar_line(balance_sht, param)
+                    else:
+                        go_bar(balance_sht, param)
+            if sub_choose == "Cash Flow":
+                index_list = ["key_params"] + list(cash_flow.index)
+                #param = st.selectbox("Select  column", cash_flow.index)
+                with st.sidebar:
+                    param = option_menu(sub_choose, index_list,
+                                        styles={"container": {"padding": "5!important"},
+                                                "icon": {"color": "orange", "font-size": "25px"},
+                                                "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
+                                                             "--hover-color": color_hover},
+                                                "nav-link-selected": {"background-color": color_background}},
+                                        menu_icon="cast", default_index=0, orientation="vertical")
+                if param == "key_params":
+                    go_group_bar(cash_flow,"cash_flows")
+                else:
+                    if st.checkbox("QoQ Growth"):
+                        go_bar_line(cash_flow, param)
+                    else:
+                        go_bar(cash_flow, param)
+
+    elif main_menu == "BhavCopy":
+        st.markdown("### Site is in progress \n Shall be launched asap")
+        my_date = st.date_input("Select date", value=date.today(),
+                                min_value=datetime.date(1990, 1, 1))
+        ddmmmyyyy = my_date.strftime("%d%b%Y")
+        driver = webdriver.Edge(r"C://Users/sahaveer/PycharmProjects/onlystocks/msedgedriver.exe")
+        if st.button("Download"):
+            EOD.eod_date(driver,ddmmmyyy)
+
+    elif main_menu == 'Contact':
+        col1, col2 = st.columns([0.8, 0.2])
+        with col1:  # To display the header text using css style
+            st.markdown(""" <style> .font {
+                font-size:35px ; font-family: 'Cooper Black'; color: #FF9633;} 
+                </style> """, unsafe_allow_html=True)
+            st.markdown("Contact us through \n ## [telegram](https://t.me/itimesalgo/) \n ## [Twitter](https://twitter.com/itimesalgo)")
+            #st.markdown('<p class="font">Contact us through [telegram](https://t.me/itimesalgo/). </p>', unsafe_allow_html=True)
+        with col2:  # To display brand log
+            st.image(logo, width=130)
+        st.write("We sincerely appreciates your suggestions and contribution to improvise our iTimes community.")
+
+if __name__ == '__main__':
+    main()
+
+
 
 #REFERENCE :
 #FLASK : https://www.datasciencelearner.com/how-to-create-a-bar-chart-from-a-dataframe-in-python/#:~:text=There%20is%20also%20another%20method%20to%20create%20a,y-axis%20values%20you%20want%20to%20draw%20the%20bar.
