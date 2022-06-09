@@ -44,7 +44,8 @@ def go_bar(df, row_name,color_bar,color_line):
                       xaxis_tickfont_size=14, xaxis_tickangle=-45,
                       xaxis=dict(showgrid=False),
                       yaxis=dict(showgrid=False, title='INR (cr)',titlefont_size=16,tickfont_size=14,),
-                      legend=dict(x=0,y=1.0,bgcolor='rgba(255, 255, 255, 0)',bordercolor='rgba(255, 255, 255, 0)'),bargap=0.15)
+                      legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+                      bargap=0.15)     #legend=dict(x=0,y=1.0,bgcolor='rgba(255, 255, 255, 0)',bordercolor='rgba(255, 255, 255, 0)'),
     st.plotly_chart(fig)
 
 def go_bar_line(df,row_name,color_bar,color_line):
@@ -66,8 +67,8 @@ def go_bar_line(df,row_name,color_bar,color_line):
                               'y': 0.9, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
                        xaxis_tickfont_size=14, xaxis_tickangle=-45,
                        yaxis=dict(title='INR (cr)', titlefont_size=16, tickfont_size=14,),
-                       legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),
-                       bargap = 0.15)
+                       legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+                       bargap=0.15)#legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),bargap = 0.15)
     # Set y-axes titles
     fig.update_yaxes(title_text="<b>" + row_name + "</b> in cr ", secondary_y=False,showgrid=False)
     fig.update_yaxes(title_text="<b>" + row_name + " QoQ</b> in % ", secondary_y=True,showgrid=False)
@@ -126,38 +127,47 @@ def get_tables(datasht,file):
     return pnl,qtr_pnl, balancesht,cashflow
 
 def main():
-    st.title('iTimes')
+    #st.title('iTimes')
+    html_temp = """
+    <div style="background-color:darkgrey;padding:14px>
+    <h2 style="color: #FF9633;text-align:centre;">iTimesAlgo</h2>
+    </div>
+    st.markdown(html_temp, unsafe_allow_html=True)
+    """
+
+    st.markdown(""" <style> .font1 {
+                font-size:50px ; font-family: 'Copper Black'; color: seablue;} 
+                </style> """, unsafe_allow_html=True)
+    st.markdown(""" <style> .font {
+    font-size:22px ; font-family: 'Cooper Black'; color: #FF9633;} 
+    </style> """, unsafe_allow_html=True)
+    col1, col2 = st.columns([0.8, 0.2])
+    with col1:
+        st.markdown('<p class="font1">iTimesAlgo</p>', unsafe_allow_html=True)
+    with col2:  # To display brand log
+        st.image(logo, width=80)
+
     with st.sidebar:
         #tab1_color = st.sidebar.color_picker("tab1",value="#1799D0")
         #tab2_color = st.sidebar.color_picker("tab2",value="#4789A4")
         main_menu = option_menu("Main Menu", ["About", "Fundamental Charts", "BhavCopy", "Contact"],
                              icons=['house', 'file-slides', 'app-indicator', 'person lines fill'],
-                             menu_icon="list", default_index=0,
+                             menu_icon="list", default_index=1,
                              styles={
                                  "container": {"padding": "5!important"},
                                  "icon": {"color": "orange", "font-size": "25px"},
-                                 "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
+                                 "nav-link": {"font-size": "18px", "text-align": "left", "margin": "0px",
                                               "--hover-color": color_hover},
-                                 "nav-link-selected": {"background-color": color_background}})
+                                 "nav-link-selected": {"background-color": color_background, "text-color":color_background}})
 
     if main_menu == "About":
-        col1, col2 = st.columns( [0.8, 0.2])
-        with col1:
-            st.markdown(""" <style> .font {
-            font-size:35px ; font-family: 'Cooper Black'; color: #FF9633;} 
-            </style> """, unsafe_allow_html=True)
-            st.markdown('<p class="font">About the Creator</p>', unsafe_allow_html=True)
-        with col2:               # To display brand log
-            st.image(logo, width=130)
+        st.markdown('<p class="font">About the Creator</p>', unsafe_allow_html=True)
         st.write("We @iTimes are trying to create basic DIY fundamental analysis. \n\n We shall try bringing you here bse announcements, news, amibroker eod data here")
 
     elif main_menu == "Fundamental Charts":
         # Add a file uploader to allow users to upload their csv file
-        st.markdown(""" <style> .font {
-            font-size:25px ; font-family: 'Cooper Black'; color: #FF9633;} 
-            </style> """, unsafe_allow_html=True)
         st.markdown('<p class="font">Upload your xlsx/xlsm from screener.in </p>',
-                    unsafe_allow_html=True)  # use st.markdown() with CSS style to create a nice-formatted header/text
+                    unsafe_allow_html=True)
         col1, col2 = st.columns([0.8, 0.2])
         with col1:
             uploaded_file = st.file_uploader("", type=['xlsx', 'xlsm'])  # Only accepts xlsx,xlsm file format
@@ -168,9 +178,8 @@ def main():
             book = openpyxl.load_workbook(uploaded_file)
             pnl, qtr_pnl, balance_sht, cash_flow = get_tables(book[tabs[-1]],uploaded_file)  # send a sheet(not whole workbook)
             sub_choose = option_menu("Fundamentals", ["Yearly PnL", "Quarterly PnL", "Balance Sheet", "Cash Flow"],
-                                     icons=['house', 'file-slides', 'app-indicator', 'person lines fill'],
                                      styles={"container": {"padding": "5!important"},
-                                             "icon": {"color": "orange", "font-size": "25px"},
+                                             "icon": {"color": "yellow", "font-size": "18px"},
                                              "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px","--hover-color": color_hover},
                                              "nav-link-selected": {"background-color": color_background}},
                                      menu_icon="cast", default_index=0, orientation="horizontal")
@@ -190,7 +199,7 @@ def main():
                     go_bar_line(pnl,"Profit before tax",color_bar,color_line)
                     go_bar_line(pnl,"Net profit",color_bar,color_line)
                 else:
-                    if st.checkbox("QoQ Growth"):
+                    if st.checkbox("Sequential_Growth_%"):
                         go_bar_line(pnl, param,color_bar,color_line)
                     else:
                         go_bar(pnl, param,color_bar,color_line)
@@ -210,7 +219,7 @@ def main():
                     go_bar_line(qtr_pnl, "Profit before tax",color_bar,color_line)
                     go_bar_line(qtr_pnl, "Net profit",color_bar,color_line)
                 else:
-                    if st.checkbox("QoQ Growth"):
+                    if st.checkbox("Sequential_Growth_%"):
                         go_bar_line(qtr_pnl, param,color_bar,color_line)
                     else:
                         go_bar(qtr_pnl, param,color_bar,color_line)
@@ -231,7 +240,7 @@ def main():
                     go_bar_line(balance_sht, "Capital Work in Progress",color_bar,color_line)
                     go_bar_line(balance_sht, "Cash & Bank",color_bar,color_line)
                 else:
-                    if st.checkbox("QoQ Growth"):
+                    if st.checkbox("Sequential_Growth_%"):
                         go_bar_line(balance_sht, param,color_bar,color_line)
                     else:
                         go_bar(balance_sht, param,color_bar,color_line)
@@ -249,7 +258,7 @@ def main():
                 if param == "key_params":
                     go_group_bar(cash_flow,"cash_flows",color_bar,color_line)
                 else:
-                    if st.checkbox("QoQ Growth"):
+                    if st.checkbox("Sequential_Growth_%"):
                         go_bar_line(cash_flow, param,color_bar,color_line)
                     else:
                         go_bar(cash_flow, param,color_bar,color_line)
@@ -266,9 +275,6 @@ def main():
     elif main_menu == 'Contact':
         col1, col2 = st.columns([0.8, 0.2])
         with col1:  # To display the header text using css style
-            st.markdown(""" <style> .font {
-                font-size:35px ; font-family: 'Cooper Black'; color: #FF9633;} 
-                </style> """, unsafe_allow_html=True)
             st.markdown("Contact us through \n ## [telegram](https://t.me/itimesalgo/) \n ## [Twitter](https://twitter.com/itimesalgo)")
             #st.markdown('<p class="font">Contact us through [telegram](https://t.me/itimesalgo/). </p>', unsafe_allow_html=True)
         with col2:  # To display brand log
