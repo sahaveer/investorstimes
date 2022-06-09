@@ -1,0 +1,9 @@
+openpyxl==3.0.10
+pandas==1.4.2
+Pillow==9.1.1
+plotly==5.8.0
+pst==1.5.3
+requests==2.27.1
+selenium==4.2.0
+streamlit==1.9.2
+streamlit_option_menu==0.3.2
