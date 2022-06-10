@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 logo = Image.open(r'./image/logo.png')
-
+st.set_page_config(page_title="iTimesAlgo",page_icon=":bar_chart:",layout="wide")
 def main():
     #st.title('iTimes')
     html_temp = """
@@ -20,10 +20,27 @@ def main():
     with col2:  # To display brand log
         st.image(logo, width=80)
 
+    st.markdown(""" <style> .font {
+    font-size:22px ; font-family: 'Cooper Black'; color: #FF9633;} 
+    </style> """, unsafe_allow_html=True)
+
+    st.markdown('<p class="font">About the Creator</p>', unsafe_allow_html=True)
+    st.markdown("---")
+    st.write("We @iTimes are trying to create basic DIY fundamental analysis. \n\n We shall try bringing you here bse announcements, news, amibroker eod data here")
+
 if __name__ == '__main__':
     main()
 
 
+#Custom CSS to remove header,footer, hamburger icon
+hide_st_style = """
+                <style>
+                #MainMenu {visibility: hidden;}
+                footer {visibility: hidden;}
+                header {visibility: hidden;}
+                </style>
+                """
+st.markdown(hide_st_style,unsafe_allow_html=True)
 
 #REFERENCE :
 #FLASK : https://www.datasciencelearner.com/how-to-create-a-bar-chart-from-a-dataframe-in-python/#:~:text=There%20is%20also%20another%20method%20to%20create%20a,y-axis%20values%20you%20want%20to%20draw%20the%20bar.
