@@ -10,8 +10,8 @@ import EOD
 
 with st.sidebar:
     # PATHS OF THIS COMPUTER
-    path_bhav = st.text_input("path_bhav",value='./bhavcopy/')
-    path_csv = st.text_input("path_csv",value='./bhavcopy/csv')  #'C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/')
+    path_bhav = st.text_input("path_bhav",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/')     #'./bhavcopy/')
+    path_csv = st.text_input("path_csv",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/')        #'./bhavcopy/csv')
     path_download = st.text_input("path_download",value='C:/Users/sahaveer/Downloads/')
 
 my_date = st.date_input("Select date", value=date.today(),

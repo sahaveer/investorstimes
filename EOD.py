@@ -357,7 +357,7 @@ def eod_date(driver,ddmmmyyyy,path_bhav,path_csv,path_download):
 
 def main():
     # this line is brought from near import lines
-    driver = webdriver.Edge(r"C://Users/sahaveer/PycharmProjects/onlystocks/msedgedriver.exe")
+    driver = webdriver.Edge(r"./msedgedriver.exe")
     driver.minimize_window()
     while True :
         st.write(' TYPE a TO RUN DATE FORMAT OR b TO RUN EXISTING FILE or X to exit')
