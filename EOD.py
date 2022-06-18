@@ -4,21 +4,19 @@ import csv
 import datetime
 import glob,os
 import shutil
-import pst.write
 from zipfile import ZipFile
 from zipfile import BadZipFile
 import requests
 from io import BytesIO
-import tarfile
 from selenium import webdriver
 from time import sleep
 import streamlit as st
 
 st.title("EOD BHAVCOPY")
 # PATHS OF THIS COMPUTER
-path_bhav = 'C:/Users/sahaveer/OneDrive/Documents/bhavcopy/'
-path_csv = "C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/"
-path_download = 'C:/Users/sahaveer/Downloads/'
+#path_bhav = 'C:/Users/sahaveer/OneDrive/Documents/bhavcopy/'
+#path_csv = "C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/"
+#path_download = 'C:/Users/sahaveer/Downloads/'
 
 # WORKIGN ON DATE FORMATS FROM CSV STRING NAMES
 mnth_dict = {'JAN':'01' , 'FEB':'02' , 'MAR':'03', 'APR':'04', 'MAY':'05', 'JUN':'06', 'JUL':'07', 'AUG':'08', 'SEP':'09', 'OCT':'10', 'NOV':'11', 'DEC':'12'}
@@ -157,17 +155,87 @@ replace_index = {'Nifty 50':'NSENIFTY','Nifty 100':'NSE100' , 'Nifty 200':'NIFTY
 def driver_get(url):
     driver.get(url)
 
-def eod_existing_files():
-    st.write(" ok boss, let me work on the existing CSV files now")
+def eod_extract(file):
+    if (just_filename[:2] == 'EQ'):  # BSE STOCKS
+        # st.success("Working on BSE Data : " + just_filename)
+        date_bse = str(file[-10:-8])
+        mnth_bse = str(file[-8:-6])
+        yr_bse = str(file[-6:-4])
+        yyyymmdd = str(20) + yr_bse + mnth_bse + date_bse
+        with open(file, 'r') as reading:
+            file1 = csv.DictReader(reading)
+            # file_list = list(file1)
+            # st.write(type(file_list[0]['TIMESTAMP']))
+            bse_filename = str(file[-10:-4])
+            # amibroker_date_format = input()
+            with open(path_bhav + 'bse' + bse_filename + '.txt', 'w') as txt:
+                for line in file1:
+                    if line['SC_GROUP'] not in avoid_bse_series:
+                        if line['SC_NAME'] not in avoid_stocks:
+                            txt.write(
+                                line['SC_CODE'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," +
+                                line['LOW'] + "," + line['CLOSE'] + "," + line['NO_OF_SHRS'] + "\n")
+        #shutil.move(file, path_csv)
+        st.success('DONE BSE ' + file)
+
+    elif (just_filename[:2] == 'cm'):  # if(file[-19:-17]=="cm"):                      # NSE STOCKS
+        # st.write("Working on NSE Data : " + just_filename)
+        date_nse = str(file[-17:-15])
+        mnth_format = str(file[-15:-12])
+        mnth_nse = mnth_dict[mnth_format]
+        yr_nse = str(file[-12:-8])
+        yyyymmdd = yr_nse + mnth_nse + date_nse
+        with open(file, 'r') as reading:
+            file1 = csv.DictReader(reading)
+            nse_filename = str(file[-17:-8])
+            # amibroker_date_format = input()
+            with open(path_bhav + 'nse' + nse_filename + '.txt', 'w') as txt:
+                for line in file1:
+                    if line['SERIES'] not in avoid_series:
+                        if line['SYMBOL'] not in avoid_stocks:
+                            txt.write(
+                                line['SYMBOL'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," +
+                                line['LOW'] + "," + line['CLOSE'] + "," + line['TOTTRDQTY'] + "\n")
+            # st.write(f'files saved as nse' + nse_filename)
+        #shutil.move(file, path_csv)
+        st.success('DONE NSE ' + file)
+
+    elif (just_filename[:3] == 'ind'):  # if(file[-19:-17]=="cm"):                      # NSE STOCKS
+        only_filename = just_filename.split('.')[0]
+        # st.write("Working on INDEX Data : " + only_filename)
+        dd = str(only_filename[-8:-6])
+        mm = str(only_filename[-6:-4])
+        yyyy = str(only_filename[-4:])
+        yyyymmdd = yyyy + mm + dd
+        with open(file, 'r') as reading:
+            index_file = csv.DictReader(reading)
+            index_filename = just_filename
+            with open(path_bhav + 'nse' + index_filename + '.txt', 'w') as txt:
+                for line in index_file:
+                    # txt.write('\'' + line['Index Name'] + "\',")       # FOR WRITING INDEX NAMES INTO TXT
+                    if line['Index Name'] in replace_index.keys():
+                        txt.write(replace_index[line['Index Name']] + "," + str(yyyymmdd) + ',' + line[
+                            'Open Index Value'] + "," + line[
+                                      'High Index Value'] + "," + line['Low Index Value'] + "," + line[
+                                      'Closing Index Value'] + "," + line['Volume'] + "\n")
+                    else:
+                        txt.write(
+                            line['Index Name'] + "," + str(yyyymmdd) + ',' + line['Open Index Value'] + "," + line[
+                                'High Index Value'] + "," + line['Low Index Value'] + "," + line[
+                                'Closing Index Value'] + "," + line['Volume'] + "\n")
+
+
+def eod_existing_files(path_bhav,path_csv,path_download):
+    #st.success(" ok boss, let me work on the existing CSV files now")
     for filepath in glob.glob(r"{}*.csv".format(path_bhav),recursive=False):
         file = filepath.replace("\\","/")
         just_filename = file.split('/')[-1]
         if (os.path.isfile(path_csv + just_filename)):
-            st.write(f'file ' + just_filename + ' already exists')
+            st.success(f'file ' + just_filename + ' already exists')
             pass
         else:
             if (just_filename[:2] == 'EQ'):  # BSE STOCKS
-                st.write("Working on BSE Data : " + just_filename)
+                #st.success("Working on BSE Data : " + just_filename)
                 date_bse = str(file[-10:-8])
                 mnth_bse = str(file[-8:-6])
                 yr_bse = str(file[-6:-4])
@@ -177,7 +245,6 @@ def eod_existing_files():
                     # file_list = list(file1)
                     # st.write(type(file_list[0]['TIMESTAMP']))
                     bse_filename = str(file[-10:-4])
-                    #st.write(f"BSE file format : " + yyyymmdd + " **KINDLY CONFIRM** ")  # yyyymmdd
                     # amibroker_date_format = input()
                     with open(path_bhav + 'bse' + bse_filename + '.txt', 'w') as txt:
                         for line in file1:
@@ -186,12 +253,11 @@ def eod_existing_files():
                                     txt.write(
                                         line['SC_CODE'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," +
                                         line['LOW'] + "," + line['CLOSE'] + "," + line['NO_OF_SHRS'] + "\n")
-                    # st.write(f'files saved as bse' + bse_filename)
                 shutil.move(file, path_csv)
-                st.write('moved ' + file)
+                st.success('DONE BSE ' + file)
 
             elif (just_filename[:2] == 'cm'):  #if(file[-19:-17]=="cm"):                      # NSE STOCKS
-                st.write("Working on NSE Data : " + just_filename)
+                #st.write("Working on NSE Data : " + just_filename)
                 date_nse = str(file[-17:-15])
                 mnth_format = str(file[-15:-12])
                 mnth_nse = mnth_dict[mnth_format]
@@ -200,7 +266,6 @@ def eod_existing_files():
                 with open(file, 'r') as reading:
                     file1 = csv.DictReader(reading)
                     nse_filename = str(file[-17:-8])
-                    #st.write(f"am writing NSE file as "+ yyyymmdd + " **KINDLY CONFIRM** ")  # yyyymmdd
                     #amibroker_date_format = input()
                     with open(path_bhav+'nse'+nse_filename+'.txt','w') as txt :
                         for line in file1:
@@ -209,11 +274,11 @@ def eod_existing_files():
                                     txt.write(line['SYMBOL'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line['TOTTRDQTY'] + "\n")
                     #st.write(f'files saved as nse' + nse_filename)
                 shutil.move(file, path_csv)
-                st.write('moved ' + file)
+                st.success('DONE NSE ' + file)
 
             elif (just_filename[:3] == 'ind'):  #if(file[-19:-17]=="cm"):                      # NSE STOCKS
                 only_filename = just_filename.split('.')[0]
-                st.write("Working on INDEX Data : " + only_filename)
+                #st.write("Working on INDEX Data : " + only_filename)
                 dd = str(only_filename[-8:-6])
                 mm = str(only_filename[-6:-4])
                 yyyy = str(only_filename[-4:])
@@ -233,9 +298,9 @@ def eod_existing_files():
                                     'High Index Value'] + "," + line['Low Index Value'] + "," + line[
                                               'Closing Index Value'] + "," + line['Volume'] + "\n")
                 shutil.move(file, path_csv)
-                st.write('moved ' + file)
+                st.success('DONE INDICES ' + file)
 
-def download_all_data(driver,indexlink, bselink, nselink):
+def download_all_data(driver,indexlink, bselink, nselink,path_bhav,path_csv,path_download):
     # DOWNLOAD INDEX FILE and MOVE TO BHAVCOPY LOCATION
     try:
         index_d = driver.get(indexlink)
@@ -243,8 +308,7 @@ def download_all_data(driver,indexlink, bselink, nselink):
         last_created_file = max(glob.glob(path_download + '*.csv'), key=os.path.getctime)
         shutil.move(last_created_file, path_bhav)
     except:
-        st.write('unable to download Index file')
-
+        st.warning('unable to download Index file')
     # DOWNLOAD BSE FILE and MOVE TO BHAVCOPY LOCATION
     try:
         bse_d = driver.get(bselink)
@@ -253,8 +317,16 @@ def download_all_data(driver,indexlink, bselink, nselink):
         sleep(2)
         last_created_file = max(glob.glob(path_download + '*.zip'), key=os.path.getctime)
         shutil.move(last_created_file, path_bhav)
+        last_zip = max(glob.glob(path_bhav + '*.zip'), key=os.path.getctime)
+        try:
+            with ZipFile(last_zip, 'r') as zip:
+                # list all the contents of the zip file
+                #st.write(f'{zip.infolist()}')
+                zip.extractall(path_bhav)
+        except:
+            st.warning('Couldnt Extract bse file')
     except:
-        st.write('unable to download bse file')
+        st.warning('Couldnt Download bse file')
 
     # DOWNLOAD NSE FILE THROUGH REQUESTS
     try:
@@ -262,9 +334,9 @@ def download_all_data(driver,indexlink, bselink, nselink):
         nse_zip = ZipFile(BytesIO(nse_d.content))
         nse_zip.extractall(r'{}'.format(path_bhav))
     except:
-        st.write("Couldnt download nse file")
+        st.warning("Couldnt download nse file")
 
-def eod_date(driver,ddmmmyyyy):
+def eod_date(driver,ddmmmyyyy,path_bhav,path_csv,path_download):
     # downloads links from nse and bse
     mmm_to_d = str(ddmmmyyyy[2:5].upper())
     mm_to_d = str(mnth_dict[mmm_to_d])
@@ -278,11 +350,10 @@ def eod_date(driver,ddmmmyyyy):
     st.write(f'BSE link is : ' + bselink)
     st.write(f'Index link is : ' + indexlink)
     try:
-        download_all_data(driver,indexlink, bselink, nselink)
-        eod_existing_files()
+        download_all_data(driver,indexlink, bselink, nselink,path_bhav,path_csv,path_download)
+        eod_existing_files(path_bhav,path_csv,path_download)
     except BadZipFile:
         pass
-    st.write("Done. Now, extract BSE ZipFiles and upload below")
 
 def main():
     # this line is brought from near import lines
@@ -294,9 +365,9 @@ def main():
             # ask which date to download in ddmmmyyyy format
             st.write("which date to download, pls in (ddmmmyyyy) format")
             d_date = str(st.text_input())
-            eod_date(driver,d_date)
+            eod_date(driver,d_date,path_bhav,path_csv,path_download)
         elif (input() == 'b'):
-            eod_existing_files()
+            eod_existing_files(path_bhav,path_csv,path_download)
             st.write("done EXISTing files")
         elif (input() == 'x'):
             st.write("HAVE A GREAT DAY BOSS")

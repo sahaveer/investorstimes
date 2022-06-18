@@ -50,3 +50,6 @@ st.markdown(hide_st_style,unsafe_allow_html=True)
 # https://towardsdatascience.com/make-dataframes-interactive-in-streamlit-c3d0c4f84ccb#:~:text=When%20building%20data%20apps%20using%20Streamlit%2C%20sometimes%20you,displayed%20in%20the%20app%20looks%20plain%20and%20static.
 
 #https://towardsdatascience.com/create-a-bar-chart-race-animation-app-using-streamlit-and-raceplotly-e44495249f11
+
+
+#   https://blog.streamlit.io/introducing-new-layout-options-for-streamlit/
