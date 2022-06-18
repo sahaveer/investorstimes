@@ -10,7 +10,8 @@ import EOD
 
 with st.sidebar:
     # PATHS OF THIS COMPUTER
-    path_bhav = st.text_input("path_bhav",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/')     #'./bhavcopy/')
+    st.info("pls mention here your computer paths")
+    path_bhav = st.text_input("path_bhav",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy')     #'./bhavcopy/')
     path_csv = st.text_input("path_csv",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/')        #'./bhavcopy/csv')
     path_download = st.text_input("path_download",value='C:/Users/sahaveer/Downloads/')
 
