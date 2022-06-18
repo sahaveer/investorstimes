@@ -15,13 +15,14 @@ with st.sidebar:
     path_csv = st.text_input("path_csv",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/')        #'./bhavcopy/csv')
     path_download = st.text_input("path_download",value='C:/Users/sahaveer/Downloads/')
 
+
+
 my_date = st.date_input("Select date", value=date.today(),
                         min_value=datetime.date(1990, 1, 1))
 ddmmmyyyy = my_date.strftime("%d%b%Y")
-driver = webdriver.Edge(r"C://Users/sahaveer/PycharmProjects/onlystocks/msedgedriver.exe")
 if st.button("Download"):
     # this line is brought from near import lines
-    driver = webdriver.Edge(r"C://Users/sahaveer/PycharmProjects/onlystocks/msedgedriver.exe")
+    driver = webdriver.Edge(r"./msedgedriver.exe")
     driver.minimize_window()
     EOD.eod_date(driver, ddmmmyyyy,path_bhav,path_csv,path_download)
 
