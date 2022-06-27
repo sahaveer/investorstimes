@@ -8,6 +8,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import base64  # Standard Python Module
 from io import StringIO, BytesIO  # Standard Python Module
+import os
 
 st.set_page_config(page_title="InteractiveCharts",page_icon=":bar_chart:",layout="wide")
 st.title('Excel Plotter 📈')
@@ -99,6 +100,20 @@ def go_bar_line(df,row_name,color_bar,color_line):
     #generate_excel_download_link(df2)
     #generate_html_download_link(fig)
 
+def group_bar(df,sub_menu):   #this has 2 series concatinated with key names
+    bar_list = list(df.columns)
+    fig = go.Figure(data=[go.Bar(name=bar_list[0], x=df.index, y=df[bar_list[0]]),
+                          go.Bar(name=bar_list[1], x=df.index, y=df[bar_list[1]])])
+    # Change the bar mode
+    fig.update_layout(barmode='group', bargroupgap=0.1,
+                      height=600, width=900,
+                      title={'text': sub_menu + ' Report',
+                             'y': 0.9, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
+                      xaxis_tickfont_size=14, xaxis_tickangle=-45,
+                      yaxis=dict(title='INR (cr)', titlefont_size=16, tickfont_size=14, ),
+                      legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),)   # this barmode = 'group | stack | 'relative''
+    st.plotly_chart(fig)
+
 def go_group_bar(df, row_name,color_bar,color_line):
     bar_list = list(df.index)
     fig = go.Figure(data=[ go.Bar(name=bar_list[0], x=df.columns, y=df.iloc[0], textposition = 'auto', text = df.iloc[0]),
@@ -155,14 +170,12 @@ def get_tables(datasht,file):
         balancesht.index = balancesht.index.str.upper()
     if cash_start_row is not None and cash_end_row is not None:
         cashflow = pd.read_excel(file, index_col=0, sheet_name=tabs[-1], header=cash_start_row,usecols=reqd_cols,
-                                   nrows=cash_end_row-cash_start_row )
-
+                                   nrows=cash_end_row-cash_start_row)
         cashflow.columns = cashflow.columns.strftime('%d-%m-%Y')
         cashflow.index = cashflow.index.str.upper()
     if(pnl is not None and balancesht is not None and cashflow is not None):
         sht_list = [pnl,balancesht,cashflow]
         df_comp = pd.concat(sht_list,keys=funda_keys)
-
     return qtr_pnl,df_comp
 
 with st.sidebar:
@@ -172,113 +185,133 @@ with st.sidebar:
     # Add a file uploader to allow users to upload their csv file
     st.markdown('<p class="font">Upload your xlsx/xlsm from screener.in </p>',
                 unsafe_allow_html=True)
-    uploaded_file = st.file_uploader("", type=['xlsx', 'xlsm'])  # Only accepts xlsx,xlsm file format
+    uploaded_file = st.file_uploader("", type=['xlsx', 'xlsm'],accept_multiple_files = True)  # Only accepts xlsx,xlsm file format
 
 if uploaded_file is not None:
-    comp_Name = uploaded_file.name.split('.')[0]
-    book = openpyxl.load_workbook(uploaded_file)
-    qtr_pnl,df_comp = get_tables(book[tabs[-1]], uploaded_file)  # send a sheet(not whole workbook)
-    col1, col2 = st.columns([0.8, 0.2])
-    with col1:
-        sub_choose = option_menu("Fundamentals", funda_menu,
-                                 styles={"container": {"padding": "5!important"},
-                                         "icon": {"color": "yellow", "font-size": "18px"},
-                                         "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
-                                                      "--hover-color": color_hover},
-                                         "nav-link-selected": {"background-color": color_background}},
-                                 menu_icon="cast", default_index=0, orientation="horizontal")
+    if len(uploaded_file)==1:
+        comp_Name = uploaded_file[0].name.split('.')[0]
+        book = openpyxl.load_workbook(uploaded_file[0])
+        qtr_pnl,df_comp = get_tables(book[tabs[-1]], uploaded_file[0])  # send a sheet(not whole workbook)
+        if os.path.isdir('./pickl'):
+            df_comp.to_pickle("./pickl/"+comp_Name + ".pkl")
+        col1, col2 = st.columns([0.8, 0.2])
+        with col1:
+            sub_choose = option_menu("Fundamentals", funda_menu,
+                                     styles={"container": {"padding": "5!important"},
+                                             "icon": {"color": "yellow", "font-size": "18px"},
+                                             "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
+                                                          "--hover-color": color_hover},
+                                             "nav-link-selected": {"background-color": color_background}},
+                                     menu_icon="cast", default_index=0, orientation="horizontal")
+            with col2:
+                color_bar = st.color_picker("Bar", value="#0f7eec")
+                color_line = st.color_picker("Line", value="#D60A10")
+        if sub_choose == funda_menu[0]:
+            index_list = ["key_params"] + list(df_comp.loc[funda_menu[0]].index)
+            with st.sidebar:
+                param = option_menu(sub_choose, index_list,
+                                    styles={"container": {"padding": "5!important"},
+                                            "icon": {"color": "orange", "font-size": "25px"},
+                                            "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
+                                                         "--hover-color": color_hover},
+                                            "nav-link-selected": {"background-color": color_background}},
+                                    menu_icon="cast", default_index=0, orientation="vertical")
+            if param == "key_params":
+                st.dataframe(df_comp.loc[funda_menu[0]].style.format(formatter="{:.1f}"))
+                #sns_bar(df_comp.loc[funda_menu[0]], "Sales", color_bar, color_line,comp_Name)
+                go_bar_line(df_comp.loc[funda_menu[0]], "SALES", color_bar, color_line)
+                go_bar_line(df_comp.loc[funda_menu[0]], "PROFIT BEFORE TAX", color_bar, color_line)
+                go_bar_line(df_comp.loc[funda_menu[0]], "NET PROFIT", color_bar, color_line)
+            else:
+                if st.checkbox("Sequential_Growth_%"):
+                    go_bar_line(df_comp.loc[funda_menu[0]], param, color_bar, color_line)
+                else:
+                    go_bar(df_comp.loc[funda_menu[0]], param, color_bar, color_line,comp_Name)
+
+        if sub_choose == funda_menu[3]:
+            # param = st.selectbox("Select  column", df_comp.loc[funda_menu[3]].index)
+            index_list = ["key_params"] + list(qtr_pnl.index)
+            with st.sidebar:
+                param = option_menu(sub_choose, index_list,
+                                    styles={"container": {"padding": "5!important"},
+                                            "icon": {"color": "orange", "font-size": "25px"},
+                                            "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
+                                                         "--hover-color": color_hover},
+                                            "nav-link-selected": {"background-color": color_background}},
+                                    menu_icon="cast", default_index=0, orientation="vertical")
+            if param == "key_params":
+                st.dataframe(qtr_pnl.style.format(formatter="{:.1f}"))
+                go_bar_line(qtr_pnl, "SALES", color_bar, color_line)
+                go_bar_line(qtr_pnl, "PROFIT BEFORE TAX", color_bar, color_line)
+                go_bar_line(qtr_pnl, "NET PROFIT", color_bar, color_line)
+            else:
+                if st.checkbox("Sequential_Growth_%"):
+                    go_bar_line(qtr_pnl, param, color_bar, color_line)
+                else:
+                    go_bar(qtr_pnl, param, color_bar, color_line,comp_Name)
+    
+        if sub_choose == funda_menu[1]:
+            #st.info(funda_menu[1])
+            # param = st.selectbox("Select  column", df_comp.loc[funda_menu[2]].index)
+            index_list = ["key_params"] + list(df_comp.loc[funda_menu[1]].index)
+            with st.sidebar:
+                param = option_menu(sub_choose, index_list,
+                                    styles={"container": {"padding": "5!important"},
+                                            "icon": {"color": "orange", "font-size": "25px"},
+                                            "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
+                                                         "--hover-color": color_hover},
+                                            "nav-link-selected": {"background-color": color_background}},
+                                    menu_icon="cast", default_index=0, orientation="vertical")
+            if param == "key_params":
+                st.dataframe(df_comp.loc[funda_menu[1]].style.format(formatter="{:.1f}"))
+                go_bar_line(df_comp.loc[funda_menu[1]], "RESERVES", color_bar, color_line)
+                go_bar_line(df_comp.loc[funda_menu[1]], "BORROWINGS", color_bar, color_line)
+                go_bar_line(df_comp.loc[funda_menu[1]], "CAPITAL WORK IN PROGRESS", color_bar, color_line)
+                go_bar_line(df_comp.loc[funda_menu[1]], "CASH & BANK", color_bar, color_line)
+            else:
+                if st.checkbox("Sequential_Growth_%"):
+                    go_bar_line(df_comp.loc[funda_menu[1]], param, color_bar, color_line)
+                else:
+                    go_bar(df_comp.loc[funda_menu[1]], param, color_bar, color_line,comp_Name)
+        if sub_choose == funda_menu[2]:
+            index_list = ["key_params"] + list(df_comp.loc[funda_menu[2]].index)
+            # param = st.selectbox("Select  column", df_comp.loc[funda_menu[3]].index)
+            with st.sidebar:
+                param = option_menu(sub_choose, index_list,
+                                    styles={"container": {"padding": "5!important"},
+                                            "icon": {"color": "orange", "font-size": "25px"},
+                                            "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
+                                                         "--hover-color": color_hover},
+                                            "nav-link-selected": {"background-color": color_background}},
+                                    menu_icon="cast", default_index=0, orientation="vertical")
+            if param == "key_params":
+                st.dataframe(df_comp.loc[funda_menu[2]].style.format(formatter="{:.1f}"))
+                go_group_bar(df_comp.loc[funda_menu[2]], "cash_flows", color_bar, color_line)
+            else:
+                if st.checkbox("Sequential_Growth_%"):
+                    go_bar_line(df_comp.loc[funda_menu[2]], param, color_bar, color_line)
+                else:
+                    go_bar(df_comp.loc[funda_menu[2]], param, color_bar, color_line,comp_Name)
+    if len(uploaded_file)==2:
+        book1 = openpyxl.load_workbook(uploaded_file[0])
+        qtr1_pnl, df1 = get_tables(book1[tabs[-1]], uploaded_file[0])  # send a sheet(not whole workbook)
+        book2 = openpyxl.load_workbook(uploaded_file[1])
+        qtr2_pnl, df2 = get_tables(book2[tabs[-1]], uploaded_file[1])  # send a sheet(not whole workbook)
+        comp1_Name = uploaded_file[0].name.split('.')[0]
+        comp2_Name = uploaded_file[1].name.split('.')[0]
+        book1 = openpyxl.load_workbook(uploaded_file[0])
+        qtr1_pnl, df1 = get_tables(book1[tabs[-1]], uploaded_file[0])  # send a sheet(not whole workbook)
+        book2 = openpyxl.load_workbook(uploaded_file[1])
+        qtr2_pnl, df2 = get_tables(book2[tabs[-1]], uploaded_file[1])  # send a sheet(not whole workbook)
+        col1, col2 = st.columns([0.7, 0.3])
+        with col1:
+            main_menu = st.selectbox("Chose", funda_keys)
         with col2:
-            color_bar = st.color_picker("Bar", value="#0f7eec")
-            color_line = st.color_picker("Line", value="#D60A10")
-
-    if sub_choose == funda_menu[0]:
-        index_list = ["key_params"] + list(df_comp.loc[funda_menu[0]].index)
-        # param = st.selectbox("Select  column", df_comp.loc[funda_menu[0]].index)
-        with st.sidebar:
-            param = option_menu(sub_choose, index_list,
-                                styles={"container": {"padding": "5!important"},
-                                        "icon": {"color": "orange", "font-size": "25px"},
-                                        "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
-                                                     "--hover-color": color_hover},
-                                        "nav-link-selected": {"background-color": color_background}},
-                                menu_icon="cast", default_index=0, orientation="vertical")
-        if param == "key_params":
-            st.dataframe(df_comp.loc[funda_menu[0]].style.format(formatter="{:.1f}"))
-            #sns_bar(df_comp.loc[funda_menu[0]], "Sales", color_bar, color_line,comp_Name)
-            go_bar_line(df_comp.loc[funda_menu[0]], "SALES", color_bar, color_line)
-            go_bar_line(df_comp.loc[funda_menu[0]], "PROFIT BEFORE TAX", color_bar, color_line)
-            go_bar_line(df_comp.loc[funda_menu[0]], "NET PROFIT", color_bar, color_line)
-        else:
-            if st.checkbox("Sequential_Growth_%"):
-                go_bar_line(df_comp.loc[funda_menu[0]], param, color_bar, color_line)
-            else:
-                go_bar(df_comp.loc[funda_menu[0]], param, color_bar, color_line,comp_Name)
-
-    if sub_choose == funda_menu[3]:
-        # param = st.selectbox("Select  column", df_comp.loc[funda_menu[3]].index)
-        index_list = ["key_params"] + list(qtr_pnl.index)
-        with st.sidebar:
-            param = option_menu(sub_choose, index_list,
-                                styles={"container": {"padding": "5!important"},
-                                        "icon": {"color": "orange", "font-size": "25px"},
-                                        "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
-                                                     "--hover-color": color_hover},
-                                        "nav-link-selected": {"background-color": color_background}},
-                                menu_icon="cast", default_index=0, orientation="vertical")
-        if param == "key_params":
-            st.dataframe(qtr_pnl.style.format(formatter="{:.1f}"))
-            go_bar_line(qtr_pnl, "SALES", color_bar, color_line)
-            go_bar_line(qtr_pnl, "PROFIT BEFORE TAX", color_bar, color_line)
-            go_bar_line(qtr_pnl, "NET PROFIT", color_bar, color_line)
-        else:
-            if st.checkbox("Sequential_Growth_%"):
-                go_bar_line(qtr_pnl, param, color_bar, color_line)
-            else:
-                go_bar(qtr_pnl, param, color_bar, color_line,comp_Name)
-
-    if sub_choose == funda_menu[1]:
-        #st.info(funda_menu[1])
-        # param = st.selectbox("Select  column", df_comp.loc[funda_menu[2]].index)
-        index_list = ["key_params"] + list(df_comp.loc[funda_menu[1]].index)
-        with st.sidebar:
-            param = option_menu(sub_choose, index_list,
-                                styles={"container": {"padding": "5!important"},
-                                        "icon": {"color": "orange", "font-size": "25px"},
-                                        "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
-                                                     "--hover-color": color_hover},
-                                        "nav-link-selected": {"background-color": color_background}},
-                                menu_icon="cast", default_index=0, orientation="vertical")
-        if param == "key_params":
-            st.dataframe(df_comp.loc[funda_menu[1]].style.format(formatter="{:.1f}"))
-            go_bar_line(df_comp.loc[funda_menu[1]], "RESERVES", color_bar, color_line)
-            go_bar_line(df_comp.loc[funda_menu[1]], "BORROWINGS", color_bar, color_line)
-            go_bar_line(df_comp.loc[funda_menu[1]], "CAPITAL WORK IN PROGRESS", color_bar, color_line)
-            go_bar_line(df_comp.loc[funda_menu[1]], "CASH & BANK", color_bar, color_line)
-        else:
-            if st.checkbox("Sequential_Growth_%"):
-                go_bar_line(df_comp.loc[funda_menu[1]], param, color_bar, color_line)
-            else:
-                go_bar(df_comp.loc[funda_menu[1]], param, color_bar, color_line,comp_Name)
-    if sub_choose == funda_menu[2]:
-        index_list = ["key_params"] + list(df_comp.loc[funda_menu[2]].index)
-        # param = st.selectbox("Select  column", df_comp.loc[funda_menu[3]].index)
-        with st.sidebar:
-            param = option_menu(sub_choose, index_list,
-                                styles={"container": {"padding": "5!important"},
-                                        "icon": {"color": "orange", "font-size": "25px"},
-                                        "nav-link": {"font-size": "16px", "text-align": "left", "margin": "0px",
-                                                     "--hover-color": color_hover},
-                                        "nav-link-selected": {"background-color": color_background}},
-                                menu_icon="cast", default_index=0, orientation="vertical")
-        if param == "key_params":
-            st.dataframe(df_comp.loc[funda_menu[2]].style.format(formatter="{:.1f}"))
-            go_group_bar(df_comp.loc[funda_menu[2]], "cash_flows", color_bar, color_line)
-        else:
-            if st.checkbox("Sequential_Growth_%"):
-                go_bar_line(df_comp.loc[funda_menu[2]], param, color_bar, color_line)
-            else:
-                go_bar(df_comp.loc[funda_menu[2]], param, color_bar, color_line,comp_Name)
-
+            sub_menu = st.selectbox("SubChose", list(df1.loc[main_menu].index))
+        new_df = [df1.loc[main_menu].loc[sub_menu], df2.loc[main_menu].loc[sub_menu]]
+        df_new = pd.concat(new_df, keys=[comp1_Name, comp2_Name], axis=1)
+        group_bar(df_new, sub_menu)
+        st.write(df_new)
 #Custom CSS to remove header,footer, hamburger icon
 hide_st_style = """
                 <style>
