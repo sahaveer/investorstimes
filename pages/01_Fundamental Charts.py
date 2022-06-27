@@ -192,8 +192,6 @@ if uploaded_file is not None:
         comp_Name = uploaded_file[0].name.split('.')[0]
         book = openpyxl.load_workbook(uploaded_file[0])
         qtr_pnl,df_comp = get_tables(book[tabs[-1]], uploaded_file[0])  # send a sheet(not whole workbook)
-        if os.path.isdir('./pickl'):
-            df_comp.to_pickle("./pickl/"+comp_Name + ".pkl")
         col1, col2 = st.columns([0.8, 0.2])
         with col1:
             sub_choose = option_menu("Fundamentals", funda_menu,
