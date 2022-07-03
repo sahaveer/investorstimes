@@ -63,8 +63,8 @@ def go_bar(df, row_name,color_bar,comp):
     st.markdown("---")
     st.plotly_chart(fig,use_container_width=True)
     #fig.write_image("./downloadimages/fig1.png")
-    st.subheader('Downloads:')
-    generate_html_download_link(fig)
+    #st.subheader('Downloads:')
+    #generate_html_download_link(fig)
 
 def bar_line(df,row1,row2,color_bar):
     dat_rows = [df.loc[row1], df.loc[row2]]
