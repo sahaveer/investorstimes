@@ -48,7 +48,8 @@ def go_bar(df, row_name,color_bar,comp_Name):
     fig.update_traces(marker_color=color_bar, marker_line_color='rgb(8,48,107)',
                       marker_line_width=1.5, opacity=1, texttemplate='%{text:.3s}', textposition='outside')
     fig.update_layout(autosize=True, paper_bgcolor="#16181A",plot_bgcolor="#23282D",
-                      height=608,width=1080,
+                      height=1080,width=1080,
+                      margin = dict(l=25,r=25,t=25,b=25,pad=4),
                       title={'font':{'color':"yellow"},'text': "<b>" + comp_Name.upper() + "</b> : <i>" + row_name + ' Report <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
                              'y': 0.9,'x': 0.5,'xanchor': 'center','yanchor': 'bottom'},
                       xaxis_tickfont_size=14, xaxis_tickangle=-45,
@@ -75,7 +76,8 @@ def bar_line(df,row1,row2,color_bar,comp_Name):
                   secondary_y=True)
     # Add figure title
     fig.update_layout(autosize=True, paper_bgcolor="#16181A",plot_bgcolor="#23282D",
-                      height=608,width=1080,
+                      height=1080,width=1080,
+                      margin = dict(l=25,r=25,t=25,b=25,pad=4),
                       title={'font':{'color':"yellow"},'text': "<b>" + comp_Name.upper() + "</b> : <i>" + 'Report <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
                              'y': 0.9, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
                       xaxis_tickfont_size=14, xaxis_tickangle=-45,
@@ -102,8 +104,9 @@ def qoq_growth(df,row_name,color_bar,comp_Name):
                    secondary_y=True)
     # Add figure title
     fig.update_layout(autosize=True, paper_bgcolor="#16181A",plot_bgcolor="#23282D",
-                       height=608, width=1080,
-                       title={'font':{'color':"yellow"},'text': "<b>" + comp_Name.upper() + "</b> : <i>" + row_name + ' Report <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
+                       height=1080, width=1080,
+                      margin=dict(l=25, r=25, t=25, b=25, pad=4),
+                      title={'font':{'color':"yellow"},'text': "<b>" + comp_Name.upper() + "</b> : <i>" + row_name + ' Report <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
                               'y': 0.9, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
                        xaxis_tickfont_size=14, xaxis_tickangle=-45,
                        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
@@ -125,7 +128,8 @@ def peer_bar(df,Name):   #this has 2 series concatinated with key names
     # Change the bar mode
     fig.update_layout(autosize=True,barmode='group', bargroupgap=0.1,
                       paper_bgcolor="#16181A", plot_bgcolor="#23282D",
-                      height=608, width=1080,
+                      height=1080, width=1080,
+                      margin = dict(l=25,r=25,t=25,b=25,pad=4),
                       title={'font':{'color':"yellow"},'text': 'peer <b>' + Name + '</b> <i> Report <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
                              'y': 0.9, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
                       xaxis_tickfont_size=14, xaxis_tickangle=-45,
@@ -144,7 +148,8 @@ def group_2_bars(df,row1,row2,comp_Name):
     # Change the bar mode
     fig.update_layout(autosize=True,barmode='group', bargroupgap=0.1,
                       paper_bgcolor="#16181A", plot_bgcolor="#23282D",
-                      height=608, width=1080,
+                      height=1080, width=1080,
+                      margin = dict(l=25,r=25,t=25,b=25,pad=4),
                       title={'font':{'color':"yellow"},'text': "<b>" + comp_Name.upper() + '</b> <i> Report  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
                              'y': 0.9, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
                       xaxis_tickfont_size=14, xaxis_tickangle=-45,
@@ -165,7 +170,8 @@ def go_group_bar(df, row_name,color_bar):
     # Change the bar mode
     fig.update_layout(autosize=True, barmode='group', bargroupgap=0.1,
                       paper_bgcolor="#16181A", plot_bgcolor="#23282D",
-                      height=608, width=1080,
+                      height=1080, width=1080,
+                      margin = dict(l=25,r=25,t=25,b=25,pad=4),
                       title={'font':{'color':"yellow"},'text': '<b>' + row_name + '</b> <i>Report  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
                              'y': 0.9, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
                       xaxis_tickfont_size=14, xaxis_tickangle=-45,
