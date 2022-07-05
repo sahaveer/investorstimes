@@ -30,6 +30,8 @@ if uploaded_file is not None:
         book = openpyxl.load_workbook(uploaded_file[0])
         qtr_pnl,df_comp = fundamentals.get_tables(book[fundamentals.tabs[-1]], uploaded_file[0])  # send a sheet(not whole workbook)
         # **************************************************************************************************
+        if os.path.isdir('./pickl'):
+            df_comp.to_pickle("./pickl/"+comp_Name + ".pkl")
         col1, col2,col3 = st.columns([0.5, 0.4, 0.1])
         with col1:
             sub_choose = st.selectbox("Fundamentals", fundamentals.funda_menu)
