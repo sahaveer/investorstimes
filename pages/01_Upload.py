@@ -122,7 +122,7 @@ if uploaded_file is not None:
         new_df = [df1.loc[main_menu].loc[sub_menu], df2.loc[main_menu].loc[sub_menu]]
         df_new = pd.concat(new_df, keys=[comp1_Name, comp2_Name], axis=1)
         fundamentals.peer_bar(df_new, sub_menu)
-        st.dataframe(df_new)
+        st.write(df_new)
     if len(uploaded_file) >= 3:
         st.error("Please, upload only 2 excel files")
 
