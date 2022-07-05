@@ -198,23 +198,23 @@ def get_tables(datasht,file):
     if pnl_start_row is not None and pnl_end_row is not None :
         pnl = pd.read_excel(file, index_col=0, sheet_name=tabs[-1], header=pnl_start_row,usecols=reqd_cols,
                             nrows=pnl_end_row-pnl_start_row )
-        pnl.columns = pnl.columns.strftime('%d-%m-%Y')
+        #pnl.columns = pnl.columns.strftime('%d-%m-%Y')
         pnl.index = pnl.index.str.upper()
     if quarterly_start_row is not None and quarterly_end_row is not None :
         qtr_pnl = pd.read_excel(file, index_col=0, sheet_name=tabs[-1], header=quarterly_start_row, usecols=reqd_cols,
                                 nrows=quarterly_end_row - quarterly_start_row)
-        qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
+        #qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
         qtr_pnl.index = qtr_pnl.index.str.upper()
 
     if BS_start_row is not None and BS_end_row is not None:
         balancesht = pd.read_excel(file, index_col=0, sheet_name=tabs[-1], header=BS_start_row,usecols=reqd_cols,
                                    nrows=BS_end_row-BS_start_row )
-        balancesht.columns = balancesht.columns.strftime('%d-%m-%Y')
+        #balancesht.columns = balancesht.columns.strftime('%d-%m-%Y')
         balancesht.index = balancesht.index.str.upper()
     if cash_start_row is not None and cash_end_row is not None:
         cashflow = pd.read_excel(file, index_col=0, sheet_name=tabs[-1], header=cash_start_row,usecols=reqd_cols,
                                    nrows=cash_end_row-cash_start_row)
-        cashflow.columns = cashflow.columns.strftime('%d-%m-%Y')
+        #cashflow.columns = cashflow.columns.strftime('%d-%m-%Y')
         cashflow.index = cashflow.index.str.upper()
     if(pnl is not None and balancesht is not None and cashflow is not None):
         sht_list = [pnl,balancesht,cashflow]

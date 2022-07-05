@@ -37,7 +37,6 @@ if uploaded_file is not None:
             qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
         except Exception as AttributeError:
             pass
-
         # **************************************************************************************************
         if os.path.isdir('./pickl'):
             df_comp.to_pickle("./pickl/"+comp_Name + ".pkl")

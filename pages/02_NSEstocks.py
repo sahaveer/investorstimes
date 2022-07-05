@@ -26,7 +26,6 @@ if selected :
         df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
     except Exception as AttributeError:
         pass
-
     comp_Name = str(selected)
     col1, col2, col3 = st.columns([0.5, 0.4, 0.1])
     with col1:
