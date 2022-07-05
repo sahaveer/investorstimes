@@ -29,6 +29,15 @@ if uploaded_file is not None:
         comp_Name = uploaded_file[0].name.split('.')[0]
         book = openpyxl.load_workbook(uploaded_file[0])
         qtr_pnl,df_comp = fundamentals.get_tables(book[fundamentals.tabs[-1]], uploaded_file[0])  # send a sheet(not whole workbook)
+        try:
+            df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
+        except Exception as AttributeError:
+            pass
+        try:
+            qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
+        except Exception as AttributeError:
+            pass
+
         # **************************************************************************************************
         if os.path.isdir('./pickl'):
             df_comp.to_pickle("./pickl/"+comp_Name + ".pkl")
