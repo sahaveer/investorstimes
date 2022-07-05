@@ -3,7 +3,9 @@ from PIL import Image
 
 logo = Image.open(r'./image/logo.png')
 st.set_page_config(page_title="iTimesAlgo",page_icon=":bar_chart:",layout="wide")
+
 def main():
+    funda_keys = ['PROFIT&LOSS', 'BALANCE SHEET','CASH FLOW']  # dont change the order of this list as it will affect the keys used in Yearly df
     #st.title('iTimes')
     html_temp = """
     <div style="background-color:darkgrey;padding:14px>

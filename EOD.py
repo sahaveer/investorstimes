@@ -10,6 +10,7 @@ import requests
 from io import BytesIO
 from selenium import webdriver
 from time import sleep
+from datetime import date
 import streamlit as st
 
 st.title("EOD BHAVCOPY")
@@ -25,7 +26,7 @@ avoid_series = ['GS','IV', 'N1', 'N2', 'N3', 'N4', 'N5', 'N6', 'N7', 'N8', 'N9',
                 'W3', 'Y1', 'Y2', 'Y3','Y5','Y6', 'Y7','Y8', 'YH', 'YK', 'YL', 'YO', 'YP', 'YR', 'YS', 'YU', 'YV', 'YW', 'YY', 'YZ',
                 'Z2', 'Z3', 'Z4', 'Z7', 'Z8', 'ZA', 'ZH', 'ZJ', 'ZK']
 avoid_bse_series = ['F ', 'G ']
-avoid_stocks = ['426GS2023','619GS2034','667GS2050','676GS2061','699GS2051','719GS2060',
+avoid_stocks = ['AURUMPP','AIRTELPP','182D290922','426GS2023','619GS2034','667GS2050','676GS2061','699GS2051','719GS2060',
                 '769GS2043','772GS2055','795GS2032','817GS2044','AXISNIFTY','AXISBNKETF',
                 'AXISBPSETF','AXISCETF','AXISHCETF','AXISTECETF','BBETF0432','DSPN50ETF',
                 'DSPNEWETF','DSPQ50ETF','EBBETF0425','EBBETF0430','EBBETF0431','IBMFNIFTY','ICICI500','ICICIALPLV',
@@ -224,18 +225,43 @@ def eod_extract(file):
                                 'High Index Value'] + "," + line['Low Index Value'] + "," + line[
                                 'Closing Index Value'] + "," + line['Volume'] + "\n")
 
+def nse_list(path_bhav,path_csv):
+    last_cm = max(glob.glob(path_csv + 'cm' + '*.csv'), key=os.path.getctime)
+    cm_file = last_cm.replace("\\", "/")
+    with open(cm_file, 'r') as reading:
+        file1 = csv.DictReader(reading)
+        with open(path_bhav + 'nselist' + '.txt', 'w') as txt:
+            for line in file1:
+                if line['SERIES'] not in avoid_series:
+                    if line['SYMBOL'] not in avoid_stocks:
+                        txt.write(line['SYMBOL'] + "\n")
+    st.success('DONE NSE List')
 
-def eod_existing_files(path_bhav,path_csv,path_download):
+def bse_list(path_bhav,path_csv):
+    last_cm = max(glob.glob(path_csv + 'EQ' + '*.csv'), key=os.path.getctime)
+    cm_file = last_cm.replace("\\", "/")
+    with open(cm_file, 'r') as reading:
+        file1 = csv.DictReader(reading)
+        with open(path_bhav + 'bselist' + '.txt', 'w') as txt:
+            for line in file1:
+                if line['SC_GROUP'] not in avoid_bse_series:
+                    if line['SC_NAME'] not in avoid_stocks:
+                        txt.write(line['SC_CODE'] + "\n")
+    st.success('DONE BSE List')
+
+def eod_existing_files(path_bhav,path_csv):
     #st.success(" ok boss, let me work on the existing CSV files now")
     for filepath in glob.glob(r"{}*.csv".format(path_bhav),recursive=False):
         file = filepath.replace("\\","/")
         just_filename = file.split('/')[-1]
+        print("Got into recurring csv file check")
+        print(just_filename)
         if (os.path.isfile(path_csv + just_filename)):
-            st.success(f'file ' + just_filename + ' already exists')
+            st.warning(f'file ' + just_filename + ' already exists')
             pass
         else:
             if (just_filename[:2] == 'EQ'):  # BSE STOCKS
-                #st.success("Working on BSE Data : " + just_filename)
+                #st.write("Working on BSE Data : " + just_filename)
                 date_bse = str(file[-10:-8])
                 mnth_bse = str(file[-8:-6])
                 yr_bse = str(file[-6:-4])
@@ -251,7 +277,7 @@ def eod_existing_files(path_bhav,path_csv,path_download):
                             if line['SC_GROUP'] not in avoid_bse_series :
                                 if line['SC_NAME'] not in avoid_stocks:
                                     txt.write(
-                                        line['SC_CODE'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," +
+                                        line['SC_NAME'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," +
                                         line['LOW'] + "," + line['CLOSE'] + "," + line['NO_OF_SHRS'] + "\n")
                 shutil.move(file, path_csv)
                 st.success('DONE BSE ' + file)
@@ -351,7 +377,8 @@ def eod_date(driver,ddmmmyyyy,path_bhav,path_csv,path_download):
     st.write(f'Index link is : ' + indexlink)
     try:
         download_all_data(driver,indexlink, bselink, nselink,path_bhav,path_csv,path_download)
-        eod_existing_files(path_bhav,path_csv,path_download)
+        #st.success("Done downloading, lets try extracting now")
+        eod_existing_files(path_bhav,path_csv)
     except BadZipFile:
         pass
 
@@ -359,19 +386,23 @@ def main():
     # this line is brought from near import lines
     driver = webdriver.Edge(r"./msedgedriver.exe")
     driver.minimize_window()
-    while True :
-        st.write(' TYPE a TO RUN DATE FORMAT OR b TO RUN EXISTING FILE or X to exit')
-        if (input() == 'a') :
-            # ask which date to download in ddmmmyyyy format
-            st.write("which date to download, pls in (ddmmmyyyy) format")
-            d_date = str(st.text_input())
-            eod_date(driver,d_date,path_bhav,path_csv,path_download)
-        elif (input() == 'b'):
-            eod_existing_files(path_bhav,path_csv,path_download)
-            st.write("done EXISTing files")
-        elif (input() == 'x'):
-            st.write("HAVE A GREAT DAY BOSS")
-            break
+    with st.sidebar:
+        # PATHS OF THIS COMPUTER
+        st.info("pls mention here your computer paths")
+        path_bhav = st.text_input("path_bhav", value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy')  # './bhavcopy/')
+        path_csv = st.text_input("path_csv",
+                                 value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/')  # './bhavcopy/csv')
+        path_download = st.text_input("path_download", value='C:/Users/sahaveer/Downloads/')
+
+    my_date = st.date_input("Select date", value=date.today(),
+                            min_value=datetime.date(1990, 1, 1))
+    ddmmmyyyy = my_date.strftime("%d%b%Y")
+    if st.button("Download"):
+        eod_date(driver, ddmmmyyyy, path_bhav, path_csv, path_download)
+    st.write("___")
+    if st.button("Existing"):
+        eod_existing_files(path_bhav, path_csv, path_download)
+        st.write("done EXISTing files")
 
 if __name__ == '__main__':
     main()
