@@ -4,19 +4,32 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize
 import pdfplumber
 import streamlit as st
+import re
 
 text = ""
-pdf_upload = st.file_uploader("upload Concal", type= ['pdf'])
+texxt = ""
+col1, col2 = st.columns([0.8, 0.2])
+with col1:
+	pdf_upload = st.file_uploader("upload Concal", type= ['pdf'])
+with col2:
+	avgperc = st.number_input("Higher the number, Lesser the context",1.00,2.00,1.20,0.05)
 
 if pdf_upload is not None:
 	with pdfplumber.open(pdf_upload) as pdf:
 		for page in pdf.pages :
 			text += page.extract_text()
 
-	#st.info(text)
 	# Tokenizing the text
 	stopWords = set(stopwords.words("english"))
-	words = word_tokenize(text)
+	pattern = '(page|Page|PAGE)\s*\d+\s*(of|OF|Of)\s*\d+'
+	date_pattern = r'(January|February|March|April|May|June|July|August|September|October|November|December|january|february|march|april|may|june|july|august|september|october|november|december|JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY|AUGUST|SEPTEMBER|OCTOBER|NOVEMBER|DECEMBER)\s*\d{2}\s*(\,|\s)\s*\d{4}'
+	moderator_pattern = r'(Thank you|Please go ahead. )'
+	replace = ''
+	texxt = re.sub(pattern, replace, text)
+	texxt = re.sub(date_pattern, replace, texxt)
+	texxt = re.sub(moderator_pattern,replace, texxt)
+	texxt = re.sub('\s{2}',' ',texxt)
+	words = word_tokenize(texxt)
 
 	# Creating a frequency table to keep the
 	# score of each word
@@ -33,7 +46,7 @@ if pdf_upload is not None:
 
 	# Creating a dictionary to keep the score
 	# of each sentence
-	sentences = sent_tokenize(text)
+	sentences = sent_tokenize(texxt)
 	sentenceValue = dict()
 	for sentence in sentences:
 		for word, freq in freqTable.items():
@@ -53,9 +66,10 @@ if pdf_upload is not None:
 	# Storing sentences into our summary.
 	summary = ''
 	for sentence in sentences:
-		if (sentence in sentenceValue) and (sentenceValue[sentence] > (1.2 * average)):
+		if (sentence in sentenceValue) and (sentenceValue[sentence] > (avgperc * average)):
 			summary += " " + sentence
-	st.write("--")
+	st.info('the {} words of uploaded document is concised to {} words'.format(len(text),len(summary)))
+	st.write("____")
 	st.write(summary)
 
 st.write("____")
