@@ -22,11 +22,12 @@ with st.sidebar:
     # Add a file uploader to allow users to upload their csv file
     st.markdown('<p class="font">Upload One or Two xlsx/xlsm FILES from screener.in </p>',
                 unsafe_allow_html=True)
-    uploaded_file = st.file_uploader("", type=['xlsx', 'xlsm'],accept_multiple_files = True)  # Only accepts xlsx,xlsm file format
+    uploaded_file = st.file_uploader("", type=['xlsx','xlsm'],accept_multiple_files = True)  # Only accepts xlsx,xlsm file format
 
 if uploaded_file is not None:
     if len(uploaded_file)==1:
-        comp_Name = uploaded_file[0].name.split('.')[0]
+        comp_Name = uploaded_file[0].name.split('.xlsx')[0]
+        comp_Name = comp_Name.split('.xlsm')[0]
         book = openpyxl.load_workbook(uploaded_file[0])
         qtr_pnl,df_comp = fundamentals.get_tables(book[fundamentals.tabs[-1]], uploaded_file[0])  # send a sheet(not whole workbook)
         try:

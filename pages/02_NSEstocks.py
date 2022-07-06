@@ -12,7 +12,7 @@ stocks_dict = {}
 for each_pickl in glob.glob('./pickl/*.pkl',recursive=False):
     each_pickl = each_pickl.replace('\\','/')
     file_name_only = each_pickl.split('/')[-1]
-    pickle_name = file_name_only.split('.')[0]
+    pickle_name = file_name_only.split('.pkl')[0]
     stocks_dict[pickle_name] = each_pickl
     listed_stocks += [pickle_name]
 
