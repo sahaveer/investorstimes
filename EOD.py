@@ -22,8 +22,8 @@ st.title("EOD BHAVCOPY")
 # WORKIGN ON DATE FORMATS FROM CSV STRING NAMES
 mnth_dict = {'JAN':'01' , 'FEB':'02' , 'MAR':'03', 'APR':'04', 'MAY':'05', 'JUN':'06', 'JUL':'07', 'AUG':'08', 'SEP':'09', 'OCT':'10', 'NOV':'11', 'DEC':'12'}
 avoid_series = ['GS','IV', 'N1', 'N2', 'N3', 'N4', 'N5', 'N6', 'N7', 'N8', 'N9', 'NA', 'NB', 'NC', 'ND', 'NE', 'NF', 'NG',
-                'NH', 'NI', 'NJ', 'NK', 'NL', 'NM', 'NN', 'NO', 'NP', 'NQ', 'NR','NT', 'NU', 'NV', 'NX', 'NY', 'P2', 'W1',
-                'W3', 'Y1', 'Y2', 'Y3','Y5','Y6', 'Y7','Y8', 'YH', 'YK', 'YL', 'YO', 'YP', 'YR', 'YS', 'YU', 'YV', 'YW', 'YY', 'YZ',
+                'NH', 'NI', 'NJ', 'NK', 'NL', 'NM', 'NN', 'NO', 'NP', 'NQ', 'NR', 'NS', 'NT', 'NU', 'NV', 'NW', 'NX', 'NY', 'P2', 'W1',
+                'W3', 'Y1', 'Y2', 'Y3','Y5','Y6', 'Y7','Y8', 'YA', 'YC', 'YG', 'YH', 'YI','YJ', 'YK', 'YL', 'YN', 'YO', 'YP', 'YR', 'YS', 'YT', 'YU', 'YV', 'YW', 'YY', 'YZ',
                 'Z2', 'Z3', 'Z4', 'Z7', 'Z8', 'ZA', 'ZH', 'ZJ', 'ZK']
 avoid_bse_series = ['F ', 'G ']
 avoid_stocks = ['AURUMPP','AIRTELPP','182D290922','426GS2023','619GS2034','667GS2050','676GS2061','699GS2051','719GS2060',

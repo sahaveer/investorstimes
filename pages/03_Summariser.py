@@ -12,9 +12,14 @@ col1, col2,col3 = st.columns([0.6, 0.2,0.2])
 with col1:
 	pdf_upload = st.file_uploader("upload Concal", type= ['pdf'])
 with col2:
-	avgperc = st.number_input("Higher no., Lesser context",1.00,2.00,1.25,0.05)
+	avgperc = st.number_input("Context Length",1.00,2.00,1.25,0.05)
 with col3 :
-	page_no = st.number_input("start analysing from page",1,3,2,1)
+	page_no = st.number_input("Start from",1,3,2,1)
+with st.expander("Help"):
+	st.write("Upload any Company CONCAL to get a concised report.")
+	st.write("Context Length : The higher this number, the lesser the report. Please do note that, reducing the content also ")
+	st.write("Start from : starts analysing document from this page number")
+	st.write("You have a provision to edit the concised report and then donwload it as a TXT file")
 if pdf_upload is not None:
 	name_file = pdf_upload.name.split('.')[0]
 	with pdfplumber.open(pdf_upload) as pdf:
@@ -25,11 +30,14 @@ if pdf_upload is not None:
 	stopWords = set(stopwords.words("english"))
 	pattern = '(page|Page|PAGE)\s*\d+\s*(of|OF|Of)\s*\d+'
 	date_pattern = r'(January|February|March|April|May|June|July|August|September|October|November|December|january|february|march|april|may|june|july|august|september|october|november|december|JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY|AUGUST|SEPTEMBER|OCTOBER|NOVEMBER|DECEMBER)\s*\d{2}\s*(\,|\s)\s*\d{4}'
-	moderator_pattern = r'(Thank you|Please go ahead|Moderator)'
+	rupee_pattern = r'Rs.'
+	replace_rupee = 'Rs'
+	moderator_pattern = r'(Thank you|Please go ahead.|Moderator)'
 	replace = ''
 	texxt = re.sub(pattern, replace, text)
 	texxt = re.sub(date_pattern, replace, texxt)
 	texxt = re.sub(moderator_pattern,replace, texxt)
+	texxt = re.sub(rupee_pattern,replace_rupee,texxt)
 	texxt = re.sub('\s{2}',' ',texxt)
 	words = word_tokenize(texxt)
 
