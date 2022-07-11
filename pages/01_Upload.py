@@ -45,7 +45,7 @@ if uploaded_file is not None:
         with col1:
             sub_choose = st.selectbox("Fundamentals", fundamentals.funda_menu)
         with col3:
-            color_bar = st.color_picker("Bar", value="#0f7eec")
+            color_bar = st.color_picker("Bar", value="#ECE80F") #"#0f7eec")
 
         if sub_choose == fundamentals.funda_menu[0]:
             with col2:

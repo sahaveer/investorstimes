@@ -31,7 +31,7 @@ if selected :
     with col1:
         sub_choose = st.selectbox("Fundamentals", fundamentals.funda_keys)
     with col3:
-        color_bar = st.color_picker("Bar", value="#0f7eec")
+        color_bar = st.color_picker("Bar", value="#ECE80F") #"#0f7eec")
 
     if sub_choose == fundamentals.funda_keys[0]:
         with col2:
