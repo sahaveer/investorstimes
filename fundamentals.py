@@ -19,7 +19,9 @@ funda_keys = ['PROFIT&LOSS','BALANCE SHEET','CASH FLOW']    # dont change the or
 funda_menu = funda_keys + ['QTR PnL']
 color_hover = "darkgrey"
 color_background = "grey"
-
+#Top 16:9 Resolutions. 640 x 360 (nHD) 854 x 480 (FWVGA) 960 x 540 (qHD) 1024 x 576 (WSVGA) 1280 x 720 (HD/WXGA) 1366 x 768 (FWXGA) 1600 x 900 (HD+) 1920 x 1080 (FHD) 2048 x 1152 (QWXGA) 2560 x 1440 (QHD) 3200 x 1800 (WQXGA+) 3840 x 2160 (UHD) 5120 x 2880 (UHD+) 7680 x 4320 (FUHD) 15360 x 8640 (QUHD) 30720 x 17280 (HHD) 61440 x 34560 (FHHD) 122880 x 69120 (QHHD)
+height_val = 720 #574
+width_val = 1280 #1024
 def generate_excel_download_link(df):
     # Credit Excel: https://discuss.streamlit.io/t/how-to-add-a-download-excel-csv-function-to-a-button/4474/5
     towrite = BytesIO()
@@ -48,17 +50,20 @@ def go_bar(df, row_name,color_bar,comp_Name):
     fig.update_traces(marker_color=color_bar, marker_line_color='rgb(8,48,107)',
                       marker_line_width=1.5, opacity=1, texttemplate='%{text:.3s}', textposition='outside')
     fig.update_layout(autosize=True, paper_bgcolor="#16181A",plot_bgcolor="#23282D",
-                      height=980,width=1080,
-                      margin = dict(l=0,r=0,t=0,b=0,pad=50),
+                      height=height_val,width=width_val,
+                      margin = dict(l=0,r=0,t=0,b=0,pad=10),
                       title={'font':{'color':"yellow"},
                              'text': "<b>" + comp_Name.upper() + "</b> : <i>" + row_name + ' Report <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
-                             'y': 0.98,'x': 0.5,'xanchor': 'center','yanchor': 'bottom'},
-                      xaxis_tickfont_size=14, xaxis_tickangle=-45,
+                             'y': 0.96,'x': 0.5,'xanchor': 'center','yanchor': 'bottom'},
+                      xaxis_tickfont_size=14,
                       xaxis=dict(showgrid=False),
                       yaxis=dict(showgrid=False, title= row_name +' in cr',titlefont_size=16,tickfont_size=1),
                       legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
                       bargap=0.15,font_color = "white")     #legend=dict(x=0,y=1.0,bgcolor='rgba(255, 255, 255, 0)',bordercolor='rgba(255, 255, 255, 0)'),
+    new_df = pd.concat([df.loc[row_name]], axis=1).transpose()
     st.markdown("---")
+    with st.expander(row_name+" DATA"):
+        st.dataframe(new_df.style.format(formatter="{:.1f}"))
     st.plotly_chart(fig,use_container_width=True)
     #fig.write_image("./downloadimages/fig1.png")
     #st.subheader('Downloads:')
@@ -77,17 +82,20 @@ def bar_line(df,row1,row2,color_bar,comp_Name):
                   secondary_y=True)
     # Add figure title
     fig.update_layout(autosize=True, paper_bgcolor="#16181A",plot_bgcolor="#23282D",
-                      height=980,width=1080,
-                      margin = dict(l=0,r=0,t=0,b=0, pad=50),
+                      height=height_val,width=width_val,
+                      margin = dict(l=0,r=0,t=0,b=0, pad=10),
                       title={'font':{'color':"yellow"},'text': "<b>" + comp_Name.upper() + "</b> : <i>" + 'Report <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
-                             'y': 0.98, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
-                      xaxis_tickfont_size=14, xaxis_tickangle=-45,
+                             'y': 0.96, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
+                      xaxis_tickfont_size=14,
                       legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
                       bargap=0.15)  # legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),bargap = 0.15)
     # Set y-axes titles
     fig.update_yaxes(title_text="<b>" + row1 + "</b>", secondary_y=False, showgrid=False)
     fig.update_yaxes(title_text="<b>" + row2 + "</b>", secondary_y=True, showgrid=False)
+    new_df = new_df.transpose()
     st.markdown("---")
+    with st.expander(row1 + "/" + row2 +" DATA"):
+        st.dataframe(new_df.style.format(formatter="{:.1f}"))
     st.plotly_chart(fig, use_container_width=True)
 
 def qoq_growth(df,row_name,color_bar,comp_Name):
@@ -105,17 +113,20 @@ def qoq_growth(df,row_name,color_bar,comp_Name):
                    secondary_y=True)
     # Add figure title
     fig.update_layout(autosize=True, paper_bgcolor="#16181A",plot_bgcolor="#23282D",
-                      height=980, width=1080,
-                      margin=dict(l=0, r=0, t=0, b=0, pad=50),
+                      height=height_val, width=width_val,
+                      margin=dict(l=0, r=0, t=0, b=0, pad=10),
                       title={'font':{'color':"yellow"},'text': "<b>" + comp_Name.upper() + "</b> : <i>" + row_name + ' Report <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
-                              'y': 0.98, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
+                              'y': 0.96, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
                        xaxis_tickfont_size=14,
                        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
                        bargap=0.15)#legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),bargap = 0.15)
     # Set y-axes titles
     fig.update_yaxes(title_text="<b>" + row_name + "</b> in cr ", secondary_y=False,showgrid=False)
     fig.update_yaxes(title_text="<b> QoQ </b> in % ", secondary_y=True,showgrid=False)
+    new_df = pd.concat([df2.loc[row_name],df2.iloc[-1]], axis=1).transpose()
     st.markdown("---")
+    with st.expander(row_name+" DATA"):
+        st.dataframe(new_df.style.format(formatter="{:.1f}"))
     st.plotly_chart(fig,use_container_width=True)
     #st.subheader('Downloads:')
     #generate_excel_download_link(df2)
@@ -129,15 +140,19 @@ def peer_bar(df,Name):   #this has 2 series concatinated with key names
     # Change the bar mode
     fig.update_layout(autosize=True,barmode='group', bargroupgap=0.1,
                       paper_bgcolor="#16181A", plot_bgcolor="#23282D",
-                      height=970, width=970,
-                      margin = dict(l=0,r=0,t=0,b=0, pad=50),
+                      height=height_val, width=width_val,
+                      margin = dict(l=0,r=0,t=0,b=0, pad=10),
                       title={'font':{'color':"yellow"},'text': 'peer <b>' + Name + '</b> <i> Report <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
-                             'y': 0.98, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
+                             'y': 0.96, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
                       xaxis_tickfont_size=14,
                       xaxis=dict(showgrid=False),
                       yaxis=dict(showgrid=False, title='INR (cr)', titlefont_size=16, tickfont_size=14, ),
                       legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),
                       bargap=0.1)   # this barmode = 'group | stack | 'relative''
+    new_df = pd.concat([df[bar_list[0]],df[bar_list[1]]], axis=1).transpose()
+    st.markdown("---")
+    with st.expander(Name + " DATA"):
+        st.dataframe(new_df.style.format(formatter="{:.1f}"))
     st.plotly_chart(fig)
 
 def group_2_bars(df,row1,row2,comp_Name):
@@ -148,18 +163,22 @@ def group_2_bars(df,row1,row2,comp_Name):
                           go.Bar(name=row2, x=new_df.index, y=new_df[row2], textposition='auto', text=new_df.iloc[1], marker={'color': "#EF3A4C"}),
                           ])
     # Change the bar mode
-    fig.update_layout(autosize=True,barmode='group', bargroupgap=0.1,
+    fig.update_layout(autosize=True,barmode='stack', bargroupgap=0.1,
                       paper_bgcolor="#16181A", plot_bgcolor="#23282D",
-                      height=970, width=970,
-                      margin = dict(l=0,r=0,t=0,b=0, pad=50),
+                      height=height_val, width=width_val,
+                      margin = dict(l=0,r=0,t=0,b=0, pad=10),
                       title={'font':{'color':"yellow"},'text': "<b>" + comp_Name.upper() + '</b> <i> Report  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
-                             'y': 0.98, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
+                             'y': 0.96, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
                       xaxis_tickfont_size=14,
                       xaxis=dict(showgrid=False),
                       yaxis=dict(showgrid=False, title='INR (cr)', titlefont_size=16, tickfont_size=14),
                       legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),
                       bargap=0.1)   # this barmode = 'group | stack | 'relative''
     #fig.update_layout(barmode='stack', xaxis={'categoryorder':'category ascending'}) # WHILE USING STACK
+    new_df = new_df.transpose()
+    st.markdown("---")
+    with st.expander(row1 + "/" + row2 +" DATA"):
+        st.dataframe(new_df.style.format(formatter="{:.1f}"))
     st.plotly_chart(fig)
 
 # THIS IS SPECIFICALLY DESIGNED FOR CASHFLOWs, Where fixed 4 rows are there
@@ -173,15 +192,16 @@ def go_group_bar(df, row_name,color_bar):
     # Change the bar mode
     fig.update_layout(autosize=True, barmode='group', bargroupgap=0.1,
                       paper_bgcolor="#16181A", plot_bgcolor="#23282D",
-                      height=980, width=1080,
-                      margin = dict(l=0,r=0,t=0,b=0, pad=50),
+                      height=height_val, width=width_val,
+                      margin = dict(l=0,r=0,t=0,b=0, pad=10),
                       title={'font':{'color':"yellow"},'text': '<b>' + row_name + '</b> <i>Report  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
-                             'y': 0.98, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
-                      xaxis_tickfont_size=14, xaxis_tickangle=-45,
+                             'y': 0.96, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
+                      xaxis_tickfont_size=14,
                       xaxis=dict(showgrid=False),
                       yaxis=dict(showgrid=False, title='INR (cr)', titlefont_size=16, tickfont_size=14, ),
                       legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),)   # this barmode = 'group | stack | 'relative''
     #fig.update_layout(barmode='stack', xaxis={'categoryorder':'category ascending'}) # WHILE USING STACK
+    st.markdown("---")
     st.plotly_chart(fig)
 
 def get_tables(datasht,file):

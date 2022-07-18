@@ -31,14 +31,15 @@ if selected :
     with col1:
         sub_choose = st.selectbox("Fundamentals", fundamentals.funda_keys)
     with col3:
-        color_bar = st.color_picker("Bar", value="#ECE80F") #"#0f7eec")
+        color_bar = st.color_picker("Bar", value="#ECE80F")   #blueshades"#0971C9""ECE80F"   #yellowshades"#f8ba43"
 
     if sub_choose == fundamentals.funda_keys[0]:
         with col2:
             index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
             param = st.selectbox("SubChose", index_list)
         if param == "key_params":
-            st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
+            with st.expander("YEARLY PROFIT & LOSS DATA"):
+                st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
             fundamentals.qoq_growth(df_comp.loc[sub_choose], "SALES", color_bar, comp_Name)
             fundamentals.group_2_bars(df_comp.loc[sub_choose], "PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
         else:
@@ -52,7 +53,8 @@ if selected :
             index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
             param = st.selectbox("SubChose", index_list)
         if param == "key_params":
-            st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
+            with st.expander("YEARLY BALANCE SHEET DATA"):
+                st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
             fundamentals.bar_line(df_comp.loc[sub_choose], "RESERVES", "BORROWINGS", color_bar, comp_Name)
             fundamentals.bar_line(df_comp.loc[sub_choose], "RECEIVABLES", "INVENTORY", color_bar, comp_Name)
             fundamentals.go_bar(df_comp.loc[sub_choose], "CAPITAL WORK IN PROGRESS", color_bar, comp_Name)
@@ -67,7 +69,8 @@ if selected :
             index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
             param = st.selectbox("SubChose", index_list)
         if param == "key_params":
-            st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
+            with st.expander("YEARLY CASH FLOWS DATA"):
+                st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
             fundamentals.go_group_bar(df_comp.loc[sub_choose], "cash_flows", color_bar)
         else:
             if st.checkbox("Sequential_Growth_%"):

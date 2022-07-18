@@ -45,14 +45,15 @@ if uploaded_file is not None:
         with col1:
             sub_choose = st.selectbox("Fundamentals", fundamentals.funda_menu)
         with col3:
-            color_bar = st.color_picker("Bar", value="#ECE80F") #"#0f7eec")
+            color_bar = st.color_picker("Bar", value="#0f7eec")
 
         if sub_choose == fundamentals.funda_menu[0]:
             with col2:
                 index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
                 param = st.selectbox("SubChose", index_list)
             if param == "key_params":
-                st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
+                with st.expander("YEARLY PROFIT & LOSS DATA"):
+                    st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
                 #sns_bar(df_comp.loc[funda_menu[0]], "Sales", color_bar,comp_Name)
                 fundamentals.qoq_growth(df_comp.loc[sub_choose], "SALES", color_bar,comp_Name)
                 fundamentals.group_2_bars(df_comp.loc[sub_choose],"PROFIT BEFORE TAX","NET PROFIT",comp_Name)
@@ -66,7 +67,8 @@ if uploaded_file is not None:
                 index_list = ["key_params"] + list(qtr_pnl.index)
                 param = st.selectbox("SubChose", index_list)
             if param == "key_params":
-                st.dataframe(qtr_pnl.style.format(formatter="{:.1f}"))
+                with st.expander("QUARTERLY PROFIT & LOSS DATA"):
+                    st.dataframe(qtr_pnl.style.format(formatter="{:.1f}"))
                 fundamentals.qoq_growth(qtr_pnl, "SALES", color_bar,comp_Name)
                 fundamentals.group_2_bars(qtr_pnl, "PROFIT BEFORE TAX","NET PROFIT",comp_Name)
                 fundamentals.qoq_growth(qtr_pnl, "PROFIT BEFORE TAX", color_bar,comp_Name)
@@ -82,7 +84,8 @@ if uploaded_file is not None:
                 index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
                 param = st.selectbox("SubChose", index_list)
             if param == "key_params":
-                st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
+                with st.expander("YEARLY BALANCE SHEET DATA"):
+                    st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
                 fundamentals.bar_line(df_comp.loc[sub_choose],"RESERVES","BORROWINGS",color_bar,comp_Name)
                 fundamentals.bar_line(df_comp.loc[sub_choose],"RECEIVABLES","INVENTORY",color_bar,comp_Name)
                 fundamentals.go_bar(df_comp.loc[sub_choose], "CAPITAL WORK IN PROGRESS", color_bar,comp_Name)
@@ -97,7 +100,8 @@ if uploaded_file is not None:
                 index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
                 param = st.selectbox("SubChose", index_list)
             if param == "key_params":
-                st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
+                with st.expander("YEARLY CASH FLOWS DATA"):
+                    st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
                 fundamentals.go_group_bar(df_comp.loc[sub_choose], "cash_flows", color_bar)
             else:
                 if st.checkbox("Sequential_Growth_%"):
@@ -123,7 +127,6 @@ if uploaded_file is not None:
         new_df = [df1.loc[main_menu].loc[sub_menu], df2.loc[main_menu].loc[sub_menu]]
         df_new = pd.concat(new_df, keys=[comp1_Name, comp2_Name], axis=1)
         fundamentals.peer_bar(df_new, sub_menu)
-        st.write(df_new)
     if len(uploaded_file) >= 3:
         st.error("Please, upload only 2 excel files")
 
