@@ -68,6 +68,35 @@ def go_bar(df, row_name,color_bar,comp_Name):
     #st.subheader('Downloads:')
     #generate_html_download_link(fig)
 
+def both_lines(df,row1,row2,color_bar,color_line,comp_Name):
+    dat_rows = [df.loc[row1], df.loc[row2]]
+    new_df = pd.concat(dat_rows, keys=[row1, row2], axis=1)
+    # Create figure with secondary y-axis
+    fig = make_subplots(specs=[[{"secondary_y": True}]])
+    fig.add_trace(go.Scatter(x=new_df.index, y=new_df[row1], name=row1, text=new_df[row1]),secondary_y=False)
+    fig.update_traces(marker_color=color_bar, marker_line_color='rgb(8,48,107)',
+                      marker_line_width=2, opacity=1, texttemplate='%{text:.1s}', textposition='top left')
+    fig.add_trace(go.Line(x=new_df.index, y=new_df[row2], name=row2, text=new_df[row2]),secondary_y=True)
+    # Add figure title
+    fig.update_layout(autosize=True, paper_bgcolor="#16181A",plot_bgcolor="#23282D",
+                      height=height_val,width=width_val,
+                      margin = dict(l=0,r=0,t=0,b=0, pad=10),
+                      title={'font':{'color':"#e25f5b"},'text': "<b>" + comp_Name.upper() + "</b> : <i>" + 'Report <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
+                             'y': 0.96, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
+                      #xaxis_tickfont_size=14,
+                      xaxis=dict(showgrid=False, title=row1 , titlefont_size=16, tickfont_size=1),
+                      yaxis=dict(showgrid=False, title=row2 , titlefont_size=16, tickfont_size=1),
+                      legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+                      bargap=0.15)  # legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),bargap = 0.15)
+    # Set y-axes titles
+    fig.update_yaxes(title_text="<b>" + row1 + "</b>", secondary_y=False, showgrid=False)
+    fig.update_yaxes(title_text="<b>" + row2 + "</b>", secondary_y=True, showgrid=False)
+    st.plotly_chart(fig, use_container_width=True)
+    new_df = new_df.transpose()
+    with st.expander(row1 + "/" + row2 +" DATA"):
+        st.dataframe(new_df.style.format(formatter="{:.1f}"))
+
+
 def bar_line(df,row1,row2,color_bar,comp_Name):
     dat_rows = [df.loc[row1], df.loc[row2]]
     new_df = pd.concat(dat_rows, keys=[row1, row2], axis=1)

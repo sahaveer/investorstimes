@@ -8,6 +8,7 @@ listed_stocks = []
 stocks_dict = {}
 color_dict = {'Yellow_Lite':"#f8ba43",'Yellow_Dark':"#D6D41B",'Blue_Lite':"#0FBAEC",'Blue_Dark':"#0971C9",'Green_Lite':"#11A694",'Green_Dark':"#11A64B","Purple_Lite":"#7019BF",'Purple_Dark':"#9319BF"}
 #color_list = ["#D6D41B","#f8ba43","#0971C9","#1959BF","#11A694","#11A64B","#7019BF","#9319BF"]
+color_line = "Red"
 for each_pickl in glob.glob('./pickl/*.pkl',recursive=False):
     each_pickl = each_pickl.replace('\\','/')
     file_name_only = each_pickl.split('/')[-1]
@@ -57,8 +58,10 @@ if selected :
             with st.expander("YEARLY BALANCE SHEET DATA"):
                 st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
             fundamentals.bar_line(df_comp.loc[sub_choose], "RESERVES", "BORROWINGS", color_dict[color_key], comp_Name)
-            fundamentals.bar_line(df_comp.loc[sub_choose], "RECEIVABLES", "INVENTORY", color_dict[color_key], comp_Name)
-            fundamentals.go_bar(df_comp.loc[sub_choose], "CAPITAL WORK IN PROGRESS", color_dict[color_key], comp_Name)
+            fundamentals.bar_line(df_comp.loc[sub_choose], "DEBTOR DAYS", "INVENTORY TURNOVER", color_dict[color_key], comp_Name)
+            fundamentals.both_lines(df_comp.loc[sub_choose], "ROCE", "ROE", color_dict[color_key], color_line, comp_Name)
+            #fundamentals.bar_line(df_comp.loc[sub_choose], "RECEIVABLES", "INVENTORY", color_dict[color_key], comp_Name)
+            #fundamentals.go_bar(df_comp.loc[sub_choose], "CAPITAL WORK IN PROGRESS", color_dict[color_key], comp_Name)
             fundamentals.go_bar(df_comp.loc[sub_choose], "CASH & BANK", color_dict[color_key], comp_Name)
         else:
             with col2:
