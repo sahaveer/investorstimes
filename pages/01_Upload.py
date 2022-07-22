@@ -22,6 +22,7 @@ with st.sidebar:
                 unsafe_allow_html=True)
     uploaded_file = st.file_uploader("", type=['xlsx','xlsm'],accept_multiple_files = True)  # Only accepts xlsx,xlsm file format
 
+
 if uploaded_file is not None:
     if len(uploaded_file)==1:
         comp_Name = uploaded_file[0].name.split('.xlsx')[0]
