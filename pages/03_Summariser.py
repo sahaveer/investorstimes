@@ -8,22 +8,29 @@ import re
 
 text = ""
 texxt = ""
-col1, col2,col3 = st.columns([0.6, 0.2,0.2])
+
+col1, col2 = st.columns([0.8, 0.2])
 with col1:
 	pdf_upload = st.file_uploader("upload Concal", type= ['pdf'])
 with col2:
 	avgperc = st.number_input("Context Length",1.00,2.00,1.25,0.05)
-with col3 :
-	page_no = st.number_input("Start from",1,3,2,1)
-with st.expander("Help"):
-	st.write("Upload any Company CONCAL to get a concised report.")
-	st.write("Context Length : The higher this number, the lesser the report. Please do note that, reducing the content also ")
-	st.write("Start from : starts analysing document from this page number")
-	st.write("You have a provision to edit the concised report and then donwload it as a TXT file")
+
 if pdf_upload is not None:
 	name_file = pdf_upload.name.split('.')[0]
+	col3, col4, col5 = st.columns([0.1,0.1,0.8])
 	with pdfplumber.open(pdf_upload) as pdf:
-		for page in pdf.pages[page_no:] :
+		with col3:
+			start_from_pageno = st.number_input("Start from", 1, len(pdf.pages), 2, 1)
+		with col4 :
+			till_page_no = st.number_input("Till page",2,len(pdf.pages),len(pdf.pages),1)
+		with col5:
+			with st.expander("Help"):
+				st.write("Upload any Company CONCAL to get a concised report.")
+				st.write(
+					"Context Length : if 1, then you get the actual report. But increasing this number, summarises the report. The higher this number, the lesser the report. Please do note that, it reduces the content also ")
+				st.write("Start from : starts analysing document from this page number")
+				st.write("You have a provision to edit the concized report and then download it as a TXT file")
+		for page in pdf.pages[start_from_pageno:till_page_no] :
 			text += page.extract_text()
 
 	# Tokenizing the text
@@ -32,7 +39,7 @@ if pdf_upload is not None:
 	date_pattern = r'(January|February|March|April|May|June|July|August|September|October|November|December|january|february|march|april|may|june|july|august|september|october|november|december|JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY|AUGUST|SEPTEMBER|OCTOBER|NOVEMBER|DECEMBER)\s*\d{2}\s*(\,|\s)\s*\d{4}'
 	rupee_pattern = r'Rs.'
 	replace_rupee = 'Rs'
-	moderator_pattern = r'(Thank you|Please go ahead.|Moderator)'
+	moderator_pattern = r'(Thank you|Please go ahead.|Moderator | Thank you very much.)'
 	replace = ''
 	texxt = re.sub(pattern, replace, text)
 	texxt = re.sub(date_pattern, replace, texxt)
@@ -74,8 +81,13 @@ if pdf_upload is not None:
 	summary = ''
 	for sentence in sentences:
 		if (sentence in sentenceValue) and (sentenceValue[sentence] > (avgperc * average)):
-			summary += " " + sentence
+			summary += "\n" + sentence
 	st.write("____")
+	del_further = st.text_input("Delete any particular word/s")
+	if del_further is not None:
+		del_these = del_further.split(',')
+		for each in del_these:
+			summary = re.sub(each,replace, summary)
 	edited_txt = st.text_area("Edit further and generate ur own file",value=summary,height=500)
 	st.info('the {} words of uploaded document is concised to {} words'.format(len(text),len(edited_txt)))
 	st.download_button(label = "Download as txt",data= edited_txt,file_name=name_file+'.txt')
