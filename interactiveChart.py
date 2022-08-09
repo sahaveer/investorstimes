@@ -1,51 +1,100 @@
 import streamlit as st
-from PIL import Image
+import glob
+import pandas as pd
+import fundamentals
 
-logo = Image.open(r'./image/logo.png')
+
 st.set_page_config(page_title="iTimesAlgo",page_icon=":bar_chart:",layout="wide")
-
 def main():
     funda_keys = ['PROFIT&LOSS', 'BALANCE SHEET','CASH FLOW']  # dont change the order of this list as it will affect the keys used in Yearly df
-    #st.title('iTimes')
-    html_temp = """
-    <div style="background-color:darkgrey;padding:14px>
-    <h2 style="color: #FF9633;text-align:centre;">iTimesAlgo</h2>
-    </div>
-    st.markdown(html_temp, unsafe_allow_html=True)
-    """
-    st.markdown(""" <style> .font1 {
-                font-size:50px ; font-family: 'Copper Black'; color: seablue;} 
-                </style> """, unsafe_allow_html=True)
-    st.markdown('<p class="font1">iTimesAlgo</p>', unsafe_allow_html=True)
+    # **************************************************************************************************
+    listed_stocks = []
+    stocks_dict = {}
+    color_dict = {'Yellow_Lite': "#f8ba43", 'Yellow_Dark': "#D6D41B", 'Blue_Lite': "#0FBAEC", 'Blue_Dark': "#0971C9",
+                  'Green_Lite': "#11A694", 'Green_Dark': "#11A64B", "Purple_Lite": "#7019BF", 'Purple_Dark': "#9319BF"}
+    # color_list = ["#D6D41B","#f8ba43","#0971C9","#1959BF","#11A694","#11A64B","#7019BF","#9319BF"]
+    color_line = "Red"
+    for each_pickl in glob.glob('./pickl/*.pkl', recursive=False):
+        each_pickl = each_pickl.replace('\\', '/')
+        file_name_only = each_pickl.split('/')[-1]
+        pickle_name = file_name_only.split('.pkl')[0]
+        stocks_dict[pickle_name] = each_pickl
+        listed_stocks += [pickle_name]
 
-    #col1, col2 = st.columns([0.8, 0.2])
-    #with col1:
-        #st.markdown('<p class="font1">iTimesAlgo</p>', unsafe_allow_html=True)
-    #with col2:  # To display brand log
-        #st.image(logo, width=80)
+    with st.sidebar:
+        st.write(r"we have got now {} listed stocks data available".format(str(len(listed_stocks))))
+        selected = st.selectbox("NSE Listed", listed_stocks)
 
-    st.markdown(""" <style> .font {
-    font-size:22px ; font-family: 'Cooper Black'; color: #FF9633;} 
-    </style> """, unsafe_allow_html=True)
+    if selected:
+        col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
+        with col1:
+            st.subheader('📈 ' + selected)
+        with col3:
+            color_key = st.selectbox("Bar Color", color_dict.keys())
+            # color_bar = st.color_picker("Bar Color",value="#ECE80F")  # blueshades"#0971C9""ECE80F"   #yellowshades"#f8ba43"
+        st.write("____")
+        df_comp = pd.read_pickle(stocks_dict[selected])
+        try:
+            df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
+        except Exception as AttributeError:
+            pass
+        comp_Name = str(selected)
+        sub_choose = st.sidebar.selectbox("Fundamentals", fundamentals.funda_keys)
+        if sub_choose == fundamentals.funda_keys[0]:
+            index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
+            param = st.sidebar.selectbox("Params", index_list)
+            if param == "key_params":
+                with st.expander("YEARLY PROFIT & LOSS DATA"):
+                    st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
+                fundamentals.qoq_growth(df_comp.loc[sub_choose], "SALES", color_dict[color_key], comp_Name)
+                fundamentals.group_2_bars(df_comp.loc[sub_choose], "PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
+            else:
+                with col2:
+                    qoq_checked = st.checkbox("Sequential_Growth_%")
+                if qoq_checked:
+                    fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+                else:
+                    fundamentals.go_bar(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
 
-    st.markdown('<p class="font">About the Creator</p>', unsafe_allow_html=True)
-    st.markdown("---")
-    st.write("We @iTimes are trying to create basic DIY fundamental analysis. \n\n We shall try bringing you here bse announcements and amibroker eod data here")
+        if sub_choose == fundamentals.funda_keys[1]:
+            index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
+            param = st.sidebar.selectbox("Params", index_list)
+            if param == "key_params":
+                with st.expander("YEARLY BALANCE SHEET DATA"):
+                    st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
+                fundamentals.bar_line(df_comp.loc[sub_choose], "RESERVES", "BORROWINGS", color_dict[color_key],
+                                      comp_Name)
+                fundamentals.bar_line(df_comp.loc[sub_choose], "DEBTOR DAYS", "INVENTORY TURNOVER",
+                                      color_dict[color_key], comp_Name)
+                fundamentals.both_lines(df_comp.loc[sub_choose], "ROCE", "ROE", color_dict[color_key], color_line,
+                                        comp_Name)
+                # fundamentals.bar_line(df_comp.loc[sub_choose], "RECEIVABLES", "INVENTORY", color_dict[color_key], comp_Name)
+                # fundamentals.go_bar(df_comp.loc[sub_choose], "CAPITAL WORK IN PROGRESS", color_dict[color_key], comp_Name)
+                fundamentals.go_bar(df_comp.loc[sub_choose], "CASH & BANK", color_dict[color_key], comp_Name)
+            else:
+                with col2:
+                    qoq_checked = st.checkbox("Sequential_Growth_%")
+                if qoq_checked:
+                    fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+                else:
+                    fundamentals.go_bar(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+        if sub_choose == fundamentals.funda_keys[2]:
+            index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
+            param = st.sidebar.selectbox("SubChose", index_list)
+            if param == "key_params":
+                with st.expander("YEARLY CASH FLOWS DATA"):
+                    st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
+                fundamentals.go_group_bar(df_comp.loc[sub_choose], "cash_flows", color_dict[color_key])
+            else:
+                with col2:
+                    qoq_checked = st.checkbox("Sequential_Growth_%")
+                if qoq_checked:
+                    fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+                else:
+                    fundamentals.go_bar(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
 
-    st.markdown(""" <style> .font {font-size:36px ; font-family: 'Cooper Black'; color: #FF9633;} </style> """,
-                unsafe_allow_html=True)
-
-    col1, col2 = st.columns([0.8, 0.2])
-    with col1:  # To display the header text using css style
-        st.markdown('<p class="font">Contact us through</p>', unsafe_allow_html=True)
-        st.markdown("[telegram](https://t.me/itimesalgo/)")
-        st.markdown("[Twitter](https://twitter.com/itimesalgo)")
-        # st.markdown('<p class="font">Contact us through [telegram](https://t.me/itimesalgo/). </p>', unsafe_allow_html=True)
-
-    with col2:  # To display brand log
-        st.image(logo, width=130)
-
-    st.write("We sincerely appreciates your suggestions and contribution to improvise our iTimes community.")
+    st.write("____")
+    st.write('made with :green_heart: to Indian Stock Investors')
 
 
 if __name__ == '__main__':
