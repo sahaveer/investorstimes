@@ -2,9 +2,10 @@ import streamlit as st
 import glob
 import pandas as pd
 import fundamentals
+from streamlit_option_menu import option_menu
+import streamlit.components.v1 as components
+st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)
 
-
-#st.set_page_config(page_title="iTimesAlgo",page_icon=":bar_chart:",layout="wide")
 def main():
     funda_keys = ['PROFIT&LOSS', 'BALANCE SHEET','CASH FLOW']  # dont change the order of this list as it will affect the keys used in Yearly df
     # **************************************************************************************************
@@ -26,76 +27,153 @@ def main():
         selected = st.selectbox("NSE Listed", listed_stocks)
 
     if selected:
-        col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
-        with col1:
-            st.subheader('📈 ' + selected)
-        with col3:
-            color_key = st.selectbox("Bar Color", color_dict.keys())
-            # color_bar = st.color_picker("Bar Color",value="#ECE80F")  # blueshades"#0971C9""ECE80F"   #yellowshades"#f8ba43"
-        st.write("____")
-        df_comp = pd.read_pickle(stocks_dict[selected])
-        try:
-            df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
-        except Exception as AttributeError:
-            pass
-        comp_Name = str(selected)
-        sub_choose = st.sidebar.selectbox("Fundamentals", fundamentals.funda_keys)
-        if sub_choose == fundamentals.funda_keys[0]:
-            index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
-            param = st.sidebar.selectbox("Params", index_list)
-            if param == "key_params":
-                with st.expander("YEARLY PROFIT & LOSS DATA"):
-                    st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
-                fundamentals.qoq_growth(df_comp.loc[sub_choose], "SALES", color_dict[color_key], comp_Name)
-                fundamentals.group_2_bars(df_comp.loc[sub_choose], "PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
-            else:
-                with col2:
-                    qoq_checked = st.checkbox("Sequential_Growth_%")
-                if qoq_checked:
-                    fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+        funda_tech = option_menu("", ["Funda_Chart", 'Tech_Chart'],
+                               icons=['house', '📈 '], menu_icon="cast",default_index=0,orientation="horizontal")
+        if funda_tech == "Funda_Chart":
+            col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
+            with col1:
+                st.subheader('📈 ' + selected)
+            with col3:
+                color_key = st.selectbox("Bar Color", color_dict.keys())
+                # color_bar = st.color_picker("Bar Color",value="#ECE80F")  # blueshades"#0971C9""ECE80F"   #yellowshades"#f8ba43"
+            st.write("____")
+            df_comp = pd.read_pickle(stocks_dict[selected])
+            try:
+                df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
+            except Exception as AttributeError:
+                pass
+            comp_Name = str(selected)
+            sub_choose = st.sidebar.selectbox("Fundamentals", fundamentals.funda_keys)
+            if sub_choose == fundamentals.funda_keys[0]:
+                index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
+                param = st.sidebar.selectbox("Params", index_list)
+                if param == "key_params":
+                    with st.expander("YEARLY PROFIT & LOSS DATA"):
+                        st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
+                    fundamentals.qoq_growth(df_comp.loc[sub_choose], "SALES", color_dict[color_key], comp_Name)
+                    fundamentals.group_2_bars(df_comp.loc[sub_choose], "PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
                 else:
-                    fundamentals.go_bar(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+                    with col2:
+                        qoq_checked = st.checkbox("Sequential_Growth_%")
+                    if qoq_checked:
+                        fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+                    else:
+                        fundamentals.go_bar(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
 
-        if sub_choose == fundamentals.funda_keys[1]:
-            index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
-            param = st.sidebar.selectbox("Params", index_list)
-            if param == "key_params":
-                with st.expander("YEARLY BALANCE SHEET DATA"):
-                    st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
-                fundamentals.bar_line(df_comp.loc[sub_choose], "RESERVES", "BORROWINGS", color_dict[color_key],
-                                      comp_Name)
-                fundamentals.bar_line(df_comp.loc[sub_choose], "DEBTOR DAYS", "INVENTORY TURNOVER",
-                                      color_dict[color_key], comp_Name)
-                fundamentals.both_lines(df_comp.loc[sub_choose], "ROCE", "ROE", color_dict[color_key], color_line,
-                                        comp_Name)
-                # fundamentals.bar_line(df_comp.loc[sub_choose], "RECEIVABLES", "INVENTORY", color_dict[color_key], comp_Name)
-                # fundamentals.go_bar(df_comp.loc[sub_choose], "CAPITAL WORK IN PROGRESS", color_dict[color_key], comp_Name)
-                fundamentals.go_bar(df_comp.loc[sub_choose], "CASH & BANK", color_dict[color_key], comp_Name)
-            else:
-                with col2:
-                    qoq_checked = st.checkbox("Sequential_Growth_%")
-                if qoq_checked:
-                    fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+            if sub_choose == fundamentals.funda_keys[1]:
+                index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
+                param = st.sidebar.selectbox("Params", index_list)
+                if param == "key_params":
+                    with st.expander("YEARLY BALANCE SHEET DATA"):
+                        st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
+                    fundamentals.bar_line(df_comp.loc[sub_choose], "RESERVES", "BORROWINGS", color_dict[color_key],
+                                          comp_Name)
+                    fundamentals.bar_line(df_comp.loc[sub_choose], "DEBTOR DAYS", "INVENTORY TURNOVER",
+                                          color_dict[color_key], comp_Name)
+                    fundamentals.both_lines(df_comp.loc[sub_choose], "ROCE", "ROE", color_dict[color_key], color_line,
+                                            comp_Name)
+                    # fundamentals.bar_line(df_comp.loc[sub_choose], "RECEIVABLES", "INVENTORY", color_dict[color_key], comp_Name)
+                    # fundamentals.go_bar(df_comp.loc[sub_choose], "CAPITAL WORK IN PROGRESS", color_dict[color_key], comp_Name)
+                    fundamentals.go_bar(df_comp.loc[sub_choose], "CASH & BANK", color_dict[color_key], comp_Name)
                 else:
-                    fundamentals.go_bar(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
-        if sub_choose == fundamentals.funda_keys[2]:
-            index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
-            param = st.sidebar.selectbox("SubChose", index_list)
-            if param == "key_params":
-                with st.expander("YEARLY CASH FLOWS DATA"):
-                    st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
-                fundamentals.go_group_bar(df_comp.loc[sub_choose], "cash_flows", color_dict[color_key])
-            else:
-                with col2:
-                    qoq_checked = st.checkbox("Sequential_Growth_%")
-                if qoq_checked:
-                    fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+                    with col2:
+                        qoq_checked = st.checkbox("Sequential_Growth_%")
+                    if qoq_checked:
+                        fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+                    else:
+                        fundamentals.go_bar(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+            if sub_choose == fundamentals.funda_keys[2]:
+                index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
+                param = st.sidebar.selectbox("SubChose", index_list)
+                if param == "key_params":
+                    with st.expander("YEARLY CASH FLOWS DATA"):
+                        st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
+                    fundamentals.go_group_bar(df_comp.loc[sub_choose], "cash_flows", color_dict[color_key])
                 else:
-                    fundamentals.go_bar(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+                    with col2:
+                        qoq_checked = st.checkbox("Sequential_Growth_%")
+                    if qoq_checked:
+                        fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+                    else:
+                        fundamentals.go_bar(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+        if funda_tech == "Tech_Chart":
+            tech_analytics_widget = """<!-- TradingView Widget BEGIN -->
+            <div class="tradingview-widget-container">
+              <div id="analytics-platform-chart-demo"></div>
+              <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Chart</span></a> by TradingView</div>
+              <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+              <script type="text/javascript">
+              new TradingView.widget(
+              {
+              "container_id": "analytics-platform-chart-demo",
+              "width": "100%",
+              "height": "680",
+              "symbol": "ADANIPORTS",
+              "interval": "W",
+              "timezone": "exchange",
+              "theme": "dark",
+              "style": "0",
+              "toolbar_bg": "#f1f3f6",
+              "withdateranges": true,
+              "allow_symbol_change": true,
+              "save_image": false,
+              "details": true,
+              "hotlist": true,
+              "calendar": true,
+              "studies": [
+                "RSI@tv-basicstudies",
+                "MASimple@tv-basicstudies",
+                "MASimple@tv-basicstudies"
+              ],
+              "show_popup_button": true,
+              "popup_width": "1000",
+              "popup_height": "650",
+              "locale": "en"
+            }
+              );
+              </script>
+            </div>
+            <!-- TradingView Widget END -->"""
+            components.html(tech_analytics_widget,height=1080)
+            tech_chart_widget = """<!-- TradingView Widget BEGIN -->
+            <div class="tradingview-widget-container">
+              <div id="technical-analysis-chart-demo"></div>
+              <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Chart</span></a> by TradingView</div>
+              <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+              <script type="text/javascript">
+              new TradingView.widget(
+              {
+              "container_id": "technical-analysis-chart-demo",
+              "width": "100%",
+              "height": "680",
+              "symbol": "nifty",
+              "interval": "D",
+              "timezone": "exchange",
+              "theme": "dark",
+              "style": "1",
+              "toolbar_bg": "#f1f3f6",
+              "withdateranges": true,
+              "hide_side_toolbar": false,
+              "allow_symbol_change": true,
+              "save_image": false,
+              "studies": [
+                "RSI@tv-basicstudies",
+                "MASimple@tv-basicstudies",
+                "MASimple@tv-basicstudies"
+              ],
+              "show_popup_button": true,
+              "popup_width": "1000",
+              "popup_height": "650",
+              "locale": "en"
+            }
+              );
+              </script>
+            </div>
+            <!-- TradingView Widget END -->"""
+            #components.html(tech_chart_widget, height=1080)
 
     st.write("____")
     st.write('made with :green_heart: to Indian Stock Investors')
-
 
 if __name__ == '__main__':
     main()

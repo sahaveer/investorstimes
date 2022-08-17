@@ -329,6 +329,7 @@ def eod_existing_files(path_bhav,path_csv):
 def download_all_data(driver,indexlink, bselink, nselink,path_bhav,path_csv,path_download):
     # DOWNLOAD INDEX FILE and MOVE TO BHAVCOPY LOCATION
     try:
+
         index_d = driver.get(indexlink)
         sleep(2)
         last_created_file = max(glob.glob(path_download + '*.csv'), key=os.path.getctime)
@@ -336,6 +337,7 @@ def download_all_data(driver,indexlink, bselink, nselink,path_bhav,path_csv,path
     except:
         st.warning('unable to download Index file')
     # DOWNLOAD BSE FILE and MOVE TO BHAVCOPY LOCATION
+
     try:
         bse_d = driver.get(bselink)
         # bse_zip = ZipFile(BytesIO(bse_d.content))

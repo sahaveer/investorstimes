@@ -52,7 +52,7 @@ def go_bar(df, row_name,color_bar,comp_Name):
     fig.update_layout(autosize=True, paper_bgcolor="#16181A",plot_bgcolor="#23282D",
                       height=height_val,width=width_val,
                       margin = dict(l=0,r=0,t=0,b=0,pad=10),
-                      title={'font':{'color':"#e25f5b"},
+                      title={'font':{'family':'', 'color':"#e25f5b"},
                              'text': "<b>" + comp_Name.upper() + "</b> : <i>" + row_name + ' Report <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
                              'y': 0.96,'x': 0.5,'xanchor': 'center','yanchor': 'bottom'},
                       xaxis_tickfont_size=14,
