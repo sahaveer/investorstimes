@@ -58,6 +58,7 @@ with col1:
 if selected:
     funda_tech = option_menu("", ["Funda_Chart", 'Tech_Chart'],
                              icons=['house', '📈 '], menu_icon="cast", default_index=0, orientation="horizontal")
+    comp_Name = str(selected)
     if funda_tech == "Funda_Chart":
         screener_address = "https://www.screener.in/company/" + str(selected)
         with col4:
@@ -70,12 +71,10 @@ if selected:
             df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
         except Exception as AttributeError:
             pass
-        comp_Name = str(selected)
         sub_choose = option_menu("", fundamentals.funda_keys,default_index=0,orientation="horizontal")
         #sub_choose = st.sidebar.selectbox("Fundamentals", fundamentals.funda_keys,index=0)
         if sub_choose == fundamentals.funda_keys[3]:
-            st.subheader("THIS IS STILL IN PROGRESS")
-            key_data = """<!-- TradingView Widget BEGIN -->
+            key_data = str("""<!-- TradingView Widget BEGIN -->
                             <div class="tradingview-widget-container">
                               <div class="tradingview-widget-container__widget"></div>
                               <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/financials-overview/" rel="noopener" target="_blank"><span class="blue-text">Fundamental Data</span></a> by TradingView</div>
@@ -87,13 +86,15 @@ if selected:
                               "displayMode": "regular",
                               "width": "100%",
                               "height": 880,
-                              "symbol": "balamines",
+                              "symbol": "xx",
                               "locale": "en"
-                            }
+                              }
                               </script>
                             </div>
-                            <!-- TradingView Widget END -->"""
-            comp_profile = """<!-- TradingView Widget BEGIN -->
+                            <!-- TradingView Widget END -->
+                        """)
+            comp_profile = str("""
+                            <!-- TradingView Widget BEGIN -->
                             <div class="tradingview-widget-container">
                               <div class="tradingview-widget-container__widget"></div>
                               <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text"> Profile</span></a> by TradingView</div>
@@ -103,17 +104,18 @@ if selected:
                               "height": 880,
                               "colorTheme": "dark",
                               "isTransparent": false,
-                              "symbol": "BALAMINES",
+                              "symbol": "xxyy",
                               "locale": "en"
                             }
                               </script>
                             </div>
-                            <!-- TradingView Widget END -->"""
+                            <!-- TradingView Widget END -->
+                            """)
             colx,coly = st.columns([1.5,1])
             with colx:
-                components.html(key_data, height=1080)
+                components.html(key_data.replace("xx",comp_Name), height=1080)
             with coly:
-                components.html(comp_profile, height=1080)
+                components.html(comp_profile.replace("xxyy",comp_Name), height=1080)
 
         if sub_choose == fundamentals.funda_keys[0]:
             index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
@@ -171,42 +173,42 @@ if selected:
                 else:
                     fundamentals.go_bar(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
     if funda_tech == "Tech_Chart":
-        st.subheader("TECH CHART IS STILL IN PROGRESS")
-        tech_analytics_widget = """<!-- TradingView Widget BEGIN -->
-        <div class="tradingview-widget-container">
-          <div id="analytics-platform-chart-demo"></div>
-          <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Chart</span></a> by TradingView</div>
-          <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
-          <script type="text/javascript">
-          new TradingView.widget(
-          {
-          "container_id": "analytics-platform-chart-demo",
-          "width": "100%","height": "680",
-          "symbol": "ADANIPORTS",
-          "interval": "W",
-          "timezone": "exchange",
-          "theme": "dark",
-          "style": "0",
-          "toolbar_bg": "#f1f3f6",
-          "withdateranges": true,
-          "allow_symbol_change": true,
-          "save_image": false,
-          "details": true,"hotlist": true,"calendar": true,
-          "studies": [
-            "RSI@tv-basicstudies",
-            "MASimple@tv-basicstudies",
-            "MASimple@tv-basicstudies"
-          ],
-          "show_popup_button": true,
-          "popup_width": "1000",
-          "popup_height": "650",
-          "locale": "en"
-        }
-          );
-          </script>
-        </div>
-        <!-- TradingView Widget END -->"""
-        components.html(tech_analytics_widget, height=1080)
+        tech_widget = str("""<!-- TradingView Widget BEGIN -->
+            <div class="tradingview-widget-container">
+              <div id="analytics-platform-chart-demo"></div>
+              <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Chart</span></a> by TradingView</div>
+              <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+              <script type="text/javascript">
+              new TradingView.widget(
+              {
+              "container_id": "analytics-platform-chart-demo",
+              "width": "100%","height": "680",
+              "symbol": "xxyyzz",
+              "interval": "W",
+              "timezone": "exchange",
+              "theme": "dark",
+              "style": "0",
+              "toolbar_bg": "#f1f3f6",
+              "withdateranges": true,
+              "allow_symbol_change": true,
+              "save_image": false,
+              "details": true,"hotlist": true,"calendar": true,
+              "studies": [
+                "RSI@tv-basicstudies",
+                "MASimple@tv-basicstudies",
+                "MASimple@tv-basicstudies"
+              ],
+              "show_popup_button": true,
+              "popup_width": "1000",
+              "popup_height": "650",
+              "locale": "en"
+            }
+              );
+              </script>
+            </div>
+            <!-- TradingView Widget END -->""")
+        tech1_widget = tech_widget.replace("xxyyzz",comp_Name)
+        components.html(tech1_widget, height = 1080)
         tech_chart_widget = """<!-- TradingView Widget BEGIN -->
         <div class="tradingview-widget-container">
           <div id="technical-analysis-chart-demo"></div>
