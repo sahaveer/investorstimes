@@ -15,7 +15,7 @@ table = ['PROFIT & LOSS', 'Quarters', 'BALANCE SHEET' ]
 # lets define the first and last table keys to extract the exact table size
 DataSheet_Key_Values = ['PROFIT & LOSS', 'Dividend Amount', 'Quarters', 'Operating Profit', 'BALANCE SHEET', 'Cash & Bank',
                         'CASH FLOW:', 'Net Cash Flow']
-funda_keys = ['PROFIT&LOSS','BALANCE SHEET','CASH FLOW','KEY_DATA']    # dont change the order of this list as it will affect the keys used in Yearly df
+funda_keys = ['PROFIT&LOSS','BALANCE SHT','CASH FLOW','KEY_DATA']    # dont change the order of this list as it will affect the keys used in Yearly df
 funda_menu = funda_keys + ['QTR PnL']
 color_hover = "darkgrey"
 color_background = "grey"

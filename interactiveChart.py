@@ -71,7 +71,7 @@ if selected:
             df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
         except Exception as AttributeError:
             pass
-        sub_choose = option_menu("", fundamentals.funda_keys,default_index=0,orientation="horizontal")
+        sub_choose = option_menu("", fundamentals.funda_keys,default_index=3,orientation="horizontal")
         #sub_choose = st.sidebar.selectbox("Fundamentals", fundamentals.funda_keys,index=0)
         if sub_choose == fundamentals.funda_keys[3]:
             key_data = str("""<!-- TradingView Widget BEGIN -->
@@ -173,6 +173,9 @@ if selected:
                 else:
                     fundamentals.go_bar(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
     if funda_tech == "Tech_Chart":
+        with st.expander("IF ERROR / FETCHING APPLE STOCK"):
+            st.write("We are having issues in generating Tech Charts for BSE Codes and some of the NSE codes as well.")
+            st.write("Appreciate using our site. Will fix this asap")
         tech_widget = str("""<!-- TradingView Widget BEGIN -->
             <div class="tradingview-widget-container">
               <div id="analytics-platform-chart-demo"></div>
@@ -194,9 +197,9 @@ if selected:
               "save_image": false,
               "details": true,"hotlist": true,"calendar": true,
               "studies": [
-                "RSI@tv-basicstudies",
-                "MASimple@tv-basicstudies",
-                "MASimple@tv-basicstudies"
+                {id:"RSI@tv-basicstudies"},
+                {id:"MASimple@tv-basicstudies", inputs: {length:21}},
+                {id:"MASimple@tv-basicstudies", inputs: {length:55}}
               ],
               "show_popup_button": true,
               "popup_width": "1000",
@@ -208,7 +211,7 @@ if selected:
             </div>
             <!-- TradingView Widget END -->""")
         tech1_widget = tech_widget.replace("xxyyzz",comp_Name)
-        components.html(tech1_widget, height = 1080)
+        components.html(tech1_widget.replace("xxyyzz",comp_Name), height = 1080)
         tech_chart_widget = """<!-- TradingView Widget BEGIN -->
         <div class="tradingview-widget-container">
           <div id="technical-analysis-chart-demo"></div>
