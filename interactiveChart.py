@@ -4,8 +4,12 @@ import pandas as pd
 import fundamentals
 from streamlit_option_menu import option_menu
 import streamlit.components.v1 as components
+import json
+from streamlit_lottie import st_lottie
+from streamlit_lottie import st_lottie_spinner
 
 st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)
+# PARAMS
 funda_keys = ['PROFIT&LOSS', 'BALANCE SHEET',
               'CASH FLOW']  # dont change the order of this list as it will affect the keys used in Yearly df
 # **************************************************************************************************
@@ -15,6 +19,19 @@ color_dict = {'Yellow_Lite': "#f8ba43", 'Yellow_Dark': "#D6D41B", 'Blue_Lite': "
               'Green_Lite': "#11A694", 'Green_Dark': "#11A64B", "Purple_Lite": "#7019BF", 'Purple_Dark': "#9319BF"}
 # color_list = ["#D6D41B","#f8ba43","#0971C9","#1959BF","#11A694","#11A64B","#7019BF","#9319BF"]
 color_line = "Red"
+
+def load_lottiefile(filepath: str):
+    with open(filepath, "r") as f:
+        return json.load(f)
+def load_lottieurl(url: str):
+    r = requests.get(url)
+    if r.status_code != 200:
+        return None
+    return r.json()
+lottie_bar = load_lottiefile("./lottie/barchart.json")  # replace link to local lottie file
+lottie_data_analysis = load_lottiefile("./lottie/data-analysis.json")
+
+#lottie_hello = load_lottieurl("https://assets9.lottiefiles.com/packages/lf20_M9p23l.json")
 for each_pickl in glob.glob('./pickl/*.pkl', recursive=False):
     each_pickl = each_pickl.replace('\\', '/')
     file_name_only = each_pickl.split('/')[-1]
@@ -23,30 +40,39 @@ for each_pickl in glob.glob('./pickl/*.pkl', recursive=False):
     listed_stocks += [pickle_name]
 
 with st.sidebar:
-    st.write(r"we have got now {} listed stocks data available".format(str(len(listed_stocks))))
-    selected = st.selectbox("NSE Listed", listed_stocks)
+    st_lottie(
+        lottie_data_analysis,
+        speed=0.7,
+        reverse=False,
+        loop=True,
+        quality="low",  # medium ; high
+        height=None,
+        width=None,
+        key="barchart",)
+    st.write(r"Chose among {} listed stocks available".format(str(len(listed_stocks))))
+    #selected = st.selectbox("Chose Company", listed_stocks)
 
+col1, col2, col3, col4 = st.columns([2, 2, 2, 1])
+with col1:
+    selected = st.selectbox("Chose Company 📈 ", listed_stocks)
 if selected:
     funda_tech = option_menu("", ["Funda_Chart", 'Tech_Chart'],
                              icons=['house', '📈 '], menu_icon="cast", default_index=0, orientation="horizontal")
     if funda_tech == "Funda_Chart":
         screener_address = "https://www.screener.in/company/" + str(selected)
-        st.markdown(f"[***SCREENER***]({screener_address})", unsafe_allow_html=True)
-        col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
-        with col1:
-            st.subheader('📈 ' + selected)
+        with col4:
+            st.markdown(f"[***SCREENER***]({screener_address})", unsafe_allow_html=True)
         with col3:
             color_key = st.selectbox("Bar Color", color_dict.keys())
             # color_bar = st.color_picker("Bar Color",value="#ECE80F")  # blueshades"#0971C9""ECE80F"   #yellowshades"#f8ba43"
-        st.write("____")
         df_comp = pd.read_pickle(stocks_dict[selected])
         try:
             df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
         except Exception as AttributeError:
             pass
         comp_Name = str(selected)
-        st.info(comp_Name)
-        sub_choose = st.sidebar.selectbox("Fundamentals", fundamentals.funda_keys,index=0)
+        sub_choose = option_menu("", fundamentals.funda_keys,default_index=0,orientation="horizontal")
+        #sub_choose = st.sidebar.selectbox("Fundamentals", fundamentals.funda_keys,index=0)
         if sub_choose == fundamentals.funda_keys[3]:
             st.subheader("THIS IS STILL IN PROGRESS")
             key_data = """<!-- TradingView Widget BEGIN -->
@@ -83,23 +109,23 @@ if selected:
                               </script>
                             </div>
                             <!-- TradingView Widget END -->"""
-            col1,col2 = st.columns([0.7,0.3])
-            with col1:
+            colx,coly = st.columns([1.5,1])
+            with colx:
                 components.html(key_data, height=1080)
-            with col2:
+            with coly:
                 components.html(comp_profile, height=1080)
 
         if sub_choose == fundamentals.funda_keys[0]:
             index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
-            param = st.sidebar.selectbox("Params", index_list)
+            with col2:
+                param = st.selectbox("Params", index_list)
             if param == "key_params":
                 with st.expander("YEARLY PROFIT & LOSS DATA"):
                     st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
                 fundamentals.qoq_growth(df_comp.loc[sub_choose], "SALES", color_dict[color_key], comp_Name)
                 fundamentals.group_2_bars(df_comp.loc[sub_choose], "PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
             else:
-                with col2:
-                    qoq_checked = st.checkbox("Sequential_Growth_%")
+                qoq_checked = st.checkbox("Sequential_Growth_%")
                 if qoq_checked:
                     fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
                 else:
@@ -107,7 +133,9 @@ if selected:
 
         if sub_choose == fundamentals.funda_keys[1]:
             index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
-            param = st.sidebar.selectbox("Params", index_list)
+            #param = st.sidebar.selectbox("Params", index_list)
+            with col2:
+                param = st.selectbox("Params", index_list)
             if param == "key_params":
                 with st.expander("YEARLY BALANCE SHEET DATA"):
                     st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
@@ -121,22 +149,23 @@ if selected:
                 # fundamentals.go_bar(df_comp.loc[sub_choose], "CAPITAL WORK IN PROGRESS", color_dict[color_key], comp_Name)
                 fundamentals.go_bar(df_comp.loc[sub_choose], "CASH & BANK", color_dict[color_key], comp_Name)
             else:
-                with col2:
-                    qoq_checked = st.checkbox("Sequential_Growth_%")
+                qoq_checked = st.checkbox("Sequential_Growth_%")
                 if qoq_checked:
                     fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
                 else:
-                    fundamentals.go_bar(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+                    fundamentals.go_bar(df_comp.loc[sub_choose],param, color_dict[color_key], comp_Name)
         if sub_choose == fundamentals.funda_keys[2]:
             index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
-            param = st.sidebar.selectbox("SubChose", index_list)
+            #param = st.sidebar.selectbox("SubChose", index_list)
+            # param = st.sidebar.selectbox("Params", index_list)
+            with col2:
+                param = st.selectbox("Params", index_list)
             if param == "key_params":
                 with st.expander("YEARLY CASH FLOWS DATA"):
                     st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
                 fundamentals.go_group_bar(df_comp.loc[sub_choose], "cash_flows", color_dict[color_key])
             else:
-                with col2:
-                    qoq_checked = st.checkbox("Sequential_Growth_%")
+                qoq_checked = st.checkbox("Sequential_Growth_%")
                 if qoq_checked:
                     fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
                 else:

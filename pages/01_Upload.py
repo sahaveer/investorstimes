@@ -10,23 +10,44 @@ import base64  # Standard Python Module
 from io import StringIO, BytesIO  # Standard Python Module
 import os
 import fundamentals
+import json
+from streamlit_lottie import st_lottie
+
 color_dict = {'Yellow_Lite':"#f8ba43",'Yellow_Dark':"#D6D41B",'Blue_Lite':"#1959BF",'Blue_Dark':"#0971C9",'Green_Lite':"#11A694",'Green_Dark':"#11A64B","Purple_Lite":"#7019BF",'Purple_Dark':"#9319BF"}
 #color_list = ["#D6D41B","#f8ba43","#0971C9","#1959BF","#11A694","#11A64B","#7019BF","#9319BF"]
-#st.set_page_config(page_title="InteractiveCharts",page_icon=":bar_chart:",layout="wide")
+def load_lottiefile(filepath: str):
+    with open(filepath, "r") as f:
+        return json.load(f)
+def load_lottieurl(url: str):
+    r = requests.get(url)
+    if r.status_code != 200:
+        return None
+    return r.json()
+lottie_data_analytics = load_lottiefile("./lottie/data-analytics.json")
+
 with st.sidebar:
     st.markdown(""" <style> .font {
     font-size:22px ; font-family: 'Cooper Black'; color: #FF9633;} 
     </style> """, unsafe_allow_html=True)
     # Add a file uploader to allow users to upload their csv file
+    st_lottie(
+        lottie_data_analytics,
+        speed=0.7,
+        reverse=False,
+        loop=True,
+        quality="low",  # medium ; high
+        height=None,
+        width=None,
+        key="barchart", )
+    uploaded_file = st.file_uploader("", type=['xlsx','xlsm'],accept_multiple_files = True)  # Only accepts xlsx,xlsm file format
     st.markdown('<p class="font">Upload One or Two xlsx/xlsm FILES from screener.in </p>',
                 unsafe_allow_html=True)
-    uploaded_file = st.file_uploader("", type=['xlsx','xlsm'],accept_multiple_files = True)  # Only accepts xlsx,xlsm file format
-
 
 if uploaded_file is not None:
     if len(uploaded_file)==1:
         comp_Name = uploaded_file[0].name.split('.xlsx')[0]
         comp_Name = comp_Name.split('.xlsm')[0]
+
         col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
         with col1:
             st.subheader('📈 ' + comp_Name)
@@ -143,11 +164,3 @@ if uploaded_file is not None:
 
 st.write("____")
 st.write('made with :green_heart: to my Indian Stock Investors')
-#Custom CSS to remove header,footer, hamburger icon
-hide_st_style = """
-                <style>
-                MainMenu {visibility: hidden;} 
-                footer {visibility: hidden;}
-                </style>
-                """
-st.markdown(hide_st_style,unsafe_allow_html=True)
