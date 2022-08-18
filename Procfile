@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run InteractiveChart.py
+web: sh setup.sh && streamlit run interactiveChart.py
