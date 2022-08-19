@@ -71,7 +71,7 @@ if selected:
             df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
         except Exception as AttributeError:
             pass
-        sub_choose = option_menu("", fundamentals.funda_keys,default_index=3,orientation="horizontal")
+        sub_choose = option_menu("", fundamentals.funda_keys,default_index=0,orientation="horizontal")
         #sub_choose = st.sidebar.selectbox("Fundamentals", fundamentals.funda_keys,index=0)
         if sub_choose == fundamentals.funda_keys[3]:
             key_data = str("""<!-- TradingView Widget BEGIN -->

@@ -8,6 +8,7 @@ from zipfile import ZipFile
 from zipfile import BadZipFile
 import requests
 from io import BytesIO
+import urllib.request
 from selenium import webdriver
 from time import sleep
 from datetime import date
@@ -326,10 +327,59 @@ def eod_existing_files(path_bhav,path_csv):
                 shutil.move(file, path_csv)
                 st.success('DONE INDICES ' + file)
 
+def download_bhav(nselink,bselink,indexlink, possible_txtname,possible_csvfilename):          #, bselink, nselink,path_bhav):
+    try:
+        nse_d = requests.get(nselink)
+        nse_zip = ZipFile(BytesIO(nse_d.content))
+        #st.write("done nse urllib")
+        nse_zip.extractall()   # this extracting should come prior to zipinfo, else it will not work
+        with nse_zip as thezip:
+            for zipinfo in thezip.infolist():
+                file = zipinfo.filename
+        date_nse = str(file[-17:-15])
+        mnth_format = str(file[-15:-12])
+        mnth_nse = mnth_dict[mnth_format]
+        yr_nse = str(file[-12:-8])
+        yyyymmdd = yr_nse + mnth_nse + date_nse
+        #st.info(yyyymmdd)
+        #st.info("done till dates as well")
+        with open(file, 'r') as reading:
+            file1 = csv.DictReader(reading)
+            nse_filename = str(file[-17:-8])
+            txt_name = file.split('.csv')[0] + '.txt'
+            with open( txt_name, 'w') as txt:
+                for line in file1:
+                    if line['SERIES'] not in avoid_series:
+                        if line['SYMBOL'] not in avoid_stocks:
+                            txt.write(
+                                line['SYMBOL'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," +
+                                line['LOW'] + "," + line['CLOSE'] + "," + line['TOTTRDQTY'] + "\n")
+        #st.success('DONE NSE ' + file)
+        with open(txt_name) as f:
+            st.download_button('NSE BHAV', f, file_name=txt_name)  # Defaults to 'text/plain'
+    except:
+        st.warning("Couldnt download nse file. Check if it is holiday/weekends. Try another DATE pls")
+    '''
+    try:
+        st.write("trying")
+        bse_d = urllib.request.urlopen(bselink).content()
+        st.write("done urllib")
+        with ZipFile(BytesIO(bse_d)) as my_zip_file:
+            for file in my_zip_file.namelist():
+                st.info(file)
+                with open(file, 'r') as reading:
+                    file1 = csv.DictReader(reading)
+                    #       PRINTS WHOLE DATA AS DISCTIONARY
+                    for line in file1:
+                        print(line)
+        #index_zip = ZipFile(BytesIO(bse_d.content))
+        # bse_zip.extractall(r'{}'.format(path_bhav))
+    except:
+        st.warning('unable to download Index file')
+    '''
 def download_all_data(driver,indexlink, bselink, nselink,path_bhav,path_csv,path_download):
     # DOWNLOAD INDEX FILE and MOVE TO BHAVCOPY LOCATION
     try:
-
         index_d = driver.get(indexlink)
         sleep(2)
         last_created_file = max(glob.glob(path_download + '*.csv'), key=os.path.getctime)
@@ -337,7 +387,6 @@ def download_all_data(driver,indexlink, bselink, nselink,path_bhav,path_csv,path
     except:
         st.warning('unable to download Index file')
     # DOWNLOAD BSE FILE and MOVE TO BHAVCOPY LOCATION
-
     try:
         bse_d = driver.get(bselink)
         # bse_zip = ZipFile(BytesIO(bse_d.content))
@@ -405,6 +454,11 @@ def main():
     if st.button("Existing"):
         eod_existing_files(path_bhav, path_csv, path_download)
         st.write("done EXISTing files")
+
+
+
+
+
 
 if __name__ == '__main__':
     main()
