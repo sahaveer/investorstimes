@@ -329,7 +329,7 @@ def eod_existing_files(path_bhav,path_csv):
 
 def download_bhav(nselink,bselink,indexlink, possible_txtname,possible_csvfilename):          #, bselink, nselink,path_bhav):
     try:
-        st.info("entered def")
+        #st.info("entered def")
         nse_d = requests.get(nselink)
         nse_zip = ZipFile(BytesIO(nse_d.content))
         #st.write("done nse urllib")
@@ -356,10 +356,10 @@ def download_bhav(nselink,bselink,indexlink, possible_txtname,possible_csvfilena
                             txt.write(
                                 line['SYMBOL'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," +
                                 line['LOW'] + "," + line['CLOSE'] + "," + line['TOTTRDQTY'] + "\n")
-        st.success('DONE NSE ')
+        st.balloons()
+        st.success('Thank u for waiting, Download your copy')
         with open(txt_name) as f:
             st.download_button('NSE BHAV', f, file_name=txt_name)  # Defaults to 'text/plain'
-
     except:
         st.warning("Couldnt download nse file. Check if it is holiday/weekends. Try another DATE pls")
     '''
