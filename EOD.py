@@ -2,8 +2,10 @@
 
 import csv
 import datetime
+from datetime import timedelta
 import glob,os
 import shutil
+import zipfile
 from zipfile import ZipFile
 from zipfile import BadZipFile
 import requests
