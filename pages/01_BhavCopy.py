@@ -2,7 +2,7 @@ import streamlit as st
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import datetime
-from datetime import date
+from datetime import date,timedelta
 import EOD
 
 st.title("BHAVCOPY NSE especially for AMIBROKER USERS")
