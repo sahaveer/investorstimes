@@ -15,6 +15,7 @@ from selenium import webdriver
 from time import sleep
 from datetime import date
 import streamlit as st
+import pandas as pd
 
 #st.title("EOD BHAVCOPY")
 # PATHS OF THIS COMPUTER
@@ -329,7 +330,6 @@ def eod_existing_files(path_bhav,path_csv):
                 shutil.move(file, path_csv)
                 st.success('DONE INDICES ' + file)
 
-
 def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,possible_index_name):
     ddmmmyyyy1 = my1_date.strftime("%d%b%Y")
     ddmmmyyyy2 = my2_date.strftime("%d%b%Y")
@@ -353,22 +353,21 @@ def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,po
         nselink = 'https://www1.nseindia.com/content/historical/EQUITIES/' + yyyy_to_d + '/' + mmm_to_d + '/cm' + dd_to_d + mmm_to_d + yyyy_to_d + 'bhav.csv.zip'
         bselink = 'https://www.bseindia.com/download/BhavCopy/Equity/EQ' + dd_to_d + mm_to_d + yy_to_d + '_CSV.ZIP'
         indexlink = 'https://www1.nseindia.com/content/indices/ind_close_all_' + dd_to_d + mm_to_d + yyyy_to_d + '.csv'
-        #possible_csvfilename = 'cm' + dd_to_d + mmm_to_d + yyyy_to_d + 'bhav.csv'
+        nse_full_link = "https://archives.nseindia.com/products/content/sec_bhavdata_full_"+ dd_to_d + mm_to_d + yyyy_to_d + ".csv"
+        possible_nse_name = 'cm' + dd_to_d + mmm_to_d + yyyy_to_d + 'full.csv'
         #possible_txtname = 'cm' + dd_to_d + mmm_to_d + yyyy_to_d + 'bhav.txt'
-        possible_index_name = "ind_close_all_" + dd_to_d + mm_to_d + yyyy_to_d
+        possible_fullbhav_name = "sec_bhavdata_full_"+ dd_to_d +  mm_to_d + yyyy_to_d + ".csv"
+        possible_index_name = 'ind_close_all_' + dd_to_d + mm_to_d + yyyy_to_d
         #st.write(f'NSE link is : ' + nselink)
-        #st.write(f'BSE link is : ' + bselink)
+        st.write(f'BSE link is : ' + bselink)
+        #st.write(f'FULL BHAVCOPY link is : ' + nse_full_link)
         #st.write(f'Index link is : ' + indexlink)
-
-        #st.write(zipfile.is_zipfile('/EQ180822_CSV'))
-        #st.write(magic.from_file('/EQ180822_CSV'))
-        #bse_d = urllib.request.urlopen(bselink)
-        #st.success("done requesting")
-        #bse_zip = ZipFile(BytesIO(bse_d.content))
-        #st.write("done BSE urllib")
-        #bse_zip.extractall()
-
+        file = ''
         try:
+            col1,col2 = st.columns([1,1])
+            with col1:
+                st.write("Downloading NSE FILE : " + ddmmmyyyy)
+            # NSE DATA
             nse_d = requests.get(nselink)
             nse_zip = ZipFile(BytesIO(nse_d.content))
             #st.write("done nse urllib")
@@ -388,21 +387,28 @@ def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,po
                 file1 = csv.DictReader(reading)
                 nse_filename = str(file[-17:-8])
                 with open(txt_name, 'w') as txt:
+                    txt.write("SYMBOL, DATE, OPEN, HIGH, LOW, CLOSE, VOLUME" + "\n")
                     for line in file1:
                         if line['SERIES'] not in avoid_series:
                             if line['SYMBOL'] not in avoid_stocks:
                                 txt.write(
                                     line['SYMBOL'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," +
                                     line['LOW'] + "," + line['CLOSE'] + "," + line['TOTTRDQTY'] + "\n")
+            with col2:
+                st.write("DONE NSE BHAVCOPY:    " + yyyymmdd)
+            with ZipFile("EOD.zip", "a") as m_zip:
+                m_zip.write(txt_name)
             #with open(txt_name) as f:
                 #st.download_button('DOWNLOAD NSE BHAVCOPY', f, file_name=txt_name)  # Defaults to 'text/plain'
-
-            #st.success('DONE NSE ' + file)
         except:
             pass
             #st.warning("Couldn't Process the NSE file. If you are sure this date is not Weekend/Holiday,we are very sorry for this Date. Try another DATE pls")
 
+
         try:
+            col1, col2 = st.columns([1, 1])
+            with col1:
+                st.write("Downloading INDEX FILE: " + ddmmmyyyy)
             with urllib.request.urlopen(indexlink) as testfile, open(f''+ possible_index_name + '.csv', 'w',newline="") as f:
                 f.write(testfile.read().decode())
             dd = str(possible_index_name[-8:-6])
@@ -412,7 +418,8 @@ def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,po
             txt1_name = possible_index_name +  '.txt'
             with open(f''+possible_index_name+'.csv', 'r') as reading:
                 index_file = csv.DictReader(reading)
-                with open(txt_name, 'a') as txt:
+                with open(txt1_name, 'a') as txt:
+                    txt.write("SYMBOL, DATE, OPEN, HIGH, LOW, CLOSE, VOLUME" + "\n")
                     for line in index_file:
                         # txt.write('\'' + line['Index Name'] + "\',")       # FOR WRITING INDEX NAMES INTO TXT
                         if line['Index Name'] in replace_index.keys():
@@ -425,16 +432,70 @@ def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,po
                                 line['Index Name'] + "," + str(yyyymmdd) + ',' + line['Open Index Value'] + "," + line[
                                     'High Index Value'] + "," + line['Low Index Value'] + "," + line[
                                     'Closing Index Value'] + "," + line['Volume'] + "\n")
+            with col2:
+                st.write("DONE INDEX BHAVCOPY:    " + yyyymmdd)
             with ZipFile("EOD.zip", "a") as m_zip:
-                m_zip.write(txt_name)
+                m_zip.write(txt1_name)
+            try:
+                col1, col2 = st.columns([1, 1])
+                with col1:
+                    st.write("Downloading NSE FULL BHAV FILE: " + ddmmmyyyy)
+                with urllib.request.urlopen(nse_full_link) as test_nse_file, open(f'' + possible_fullbhav_name, 'w',
+                                                                                  newline="") as f:
+                    f.write(test_nse_file.read().decode())
+                #               NSE WHOLE BHAVCOPY
+                # st.write("getting yyyymmdd from file name")
+                # sec_bhavdata_full_23082022.csv
+                # st.write(possible_fullbhav_name)
+                date_nse = str(possible_fullbhav_name[18:20])
+                # st.write(date_nse)
+                mnth_nse = str(possible_fullbhav_name[20:22])
+                # st.write(mnth_nse)
+                yr_nse = str(possible_fullbhav_name[22:26])
+                # st.write(yr_nse)
+                yyyymmdd = yr_nse + mnth_nse + date_nse
+                txt1_name = possible_fullbhav_name.split('.csv')[0] + '.txt'
+                first_lines = pd.read_csv(possible_fullbhav_name, nrows=10)
+                for i in range(len(first_lines[' DATE1'])):
+                    date_nse_cell = first_lines[' DATE1'][i][1:3]
+                    mnth_format_cell = first_lines[' DATE1'][i][4:7]
+                    mnth_nse_cell = mnth_dict[mnth_format_cell.upper()]
+                    yr_nse_cell = str(first_lines[' DATE1'][i][8:])
+                    yyyymmdd_cell = yr_nse_cell + mnth_nse_cell + date_nse_cell
+                    # st.write("CHECK THIS from file name :" + yyyymmdd + "from cell value " + yyyymmdd_cell)
+                if yyyymmdd == yyyymmdd_cell:
+                    with open(possible_fullbhav_name, 'r') as reading:
+                        nse_full_file = csv.DictReader(reading)
+                        with open(txt1_name, 'a') as txt:
+                            txt.write("SYMBOL, DATE, OPEN, HIGH, LOW, CLOSE, TRADED_QTY, DELIVERABLE_QTY" + "\n")
+                            for line in nse_full_file:
+                                if line[' SERIES'] not in avoid_series:
+                                    if line['SYMBOL'] not in avoid_stocks:
+                                        txt.write(
+                                            line['SYMBOL'] + "," + str(yyyymmdd) + "," + line[' OPEN_PRICE'] + "," +
+                                            line[
+                                                ' HIGH_PRICE'] + "," + line[' LOW_PRICE'] + "," + line[
+                                                ' CLOSE_PRICE'] + "," + line[
+                                                ' TTL_TRD_QNTY'] + "," + line[' DELIV_QTY'] + "\n")
+                    with col2:
+                        st.write("DONE FULL BHAVCOPY:   " + yyyymmdd)
+                    with ZipFile("EOD.zip", "a") as m_zip:
+                        m_zip.write(txt1_name)
+                else:
+                    st.error("the DATE and THE FILE GENERATED ARE DIFFERENT. THUS SKIPPING")
+            except:
+                pass
+
         except:
             pass
             #st.warning("Couldn't Process the INDEX file. If you are sure this date is not Weekend/Holiday,we are very sorry for this Date. Try another DATE pls")
+
         my1_date += timedelta(1)
         #st.success("added timedate")
         #files_list += [txt_name]
         #st.write(files_list)
         #st.success("Ended LOOP")
+
     with open("EOD.zip", "rb") as fp:
         btn = st.download_button(
             label="Download ZIP",
