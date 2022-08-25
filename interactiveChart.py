@@ -15,7 +15,7 @@ funda_keys = ['PROFIT&LOSS', 'BALANCE SHEET',
 # **************************************************************************************************
 listed_stocks = []
 stocks_dict = {}
-color_dict = {'Yellow_Lite': "#f8ba43", 'Yellow_Dark': "#D6D41B", 'Blue_Lite': "#0FBAEC", 'Blue_Dark': "#0971C9",
+color_dict = {'Blue_Lite': "#0FBAEC", 'Blue_Dark': "#0971C9", 'Yellow_Lite': "#f8ba43", 'Yellow_Dark': "#D6D41B", 
               'Green_Lite': "#11A694", 'Green_Dark': "#11A64B", "Purple_Lite": "#7019BF", 'Purple_Dark': "#9319BF"}
 # color_list = ["#D6D41B","#f8ba43","#0971C9","#1959BF","#11A694","#11A64B","#7019BF","#9319BF"]
 color_line = "Red"
