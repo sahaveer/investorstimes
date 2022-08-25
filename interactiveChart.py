@@ -39,6 +39,10 @@ for each_pickl in glob.glob('./pickl/*.pkl', recursive=False):
     stocks_dict[pickle_name] = each_pickl
     listed_stocks += [pickle_name]
 
+    
+    
+    
+    
 with st.sidebar:
     st_lottie(
         lottie_data_analysis,
