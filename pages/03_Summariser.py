@@ -5,9 +5,37 @@ from nltk.tokenize import word_tokenize, sent_tokenize
 import pdfplumber
 import streamlit as st
 import re
+import json
+from streamlit_lottie import st_lottie
+from streamlit_lottie import st_lottie_spinner
+import json
+from streamlit_lottie import st_lottie
+from streamlit_lottie import st_lottie_spinner
 
 text = ""
 texxt = ""
+
+def load_lottiefile(filepath: str):
+    with open(filepath, "r") as f:
+        return json.load(f)
+
+def load_lottieurl(url: str):
+    r = requests.get(url)
+    if r.status_code != 200:
+        return None
+    return r.json()
+lottie_summariser = load_lottiefile("./lottie/summariser.json")
+
+with st.sidebar:
+	st_lottie(
+		lottie_summariser,
+		speed=0.7,
+		reverse=False,
+		loop=True,
+		quality="low",  # medium ; high
+		height=None,
+		width=None,
+		key="barchart", )
 
 col1, col2 = st.columns([0.8, 0.2])
 with col1:
@@ -98,11 +126,3 @@ if pdf_upload is not None:
 
 st.write("____")
 st.write('made with :green_heart: to Indian Stock Investors')
-#Custom CSS to remove header,footer, hamburger icon
-hide_st_style = """
-                <style>
-                MainMenu {visibility: hidden;} 
-                footer {visibility: hidden;}
-                </style>
-                """
-st.markdown(hide_st_style,unsafe_allow_html=True)
