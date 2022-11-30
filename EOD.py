@@ -1,7 +1,10 @@
+# from to ttodates is being handled by function download_bhav(my1_date,my2_date)
 # this is to only handle csv files and then copy the context to a TXT file
 # UPDATE 2NOV2022 : updated avoid_bse_stocks to avoid stocks which are already available in NSE
 # IDEA 3NOV2022 : Got to give an option in website to select the coulmns as per users demand and alos option to select if they want BSE CODE o BSE NAME
 # IDEA 3NOV2022: Would be better if i could avoid all the gaps in the last of BSE NAMES
+
+
 
 import csv
 import datetime
@@ -577,8 +580,8 @@ def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,po
                                     line['LOW'] + "," + line['CLOSE'] + "," + line['TOTTRDQTY'] + "\n")
             with col2:
                 st.write("DONE NSE BHAVCOPY:    " + yyyymmdd)
-            with ZipFile("EOD.zip", "a") as m_zip:
-                m_zip.write(txt_name)
+                with ZipFile("EOD.zip", "a") as m_zip:
+                    m_zip.write(txt_name)
             #with open(txt_name) as f:
                 #st.download_button('DOWNLOAD NSE BHAVCOPY', f, file_name=txt_name)  # Defaults to 'text/plain'
         except:
@@ -615,8 +618,8 @@ def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,po
                                     'Closing Index Value'] + "," + line['Volume'] + "\n")
             with col2:
                 st.write("DONE INDEX BHAVCOPY:    " + yyyymmdd)
-            with ZipFile("EOD.zip", "a") as m_zip:
-                m_zip.write(txt1_name)
+                with ZipFile("EOD.zip", "a") as m_zip:
+                    m_zip.write(txt1_name)
             try:
                 col1, col2 = st.columns([1, 1])
                 with col1:
@@ -660,8 +663,8 @@ def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,po
                                                 ' TTL_TRD_QNTY'] + "," + line[' DELIV_QTY'] + "\n")
                     with col2:
                         st.write("DONE FULL BHAVCOPY:   " + yyyymmdd)
-                    with ZipFile("EOD.zip", "a") as m_zip:
-                        m_zip.write(txt1_name)
+                        with ZipFile("EOD.zip", "a") as m_zip:
+                            m_zip.write(txt1_name)
                 else:
                     st.error("the DATE and THE FILE GENERATED ARE DIFFERENT. THUS SKIPPING")
             except:
@@ -676,7 +679,7 @@ def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,po
         #files_list += [txt_name]
         #st.write(files_list)
         #st.success("Ended LOOP")
-
+    
     with open("EOD.zip", "rb") as fp:
         btn = st.download_button(
             label="Download ZIP",
