@@ -5,6 +5,10 @@ import datetime
 from datetime import date,timedelta
 import EOD
 import random
+from streamlit_lottie import st_lottie
+from streamlit_lottie import st_lottie_spinner
+
+
 stock_quotes = [
 """'I have two basic rules about winning in trading as well as in life:\n1. If you don’t bet, you can’t win.\n2. If you lose all your chips, you can’t bet.' \n\n– Larry Hite""",
 """'When you genuinely accept the risks, you will be at peace with any outcome.'\n – Mark Douglas""",
