@@ -1,10 +1,7 @@
-# from to ttodates is being handled by function download_bhav(my1_date,my2_date)
 # this is to only handle csv files and then copy the context to a TXT file
 # UPDATE 2NOV2022 : updated avoid_bse_stocks to avoid stocks which are already available in NSE
 # IDEA 3NOV2022 : Got to give an option in website to select the coulmns as per users demand and alos option to select if they want BSE CODE o BSE NAME
 # IDEA 3NOV2022: Would be better if i could avoid all the gaps in the last of BSE NAMES
-
-
 
 import csv
 import datetime
@@ -144,32 +141,7 @@ avoid_stocks = ['AURUMPP','AIRTELPP','182D290922','426GS2023','619GS2034','667GS
                 '975MFL29    ','975MHFL22   ','975MMFL26   ','98EFIL25    ','98EFIL30    ','98EFSL26    ','9IBHFL26B   ', '0KFL25D     ','0KFL25D     ', '0MFL23CC    ', '0MFL23VI    ','0MFL25D     ', '1015HLFL25  ', '1025JFCSL28 ', '10KFIL27    ','1170IOB28   ','703HUDCO23  ','715NTPC25   ','735NHAI31   ','754NHAI30   ','775MFL23    ','830PFC2027  ','845TCFS22   ','846REC28    ','848IIFCL29A ',
                 '850SBIPER   ','86LTFL24    ','875MFL23    ','875MFL26A   ','87BOBPER    ','915SEFL17B  ','925KFL24    ','93SCUF22    ','95MFL25     ','96STF24     ','975HLFL26A  ','975UPPCL25  ','990IFCI37D  ','9MFL27      ','9STFCL25    ',
                 '08GPG       ','08MPD       ','11AGG       ','11AMD       ','11DPD       ','11DPR       ','11GPG       ','11MPD       ','11MPR       ','11QPD       ']
-#'574GS2026', '610GS2031', '667GS2035','695GS2061','727GS2026',574GS2026,610GS2031,654GS2032,667GS2035,695GS2061,710GS2029,716GS2050,727GS2026
 
-'''                 ***** THIS WE GET FROM INDEX LIST
-'Nifty 50','Nifty 100','Nifty 200','Nifty 500','Nifty Midcap 50','NIFTY Midcap 100','NIFTY Smallcap 100',
-'Nifty Auto','Nifty Bank','Nifty Energy','Nifty Financial Services','Nifty FMCG','Nifty IT',
-'Nifty Media','Nifty Metal','Nifty MNC','Nifty Pharma','Nifty PSU Bank','Nifty Realty','Nifty Commodities','Nifty Infrastructure',
-'Nifty PSE','Nifty Services Sector','Nifty CPSE','Nifty Oil & Gas',
-
-'India VIX','Nifty Next 50',
-
-'Nifty50 Dividend Points',,'Nifty India Consumption','Nifty Dividend Opportunities 50','Nifty50 Shariah','Nifty500 Shariah',
-'Nifty Low Volatility 50','Nifty Alpha 50','Nifty High Beta 50','Nifty100 Equal Weight','Nifty100 Liquid 15',
-'Nifty50 Value 20','Nifty Midcap Liquid 15','Nifty Shariah 25',,'Nifty Growth Sectors 15','Nifty50 TR 1x Inverse',
-'Nifty50 TR 2x Leverage','Nifty50 PR 1x Inverse','Nifty50 PR 2x Leverage','NIFTY100 Quality 30','Nifty 50 Futures TR Index',
-'Nifty 50 Arbitrage','NIFTY50 Equal Weight','Nifty100 Low Volatility 30','NIFTY Alpha Low-Volatility 30','Nifty Total Market',
-'NIFTY Alpha Quality Low-Volatility 30','NIFTY Alpha Quality Value Low-Volatility 30','NIFTY200 Quality 30','NIFTY Midcap150 Quality 50',
-'Nifty200 Momentum 30','Nifty Midcap Select','NIFTY SME EMERGE','Nifty Financial Services 25/50',
-'Nifty100 ESG Sector Leaders','Nifty500 Multicap 50:25:25','Nifty Microcap 250','Nifty India Digital','Nifty Mobility',
-'Nifty India Defence','Nifty Financial Services Ex-Bank','NIFTY100 ESG','NIFTY100 Enhanced ESG','NIFTY500 Value 50','NIFTY100 Alpha 30',
-'Nifty Non-Cyclical Consumer','Nifty India Manufacturing','NIFTY LargeMidcap 250','Nifty Healthcare Index','Nifty Consumer Durables',
-'Nifty 50 Futures Index','Nifty Aditya Birla Group','Nifty Midcap 150','Nifty MidSmallcap 400','Nifty Smallcap 50','Nifty Smallcap 250',
-'Nifty Private Bank','Nifty Tata Group 25% Cap','Nifty Tata Group','Nifty Mahindra Group','NIFTY Quality Low-Volatility 30',
-'Nifty 8-13 yr G-Sec','Nifty 4-8 yr G-Sec Index','Nifty 11-15 yr G-Sec Index','Nifty 15 yr and above G-Sec Index',
-'Nifty Composite G-sec Index','Nifty 10 yr Benchmark G-Sec','Nifty 10 yr Benchmark G-Sec (Clean Price)','Nifty 1D Rate Index',
-'Nifty50 USD',
-'''
 replace_index = {'Nifty 50':'NSENIFTY','Nifty 100':'NSE100' , 'Nifty 200':'NIFTY200','Nifty 500':'NSE500','Nifty Midcap 50':'NIFTYMIDCAP50',
                  'NIFTY Smallcap 100':'NSESMLCAP100', 'Nifty Auto' : 'NIFTYAUTO','Nifty Bank':'BANKNIFTY','Nifty Energy':'NIFTYENERGY',
                  'Nifty Financial Services':'NIFTYFINSERVICE','Nifty FMCG':'NIFTYFMGC','Nifty IT':'NSEIT','Nifty Media':'NIFTYMEDIA','Nifty Metal':'NIFTYMETAL',
@@ -392,6 +364,7 @@ def eod_existing_files(path_bhav,path_csv):
                 except:
                     pass
 
+# this will download files locally in the local computer.
 def download_all_data(driver,indexlink, bselink, nselink,path_bhav,path_csv,path_download,nse_full_link,possible_fullbhav_name):
     # DOWNLOAD INDEX FILE and MOVE TO BHAVCOPY LOCATION
     try:
@@ -468,7 +441,7 @@ def download_all_data(driver,indexlink, bselink, nselink,path_bhav,path_csv,path
     except:
         pass
 
-
+# This EOD_DATE function requires other functions viz., download_all_data, eod_existing_files.
 def eod_date(driver,ddmmmyyyy,path_bhav,path_csv,path_download):
     # downloads links from nse and bse
     mmm_to_d = str(ddmmmyyyy[2:5].upper())
@@ -506,13 +479,33 @@ def main():
     my_date = st.date_input("Select date", value=date.today(),
                             min_value=datetime.date(1990, 1, 1))
     ddmmmyyyy = my_date.strftime("%d%b%Y")
-    if st.button("Download"):
-        eod_date(driver, ddmmmyyyy, path_bhav, path_csv, path_download)
-    st.write("___")
+    #if st.button("Download"):
+    #    eod_date(driver, ddmmmyyyy, path_bhav, path_csv, path_download)
+    #st.write("___")
     if st.button("Existing"):
         eod_existing_files(path_bhav, path_csv)
         st.write("done EXISTing files")
-
+    st.write("___")
+    col1, col2 = st.columns([1, 1])
+    with col1:
+        my1_date = st.date_input("FROM", value=date.today(),
+                                 min_value=datetime.date(1990, 1, 1))
+    with col2:
+        if my1_date is not date.today():
+            my2_date = st.date_input("TILL", value=min(my1_date + timedelta(60), date.today()),
+                                     min_value=datetime.date(1990, 1, 1))
+        else:
+            my2_date = st.date_input("TILL", value=date.today(),
+                                     min_value=datetime.date(1990, 1, 1))
+    if st.button("GENERATE BHAVCOPIES"):
+        try:
+            download_bhav(my1_date, my2_date)
+            # download_bhav(nselink,bselink, indexlink, possible_index_name)
+            # st.success("Done downloading, lets try extracting now")
+            # eod_existing_files(path_bhav, path_csv)
+        except BadZipFile:
+            st.error("BadZipFile")
+            pass
 
 def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,possible_index_name):
     ddmmmyyyy1 = my1_date.strftime("%d%b%Y")
@@ -534,9 +527,13 @@ def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,po
         dd_to_d = str(ddmmmyyyy[0:2])
         yy_to_d = str(ddmmmyyyy[-2:])
         yyyy_to_d = str(ddmmmyyyy[-4:])
+        #https://archives.nseindia.com/products/content/sec_bhavdata_full_30122022.csv
+        #https://www1.nseindia.com/content/indices/ind_close_all_30122022.csv
+        #TEMPORARILY, NOT USING NSELINK
         nselink = 'https://www1.nseindia.com/content/historical/EQUITIES/' + yyyy_to_d + '/' + mmm_to_d + '/cm' + dd_to_d + mmm_to_d + yyyy_to_d + 'bhav.csv.zip'
         bselink = 'https://www.bseindia.com/download/BhavCopy/Equity/EQ' + dd_to_d + mm_to_d + yy_to_d + '_CSV.ZIP'
         indexlink = 'https://www1.nseindia.com/content/indices/ind_close_all_' + dd_to_d + mm_to_d + yyyy_to_d + '.csv'
+        # NSEFULLLINK GIVES DELIVERY DATA AS WELL
         nse_full_link = "https://archives.nseindia.com/products/content/sec_bhavdata_full_"+ dd_to_d + mm_to_d + yyyy_to_d + ".csv"
         possible_nse_name = 'cm' + dd_to_d + mmm_to_d + yyyy_to_d + 'full.csv'
         #possible_txtname = 'cm' + dd_to_d + mmm_to_d + yyyy_to_d + 'bhav.txt'
@@ -547,48 +544,7 @@ def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,po
         #st.write(f'FULL BHAVCOPY link is : ' + nse_full_link)
         #st.write(f'Index link is : ' + indexlink)
         file = ''
-        try:
-            col1,col2 = st.columns([1,1])
-            with col1:
-                st.write("Downloading NSE FILE : " + ddmmmyyyy)
-            # NSE DATA
-            nse_d = requests.get(nselink)
-            nse_zip = ZipFile(BytesIO(nse_d.content))
-            #st.write("done nse urllib")
-            nse_zip.extractall()   # this extracting should come prior to zipinfo, else it will not work
-            with nse_zip as thezip:
-                for zipinfo in thezip.infolist():
-                    file = zipinfo.filename
-            txt_name = file.split('.csv')[0] + '.txt'
-            date_nse = str(file[-17:-15])
-            mnth_format = str(file[-15:-12])
-            mnth_nse = mnth_dict[mnth_format]
-            yr_nse = str(file[-12:-8])
-            yyyymmdd = yr_nse + mnth_nse + date_nse
-            #st.info(yyyymmdd)
-            #st.info("done till dates as well")
-            with open(file, 'r') as reading:
-                file1 = csv.DictReader(reading)
-                nse_filename = str(file[-17:-8])
-                with open(txt_name, 'w') as txt:
-                    txt.write("SYMBOL, DATE, OPEN, HIGH, LOW, CLOSE, VOLUME" + "\n")
-                    for line in file1:
-                        if line['SERIES'] not in avoid_series:
-                            if line['SYMBOL'] not in avoid_stocks:
-                                txt.write(
-                                    line['SYMBOL'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," +
-                                    line['LOW'] + "," + line['CLOSE'] + "," + line['TOTTRDQTY'] + "\n")
-            with col2:
-                st.write("DONE NSE BHAVCOPY:    " + yyyymmdd)
-                with ZipFile("EOD.zip", "a") as m_zip:
-                    m_zip.write(txt_name)
-            #with open(txt_name) as f:
-                #st.download_button('DOWNLOAD NSE BHAVCOPY', f, file_name=txt_name)  # Defaults to 'text/plain'
-        except:
-            pass
-            #st.warning("Couldn't Process the NSE file. If you are sure this date is not Weekend/Holiday,we are very sorry for this Date. Try another DATE pls")
-
-
+        # INDEX FILE, FULL BHAVCOPY,
         try:
             col1, col2 = st.columns([1, 1])
             with col1:
@@ -618,8 +574,8 @@ def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,po
                                     'Closing Index Value'] + "," + line['Volume'] + "\n")
             with col2:
                 st.write("DONE INDEX BHAVCOPY:    " + yyyymmdd)
-                with ZipFile("EOD.zip", "a") as m_zip:
-                    m_zip.write(txt1_name)
+            with ZipFile("EOD.zip", "a") as m_zip:
+                m_zip.write(txt1_name)
             try:
                 col1, col2 = st.columns([1, 1])
                 with col1:
@@ -663,8 +619,8 @@ def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,po
                                                 ' TTL_TRD_QNTY'] + "," + line[' DELIV_QTY'] + "\n")
                     with col2:
                         st.write("DONE FULL BHAVCOPY:   " + yyyymmdd)
-                        with ZipFile("EOD.zip", "a") as m_zip:
-                            m_zip.write(txt1_name)
+                    with ZipFile("EOD.zip", "a") as m_zip:
+                        m_zip.write(txt1_name)
                 else:
                     st.error("the DATE and THE FILE GENERATED ARE DIFFERENT. THUS SKIPPING")
             except:
@@ -679,7 +635,7 @@ def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,po
         #files_list += [txt_name]
         #st.write(files_list)
         #st.success("Ended LOOP")
-    
+
     with open("EOD.zip", "rb") as fp:
         btn = st.download_button(
             label="Download ZIP",
@@ -687,12 +643,13 @@ def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,po
             file_name="EOD.zip",
             mime="application/octet-stream"
         )
-    '''
-    with open(txt_name) as f:
-        st.download_button('DOWNLOAD BHAVCOPY', f, file_name=txt_name)  # Defaults to 'text/plain'
-    '''
+
     st.markdown("____")
     st.markdown("**Download your copy and PLS spread YOUR LOVE by sharing BHAVCOPY to NEAR and DEAR one\'s**")
+
+    st.markdown("____")
+    #with open(txt_name) as f:
+    #    st.download_button('DOWNLOAD BHAVCOPY', f, file_name=txt_name)  # Defaults to 'text/plain'
 
     '''
     try:
@@ -711,11 +668,6 @@ def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,po
     except:
         st.warning('unable to download Index file')
     '''
-
-
-
-
-
 
 if __name__ == '__main__':
     main()
