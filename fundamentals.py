@@ -1,6 +1,6 @@
 import streamlit as st
 import plotly.io as pio
-pio.kaleido.scope.chromium_args += ("--single-process",)
+#pio.kaleido.scope.chromium_args += ("--single-process",)
 #pio.kaleido.scope.mathjax = None
 
 from streamlit_option_menu import option_menu
