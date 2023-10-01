@@ -203,11 +203,11 @@ def qoq_growth(df,row_name,color_bar,comp_Name):
         with st.expander(row_name + " DATA"):
             st.dataframe(new_df.style.format(formatter="{:.1f}"))
     with col3:
+        print("TRYING TO SAVE IMAGE")
+        fig.write_image("./downloadimages/" + comp_Name.upper() + " " + row_name + " QoQ.png", width = 1350, height = 1080)
+        print("Saved as image")
         image_path = './downloadimages/' + comp_Name.upper() + " " + row_name + " QoQ.png"
         savenameas = os.path.basename(image_path)
-        print("TRYING TO SAVE IMAGE")
-        fig.write_image(image_path, width = 1350, height = 1080)
-        print("Saved as image")
         with open(image_path, "rb") as file:btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
 
     #st.subheader('Downloads:')
