@@ -159,12 +159,12 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
                 with ZipFile(EOD_file, "a") as m_zip:
                     m_zip.write(txt4_name)
                     m_zip.write(txt5_name)
-                st.write("DONE INDEX BHAVCOPY FOR " + yyyymmdd)
+                st.success("DONE INDEX BHAVCOPY FOR " + yyyymmdd)
         except:
             st.error("Failed to download F&O bhavcopy")
             pass
 
-    with open("EOD.zip", "rb") as fp:
+    with open(EOD_file, "rb") as fp:
         btn = st.download_button(
             label="Download ZIP",
             data=fp,
