@@ -170,7 +170,8 @@ def qoq_growth(df,row_name,color_bar,comp_Name):
     temp_df = df.loc[row_name]
     df_qoq = (temp_df.pct_change() * 100)
     df_qoq.name = row_name + '_QoQ'
-    df2 = df.append(df_qoq)
+    #df2 = df.append(df_qoq)
+    df2 = pd.concat([df, df_qoq], axis=0)
     # Create figure with secondary y-axis
     fig = make_subplots(specs=[[{"secondary_y": True}]])
     # adds bar chart
