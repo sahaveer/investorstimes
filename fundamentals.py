@@ -215,7 +215,7 @@ def qoq_growth(df,row_name,color_bar,comp_Name):
         #image_path = './downloadimages/' + comp_Name.upper() + " " + row_name + " QoQ.png"
         #savenameas = os.path.basename(image_path)
         #with open(image_path, "rb") as file:
-            btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
+            #btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
 
     #st.subheader('Downloads:')
     #generate_excel_download_link(df2)
