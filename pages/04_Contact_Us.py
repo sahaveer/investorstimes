@@ -40,7 +40,7 @@ with col1:
     #html_temp = """<div style="background-color:darkgrey;padding:14px><h2 style="color: #FF9633;text-align:centre;">iTimesAlgo</h2></div>"""
     #st.markdown(html_temp, unsafe_allow_html=True)
     st.markdown('<p class="font1">Contact us through</p>', unsafe_allow_html=True)
-    st.markdown("[TELEGRAM](https://t.me/itimesalgo/)    /      [TWITTER](https://twitter.com/itimesalgo)")
+    st.markdown("[TELEGRAM](https://t.me/itimesalgo/)    /      [TWITTER](https://twitter.com/itimesalgo)    /      [INSTAGRAM](https://www.instagram.com/itimesalgo/) ")
     #st.markdown("[Twitter](https://twitter.com/itimesalgo)")
 
 with col2:  # To display brand log
