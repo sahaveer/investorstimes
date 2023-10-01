@@ -1,5 +1,5 @@
 import streamlit as st
-import plotly.io as pio
+#import plotly.io as pio
 #pio.kaleido.scope.chromium_args += ("--single-process",)
 #pio.kaleido.scope.mathjax = None
 
