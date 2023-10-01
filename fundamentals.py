@@ -1,4 +1,8 @@
 import streamlit as st
+import plotly.io as pio
+pio.kaleido.scope.chromium_args += ("--single-process",)
+pio.kaleido.scope.mathjax = None
+
 from streamlit_option_menu import option_menu
 import streamlit.components.v1 as html
 import openpyxl
@@ -15,13 +19,17 @@ table = ['PROFIT & LOSS', 'Quarters', 'BALANCE SHEET' ]
 # lets define the first and last table keys to extract the exact table size
 DataSheet_Key_Values = ['PROFIT & LOSS', 'Dividend Amount', 'Quarters', 'Operating Profit', 'BALANCE SHEET', 'Cash & Bank',
                         'CASH FLOW:', 'Net Cash Flow']
-funda_keys = ['PROFIT&LOSS','BALANCE SHEET','CASH FLOW','KEY_DATA']    # dont change the order of this list as it will affect the keys used in Yearly df
-funda_menu = funda_keys + ['QTR PnL']
+#funda_keys = ['PROFIT&LOSS','BALANCE SHEET','CASH FLOW','KEY_DATA']    # dont change the order of this list as it will affect the keys used in Yearly df
+#funda_menu = funda_keys + ['QTR PnL']
+funda_keys = ['PROFIT&LOSS','BALANCE SHEET','CASH FLOW','QTR PnL']
+funda_menu = funda_keys
+
 color_hover = "darkgrey"
 color_background = "grey"
 #Top 16:9 Resolutions. 640 x 360 (nHD) 854 x 480 (FWVGA) 960 x 540 (qHD) 1024 x 576 (WSVGA) 1280 x 720 (HD/WXGA) 1366 x 768 (FWXGA) 1600 x 900 (HD+) 1920 x 1080 (FHD) 2048 x 1152 (QWXGA) 2560 x 1440 (QHD) 3200 x 1800 (WQXGA+) 3840 x 2160 (UHD) 5120 x 2880 (UHD+) 7680 x 4320 (FUHD) 15360 x 8640 (QUHD) 30720 x 17280 (HHD) 61440 x 34560 (FHHD) 122880 x 69120 (QHHD)
 height_val = 680 #574
 width_val = 1209 #1024
+
 def generate_excel_download_link(df):
     # Credit Excel: https://discuss.streamlit.io/t/how-to-add-a-download-excel-csv-function-to-a-button/4474/5
     towrite = BytesIO()
@@ -39,7 +47,6 @@ def generate_html_download_link(fig):
     b64 = base64.b64encode(towrite.read()).decode()
     href = f'<a href="data:text/html;charset=utf-8;base64, {b64}" download="plot.html">Download Plot</a>'
     return st.markdown(href, unsafe_allow_html=True)
-
 def go_bar(df, row_name,color_bar,comp_Name):
     #fig = ff.create_table(df)
     #st.plotly_chart(fig)
@@ -48,26 +55,43 @@ def go_bar(df, row_name,color_bar,comp_Name):
                                    text = df.loc[row_name], textposition = 'auto')])
     # go.bar has another attribute - hovertext = ['27% market share', '24% market share', '19% market share']
     fig.update_traces(marker_color=color_bar, marker_line_color='rgb(8,48,107)',
-                      marker_line_width=1.5, opacity=1, texttemplate='%{text:.3s}', textposition='outside')
+                      marker_line_width=1.5, opacity=1, texttemplate='%{text:.3s}', textposition='outside', textfont=dict(size=18), textfont_color='yellow')
     fig.update_layout(autosize=True, paper_bgcolor="#16181A",plot_bgcolor="#23282D",
                       height=height_val,width=width_val,
                       margin = dict(l=0,r=0,t=0,b=0,pad=10),
                       title={'font':{ 'color':"#e25f5b"},
-                             'text': "<b>" + comp_Name.upper() + "</b> : <i>" + row_name + ' Report <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
-                             'y': 0.96,'x': 0.5,'xanchor': 'center','yanchor': 'bottom'},
+                             'text': "<b>" + comp_Name.upper() + "</b> : <i>" + row_name + ' Report @itimesalgo </i>',
+                             'y': 0.99,'x': 0.5,'xanchor': 'center','yanchor': 'bottom'},
                       xaxis_tickfont_size=14,
-                      xaxis=dict(showgrid=False),
-                      yaxis=dict(showgrid=False, title= row_name +' in cr',titlefont_size=16,tickfont_size=1),
+                      xaxis=dict(showgrid=False,tickfont=dict(color='white'),),
+                      yaxis=dict(showgrid=False, title= row_name +' in cr',titlefont_size=16,tickfont_size=1,tickfont=dict(color='white'),),
                       legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
                       bargap=0.15,font_color = "white")     #legend=dict(x=0,y=1.0,bgcolor='rgba(255, 255, 255, 0)',bordercolor='rgba(255, 255, 255, 0)'),
     new_df = pd.concat([df.loc[row_name]], axis=1).transpose()
     st.plotly_chart(fig,use_container_width=True)
-    with st.expander(row_name+" DATA"):
-        st.dataframe(new_df.style.format(formatter="{:.1f}"))
+
+    col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
+    with col1:
+        with st.expander(row_name + " DATA"):
+            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    with col3:
+        image_path = './downloadimages/' + comp_Name.upper() + " " + row_name + ".png"
+        savenameas = os.path.basename(image_path)
+        print("TRYING TO SAVE IMAGE")
+        fig.write_image(image_path, width = 1350, height = 1080)
+        print("Saved as image")
+        with open(image_path, "rb") as file:
+            btn = st.download_button(
+                label="Download",
+                data=file,
+                file_name=savenameas,
+                mime="image/png"
+            )
+
+
     #fig.write_image("./downloadimages/fig1.png")
     #st.subheader('Downloads:')
     #generate_html_download_link(fig)
-
 def both_lines(df,row1,row2,color_bar,color_line,comp_Name):
     dat_rows = [df.loc[row1], df.loc[row2]]
     new_df = pd.concat(dat_rows, keys=[row1, row2], axis=1)
@@ -75,27 +99,43 @@ def both_lines(df,row1,row2,color_bar,color_line,comp_Name):
     fig = make_subplots(specs=[[{"secondary_y": True}]])
     fig.add_trace(go.Scatter(x=new_df.index, y=new_df[row1], name=row1, text=new_df[row1]),secondary_y=False)
     fig.update_traces(marker_color=color_bar, marker_line_color='rgb(8,48,107)',
-                      marker_line_width=2, opacity=1, texttemplate='%{text:.1s}', textposition='top left')
+                      marker_line_width=2, opacity=1, texttemplate='%{text:.1s}', textposition='top left', textfont=dict(size=18), textfont_color='yellow')
     fig.add_trace(go.Line(x=new_df.index, y=new_df[row2], name=row2, text=new_df[row2]),secondary_y=True)
     # Add figure title
     fig.update_layout(autosize=True, paper_bgcolor="#16181A",plot_bgcolor="#23282D",
                       height=height_val,width=width_val,
                       margin = dict(l=0,r=0,t=0,b=0, pad=10),
-                      title={'font':{'color':"#e25f5b"},'text': "<b>" + comp_Name.upper() + "</b> : <i>" + 'Report <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
-                             'y': 0.96, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
+                      title={'font':{'color':"#e25f5b"},'text': "<b>" + comp_Name.upper() + "</b> : <i>" + 'Report                                                          @itimesalgo </i>',
+                             'y': 0.99, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
                       #xaxis_tickfont_size=14,
                       xaxis=dict(showgrid=False, title=row1 , titlefont_size=16, tickfont_size=1),
                       yaxis=dict(showgrid=False, title=row2 , titlefont_size=16, tickfont_size=1),
                       legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
                       bargap=0.15)  # legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),bargap = 0.15)
     # Set y-axes titles
-    fig.update_yaxes(title_text="<b>" + row1 + "</b>", secondary_y=False, showgrid=False)
-    fig.update_yaxes(title_text="<b>" + row2 + "</b>", secondary_y=True, showgrid=False)
+    fig.update_yaxes(title_text="<b>" + row1 + "</b>", secondary_y=False, showgrid=False,tickfont=dict(color='white'))
+    fig.update_yaxes(title_text="<b>" + row2 + "</b>", secondary_y=True, showgrid=False,tickfont=dict(color='white'))
+    fig.update_xaxes(tickfont=dict(color='yellow'),)
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
-    with st.expander(row1 + "/" + row2 +" DATA"):
-        st.dataframe(new_df.style.format(formatter="{:.1f}"))
 
+    col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
+    with col1:
+        with st.expander(row1 + "/" + row2 + " DATA"):
+            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    with col3:
+        image_path = './downloadimages/' + comp_Name.upper() + " " + row1 + row2 + ".png"
+        savenameas = os.path.basename(image_path)
+        print("TRYING TO SAVE IMAGE")
+        fig.write_image(image_path, width = 1350, height = 1080)
+        print("Saved as image")
+        with open(image_path, "rb") as file:
+            btn = st.download_button(
+                label="Download",
+                data=file,
+                file_name=savenameas,
+                mime="image/png"
+            )
 
 def bar_line(df,row1,row2,color_bar,comp_Name):
     dat_rows = [df.loc[row1], df.loc[row2]]
@@ -105,25 +145,41 @@ def bar_line(df,row1,row2,color_bar,comp_Name):
     fig.add_trace(go.Bar(x=new_df.index, y=new_df[row1], name=row1, textposition='auto', text=new_df[row1]),
                   secondary_y=False)
     fig.update_traces(marker_color=color_bar, marker_line_color='rgb(8,48,107)',
-                      marker_line_width=1.5, opacity=1, texttemplate='%{text:.3s}', textposition='outside')
+                      marker_line_width=1.5, opacity=1, texttemplate='%{text:.3s}', textposition='outside', textfont=dict(size=18), textfont_color='yellow')
     fig.add_trace(go.Scatter(x=new_df.index, y=new_df[row2], name=row2, text=new_df[row2]),
                   secondary_y=True)
     # Add figure title
     fig.update_layout(autosize=True, paper_bgcolor="#16181A",plot_bgcolor="#23282D",
                       height=height_val,width=width_val,
                       margin = dict(l=0,r=0,t=0,b=0, pad=10),
-                      title={'font':{'color':"#e25f5b"},'text': "<b>" + comp_Name.upper() + "</b> : <i>" + 'Report <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
-                             'y': 0.96, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
+                      title={'font':{'color':"#e25f5b"},'text': "<b>" + comp_Name.upper() + "</b> : <i>" + 'Report                                                          @itimesalgo </i>',
+                             'y': 0.99, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
                       xaxis_tickfont_size=14,
                       legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
                       bargap=0.15)  # legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),bargap = 0.15)
     # Set y-axes titles
-    fig.update_yaxes(title_text="<b>" + row1 + "</b>", secondary_y=False, showgrid=False)
-    fig.update_yaxes(title_text="<b>" + row2 + "</b>", secondary_y=True, showgrid=False)
+    fig.update_yaxes(title_text="<b>" + row1 + "</b>", secondary_y=False, showgrid=False,tickfont=dict(color='white'))
+    fig.update_yaxes(title_text="<b>" + row2 + "</b>", secondary_y=True, showgrid=False,tickfont=dict(color='white'))
+    fig.update_xaxes(tickfont=dict(color='white'),)
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
-    with st.expander(row1 + "/" + row2 +" DATA"):
-        st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
+    with col1:
+        with st.expander(row1 + "/" + row2 + " DATA"):
+            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    with col3:
+        image_path = './downloadimages/' + comp_Name.upper() + " " + row1 + row2 + ".png"
+        savenameas = os.path.basename(image_path)
+        print("TRYING TO SAVE IMAGE")
+        fig.write_image(image_path, width = 1350, height = 1080)
+        print("Saved as image")
+        with open(image_path, "rb") as file:
+            btn = st.download_button(
+                label="Download",
+                data=file,
+                file_name=savenameas,
+                mime="image/png"
+            )
 
 def qoq_growth(df,row_name,color_bar,comp_Name):
     temp_df = df.loc[row_name]
@@ -132,31 +188,53 @@ def qoq_growth(df,row_name,color_bar,comp_Name):
     df2 = df.append(df_qoq)
     # Create figure with secondary y-axis
     fig = make_subplots(specs=[[{"secondary_y": True}]])
+    # adds bar chart
     fig.add_trace(go.Bar(x=df2.columns, y=df2.loc[row_name], name=row_name, textposition = 'auto',text = df.loc[row_name]),
                    secondary_y=False)
     fig.update_traces(marker_color=color_bar, marker_line_color='rgb(8,48,107)',
-                      marker_line_width=1.5, opacity=1, texttemplate='%{text:.3s}', textposition='outside')
+                      marker_line_width=1.5, opacity=1, texttemplate='%{text:.3s}', textposition='outside', textfont=dict(size=18), textfont_color='yellow')
+    # adds line chart
     fig.add_trace(go.Scatter(x=df2.columns, y=df2.iloc[-1], name=row_name + " QoQ", text = df.iloc[-1]),
                    secondary_y=True)
     # Add figure title
     fig.update_layout(autosize=True, paper_bgcolor="#16181A",plot_bgcolor="#23282D",
                       height=height_val, width=width_val,
                       margin=dict(l=0, r=0, t=0, b=0, pad=10),
-                      title={'font':{'color':"#e25f5b"},'text': "<b>" + comp_Name.upper() + "</b> : <i>" + row_name + ' Report <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
-                              'y': 0.96, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
+                      title={'font':{'color':"#e25f5b"},'text': "<b>" + comp_Name.upper() + "</b> : <i>" + row_name + ' Report                                                          @itimesalgo </i>',
+                              'y': 0.99, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
                        xaxis_tickfont_size=14,
                        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
                        bargap=0.15)#legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),bargap = 0.15)
     # Set y-axes titles
-    fig.update_yaxes(title_text="<b>" + row_name + "</b> in cr ", secondary_y=False,showgrid=False)
-    fig.update_yaxes(title_text="<b> QoQ </b> in % ", secondary_y=True,showgrid=False)
+    fig.update_yaxes(title_text="<b>" + row_name + "</b> in cr ", secondary_y=False,showgrid=False,tickfont=dict(color='white'))
+    fig.update_yaxes(title_text="<b> QoQ </b> in % ", secondary_y=True,showgrid=False,tickfont=dict(color='white'))
+    fig.update_xaxes(tickfont=dict(color='yellow'),)
+    # Set x-axis tick color and font color
+    fig.update_xaxes(tickfont_color='white')  # Set font color for x-axis tick labels
     st.plotly_chart(fig,use_container_width=True)
     new_df = pd.concat([df2.loc[row_name],df2.iloc[-1]], axis=1).transpose()
-    with st.expander(row_name+" DATA"):
-        st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
+    with col1:
+        with st.expander(row_name + " DATA"):
+            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    with col3:
+        image_path = './downloadimages/' + comp_Name.upper() + " " + row_name + " QoQ.png"
+        savenameas = os.path.basename(image_path)
+        print("TRYING TO SAVE IMAGE")
+        fig.write_image(image_path, width = 1350, height = 1080)
+        print("Saved as image")
+        with open(image_path, "rb") as file:
+            btn = st.download_button(
+                label="Download",
+                data=file,
+                file_name=savenameas,
+                mime="image/png"
+            )
+
     #st.subheader('Downloads:')
     #generate_excel_download_link(df2)
     #generate_html_download_link(fig)
+
 
 #this has 2 series concatenated, these 2 are shown as GroupBar
 def peer_bar(df,Name,comp1_Name,comp2_Name):   #this has 2 series concatinated with key names
@@ -168,64 +246,180 @@ def peer_bar(df,Name,comp1_Name,comp2_Name):   #this has 2 series concatinated w
                       paper_bgcolor="#16181A", plot_bgcolor="#23282D",
                       height=height_val, width=width_val,
                       margin = dict(l=0,r=0,t=0,b=0, pad=10),
-                      title={'font':{'color':"#e25f5b"},'text': '<b>' + comp1_Name + '/' + comp2_Name + Name + '</b> <i> Comparision <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
-                             'y': 0.96, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
+                      title={'font':{'color':"#e25f5b"},'text': '<b>' + comp1_Name + '/' + comp2_Name + Name + '</b> <i> Comparision                                                          @itimesalgo </i>',
+                             'y': 0.99, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
                       xaxis_tickfont_size=14,
-                      xaxis=dict(showgrid=False),
-                      yaxis=dict(showgrid=False, title='INR (cr)', titlefont_size=16, tickfont_size=14, ),
+                      xaxis=dict(showgrid=False,tickfont=dict(color='white'),),
+                      yaxis=dict(showgrid=False, title='INR (cr)', titlefont_size=16, tickfont_size=14,tickfont=dict(color='white'), ),
                       legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),
                       bargap=0.1)   # this barmode = 'group | stack | 'relative''
     st.plotly_chart(fig, use_container_width=True)
     new_df = pd.concat([df[bar_list[0]],df[bar_list[1]]], axis=1).transpose()
-    with st.expander(Name + " DATA"):
-        st.dataframe(new_df.style.format(formatter="{:.1f}"))
+
+
+    col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
+    with col1:
+        with st.expander(Name + " DATA"):
+            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    with col3:
+        image_path = './downloadimages/' + comp1_Name.upper() + '/' + comp2_Name.upper() + " " + Name + ".png"
+        savenameas = os.path.basename(image_path)
+        print("TRYING TO SAVE IMAGE")
+        fig.write_image(image_path, width = 1350, height = 1080)
+        print("Saved as image")
+        with open(image_path, "rb") as file:
+            btn = st.download_button(
+                label="Download",
+                data=file,
+                file_name=savenameas,
+                mime="image/png"
+            )
 
 def group_2_bars(df,row1,row2,comp_Name):
     dat_rows = [df.loc[row1], df.loc[row2]]
     new_df = pd.concat(dat_rows, keys=[row1, row2], axis=1)
-    #st.write(new_df)
-    fig = go.Figure(data=[go.Bar(name=row1, x=new_df.index, y=new_df[row1], textposition='auto', text=new_df.iloc[0], marker={'color': "#3EC1CD"}),
-                          go.Bar(name=row2, x=new_df.index, y=new_df[row2], textposition='auto', text=new_df.iloc[1], marker={'color': "#EF3A4C"}),
-                          ])
+    # Create the text labels for each bar
+    text_labels_row1 = new_df[row1].tolist()
+    text_labels_row2 = new_df[row2].tolist()
+
+    # Create the bar chart with text labels for each trace
+    fig = go.Figure(data=[
+        go.Bar(
+            name=row1,
+            x=new_df.index,
+            y=new_df[row1],
+            text=text_labels_row1,  # Provide the text labels for row1 bars
+            textposition='auto',
+            marker={'color': "#3EC1CD"}
+        ),
+        go.Bar(
+            name=row2,
+            x=new_df.index,
+            y=new_df[row2],
+            text=text_labels_row2,  # Provide the text labels for row2 bars
+            textposition='auto',
+            marker={'color': "#EF3A4C"}
+        ),
+    ])
+
     # Change the bar mode
-    fig.update_layout(autosize=True,barmode='group', bargroupgap=0.1,
-                      paper_bgcolor="#16181A", plot_bgcolor="#23282D",
-                      height=height_val, width=width_val,
-                      margin = dict(l=0,r=0,t=0,b=0, pad=10),
-                      title={'font':{'color':"#e25f5b"},'text': "<b>" + comp_Name.upper() + '</b> <i> Report  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
-                             'y': 0.96, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
-                      xaxis_tickfont_size=14,
-                      xaxis=dict(showgrid=False),
-                      yaxis=dict(showgrid=False, title='INR (cr)', titlefont_size=16, tickfont_size=14),
-                      legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),
-                      bargap=0.1)   # this barmode = 'group | stack | 'relative''
-    #fig.update_layout(barmode='stack', xaxis={'categoryorder':'category ascending'}) # WHILE USING STACK
+    fig.update_layout(
+        autosize=True,
+        barmode='group',
+        bargroupgap=0.1,
+        paper_bgcolor="#16181A",
+        plot_bgcolor="#23282D",
+        height=height_val,
+        width=width_val,
+        margin=dict(l=0, r=0, t=0, b=0, pad=10),
+        title={'font': {'color': "#e25f5b"},
+               'text': "<b>" + comp_Name.upper() + row1 + ' ' + row2 + '</b> <i> Report   @itimesalgo </i>',
+               'y': 0.99, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
+        xaxis_tickfont_size=14,
+        xaxis=dict(showgrid=False, tickfont=dict(color='white')),
+        yaxis=dict(showgrid=False, title='INR (cr)', titlefont_size=16, tickfont_size=14,
+                   tickfont=dict(color='white')),
+        legend=dict(yanchor="top", y=0.99, xanchor="left", x=0.01),
+        bargap=0.1
+    )
+
+    # Customize text font color and size
+    fig.update_traces(textfont=dict(color='yellow', size=14))
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
-    with st.expander(row1 + "/" + row2 +" DATA"):
-        st.dataframe(new_df.style.format(formatter="{:.1f}"))
+
+    col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
+    with col1:
+        with st.expander(row1 + "/" + row2 + " DATA"):
+            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    with col3:
+        image_path = './downloadimages/' + comp_Name.upper() + " " + row1 + row2 + ".png"
+        savenameas = os.path.basename(image_path)
+        print("TRYING TO SAVE IMAGE")
+        fig.write_image(image_path, width = 1350, height = 1080)
+        print("Saved as image")
+        with open(image_path, "rb") as file:
+            btn = st.download_button(
+                label="Download",
+                data=file,
+                file_name=savenameas,
+                mime="image/png"
+            )
 
 # THIS IS SPECIFICALLY DESIGNED FOR CASHFLOWs, Where fixed 4 rows are there
 def go_group_bar(df, row_name,color_bar):
+    # Sample data
     bar_list = list(df.index)
-    fig = go.Figure(data=[ go.Bar(name=bar_list[0], x=df.columns, y=df.iloc[0], textposition = 'auto', text = df.iloc[0]),
-                           go.Bar(name=bar_list[1],  x=df.columns, y=df.iloc[1], textposition = 'auto', text = df.iloc[1]),
-                           go.Bar(name=bar_list[2], x=df.columns, y=df.iloc[2], textposition='auto', text=df.iloc[2]),
-                           go.Bar(name=bar_list[3], x=df.columns, y=df.iloc[3], textposition='auto', text=df.iloc[3])
-                           ])
-    # Change the bar mode
-    fig.update_layout(autosize=True, barmode='group', bargroupgap=0.1,
-                      paper_bgcolor="#16181A", plot_bgcolor="#23282D",
-                      height=height_val, width=width_val,
-                      margin = dict(l=0,r=0,t=0,b=0, pad=10),
-                      title={'font':{'color':"#e25f5b"},'text': '<b>' + row_name + '</b> <i>Report  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> https://investorstimes.herokuapp.com </i>',
-                             'y': 0.96, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
-                      xaxis_tickfont_size=14,
-                      xaxis=dict(showgrid=False),
-                      yaxis=dict(showgrid=False, title='INR (cr)', titlefont_size=16, tickfont_size=14, ),
-                      legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),)   # this barmode = 'group | stack | 'relative''
-    #fig.update_layout(barmode='stack', xaxis={'categoryorder':'category ascending'}) # WHILE USING STACK
+
+    # Create the bar chart with text labels and customize text font size and color
+    fig = go.Figure(data=[
+        go.Bar(
+            name=bar_list[0],
+            x=df.columns,
+            y=df.iloc[0],
+            textposition='auto',
+            text=df.iloc[0],
+            textfont=dict(
+                size=24,  # Set font size for the text inside bars
+                color='yellow'  # Set font color for the text inside bars
+            )
+        ),
+        go.Bar(
+            name=bar_list[1],
+            x=df.columns,
+            y=df.iloc[1],
+            textposition='auto',
+            text=df.iloc[1],
+            textfont=dict(
+                size=24,  # Set font size for the text inside bars
+                color='yellow'  # Set font color for the text inside bars
+            )
+        ),
+        go.Bar(
+            name=bar_list[2],
+            x=df.columns,
+            y=df.iloc[2],
+            textposition='auto',
+            text=df.iloc[2],
+            textfont=dict(
+                size=24,  # Set font size for the text inside bars
+                color='yellow'  # Set font color for the text inside bars
+            )
+        ),
+        go.Bar(
+            name=bar_list[3],
+            x=df.columns,
+            y=df.iloc[3],
+            textposition='auto',
+            text=df.iloc[3],
+            textfont=dict(
+                size=24,  # Set font size for the text inside bars
+                color='yellow'  # Set font color for the text inside bars
+            )
+        )
+    ])
+
+    # Change the bar mode and update layout properties
+    fig.update_layout(
+        autosize=True,
+        barmode='group',
+        bargroupgap=0.1,
+        paper_bgcolor="#16181A",
+        plot_bgcolor="#23282D",
+        height=height_val,
+        width=width_val,
+        margin=dict(l=0, r=0, t=0, b=0, pad=10),
+        title={'font': {'color': "#e25f5b"}, 'text': '<b>' + row_name + '</b> <i>Report   @itimesalgo </i>',
+               'y': 0.99, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
+        xaxis_tickfont_size=14,
+        xaxis=dict(showgrid=False, tickfont=dict(color='white')),
+        yaxis=dict(showgrid=False, title='INR (cr)', titlefont_size=16, tickfont_size=14, tickfont=dict(color='white')),
+        legend=dict(yanchor="top", y=0.99, xanchor="left", x=0.01),
+    )
+
+    # Show the plot
     st.plotly_chart(fig, use_container_width=True)
+
 
 def get_tables(datasht,file):
     for i in range(1,datasht.max_row+1) :
