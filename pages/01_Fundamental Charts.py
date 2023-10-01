@@ -30,6 +30,10 @@ with st.sidebar:
     font-size:22px ; font-family: 'Cooper Black'; color: #FF9633;} 
     </style> """, unsafe_allow_html=True)
     # Add a file uploader to allow users to upload their csv file
+    
+    uploaded_file = st.file_uploader("", type=['xlsx','xlsm'],accept_multiple_files = True)  # Only accepts xlsx,xlsm file format
+    st.markdown('<p class="font">Upload One or Two xlsx/xlsm FILES from screener.in </p>',
+                unsafe_allow_html=True)
     st_lottie(
         lottie_data_analytics,
         speed=0.7,
@@ -39,10 +43,6 @@ with st.sidebar:
         height=None,
         width=None,
         key="barchart", )
-    uploaded_file = st.file_uploader("", type=['xlsx','xlsm'],accept_multiple_files = True)  # Only accepts xlsx,xlsm file format
-    st.markdown('<p class="font">Upload One or Two xlsx/xlsm FILES from screener.in </p>',
-                unsafe_allow_html=True)
-
 if uploaded_file is not None:
     if len(uploaded_file)==1:
         comp_Name = uploaded_file[0].name.split('.xlsx')[0]
