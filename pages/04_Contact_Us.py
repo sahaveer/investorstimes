@@ -53,7 +53,7 @@ with col2:  # To display brand log
 #st.markdown('<p class="font">About the Creator</p>', unsafe_allow_html=True)
 st.markdown("---")
 st.markdown('<p class="font2">About the Creator</p>', unsafe_allow_html=True)
-st.write("We @iTimes are trying to create basic DIY fundamental analysis. \n\n We shall try bringing you here bse announcements and amibroker eod data here")
+st.write("We @iTimes are trying to create basic DIY fundamental analysis. \n\n We shall try bringing you here bse announcements here")
 st.write("We sincerely appreciates your suggestions and contribution to improvise our iTimes community.")
 st.markdown("---")
 
