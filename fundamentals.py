@@ -70,18 +70,18 @@ def go_bar(df, row_name,color_bar,comp_Name):
     new_df = pd.concat([df.loc[row_name]], axis=1).transpose()
     st.plotly_chart(fig,use_container_width=True)
 
-    #col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
-    #with col1:
-        #with st.expander(row_name + " DATA"):
-            #st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    #with col3:
-        #image_path = './downloadimages/' + comp_Name.upper() + " " + row_name + ".png"
-        #savenameas = os.path.basename(image_path)
-        #print("TRYING TO SAVE IMAGE")
-        #fig.write_image(image_path, width = 1350, height = 1080)
-        #print("Saved as image")
-        #with open(image_path, "rb") as file:
-            #btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
+    col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
+    with col1:
+        with st.expander(row_name + " DATA"):
+            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    with col3:
+        image_path = './downloadimages/' + comp_Name.upper() + " " + row_name + ".png"
+        savenameas = os.path.basename(image_path)
+        print("TRYING TO SAVE IMAGE")
+        fig.write_image(image_path, width = 1350, height = 1080)
+        print("Saved as image")
+        with open(image_path, "rb") as file:
+            btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
 
 
     #fig.write_image("./downloadimages/fig1.png")
@@ -114,18 +114,18 @@ def both_lines(df,row1,row2,color_bar,color_line,comp_Name):
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
 
-    #col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
-    #with col1:
-        #with st.expander(row1 + "/" + row2 + " DATA"):
-            #st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    #with col3:
-        #image_path = './downloadimages/' + comp_Name.upper() + " " + row1 + row2 + ".png"
-        #savenameas = os.path.basename(image_path)
-        #print("TRYING TO SAVE IMAGE")
-        #fig.write_image(image_path, width = 1350, height = 1080)
-        #print("Saved as image")
-        #with open(image_path, "rb") as file:
-            #btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
+    col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
+    with col1:
+        with st.expander(row1 + "/" + row2 + " DATA"):
+            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    with col3:
+        image_path = './downloadimages/' + comp_Name.upper() + " " + row1 + row2 + ".png"
+        savenameas = os.path.basename(image_path)
+        print("TRYING TO SAVE IMAGE")
+        fig.write_image(image_path, width = 1350, height = 1080)
+        print("Saved as image")
+        with open(image_path, "rb") as file:
+            btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
 
 def bar_line(df,row1,row2,color_bar,comp_Name):
     dat_rows = [df.loc[row1], df.loc[row2]]
@@ -153,18 +153,18 @@ def bar_line(df,row1,row2,color_bar,comp_Name):
     fig.update_xaxes(tickfont=dict(color='white'),)
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
-    #col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
-    #with col1:
-        #with st.expander(row1 + "/" + row2 + " DATA"):
-            #st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    #with col3:
-        #image_path = './downloadimages/' + comp_Name.upper() + " " + row1 + row2 + ".png"
-        #savenameas = os.path.basename(image_path)
-        #print("TRYING TO SAVE IMAGE")
-        #fig.write_image(image_path, width = 1350, height = 1080)
-        #print("Saved as image")
-        #with open(image_path, "rb") as file:
-            #btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
+    col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
+    with col1:
+        with st.expander(row1 + "/" + row2 + " DATA"):
+            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    with col3:
+        image_path = './downloadimages/' + comp_Name.upper() + " " + row1 + row2 + ".png"
+        savenameas = os.path.basename(image_path)
+        print("TRYING TO SAVE IMAGE")
+        fig.write_image(image_path, width = 1350, height = 1080)
+        print("Saved as image")
+        with open(image_path, "rb") as file:
+            btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
 
 def qoq_growth(df,row_name,color_bar,comp_Name):
     temp_df = df.loc[row_name]
@@ -198,17 +198,17 @@ def qoq_growth(df,row_name,color_bar,comp_Name):
     fig.update_xaxes(tickfont_color='white')  # Set font color for x-axis tick labels
     st.plotly_chart(fig,use_container_width=True)
     new_df = pd.concat([df2.loc[row_name],df2.iloc[-1]], axis=1).transpose()
-    #col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
-    #with col1:
-        #with st.expander(row_name + " DATA"):
-            #st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    #with col3:
-        #image_path = './downloadimages/' + comp_Name.upper() + " " + row_name + " QoQ.png"
-        #savenameas = os.path.basename(image_path)
-        #print("TRYING TO SAVE IMAGE")
-        #fig.write_image(image_path, width = 1350, height = 1080)
-        #print("Saved as image")
-        #with open(image_path, "rb") as file:btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
+    col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
+    with col1:
+        with st.expander(row_name + " DATA"):
+            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    with col3:
+        image_path = './downloadimages/' + comp_Name.upper() + " " + row_name + " QoQ.png"
+        savenameas = os.path.basename(image_path)
+        print("TRYING TO SAVE IMAGE")
+        fig.write_image(image_path, width = 1350, height = 1080)
+        print("Saved as image")
+        with open(image_path, "rb") as file:btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
 
     #st.subheader('Downloads:')
     #generate_excel_download_link(df2)
@@ -236,18 +236,18 @@ def peer_bar(df,Name,comp1_Name,comp2_Name):   #this has 2 series concatinated w
     new_df = pd.concat([df[bar_list[0]],df[bar_list[1]]], axis=1).transpose()
 
 
-    #col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
-    #with col1:
-        #with st.expander(Name + " DATA"):
-            #st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    #with col3:
-        #image_path = './downloadimages/' + comp1_Name.upper() + '/' + comp2_Name.upper() + " " + Name + ".png"
-        #savenameas = os.path.basename(image_path)
-        #print("TRYING TO SAVE IMAGE")
-        #fig.write_image(image_path, width = 1350, height = 1080)
-        #print("Saved as image")
-        #with open(image_path, "rb") as file:
-            #btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
+    col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
+    with col1:
+        with st.expander(Name + " DATA"):
+            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    with col3:
+        image_path = './downloadimages/' + comp1_Name.upper() + '/' + comp2_Name.upper() + " " + Name + ".png"
+        savenameas = os.path.basename(image_path)
+        print("TRYING TO SAVE IMAGE")
+        fig.write_image(image_path, width = 1350, height = 1080)
+        print("Saved as image")
+        with open(image_path, "rb") as file:
+            btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
 
 def group_2_bars(df,row1,row2,comp_Name):
     dat_rows = [df.loc[row1], df.loc[row2]]
@@ -302,18 +302,18 @@ def group_2_bars(df,row1,row2,comp_Name):
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
 
-    #col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
-    #with col1:
-        #with st.expander(row1 + "/" + row2 + " DATA"):
-            #st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    #with col3:
-        #image_path = './downloadimages/' + comp_Name.upper() + " " + row1 + row2 + ".png"
-        #savenameas = os.path.basename(image_path)
-        #print("TRYING TO SAVE IMAGE")
-        #fig.write_image(image_path, width = 1350, height = 1080)
-        #print("Saved as image")
-        #with open(image_path, "rb") as file:
-            #btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
+    col1, col2, col3 = st.columns([0.5, 0.3, 0.2])
+    with col1:
+        with st.expander(row1 + "/" + row2 + " DATA"):
+            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    with col3:
+        image_path = './downloadimages/' + comp_Name.upper() + " " + row1 + row2 + ".png"
+        savenameas = os.path.basename(image_path)
+        print("TRYING TO SAVE IMAGE")
+        fig.write_image(image_path, width = 1350, height = 1080)
+        print("Saved as image")
+        with open(image_path, "rb") as file:
+            btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
 
 # THIS IS SPECIFICALLY DESIGNED FOR CASHFLOWs, Where fixed 4 rows are there
 def go_group_bar(df, row_name,color_bar):
