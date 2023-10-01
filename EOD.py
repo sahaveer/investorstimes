@@ -45,13 +45,12 @@ def empty_folder(folder_path):
 
 
 def main():
-    with st.sidebar:
+    #with st.sidebar:
         # PATHS OF THIS COMPUTER
-        st.info("pls mention here your computer paths")
-        path_bhav = st.text_input("path_bhav", value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/')  # './bhavcopy/')
-        path_csv = st.text_input("path_csv",
-                                 value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/')  # './bhavcopy/csv')
-        path_download = st.text_input("path_download", value='C:/Users/sahaveer/Downloads/')
+        #st.info("pls mention here your computer paths")
+        #path_bhav = st.text_input("path_bhav", value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/')  # './bhavcopy/')
+        #path_csv = st.text_input("path_csv",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/')  # './bhavcopy/csv')
+        #path_download = st.text_input("path_download", value='C:/Users/sahaveer/Downloads/')
 
     col1, col2 = st.columns([1, 1])
     with col1:
