@@ -187,13 +187,15 @@ def get_links_txtnames(ddmmmyyyy):
     # NSEFULLLINK GIVES DELIVERY DATA AS WELL
     nse_full_link = "https://archives.nseindia.com/products/content/sec_bhavdata_full_" + dd_to_d + mm_to_d + yyyy_to_d + ".csv"
     possible_fullbhav_name = "sec_bhavdata_full_" + dd_to_d + mm_to_d + yyyy_to_d + ".csv"
-    txt2_name = './bhavfiles/' + yyyy_to_d + mm_to_d + dd_to_d + "_" + "NSE.txt"
+    #txt2_name = './bhavfiles/' + yyyy_to_d + mm_to_d + dd_to_d + "_" + "NSE.txt"
+    txt2_name = yyyy_to_d + mm_to_d + dd_to_d + "_" + "NSE.txt"
 
     # indexlink = 'https://www1.nseindia.com/content/indices/ind_close_all_' + dd_to_d + mm_to_d + yyyy_to_d + '.csv'
     indexlink = 'https://archives.nseindia.com/content/indices/ind_close_all_' + dd_to_d + mm_to_d + yyyy_to_d + '.csv'
     possible_index_name = 'ind_close_all_' + dd_to_d + mm_to_d + yyyy_to_d
-    txt1_name = './bhavfiles/' + yyyy_to_d + mm_to_d + dd_to_d + "_" + "INDEX.txt"
-
+    #txt1_name = './bhavfiles/' + yyyy_to_d + mm_to_d + dd_to_d + "_" + "INDEX.txt"
+    txt1_name = yyyy_to_d + mm_to_d + dd_to_d + "_" + "INDEX.txt"
+    
     # FOR bselink and fnolink yyyymmdd is required and not txtnames
     bselink = 'https://www.bseindia.com/download/BhavCopy/Equity/EQ' + dd_to_d + mm_to_d + yy_to_d + '_CSV.ZIP'
     fnolink = "https://archives.nseindia.com/content/historical/DERIVATIVES/" + yyyy_to_d + "/" + mmm_to_d + "/fo" + dd_to_d + mmm_to_d + yyyy_to_d + "bhav.csv.zip"
@@ -294,8 +296,10 @@ def bse_file(bselink,yyyymmdd):
         print(csv_path)
         print("lets read CSV file now")
         #txt3_name = './bhavfiles/' + file2.split('.CSV')[0] + '.txt'
-        txt3_name = './bhavfiles/' + yyyymmdd + "_" + "BSE.txt"
-        txt3_name1 = './bhavfiles/' + yyyymmdd + "_" + "BSE_code.txt"
+        #txt3_name = './bhavfiles/' + yyyymmdd + "_" + "BSE.txt"
+        #txt3_name1 = './bhavfiles/' + yyyymmdd + "_" + "BSE_code.txt"
+        txt3_name = yyyymmdd + "_" + "BSE.txt"
+        txt3_name1 = yyyymmdd + "_" + "BSE_code.txt"
         with open(csv_path, 'r') as reading:
             bse_full_file = csv.DictReader(reading)
             print("Read the CSV file, lets write to txt now")
@@ -327,8 +331,10 @@ def fno_file(fnolink,yyyymmdd):
         csv_path = zip_csv_download(fnolink,fno_file_name)
         csv_path = './bhavfiles/' + csv_path
         print("lets read CSV file now")
-        txt4_name = './bhavfiles/' + yyyymmdd + "_" + "FUTURES.txt"
-        txt5_name = './bhavfiles/' + yyyymmdd + "_" + "INDEX OPTIONS.txt"
+        #txt4_name = './bhavfiles/' + yyyymmdd + "_" + "FUTURES.txt"
+        #txt5_name = './bhavfiles/' + yyyymmdd + "_" + "INDEX OPTIONS.txt"
+        txt4_name = yyyymmdd + "_" + "FUTURES.txt"
+        txt5_name = yyyymmdd + "_" + "INDEX OPTIONS.txt"
         with open(csv_path, 'r') as reading:
             fno_full_file = csv.DictReader(reading)
             # first_row = next(fno_full_file)
