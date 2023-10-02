@@ -281,7 +281,7 @@ def csv_download(full_link,possible_bhav_name):             # CSV files for NSE 
         urllib.request.install_opener(opener)
         with urllib.request.urlopen(full_link, timeout=10) as test_file, open(csvbhav_path, 'w',newline="") as f:
             f.write(test_file.read().decode())
-            st.success(f"Downloaded CSV from NSE site in {bhav_csv_path}")
+            #st.success(f"Downloaded CSV from NSE site in {bhav_csv_path}")
         return csvbhav_path
     except Exception as e:
         st.error(f"CSV_download function failed due to {e} ")
@@ -311,12 +311,13 @@ def nse_file(nse_full_link,possible_fullbhav_name,txt2_name):
                                 txt.write(
                                     line['SYMBOL'] + "," + str(yyyymmdd) + "," + line[' OPEN_PRICE'] + "," +
                                     line[' HIGH_PRICE'] + "," + line[' LOW_PRICE'] + "," + line[' CLOSE_PRICE'] + "," + line[' TTL_TRD_QNTY'] + "," + line[' DELIV_QTY'] + "\n")
+
             return "success"
         else:
             st.error(f"Asked for {yyyymmdd} Date but got {yyyymmdd_cell} in the excel NSE file, thus skipping")
             return "fail"
     except Exception as e:
-        print(f"Failed to download NSE file due to {e}")
+        st.error(f"Failed to download NSE file due to {e}")
         return "fail"
 def index_file(indexlink,possible_index_name,txt1_name):
     try:
@@ -344,7 +345,7 @@ def index_file(indexlink,possible_index_name,txt1_name):
                                 'Closing Index Value'] + "," + line['Volume'] + "\n")
             return txt1_name
     except Exception as e:
-        print(f"Failed to download INDEX file due to {e}")
+        st.error(f"Failed to download INDEX file due to {e}")
         return "fail"
 
 def zip_csv_download(link,file_name):
@@ -402,7 +403,7 @@ def bse_file(bselink,yyyymmdd):
                                 txt.write(line['SC_CODE'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line['NO_OF_SHRS'] + "\n")
         return txt3_name,txt3_name1
     except Exception as e:
-        print(f"Failed to download BSE file due to {e}")
+        st.error(f"Failed to download BSE file due to {e}")
         return "fail"
 def fno_file(fnolink,yyyymmdd):
     try:
@@ -444,7 +445,7 @@ def fno_file(fnolink,yyyymmdd):
                         txt1.write(line['SYMBOL'] + " " + line["STRIKE_PR"] + line["OPTION_TYP"] + " " + line["EXPIRY_DT"] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line['CONTRACTS'] + line['OPEN_INT'] + "\n")
         return txt4_name,txt5_name
     except Exception as e:
-        print(f"Failed to download FNO file due to {e}")
+        st.error(f"Failed to download FNO file due to {e}")
         return "fail"
 
 
