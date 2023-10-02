@@ -179,7 +179,6 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
         try:
             result = ""
             result = nse_file(nse_full_link, possible_fullbhav_name, txt2_name)
-            st.success(f"NSE function returned {result}")
             if result == "success":
                 #st.success(txt2_name)
                 with ZipFile(EOD_file, "a") as m_zip:
@@ -194,7 +193,6 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
         #  DOWNLOADING INDEX FILE
         try:  # INDEX FILE - DOWNLOADING
             txt1_name = index_file(indexlink, possible_index_name, txt1_name)
-            st.success(f'Index file returned : {txt1_name}')
             if os.path.exists(txt1_name):
                 with ZipFile(EOD_file, "a") as m_zip:
                     m_zip.write(txt1_name)
@@ -208,7 +206,6 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
 
         try:
             txt3_name, txt3_name1 = bse_file(bselink, yyyymmdd)
-            st.success(f"Succesfully got data from BSE site {txt3_name}")
             if os.path.exists(txt3_name) and os.path.exists(txt3_name1):
                 with ZipFile(EOD_file, "a") as m_zip:
                     m_zip.write(txt3_name)
@@ -223,7 +220,6 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
 
         try:
             txt4_name, txt5_name = fno_file(fnolink, yyyymmdd)
-            st.success(f"Succesfully got data from BSE site {txt4_name}")
             if os.path.exists(txt4_name) and os.path.exists(txt5_name):
                 with ZipFile(EOD_file, "a") as m_zip:
                     m_zip.write(txt4_name)
