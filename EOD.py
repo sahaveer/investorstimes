@@ -185,7 +185,7 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
                     m_zip.write(txt2_name)
                 st.success("DONE NSE BHAVCOPY FOR " + yyyymmdd)
             else:
-                st.error("NSE function didnt return SUCCESS")
+                #st.error("NSE function didnt return SUCCESS")
                 pass
         except Exception as e:
             st.error(f"Failed to download NSE bhavcopy due to : {e}")
@@ -198,8 +198,8 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
                     m_zip.write(txt1_name)
                 st.success("DONE INDEX BHAVCOPIES FOR " + yyyymmdd)
             else:
-                st.error("INDEX function didnt return anything")
-
+                #st.error("INDEX function didnt return anything")
+                pass
         except Exception as e:
             st.error(f"Failed to download INDEX bhavcopy due to : {e}")
             pass
@@ -212,8 +212,8 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
                     m_zip.write(txt3_name1)
                 st.success("DONE BSE BHAVCOPY FOR " + yyyymmdd)
             else:
-                st.error("BSE function didnt return SUCCESS")
-
+                #st.error("BSE function didnt return SUCCESS")
+                pass
         except Exception as e:
             st.error(f"Failed to download BSE bhavcopy due to : {e}")
             pass
@@ -226,8 +226,8 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
                     m_zip.write(txt5_name)
                 st.success("DONE F&O BHAVCOPY FOR " + yyyymmdd)
             else:
-                st.error("FNO function didnt return SUCCESS")
-
+                #st.error("FNO function didnt return SUCCESS")
+                pass
         except Exception as e:
             st.error(f"Failed to download F&O bhavcopy due to : {e}")
             pass
