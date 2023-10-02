@@ -302,7 +302,7 @@ def csv_download(full_link,possible_bhav_name):             # CSV files for NSE 
         except :
             pass
             #st.error(f"Failed to download through headers as well")
-        st.error(f"CSV_download function failed due to {e} ")
+        st.error(f"{full_link} failed due to {e} ")
 
 
 def nse_file(nse_full_link,possible_fullbhav_name,txt2_name):
