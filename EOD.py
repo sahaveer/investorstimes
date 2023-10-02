@@ -175,15 +175,6 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
     EOD_file = f"./bhavfiles/EOD.zip"
     for ddmmmyyyy in ddmmmyyyy_list:
         yyyymmdd, nse_full_link, possible_fullbhav_name, txt2_name, indexlink, possible_index_name, txt1_name, bselink, fnolink = get_links_txtnames(ddmmmyyyy)
-        st.success(yyyymmdd)
-        st.success(nse_full_link)
-        st.success(possible_fullbhav_name)
-        st.success(txt2_name)
-        st.success(indexlink)
-        st.success(possible_index_name)
-        st.success(txt1_name)
-        st.success(bselink)
-        st.success(fnolink)
         # NSE FILE
         try:
             result = ""
@@ -287,13 +278,14 @@ def csv_download(full_link,possible_bhav_name):             # CSV files for NSE 
     opener = urllib.request.build_opener()
     opener.addheaders = [('User-Agent', 'Mozilla/5.0')]
     urllib.request.install_opener(opener)
-    with urllib.request.urlopen(full_link, timeout=5) as test_file, open(csvbhav_path, 'w',newline="") as f:
+    with urllib.request.urlopen(full_link, timeout=10) as test_file, open(csvbhav_path, 'w',newline="") as f:
         f.write(test_file.read().decode())
     return csvbhav_path
+
 def nse_file(nse_full_link,possible_fullbhav_name,txt2_name):
     try:
         bhav_csv_path = csv_download(nse_full_link,possible_fullbhav_name)
-        st.success(f"DOwnloaded CSV from NSE site in {bhav_csv_path}")
+        st.success(f"Downloaded CSV from NSE site in {bhav_csv_path}")
         date_nse = str(possible_fullbhav_name[18:20])
         mnth_nse = str(possible_fullbhav_name[20:22])
         yr_nse = str(possible_fullbhav_name[22:26])
@@ -319,6 +311,7 @@ def nse_file(nse_full_link,possible_fullbhav_name,txt2_name):
                                     line[' HIGH_PRICE'] + "," + line[' LOW_PRICE'] + "," + line[' CLOSE_PRICE'] + "," + line[' TTL_TRD_QNTY'] + "," + line[' DELIV_QTY'] + "\n")
             return "success"
         else:
+            st.error(f"Asked for {yyyymmdd} Date but got {yyyymmdd_cell} in the excel NSE file, thus skipping")
             return "fail"
     except Exception as e:
         print(f"Failed to download NSE file due to {e}")
