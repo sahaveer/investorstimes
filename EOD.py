@@ -297,11 +297,11 @@ def csv_download(full_link,possible_bhav_name):             # CSV files for NSE 
     except Exception as e:
         try:
             set_cookie()
-            with sess.get(url, headers=headers, timeout=15, cookies=cookies) as test_file, open(csvbhav_path, 'w',newline="") as f:
+            with rllib.request.urlopen(url, headers=headers, timeout=15, cookies=cookies) as test_file, open(csvbhav_path, 'w',newline="") as f:
                 f.write(test_file.read().decode())
         except :
             pass
-            st.error(f"Failed to download through headers as well")
+            #st.error(f"Failed to download through headers as well")
         st.error(f"CSV_download function failed due to {e} ")
 
 
