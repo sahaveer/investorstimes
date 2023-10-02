@@ -186,6 +186,7 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
                     m_zip.write(txt2_name)
                 st.success("DONE NSE BHAVCOPY FOR " + yyyymmdd)
             else:
+                print("NSE function didnt return SUCCESS")
                 pass
         except Exception as e:
             st.error(f"Failed to download NSE bhavcopy due to : {e}")
@@ -198,6 +199,8 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
                 with ZipFile(EOD_file, "a") as m_zip:
                     m_zip.write(txt1_name)
                 st.success("DONE INDEX BHAVCOPIES FOR " + yyyymmdd)
+            else:
+                print("INDEX function didnt return anything")
 
         except Exception as e:
             st.error(f"Failed to download INDEX bhavcopy due to : {e}")
@@ -211,6 +214,9 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
                     m_zip.write(txt3_name)
                     m_zip.write(txt3_name1)
                 st.success("DONE BSE BHAVCOPY FOR " + yyyymmdd)
+            else:
+                print("BSE function didnt return SUCCESS")
+
         except Exception as e:
             st.error(f"Failed to download BSE bhavcopy due to : {e}")
             pass
@@ -223,6 +229,9 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
                     m_zip.write(txt4_name)
                     m_zip.write(txt5_name)
                 st.success("DONE F&O BHAVCOPY FOR " + yyyymmdd)
+            else:
+                print("FNO function didnt return SUCCESS")
+
         except Exception as e:
             st.error(f"Failed to download F&O bhavcopy due to : {e}")
             pass
@@ -298,7 +307,8 @@ def nse_file(nse_full_link,possible_fullbhav_name,txt2_name):
             return "success"
         else:
             return "fail"
-    except Exception as TimedoutError:
+    except Exception as e:
+        print(f"Failed to download NSE file due to {e}")
         return "fail"
 def index_file(indexlink,possible_index_name,txt1_name):
     try:
@@ -325,7 +335,8 @@ def index_file(indexlink,possible_index_name,txt1_name):
                                 'High Index Value'] + "," + line['Low Index Value'] + "," + line[
                                 'Closing Index Value'] + "," + line['Volume'] + "\n")
             return txt1_name
-    except Exception as TimedoutError:
+    except Exception as e:
+        print(f"Failed to download INDEX file due to {e}")
         return "fail"
 
 def zip_csv_download(link,file_name):
@@ -382,7 +393,8 @@ def bse_file(bselink,yyyymmdd):
                             if line['SC_NAME'] not in avoid_stocks:
                                 txt.write(line['SC_CODE'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line['NO_OF_SHRS'] + "\n")
         return txt3_name,txt3_name1
-    except Exception as TimedoutError:
+    except Exception as e:
+        print(f"Failed to download BSE file due to {e}")
         return "fail"
 def fno_file(fnolink,yyyymmdd):
     try:
@@ -423,7 +435,8 @@ def fno_file(fnolink,yyyymmdd):
                     if line["INSTRUMENT"] == "OPTIDX" and line["OPEN"] != "0" and line["HIGH"] != "0" and line["LOW"] != "0" and line["CLOSE"] != "0":  # options for INDEX
                         txt1.write(line['SYMBOL'] + " " + line["STRIKE_PR"] + line["OPTION_TYP"] + " " + line["EXPIRY_DT"] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line['CONTRACTS'] + line['OPEN_INT'] + "\n")
         return txt4_name,txt5_name
-    except Exception as TimedoutError:
+    except Exception as e:
+        print(f"Failed to download FNO file due to {e}")
         return "fail"
 
 
