@@ -31,6 +31,13 @@ import streamlit as st
 
 from scriptstoavoid import *
 
+from telegram.update import Update
+import pymongo
+from pymongo import MongoClient
+Connection_String = "mongodb+srv://EODBhavcopy:bhavcopy@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
+client = MongoClient(Connection_String)
+EOD_col = db["EOD"]
+
 #st.title("EOD BHAVCOPY")
 # PATHS OF THIS COMPUTER
 #path_bhav = 'C:/Users/sahaveer/OneDrive/Documents/bhavcopy/'
@@ -297,11 +304,7 @@ def csv_download(full_link,possible_bhav_name):             # CSV files for NSE 
             #st.success(f"Downloaded CSV from NSE site in {bhav_csv_path}")
         return csvbhav_path
     except Exception as e:
-        try:
-            subprocess.run(["curl", "-o", csvbhav_path , full_link])
-            return csvbhav_path
-        except:
-            st.error(f"{full_link} failed due to {e} ")
+        st.error(f"{full_link} failed due to {e} ")
 
 #def csv_from_other(nse_full_link,possible_fullbhav_name):
     
@@ -471,7 +474,10 @@ def fno_file(fnolink,yyyymmdd):
         return "fail"
 
 
-
-
+def get_nse_link_db():
+    get_eod_data = EOD_col.find_one({"date": "aug2023"})
+    st.write(get_eod_data['file_id'])
+    st.write(get_eod_data['date'])
+    
 if __name__ == '__main__':
     main()
