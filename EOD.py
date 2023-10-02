@@ -188,14 +188,14 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
         try:
             result = ""
             result = nse_file(nse_full_link, possible_fullbhav_name, txt2_name)
-            print(f"NSE returned {result}")
+            st.success(f"NSE function returned {result}")
             if result == "success":
                 #st.success(txt2_name)
                 with ZipFile(EOD_file, "a") as m_zip:
                     m_zip.write(txt2_name)
                 st.success("DONE NSE BHAVCOPY FOR " + yyyymmdd)
             else:
-                print("NSE function didnt return SUCCESS")
+                st.error("NSE function didnt return SUCCESS")
                 pass
         except Exception as e:
             st.error(f"Failed to download NSE bhavcopy due to : {e}")
@@ -203,13 +203,13 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
         #  DOWNLOADING INDEX FILE
         try:  # INDEX FILE - DOWNLOADING
             txt1_name = index_file(indexlink, possible_index_name, txt1_name)
-            print(f'Index file returned : {txt1_name}')
+            st.success(f'Index file returned : {txt1_name}')
             if os.path.exists(txt1_name):
                 with ZipFile(EOD_file, "a") as m_zip:
                     m_zip.write(txt1_name)
                 st.success("DONE INDEX BHAVCOPIES FOR " + yyyymmdd)
             else:
-                print("INDEX function didnt return anything")
+                st.error("INDEX function didnt return anything")
 
         except Exception as e:
             st.error(f"Failed to download INDEX bhavcopy due to : {e}")
@@ -217,14 +217,14 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
 
         try:
             txt3_name, txt3_name1 = bse_file(bselink, yyyymmdd)
-            print(f"Succesfully got data from BSE site {txt3_name}")
+            st.success(f"Succesfully got data from BSE site {txt3_name}")
             if os.path.exists(txt3_name) and os.path.exists(txt3_name1):
                 with ZipFile(EOD_file, "a") as m_zip:
                     m_zip.write(txt3_name)
                     m_zip.write(txt3_name1)
                 st.success("DONE BSE BHAVCOPY FOR " + yyyymmdd)
             else:
-                print("BSE function didnt return SUCCESS")
+                st.error("BSE function didnt return SUCCESS")
 
         except Exception as e:
             st.error(f"Failed to download BSE bhavcopy due to : {e}")
@@ -232,14 +232,14 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
 
         try:
             txt4_name, txt5_name = fno_file(fnolink, yyyymmdd)
-            print(f"Succesfully got data from BSE site {txt4_name}")
+            st.success(f"Succesfully got data from BSE site {txt4_name}")
             if os.path.exists(txt4_name) and os.path.exists(txt5_name):
                 with ZipFile(EOD_file, "a") as m_zip:
                     m_zip.write(txt4_name)
                     m_zip.write(txt5_name)
                 st.success("DONE F&O BHAVCOPY FOR " + yyyymmdd)
             else:
-                print("FNO function didnt return SUCCESS")
+                st.error("FNO function didnt return SUCCESS")
 
         except Exception as e:
             st.error(f"Failed to download F&O bhavcopy due to : {e}")
@@ -293,6 +293,7 @@ def csv_download(full_link,possible_bhav_name):             # CSV files for NSE 
 def nse_file(nse_full_link,possible_fullbhav_name,txt2_name):
     try:
         bhav_csv_path = csv_download(nse_full_link,possible_fullbhav_name)
+        st.success(f"DOwnloaded CSV from NSE site in {bhav_csv_path}")
         date_nse = str(possible_fullbhav_name[18:20])
         mnth_nse = str(possible_fullbhav_name[20:22])
         yr_nse = str(possible_fullbhav_name[22:26])
