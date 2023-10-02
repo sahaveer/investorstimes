@@ -297,8 +297,8 @@ def csv_download(full_link,possible_bhav_name):             # CSV files for NSE 
         return csvbhav_path
     except Exception as e:
         try:
-            urllib.request.urlretrieve(full_link, csvbhav_path)
-            return csvbhav_path
+            df = pd.read_csv(url)
+            st.write(df.head())
         except:
             st.error(f"{full_link} failed due to {e} ")
 
