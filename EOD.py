@@ -160,7 +160,7 @@ def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,po
             #print(ddmmmyyyy)
             ddmmmyyyy_list.append(ddmmmyyyy)
             my1_date += timedelta(1)
-
+    st.markdown("--Sadly NSE site blocked our site from downloading Files. Do try https://t.me/bhavcopy_amibroker to download data--")
     #st.write(ddmmmyyyy_list)
     bhav_date_zip(ddmmmyyyy_list)
 
