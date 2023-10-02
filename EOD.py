@@ -31,6 +31,7 @@ import streamlit as st
 
 from scriptstoavoid import *
 
+import telegram
 from telegram.update import Update
 import pymongo
 from pymongo import MongoClient
