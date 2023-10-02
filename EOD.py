@@ -244,6 +244,21 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
             mime="application/octet-stream"
         )
 
+headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36',
+           # 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36',
+           'accept-language': 'en,gu;q=0.9,hi;q=0.8',
+           'accept-encoding': 'gzip, deflate, br',
+            'accept': '[asterisk]/[asterisk]',
+            'Connection': 'keep-alive'
+            }
+
+url_oc      = "https://www.nseindia.com/" #option-chain"
+sess = requests.Session()
+cookies = dict()
+# Local methods
+def set_cookie():
+    request = sess.get(url_oc, headers=headers, timeout=10)
+    cookies = dict(request.cookies)
 
 def get_links_txtnames(ddmmmyyyy):
     mmm_to_d = str(ddmmmyyyy[2:5].upper())
@@ -277,14 +292,22 @@ def csv_download(full_link,possible_bhav_name):             # CSV files for NSE 
     try:
         csvbhav_path = './bhavfiles/' + possible_bhav_name
         opener = urllib.request.build_opener()
-        opener.addheaders = [('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36')]
+        opener.addheaders = [('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36')]
         urllib.request.install_opener(opener)
         with urllib.request.urlopen(full_link, timeout=10) as test_file, open(csvbhav_path, 'w',newline="") as f:
             f.write(test_file.read().decode())
             #st.success(f"Downloaded CSV from NSE site in {bhav_csv_path}")
         return csvbhav_path
     except Exception as e:
+        try:
+            set_cookie()
+            with sess.get(url, headers=headers, timeout=15, cookies=cookies) as test_file, open(csvbhav_path, 'w',newline="") as f:
+            f.write(test_file.read().decode())
+        except :
+            st.error(f"Failed to download through headers as well")
         st.error(f"CSV_download function failed due to {e} ")
+
+
 def nse_file(nse_full_link,possible_fullbhav_name,txt2_name):
     try:
         bhav_csv_path = csv_download(nse_full_link,possible_fullbhav_name)
