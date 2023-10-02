@@ -274,18 +274,20 @@ def get_links_txtnames(ddmmmyyyy):
     return yyyymmdd,nse_full_link, possible_fullbhav_name, txt2_name, indexlink, possible_index_name, txt1_name, bselink, fnolink
 
 def csv_download(full_link,possible_bhav_name):             # CSV files for NSE and INDEX
-    csvbhav_path = './bhavfiles/' + possible_bhav_name
-    opener = urllib.request.build_opener()
-    opener.addheaders = [('User-Agent', 'Mozilla/5.0')]
-    urllib.request.install_opener(opener)
-    with urllib.request.urlopen(full_link, timeout=10) as test_file, open(csvbhav_path, 'w',newline="") as f:
-        f.write(test_file.read().decode())
-    return csvbhav_path
-
+    try:
+        csvbhav_path = './bhavfiles/' + possible_bhav_name
+        opener = urllib.request.build_opener()
+        opener.addheaders = [('User-Agent', 'Mozilla/5.0')]
+        urllib.request.install_opener(opener)
+        with urllib.request.urlopen(full_link, timeout=10) as test_file, open(csvbhav_path, 'w',newline="") as f:
+            f.write(test_file.read().decode())
+            st.success(f"Downloaded CSV from NSE site in {bhav_csv_path}")
+        return csvbhav_path
+    except Exception as e:
+        st.error(f"CSV_download function failed due to {e} ")
 def nse_file(nse_full_link,possible_fullbhav_name,txt2_name):
     try:
         bhav_csv_path = csv_download(nse_full_link,possible_fullbhav_name)
-        st.success(f"Downloaded CSV from NSE site in {bhav_csv_path}")
         date_nse = str(possible_fullbhav_name[18:20])
         mnth_nse = str(possible_fullbhav_name[20:22])
         yr_nse = str(possible_fullbhav_name[22:26])
