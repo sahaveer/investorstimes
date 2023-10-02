@@ -3,6 +3,9 @@
 # IDEA 3NOV2022 : Got to give an option in website to select the coulmns as per users demand and alos option to select if they want BSE CODE o BSE NAME
 # IDEA 3NOV2022: Would be better if i could avoid all the gaps in the last of BSE NAMES
 
+import glob,os
+import os.path
+import subprocess
 import re
 import time
 from time import sleep
@@ -10,17 +13,15 @@ import datetime
 from datetime import timedelta
 from datetime import date
 import shutil
-import glob,os
-import os.path
 
 import urllib.request
 from urllib.error import HTTPError
 import csv
 import pandas as pd
 import requests
+
 from zipfile import ZipFile
 import zipfile
-from zipfile import ZipFile
 from zipfile import BadZipFile
 
 from io import BytesIO
@@ -297,8 +298,8 @@ def csv_download(full_link,possible_bhav_name):             # CSV files for NSE 
         return csvbhav_path
     except Exception as e:
         try:
-            df = pd.read_csv(url)
-            st.write(df.head())
+            subprocess.run(["curl", "-o", csvbhav_path , ]full_link)
+            return csvbhav_path
         except:
             st.error(f"{full_link} failed due to {e} ")
 
