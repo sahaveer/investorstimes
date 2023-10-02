@@ -298,7 +298,7 @@ def csv_download(full_link,possible_bhav_name):             # CSV files for NSE 
         return csvbhav_path
     except Exception as e:
         try:
-            subprocess.run(["curl", "-o", csvbhav_path , full_link)
+            subprocess.run(["curl", "-o", csvbhav_path , full_link])
             return csvbhav_path
         except:
             st.error(f"{full_link} failed due to {e} ")
