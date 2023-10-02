@@ -304,6 +304,7 @@ def csv_download(full_link,possible_bhav_name):             # CSV files for NSE 
             with sess.get(url, headers=headers, timeout=15, cookies=cookies) as test_file, open(csvbhav_path, 'w',newline="") as f:
                 f.write(test_file.read().decode())
         except :
+            pass
             st.error(f"Failed to download through headers as well")
         st.error(f"CSV_download function failed due to {e} ")
 
@@ -337,10 +338,10 @@ def nse_file(nse_full_link,possible_fullbhav_name,txt2_name):
 
             return "success"
         else:
-            st.error(f"Asked for {yyyymmdd} Date but got {yyyymmdd_cell} in the excel NSE file, thus skipping")
+            #st.error(f"Asked for {yyyymmdd} Date but got {yyyymmdd_cell} in the excel NSE file, thus skipping")
             return "fail"
     except Exception as e:
-        st.error(f"Failed to download NSE file due to {e}")
+        #st.error(f"Failed to download NSE file due to {e}")
         return "fail"
 def index_file(indexlink,possible_index_name,txt1_name):
     try:
@@ -368,7 +369,7 @@ def index_file(indexlink,possible_index_name,txt1_name):
                                 'Closing Index Value'] + "," + line['Volume'] + "\n")
             return txt1_name
     except Exception as e:
-        st.error(f"Failed to download INDEX file due to {e}")
+        #st.error(f"Failed to download INDEX file due to {e}")
         return "fail"
 
 def zip_csv_download(link,file_name):
@@ -426,7 +427,7 @@ def bse_file(bselink,yyyymmdd):
                                 txt.write(line['SC_CODE'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line['NO_OF_SHRS'] + "\n")
         return txt3_name,txt3_name1
     except Exception as e:
-        st.error(f"Failed to download BSE file due to {e}")
+        #st.error(f"Failed to download BSE file due to {e}")
         return "fail"
 def fno_file(fnolink,yyyymmdd):
     try:
@@ -468,7 +469,7 @@ def fno_file(fnolink,yyyymmdd):
                         txt1.write(line['SYMBOL'] + " " + line["STRIKE_PR"] + line["OPTION_TYP"] + " " + line["EXPIRY_DT"] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line['CONTRACTS'] + line['OPEN_INT'] + "\n")
         return txt4_name,txt5_name
     except Exception as e:
-        st.error(f"Failed to download FNO file due to {e}")
+        #st.error(f"Failed to download FNO file due to {e}")
         return "fail"
 
 
