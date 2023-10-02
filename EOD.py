@@ -277,11 +277,7 @@ def csv_download(full_link,possible_bhav_name):             # CSV files for NSE 
     try:
         csvbhav_path = './bhavfiles/' + possible_bhav_name
         opener = urllib.request.build_opener()
-        opener.addheaders = [('user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36',
-                            'accept-language': 'en,gu;q=0.9,hi;q=0.8',
-                            'accept-encoding': 'gzip, deflate, br',
-                            'accept' : '[asterisk]/[asterisk]',
-                            'Connection' : 'keep-alive')] #[('User-Agent', 'Mozilla/5.0')]
+        opener.addheaders = [('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36')]
         urllib.request.install_opener(opener)
         with urllib.request.urlopen(full_link, timeout=10) as test_file, open(csvbhav_path, 'w',newline="") as f:
             f.write(test_file.read().decode())
