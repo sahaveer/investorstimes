@@ -275,6 +275,9 @@ def get_links_txtnames(ddmmmyyyy):
 
 def csv_download(full_link,possible_bhav_name):             # CSV files for NSE and INDEX
     csvbhav_path = './bhavfiles/' + possible_bhav_name
+    opener = urllib.request.build_opener()
+    opener.addheaders = [('User-Agent', 'Mozilla/5.0')]
+    urllib.request.install_opener(opener)
     with urllib.request.urlopen(full_link, timeout=5) as test_file, open(csvbhav_path, 'w',newline="") as f:
         f.write(test_file.read().decode())
     return csvbhav_path
