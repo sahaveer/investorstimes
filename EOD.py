@@ -187,8 +187,8 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
                 st.success("DONE NSE BHAVCOPY FOR " + yyyymmdd)
             else:
                 pass
-        except:
-            st.error("Failed to download INDEX bhavcopy")
+        except Exception as e:
+            st.error(f"Failed to download NSE bhavcopy due to : {e}")
             pass
         #  DOWNLOADING INDEX FILE
         try:  # INDEX FILE - DOWNLOADING
@@ -197,10 +197,10 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
             if os.path.exists(txt1_name):
                 with ZipFile(EOD_file, "a") as m_zip:
                     m_zip.write(txt1_name)
-                st.success("DONE BSE BHAVCOPIES FOR " + yyyymmdd)
+                st.success("DONE INDEX BHAVCOPIES FOR " + yyyymmdd)
 
-        except:
-            st.error("Failed to download INDEX bhavcopy")
+        except Exception as e:
+            st.error(f"Failed to download INDEX bhavcopy due to : {e}")
             pass
 
         try:
@@ -211,8 +211,8 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
                     m_zip.write(txt3_name)
                     m_zip.write(txt3_name1)
                 st.success("DONE BSE BHAVCOPY FOR " + yyyymmdd)
-        except:
-            st.error("Failed to download INDEX bhavcopy")
+        except Exception as e:
+            st.error(f"Failed to download BSE bhavcopy due to : {e}")
             pass
 
         try:
@@ -222,9 +222,9 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
                 with ZipFile(EOD_file, "a") as m_zip:
                     m_zip.write(txt4_name)
                     m_zip.write(txt5_name)
-                st.success("DONE INDEX BHAVCOPY FOR " + yyyymmdd)
-        except:
-            st.error("Failed to download F&O bhavcopy")
+                st.success("DONE F&O BHAVCOPY FOR " + yyyymmdd)
+        except Exception as e:
+            st.error(f"Failed to download F&O bhavcopy due to : {e}")
             pass
 
     with open(EOD_file, "rb") as fp:
