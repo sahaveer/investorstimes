@@ -175,6 +175,15 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
     EOD_file = f"./bhavfiles/EOD.zip"
     for ddmmmyyyy in ddmmmyyyy_list:
         yyyymmdd, nse_full_link, possible_fullbhav_name, txt2_name, indexlink, possible_index_name, txt1_name, bselink, fnolink = get_links_txtnames(ddmmmyyyy)
+        st.success(yyyymmdd)
+        st.success(nse_full_link)
+        st.success(possible_fullbhav_name)
+        st.success(txt2_name)
+        st.success(indexlink)
+        st.success(possible_index_name)
+        st.success(txt1_name)
+        st.success(bselink)
+        st.success(fnolink)
         # NSE FILE
         try:
             result = ""
