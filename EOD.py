@@ -296,8 +296,11 @@ def csv_download(full_link,possible_bhav_name):             # CSV files for NSE 
             #st.success(f"Downloaded CSV from NSE site in {bhav_csv_path}")
         return csvbhav_path
     except Exception as e:
-        urllib.request.urlretrieve(full_link, csvbhav_path)
-        st.error(f"{full_link} failed due to {e} ")
+        try:
+            urllib.request.urlretrieve(full_link, csvbhav_path)
+            return csvbhav_path
+        except:
+            st.error(f"{full_link} failed due to {e} ")
 
 #def csv_from_other(nse_full_link,possible_fullbhav_name):
     
