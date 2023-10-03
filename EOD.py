@@ -30,6 +30,7 @@ from selenium import webdriver
 import streamlit as st
 
 from scriptstoavoid import *
+from create_database import *
 
 from telegram import Bot, InputFile
 import telegram
