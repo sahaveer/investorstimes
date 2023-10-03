@@ -135,7 +135,6 @@ def main():
                 unsafe_allow_html=True)
        
     bot = telegram.Bot(token=token_investrade)
-    """Start the bot."""
     # Create the Updater and pass it your bot's token.
     updater = Updater(token=token_investrade, use_context=True)
     
@@ -172,6 +171,9 @@ def main():
         except BadZipFile:
             st.error("BadZipFile")
             pass
+    '''
+    The below Button is still under progress! Happy news is I have atleast found a way to get the Bhavfiles here
+    '''
     if st.button("Telegram_file_id"):
         #bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
         file_id = "BQACAgUAAx0Ea_o3YAACJUxlHBK31biRDHN-665spMe370BdYQACvQwAAr604FTgorFAP3tkfTAE"
