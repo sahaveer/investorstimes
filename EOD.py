@@ -31,11 +31,10 @@ import streamlit as st
 
 from scriptstoavoid import *
 
-st.set_page_config(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36")
-#headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36','accept-language': 'en,gu;q=0.9,hi;q=0.8','accept-encoding': 'gzip, deflate, br','accept': '[asterisk]/[asterisk]','Connection': 'keep-alive'}
-#url_oc      = "https://www.nseindia.com/" #option-chain"
-#sess = requests.Session()
-#cookies = dict()
+headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36','accept-language': 'en,gu;q=0.9,hi;q=0.8','accept-encoding': 'gzip, deflate, br','accept': '[asterisk]/[asterisk]','Connection': 'keep-alive'}
+url_oc      = "https://www.nseindia.com/" #option-chain"
+sess = requests.Session()
+cookies = dict()
 
 #st.title("EOD BHAVCOPY")
 # PATHS OF THIS COMPUTER
@@ -292,6 +291,12 @@ def csv_download(full_link,possible_bhav_name):             # CSV files for NSE 
         return csvbhav_path
     except Exception as e:
         st.error(f"{full_link} failed due to {e} ")
+        response = requests.get(nse_full_link, headers=headers)
+        if response.status_code == 200:
+            df = pd.read_csv(pd.compat.StringIO(response.text))
+            st.write(df)
+        else:
+            st.error(f"Error: Unable to fetch CSV. Status code: {response.status_code}")
 
 #def csv_from_other(nse_full_link,possible_fullbhav_name):
     
