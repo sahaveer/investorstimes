@@ -1,3 +1,7 @@
+[server]
+port = 80
+
+
 [theme]
 # Primary accent color for interactive elements.
 primaryColor = "#6C8594"
