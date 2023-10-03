@@ -139,7 +139,6 @@ def main():
     # Create the Updater and pass it your bot's token.
     updater = Updater(token=token_investrade, use_context=True)
     
-    
     #with st.sidebar:
         # PATHS OF THIS COMPUTER
         #st.info("pls mention here your computer paths")
@@ -197,9 +196,20 @@ def download_telegram_file(file_id, bot_token):
     }
     
     response = requests.post(url, json=payload, headers=headers)
-    
     st.success(response.text)
-        
+    file_path = response_data['result']['file_path']
+    file_download_url = f"https://api.telegram.org/file/bot{bot_token}/{file_path}"
+    response = requests.get(file_download_url)
+    st.error(f"So the first method is giving us filepath : {file_path}")            
+    if response.status_code == 200:
+        # Save the file content to a local file
+        with open(file_path, 'wb') as file:
+            file.write(response.content)
+        return file_path
+    else:
+        return None
+
+    
     # Construct the URL to get the file using the Telegram Bot API
     file_url = f"https://api.telegram.org/bot{bot_token}/getFile?file_id={file_id}"
     
@@ -209,6 +219,7 @@ def download_telegram_file(file_id, bot_token):
 
         if response_data['ok']:
             file_path = response_data['result']['file_path']
+            st.error(f"So the first method is giving us filepath : {file_path}")
             file_download_url = f"https://api.telegram.org/file/bot{bot_token}/{file_path}"
             
             #https://api.telegram.org/file/bot<token>/<file_path>
