@@ -175,7 +175,7 @@ def main():
             pass
     if st.button("Telegram_file_id"):
         #bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
-        file_id = "BQACAgUAAxkDAAIQ-2SuqIijmYYWFiS7myFNF841cF82AAL5CQACm955VdjNeacfRstmLwQ"
+        file_id = "BQACAgUAAx0Ea_o3YAACJUxlHBK31biRDHN-665spMe370BdYQACvQwAAr604FTgorFAP3tkfTAE"
         downloaded_file_path = download_telegram_file(file_id, token_investrade)
         #downloaded_file_path = download_fileid(file_id)
         #st.success(downloaded_file_path)
