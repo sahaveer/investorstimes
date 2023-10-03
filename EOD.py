@@ -31,7 +31,11 @@ import streamlit as st
 
 from scriptstoavoid import *
 
-
+st.set_page_config(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36")
+#headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36','accept-language': 'en,gu;q=0.9,hi;q=0.8','accept-encoding': 'gzip, deflate, br','accept': '[asterisk]/[asterisk]','Connection': 'keep-alive'}
+#url_oc      = "https://www.nseindia.com/" #option-chain"
+#sess = requests.Session()
+#cookies = dict()
 
 #st.title("EOD BHAVCOPY")
 # PATHS OF THIS COMPUTER
@@ -243,17 +247,6 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
             mime="application/octet-stream"
         )
 
-headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36',
-           # 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36',
-           'accept-language': 'en,gu;q=0.9,hi;q=0.8',
-           'accept-encoding': 'gzip, deflate, br',
-            'accept': '[asterisk]/[asterisk]',
-            'Connection': 'keep-alive'
-            }
-
-url_oc      = "https://www.nseindia.com/" #option-chain"
-sess = requests.Session()
-cookies = dict()
 # Local methods
 def set_cookie():
     request = sess.get(url_oc, headers=headers, timeout=10)
@@ -293,7 +286,6 @@ def csv_download(full_link,possible_bhav_name):             # CSV files for NSE 
         opener = urllib.request.build_opener()
         opener.addheaders = [('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36')]
         urllib.request.install_opener(opener)
-        
         with urllib.request.urlopen(full_link, timeout=10) as test_file, open(csvbhav_path, 'w',newline="") as f:
             f.write(test_file.read().decode())
             #st.success(f"Downloaded CSV from NSE site in {bhav_csv_path}")
