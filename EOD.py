@@ -290,13 +290,15 @@ def csv_download(full_link,possible_bhav_name):             # CSV files for NSE 
             #st.success(f"Downloaded CSV from NSE site in {bhav_csv_path}")
         return csvbhav_path
     except Exception as e:
-        st.error(f"{full_link} failed due to {e} ")
-        response = requests.get(nse_full_link, headers=headers)
+        
+        set_cookie()
+        response = sess.get(nse_full_link, headers=headers,cookies = cookies)
         if response.status_code == 200:
             df = pd.read_csv(pd.compat.StringIO(response.text))
             st.write(df)
         else:
             st.error(f"Error: Unable to fetch CSV. Status code: {response.status_code}")
+        st.error(f"{full_link} failed due to {e} ")
 
 #def csv_from_other(nse_full_link,possible_fullbhav_name):
     
