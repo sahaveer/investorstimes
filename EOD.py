@@ -42,7 +42,8 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 # Initialize the Telegram Bot with your API token
 token_jarvis = "1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI"
-bot = Bot(token=token_jarvis)
+token_investrade = '1186829396:AAHCQ0FCVWnTajl1VUwqr04UTdPJh8G3Aow'                 # @Sahav_Bot
+bot = Bot(token=token_investrade)
 def run_bot(bot, updater):
     # Start the bot
     updater.start_polling(timeout=120)
@@ -133,10 +134,10 @@ def main():
     st.markdown(full_message_temp.format(stock_quotes[random.randint(0, len(stock_quotes) - 1)]),
                 unsafe_allow_html=True)
        
-    bot = telegram.Bot(token=token_jarvis)
+    bot = telegram.Bot(token=token_investrade)
     """Start the bot."""
     # Create the Updater and pass it your bot's token.
-    updater = Updater(token=token_jarvis, use_context=True)
+    updater = Updater(token=token_investrade, use_context=True)
     
     
     #with st.sidebar:
