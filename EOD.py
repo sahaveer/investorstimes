@@ -31,6 +31,24 @@ import streamlit as st
 
 from scriptstoavoid import *
 
+from telegram import Bot, InputFile
+import telegram
+from telegram.ext.updater import Updater
+from telegram.update import Update
+import threading
+import logging
+from telegram.update import Update
+logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
+logger = logging.getLogger(__name__)
+# Initialize the Telegram Bot with your API token
+token_jarvis = "1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI"
+bot = Bot(token=token_jarvis)
+def run_bot(bot, updater):
+    # Start the bot
+    updater.start_polling(timeout=120)
+
+
+
 headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36','accept-language': 'en,gu;q=0.9,hi;q=0.8','accept-encoding': 'gzip, deflate, br','accept': '[asterisk]/[asterisk]','Connection': 'keep-alive'}
 url_oc      = "https://www.nseindia.com/" #option-chain"
 sess = requests.Session()
@@ -114,7 +132,13 @@ def main():
     """
     st.markdown(full_message_temp.format(stock_quotes[random.randint(0, len(stock_quotes) - 1)]),
                 unsafe_allow_html=True)
-
+       
+    bot = telegram.Bot(token=token_jarvis)
+    """Start the bot."""
+    # Create the Updater and pass it your bot's token.
+    updater = Updater(token=token_jarvis, use_context=True)
+    
+    
     #with st.sidebar:
         # PATHS OF THIS COMPUTER
         #st.info("pls mention here your computer paths")
@@ -122,6 +146,7 @@ def main():
         #path_csv = st.text_input("path_csv",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/')  # './bhavcopy/csv')
         #path_download = st.text_input("path_download", value='C:/Users/sahaveer/Downloads/')
 
+    
     col1, col2 = st.columns([1, 1])
     with col1:
         my1_date = st.date_input("FROM", value=date.today(),
@@ -133,6 +158,9 @@ def main():
         else:
             my2_date = st.date_input("TILL", value=date.today(),
                                      min_value=datetime.date(1990, 1, 1))
+
+    
+    
     if st.button("GENERATE BHAVCOPIES"):
         try:
             folder_to_empty = "./bhavfiles"
@@ -144,7 +172,28 @@ def main():
         except BadZipFile:
             st.error("BadZipFile")
             pass
+    if st.button("Telegram_file_id"):
+        bot.send_message(chat_id="itimesalgo_d", text="Just a test message")
+        file_id = "BQACAgUAAxkDAAIQ-2SuqIijmYYWFiS7myFNF841cF82AAL5CQACm955VdjNeacfRstmLwQ"
+        downloaded_file_path = download_fileid(file_id)
+        st.success(downloaded_file_path)
+        if downloaded_file_path:
+            st.success(f"File downloaded successfully. \nYou can access it at {downloaded_file_path}")
+        else:
+            st.error("File download failed.")
 
+# FOR GETTING TELEGRAM FILES
+def download_fileid(file_id):
+    try:
+        # Get the file object using the file_id
+        file = bot.get_file(file_id)
+        # Download the file to a local path
+        st.success(file.file_path)
+        local_path = os.path.join("./", file.file_path)
+        file.download(custom_path=local_path)
+        return local_path
+    except Exception as e:
+        return str(e)
 
 
 def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,possible_index_name):
