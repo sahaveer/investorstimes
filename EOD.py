@@ -179,7 +179,7 @@ def main():
         downloaded_file_path = download_telegram_file(file_id, token_investrade)
         #downloaded_file_path = download_fileid(file_id)
         #st.success(downloaded_file_path)
-        
+
         if downloaded_file_path:
             st.success(f"File downloaded successfully. \nYou can access it at {downloaded_file_path}")
         else:
@@ -189,7 +189,7 @@ def main():
 def download_telegram_file(file_id, bot_token):
     # Construct the URL to get the file using the Telegram Bot API
     file_url = f"https://api.telegram.org/bot{bot_token}/getFile?file_id={file_id}"
-
+    
     try:
         response = requests.get(file_url)
         response_data = response.json()
@@ -197,7 +197,8 @@ def download_telegram_file(file_id, bot_token):
         if response_data['ok']:
             file_path = response_data['result']['file_path']
             file_download_url = f"https://api.telegram.org/file/bot{bot_token}/{file_path}"
-
+            
+            #https://api.telegram.org/file/bot<token>/<file_path>
             # Download the file content using requests
             response = requests.get(file_download_url)
             
