@@ -196,7 +196,7 @@ def download_telegram_file(file_id, bot_token):
     
     response = requests.post(url, json=payload, headers=headers)
     st.success(response.text)
-    resp_json = response.json
+    resp_json = response.json()
     file_path = resp_json['result']['file_path']
     file_download_url = f"https://api.telegram.org/file/bot{bot_token}/{file_path}"
     response = requests.get(file_download_url)
