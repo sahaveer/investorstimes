@@ -187,6 +187,19 @@ def main():
 
 
 def download_telegram_file(file_id, bot_token):
+    url = f"https://api.telegram.org/bot{bot_token}/getFile"
+    st.info(f"We are going to download this url {url}")
+    payload = { "file_id": file_id }
+    headers = {
+        "accept": "application/json",
+        "User-Agent": "Telegram Bot SDK - (https://github.com/sahaveer/investorstimes)",
+        "content-type": "application/json"
+    }
+    
+    response = requests.post(url, json=payload, headers=headers)
+    
+    print(response.text)
+        
     # Construct the URL to get the file using the Telegram Bot API
     file_url = f"https://api.telegram.org/bot{bot_token}/getFile?file_id={file_id}"
     
