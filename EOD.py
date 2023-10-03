@@ -187,6 +187,7 @@ def main():
 
 def download_telegram_file(file_id, bot_token):
     url = f"https://api.telegram.org/bot{bot_token}/getFile"
+    save_file = "./bhavfiles/bhav.txt"
     payload = { "file_id": file_id }
     headers = {
         "accept": "application/json",
@@ -196,6 +197,8 @@ def download_telegram_file(file_id, bot_token):
     
     response = requests.post(url, json=payload, headers=headers)
     st.success(response.text)
+    st.success(response.status_code)
+
     resp_json = response.json()
     file_path = resp_json['result']['file_path']
     file_download_url = f"https://api.telegram.org/file/bot{bot_token}/{file_path}"
@@ -204,7 +207,7 @@ def download_telegram_file(file_id, bot_token):
     st.error(f"So the Second method is giving us filepath : {file_path}")            
     if response.status_code == 200:
         # Save the file content to a local file
-        with open(file_path, 'wb') as file:
+        with open(save_file, 'wb') as file:
             file.write(response.content)
         return file_path
     else:
