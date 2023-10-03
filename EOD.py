@@ -173,7 +173,7 @@ def main():
             st.error("BadZipFile")
             pass
     if st.button("Telegram_file_id"):
-        bot.send_message(chat_id="itimesalgo_d", text="Just a test message")
+        bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
         file_id = "BQACAgUAAxkDAAIQ-2SuqIijmYYWFiS7myFNF841cF82AAL5CQACm955VdjNeacfRstmLwQ"
         downloaded_file_path = download_fileid(file_id)
         st.success(downloaded_file_path)
