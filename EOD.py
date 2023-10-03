@@ -178,9 +178,16 @@ def main():
         downloaded_file_path = download_telegram_file(file_id, token_investrade)
         #downloaded_file_path = download_fileid(file_id)
         #st.success(downloaded_file_path)
-
+        
         if downloaded_file_path:
             st.success(f"File downloaded successfully. \nYou can access it at {downloaded_file_path}")
+            with open(downloaded_file_path, "rb") as fp:
+                btn = st.download_button(
+                    label="Download Text File",
+                    data=fp,
+                    file_name="your_text_file.txt",
+                    mime="text/plain"  # Set the MIME type to 'text/plain' for a text file
+                    )
         else:
             st.error("File download failed.")
 
