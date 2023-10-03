@@ -186,57 +186,33 @@ def main():
 
 
 def download_telegram_file(file_id, bot_token):
-    url = f"https://api.telegram.org/bot{bot_token}/getFile"
-    save_file = "./bhavfiles/bhav.txt"
-    payload = { "file_id": file_id }
-    headers = {
-        "accept": "application/json",
-        "User-Agent": "Telegram Bot SDK - (https://github.com/sahaveer/investorstimes)",
-        "content-type": "application/json"
-    }
-    
-    response = requests.post(url, json=payload, headers=headers)
-    st.success(response.text)
-    st.success(response.status_code)
-
-    resp_json = response.json()
-    file_path = resp_json['result']['file_path']
-    file_download_url = f"https://api.telegram.org/file/bot{bot_token}/{file_path}"
-    response = requests.get(file_download_url)
-    
-    st.error(f"So the Second method is giving us filepath : {file_path}")            
-    if response.status_code == 200:
-        # Save the file content to a local file
-        with open(save_file, 'wb') as file:
-            file.write(response.content)
-        return file_path
-    else:
-        return None
-
-    
-    # Construct the URL to get the file using the Telegram Bot API
-    file_url = f"https://api.telegram.org/bot{bot_token}/getFile?file_id={file_id}"
-    
     try:
-        response = requests.get(file_url)
-        response_data = response.json()
-
-        if response_data['ok']:
-            file_path = response_data['result']['file_path']
-            st.error(f"So the first method is giving us filepath : {file_path}")
-            file_download_url = f"https://api.telegram.org/file/bot{bot_token}/{file_path}"
-            
-            #https://api.telegram.org/file/bot<token>/<file_path>
-            # Download the file content using requests
-            response = requests.get(file_download_url)
-            
-            if response.status_code == 200:
-                # Save the file content to a local file
-                with open(file_path, 'wb') as file:
-                    file.write(response.content)
-                return file_path
-            else:
-                return None
+        url = f"https://api.telegram.org/bot{bot_token}/getFile"
+        save_file = "./bhavfiles/bhav.txt"
+        payload = { "file_id": file_id }
+        headers = {
+            "accept": "application/json",
+            "User-Agent": "Telegram Bot SDK - (https://github.com/sahaveer/investorstimes)",
+            "content-type": "application/json"
+        }
+        
+        response = requests.post(url, json=payload, headers=headers)
+        st.success(response.text)
+        st.success(response.status_code)
+    
+        resp_json = response.json()
+        file_path = resp_json['result']['file_path']
+        file_download_url = f"https://api.telegram.org/file/bot{bot_token}/{file_path}"
+        response = requests.get(file_download_url)
+        
+        st.error(f"So the Second method is giving us filepath : {file_path}")            
+        if response.status_code == 200:
+            # Save the file content to a local file
+            with open(save_file, 'wb') as file:
+                file.write(response.content)
+            return save_file
+        else:
+            return None
 
     except Exception as e:
         print(f"Error downloading file: {str(e)}")
