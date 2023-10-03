@@ -174,14 +174,44 @@ def main():
             st.error("BadZipFile")
             pass
     if st.button("Telegram_file_id"):
-        bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
+        #bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
         file_id = "BQACAgUAAxkDAAIQ-2SuqIijmYYWFiS7myFNF841cF82AAL5CQACm955VdjNeacfRstmLwQ"
-        downloaded_file_path = download_fileid(file_id)
-        st.success(downloaded_file_path)
+        downloaded_file_path = download_telegram_file(file_id, token_investrade)
+        #downloaded_file_path = download_fileid(file_id)
+        #st.success(downloaded_file_path)
+        
         if downloaded_file_path:
             st.success(f"File downloaded successfully. \nYou can access it at {downloaded_file_path}")
         else:
             st.error("File download failed.")
+
+
+def download_telegram_file(file_id, bot_token):
+    # Construct the URL to get the file using the Telegram Bot API
+    file_url = f"https://api.telegram.org/bot{bot_token}/getFile?file_id={file_id}"
+
+    try:
+        response = requests.get(file_url)
+        response_data = response.json()
+
+        if response_data['ok']:
+            file_path = response_data['result']['file_path']
+            file_download_url = f"https://api.telegram.org/file/bot{bot_token}/{file_path}"
+
+            # Download the file content using requests
+            response = requests.get(file_download_url)
+            
+            if response.status_code == 200:
+                # Save the file content to a local file
+                with open(file_path, 'wb') as file:
+                    file.write(response.content)
+                return file_path
+            else:
+                return None
+
+    except Exception as e:
+        print(f"Error downloading file: {str(e)}")
+        return None
 
 # FOR GETTING TELEGRAM FILES
 def download_fileid(file_id):
