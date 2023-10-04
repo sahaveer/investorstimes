@@ -47,8 +47,8 @@ token_investrade = '1186829396:AAHCQ0FCVWnTajl1VUwqr04UTdPJh8G3Aow'  # @Sahav_Bo
 bot = Bot(token=token_investrade)
 
 secrets = toml.load("secrets.toml")
-mongodb_username = secrets["mongodb"]["username"]
-mongodb_password = secrets["mongodb"]["password"]
+mongodb_username = secrets["mongo"]["username"]
+mongodb_password = secrets["mongo"]["password"]
 
 @st.cache_resource
 def init_connection():
