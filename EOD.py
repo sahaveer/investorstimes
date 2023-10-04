@@ -51,13 +51,25 @@ bot = Bot(token=token_investrade)
 #mongodb_username = secrets["mongo"]["username"]
 #mongodb_password = secrets["mongo"]["password"]
 
+
+def get_external_ip():
+    response = requests.get("https://api64.ipify.org?format=json")
+    if response.status_code == 200:
+        data = response.json()
+        return data.get("ip")
+    else:
+        return "Unknown"
+external_ip = get_external_ip()
+st.write("External IP:", external_ip)
+
+
 @st.cache_resource
 def init_connection():
     #Connection_String = "mongodb+srv://EODBhavcopy:bhavcopy@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
     #Connection_String = f"mongodb+srv://{mongodb_username}:{mongodb_password}@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
-    #return MongoClient(st.secrets["mongo"])
-    Connection_String = f"mongodb+srv://{st.secrets["mongo"]}@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
-    return MongoClient(Connection_String, server_api=ServerApi('1'))
+    return MongoClient(**st.secrets["mongo"])
+    #Connection_String = f"mongodb+srv://{st.secrets["mongo"]}@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
+    #return MongoClient(Connection_String, server_api=ServerApi('1'), tls=True)
 # Uses st.cache_data to only rerun when the query changes or after 10 min.
 @st.cache_data(ttl=600)
 def mongo_data(client):
