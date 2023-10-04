@@ -30,7 +30,10 @@ from selenium import webdriver
 import streamlit as st
 
 from scriptstoavoid import *
-from create_database import *
+import pymongo
+from pymongo import MongoClient
+# CONNECTION STRING : mongodb+srv://EODBhavcopy:bhavcopy@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority
+# client = pymongo.MongoClient("mongodb+srv://EODBhavcopy:<password>@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority")
 
 from telegram import Bot, InputFile
 import telegram
@@ -42,6 +45,36 @@ import logging
 token_jarvis = "1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI"
 token_investrade = '1186829396:AAHCQ0FCVWnTajl1VUwqr04UTdPJh8G3Aow'  # @Sahav_Bot
 bot = Bot(token=token_investrade)
+
+secrets = toml.load("secrets.toml")
+mongodb_username = secrets["mongodb"]["username"]
+mongodb_password = secrets["mongodb"]["password"]
+
+@st.cache_resource
+def init_connection():
+    #Connection_String = "mongodb+srv://EODBhavcopy:bhavcopy@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
+    Connection_String = f"mongodb+srv://{mongodb_username}:{mongodb_password}@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
+    return MongoClient(Connection_String)
+
+# Uses st.cache_data to only rerun when the query changes or after 10 min.
+@st.cache_data(ttl=600)
+def mongo_data():
+    db = client.get_database('Bhavcopy')
+    NSE_col = db["NSEbhav"]
+    BSE_col = db["BSEbhav"]
+    BSECODE_col = db["BSECODEbhav"]
+    INDEX_col = db["INDEXbhav"]
+    FUTURE_col = db["FUTURESbhav"]
+    OPTIONS_col = db["OPTIONSbhav"]
+    userid_col = db["usersdata"]
+    topics_col = db["topics"]
+    OI_col = db["OI"]
+    EOD_col = db["EOD"]
+    reco_col = db["RECO"]
+    pf_col = db["Portfolio"]
+    pfaccess_col = db["PFaccess"]
+    return NSE_col,BSECODE_col,BSE_col,INDEX_col,FUTURE_col
+
 
 headers = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36',
@@ -167,8 +200,11 @@ def main():
     The below Button is still under progress! Happy news is I have atleast found a way to get the Bhavfiles here
     '''
     if st.button("Telegram_file_id"):
-
         ddmmmyyyy_list = get_list_of_dates(my1_date, my2_date)
+        st.success(ddmmmyyyy_list)
+        client = init_connection()
+        NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col = mongo_data()
+
         for ddmmmyyyy in ddmmmyyyy_list:
             mmm_to_d, mm_to_d, dd_to_d, yyyy_to_d, yy_to_d = get_dateformats(ddmmmyyyy)
             search_date_in_db = yyyy_to_d + mm_to_d + dd_to_d
@@ -182,7 +218,7 @@ def main():
             bse_file_date = get_bse_data['date']
             if bse_file_date == search_date_in_db:
                 st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {bse_file_id}")
-                    
+
         # bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
         file_id = "BQACAgUAAx0Ea_o3YAACJUxlHBK31biRDHN-665spMe370BdYQACvQwAAr604FTgorFAP3tkfTAE"
         start_time = time.time()
