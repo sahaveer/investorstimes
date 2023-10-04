@@ -185,8 +185,8 @@ def main():
                     file_name="your_text_file.txt",
                     mime="text/plain"  # Set the MIME type to 'text/plain' for a text file
                 )
-        duration = time.time() - start_time
-        print(f"Downloaded in {duration} seconds")
+            duration = time.time() - start_time
+            print(f"Downloaded in {duration} seconds")
         else:
             st.error("File download failed.")
 
