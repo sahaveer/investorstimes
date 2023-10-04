@@ -46,9 +46,9 @@ token_jarvis = "1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI"
 token_investrade = '1186829396:AAHCQ0FCVWnTajl1VUwqr04UTdPJh8G3Aow'  # @Sahav_Bot
 bot = Bot(token=token_investrade)
 
-secrets = toml.load("secrets.toml")
-mongodb_username = secrets["mongo"]["username"]
-mongodb_password = secrets["mongo"]["password"]
+#secrets = toml.load("secrets.toml")
+#mongodb_username = secrets["mongo"]["username"]
+#mongodb_password = secrets["mongo"]["password"]
 
 @st.cache_resource
 def init_connection():
