@@ -63,7 +63,7 @@ external_ip = get_external_ip()
 st.write("External IP:", external_ip)
 
 
-@st.cache_resource
+#@st.cache_resource
 def init_connection():
     #Connection_String = "mongodb+srv://EODBhavcopy:bhavcopy@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
     #Connection_String = f"mongodb+srv://{mongodb_username}:{mongodb_password}@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
@@ -71,7 +71,7 @@ def init_connection():
     #Connection_String = f"mongodb+srv://{st.secrets["mongo"]}@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
     #return MongoClient(Connection_String, server_api=ServerApi('1'), tls=True)
 # Uses st.cache_data to only rerun when the query changes or after 10 min.
-@st.cache_data(ttl=600)
+#@st.cache_data(ttl=600)
 def mongo_data(client):
     db = client.Bhavcopy
     items = db.mycollection.find()
