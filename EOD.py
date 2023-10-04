@@ -201,7 +201,7 @@ def main():
     '''
     if st.button("Telegram_file_id"):
         ddmmmyyyy_list = get_list_of_dates(my1_date, my2_date)
-        st.success(ddmmmyyyy_list)
+        #st.success(ddmmmyyyy_list)
         client = init_connection()
         NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col = mongo_data(client)
 
