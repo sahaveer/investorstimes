@@ -169,7 +169,7 @@ def main():
     The below Button is still under progress! Happy news is I have atleast found a way to get the Bhavfiles here
     '''
     if st.button("Telegram_file_id"):
-        bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
+        #bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
         file_id = "BQACAgUAAx0Ea_o3YAACJUxlHBK31biRDHN-665spMe370BdYQACvQwAAr604FTgorFAP3tkfTAE"
         downloaded_file_path = download_telegram_file(file_id, token_investrade)
         # downloaded_file_path = download_fileid(file_id)
@@ -372,7 +372,7 @@ def csv_download(full_link, possible_bhav_name):  # CSV files for NSE and INDEX
             # st.success(f"Downloaded CSV from NSE site in {bhav_csv_path}")
         return csvbhav_path
     except Exception as e:
-        set_cookie()
+        #set_cookie()
         headers = {
             "accept": "application/json",
             "User-Agent": "Telegram Bot SDK - (https://github.com/sahaveer/investorstimes)",
