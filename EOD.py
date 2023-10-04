@@ -34,22 +34,14 @@ from create_database import *
 
 from telegram import Bot, InputFile
 import telegram
-from telegram.ext.updater import Updater
-from telegram.update import Update
+
 import threading
 import logging
-from telegram.update import Update
-logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
-logger = logging.getLogger(__name__)
+
 # Initialize the Telegram Bot with your API token
 token_jarvis = "1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI"
 token_investrade = '1186829396:AAHCQ0FCVWnTajl1VUwqr04UTdPJh8G3Aow'                 # @Sahav_Bot
 bot = Bot(token=token_investrade)
-def run_bot(bot, updater):
-    # Start the bot
-    updater.start_polling(timeout=120)
-
-
 
 headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36','accept-language': 'en,gu;q=0.9,hi;q=0.8','accept-encoding': 'gzip, deflate, br','accept': '[asterisk]/[asterisk]','Connection': 'keep-alive'}
 url_oc      = "https://www.nseindia.com/" #option-chain"
@@ -134,11 +126,7 @@ def main():
     """
     st.markdown(full_message_temp.format(stock_quotes[random.randint(0, len(stock_quotes) - 1)]),
                 unsafe_allow_html=True)
-       
-    bot = telegram.Bot(token=token_investrade)
-    # Create the Updater and pass it your bot's token.
-    updater = Updater(token=token_investrade, use_context=True)
-    
+   
     #with st.sidebar:
         # PATHS OF THIS COMPUTER
         #st.info("pls mention here your computer paths")
@@ -146,7 +134,6 @@ def main():
         #path_csv = st.text_input("path_csv",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/')  # './bhavcopy/csv')
         #path_download = st.text_input("path_download", value='C:/Users/sahaveer/Downloads/')
 
-    
     col1, col2 = st.columns([1, 1])
     with col1:
         my1_date = st.date_input("FROM", value=date.today(),
@@ -176,14 +163,14 @@ def main():
     The below Button is still under progress! Happy news is I have atleast found a way to get the Bhavfiles here
     '''
     if st.button("Telegram_file_id"):
-        #bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
+        bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
         file_id = "BQACAgUAAx0Ea_o3YAACJUxlHBK31biRDHN-665spMe370BdYQACvQwAAr604FTgorFAP3tkfTAE"
         downloaded_file_path = download_telegram_file(file_id, token_investrade)
         #downloaded_file_path = download_fileid(file_id)
         #st.success(downloaded_file_path)
         
         if downloaded_file_path:
-            st.success(f"File downloaded successfully. \nYou can access it at {downloaded_file_path}")
+            #st.success(f"File downloaded successfully. \nYou can access it at {downloaded_file_path}")
             with open(downloaded_file_path, "rb") as fp:
                 btn = st.download_button(
                     label="Download Text File",
