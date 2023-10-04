@@ -208,14 +208,14 @@ def download_telegram_file(file_id, bot_token):
         
         response = requests.post(url, json=payload, headers=headers)
         st.success(response.text)
-        st.success(response.status_code)
+        #st.success(response.status_code)
     
         resp_json = response.json()
         file_path = resp_json['result']['file_path']
         file_download_url = f"https://api.telegram.org/file/bot{bot_token}/{file_path}"
         response = requests.get(file_download_url)
         
-        st.error(f"So the Second method is giving us filepath : {file_path}")            
+        #st.error(f"So the Second method is giving us filepath : {file_path}")            
         if response.status_code == 200:
             # Save the file content to a local file
             with open(save_file, 'wb') as file:
@@ -227,19 +227,6 @@ def download_telegram_file(file_id, bot_token):
     except Exception as e:
         print(f"Error downloading file: {str(e)}")
         return None
-
-# FOR GETTING TELEGRAM FILES
-def download_fileid(file_id):
-    try:
-        # Get the file object using the file_id
-        file = bot.get_file(file_id)
-        # Download the file to a local path
-        st.success(file.file_path)
-        local_path = os.path.join("./", file.file_path)
-        file.download(custom_path=local_path)
-        return local_path
-    except Exception as e:
-        return str(e)
 
 
 def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,possible_index_name):
