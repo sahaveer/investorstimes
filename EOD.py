@@ -32,6 +32,7 @@ import streamlit as st
 from scriptstoavoid import *
 import pymongo
 from pymongo import MongoClient
+from pymongo.server_api import ServerApi
 # CONNECTION STRING : mongodb+srv://EODBhavcopy:bhavcopy@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority
 # client = pymongo.MongoClient("mongodb+srv://EODBhavcopy:<password>@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority")
 
@@ -50,14 +51,15 @@ bot = Bot(token=token_investrade)
 #mongodb_username = secrets["mongo"]["username"]
 #mongodb_password = secrets["mongo"]["password"]
 
-#@st.cache_resource
+@st.cache_resource
 def init_connection():
     #Connection_String = "mongodb+srv://EODBhavcopy:bhavcopy@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
     #Connection_String = f"mongodb+srv://{mongodb_username}:{mongodb_password}@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
-    return MongoClient(**st.secrets["mongo"])
-
+    #return MongoClient(st.secrets["mongo"])
+    Connection_String = f"mongodb+srv://{st.secrets["mongo"]}@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
+    return MongoClient(Connection_String, server_api=ServerApi('1'))
 # Uses st.cache_data to only rerun when the query changes or after 10 min.
-#@st.cache_data(ttl=600)
+@st.cache_data(ttl=600)
 def mongo_data(client):
     db = client.Bhavcopy
     items = db.mycollection.find()
