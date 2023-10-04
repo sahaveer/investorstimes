@@ -3,7 +3,7 @@
 # IDEA 3NOV2022 : Got to give an option in website to select the coulmns as per users demand and alos option to select if they want BSE CODE o BSE NAME
 # IDEA 3NOV2022: Would be better if i could avoid all the gaps in the last of BSE NAMES
 
-import glob,os
+import glob, os
 import os.path
 import subprocess
 import re
@@ -40,22 +40,30 @@ import logging
 
 # Initialize the Telegram Bot with your API token
 token_jarvis = "1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI"
-token_investrade = '1186829396:AAHCQ0FCVWnTajl1VUwqr04UTdPJh8G3Aow'                 # @Sahav_Bot
+token_investrade = '1186829396:AAHCQ0FCVWnTajl1VUwqr04UTdPJh8G3Aow'  # @Sahav_Bot
 bot = Bot(token=token_investrade)
 
-headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36','accept-language': 'en,gu;q=0.9,hi;q=0.8','accept-encoding': 'gzip, deflate, br','accept': '[asterisk]/[asterisk]','Connection': 'keep-alive'}
-url_oc      = "https://www.nseindia.com/" #option-chain"
+
+
+
+headers = {
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36',
+    'accept-language': 'en,gu;q=0.9,hi;q=0.8', 'accept-encoding': 'gzip, deflate, br',
+    'accept': '[asterisk]/[asterisk]', 'Connection': 'keep-alive'}
+url_oc = "https://www.nseindia.com/"  # option-chain"
 sess = requests.Session()
 cookies = dict()
 
-#st.title("EOD BHAVCOPY")
+# st.title("EOD BHAVCOPY")
 # PATHS OF THIS COMPUTER
-#path_bhav = 'C:/Users/sahaveer/OneDrive/Documents/bhavcopy/'
-#path_csv = "C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/"
-#path_download = 'C:/Users/sahaveer/Downloads/'
+# path_bhav = 'C:/Users/sahaveer/OneDrive/Documents/bhavcopy/'
+# path_csv = "C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/"
+# path_download = 'C:/Users/sahaveer/Downloads/'
 
 # WORKIGN ON DATE FORMATS FROM CSV STRING NAMES
-mnth_dict = {'JAN':'01' , 'FEB':'02' , 'MAR':'03', 'APR':'04', 'MAY':'05', 'JUN':'06', 'JUL':'07', 'AUG':'08', 'SEP':'09', 'OCT':'10', 'NOV':'11', 'DEC':'12'}
+mnth_dict = {'JAN': '01', 'FEB': '02', 'MAR': '03', 'APR': '04', 'MAY': '05', 'JUN': '06', 'JUL': '07', 'AUG': '08',
+             'SEP': '09', 'OCT': '10', 'NOV': '11', 'DEC': '12'}
+
 
 def empty_folder(folder_path):
     shutil.rmtree(folder_path)
@@ -126,13 +134,13 @@ def main():
     """
     st.markdown(full_message_temp.format(stock_quotes[random.randint(0, len(stock_quotes) - 1)]),
                 unsafe_allow_html=True)
-   
-    #with st.sidebar:
-        # PATHS OF THIS COMPUTER
-        #st.info("pls mention here your computer paths")
-        #path_bhav = st.text_input("path_bhav", value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/')  # './bhavcopy/')
-        #path_csv = st.text_input("path_csv",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/')  # './bhavcopy/csv')
-        #path_download = st.text_input("path_download", value='C:/Users/sahaveer/Downloads/')
+
+    # with st.sidebar:
+    # PATHS OF THIS COMPUTER
+    # st.info("pls mention here your computer paths")
+    # path_bhav = st.text_input("path_bhav", value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/')  # './bhavcopy/')
+    # path_csv = st.text_input("path_csv",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/')  # './bhavcopy/csv')
+    # path_download = st.text_input("path_download", value='C:/Users/sahaveer/Downloads/')
 
     col1, col2 = st.columns([1, 1])
     with col1:
@@ -146,13 +154,11 @@ def main():
             my2_date = st.date_input("TILL", value=date.today(),
                                      min_value=datetime.date(1990, 1, 1))
 
-    
-    
     if st.button("GENERATE BHAVCOPIES"):
         try:
             folder_to_empty = "./bhavfiles"
             empty_folder(folder_to_empty)
-            #st.write("Going to download_bhav Function")
+            # st.write("Going to download_bhav Function")
             download_bhav(my1_date, my2_date)
             # st.success("Done downloading, lets try extracting now")
             # eod_existing_files(path_bhav, path_csv)
@@ -166,18 +172,18 @@ def main():
         bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
         file_id = "BQACAgUAAx0Ea_o3YAACJUxlHBK31biRDHN-665spMe370BdYQACvQwAAr604FTgorFAP3tkfTAE"
         downloaded_file_path = download_telegram_file(file_id, token_investrade)
-        #downloaded_file_path = download_fileid(file_id)
-        #st.success(downloaded_file_path)
-        
+        # downloaded_file_path = download_fileid(file_id)
+        # st.success(downloaded_file_path)
+
         if downloaded_file_path:
-            #st.success(f"File downloaded successfully. \nYou can access it at {downloaded_file_path}")
+            # st.success(f"File downloaded successfully. \nYou can access it at {downloaded_file_path}")
             with open(downloaded_file_path, "rb") as fp:
                 btn = st.download_button(
                     label="Download Text File",
                     data=fp,
                     file_name="your_text_file.txt",
                     mime="text/plain"  # Set the MIME type to 'text/plain' for a text file
-                    )
+                )
         else:
             st.error("File download failed.")
 
@@ -186,23 +192,23 @@ def download_telegram_file(file_id, bot_token):
     try:
         url = f"https://api.telegram.org/bot{bot_token}/getFile"
         save_file = "./bhavfiles/bhav.txt"
-        payload = { "file_id": file_id }
+        payload = {"file_id": file_id}
         headers = {
             "accept": "application/json",
             "User-Agent": "Telegram Bot SDK - (https://github.com/sahaveer/investorstimes)",
             "content-type": "application/json"
         }
-        
+
         response = requests.post(url, json=payload, headers=headers)
         st.success(response.text)
-        #st.success(response.status_code)
-    
+        # st.success(response.status_code)
+
         resp_json = response.json()
         file_path = resp_json['result']['file_path']
         file_download_url = f"https://api.telegram.org/file/bot{bot_token}/{file_path}"
         response = requests.get(file_download_url)
-        
-        #st.error(f"So the Second method is giving us filepath : {file_path}")            
+
+        # st.error(f"So the Second method is giving us filepath : {file_path}")
         if response.status_code == 200:
             # Save the file content to a local file
             with open(save_file, 'wb') as file:
@@ -216,7 +222,7 @@ def download_telegram_file(file_id, bot_token):
         return None
 
 
-def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,possible_index_name):
+def download_bhav(my1_date, my2_date):  # nselink,bselink,indexlink,possible_index_name):
     ddmmmyyyy1 = my1_date.strftime("%d%b%Y")
     ddmmmyyyy2 = my2_date.strftime("%d%b%Y")
     created_zip = ZipFile("EOD.zip", "w")
@@ -231,36 +237,39 @@ def download_bhav(my1_date,my2_date):              #nselink,bselink,indexlink,po
         if weekday_num == 5 or weekday_num == 6:
             my1_date += timedelta(1)
             pass
-        else :
-            #print(ddmmmyyyy)
+        else:
+            # print(ddmmmyyyy)
             ddmmmyyyy_list.append(ddmmmyyyy)
             my1_date += timedelta(1)
-    st.markdown("--Sadly NSE site blocked our site from downloading Files. Do try https://t.me/bhavcopy_amibroker to download data--")
-    #st.write(ddmmmyyyy_list)
+    st.markdown(
+        "--Sadly NSE site blocked our site from downloading Files. Do try https://t.me/bhavcopy_amibroker to download data--")
+    # st.write(ddmmmyyyy_list)
     bhav_date_zip(ddmmmyyyy_list)
 
     st.markdown("____")
     st.markdown("**Download your copy and PLS spread YOUR LOVE by sharing website to NEAR and DEAR one\'s**")
     st.markdown("____")
 
-def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are lists here
+
+def bhav_date_zip(ddmmmyyyy_list):  # ddmmmyyyy and media_group are lists here
     # EXTRACT fro mNSE DB or download data and update in Database
     created_zip = ZipFile("./bhavfiles/EOD.zip", "w")
     created_zip.close()
     EOD_file = f"./bhavfiles/EOD.zip"
     for ddmmmyyyy in ddmmmyyyy_list:
-        yyyymmdd, nse_full_link, possible_fullbhav_name, txt2_name, indexlink, possible_index_name, txt1_name, bselink, fnolink = get_links_txtnames(ddmmmyyyy)
+        yyyymmdd, nse_full_link, possible_fullbhav_name, txt2_name, indexlink, possible_index_name, txt1_name, bselink, fnolink = get_links_txtnames(
+            ddmmmyyyy)
         # NSE FILE
         try:
             result = ""
             result = nse_file(nse_full_link, possible_fullbhav_name, txt2_name)
             if result == "success":
-                #st.success(txt2_name)
+                # st.success(txt2_name)
                 with ZipFile(EOD_file, "a") as m_zip:
                     m_zip.write(txt2_name)
                 st.success("DONE NSE BHAVCOPY FOR " + yyyymmdd)
             else:
-                #st.error("NSE function didnt return SUCCESS")
+                # st.error("NSE function didnt return SUCCESS")
                 pass
         except Exception as e:
             st.error(f"Failed to download NSE bhavcopy due to : {e}")
@@ -273,7 +282,7 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
                     m_zip.write(txt1_name)
                 st.success("DONE INDEX BHAVCOPIES FOR " + yyyymmdd)
             else:
-                #st.error("INDEX function didnt return anything")
+                # st.error("INDEX function didnt return anything")
                 pass
         except Exception as e:
             st.error(f"Failed to download INDEX bhavcopy due to : {e}")
@@ -287,7 +296,7 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
                     m_zip.write(txt3_name1)
                 st.success("DONE BSE BHAVCOPY FOR " + yyyymmdd)
             else:
-                #st.error("BSE function didnt return SUCCESS")
+                # st.error("BSE function didnt return SUCCESS")
                 pass
         except Exception as e:
             st.error(f"Failed to download BSE bhavcopy due to : {e}")
@@ -301,7 +310,7 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
                     m_zip.write(txt5_name)
                 st.success("DONE F&O BHAVCOPY FOR " + yyyymmdd)
             else:
-                #st.error("FNO function didnt return SUCCESS")
+                # st.error("FNO function didnt return SUCCESS")
                 pass
         except Exception as e:
             st.error(f"Failed to download F&O bhavcopy due to : {e}")
@@ -315,10 +324,12 @@ def bhav_date_zip(ddmmmyyyy_list):             #ddmmmyyyy and media_group are li
             mime="application/octet-stream"
         )
 
+
 # Local methods
 def set_cookie():
     request = sess.get(url_oc, headers=headers, timeout=10)
     cookies = dict(request.cookies)
+
 
 def get_links_txtnames(ddmmmyyyy):
     mmm_to_d = str(ddmmmyyyy[2:5].upper())
@@ -346,21 +357,28 @@ def get_links_txtnames(ddmmmyyyy):
     bselink = 'https://www.bseindia.com/download/BhavCopy/Equity/EQ' + dd_to_d + mm_to_d + yy_to_d + '_CSV.ZIP'
     fnolink = "https://archives.nseindia.com/content/historical/DERIVATIVES/" + yyyy_to_d + "/" + mmm_to_d + "/fo" + dd_to_d + mmm_to_d + yyyy_to_d + "bhav.csv.zip"
 
-    return yyyymmdd,nse_full_link, possible_fullbhav_name, txt2_name, indexlink, possible_index_name, txt1_name, bselink, fnolink
+    return yyyymmdd, nse_full_link, possible_fullbhav_name, txt2_name, indexlink, possible_index_name, txt1_name, bselink, fnolink
 
-def csv_download(full_link,possible_bhav_name):             # CSV files for NSE and INDEX
+
+def csv_download(full_link, possible_bhav_name):  # CSV files for NSE and INDEX
     try:
         csvbhav_path = './bhavfiles/' + possible_bhav_name
         opener = urllib.request.build_opener()
-        opener.addheaders = [('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36')]
+        opener.addheaders = [('User-Agent',
+                              'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36')]
         urllib.request.install_opener(opener)
-        with urllib.request.urlopen(full_link, timeout=10) as test_file, open(csvbhav_path, 'w',newline="") as f:
+        with urllib.request.urlopen(full_link, timeout=10) as test_file, open(csvbhav_path, 'w', newline="") as f:
             f.write(test_file.read().decode())
-            #st.success(f"Downloaded CSV from NSE site in {bhav_csv_path}")
+            # st.success(f"Downloaded CSV from NSE site in {bhav_csv_path}")
         return csvbhav_path
     except Exception as e:
         set_cookie()
-        response = sess.get(nse_full_link, headers=headers,cookies = cookies)
+        headers = {
+            "accept": "application/json",
+            "User-Agent": "Telegram Bot SDK - (https://github.com/sahaveer/investorstimes)",
+            "content-type": "application/json"
+        }
+        response = sess.get(nse_full_link, headers=headers, cookies=cookies)
         if response.status_code == 200:
             df = pd.read_csv(pd.compat.StringIO(response.text))
             st.write(df)
@@ -368,13 +386,13 @@ def csv_download(full_link,possible_bhav_name):             # CSV files for NSE 
             st.error(f"Error: Unable to fetch CSV. Status code: {response.status_code}")
         st.error(f"{full_link} failed due to {e} ")
 
-#def csv_from_other(nse_full_link,possible_fullbhav_name):
-    
+
+# def csv_from_other(nse_full_link,possible_fullbhav_name):
 
 
-def nse_file(nse_full_link,possible_fullbhav_name,txt2_name):
+def nse_file(nse_full_link, possible_fullbhav_name, txt2_name):
     try:
-        bhav_csv_path = csv_download(nse_full_link,possible_fullbhav_name)
+        bhav_csv_path = csv_download(nse_full_link, possible_fullbhav_name)
         date_nse = str(possible_fullbhav_name[18:20])
         mnth_nse = str(possible_fullbhav_name[20:22])
         yr_nse = str(possible_fullbhav_name[22:26])
@@ -397,20 +415,23 @@ def nse_file(nse_full_link,possible_fullbhav_name,txt2_name):
                             if line['SYMBOL'] not in avoid_stocks:
                                 txt.write(
                                     line['SYMBOL'] + "," + str(yyyymmdd) + "," + line[' OPEN_PRICE'] + "," +
-                                    line[' HIGH_PRICE'] + "," + line[' LOW_PRICE'] + "," + line[' CLOSE_PRICE'] + "," + line[' TTL_TRD_QNTY'] + "," + line[' DELIV_QTY'] + "\n")
+                                    line[' HIGH_PRICE'] + "," + line[' LOW_PRICE'] + "," + line[' CLOSE_PRICE'] + "," +
+                                    line[' TTL_TRD_QNTY'] + "," + line[' DELIV_QTY'] + "\n")
 
             return "success"
         else:
-            #st.error(f"Asked for {yyyymmdd} Date but got {yyyymmdd_cell} in the excel NSE file, thus skipping")
+            # st.error(f"Asked for {yyyymmdd} Date but got {yyyymmdd_cell} in the excel NSE file, thus skipping")
             return "fail"
     except Exception as e:
-        #st.error(f"Failed to download NSE file due to {e}")
+        # st.error(f"Failed to download NSE file due to {e}")
         return "fail"
-def index_file(indexlink,possible_index_name,txt1_name):
+
+
+def index_file(indexlink, possible_index_name, txt1_name):
     try:
         possible_index_name = possible_index_name + '.csv'
         print("entered INDEX download function")
-        bhav_csv_path = csv_download(indexlink,possible_index_name)
+        bhav_csv_path = csv_download(indexlink, possible_index_name)
         # INDEX FILE
         dd = str(possible_index_name.split('.')[0][-8:-6])
         mm = str(possible_index_name.split('.')[0][-6:-4])
@@ -423,8 +444,10 @@ def index_file(indexlink,possible_index_name,txt1_name):
                 for line in index_file:
                     # txt.write('\'' + line['Index Name'] + "\',")       # FOR WRITING INDEX NAMES INTO TXT
                     if line['Index Name'] in replace_index.keys():
-                        txt.write(replace_index[line['Index Name']] + "," + str(yyyymmdd) + ',' + line['Open Index Value'] + ","
-                                  + line['High Index Value'] + "," + line['Low Index Value'] + "," + line['Closing Index Value'] + "," + line['Volume'] + "\n")
+                        txt.write(replace_index[line['Index Name']] + "," + str(yyyymmdd) + ',' + line[
+                            'Open Index Value'] + ","
+                                  + line['High Index Value'] + "," + line['Low Index Value'] + "," + line[
+                                      'Closing Index Value'] + "," + line['Volume'] + "\n")
                     else:
                         txt.write(
                             line['Index Name'] + "," + str(yyyymmdd) + ',' + line['Open Index Value'] + "," + line[
@@ -432,10 +455,11 @@ def index_file(indexlink,possible_index_name,txt1_name):
                                 'Closing Index Value'] + "," + line['Volume'] + "\n")
             return txt1_name
     except Exception as e:
-        #st.error(f"Failed to download INDEX file due to {e}")
+        # st.error(f"Failed to download INDEX file due to {e}")
         return "fail"
 
-def zip_csv_download(link,file_name):
+
+def zip_csv_download(link, file_name):
     print("Entered zip_csv_dowonlaod function")
     # Add a User-Agent header to the request
     opener = urllib.request.build_opener()
@@ -455,16 +479,18 @@ def zip_csv_download(link,file_name):
         zip.extractall('./bhavfiles/')
         # print("Extracted zipfile succesfully")
     return file2
-def bse_file(bselink,yyyymmdd):
+
+
+def bse_file(bselink, yyyymmdd):
     try:
         print("entered Bse download function")
         bse_file_name = './bhavfiles/bse_temp_file.zip'
-        csv_path = zip_csv_download(bselink,bse_file_name)
+        csv_path = zip_csv_download(bselink, bse_file_name)
         print(csv_path)
         csv_path = './bhavfiles/' + csv_path
         print(csv_path)
         print("lets read CSV file now")
-        #txt3_name = './bhavfiles/' + file2.split('.CSV')[0] + '.txt'
+        # txt3_name = './bhavfiles/' + file2.split('.CSV')[0] + '.txt'
         txt3_name = './bhavfiles/' + yyyymmdd + "_" + "BSE.txt"
         txt3_name1 = './bhavfiles/' + yyyymmdd + "_" + "BSE_code.txt"
         with open(csv_path, 'r') as reading:
@@ -473,11 +499,12 @@ def bse_file(bselink,yyyymmdd):
             with open(txt3_name, 'w') as txt:
                 txt.write("TICKER, DATE, OPEN, HIGH, LOW, CLOSE, VOLUME" + "\n")
                 for line in bse_full_file:
-                    #print(line)
+                    # print(line)
                     if line['SC_GROUP'] not in avoid_bse_series:
                         if line['SC_NAME'] not in avoid_bse_stocks:
                             if line['SC_NAME'] not in avoid_stocks:
-                                txt.write(line['SC_NAME'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line['NO_OF_SHRS'] + "\n")
+                                txt.write(line['SC_NAME'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line[
+                                    'HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line['NO_OF_SHRS'] + "\n")
         with open(csv_path, 'r') as reading:
             bse_full_file = csv.DictReader(reading)
             print("Read the CSV file, lets write to txt now")
@@ -487,16 +514,19 @@ def bse_file(bselink,yyyymmdd):
                     if line['SC_GROUP'] not in avoid_bse_series:
                         if line['SC_NAME'] not in avoid_bse_stocks:
                             if line['SC_NAME'] not in avoid_stocks:
-                                txt.write(line['SC_CODE'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line['NO_OF_SHRS'] + "\n")
-        return txt3_name,txt3_name1
+                                txt.write(line['SC_CODE'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line[
+                                    'HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line['NO_OF_SHRS'] + "\n")
+        return txt3_name, txt3_name1
     except Exception as e:
-        #st.error(f"Failed to download BSE file due to {e}")
+        # st.error(f"Failed to download BSE file due to {e}")
         return "fail"
-def fno_file(fnolink,yyyymmdd):
+
+
+def fno_file(fnolink, yyyymmdd):
     try:
         print("entered FNO download function")
         fno_file_name = './bhavfiles/fno_temp_file.zip'
-        csv_path = zip_csv_download(fnolink,fno_file_name)
+        csv_path = zip_csv_download(fnolink, fno_file_name)
         csv_path = './bhavfiles/' + csv_path
         print("lets read CSV file now")
         txt4_name = './bhavfiles/' + yyyymmdd + "_" + "FUTURES.txt"
@@ -512,15 +542,19 @@ def fno_file(fnolink,yyyymmdd):
                 for line in fno_full_file:
                     if line["OPTION_TYP"] == "XX":  # FOR FUTURES
                         # FOR ME : to get as "BANKNIFTY EXP_DATE"
-                        #txt.write(line['SYMBOL'] + " " + line['EXPIRY_DT'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," +line['HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line['CONTRACTS'] + line['OPEN_INT'] + "\n")
+                        # txt.write(line['SYMBOL'] + " " + line['EXPIRY_DT'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," +line['HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line['CONTRACTS'] + line['OPEN_INT'] + "\n")
                         # as per Bhavcopy Downloader software
                         if line['SYMBOL'] != unique_script:
-                            txt.write(line['SYMBOL'] + "-I" + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line['CONTRACTS']+ "," + line['OPEN_INT'] + "\n")
+                            txt.write(line['SYMBOL'] + "-I" + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line[
+                                'HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line['CONTRACTS'] + "," +
+                                      line['OPEN_INT'] + "\n")
                             unique_script = line['SYMBOL']
                             count = 1
                         else:
                             count += 1
-                            txt.write(line['SYMBOL'] + roman_val[str(count)] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line['CONTRACTS']+ "," + line['OPEN_INT'] + "\n")
+                            txt.write(line['SYMBOL'] + roman_val[str(count)] + "," + str(yyyymmdd) + "," + line[
+                                'OPEN'] + "," + line['HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line[
+                                          'CONTRACTS'] + "," + line['OPEN_INT'] + "\n")
 
         with open(csv_path, 'r') as reading:
             fno_full_file = csv.DictReader(reading)
@@ -528,14 +562,17 @@ def fno_file(fnolink,yyyymmdd):
             with open(txt5_name, 'w') as txt1:
                 txt1.write("TICKER, DATE, OPEN, HIGH, LOW, CLOSE, VOLUME,OI" + "\n")
                 for line in fno_full_file:
-                    if line["INSTRUMENT"] == "OPTIDX" and line["OPEN"] != "0" and line["HIGH"] != "0" and line["LOW"] != "0" and line["CLOSE"] != "0":  # options for INDEX
-                        txt1.write(line['SYMBOL'] + " " + line["STRIKE_PR"] + line["OPTION_TYP"] + " " + line["EXPIRY_DT"] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line['CONTRACTS'] + line['OPEN_INT'] + "\n")
-        return txt4_name,txt5_name
+                    if line["INSTRUMENT"] == "OPTIDX" and line["OPEN"] != "0" and line["HIGH"] != "0" and line[
+                        "LOW"] != "0" and line["CLOSE"] != "0":  # options for INDEX
+                        txt1.write(line['SYMBOL'] + " " + line["STRIKE_PR"] + line["OPTION_TYP"] + " " + line[
+                            "EXPIRY_DT"] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," + line[
+                                       'LOW'] + "," + line['CLOSE'] + "," + line['CONTRACTS'] + line['OPEN_INT'] + "\n")
+        return txt4_name, txt5_name
     except Exception as e:
-        #st.error(f"Failed to download FNO file due to {e}")
+        # st.error(f"Failed to download FNO file due to {e}")
         return "fail"
 
 
-    
 if __name__ == '__main__':
     main()
+    
