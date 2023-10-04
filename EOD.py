@@ -2,7 +2,7 @@
 # UPDATE 2NOV2022 : updated avoid_bse_stocks to avoid stocks which are already available in NSE
 # IDEA 3NOV2022 : Got to give an option in website to select the coulmns as per users demand and alos option to select if they want BSE CODE o BSE NAME
 # IDEA 3NOV2022: Would be better if i could avoid all the gaps in the last of BSE NAMES
-
+import streamlit as st
 import glob, os
 import os.path
 import subprocess
