@@ -43,9 +43,6 @@ token_jarvis = "1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI"
 token_investrade = '1186829396:AAHCQ0FCVWnTajl1VUwqr04UTdPJh8G3Aow'  # @Sahav_Bot
 bot = Bot(token=token_investrade)
 
-
-
-
 headers = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36',
     'accept-language': 'en,gu;q=0.9,hi;q=0.8', 'accept-encoding': 'gzip, deflate, br',
@@ -159,7 +156,8 @@ def main():
             folder_to_empty = "./bhavfiles"
             empty_folder(folder_to_empty)
             # st.write("Going to download_bhav Function")
-            download_bhav(my1_date, my2_date)
+            ddmmmyyyy_list = get_list_of_dates(my1_date, my2_date)
+            download_bhav(ddmmmyyyy_list)
             # st.success("Done downloading, lets try extracting now")
             # eod_existing_files(path_bhav, path_csv)
         except BadZipFile:
@@ -169,8 +167,23 @@ def main():
     The below Button is still under progress! Happy news is I have atleast found a way to get the Bhavfiles here
     '''
     if st.button("Telegram_file_id"):
-        
-        #bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
+
+        ddmmmyyyy_list = get_list_of_dates(my1_date, my2_date)
+        for ddmmmyyyy in ddmmmyyyy_list:
+            mmm_to_d, mm_to_d, dd_to_d, yyyy_to_d, yy_to_d = get_dateformats(ddmmmyyyy)
+            search_date_in_db = yyyy_to_d + mm_to_d + dd_to_d
+            get_nse_data = NSE_col.find_one({"date": search_date_in_db})
+            nse_file_id = get_nse_data['file_id']
+            nse_file_date = get_nse_data['date']
+            if nse_file_date == search_date_in_db:
+                st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {nse_file_id}")
+            get_bse_data = BSE_col.find_one({"date": search_date_in_db})
+            bse_file_id = get_bse_data['file_id']
+            bse_file_date = get_bse_data['date']
+            if bse_file_date == search_date_in_db:
+                st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {bse_file_id}")
+                    
+        # bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
         file_id = "BQACAgUAAx0Ea_o3YAACJUxlHBK31biRDHN-665spMe370BdYQACvQwAAr604FTgorFAP3tkfTAE"
         start_time = time.time()
         downloaded_file_path = download_telegram_file(file_id, token_investrade)
@@ -226,7 +239,7 @@ def download_telegram_file(file_id, bot_token):
         return None
 
 
-def download_bhav(my1_date, my2_date):  # nselink,bselink,indexlink,possible_index_name):
+def get_list_of_dates(my1_date, my2_date):
     ddmmmyyyy1 = my1_date.strftime("%d%b%Y")
     ddmmmyyyy2 = my2_date.strftime("%d%b%Y")
     created_zip = ZipFile("EOD.zip", "w")
@@ -245,6 +258,9 @@ def download_bhav(my1_date, my2_date):  # nselink,bselink,indexlink,possible_ind
             # print(ddmmmyyyy)
             ddmmmyyyy_list.append(ddmmmyyyy)
             my1_date += timedelta(1)
+    return ddmmmyyyy_list
+
+def download_bhav(ddmmmyyyy_list):  # nselink,bselink,indexlink,possible_index_name):
     st.markdown(
         "--Sadly NSE site blocked our site from downloading Files. Do try https://t.me/bhavcopy_amibroker to download data--")
     # st.write(ddmmmyyyy_list)
@@ -334,13 +350,16 @@ def set_cookie():
     request = sess.get(url_oc, headers=headers, timeout=10)
     cookies = dict(request.cookies)
 
-
-def get_links_txtnames(ddmmmyyyy):
+def get_dateformats(ddmmmyyyy):
     mmm_to_d = str(ddmmmyyyy[2:5].upper())
     mm_to_d = str(mnth_dict[mmm_to_d.upper()])
     dd_to_d = str(ddmmmyyyy[0:2])
     yy_to_d = str(ddmmmyyyy[-2:])
     yyyy_to_d = str(ddmmmyyyy[-4:])
+    return mmm_to_d, mm_to_d, dd_to_d,yyyy_to_d,yy_to_d
+
+def get_links_txtnames(ddmmmyyyy):
+    mmm_to_d, mm_to_d, dd_to_d, yyyy_to_d, yy_to_d = get_dateformats(ddmmmyyyy)
     yyyymmdd = yyyy_to_d + mm_to_d + dd_to_d
 
     # https://archives.nseindia.com/products/content/sec_bhavdata_full_30122022.csv
@@ -574,4 +593,4 @@ def fno_file(fnolink, yyyymmdd):
 
 if __name__ == '__main__':
     main()
-    
+
