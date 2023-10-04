@@ -59,6 +59,10 @@ def init_connection():
 # Uses st.cache_data to only rerun when the query changes or after 10 min.
 #@st.cache_data(ttl=600)
 def mongo_data(client):
+    db = client.Bhavcopy
+    items = db.mycollection.find()
+    items = list(items)
+    
     db = client.get_database('Bhavcopy')
     NSE_col = db["NSEbhav"]
     BSE_col = db["BSEbhav"]
@@ -73,7 +77,7 @@ def mongo_data(client):
     reco_col = db["RECO"]
     pf_col = db["Portfolio"]
     pfaccess_col = db["PFaccess"]
-    return NSE_col,BSECODE_col,BSE_col,INDEX_col,FUTURE_col
+    return NSE_col,BSECODE_col,BSE_col,INDEX_col,FUTURE_col,items
 
 
 headers = {
@@ -203,7 +207,8 @@ def main():
         ddmmmyyyy_list = get_list_of_dates(my1_date, my2_date)
         #st.success(ddmmmyyyy_list)
         client = init_connection()
-        NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col = mongo_data(client)
+        NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col,items = mongo_data(client)
+        st.success(items)
 
         for ddmmmyyyy in ddmmmyyyy_list:
             mmm_to_d, mm_to_d, dd_to_d, yyyy_to_d, yy_to_d = get_dateformats(ddmmmyyyy)
