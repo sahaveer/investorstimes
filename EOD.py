@@ -359,7 +359,6 @@ def csv_download(full_link,possible_bhav_name):             # CSV files for NSE 
             #st.success(f"Downloaded CSV from NSE site in {bhav_csv_path}")
         return csvbhav_path
     except Exception as e:
-        
         set_cookie()
         response = sess.get(nse_full_link, headers=headers,cookies = cookies)
         if response.status_code == 200:
