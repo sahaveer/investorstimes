@@ -226,7 +226,7 @@ def main():
             client = init_connection()
             NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTIONS_col = mongo_data(client)
             for ddmmmyyyy in ddmmmyyyy_list:
-                file_not_in_db, EOD_file = add_zip(ddmmmyyyy,NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTIONS_col, file_not_in_db)
+                file_not_in_db, EOD_file = add_zip(ddmmmyyyy,NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTIONS_col, EOD_file, file_not_in_db)
             with open(EOD_file, "rb") as fp:
                 btn = st.download_button(
                     label="Download ZIP",
@@ -267,7 +267,7 @@ def main():
                              text=f"Not able to reach MONGODB \nAdd IP Address {external_ip} to your MongoDB Account")
 
 
-def add_zip(ddmmmyyyy,NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTIONS_col, file_not_in_db):
+def add_zip(ddmmmyyyy,NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTIONS_col, EOD_file, file_not_in_db):
     mmm_to_d, mm_to_d, dd_to_d, yyyy_to_d, yy_to_d = get_dateformats(ddmmmyyyy)
     search_date_in_db = yyyy_to_d + mm_to_d + dd_to_d
     nse_textfile_name = search_date_in_db + "_" + "NSE.txt"
