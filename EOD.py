@@ -354,7 +354,7 @@ def get_list_of_dates(my1_date, my2_date):
         weekday_num = datetime.datetime.strptime(ddmmmyyyy, '%d%b%Y').weekday()
         st.info(ddmmmyyyy)
         st.info(holidays_ddmmmyyyy)
-        if weekday_num == 5 or weekday_num == 6 or ddmmmyyyy not in holidays_ddmmmyyyy:
+        if weekday_num == 5 or weekday_num == 6 or ddmmmyyyy in holidays_ddmmmyyyy:
             my1_date += timedelta(1)
             pass
         else:
