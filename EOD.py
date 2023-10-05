@@ -287,7 +287,7 @@ def main():
                     if ddmmmyyyy not in file_not_in_db:
                         file_not_in_db.append(ddmmmyyyy)
                 get_futures_data = FUTURE_col.find_one({"date": search_date_in_db})
-                if get_futures_data  is not None:
+                if get_futures_data is not None:
                     futures_file_id = get_futures_data['file_id']
                     futures_file_date = get_futures_data['date']
                     if futures_file_date == search_date_in_db:
@@ -300,7 +300,7 @@ def main():
                     if ddmmmyyyy not in file_not_in_db:
                         file_not_in_db.append(ddmmmyyyy)
                 get_options_data = OPTIONS_col.find_one({"date": search_date_in_db})
-                if get_options_data  is not None:
+                if get_options_data is not None:
                     options_file_id = get_options_data['file_id']
                     options_file_date = get_options_data['date']
                     if options_file_date == search_date_in_db:
@@ -315,7 +315,7 @@ def main():
                 if len(file_not_in_db) >= 0:
                     for each in file_not_in_db:
                         bot.send_message(chat_id="304381618", text=f"/bhav {each}")
-                        file_not_in_db.pop(each)
+                        del file_not_in_db[each]
                     yyyymmdd = each[5:] + mnth_dict(each[2:5]) + each[:2]
                     # if NSE_col.find_one({"date": yyyymmdd}) is True:
 
