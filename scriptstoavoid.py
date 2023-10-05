@@ -1,3 +1,11 @@
+import datetime
+
+
+holidays = ["26-Jan-23","07-Mar-23","30-Mar-23","04-Apr-23","07-Apr-23","14-Apr-23","01-May-23","29-Jun-23","15-Aug-23","19-Sep-23","02-Oct-23","24-Oct-23","12-Nov-23","14-Nov-23","27-Nov-23","25-Dec-23"]
+holidays_ddmmmyyyy = [datetime.datetime.strptime(each,"%d-%b-%y").strftime("%d%b%Y").upper() for each in holidays]
+
+
+
 # WORKING ON DATE FORMATS FROM CSV STRING NAMES IN NSE
 avoid_series = ['GS','IV', 'N1', 'N2', 'N3', 'N4', 'N5', 'N6', 'N7', 'N8', 'N9', 'NA', 'NB', 'NC', 'ND', 'NE', 'NF', 'NG',
                 'NH', 'NI', 'NJ', 'NK', 'NL', 'NM', 'NN', 'NO', 'NP', 'NQ', 'NR', 'NS', 'NT', 'NU', 'NV', 'NW', 'NX', 'NY', 'P2', 'W1',
