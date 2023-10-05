@@ -91,7 +91,7 @@ def mongo_data(client):
     reco_col = db["RECO"]
     pf_col = db["Portfolio"]
     pfaccess_col = db["PFaccess"]
-    return NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_colm, OPTIONS_col
+    return NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTIONS_col
 
 
 headers = {
