@@ -246,7 +246,7 @@ def main():
                         file_not_in_db.append(ddmmmyyyy)
                 get_bse_data = BSE_col.find_one({"date": search_date_in_db})
                 print(get_bse_data)
-                if get_bse_data is True:
+                if get_bse_data  is not None:
                     bse_file_id = get_bse_data['file_id']
                     bse_file_date = get_bse_data['date']
                     if bse_file_date == search_date_in_db:
@@ -259,7 +259,7 @@ def main():
                     if ddmmmyyyy not in file_not_in_db:
                         file_not_in_db.append(ddmmmyyyy)
                 get_bsecode_data = BSECODE_col.find_one({"date": search_date_in_db})
-                if get_bsecode_data is True:
+                if get_bsecode_data  is not None:
                     bsecode_file_id = get_bsecode_data['file_id']
                     bsecode_file_date = get_bsecode_data['date']
                     if bsecode_file_date == search_date_in_db:
@@ -273,7 +273,7 @@ def main():
                     if ddmmmyyyy not in file_not_in_db:
                         file_not_in_db.append(ddmmmyyyy)
                 get_index_data = INDEX_col.find_one({"date": search_date_in_db})
-                if get_index_data is True:
+                if get_index_data  is not None:
                     index_file_id = get_index_data['file_id']
                     index_file_date = get_index_data['date']
                     if index_file_date == search_date_in_db:
@@ -287,7 +287,7 @@ def main():
                     if ddmmmyyyy not in file_not_in_db:
                         file_not_in_db.append(ddmmmyyyy)
                 get_futures_data = FUTURE_col.find_one({"date": search_date_in_db})
-                if get_futures_data is True:
+                if get_futures_data  is not None:
                     futures_file_id = get_futures_data['file_id']
                     futures_file_date = get_futures_data['date']
                     if futures_file_date == search_date_in_db:
@@ -300,7 +300,7 @@ def main():
                     if ddmmmyyyy not in file_not_in_db:
                         file_not_in_db.append(ddmmmyyyy)
                 get_options_data = OPTIONS_col.find_one({"date": search_date_in_db})
-                if get_options_data is True:
+                if get_options_data  is not None:
                     options_file_id = get_options_data['file_id']
                     options_file_date = get_options_data['date']
                     if options_file_date == search_date_in_db:
