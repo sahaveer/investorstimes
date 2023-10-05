@@ -204,9 +204,9 @@ def main():
             #download_bhav(ddmmmyyyy_list)
             ##st.success("Done downloading, lets try extracting now")
             ##eod_existing_files(path_bhav, path_csv)
-        except BadZipFile:
-            st.error("BadZipFile")
-            pass
+        #except BadZipFile:
+            #st.error("BadZipFile")
+            #pass
 
     if st.button("Telegram_file_id"):
         try:
