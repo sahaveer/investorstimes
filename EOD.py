@@ -33,14 +33,11 @@ from scriptstoavoid import *
 import pymongo
 from pymongo import MongoClient
 from pymongo.server_api import ServerApi
-# CONNECTION STRING : mongodb+srv://EODBhavcopy:bhavcopy@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority
-# client = pymongo.MongoClient("mongodb+srv://EODBhavcopy:<password>@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority")
-
 from telegram import Bot, InputFile
 import telegram
-
 import threading
 import logging
+import random
 
 # Initialize the Telegram Bot with your API token
 token_jarvis = "1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI"
@@ -116,7 +113,8 @@ def empty_folder(folder_path):
 
 
 def main():
-    import random
+    EOD_file = f"./bhavfiles/getzip.zip"
+    created_zip = ZipFile(EOD_file, "w")
     stock_quotes = [
         """'I have two basic rules about winning in trading as well as in life:\n1. If you don’t bet, you can’t win.\n2. If you lose all your chips, you can’t bet.' \n\n– Larry Hite""",
         """'When you genuinely accept the risks, you will be at peace with any outcome.'\n – Mark Douglas""",
@@ -218,15 +216,13 @@ def main():
         try:
             start_time = time.time()
             file_not_in_db = []
-            EOD_file = f"./bhavfiles/getzip.zip"
-            created_zip = ZipFile(EOD_file, "w")
             created_zip.close()
             ddmmmyyyy_list = get_list_of_dates(my1_date, my2_date)
             # st.success(ddmmmyyyy_list)
             client = init_connection()
             NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTIONS_col = mongo_data(client)
             for ddmmmyyyy in ddmmmyyyy_list:
-                file_not_in_db, EOD_file = add_zip(ddmmmyyyy,NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTIONS_col, EOD_file, file_not_in_db)
+                EOD_file = add_zip(ddmmmyyyy,NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTIONS_col, EOD_file, file_not_in_db)
             with open(EOD_file, "rb") as fp:
                 btn = st.download_button(
                     label="Download ZIP",
@@ -245,8 +241,6 @@ def main():
             # bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
             duration = time.time() - start_time
             st.info(f"Downloaded in {duration} seconds")
-            
-
             #file_id = "BQACAgUAAx0Ea_o3YAACJUxlHBK31biRDHN-665spMe370BdYQACvQwAAr604FTgorFAP3tkfTAE"
             #save_file = "./bhavfiles/bhav.txt"
             #downloaded_file_path = download_telegram_file(file_id, token_investrade, save_file)
@@ -347,7 +341,11 @@ def add_zip(ddmmmyyyy,NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTI
     else:
         if ddmmmyyyy not in file_not_in_db:
             file_not_in_db.append(ddmmmyyyy)
-    return file_not_in_db, EOD_file
+
+    bot.send_message(chat_id="304381618", text=f"/bhav {ddmmmyyyy}")
+    file_not_in_db.pop(each)
+    return EOD_file
+
 def download_telegram_file(file_id, bot_token, save_file):
     try:
         url = f"https://api.telegram.org/bot{bot_token}/getFile"
