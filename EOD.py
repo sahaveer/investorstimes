@@ -319,14 +319,12 @@ def main():
                     file_name="EOD.zip",
                     mime="application/octet-stream")
 
-            '''
-            if len(file_not_in_db) >= 0:
-                for each in file_not_in_db:
-                    bot.send_message(chat_id="304381618", text=f"/bhav {each}")
-                    file_not_in_db.pop(each)
-                yyyymmdd = each[5:] + mnth_dict(each[2:5]) + each[:2]
+            #if len(file_not_in_db) >= 0:
+                #for each in file_not_in_db:
+                    #bot.send_message(chat_id="304381618", text=f"/bhav {each}")
+                    #file_not_in_db.pop(each)
+                #yyyymmdd = each[5:] + mnth_dict(each[2:5]) + each[:2]
                 #if NSE_col.find_one({"date": yyyymmdd}) is True:
-            '''
             # bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
             duration = time.time() - start_time
             st.info(f"Downloaded in {duration} seconds")
