@@ -47,9 +47,10 @@ token_jarvis = "1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI"
 token_investrade = '1186829396:AAHCQ0FCVWnTajl1VUwqr04UTdPJh8G3Aow'  # @Sahav_Bot
 bot = Bot(token=token_investrade)
 
-#secrets = toml.load("secrets.toml")
-#mongodb_username = secrets["mongo"]["username"]
-#mongodb_password = secrets["mongo"]["password"]
+
+# secrets = toml.load("secrets.toml")
+# mongodb_username = secrets["mongo"]["username"]
+# mongodb_password = secrets["mongo"]["password"]
 
 
 def get_external_ip():
@@ -60,25 +61,22 @@ def get_external_ip():
     else:
         return "Unknown"
 external_ip = get_external_ip()
-st.write("External IP:", external_ip)
+# st.write("External IP:", external_ip)
 
 
-#@st.cache_resource
+# @st.cache_resource
 def init_connection():
-    #Connection_String = f"mongodb+srv://{mongodb_username}:{mongodb_password}@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
-    #return MongoClient(**st.secrets["mongo"])
-    #Connection_String = f"mongodb+srv://{st.secrets["mongo"]}@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
-    #return MongoClient(Connection_String, server_api=ServerApi('1'), tls=True)
+    # Connection_String = f"mongodb+srv://{mongodb_username}:{mongodb_password}@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
+    # return MongoClient(**st.secrets["mongo"])
+    # Connection_String = f"mongodb+srv://{st.secrets["mongo"]}@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
+    # return MongoClient(Connection_String, server_api=ServerApi('1'), tls=True)
     Connection_String = "mongodb+srv://EODBhavcopy:bhavcopy@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
     return MongoClient(Connection_String)
 
+
 # Uses st.cache_data to only rerun when the query changes or after 10 min.
-#@st.cache_data(ttl=600)
+# @st.cache_data(ttl=600)
 def mongo_data(client):
-    db = client.Bhavcopy
-    items = db.mycollection.find()
-    items = list(items)
-    
     db = client.get_database('Bhavcopy')
     NSE_col = db["NSEbhav"]
     BSE_col = db["BSEbhav"]
@@ -93,7 +91,7 @@ def mongo_data(client):
     reco_col = db["RECO"]
     pf_col = db["Portfolio"]
     pfaccess_col = db["PFaccess"]
-    return NSE_col,BSECODE_col,BSE_col,INDEX_col,FUTURE_col,items
+    return NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col
 
 
 headers = {
@@ -220,12 +218,14 @@ def main():
     The below Button is still under progress! Happy news is I have atleast found a way to get the Bhavfiles here
     '''
     if st.button("Telegram_file_id"):
+        start_time = time.time()
+        EOD_file = f"./bhavfiles/getzip.zip"
+        created_zip = ZipFile(EOD_file, "w")
+        created_zip.close()
         ddmmmyyyy_list = get_list_of_dates(my1_date, my2_date)
-        #st.success(ddmmmyyyy_list)
+        # st.success(ddmmmyyyy_list)
         client = init_connection()
-        NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col,items = mongo_data(client)
-        st.success(items)
-
+        NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col = mongo_data(client)
         for ddmmmyyyy in ddmmmyyyy_list:
             mmm_to_d, mm_to_d, dd_to_d, yyyy_to_d, yy_to_d = get_dateformats(ddmmmyyyy)
             search_date_in_db = yyyy_to_d + mm_to_d + dd_to_d
@@ -233,20 +233,44 @@ def main():
             nse_file_id = get_nse_data['file_id']
             nse_file_date = get_nse_data['date']
             if nse_file_date == search_date_in_db:
-                st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {nse_file_id}")
+                save_as = "NSE " + nse_file_date + ".txt"
+                #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {nse_file_id}")
+                downloaded_file_path = download_telegram_file(nse_file_id, token_investrade, save_as)
+                with ZipFile(EOD_file, "a") as m_zip:
+                    m_zip.write(downloaded_file_path)
             get_bse_data = BSE_col.find_one({"date": search_date_in_db})
             bse_file_id = get_bse_data['file_id']
             bse_file_date = get_bse_data['date']
             if bse_file_date == search_date_in_db:
-                st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {bse_file_id}")
+                save_as = "BSE " + bse_file_date + ".txt"
+                #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {nse_file_id}")
+                downloaded_file_path = download_telegram_file(bse_file_id, token_investrade, save_as)
+                with ZipFile(EOD_file, "a") as m_zip:
+                    m_zip.write(downloaded_file_path)
+                #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {bse_file_id}")
+            get_bsecode_data = BSECODE_col.find_one({"date": search_date_in_db})
+            bsecode_file_id = get_bsecode_data['file_id']
+            bsecode_file_date = get_bsecode_data['date']
+            if bsecode_file_date == search_date_in_db:
+                save_as = "BSEcode " + bsecode_file_date + ".txt"
+                #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {nse_file_id}")
+                downloaded_file_path = download_telegram_file(bsecode_file_id, token_investrade, save_as)
+                with ZipFile(EOD_file, "a") as m_zip:
+                    m_zip.write(downloaded_file_path)
+                #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {bsecode_file_id}")
+            get_index_data = INDEX_col.find_one({"date": search_date_in_db})
+            index_file_id = get_index_data['file_id']
+            index_file_date = get_index_data['date']
+            if index_file_date == search_date_in_db:
+                st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {index_file_id}")
 
         # bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
-        file_id = "BQACAgUAAx0Ea_o3YAACJUxlHBK31biRDHN-665spMe370BdYQACvQwAAr604FTgorFAP3tkfTAE"
-        start_time = time.time()
-        downloaded_file_path = download_telegram_file(file_id, token_investrade)
-        # downloaded_file_path = download_fileid(file_id)
-        # st.success(downloaded_file_path)
 
+
+
+        file_id = "BQACAgUAAx0Ea_o3YAACJUxlHBK31biRDHN-665spMe370BdYQACvQwAAr604FTgorFAP3tkfTAE"
+        save_file = "./bhavfiles/bhav.txt"
+        downloaded_file_path = download_telegram_file(file_id, token_investrade, save_file)
         if downloaded_file_path:
             # st.success(f"File downloaded successfully. \nYou can access it at {downloaded_file_path}")
             with open(downloaded_file_path, "rb") as fp:
@@ -262,10 +286,12 @@ def main():
             st.error("File download failed.")
 
 
-def download_telegram_file(file_id, bot_token):
+
+
+
+def download_telegram_file(file_id, bot_token, save_file):
     try:
         url = f"https://api.telegram.org/bot{bot_token}/getFile"
-        save_file = "./bhavfiles/bhav.txt"
         payload = {"file_id": file_id}
         headers = {
             "accept": "application/json",
@@ -316,6 +342,7 @@ def get_list_of_dates(my1_date, my2_date):
             ddmmmyyyy_list.append(ddmmmyyyy)
             my1_date += timedelta(1)
     return ddmmmyyyy_list
+
 
 def download_bhav(ddmmmyyyy_list):  # nselink,bselink,indexlink,possible_index_name):
     st.markdown(
@@ -407,13 +434,15 @@ def set_cookie():
     request = sess.get(url_oc, headers=headers, timeout=10)
     cookies = dict(request.cookies)
 
+
 def get_dateformats(ddmmmyyyy):
     mmm_to_d = str(ddmmmyyyy[2:5].upper())
     mm_to_d = str(mnth_dict[mmm_to_d.upper()])
     dd_to_d = str(ddmmmyyyy[0:2])
     yy_to_d = str(ddmmmyyyy[-2:])
     yyyy_to_d = str(ddmmmyyyy[-4:])
-    return mmm_to_d, mm_to_d, dd_to_d,yyyy_to_d,yy_to_d
+    return mmm_to_d, mm_to_d, dd_to_d, yyyy_to_d, yy_to_d
+
 
 def get_links_txtnames(ddmmmyyyy):
     mmm_to_d, mm_to_d, dd_to_d, yyyy_to_d, yy_to_d = get_dateformats(ddmmmyyyy)
