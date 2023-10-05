@@ -6,6 +6,12 @@ from streamlit_lottie import st_lottie_spinner
 
 logo = Image.open(r'./image/logo.png')
 
+st.set_page_config(
+        page_title="Contact Us",
+        #page_icon=":hammer_and_wrench:",
+        layout="wide"
+    )
+
 def load_lottiefile(filepath: str):
     with open(filepath, "r") as f:
         return json.load(f)
