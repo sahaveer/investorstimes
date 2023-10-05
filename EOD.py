@@ -218,80 +218,93 @@ def main():
     The below Button is still under progress! Happy news is I have atleast found a way to get the Bhavfiles here
     '''
     if st.button("Telegram_file_id"):
-        start_time = time.time()
-        EOD_file = f"./bhavfiles/getzip.zip"
-        created_zip = ZipFile(EOD_file, "w")
-        created_zip.close()
-        ddmmmyyyy_list = get_list_of_dates(my1_date, my2_date)
-        # st.success(ddmmmyyyy_list)
-        client = init_connection()
-        NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col = mongo_data(client)
-        for ddmmmyyyy in ddmmmyyyy_list:
-            mmm_to_d, mm_to_d, dd_to_d, yyyy_to_d, yy_to_d = get_dateformats(ddmmmyyyy)
-            search_date_in_db = yyyy_to_d + mm_to_d + dd_to_d
-            get_nse_data = NSE_col.find_one({"date": search_date_in_db})
-            nse_file_id = get_nse_data['file_id']
-            nse_file_date = get_nse_data['date']
-            if nse_file_date == search_date_in_db:
-                save_as = "NSE " + nse_file_date + ".txt"
-                #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {nse_file_id}")
-                downloaded_file_path = download_telegram_file(nse_file_id, token_investrade, save_as)
-                with ZipFile(EOD_file, "a") as m_zip:
-                    m_zip.write(downloaded_file_path)
-            get_bse_data = BSE_col.find_one({"date": search_date_in_db})
-            bse_file_id = get_bse_data['file_id']
-            bse_file_date = get_bse_data['date']
-            if bse_file_date == search_date_in_db:
-                save_as = "BSE " + bse_file_date + ".txt"
-                #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {nse_file_id}")
-                downloaded_file_path = download_telegram_file(bse_file_id, token_investrade, save_as)
-                with ZipFile(EOD_file, "a") as m_zip:
-                    m_zip.write(downloaded_file_path)
-                #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {bse_file_id}")
-            get_bsecode_data = BSECODE_col.find_one({"date": search_date_in_db})
-            bsecode_file_id = get_bsecode_data['file_id']
-            bsecode_file_date = get_bsecode_data['date']
-            if bsecode_file_date == search_date_in_db:
-                save_as = "BSEcode " + bsecode_file_date + ".txt"
-                #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {nse_file_id}")
-                downloaded_file_path = download_telegram_file(bsecode_file_id, token_investrade, save_as)
-                with ZipFile(EOD_file, "a") as m_zip:
-                    m_zip.write(downloaded_file_path)
-                #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {bsecode_file_id}")
-            get_index_data = INDEX_col.find_one({"date": search_date_in_db})
-            index_file_id = get_index_data['file_id']
-            index_file_date = get_index_data['date']
-            if index_file_date == search_date_in_db:
-                st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {index_file_id}")
+        try:
+            start_time = time.time()
+            EOD_file = f"./bhavfiles/getzip.zip"
+            created_zip = ZipFile(EOD_file, "w")
+            created_zip.close()
+            ddmmmyyyy_list = get_list_of_dates(my1_date, my2_date)
+            # st.success(ddmmmyyyy_list)
+            client = init_connection()
+            NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col = mongo_data(client)
+            for ddmmmyyyy in ddmmmyyyy_list:
+                yyyymmdd, nse_full_link, possible_fullbhav_name, nse_textfile_name, indexlink, possible_index_name, index_textfile_name, bselink, fnolink, BSE_textfile_name, BSECode_textfile_name, Futures_textfile_name, Options_textfile_name = get_links_txtnames(ddmmmyyyy)
+                mmm_to_d, mm_to_d, dd_to_d, yyyy_to_d, yy_to_d = get_dateformats(ddmmmyyyy)
+                search_date_in_db = yyyy_to_d + mm_to_d + dd_to_d
+                get_nse_data = NSE_col.find_one({"date": search_date_in_db})
+                nse_file_id = get_nse_data['file_id']
+                nse_file_date = get_nse_data['date']
+                if nse_file_date == search_date_in_db:
+                    #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {nse_file_id}")
+                    downloaded_file_path = download_telegram_file(nse_file_id, token_investrade, nse_textfile_name)
+                    with ZipFile(EOD_file, "a") as m_zip:
+                        m_zip.write(downloaded_file_path)
+                get_bse_data = BSE_col.find_one({"date": search_date_in_db})
+                bse_file_id = get_bse_data['file_id']
+                bse_file_date = get_bse_data['date']
+                if bse_file_date == search_date_in_db:
+                    downloaded_file_path = download_telegram_file(bse_file_id, token_investrade, BSE_textfile_name)
+                    with ZipFile(EOD_file, "a") as m_zip:
+                        m_zip.write(downloaded_file_path)
+                    #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {bse_file_id}")
+                get_bsecode_data = BSECODE_col.find_one({"date": search_date_in_db})
+                bsecode_file_id = get_bsecode_data['file_id']
+                bsecode_file_date = get_bsecode_data['date']
+                if bsecode_file_date == search_date_in_db:
+                    downloaded_file_path = download_telegram_file(bsecode_file_id, token_investrade, BSECode_textfile_name)
+                    with ZipFile(EOD_file, "a") as m_zip:
+                        m_zip.write(downloaded_file_path)
+                    #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {bsecode_file_id}")
+                get_index_data = INDEX_col.find_one({"date": search_date_in_db})
+                index_file_id = get_index_data['file_id']
+                index_file_date = get_index_data['date']
+                if index_file_date == search_date_in_db:
+                    downloaded_file_path = download_telegram_file(index_file_id, token_investrade, index_textfile_name)
+                    with ZipFile(EOD_file, "a") as m_zip:
+                        m_zip.write(downloaded_file_path)
+                    #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {index_file_id}")
+                get_futures_data = FUTURE_col.find_one({"date": search_date_in_db})
+                futures_file_id = get_futures_data['file_id']
+                futures_file_date = get_futures_data['date']
+                if futures_file_date == search_date_in_db:
+                    downloaded_file_path = download_telegram_file(futures_file_id, token_investrade, Futures_textfile_name)
+                    with ZipFile(EOD_file, "a") as m_zip:
+                        m_zip.write(downloaded_file_path)
+                get_options_data = OPTIONS_col.find_one({"date": search_date_in_db})
+                options_file_id = get_options_data['file_id']
+                options_file_date = get_options_data['date']
+                if options_file_date == search_date_in_db:
+                    downloaded_file_path = download_telegram_file(options_file_id, token_investrade, Options_textfile_name)
+                    with ZipFile(EOD_file, "a") as m_zip:
+                        m_zip.write(downloaded_file_path)
 
-        # bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
-        duration = time.time() - start_time
-        print(f"Downloaded in {duration} seconds")
-        with open(EOD_file, "rb") as fp:
-            btn = st.download_button(
-                label="Download ZIP",
-                data=fp,
-                file_name="EOD.zip",
-                mime="application/octet-stream"
-            )
-                
-        file_id = "BQACAgUAAx0Ea_o3YAACJUxlHBK31biRDHN-665spMe370BdYQACvQwAAr604FTgorFAP3tkfTAE"
-        save_file = "./bhavfiles/bhav.txt"
-        downloaded_file_path = download_telegram_file(file_id, token_investrade, save_file)
-        if downloaded_file_path:
-            # st.success(f"File downloaded successfully. \nYou can access it at {downloaded_file_path}")
-            with open(downloaded_file_path, "rb") as fp:
+            # bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
+            duration = time.time() - start_time
+            st.info(f"Downloaded in {duration} seconds")
+            with open(EOD_file, "rb") as fp:
                 btn = st.download_button(
-                    label="Download Text File",
+                    label="Download ZIP",
                     data=fp,
-                    file_name="your_text_file.txt",
-                    mime="text/plain"  # Set the MIME type to 'text/plain' for a text file
+                    file_name="EOD.zip",
+                    mime="application/octet-stream"
                 )
-        else:
-            st.error("File download failed.")
 
-
-
+            #file_id = "BQACAgUAAx0Ea_o3YAACJUxlHBK31biRDHN-665spMe370BdYQACvQwAAr604FTgorFAP3tkfTAE"
+            #save_file = "./bhavfiles/bhav.txt"
+            #downloaded_file_path = download_telegram_file(file_id, token_investrade, save_file)
+            #if downloaded_file_path:
+                # st.success(f"File downloaded successfully. \nYou can access it at {downloaded_file_path}")
+                #with open(downloaded_file_path, "rb") as fp:
+                    #btn = st.download_button(
+                        #label="Download Text File",
+                        #data=fp,
+                        #file_name="your_text_file.txt",
+                        #mime="text/plain"  # Set the MIME type to 'text/plain' for a text file)
+            #else:
+                #st.error("File download failed.")
+        except:
+            external_ip = get_external_ip()
+            bot.send_message(chat_id="304381618", text="Not able to reach MONGODB \nAdd IP Address {external_ip} to your MOngoDB Account")
 
 
 def download_telegram_file(file_id, bot_token, save_file):
@@ -365,16 +378,15 @@ def bhav_date_zip(ddmmmyyyy_list):  # ddmmmyyyy and media_group are lists here
     created_zip.close()
     EOD_file = f"./bhavfiles/EOD.zip"
     for ddmmmyyyy in ddmmmyyyy_list:
-        yyyymmdd, nse_full_link, possible_fullbhav_name, txt2_name, indexlink, possible_index_name, txt1_name, bselink, fnolink = get_links_txtnames(
-            ddmmmyyyy)
+        yyyymmdd, nse_full_link, possible_fullbhav_name, nse_textfile_name, indexlink, possible_index_name, index_textfile_name, bselink, fnolink, BSE_textfile_name,BSECode_textfile_name,Futures_textfile_name,Options_textfile_name = get_links_txtnames(ddmmmyyyy)
         # NSE FILE
         try:
             result = ""
-            result = nse_file(nse_full_link, possible_fullbhav_name, txt2_name)
+            result = nse_file(nse_full_link, possible_fullbhav_name, nse_textfile_name)
             if result == "success":
-                # st.success(txt2_name)
+                # st.success(nse_textfile_name)
                 with ZipFile(EOD_file, "a") as m_zip:
-                    m_zip.write(txt2_name)
+                    m_zip.write(nse_textfile_name)
                 st.success("DONE NSE BHAVCOPY FOR " + yyyymmdd)
             else:
                 # st.error("NSE function didnt return SUCCESS")
@@ -384,10 +396,10 @@ def bhav_date_zip(ddmmmyyyy_list):  # ddmmmyyyy and media_group are lists here
             pass
         #  DOWNLOADING INDEX FILE
         try:  # INDEX FILE - DOWNLOADING
-            txt1_name = index_file(indexlink, possible_index_name, txt1_name)
-            if os.path.exists(txt1_name):
+            index_textfile_name = index_file(indexlink, possible_index_name, index_textfile_name)
+            if os.path.exists(index_textfile_name):
                 with ZipFile(EOD_file, "a") as m_zip:
-                    m_zip.write(txt1_name)
+                    m_zip.write(index_textfile_name)
                 st.success("DONE INDEX BHAVCOPIES FOR " + yyyymmdd)
             else:
                 # st.error("INDEX function didnt return anything")
@@ -397,11 +409,11 @@ def bhav_date_zip(ddmmmyyyy_list):  # ddmmmyyyy and media_group are lists here
             pass
 
         try:
-            txt3_name, txt3_name1 = bse_file(bselink, yyyymmdd)
-            if os.path.exists(txt3_name) and os.path.exists(txt3_name1):
+            BSE_textfile_name, BSECode_textfile_name = bse_file(bselink, yyyymmdd)
+            if os.path.exists(BSE_textfile_name) and os.path.exists(BSECode_textfile_name):
                 with ZipFile(EOD_file, "a") as m_zip:
-                    m_zip.write(txt3_name)
-                    m_zip.write(txt3_name1)
+                    m_zip.write(BSE_textfile_name)
+                    m_zip.write(BSECode_textfile_name)
                 st.success("DONE BSE BHAVCOPY FOR " + yyyymmdd)
             else:
                 # st.error("BSE function didnt return SUCCESS")
@@ -411,11 +423,11 @@ def bhav_date_zip(ddmmmyyyy_list):  # ddmmmyyyy and media_group are lists here
             pass
 
         try:
-            txt4_name, txt5_name = fno_file(fnolink, yyyymmdd)
-            if os.path.exists(txt4_name) and os.path.exists(txt5_name):
+            Futures_textfile_name, Options_textfile_name = fno_file(fnolink, yyyymmdd)
+            if os.path.exists(Futures_textfile_name) and os.path.exists(Options_textfile_name):
                 with ZipFile(EOD_file, "a") as m_zip:
-                    m_zip.write(txt4_name)
-                    m_zip.write(txt5_name)
+                    m_zip.write(Futures_textfile_name)
+                    m_zip.write(Options_textfile_name)
                 st.success("DONE F&O BHAVCOPY FOR " + yyyymmdd)
             else:
                 # st.error("FNO function didnt return SUCCESS")
@@ -451,7 +463,6 @@ def get_dateformats(ddmmmyyyy):
 def get_links_txtnames(ddmmmyyyy):
     mmm_to_d, mm_to_d, dd_to_d, yyyy_to_d, yy_to_d = get_dateformats(ddmmmyyyy)
     yyyymmdd = yyyy_to_d + mm_to_d + dd_to_d
-
     # https://archives.nseindia.com/products/content/sec_bhavdata_full_30122022.csv
     # https://www1.nseindia.com/content/historical/EQUITIES/2019/SEP/cm30SEP2019bhav.csv.zip
     nselink = 'https://www1.nseindia.com/content/historical/EQUITIES/' + yyyy_to_d + '/' + mmm_to_d + '/cm' + dd_to_d + mmm_to_d + yyyy_to_d + 'bhav.csv.zip'
@@ -459,18 +470,21 @@ def get_links_txtnames(ddmmmyyyy):
     # NSEFULLLINK GIVES DELIVERY DATA AS WELL
     nse_full_link = "https://archives.nseindia.com/products/content/sec_bhavdata_full_" + dd_to_d + mm_to_d + yyyy_to_d + ".csv"
     possible_fullbhav_name = "sec_bhavdata_full_" + dd_to_d + mm_to_d + yyyy_to_d + ".csv"
-    txt2_name = './bhavfiles/' + yyyy_to_d + mm_to_d + dd_to_d + "_" + "NSE.txt"
+    nse_textfile_name = './bhavfiles/' + yyyy_to_d + mm_to_d + dd_to_d + "_" + "NSE.txt"
 
     # indexlink = 'https://www1.nseindia.com/content/indices/ind_close_all_' + dd_to_d + mm_to_d + yyyy_to_d + '.csv'
     indexlink = 'https://archives.nseindia.com/content/indices/ind_close_all_' + dd_to_d + mm_to_d + yyyy_to_d + '.csv'
     possible_index_name = 'ind_close_all_' + dd_to_d + mm_to_d + yyyy_to_d
-    txt1_name = './bhavfiles/' + yyyy_to_d + mm_to_d + dd_to_d + "_" + "INDEX.txt"
+    index_textfile_name = './bhavfiles/' + yyyy_to_d + mm_to_d + dd_to_d + "_" + "INDEX.txt"
 
     # FOR bselink and fnolink yyyymmdd is required and not txtnames
     bselink = 'https://www.bseindia.com/download/BhavCopy/Equity/EQ' + dd_to_d + mm_to_d + yy_to_d + '_CSV.ZIP'
     fnolink = "https://archives.nseindia.com/content/historical/DERIVATIVES/" + yyyy_to_d + "/" + mmm_to_d + "/fo" + dd_to_d + mmm_to_d + yyyy_to_d + "bhav.csv.zip"
-
-    return yyyymmdd, nse_full_link, possible_fullbhav_name, txt2_name, indexlink, possible_index_name, txt1_name, bselink, fnolink
+    BSE_textfile_name = './bhavfiles/' + yyyymmdd + "_" + "BSE.txt"
+    BSECode_textfile_name = './bhavfiles/' + yyyymmdd + "_" + "BSE_code.txt"
+    Futures_textfile_name = './bhavfiles/' + yyyymmdd + "_" + "FUTURES.txt"
+    Options_textfile_name = './bhavfiles/' + yyyymmdd + "_" + "INDEX OPTIONS.txt"
+    return yyyymmdd, nse_full_link, possible_fullbhav_name, nse_textfile_name, indexlink, possible_index_name, index_textfile_name, bselink, fnolink, BSE_textfile_name,BSECode_textfile_name,Futures_textfile_name,Options_textfile_name
 
 
 def csv_download(full_link, possible_bhav_name):  # CSV files for NSE and INDEX
@@ -498,7 +512,7 @@ def csv_download(full_link, possible_bhav_name):  # CSV files for NSE and INDEX
 # def csv_from_other(nse_full_link,possible_fullbhav_name):
 
 
-def nse_file(nse_full_link, possible_fullbhav_name, txt2_name):
+def nse_file(nse_full_link, possible_fullbhav_name, nse_textfile_name):
     try:
         bhav_csv_path = csv_download(nse_full_link, possible_fullbhav_name)
         date_nse = str(possible_fullbhav_name[18:20])
@@ -516,7 +530,7 @@ def nse_file(nse_full_link, possible_fullbhav_name, txt2_name):
         if yyyymmdd == yyyymmdd_cell:
             with open(bhav_csv_path, 'r') as reading:
                 nse_full_file = csv.DictReader(reading)
-                with open(txt2_name, 'w') as txt:
+                with open(nse_textfile_name, 'w') as txt:
                     txt.write("TICKER, DATE, OPEN, HIGH, LOW, CLOSE, VOLUME, OI" + "\n")
                     for line in nse_full_file:
                         if line[' SERIES'] not in avoid_series:
@@ -535,7 +549,7 @@ def nse_file(nse_full_link, possible_fullbhav_name, txt2_name):
         return "fail"
 
 
-def index_file(indexlink, possible_index_name, txt1_name):
+def index_file(indexlink, possible_index_name, index_textfile_name):
     try:
         possible_index_name = possible_index_name + '.csv'
         print("entered INDEX download function")
@@ -547,7 +561,7 @@ def index_file(indexlink, possible_index_name, txt1_name):
         yyyymmdd = yyyy + mm + dd
         with open(bhav_csv_path, 'r') as reading:
             index_file = csv.DictReader(reading)
-            with open(txt1_name, 'w') as txt:
+            with open(index_textfile_name, 'w') as txt:
                 txt.write("TICKER, DATE, OPEN, HIGH, LOW, CLOSE, VOLUME" + "\n")
                 for line in index_file:
                     # txt.write('\'' + line['Index Name'] + "\',")       # FOR WRITING INDEX NAMES INTO TXT
@@ -561,7 +575,7 @@ def index_file(indexlink, possible_index_name, txt1_name):
                             line['Index Name'] + "," + str(yyyymmdd) + ',' + line['Open Index Value'] + "," + line[
                                 'High Index Value'] + "," + line['Low Index Value'] + "," + line[
                                 'Closing Index Value'] + "," + line['Volume'] + "\n")
-            return txt1_name
+            return index_textfile_name
     except Exception as e:
         # st.error(f"Failed to download INDEX file due to {e}")
         return "fail"
@@ -598,13 +612,13 @@ def bse_file(bselink, yyyymmdd):
         csv_path = './bhavfiles/' + csv_path
         print(csv_path)
         print("lets read CSV file now")
-        # txt3_name = './bhavfiles/' + file2.split('.CSV')[0] + '.txt'
-        txt3_name = './bhavfiles/' + yyyymmdd + "_" + "BSE.txt"
-        txt3_name1 = './bhavfiles/' + yyyymmdd + "_" + "BSE_code.txt"
+        # BSE_textfile_name = './bhavfiles/' + file2.split('.CSV')[0] + '.txt'
+        BSE_textfile_name = './bhavfiles/' + yyyymmdd + "_" + "BSE.txt"
+        BSECode_textfile_name = './bhavfiles/' + yyyymmdd + "_" + "BSE_code.txt"
         with open(csv_path, 'r') as reading:
             bse_full_file = csv.DictReader(reading)
             print("Read the CSV file, lets write to txt now")
-            with open(txt3_name, 'w') as txt:
+            with open(BSE_textfile_name, 'w') as txt:
                 txt.write("TICKER, DATE, OPEN, HIGH, LOW, CLOSE, VOLUME" + "\n")
                 for line in bse_full_file:
                     # print(line)
@@ -616,7 +630,7 @@ def bse_file(bselink, yyyymmdd):
         with open(csv_path, 'r') as reading:
             bse_full_file = csv.DictReader(reading)
             print("Read the CSV file, lets write to txt now")
-            with open(txt3_name1, 'w') as txt:
+            with open(BSECode_textfile_name, 'w') as txt:
                 txt.write("TICKERCODE, DATE, OPEN, HIGH, LOW, CLOSE, VOLUME" + "\n")
                 for line in bse_full_file:
                     if line['SC_GROUP'] not in avoid_bse_series:
@@ -624,7 +638,7 @@ def bse_file(bselink, yyyymmdd):
                             if line['SC_NAME'] not in avoid_stocks:
                                 txt.write(line['SC_CODE'] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line[
                                     'HIGH'] + "," + line['LOW'] + "," + line['CLOSE'] + "," + line['NO_OF_SHRS'] + "\n")
-        return txt3_name, txt3_name1
+        return BSE_textfile_name, BSECode_textfile_name
     except Exception as e:
         # st.error(f"Failed to download BSE file due to {e}")
         return "fail"
@@ -637,15 +651,15 @@ def fno_file(fnolink, yyyymmdd):
         csv_path = zip_csv_download(fnolink, fno_file_name)
         csv_path = './bhavfiles/' + csv_path
         print("lets read CSV file now")
-        txt4_name = './bhavfiles/' + yyyymmdd + "_" + "FUTURES.txt"
-        txt5_name = './bhavfiles/' + yyyymmdd + "_" + "INDEX OPTIONS.txt"
+        Futures_textfile_name = './bhavfiles/' + yyyymmdd + "_" + "FUTURES.txt"
+        Options_textfile_name = './bhavfiles/' + yyyymmdd + "_" + "INDEX OPTIONS.txt"
         with open(csv_path, 'r') as reading:
             fno_full_file = csv.DictReader(reading)
             # first_row = next(fno_full_file)
             unique_script = ""
             roman_val = {'1': '-I', '2': '-II', '3': '-III', '4': '-IV', '5': '-V', '6': '-VI', '7': '-VII',
                          '8': '-VIII', '9': '-IX', '10': '-X'}
-            with open(txt4_name, 'w') as txt:
+            with open(Futures_textfile_name, 'w') as txt:
                 txt.write("TICKER, DATE, OPEN, HIGH, LOW, CLOSE, VOLUME,OI" + "\n")
                 for line in fno_full_file:
                     if line["OPTION_TYP"] == "XX":  # FOR FUTURES
@@ -667,7 +681,7 @@ def fno_file(fnolink, yyyymmdd):
         with open(csv_path, 'r') as reading:
             fno_full_file = csv.DictReader(reading)
             # name for me shud be "NIFTY 43500CE exp_date"
-            with open(txt5_name, 'w') as txt1:
+            with open(Options_textfile_name, 'w') as txt1:
                 txt1.write("TICKER, DATE, OPEN, HIGH, LOW, CLOSE, VOLUME,OI" + "\n")
                 for line in fno_full_file:
                     if line["INSTRUMENT"] == "OPTIDX" and line["OPEN"] != "0" and line["HIGH"] != "0" and line[
@@ -675,7 +689,7 @@ def fno_file(fnolink, yyyymmdd):
                         txt1.write(line['SYMBOL'] + " " + line["STRIKE_PR"] + line["OPTION_TYP"] + " " + line[
                             "EXPIRY_DT"] + "," + str(yyyymmdd) + "," + line['OPEN'] + "," + line['HIGH'] + "," + line[
                                        'LOW'] + "," + line['CLOSE'] + "," + line['CONTRACTS'] + line['OPEN_INT'] + "\n")
-        return txt4_name, txt5_name
+        return Futures_textfile_name, Options_textfile_name
     except Exception as e:
         # st.error(f"Failed to download FNO file due to {e}")
         return "fail"
