@@ -15,6 +15,12 @@ from streamlit_lottie import st_lottie_spinner
 text = ""
 texxt = ""
 
+st.set_page_config(
+        page_title="Concal Summariser",
+        #page_icon=":hammer_and_wrench:",
+        layout="wide"
+    )
+
 def load_lottiefile(filepath: str):
     with open(filepath, "r") as f:
         return json.load(f)
