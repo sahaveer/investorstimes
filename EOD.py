@@ -306,7 +306,7 @@ def main():
             st.error(f"Got error {e}")
             external_ip = get_external_ip()
             bot.send_message(chat_id="304381618", text=f"Not able to reach MONGODB \nAdd IP Address {external_ip} to your MOngoDB Account")
-
+            
 
 def download_telegram_file(file_id, bot_token, save_file):
     try:
@@ -352,8 +352,6 @@ def get_list_of_dates(my1_date, my2_date):
     while my1_date <= my2_date:
         ddmmmyyyy = my1_date.strftime("%d%b%Y")
         weekday_num = datetime.datetime.strptime(ddmmmyyyy, '%d%b%Y').weekday()
-        st.info(ddmmmyyyy)
-        st.info(holidays_ddmmmyyyy)
         if weekday_num == 5 or weekday_num == 6 or ddmmmyyyy in holidays_ddmmmyyyy:
             my1_date += timedelta(1)
             pass
