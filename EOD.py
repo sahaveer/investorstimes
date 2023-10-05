@@ -302,7 +302,8 @@ def main():
                         #mime="text/plain"  # Set the MIME type to 'text/plain' for a text file)
             #else:
                 #st.error("File download failed.")
-        except:
+        except Exception as e:
+            st.error(f"Got error {e}")
             external_ip = get_external_ip()
             bot.send_message(chat_id="304381618", text=f"Not able to reach MONGODB \nAdd IP Address {external_ip} to your MOngoDB Account")
 
