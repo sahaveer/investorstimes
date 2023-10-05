@@ -265,9 +265,16 @@ def main():
                 st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {index_file_id}")
 
         # bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
-
-
-
+        duration = time.time() - start_time
+        print(f"Downloaded in {duration} seconds")
+        with open(EOD_file, "rb") as fp:
+            btn = st.download_button(
+                label="Download ZIP",
+                data=fp,
+                file_name="EOD.zip",
+                mime="application/octet-stream"
+            )
+                
         file_id = "BQACAgUAAx0Ea_o3YAACJUxlHBK31biRDHN-665spMe370BdYQACvQwAAr604FTgorFAP3tkfTAE"
         save_file = "./bhavfiles/bhav.txt"
         downloaded_file_path = download_telegram_file(file_id, token_investrade, save_file)
@@ -280,8 +287,6 @@ def main():
                     file_name="your_text_file.txt",
                     mime="text/plain"  # Set the MIME type to 'text/plain' for a text file
                 )
-            duration = time.time() - start_time
-            print(f"Downloaded in {duration} seconds")
         else:
             st.error("File download failed.")
 
@@ -298,7 +303,6 @@ def download_telegram_file(file_id, bot_token, save_file):
             "User-Agent": "Telegram Bot SDK - (https://github.com/sahaveer/investorstimes)",
             "content-type": "application/json"
         }
-
         response = requests.post(url, json=payload, headers=headers)
         st.success(response.text)
         # st.success(response.status_code)
