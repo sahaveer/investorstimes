@@ -209,9 +209,7 @@ def main():
         except BadZipFile:
             st.error("BadZipFile")
             pass
-    '''
-    The below Button is still under progress! Happy news is I have atleast found a way to get the Bhavfiles here
-    '''
+
     if st.button("Telegram_file_id"):
         try:
             start_time = time.time()
@@ -278,6 +276,7 @@ def add_zip(ddmmmyyyy,NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTI
         if nse_file_date == search_date_in_db:
             # st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {nse_file_id}")
             downloaded_file_path = download_telegram_file(nse_file_id, token_investrade, nse_textfile_name)
+            st.success(f"NSE FILE : {downloaded_file_path}")
             with ZipFile(EOD_file, "a") as m_zip:
                 m_zip.write(downloaded_file_path)
     else:
@@ -289,6 +288,7 @@ def add_zip(ddmmmyyyy,NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTI
         bse_file_date = get_bse_data['date']
         if bse_file_date == search_date_in_db:
             downloaded_file_path = download_telegram_file(bse_file_id, token_investrade, BSE_textfile_name)
+            st.success(f"BSE FILE : {downloaded_file_path}")
             with ZipFile(EOD_file, "a") as m_zip:
                 m_zip.write(downloaded_file_path)
             # st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {bse_file_id}")
@@ -301,6 +301,7 @@ def add_zip(ddmmmyyyy,NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTI
         bsecode_file_date = get_bsecode_data['date']
         if bsecode_file_date == search_date_in_db:
             downloaded_file_path = download_telegram_file(bsecode_file_id, token_investrade, BSECode_textfile_name)
+            st.success(f"BSECODe FILE : {downloaded_file_path}")
             with ZipFile(EOD_file, "a") as m_zip:
                 m_zip.write(downloaded_file_path)
             # st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {bsecode_file_id}")
@@ -313,6 +314,7 @@ def add_zip(ddmmmyyyy,NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTI
         index_file_date = get_index_data['date']
         if index_file_date == search_date_in_db:
             downloaded_file_path = download_telegram_file(index_file_id, token_investrade, index_textfile_name)
+            st.success(f"INDEX FILE : {downloaded_file_path}")
             with ZipFile(EOD_file, "a") as m_zip:
                 m_zip.write(downloaded_file_path)
             # st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {index_file_id}")
@@ -325,6 +327,7 @@ def add_zip(ddmmmyyyy,NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTI
         futures_file_date = get_futures_data['date']
         if futures_file_date == search_date_in_db:
             downloaded_file_path = download_telegram_file(futures_file_id, token_investrade, Futures_textfile_name)
+            st.success(f"Futures FILE : {downloaded_file_path}")
             with ZipFile(EOD_file, "a") as m_zip:
                 m_zip.write(downloaded_file_path)
     else:
@@ -336,6 +339,7 @@ def add_zip(ddmmmyyyy,NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTI
         options_file_date = get_options_data['date']
         if options_file_date == search_date_in_db:
             downloaded_file_path = download_telegram_file(options_file_id, token_investrade, Options_textfile_name)
+            st.success(f"OPTIONS FILE : {downloaded_file_path}")
             with ZipFile(EOD_file, "a") as m_zip:
                 m_zip.write(downloaded_file_path)
     else:
@@ -344,6 +348,7 @@ def add_zip(ddmmmyyyy,NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTI
 
     bot.send_message(chat_id="304381618", text=f"/bhav {ddmmmyyyy}")
     file_not_in_db.pop(ddmmmyyyy)
+    st.success(EOD_file)
     return EOD_file
 
 def download_telegram_file(file_id, bot_token, save_file):
@@ -587,7 +592,6 @@ def nse_file(nse_full_link, possible_fullbhav_name, nse_textfile_name):
         # st.error(f"Failed to download NSE file due to {e}")
         return "fail"
 
-
 def index_file(indexlink, possible_index_name, index_textfile_name):
     try:
         possible_index_name = possible_index_name + '.csv'
@@ -732,7 +736,6 @@ def fno_file(fnolink, yyyymmdd):
     except Exception as e:
         # st.error(f"Failed to download FNO file due to {e}")
         return "fail"
-
 
 if __name__ == '__main__':
     main()
