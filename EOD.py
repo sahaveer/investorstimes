@@ -228,9 +228,14 @@ def main():
             client = init_connection()
             NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col = mongo_data(client)
             for ddmmmyyyy in ddmmmyyyy_list:
-                yyyymmdd, nse_full_link, possible_fullbhav_name, nse_textfile_name, indexlink, possible_index_name, index_textfile_name, bselink, fnolink, BSE_textfile_name, BSECode_textfile_name, Futures_textfile_name, Options_textfile_name = get_links_txtnames(ddmmmyyyy)
                 mmm_to_d, mm_to_d, dd_to_d, yyyy_to_d, yy_to_d = get_dateformats(ddmmmyyyy)
                 search_date_in_db = yyyy_to_d + mm_to_d + dd_to_d
+                nse_textfile_name = search_date_in_db + "_" + "NSE.txt"
+                index_textfile_name = search_date_in_db + "_" + "INDEX.txt"
+                BSE_textfile_name = search_date_in_db + "_" + "BSE.txt"
+                BSECode_textfile_name = search_date_in_db + "_" + "BSE_code.txt"
+                Futures_textfile_name = search_date_in_db + "_" + "FUTURES.txt"
+                Options_textfile_name = search_date_in_db + "_" + "INDEX OPTIONS.txt"
                 get_nse_data = NSE_col.find_one({"date": search_date_in_db})
                 nse_file_id = get_nse_data['file_id']
                 nse_file_date = get_nse_data['date']
@@ -270,13 +275,13 @@ def main():
                     downloaded_file_path = download_telegram_file(futures_file_id, token_investrade, Futures_textfile_name)
                     with ZipFile(EOD_file, "a") as m_zip:
                         m_zip.write(downloaded_file_path)
-                #get_options_data = OPTIONS_col.find_one({"date": search_date_in_db})
-                #options_file_id = get_options_data['file_id']
-                #options_file_date = get_options_data['date']
-                #if options_file_date == search_date_in_db:
-                    #downloaded_file_path = download_telegram_file(options_file_id, token_investrade, Options_textfile_name)
-                    #with ZipFile(EOD_file, "a") as m_zip:
-                        #m_zip.write(downloaded_file_path)
+                get_options_data = OPTIONS_col.find_one({"date": search_date_in_db})
+                options_file_id = get_options_data['file_id']
+                options_file_date = get_options_data['date']
+                if options_file_date == search_date_in_db:
+                    downloaded_file_path = download_telegram_file(options_file_id, token_investrade, Options_textfile_name)
+                    with ZipFile(EOD_file, "a") as m_zip:
+                        m_zip.write(downloaded_file_path)
 
             # bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
             duration = time.time() - start_time
@@ -286,9 +291,7 @@ def main():
                     label="Download ZIP",
                     data=fp,
                     file_name="EOD.zip",
-                    mime="application/octet-stream"
-                )
-
+                    mime="application/octet-stream")
             #file_id = "BQACAgUAAx0Ea_o3YAACJUxlHBK31biRDHN-665spMe370BdYQACvQwAAr604FTgorFAP3tkfTAE"
             #save_file = "./bhavfiles/bhav.txt"
             #downloaded_file_path = download_telegram_file(file_id, token_investrade, save_file)
@@ -302,11 +305,12 @@ def main():
                         #mime="text/plain"  # Set the MIME type to 'text/plain' for a text file)
             #else:
                 #st.error("File download failed.")
+        except Exception as ServerSelectionTimeoutError:
+            external_ip = get_external_ip()
+            bot.send_message(chat_id="304381618",
+                             text=f"Not able to reach MONGODB \nAdd IP Address {external_ip} to your MongoDB Account")
         except Exception as e:
             st.error(f"Got error {e}")
-            external_ip = get_external_ip()
-            bot.send_message(chat_id="304381618", text=f"Not able to reach MONGODB \nAdd IP Address {external_ip} to your MOngoDB Account")
-            
 
 def download_telegram_file(file_id, bot_token, save_file):
     try:
@@ -471,16 +475,16 @@ def get_links_txtnames(ddmmmyyyy):
     # NSEFULLLINK GIVES DELIVERY DATA AS WELL
     nse_full_link = "https://archives.nseindia.com/products/content/sec_bhavdata_full_" + dd_to_d + mm_to_d + yyyy_to_d + ".csv"
     possible_fullbhav_name = "sec_bhavdata_full_" + dd_to_d + mm_to_d + yyyy_to_d + ".csv"
-    nse_textfile_name = yyyy_to_d + mm_to_d + dd_to_d + "_" + "NSE.txt"
 
     # indexlink = 'https://www1.nseindia.com/content/indices/ind_close_all_' + dd_to_d + mm_to_d + yyyy_to_d + '.csv'
     indexlink = 'https://archives.nseindia.com/content/indices/ind_close_all_' + dd_to_d + mm_to_d + yyyy_to_d + '.csv'
     possible_index_name = 'ind_close_all_' + dd_to_d + mm_to_d + yyyy_to_d
-    index_textfile_name =  yyyy_to_d + mm_to_d + dd_to_d + "_" + "INDEX.txt"
 
     # FOR bselink and fnolink yyyymmdd is required and not txtnames
     bselink = 'https://www.bseindia.com/download/BhavCopy/Equity/EQ' + dd_to_d + mm_to_d + yy_to_d + '_CSV.ZIP'
     fnolink = "https://archives.nseindia.com/content/historical/DERIVATIVES/" + yyyy_to_d + "/" + mmm_to_d + "/fo" + dd_to_d + mmm_to_d + yyyy_to_d + "bhav.csv.zip"
+    nse_textfile_name = yyyy_to_d + mm_to_d + dd_to_d + "_" + "NSE.txt"
+    index_textfile_name =  yyyy_to_d + mm_to_d + dd_to_d + "_" + "INDEX.txt"
     BSE_textfile_name = yyyymmdd + "_" + "BSE.txt"
     BSECode_textfile_name = yyyymmdd + "_" + "BSE_code.txt"
     Futures_textfile_name = yyyymmdd + "_" + "FUTURES.txt"
