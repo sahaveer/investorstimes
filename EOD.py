@@ -304,7 +304,7 @@ def main():
                 #st.error("File download failed.")
         except:
             external_ip = get_external_ip()
-            bot.send_message(chat_id="304381618", text="Not able to reach MONGODB \nAdd IP Address {external_ip} to your MOngoDB Account")
+            bot.send_message(chat_id="304381618", text=f"Not able to reach MONGODB \nAdd IP Address {external_ip} to your MOngoDB Account")
 
 
 def download_telegram_file(file_id, bot_token, save_file):
