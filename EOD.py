@@ -315,7 +315,7 @@ def main():
                 if len(file_not_in_db) >= 0:
                     for each in file_not_in_db:
                         bot.send_message(chat_id="304381618", text=f"/bhav {each}")
-                        del file_not_in_db[each]
+                        file_not_in_db.remove(each)
                     yyyymmdd = each[5:] + mnth_dict(each[2:5]) + each[:2]
                     # if NSE_col.find_one({"date": yyyymmdd}) is True:
 
