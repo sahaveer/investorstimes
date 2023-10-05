@@ -270,13 +270,13 @@ def main():
                     downloaded_file_path = download_telegram_file(futures_file_id, token_investrade, Futures_textfile_name)
                     with ZipFile(EOD_file, "a") as m_zip:
                         m_zip.write(downloaded_file_path)
-                get_options_data = OPTIONS_col.find_one({"date": search_date_in_db})
-                options_file_id = get_options_data['file_id']
-                options_file_date = get_options_data['date']
-                if options_file_date == search_date_in_db:
-                    downloaded_file_path = download_telegram_file(options_file_id, token_investrade, Options_textfile_name)
-                    with ZipFile(EOD_file, "a") as m_zip:
-                        m_zip.write(downloaded_file_path)
+                #get_options_data = OPTIONS_col.find_one({"date": search_date_in_db})
+                #options_file_id = get_options_data['file_id']
+                #options_file_date = get_options_data['date']
+                #if options_file_date == search_date_in_db:
+                    #downloaded_file_path = download_telegram_file(options_file_id, token_investrade, Options_textfile_name)
+                    #with ZipFile(EOD_file, "a") as m_zip:
+                        #m_zip.write(downloaded_file_path)
 
             # bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
             duration = time.time() - start_time
