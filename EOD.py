@@ -312,6 +312,13 @@ def main():
                 else:
                     if ddmmmyyyy not in file_not_in_db:
                         file_not_in_db.append(ddmmmyyyy)
+                if len(file_not_in_db) >= 0:
+                    for each in file_not_in_db:
+                        bot.send_message(chat_id="304381618", text=f"/bhav {each}")
+                        file_not_in_db.pop(each)
+                    yyyymmdd = each[5:] + mnth_dict(each[2:5]) + each[:2]
+                    # if NSE_col.find_one({"date": yyyymmdd}) is True:
+
             with open(EOD_file, "rb") as fp:
                 btn = st.download_button(
                     label="Download ZIP",
