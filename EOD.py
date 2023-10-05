@@ -113,8 +113,6 @@ def empty_folder(folder_path):
 
 
 def main():
-    EOD_file = f"./bhavfiles/getzip.zip"
-    created_zip = ZipFile(EOD_file, "w")
     stock_quotes = [
         """'I have two basic rules about winning in trading as well as in life:\n1. If you don’t bet, you can’t win.\n2. If you lose all your chips, you can’t bet.' \n\n– Larry Hite""",
         """'When you genuinely accept the risks, you will be at peace with any outcome.'\n – Mark Douglas""",
@@ -197,26 +195,28 @@ def main():
             my2_date = st.date_input("TILL", value=date.today(),
                                      min_value=datetime.date(1990, 1, 1))
 
-    if st.button("GENERATE BHAVCOPIES"):
-        try:
-            folder_to_empty = "./bhavfiles"
-            empty_folder(folder_to_empty)
-            # st.write("Going to download_bhav Function")
-            ddmmmyyyy_list = get_list_of_dates(my1_date, my2_date)
-            download_bhav(ddmmmyyyy_list)
-            # st.success("Done downloading, lets try extracting now")
-            # eod_existing_files(path_bhav, path_csv)
+    #if st.button("GENERATE BHAVCOPIES"):
+        #try:
+            #folder_to_empty = "./bhavfiles"
+            #empty_folder(folder_to_empty)
+            ## st.write("Going to download_bhav Function")
+            #ddmmmyyyy_list = get_list_of_dates(my1_date, my2_date)
+            #download_bhav(ddmmmyyyy_list)
+            ##st.success("Done downloading, lets try extracting now")
+            ##eod_existing_files(path_bhav, path_csv)
         except BadZipFile:
             st.error("BadZipFile")
             pass
 
     if st.button("Telegram_file_id"):
         try:
+            EOD_file = f"./bhavfiles/getzip.zip"
+            created_zip = ZipFile(EOD_file, "w")
             start_time = time.time()
             file_not_in_db = []
             created_zip.close()
             ddmmmyyyy_list = get_list_of_dates(my1_date, my2_date)
-            # st.success(ddmmmyyyy_list)
+            #st.success(ddmmmyyyy_list)
             client = init_connection()
             NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTIONS_col = mongo_data(client)
             for ddmmmyyyy in ddmmmyyyy_list:
@@ -231,7 +231,6 @@ def main():
                 Options_textfile_name = search_date_in_db + "_" + "INDEX OPTIONS.txt"
                 # st.info(f"Searching for {search_date_in_db}")
                 get_nse_data = NSE_col.find_one({"date": search_date_in_db})
-                print(get_nse_data)
                 if get_nse_data is not None:
                     nse_file_id = get_nse_data['file_id']
                     nse_file_date = get_nse_data['date']
@@ -319,7 +318,7 @@ def main():
                     data=fp,
                     file_name="EOD.zip",
                     mime="application/octet-stream")
-            st.error(file_not_in_db)
+
             '''
             if len(file_not_in_db) >= 0:
                 for each in file_not_in_db:
