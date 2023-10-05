@@ -343,7 +343,7 @@ def add_zip(ddmmmyyyy,NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTI
             file_not_in_db.append(ddmmmyyyy)
 
     bot.send_message(chat_id="304381618", text=f"/bhav {ddmmmyyyy}")
-    file_not_in_db.pop(each)
+    file_not_in_db.pop(ddmmmyyyy)
     return EOD_file
 
 def download_telegram_file(file_id, bot_token, save_file):
