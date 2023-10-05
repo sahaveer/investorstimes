@@ -231,7 +231,8 @@ def main():
                 Options_textfile_name = search_date_in_db + "_" + "INDEX OPTIONS.txt"
                 # st.info(f"Searching for {search_date_in_db}")
                 get_nse_data = NSE_col.find_one({"date": search_date_in_db})
-                if get_nse_data is True:
+                print(get_nse_data)
+                if get_nse_data is not None:
                     nse_file_id = get_nse_data['file_id']
                     nse_file_date = get_nse_data['date']
                     if nse_file_date == search_date_in_db:
@@ -244,6 +245,7 @@ def main():
                     if ddmmmyyyy not in file_not_in_db:
                         file_not_in_db.append(ddmmmyyyy)
                 get_bse_data = BSE_col.find_one({"date": search_date_in_db})
+                print(get_bse_data)
                 if get_bse_data is True:
                     bse_file_id = get_bse_data['file_id']
                     bse_file_date = get_bse_data['date']
@@ -344,8 +346,7 @@ def main():
         except Exception as e:
             st.error(f"Got error {e}")
             external_ip = get_external_ip()
-            bot.send_message(chat_id="304381618",
-                             text=f"Not able to reach MONGODB \nAdd IP Address {external_ip} to your MongoDB Account")
+            #bot.send_message(chat_id="304381618",text=f"Not able to reach MONGODB \nAdd IP Address {external_ip} to your MongoDB Account")
 
 
 def add_zip(ddmmmyyyy,NSE_col, BSECODE_col, BSE_col, INDEX_col, FUTURE_col, OPTIONS_col, EOD_file, file_not_in_db):
