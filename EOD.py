@@ -236,54 +236,60 @@ def main():
                 BSECode_textfile_name = search_date_in_db + "_" + "BSE_code.txt"
                 Futures_textfile_name = search_date_in_db + "_" + "FUTURES.txt"
                 Options_textfile_name = search_date_in_db + "_" + "INDEX OPTIONS.txt"
-                st.info(f"Searching for {search_date_in_db}")
+                #st.info(f"Searching for {search_date_in_db}")
                 get_nse_data = NSE_col.find_one({"date": search_date_in_db})
-                nse_file_id = get_nse_data['file_id']
-                nse_file_date = get_nse_data['date']
-                if nse_file_date == search_date_in_db:
-                    #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {nse_file_id}")
-                    downloaded_file_path = download_telegram_file(nse_file_id, token_investrade, nse_textfile_name)
-                    with ZipFile(EOD_file, "a") as m_zip:
-                        m_zip.write(downloaded_file_path)
+                if get_nse_data is not None:
+                    nse_file_id = get_nse_data['file_id']
+                    nse_file_date = get_nse_data['date']
+                    if nse_file_date == search_date_in_db:
+                        #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {nse_file_id}")
+                        downloaded_file_path = download_telegram_file(nse_file_id, token_investrade, nse_textfile_name)
+                        with ZipFile(EOD_file, "a") as m_zip:
+                            m_zip.write(downloaded_file_path)
                 get_bse_data = BSE_col.find_one({"date": search_date_in_db})
-                bse_file_id = get_bse_data['file_id']
-                bse_file_date = get_bse_data['date']
-                if bse_file_date == search_date_in_db:
-                    downloaded_file_path = download_telegram_file(bse_file_id, token_investrade, BSE_textfile_name)
-                    with ZipFile(EOD_file, "a") as m_zip:
-                        m_zip.write(downloaded_file_path)
-                    #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {bse_file_id}")
+                if get_bse_data is not None:
+                    bse_file_id = get_bse_data['file_id']
+                    bse_file_date = get_bse_data['date']
+                    if bse_file_date == search_date_in_db:
+                        downloaded_file_path = download_telegram_file(bse_file_id, token_investrade, BSE_textfile_name)
+                        with ZipFile(EOD_file, "a") as m_zip:
+                            m_zip.write(downloaded_file_path)
+                        #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {bse_file_id}")
                 get_bsecode_data = BSECODE_col.find_one({"date": search_date_in_db})
-                bsecode_file_id = get_bsecode_data['file_id']
-                bsecode_file_date = get_bsecode_data['date']
-                if bsecode_file_date == search_date_in_db:
-                    downloaded_file_path = download_telegram_file(bsecode_file_id, token_investrade, BSECode_textfile_name)
-                    with ZipFile(EOD_file, "a") as m_zip:
-                        m_zip.write(downloaded_file_path)
-                    #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {bsecode_file_id}")
+                if get_bsecode_data is not None:
+                    bsecode_file_id = get_bsecode_data['file_id']
+                    bsecode_file_date = get_bsecode_data['date']
+                    if bsecode_file_date == search_date_in_db:
+                        downloaded_file_path = download_telegram_file(bsecode_file_id, token_investrade, BSECode_textfile_name)
+                        with ZipFile(EOD_file, "a") as m_zip:
+                            m_zip.write(downloaded_file_path)
+                        #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {bsecode_file_id}")
                 get_index_data = INDEX_col.find_one({"date": search_date_in_db})
-                index_file_id = get_index_data['file_id']
-                index_file_date = get_index_data['date']
-                if index_file_date == search_date_in_db:
-                    downloaded_file_path = download_telegram_file(index_file_id, token_investrade, index_textfile_name)
-                    with ZipFile(EOD_file, "a") as m_zip:
-                        m_zip.write(downloaded_file_path)
-                    #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {index_file_id}")
+                if get_index_data is not None:
+                    index_file_id = get_index_data['file_id']
+                    index_file_date = get_index_data['date']
+                    if index_file_date == search_date_in_db:
+                        downloaded_file_path = download_telegram_file(index_file_id, token_investrade, index_textfile_name)
+                        with ZipFile(EOD_file, "a") as m_zip:
+                            m_zip.write(downloaded_file_path)
+                        #st.success(f"Got File_id for {search_date_in_db} from MONGODB : \n {index_file_id}")
                 get_futures_data = FUTURE_col.find_one({"date": search_date_in_db})
-                futures_file_id = get_futures_data['file_id']
-                futures_file_date = get_futures_data['date']
-                if futures_file_date == search_date_in_db:
-                    downloaded_file_path = download_telegram_file(futures_file_id, token_investrade, Futures_textfile_name)
-                    with ZipFile(EOD_file, "a") as m_zip:
-                        m_zip.write(downloaded_file_path)
+                if get_futures_data is not None:
+                    futures_file_id = get_futures_data['file_id']
+                    futures_file_date = get_futures_data['date']
+                    if futures_file_date == search_date_in_db:
+                        downloaded_file_path = download_telegram_file(futures_file_id, token_investrade, Futures_textfile_name)
+                        with ZipFile(EOD_file, "a") as m_zip:
+                            m_zip.write(downloaded_file_path)
                 get_options_data = OPTIONS_col.find_one({"date": search_date_in_db})
-                options_file_id = get_options_data['file_id']
-                options_file_date = get_options_data['date']
-                if options_file_date == search_date_in_db:
-                    downloaded_file_path = download_telegram_file(options_file_id, token_investrade, Options_textfile_name)
-                    with ZipFile(EOD_file, "a") as m_zip:
-                        m_zip.write(downloaded_file_path)
-            
+                if get_options_data is not None:
+                    options_file_id = get_options_data['file_id']
+                    options_file_date = get_options_data['date']
+                    if options_file_date == search_date_in_db:
+                        downloaded_file_path = download_telegram_file(options_file_id, token_investrade, Options_textfile_name)
+                        with ZipFile(EOD_file, "a") as m_zip:
+                            m_zip.write(downloaded_file_path)
+
             # bot.send_message(chat_id="@itimesalgo_d", text="Just a test message")
             duration = time.time() - start_time
             st.info(f"Downloaded in {duration} seconds")
