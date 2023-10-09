@@ -1,5 +1,6 @@
 import streamlit as st
 import glob
+import os
 import pandas as pd
 import fundamentals
 from streamlit_option_menu import option_menu
@@ -10,8 +11,6 @@ from streamlit_lottie import st_lottie_spinner
 
 st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)
 # PARAMS
-funda_keys = ['PROFIT&LOSS', 'BALANCE SHEET',
-              'CASH FLOW']  # dont change the order of this list as it will affect the keys used in Yearly df
 # **************************************************************************************************
 listed_stocks = []
 stocks_dict = {}
@@ -19,6 +18,10 @@ color_dict = {'Yellow_Lite': "#f8ba43", 'Yellow_Dark': "#D6D41B", 'Blue_Lite': "
               'Green_Lite': "#11A694", 'Green_Dark': "#11A64B", "Purple_Lite": "#7019BF", 'Purple_Dark': "#9319BF"}
 # color_list = ["#D6D41B","#f8ba43","#0971C9","#1959BF","#11A694","#11A64B","#7019BF","#9319BF"]
 color_line = "Red"
+
+
+
+
 
 def load_lottiefile(filepath: str):
     with open(filepath, "r") as f:
@@ -31,13 +34,19 @@ def load_lottieurl(url: str):
 lottie_bar = load_lottiefile("./lottie/barchart.json")  # replace link to local lottie file
 lottie_data_analysis = load_lottiefile("./lottie/data-analysis.json")
 
+
 #lottie_hello = load_lottieurl("https://assets9.lottiefiles.com/packages/lf20_M9p23l.json")
-for each_pickl in glob.glob('./pickl/*.pkl', recursive=False):
+for each_pickl in glob.glob('./pickl/**/*.pkl', recursive=False):
     each_pickl = each_pickl.replace('\\', '/')
-    file_name_only = each_pickl.split('/')[-1]
-    pickle_name = file_name_only.split('.pkl')[0]
-    stocks_dict[pickle_name] = each_pickl
-    listed_stocks += [pickle_name]
+    #st.info(each_pickl)
+    file_name_only = os.path.basename(each_pickl)
+    #file_name_only = each_pickl.split('/')[-1]
+    pickle_name = file_name_only.split()[0]             # Since all the pickle files are either Quartetrly or Yearly, we need to get the first company code only
+    #st.info(pickle_name)
+    if pickle_name not in listed_stocks:
+        listed_stocks.append(pickle_name)
+    #stocks_dict[pickle_name] = each_pickl
+    #listed_stocks += [pickle_name]
 
 with st.sidebar:
     st_lottie(
@@ -66,14 +75,20 @@ if selected:
         with col3:
             color_key = st.selectbox("Bar Color", color_dict.keys())
             # color_bar = st.color_picker("Bar Color",value="#ECE80F")  # blueshades"#0971C9""ECE80F"   #yellowshades"#f8ba43"
-        df_comp = pd.read_pickle(stocks_dict[selected])
+        #df_comp = pd.read_pickle(stocks_dict[selected])
+        tree_folder = comp_Name[0].upper()
+        df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Yearly.pkl')
+        qtr_pnl = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Quarterly.pkl')
         try:
             df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
         except Exception as AttributeError:
             pass
-        sub_choose = option_menu("", fundamentals.funda_keys,default_index=0,orientation="horizontal")
-        #sub_choose = st.sidebar.selectbox("Fundamentals", fundamentals.funda_keys,index=0)
-        if sub_choose == fundamentals.funda_keys[3]:
+
+        sub_choose = option_menu("", fundamentals.funda_menu,default_index=3,orientation="horizontal")
+        #sub_choose = st.sidebar.selectbox("Fundamentals", fundamentals.funda_menu,index=0)
+
+        # KEY DATA PULLED FROM TRADINGVIEW
+        if sub_choose == fundamentals.funda_menu[4]:                    #
             key_data = str("""<!-- TradingView Widget BEGIN -->
                             <div class="tradingview-widget-container">
                               <div class="tradingview-widget-container__widget"></div>
@@ -117,7 +132,8 @@ if selected:
             with coly:
                 components.html(comp_profile.replace("xxyy",comp_Name), height=1080)
 
-        if sub_choose == fundamentals.funda_keys[0]:
+        # YEARLY SALES
+        if sub_choose == fundamentals.funda_menu[0]:
             index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
             with col2:
                 param = st.selectbox("Params", index_list)
@@ -133,7 +149,8 @@ if selected:
                 else:
                     fundamentals.go_bar(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
 
-        if sub_choose == fundamentals.funda_keys[1]:
+        # YEARLY BALANCE SHEET
+        if sub_choose == fundamentals.funda_menu[1]:
             index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
             #param = st.sidebar.selectbox("Params", index_list)
             with col2:
@@ -143,11 +160,10 @@ if selected:
                     st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
                 fundamentals.bar_line(df_comp.loc[sub_choose], "RESERVES", "BORROWINGS", color_dict[color_key],
                                       comp_Name)
-                fundamentals.bar_line(df_comp.loc[sub_choose], "DEBTOR DAYS", "INVENTORY TURNOVER",
-                                      color_dict[color_key], comp_Name)
-                fundamentals.both_lines(df_comp.loc[sub_choose], "ROCE", "ROE", color_dict[color_key], color_line,
-                                        comp_Name)
-                # fundamentals.bar_line(df_comp.loc[sub_choose], "RECEIVABLES", "INVENTORY", color_dict[color_key], comp_Name)
+                #fundamentals.bar_line(df_comp.loc[sub_choose], "DEBTOR DAYS", "INVENTORY TURNOVER",color_dict[color_key], comp_Name)
+                fundamentals.bar_line(df_comp.loc[sub_choose], "CAPITAL WORK IN PROGRESS", "INVESTMENTS",color_dict[color_key], comp_Name)
+                #fundamentals.both_lines(df_comp.loc[sub_choose], "ROCE", "ROE", color_dict[color_key], color_line,comp_Name)
+                fundamentals.bar_line(df_comp.loc[sub_choose], "RECEIVABLES", "INVENTORY", color_dict[color_key], comp_Name)
                 # fundamentals.go_bar(df_comp.loc[sub_choose], "CAPITAL WORK IN PROGRESS", color_dict[color_key], comp_Name)
                 fundamentals.go_bar(df_comp.loc[sub_choose], "CASH & BANK", color_dict[color_key], comp_Name)
             else:
@@ -156,7 +172,9 @@ if selected:
                     fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
                 else:
                     fundamentals.go_bar(df_comp.loc[sub_choose],param, color_dict[color_key], comp_Name)
-        if sub_choose == fundamentals.funda_keys[2]:
+
+        # YEARLY CASH AND FLOW
+        if sub_choose == fundamentals.funda_menu[2]:
             index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
             #param = st.sidebar.selectbox("SubChose", index_list)
             # param = st.sidebar.selectbox("Params", index_list)
@@ -172,6 +190,26 @@ if selected:
                     fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
                 else:
                     fundamentals.go_bar(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+
+        # QUARTERLY PNL
+        if sub_choose == fundamentals.funda_menu[3]:  # QUARTERLY PNL
+            index_list = ["key_params"] + list(qtr_pnl.index)
+            with col2:
+                param = st.sidebar.selectbox("SubChose", index_list)
+            if param == "key_params":
+                with st.expander("QUARTERLY PROFIT & LOSS DATA"):
+                    st.dataframe(qtr_pnl.style.format(formatter="{:.1f}"))
+                fundamentals.qoq_growth(qtr_pnl, "SALES", color_dict[color_key], comp_Name)
+                fundamentals.group_2_bars(qtr_pnl, "PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
+                fundamentals.qoq_growth(qtr_pnl, "PROFIT BEFORE TAX", color_dict[color_key], comp_Name)
+                fundamentals.qoq_growth(qtr_pnl, "NET PROFIT", color_dict[color_key], comp_Name)
+            else:
+                qoq_checked = st.checkbox("Sequential_Growth_%")
+                if qoq_checked:
+                    fundamentals.qoq_growth(qtr_pnl, param, color_dict[color_key], comp_Name)
+                else:
+                    fundamentals.go_bar(qtr_pnl, param, color_dict[color_key], comp_Name)
+
     if funda_tech == "Tech_Chart":
         with st.expander("IF ERROR / FETCHING APPLE STOCK"):
             st.write("We are having issues in generating Tech Charts for BSE Codes and some of the NSE codes as well.")
