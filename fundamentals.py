@@ -1,3 +1,4 @@
+
 import streamlit as st
 import plotly.io as pio
 pio.kaleido.scope.chromium_args += ("--single-process",)
@@ -433,3 +434,4 @@ def get_tables(datasht,file):
         sht_list = [pnl,balancesht,cashflow]
         df_comp = pd.concat(sht_list,keys=funda_keys)
     return qtr_pnl,df_comp
+

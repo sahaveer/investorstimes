@@ -1,3 +1,4 @@
+
 import datetime
 
 
@@ -279,6 +280,3 @@ replace_index = {'Nifty 50':'NSENIFTY',
                  #'Nifty Consumer Durables':'',
                  }
 
-'''
-
-'''

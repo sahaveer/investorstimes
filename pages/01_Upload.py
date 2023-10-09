@@ -120,7 +120,6 @@ if uploaded_file is not None:
             index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
             with col3:
                 param = st.selectbox("SubChose", index_list)
-
             if param == "key_params":
                 with st.expander("YEARLY BALANCE SHEET DATA"):
                     st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
@@ -181,3 +180,5 @@ if uploaded_file is not None:
 
 st.write("____")
 st.write('made with :green_heart: to my Indian Stock Investors')
+
+
