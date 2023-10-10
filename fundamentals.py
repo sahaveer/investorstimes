@@ -1,9 +1,4 @@
-
 import streamlit as st
-import plotly.io as pio
-pio.kaleido.scope.chromium_args += ("--single-process",)
-pio.kaleido.scope.mathjax = None
-
 from streamlit_option_menu import option_menu
 import streamlit.components.v1 as html
 import openpyxl
@@ -74,13 +69,7 @@ def go_bar(df, row_name,color_bar,comp_Name):
     with col1:
         with st.expander(row_name + " DATA"):
             st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    with col3:
-        if st.button(f'{row_name}.png'):
-            image_path = './Downloadimages/' + comp_Name.upper() + " " + row_name.upper() + ".png"
-            savenameas = os.path.basename(image_path)
-            print("TRYING TO SAVE IMAGE")
-            fig.write_image(image_path, width = 1350, height = 1080)
-            print("Saved as image")
+
 
 
     #fig.write_image("./Downloadimages/fig1.png")
@@ -117,13 +106,8 @@ def both_lines(df,row1,row2,color_bar,color_line,comp_Name):
     with col1:
         with st.expander(row1 + "/" + row2 + " DATA"):
             st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    with col3:
-        if st.button(f'{row1} {row2}.png'):
-            image_path = './Downloadimages/' + comp_Name.upper() + " " + row1 + " " + row2 + ".png"
-            savenameas = os.path.basename(image_path)
-            print("TRYING TO SAVE IMAGE")
-            fig.write_image(image_path, width = 1350, height = 1080)
-            print("Saved as image")
+
+
 
 def bar_line(df,row1,row2,color_bar,comp_Name):
     dat_rows = [df.loc[row1], df.loc[row2]]
@@ -155,14 +139,9 @@ def bar_line(df,row1,row2,color_bar,comp_Name):
     with col1:
         with st.expander(row1 + "/" + row2 + " DATA"):
             st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    with col3:
-        if st.button(f'{row1} {row2}.png'):
-            image_path = './Downloadimages/' + comp_Name.upper() + " " + row1 + " " + row2 + ".png"
-            savenameas = os.path.basename(image_path)
-            print("TRYING TO SAVE IMAGE")
-            fig.write_image(image_path, width = 1350, height = 1080)
-            print("Saved as image")
-        
+
+
+
 def qoq_growth(df,row_name,color_bar,comp_Name):
     temp_df = df.loc[row_name]
     df_qoq = (temp_df.pct_change() * 100)
@@ -201,15 +180,7 @@ def qoq_growth(df,row_name,color_bar,comp_Name):
     with col1:
         with st.expander(row_name + " DATA"):
             st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    with col3:
-        if st.button(f'{row_name}.png'):
-            image_path = './Downloadimages/' + comp_Name.upper() + " " + row_name + ".png"
-            savenameas = os.path.basename(image_path)
-            #print("TRYING TO SAVE IMAGE")
-            fig.write_image(image_path, width = 1350, height = 1080)
-        #print("Saved as image")
-        #with open(image_path, "rb") as file:
-            #btn = st.Download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
+
 
     #st.subheader('Downloads:')
     #generate_excel_Download_link(df2)
@@ -241,14 +212,8 @@ def peer_bar(df,Name,comp1_Name,comp2_Name):   #this has 2 series concatinated w
     with col1:
         with st.expander(Name + " DATA"):
             st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    with col3:
-        if st.button(f'{Name}.png'):
-            image_path = './Downloadimages/' + comp1_Name.upper() + '/' + comp2_Name.upper() + " " + Name + ".png"
-            savenameas = os.path.basename(image_path)
-            print("TRYING TO SAVE IMAGE")
-            fig.write_image(image_path, width = 1350, height = 1080)
-            print("Saved as image")
-        
+
+
 
 def group_2_bars(df,row1,row2,comp_Name):
     dat_rows = [df.loc[row1], df.loc[row2]]
@@ -307,14 +272,8 @@ def group_2_bars(df,row1,row2,comp_Name):
     with col1:
         with st.expander(row1 + "/" + row2 + " DATA"):
             st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    with col3:
-        if st.button(f'{row1} {row2}.png'):
-            image_path = './Downloadimages/' + comp_Name.upper() + " " + row1 + " " + row2 + ".png"
-            savenameas = os.path.basename(image_path)
-            print("TRYING TO SAVE IMAGE")
-            fig.write_image(image_path, width = 1350, height = 1080)
-            print("Saved as image")
- 
+
+
 # THIS IS SPECIFICALLY DESIGNED FOR CASHFLOWs, Where fixed 4 rows are there
 def go_group_bar(df, row_name,color_bar):
     # Sample data
