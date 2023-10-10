@@ -10,15 +10,21 @@ from win32com.client import Dispatch
 from selenium.common.exceptions import NoSuchElementException
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-
+import EOD
 import fundamentals
 st.set_page_config(page_title="Pickling", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)
+
+with st.sidebar:
+    # PATHS OF THIS COMPUTER
+    st.info("pls mention here your computer paths")
+    path_bhav = st.text_input("path_bhav",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/')     #'./bhavcopy/')
+    path_csv = st.text_input("path_csv",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/')        #'./bhavcopy/csv')
+    path_download = st.text_input("path_download",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy')
+
+
+
 download_excel_xpath = "/html/body/main/div[3]/div[1]/form/button"
 login_button_xpath = "/html/body/main/div[2]/div[2]/form/button"
-
-#C:\Users\sahaveer\PycharmProjects\webapps\Scripts\itimes\pages\05_Pickle_files.py:124: DeprecationWarning:
-#find_elements_by_xpath is deprecated. Please use find_elements(by=By.XPATH, value=xpath) instead
-
 
 def get_tables(datasht,file):
     for i in range(1,datasht.max_row+1) :
@@ -197,107 +203,123 @@ DataSheet_Key_Values = ['PROFIT & LOSS', 'Dividend Amount', 'Quarters', 'Operati
 funda_keys = ['PROFIT&LOSS','BALANCE SHEET','CASH FLOW']    # dont change the order of this list as it will affect the keys used in Yearly df
 # HERE WE MUST BE ABLE TO OPEN FILES FROM STRATEGY CONVERTER FILE
 
-
-compCode = st.text_input(label='Comp Code')
-if st.button('PICKLE'):
-    driver = webdriver.Edge(r"C://Users/sahaveer/PycharmProjects/msedgedriver.exe", )
-    driver.maximize_window()
-    login_screener(driver)
-    sleep(2)
-    yr_df, qtr_df = search_screener(driver, compCode)
-    sleep(1)
-    # SORT FILES ALPHABETICALLY
-    first_letter = pickle_name[0].upper()  # Get the first letter and convert it to uppercase
-    alphabetic_folder = os.path.join("./pickl/", first_letter)
-    # Create the folder if it doesn't exist
-    if not os.path.exists(alphabetic_folder):
-        os.makedirs(alphabetic_folder)
-    st.info(f"{alphabetic_folder}")
-    #if yr_df != 1:
-    if isinstance(yr_df, pd.DataFrame):
-        save_pickl_as = alphabetic_folder + '/' + pickle_name + " Yearly.pkl"
-        yr_df.to_pickle(save_pickl_as)
-    #if qtr_df != 1:
-    if isinstance(qtr_df, pd.DataFrame):
-        save_pickl_as = alphabetic_folder + '/' + pickle_name + " Quarterly.pkl"
-        qtr_df.to_pickle(save_pickl_as)
-    st.info(f"saved pickl file {pickle_name} in working directory pickle folder ")
-st.write("____")
-
-st.write("Download pickle files from entire NSE List")
-if st.button("PICKLE all NSE"):
-    st.info("reading list from " + path_bhav+'nselist.txt')
-    driver = webdriver.Edge(r"C://Users/sahaveer/PycharmProjects/msedgedriver.exe", )
-    driver.maximize_window()
-    login_screener(driver)
-    sleep(2)
-    with open(path_bhav+'nselist.txt','r') as file:
-        for line in file:
-            comp_Code = str(line)
-            pickle_name = comp_Code.split('\n')[0]
-            #st.info(f"Comp code is {comp_Code}")
-            #st.info(f"Pickle Name is {pickle_name}")
-            yr_df, qtr_df = search_screener(driver, comp_Code)
-            sleep(1)
-            # SORT FILES ALPHABETICALLY
-            first_letter = pickle_name[0].upper()  # Get the first letter and convert it to uppercase
-            alphabetic_folder = os.path.join("./pickl/", first_letter)
-            # Create the folder if it doesn't exist
-            if not os.path.exists(alphabetic_folder):
-                os.makedirs(alphabetic_folder)
-            #st.info(f"{alphabetic_folder}")
-            #if yr_df != 1:
-            if isinstance(yr_df, pd.DataFrame):
-                save_pickl_as = alphabetic_folder + '/' + pickle_name + " Yearly.pkl"
-                yr_df.to_pickle(save_pickl_as)
-            #if qtr_df != 1:
-            if isinstance(qtr_df, pd.DataFrame):
-                save_pickl_as = alphabetic_folder + '/' + pickle_name + " Quarterly.pkl"
-                qtr_df.to_pickle(save_pickl_as)
-
-    st.info("saved pickl file in working directory pickle folder")
+col1,col2 = st.columns([5,5])
+with col1:
+    compCode = st.text_input(label='Comp Code')
+    if st.button('PICKLE'):
+        driver = webdriver.Edge(r"C://Users/sahaveer/PycharmProjects/msedgedriver.exe", )
+        driver.maximize_window()
+        login_screener(driver)
+        sleep(2)
+        yr_df, qtr_df = search_screener(driver, compCode)
+        sleep(1)
+        # SORT FILES ALPHABETICALLY
+        first_letter = pickle_name[0].upper()  # Get the first letter and convert it to uppercase
+        alphabetic_folder = os.path.join("./pickl/", first_letter)
+        # Create the folder if it doesn't exist
+        if not os.path.exists(alphabetic_folder):
+            os.makedirs(alphabetic_folder)
+        st.info(f"{alphabetic_folder}")
+        #if yr_df != 1:
+        if isinstance(yr_df, pd.DataFrame):
+            save_pickl_as = alphabetic_folder + '/' + pickle_name + " Yearly.pkl"
+            yr_df.to_pickle(save_pickl_as)
+        #if qtr_df != 1:
+        if isinstance(qtr_df, pd.DataFrame):
+            save_pickl_as = alphabetic_folder + '/' + pickle_name + " Quarterly.pkl"
+            qtr_df.to_pickle(save_pickl_as)
+        st.info(f"saved pickl file {pickle_name} in working directory pickle folder ")
+with col2:
+    st.write("Download from Downloaded path of Computer")
+    if st.button("Downloaded Excel files"):
+        st.info("reading list from " + path_download+' path')
+        for each_file in glob.glob(path_download+'*.xlsx', recursive=False):
+            xl_file = each_file.replace('\\', '/')
+            df_comp, comp_name = create_df(xl_file)
+            pickle_name = comp_name
+            #if df_comp != 1:
+            if isinstance(df_comp, pd.DataFrame):
+                df_comp.to_pickle(path_download+"pickl/" + pickle_name + ".pkl")
+        st.info("saved pickl file in working directory pickle folder")
 
 st.write("____")
-st.write("Download from Downloaded path of Computer")
-if st.button("Downloaded Excel files"):
-    st.info("reading list from " + path_download+' path')
-    for each_file in glob.glob(path_download+'*.xlsx', recursive=False):
-        xl_file = each_file.replace('\\', '/')
-        df_comp, comp_name = create_df(xl_file)
-        pickle_name = comp_name
-        #if df_comp != 1:
-        if isinstance(df_comp, pd.DataFrame):
-            df_comp.to_pickle(path_download+"pickl/" + pickle_name + ".pkl")
-    st.info("saved pickl file in working directory pickle folder")
+col1,col2 = st.columns([5,5])
+with col1:
+    st.write("Get NSE latest LIST")
+    if st.button("NSE List"):
+        EOD.nse_list(path_bhav,path_csv)
+with col2:
+    st.write("Download pickle files from entire NSE List")
+    if st.button("PICKLE all NSE"):
+        st.info("reading list from " + path_bhav+'nselist.txt')
+        driver = webdriver.Edge(r"C://Users/sahaveer/PycharmProjects/msedgedriver.exe", )
+        driver.maximize_window()
+        login_screener(driver)
+        sleep(2)
+        with open(path_bhav+'nselist.txt','r') as file:
+            for line in file:
+                comp_Code = str(line)
+                pickle_name = comp_Code.split('\n')[0]
+                #st.info(f"Comp code is {comp_Code}")
+                #st.info(f"Pickle Name is {pickle_name}")
+                yr_df, qtr_df = search_screener(driver, comp_Code)
+                sleep(1)
+                # SORT FILES ALPHABETICALLY
+                first_letter = pickle_name[0].upper()  # Get the first letter and convert it to uppercase
+                alphabetic_folder = os.path.join("./pickl/", first_letter)
+                # Create the folder if it doesn't exist
+                if not os.path.exists(alphabetic_folder):
+                    os.makedirs(alphabetic_folder)
+                #st.info(f"{alphabetic_folder}")
+                #if yr_df != 1:
+                if isinstance(yr_df, pd.DataFrame):
+                    save_pickl_as = alphabetic_folder + '/' + pickle_name + " Yearly.pkl"
+                    yr_df.to_pickle(save_pickl_as)
+                #if qtr_df != 1:
+                if isinstance(qtr_df, pd.DataFrame):
+                    save_pickl_as = alphabetic_folder + '/' + pickle_name + " Quarterly.pkl"
+                    qtr_df.to_pickle(save_pickl_as)
+
+        st.info("saved pickl file in working directory pickle folder")
 
 st.write("____")
-st.write("Download pickle files from entire BSE List")
-if st.button("BSE files"):
-    st.info("reading list from " + path_bhav+'bselist.txt')
-    driver = webdriver.Edge(r"C://Users/sahaveer/PycharmProjects/msedgedriver.exe", )
-    driver.maximize_window()
-    login_screener(driver)
-    sleep(2)
-    with open(path_bhav+'bselist.txt','r') as file:
-        for line in file:
-            comp_Code = str(line)
-            pickle_name = comp_Code.split('\n')[0]
-            #df_comp,comp_name = search_screener(driver, comp_Code)
-            #sleep(1)
-            yr_df, qtr_df = search_screener(driver, comp_Code)
-            sleep(1)
-            # Create the folder if it doesn't exist
-            first_letter = pickle_name[0].upper()  # Get the first letter and convert it to uppercase
-            alphabetic_folder = os.path.join("./pickl/", first_letter)
-            if not os.path.exists(alphabetic_folder):
-                os.makedirs(alphabetic_folder)
-            #st.info(f"{alphabetic_folder}")
-            #if yr_df != 1:
-            if isinstance(yr_df, pd.DataFrame):
-                save_pickl_as = alphabetic_folder + '/' + pickle_name + " Yearly.pkl"
-                yr_df.to_pickle(save_pickl_as)
-            #if qtr_df != 1:
-            if isinstance(qtr_df, pd.DataFrame):
-                save_pickl_as = alphabetic_folder + '/' + pickle_name + " Quarterly.pkl"
-                qtr_df.to_pickle(save_pickl_as)
-            st.info(f"saved pickl file {pickle_name} in working directory pickle folder ")
+
+col1,col2 = st.columns([5,5])
+with col1:
+    st.write("Get BSE latest LIST")
+    if st.button("BSE List"):
+        EOD.bse_list(path_bhav,path_csv)
+with col2:
+    st.write("Download pickle files from entire BSE List")
+    if st.button("BSE files"):
+        st.info("reading list from " + path_bhav+'bselist.txt')
+        driver = webdriver.Edge(r"C://Users/sahaveer/PycharmProjects/msedgedriver.exe", )
+        driver.maximize_window()
+        login_screener(driver)
+        sleep(2)
+        with open(path_bhav+'bselist.txt','r') as file:
+            for line in file:
+                comp_Code = str(line)
+                pickle_name = comp_Code.split('\n')[0]
+                #df_comp,comp_name = search_screener(driver, comp_Code)
+                #sleep(1)
+                yr_df, qtr_df = search_screener(driver, comp_Code)
+                sleep(1)
+                # Create the folder if it doesn't exist
+                first_letter = pickle_name[0].upper()  # Get the first letter and convert it to uppercase
+                alphabetic_folder = os.path.join("./pickl/", first_letter)
+                if not os.path.exists(alphabetic_folder):
+                    os.makedirs(alphabetic_folder)
+                #st.info(f"{alphabetic_folder}")
+                #if yr_df != 1:
+                if isinstance(yr_df, pd.DataFrame):
+                    save_pickl_as = alphabetic_folder + '/' + pickle_name + " Yearly.pkl"
+                    yr_df.to_pickle(save_pickl_as)
+                #if qtr_df != 1:
+                if isinstance(qtr_df, pd.DataFrame):
+                    save_pickl_as = alphabetic_folder + '/' + pickle_name + " Quarterly.pkl"
+                    qtr_df.to_pickle(save_pickl_as)
+                st.info(f"saved pickl file {pickle_name} in working directory pickle folder ")
+
+
+

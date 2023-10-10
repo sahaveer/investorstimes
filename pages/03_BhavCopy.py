@@ -71,29 +71,6 @@ st.markdown(full_message_temp.format(stock_quotes[random.randint(0,len(stock_quo
 #st.markdown(full_message_temp.format(stock_quotes[35]),unsafe_allow_html=True)
 
 
-
-with st.sidebar:
-    # PATHS OF THIS COMPUTER
-    st.info("pls mention here your computer paths")
-    path_bhav = st.text_input("path_bhav",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/')     #'./bhavcopy/')
-    path_csv = st.text_input("path_csv",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/')        #'./bhavcopy/csv')
-    path_download = st.text_input("path_download",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy')
-
-my_date = st.date_input("Select date", value=date.today(),
-                        min_value=datetime.date(1990, 1, 1))
-ddmmmyyyy = my_date.strftime("%d%b%Y")
-st.write("____")
-st.write("Get NSE latest LIST")
-if st.button("NSE List"):
-    EOD.nse_list(path_bhav,path_csv)
-st.write("____")
-st.write("Get BSE latest LIST")
-if st.button("BSE List"):
-    EOD.bse_list(path_bhav,path_csv)
-
-
-
-
 col1,col2 = st.columns([1,1])
 with col1:
     my1_date = st.date_input("FROM", value=date.today(),
