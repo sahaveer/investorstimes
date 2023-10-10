@@ -9,9 +9,9 @@ import json
 from streamlit_lottie import st_lottie
 from streamlit_lottie import st_lottie_spinner
 
-st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)
+st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)               # initial_sidebar_state can be set to 'collapsed'
 # PARAMS
-
+st.title('DIY :violet[Fundamentals] :bar_chart:')
 funda_keys = ['PROFIT&LOSS', 'BALANCE SHEET',
               'CASH FLOW']  # dont change the order of this list as it will affect the keys used in Yearly df
 
