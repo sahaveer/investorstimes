@@ -173,13 +173,21 @@ def qoq_growth(df,row_name,color_bar,comp_Name):
     fig.update_xaxes(tickfont=dict(color='yellow'),)
     # Set x-axis tick color and font color
     fig.update_xaxes(tickfont_color='white')  # Set font color for x-axis tick labels
+
+    new_df = pd.concat([df2.loc[row_name], df2.iloc[-1]], axis=1).transpose()
+    latest_sales = new_df.iloc[0, -1]
+    qoq = new_df.iloc[1, -1]
+    if qoq > 0:
+        write_annotation = f"{comp_Name} has clocked a Revenue of {latest_sales:.1f}cr up by {qoq:.1f}% with the previous quarter"
+    else:
+        write_annotation = f"{comp_Name} has clocked a Revenue of {latest_sales:.1f}cr down by {qoq:.1f}% with the previous quarter"
+
     st.plotly_chart(fig,use_container_width=True)
-    new_df = pd.concat([df2.loc[row_name],df2.iloc[-1]], axis=1).transpose()
 
     col1, col3 = st.columns([0.9, 0.1])
-    with col1:
-        with st.expander(row_name + " DATA"):
-            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    st.markdown(write_annotation)
+    with st.expander(row_name + " DATA"):
+        st.dataframe(new_df.style.format(formatter="{:.1f}"))
 
 
     #st.subheader('Downloads:')
@@ -265,6 +273,9 @@ def group_2_bars(df,row1,row2,comp_Name):
 
     # Customize text font color and size
     fig.update_traces(textfont=dict(color='yellow', size=14))
+
+
+
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
 

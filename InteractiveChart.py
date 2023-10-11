@@ -41,7 +41,10 @@ for each_pickl in glob.glob('./pickl/**/*.pkl', recursive=True):
     #st.info(each_pickl)
     file_name_only = os.path.basename(each_pickl)
     #file_name_only = each_pickl.split('/')[-1]
-    pickle_name = file_name_only.split()[0]             # Since all the pickle files are either Quartetrly or Yearly, we need to get the first company code only
+    if file_name_only.endswith('Yearly.pkl'):
+        pickle_name = file_name_only.split('Yearly.pkl')[0].strip()  # Since all the pickle files are either Quartetrly or Yearly, we need to get the first company code only
+    elif file_name_only.endswith('Quarterly.pkl'):
+        pickle_name = file_name_only.split('Quarterly.pkl')[0].strip()  # st.info(pickle_name)
     #st.info(pickle_name)
     if pickle_name not in listed_stocks:
         listed_stocks.append(pickle_name)
