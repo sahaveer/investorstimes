@@ -348,6 +348,7 @@ def go_group_bar(df, row_name,color_bar):
     # Show the plot
     st.plotly_chart(fig, use_container_width=True)
 
+@st.cache_data
 def get_tables(datasht,file):
     for i in range(1,datasht.max_row+1) :
         if datasht['A'+str(i)].value == DataSheet_Key_Values[0] :

@@ -16,6 +16,7 @@ from datetime import date
 my_dict = {}
 # CREATING AND CONNECTING TO DATABASE
 Connection_String = "mongodb+srv://EODBhavcopy:bhavcopy@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
+
 client = MongoClient(Connection_String)
 db = client.get_database('Bhavcopy')
 # DEFINING COLLECTIONS INSIDE THE DATABASE

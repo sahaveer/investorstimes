@@ -112,7 +112,7 @@ if selected:
             key_data = str("""<!-- TradingView Widget BEGIN -->
                             <div class="tradingview-widget-container">
                               <div class="tradingview-widget-container__widget"></div>
-                              <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/financials-overview/" rel="noopener" target="_blank"><span class="blue-text">Fundamental Data</span></a> by TradingView</div>
+                              <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
                               <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-financials.js" async>
                               {
                               "colorTheme": "dark",
@@ -120,14 +120,14 @@ if selected:
                               "largeChartUrl": "",
                               "displayMode": "regular",
                               "width": "100%",
-                              "height": 880,
+                              "height": 830,
                               "symbol": "xx",
                               "locale": "en"
-                              }
+                            }
                               </script>
                             </div>
                             <!-- TradingView Widget END -->
-                        """)
+                            """)
             comp_profile = str("""
                             <!-- TradingView Widget BEGIN -->
                             <div class="tradingview-widget-container">
@@ -148,6 +148,7 @@ if selected:
                             """)
             colx,coly = st.columns([1.5,1])
             with colx:
+                search_sym = "NSE:" + comp_Name
                 components.html(key_data.replace("xx",comp_Name), height=1080)
             with coly:
                 components.html(comp_profile.replace("xxyy",comp_Name), height=1080)
