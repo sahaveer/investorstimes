@@ -54,7 +54,7 @@ def go_bar(df, row_name,color_bar,comp_Name):
     # go.bar has another attribute - hovertext = ['27% market share', '24% market share', '19% market share']
     fig.update_traces(marker_color=color_bar, marker_line_color='rgb(8,48,107)',
                       marker_line_width=1.5, opacity=1, texttemplate='%{text:.3s}', textposition='outside', textfont=dict(size=18), textfont_color='yellow')
-    fig.update_layout(autosize=True, #paper_bgcolor="#16181A",plot_bgcolor="#23282D",
+    fig.update_layout(autosize=False, #paper_bgcolor="#16181A",plot_bgcolor="#23282D",
                       height=height_val,width=width_val,
                       margin = dict(l=0,r=0,t=0,b=0,pad=10),
                       title={'font':{ 'color':"#e25f5b"},
@@ -66,15 +66,11 @@ def go_bar(df, row_name,color_bar,comp_Name):
                       legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
                       bargap=0.15,font_color = "white")     #legend=dict(x=0,y=1.0,bgcolor='rgba(255, 255, 255, 0)',bordercolor='rgba(255, 255, 255, 0)'),
     new_df = pd.concat([df.loc[row_name]], axis=1).transpose()
-    fig.update_layout(autosize=True, paper_bgcolor="#16181A", plot_bgcolor="#23282D", )
     st.plotly_chart(fig,use_container_width=True)
     #col1, col3 = st.columns([0.9, 0.1])
     #with col1:
         #with st.expander(row_name + " DATA"):
             #st.dataframe(new_df.style.format(formatter="{:.1f}"))
-
-
-
     #fig.write_image("./Downloadimages/fig1.png")
     #st.subheader('Downloads:')
     #generate_html_Download_link(fig)
