@@ -105,7 +105,7 @@ if selected:
                 fundamentals.qoq_growth(qtr_pnl, "NET PROFIT", color_dict[color_key], comp_Name)
             else:
                 with col4:
-                    qoq_checked = st.checkbox("Sequential_Growth_%")
+                    qoq_checked = st.checkbox("QoQ Growth%")
                 if qoq_checked:
                     fundamentals.qoq_growth(qtr_pnl, param, color_dict[color_key], comp_Name)
                 else:
@@ -168,7 +168,7 @@ if selected:
                 fundamentals.group_2_bars(df_comp.loc[sub_choose], "PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
             else:
                 with col4:
-                    qoq_checked = st.checkbox("Sequential_Growth_%")
+                    qoq_checked = st.checkbox("QoQ Growth%")
                 if qoq_checked:
                     fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
                 else:
@@ -193,7 +193,7 @@ if selected:
                 fundamentals.go_bar(df_comp.loc[sub_choose], "CASH & BANK", color_dict[color_key], comp_Name)
             else:
                 with col4:
-                    qoq_checked = st.checkbox("Sequential_Growth_%")
+                    qoq_checked = st.checkbox("QoQ Growth%")
                 if qoq_checked:
                     fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
                 else:
@@ -213,7 +213,7 @@ if selected:
                 fundamentals.go_group_bar(df_comp.loc[sub_choose], "cash_flows", color_dict[color_key])
             else:
                 with col4:
-                    qoq_checked = st.checkbox("Sequential_Growth_%")
+                    qoq_checked = st.checkbox("QoQ Growth%")
                 if qoq_checked:
                     fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
                 else:
