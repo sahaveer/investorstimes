@@ -204,7 +204,7 @@ if tradebook is not None:
             # Concatenate the cleaned data to the combined DataFrame
             orig_xl = pd.concat([orig_xl, df])
             orig_xl = orig_xl.dropna(axis=1)
-            st.dataframe(orig_xl)
+            #st.dataframe(orig_xl)
 
     # Remove duplicates based on all columns
     orig_xl = orig_xl.drop_duplicates()
