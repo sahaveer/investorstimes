@@ -25,6 +25,8 @@ color_background = "grey"
 #Top 16:9 Resolutions. 640 x 360 (nHD) 854 x 480 (FWVGA) 960 x 540 (qHD) 1024 x 576 (WSVGA) 1280 x 720 (HD/WXGA) 1366 x 768 (FWXGA) 1600 x 900 (HD+) 1920 x 1080 (FHD) 2048 x 1152 (QWXGA) 2560 x 1440 (QHD) 3200 x 1800 (WQXGA+) 3840 x 2160 (UHD) 5120 x 2880 (UHD+) 7680 x 4320 (FUHD) 15360 x 8640 (QUHD) 30720 x 17280 (HHD) 61440 x 34560 (FHHD) 122880 x 69120 (QHHD)
 height_val = 680 #574
 width_val = 1209 #1024
+width_val = 1120
+height_val = 360
 
 def generate_excel_Download_link(df):
     # Credit Excel: https://discuss.streamlit.io/t/how-to-add-a-Download-excel-csv-function-to-a-button/4474/5
@@ -52,7 +54,7 @@ def go_bar(df, row_name,color_bar,comp_Name):
     # go.bar has another attribute - hovertext = ['27% market share', '24% market share', '19% market share']
     fig.update_traces(marker_color=color_bar, marker_line_color='rgb(8,48,107)',
                       marker_line_width=1.5, opacity=1, texttemplate='%{text:.3s}', textposition='outside', textfont=dict(size=18), textfont_color='yellow')
-    fig.update_layout(autosize=True, paper_bgcolor="#16181A",plot_bgcolor="#23282D",
+    fig.update_layout(autosize=True, #paper_bgcolor="#16181A",plot_bgcolor="#23282D",
                       height=height_val,width=width_val,
                       margin = dict(l=0,r=0,t=0,b=0,pad=10),
                       title={'font':{ 'color':"#e25f5b"},
@@ -64,11 +66,12 @@ def go_bar(df, row_name,color_bar,comp_Name):
                       legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
                       bargap=0.15,font_color = "white")     #legend=dict(x=0,y=1.0,bgcolor='rgba(255, 255, 255, 0)',bordercolor='rgba(255, 255, 255, 0)'),
     new_df = pd.concat([df.loc[row_name]], axis=1).transpose()
+    fig.update_layout(autosize=True, paper_bgcolor="#16181A", plot_bgcolor="#23282D", )
     st.plotly_chart(fig,use_container_width=True)
-    col1, col3 = st.columns([0.9, 0.1])
-    with col1:
-        with st.expander(row_name + " DATA"):
-            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    #col1, col3 = st.columns([0.9, 0.1])
+    #with col1:
+        #with st.expander(row_name + " DATA"):
+            #st.dataframe(new_df.style.format(formatter="{:.1f}"))
 
 
 
@@ -85,7 +88,7 @@ def both_lines(df,row1,row2,color_bar,color_line,comp_Name):
                       marker_line_width=2, opacity=1, texttemplate='%{text:.1s}', textposition='top left', textfont=dict(size=18), textfont_color='yellow')
     fig.add_trace(go.Line(x=new_df.index, y=new_df[row2], name=row2, text=new_df[row2]),secondary_y=True)
     # Add figure title
-    fig.update_layout(autosize=True, paper_bgcolor="#16181A",plot_bgcolor="#23282D",
+    fig.update_layout(autosize=True, #paper_bgcolor="#16181A",plot_bgcolor="#23282D",
                       height=height_val,width=width_val,
                       margin = dict(l=0,r=0,t=0,b=0, pad=10),
                       title={'font':{'color':"#e25f5b"},'text': "<i>@itimesalgo        </i><b>" + comp_Name.upper() + " " + row1 + " " + row2 + "</b> : <i>" + ' Report</i>',
@@ -102,12 +105,10 @@ def both_lines(df,row1,row2,color_bar,color_line,comp_Name):
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
 
-    col1, col3 = st.columns([0.9, 0.1])
-    with col1:
-        with st.expander(row1 + "/" + row2 + " DATA"):
-            st.dataframe(new_df.style.format(formatter="{:.1f}"))
-
-
+    #col1, col3 = st.columns([0.9, 0.1])
+    #with col1:
+        #with st.expander(row1 + "/" + row2 + " DATA"):
+            #st.dataframe(new_df.style.format(formatter="{:.1f}"))
 
 def bar_line(df,row1,row2,color_bar,comp_Name):
     dat_rows = [df.loc[row1], df.loc[row2]]
@@ -121,7 +122,7 @@ def bar_line(df,row1,row2,color_bar,comp_Name):
     fig.add_trace(go.Scatter(x=new_df.index, y=new_df[row2], name=row2, text=new_df[row2]),
                   secondary_y=True)
     # Add figure title
-    fig.update_layout(autosize=True, paper_bgcolor="#16181A",plot_bgcolor="#23282D",
+    fig.update_layout(autosize=True, #paper_bgcolor="#16181A",plot_bgcolor="#23282D",
                       height=height_val,width=width_val,
                       margin = dict(l=0,r=0,t=0,b=0, pad=10),
                       title={'font':{'color':"#e25f5b"},'text': "<i>@itimesalgo        </i> <b>" + comp_Name.upper() + "</b> : <i>" + row1 + " & " + row2 + ' Report</i>',
@@ -135,12 +136,10 @@ def bar_line(df,row1,row2,color_bar,comp_Name):
     fig.update_xaxes(tickfont=dict(color='white'),)
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
-    col1, col3 = st.columns([0.9, 0.1])
-    with col1:
-        with st.expander(row1 + "/" + row2 + " DATA"):
-            st.dataframe(new_df.style.format(formatter="{:.1f}"))
-
-
+    #col1, col3 = st.columns([0.9, 0.1])
+    #with col1:
+        #with st.expander(row1 + "/" + row2 + " DATA"):
+            #st.dataframe(new_df.style.format(formatter="{:.1f}"))
 
 def qoq_growth(df,row_name,color_bar,comp_Name):
     temp_df = df.loc[row_name]
@@ -159,7 +158,7 @@ def qoq_growth(df,row_name,color_bar,comp_Name):
     fig.add_trace(go.Scatter(x=df2.columns, y=df2.iloc[-1], name=row_name + " QoQ", text = df.iloc[-1]),
                    secondary_y=True)
     # Add figure title
-    fig.update_layout(autosize=True, paper_bgcolor="#16181A",plot_bgcolor="#23282D",
+    fig.update_layout(autosize=True, #paper_bgcolor="#16181A",plot_bgcolor="#23282D",
                       height=height_val, width=width_val,
                       margin=dict(l=0, r=0, t=0, b=0, pad=10),
                       title={'font':{'color':"#e25f5b"},'text': "<i>@itimesalgo        </i><b>" + comp_Name.upper() + "</b> : <i>" + row_name + ' Report</i>',
@@ -175,25 +174,16 @@ def qoq_growth(df,row_name,color_bar,comp_Name):
     fig.update_xaxes(tickfont_color='white')  # Set font color for x-axis tick labels
 
     new_df = pd.concat([df2.loc[row_name], df2.iloc[-1]], axis=1).transpose()
-    latest_sales = new_df.iloc[0, -1]
-    qoq = new_df.iloc[1, -1]
-    if qoq > 0:
-        write_annotation = f"{comp_Name} has clocked a Revenue of {latest_sales:.1f}cr up by {qoq:.1f}% with the previous quarter"
-    else:
-        write_annotation = f"{comp_Name} has clocked a Revenue of {latest_sales:.1f}cr down by {qoq:.1f}% with the previous quarter"
-
     st.plotly_chart(fig,use_container_width=True)
 
-    col1, col3 = st.columns([0.9, 0.1])
-    st.markdown(write_annotation)
-    with st.expander(row_name + " DATA"):
-        st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    #col1, col3 = st.columns([0.9, 0.1])
+    #with st.expander(row_name + " DATA"):
+        #st.dataframe(new_df.style.format(formatter="{:.1f}"))
 
 
     #st.subheader('Downloads:')
     #generate_excel_Download_link(df2)
     #generate_html_Download_link(fig)
-
 
 #this has 2 series concatenated, these 2 are shown as GroupBar
 def peer_bar(df,Name,comp1_Name,comp2_Name):   #this has 2 series concatinated with key names
@@ -202,7 +192,7 @@ def peer_bar(df,Name,comp1_Name,comp2_Name):   #this has 2 series concatinated w
                           go.Bar(name=bar_list[1], x=df.index, y=df[bar_list[1]], textposition='auto', marker={'color': "#EF3A4C"})])
     # Change the bar mode
     fig.update_layout(autosize=True,barmode='group', bargroupgap=0.1,
-                      paper_bgcolor="#16181A", plot_bgcolor="#23282D",
+                      #paper_bgcolor="#16181A", plot_bgcolor="#23282D",
                       height=height_val, width=width_val,
                       margin = dict(l=0,r=0,t=0,b=0, pad=10),
                       title={'font':{'color':"#e25f5b"},'text': '<i>@itimesalgo        ' + Name + " Comparision : </i> <b>" + comp1_Name + '/' + comp2_Name + '</b>',
@@ -255,8 +245,8 @@ def group_2_bars(df,row1,row2,comp_Name):
         autosize=True,
         barmode='group',
         bargroupgap=0.1,
-        paper_bgcolor="#16181A",
-        plot_bgcolor="#23282D",
+        #paper_bgcolor="#16181A",
+        #plot_bgcolor="#23282D",
         height=height_val,
         width=width_val,
         margin=dict(l=0, r=0, t=0, b=0, pad=10),
@@ -343,8 +333,8 @@ def go_group_bar(df, row_name,color_bar):
         autosize=True,
         barmode='group',
         bargroupgap=0.1,
-        paper_bgcolor="#16181A",
-        plot_bgcolor="#23282D",
+        #paper_bgcolor="#16181A",
+        #plot_bgcolor="#23282D",
         height=height_val,
         width=width_val,
         margin=dict(l=0, r=0, t=0, b=0, pad=10),
