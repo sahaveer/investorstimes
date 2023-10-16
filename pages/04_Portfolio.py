@@ -1,24 +1,77 @@
 import csv
 import pandas as pd
 import streamlit as st
-import nse_bse_search
 import openpyxl
 from openpyxl.utils import get_column_letter
+
+import nse_bse_search
+#import fromyahoo
+import lastdayprice
+
+import time
+import datetime
+from datetime import timedelta
 
 st.title('Visualise your Portfolio ')
 #tradebook = st.file_uploader("upload TradeBook from Zerodha", type= ['xlsx'])
 tradebook = st.file_uploader("upload TradeBooks from Zerodha", type= ['xlsx'],accept_multiple_files = True)
 
+# Get today's date
+today = datetime.datetime.now()
+
+# Check if today is a weekend (Saturday or Sunday)
+if today.weekday() >= 5:  # 5 represents Saturday, 6 represents Sunday
+    # Calculate how many days to subtract to get the last weekday (Friday)
+    days_to_subtract = (today.weekday() + 1) % 5  # Add 1 to shift Sunday to Monday
+    # Subtract the appropriate number of days
+    last_weekday = today - timedelta(days=days_to_subtract)
+else:
+    # If today is a weekday, use today's date
+    last_weekday = today
+dd = last_weekday.strftime('%d')
+mm = last_weekday.strftime('%m')
+mmm = last_weekday.strftime('%b')
+yyyy = last_weekday.strftime('%Y')
+yy = last_weekday.strftime('%y')
+
+#st.info(f'https://www.bseindia.com/download/BhavCopy/Equity/EQ' + dd + mm + yy + '_CSV.ZIP')
+#st.info(f"https://archives.nseindia.com/products/content/sec_bhavdata_full_" + dd + mm + yyyy + ".csv")
+
+@st.cache_data
+def tradebook_perday(xl):
+    if isinstance(xl,pd.DataFrame):
+        tradebook_day = pd.DataFrame()
+        #symbol_isin = {}
+        for each in xl['ISIN'].unique():
+            # get the first group of SCRIPT
+            xl_symbol = xl.groupby("ISIN").get_group(each)
+
+            #phase-2      All transactions per each day into one
+            df_grouped = xl_symbol[["Symbol","ISIN", "Trade Date", "Trade Type", "Quantity", "Price"]].set_index("ISIN")
+            #TO REPLACE ISIN WITH THE SYMBOL NAMES
+            #symbol_isin[each] = (df_grouped['Symbol'].iloc[0])
+            # CALCULATE THE TRADE VAL and then sums up the BUYS/SELLS which happened on the same DATES
+            df_grouped['Investment'] = df_grouped['Quantity'] * df_grouped['Price']
+            temp_df_grouped = df_grouped.groupby(["ISIN", "Trade Date", "Trade Type"])[['Quantity', 'Investment']].sum()  # .reset_index()
+                    # temp_df_grouped = pd.DataFrame(df_grouped).groupby(["Symbol","Trade Date","Trade Type"]).aggregate({'Quantity':'sum','Investment':sum})
+            temp_df_grouped["avg_price"] = temp_df_grouped["Investment"] / temp_df_grouped["Quantity"]
+
+            #HERE WE GET A DATAFRAME grouped_df WHICH IS MORE LIKE A DAILY TRADEBOOK
+            new_df = (temp_df_grouped.sort_values('Trade Date', ascending=True))
+            # converts the multiline index to normal DF
+            grouped_df = new_df.reset_index()
+
+            grouped_df.drop("Investment", axis=1, inplace=True)
+            tradebook_day = pd.concat([tradebook_day,grouped_df])
+        return tradebook_day
+
+@st.cache_data
 def createpf(xl):
     if isinstance(xl,pd.DataFrame):
-        #xl = pd.read_excel(tradebook,parse_dates=['Trade Date'])
-        #xl = xl.dropna(axis=1)
-        rows_list = []
         show_only = {}
         show_only['Symbol'] = []
         show_only['Quantity'] = []
         show_only['Price'] = []
-        symb_dict = {}
 
         # DEFINING the dataframes ENDRESULT - its column names
         open_pf = pd.DataFrame(columns=['ISIN','Trade Date', 'Trade Type', 'Quantity', 'avg_price'])  # EMPTY DF
@@ -27,37 +80,35 @@ def createpf(xl):
         sold_data = []
         buy_queue = []  # to save all buy transactions temporarily, {} values in a list
         symbol_isin = {}
-
         # NOW LETS GROUP EVERY DF BY 'ISIN' instead of 'SYMBOL'
         for each in xl['ISIN'].unique():
+            grouped_df = xl.groupby("ISIN").get_group(each)
             #phase-1
             # get the first group of SCRIPT
-            xl_symbol = xl.groupby("ISIN").get_group(each)
-            df_grouped = xl_symbol[["Symbol","ISIN", "Trade Date", "Trade Type", "Quantity", "Price"]].set_index("ISIN")
-            #print(df_grouped)
-            symbol_isin[each] = (df_grouped['Symbol'].iloc[0])
-            #print(symbol_isin)
-
+            #xl_symbol = xl.groupby("ISIN").get_group(each)
             #phase-2      All transactions per each day into one
+            #df_grouped = xl_symbol[["Symbol","ISIN", "Trade Date", "Trade Type", "Quantity", "Price"]].set_index("ISIN")
+            #TO REPLACE ISIN WITH THE SYMBOL NAMES
+            #symbol_isin[each] = (df_grouped['Symbol'].iloc[0])
             # CALCULATE THE TRADE VAL and then sums up the BUYS/SELLS which happened on the same DATES
-            df_grouped['Investment'] = df_grouped['Quantity'] * df_grouped['Price']
-
-            temp_df_grouped = df_grouped.groupby(["ISIN", "Trade Date", "Trade Type"])[['Quantity', 'Investment']].sum()  # .reset_index()
-            # temp_df_grouped = pd.DataFrame(df_grouped).groupby(["Symbol","Trade Date","Trade Type"]).aggregate({'Quantity':'sum','Investment':sum})
-            temp_df_grouped["avg_price"] = temp_df_grouped["Investment"] / temp_df_grouped["Quantity"]
-
-            new_df = (temp_df_grouped.sort_values('Trade Date', ascending=True))
+            #df_grouped['Investment'] = df_grouped['Quantity'] * df_grouped['Price']
+            #temp_df_grouped = df_grouped.groupby(["ISIN", "Trade Date", "Trade Type"])[['Quantity', 'Investment']].sum()  # .reset_index()
+            #temp_df_grouped["avg_price"] = temp_df_grouped["Investment"] / temp_df_grouped["Quantity"]
+            #HERE WE GET A DATAFRAME grouped_df WHICH IS MORE LIKE A DAILY TRADEBOOK
+            #new_df = (temp_df_grouped.sort_values('Trade Date', ascending=True))
             # converts the multiline index to normal DF
-            grouped_df = new_df.reset_index()
-            grouped_df.drop("Investment", axis=1, inplace=True)
+            #grouped_df = new_df.reset_index()
+            #grouped_df.drop("Investment", axis=1, inplace=True)
+            #st.dataframe(grouped_df)
             #GROUPED_DF gives us so that all dates are combined to one and for each stock
             # SO, WE DID GROUPED AND THEN COMBINED DAY's SEVERAL ORDER FILLS
+            #st.dataframe(grouped_df)
             # NOW, LETS work to get two Dataframes, one is SOLD_DF which keeps a record of closed orders
             # Second DF is the final OPEN positions which will be saved in open_pf : represents current portfolio
-
             buy_queue = []
             remaining_sell_quantity = 0
             # we will try to get 2 seperate dataframes from the grouped_df : 1 is sold_df and one is current_df
+
             for index, row in grouped_df.iterrows():
                 if (grouped_df['Trade Type'] == 'sell').all() or grouped_df['Trade Type'].iloc[0] == 'sell':
                     only_sell_pf = pd.concat([only_sell_pf,grouped_df],ignore_index=True)
@@ -149,42 +200,30 @@ def createpf(xl):
         # Use the map function to assign 'PnL' values to 'final_pf' based on 'Symbol' matching
         final_pf['prev_pnl'] = final_pf['ISIN'].map(symbol_pnl_mapping)
         final_pf['prev_pnl'].fillna('0',inplace=True)
-        final_pf['YahooCode'] = final_pf['ISIN'].apply(nse_bse_search.isin_to_ycode)
+        #LETS COMBINE ISIN AND CODE PROVIDED BY ZERODHA
+        #final_pf['ISIN CODE'] =
+        final_pf['CODE'] = final_pf['ISIN'].apply(nse_bse_search.isin_to_code)
+        #st.dataframe(final_pf)
+        #final_pf['LTP'] = final_pf['CODE'].apply(fromyahoo.liveprice)
+        final_pf['LTP'] = final_pf['CODE'].apply(lastdayprice.getltp)
 
-        closed_pf['YahooCode'] = closed_pf['ISIN'].apply(nse_bse_search.search_df_nsebse)
-        only_sell_pf['YahooCode'] = only_sell_pf['ISIN'].apply(nse_bse_search.isin_to_ycode)
+        closed_pf['CODE'] = closed_pf['ISIN'].apply(nse_bse_search.isin_to_code)
+        #closed_pf['LTP'] = closed_pf['CODE'].apply(fromyahoo.liveprice)
+        closed_pf['LTP'] = closed_pf['CODE'].apply(lastdayprice.getltp)
+        closed_pf['ifOPEN'] = (closed_pf['LTP'] - closed_pf['Buy Price'])*closed_pf['Quantity']
 
+        closedpf_pnl = closed_pf['PnL'].sum()
+        st.info(f'Total Profit of Loss for CLOSED POrtfolio is {closedpf_pnl}')
 
-        # this is to only SHOW the users by replacing ISIN to Symbol Name
-        st.info("OPEN PORTFOLIO : ")
-        show_pf = final_pf.copy()
-        st.dataframe(show_pf.set_index('YahooCode').sort_values('Investment',ascending=False), use_container_width=True)
-        #show_pf['Symbol'] = show_pf['Symbol'].replace(symbol_isin)             # Instead of replacing ISIN with Symbol. Best is to get the yahoo codes for these
-        #print(show_pf.set_index('Symbol').sort_values('Investment',ascending=True))
-        #st.dataframe(show_pf.set_index('Symbol').sort_values('Investment',ascending=False))
+        only_sell_pf['CODE'] = only_sell_pf['ISIN'].apply(nse_bse_search.isin_to_code)
+        only_sell_pf['LTP'] = only_sell_pf['CODE'].apply(lastdayprice.getltp)
 
-        #print("CLosed Portfolio")
-        st.info("CLosed Portfolio")
-        show_closed_pf = closed_pf.copy()
-        st.dataframe(show_closed_pf.set_index('YahooCode').sort_values('PnL',ascending=False), use_container_width=True)
-        #show_closed_pf['Symbol'] = show_closed_pf['Symbol'].replace(symbol_isin)
-        #print(show_closed_pf.set_index('Symbol'))
-        #st.dataframe(show_closed_pf.set_index('Symbol'))
-
-        #print("INVALID ENTRIES : ")
-        st.info("INVALID ENTRIES : ")
-        show_only_sell_pf = only_sell_pf.copy()
-        st.dataframe(show_only_sell_pf, use_container_width=True)
-        #show_only_sell_pf['Symbol'] = show_only_sell_pf['Symbol'].replace(symbol_isin)
-        #print(show_only_sell_pf.set_index('Symbol'))
-        #st.dataframe(show_only_sell_pf.set_index('Symbol'))
-
-        # IMPROVEMENTS
-        #any new upload of the excel sheet shud only append the initial dataframe xl
+        return final_pf,closed_pf,only_sell_pf
 
 
 #loc = "./TRADEBOOK.xlsx"
 if tradebook is not None:
+    start_time = time.time()
     i=0
     orig_xl = pd.DataFrame()
     for each_xl in tradebook:
@@ -204,14 +243,76 @@ if tradebook is not None:
             # Concatenate the cleaned data to the combined DataFrame
             orig_xl = pd.concat([orig_xl, df])
             orig_xl = orig_xl.dropna(axis=1)
-            #st.dataframe(orig_xl)
-
+            #st.dataframe(df)
     # Remove duplicates based on all columns
     orig_xl = orig_xl.drop_duplicates()
     #ProcessPortfolio.createpf(xl)
     if 'ISIN' in orig_xl.columns:
         # Continue with your processing logic
-        createpf(orig_xl)
+        orig_xl = orig_xl.sort_values('Trade Date', ascending=True)
+        #st.info("Original DF from all the uploaded files")
+        #st.dataframe(orig_xl)
+        #createpf(orig_xl)
+        # Get a tradebook where mulitple exeuction on same day is combined to one
+        tradebook_daily = tradebook_perday(orig_xl)
+        #st.dataframe(tradebook_daily)
+        show_pf, show_closed_pf, show_only_sell_pf =createpf(tradebook_daily)
+
+        # this is to only SHOW the users by replacing ISIN to Symbol Name
+        st.info("OPEN PORTFOLIO : ")
+        st.dataframe(show_pf.set_index('CODE').sort_values('Investment',ascending=False), use_container_width=True)
+        #show_pf['Symbol'] = show_pf['Symbol'].replace(symbol_isin)             # Instead of replacing ISIN with Symbol. Best is to get the yahoo codes for these
+        #print(show_pf.set_index('Symbol').sort_values('Investment',ascending=True))
+        #st.dataframe(show_pf.set_index('Symbol').sort_values('Investment',ascending=False))
+
+        st.info("CLosed Portfolio")
+        st.dataframe(show_closed_pf.set_index('CODE').sort_values('PnL',ascending=False), use_container_width=True)
+        #closedpf_pnl_open = closed_pf['ifOPEN'].sum()
+        #st.info(f'Total Profit of Loss for CLOSED POrtfolio is {closedpf_pnl}')
+        #st.info(f'If not booked : then PnL would have been {closedpf_pnl_open}')
+
+        sip_investment = st.slider(label="What if you SIPped in your closed Portfolio ? Enter the SIP amount :", min_value=5000, max_value=100000, value=10000, step=1000)
+        #st.text_input(label="Enter Principal per stock to know your SIP value now")
+        if st.button('Show SIP'):
+            sip_pf = show_closed_pf[['CODE','Buy Date','Buy Price','LTP']].copy()
+            #sip_pf['Invested'] = sip_investment
+            sip_pf.loc[:, 'Invested'] = sip_investment
+            sip_pf['PnL'] = sip_pf['LTP'] * (sip_pf['Invested'] / sip_pf['Buy Price'])
+            sip_pf = sip_pf.drop_duplicates(subset=['CODE', 'Buy Date'])
+            st.dataframe(sip_pf.sort_values('Buy Date',ascending=True))
+            SIP_PnL = sip_pf['PnL'].sum()
+            st.success(f"The Same Portfolio with SIP amount and didnt book at all : PnL : {SIP_PnL}")
+
+            # Group by year and month and calculate total investment
+            result=pd.DataFrame()
+            sip_pf['Buy Date'] = pd.to_datetime(sip_pf['Buy Date'])
+            result['Year'] = sip_pf['Buy Date'].dt.year
+            result['Month'] = sip_pf['Buy Date'].dt.month
+            result['Invested'] = sip_pf['Invested']
+            result = result.groupby([ 'Year' , 'Month' ])['Invested'].sum().reset_index()
+            # Rename the columns for clarity
+            #result = result.rename(columns={'Buy Date': 'Year', 'Buy Date': 'Month', 'Invested': 'Total Investment'})
+            st.dataframe(result)
+        #show_closed_pf['Symbol'] = show_closed_pf['Symbol'].replace(symbol_isin)
+        #print(show_closed_pf.set_index('Symbol'))
+        #st.dataframe(show_closed_pf.set_index('Symbol'))
+
+
+        st.info("INVALID ENTRIES : ")
+        st.dataframe(show_only_sell_pf, use_container_width=True)
+        #show_only_sell_pf['Symbol'] = show_only_sell_pf['Symbol'].replace(symbol_isin)
+        #print(show_only_sell_pf.set_index('Symbol'))
+        #st.dataframe(show_only_sell_pf.set_index('Symbol'))
+
+        # IMPROVEMENTS
+        #any new upload of the excel sheet shud only append the initial dataframe xl
+
+
+
+
+
+        end_time = time.time() - start_time
+        st.info(f"Downloaded in {start_time - end_time} sec")
     else:
         # Handle the case where 'ISIN' is not present in the DataFrame
         st.warning("Make Sure to Upload from the Start to avoid Malfunctioning")
