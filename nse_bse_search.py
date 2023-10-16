@@ -2,8 +2,6 @@ import streamlit as st
 import pandas as pd
 import digyahoo
 
-
-
 bse_data = pd.read_csv('./Select.csv', header=0, index_col=False)
 bse_data.columns = bse_data.columns.str.replace(' ', '_')
 #df = bse_data[['Security Code', 'Issuer Name', 'Security Id', 'ISIN No']]
@@ -34,13 +32,20 @@ def isin_to_ycode(isin):
         ycode = bse_data[bse_data["ISIN_No"] == isin]["Security_Id"].values[0]
         return ycode
 
-def isin_to_code(isin):
+def isin_to_code(isin):                 # this returns CODE suitable for both SCREENER and YAHOO for NSE but for BSE, returns "BSECODE YCODE"
     if isin in nse_ISIN:
         code = nse_data[nse_data["ISIN"] == isin]["SYMBOL"].values[0]
+        #st.info(f"Asked for {isin} giving back {code}")
         return code
-    if isin in bse_ISIN:
+    elif isin in bse_ISIN:
         code = bse_data[bse_data["ISIN_No"]==isin]["Security_Code"].values[0]
+        ycode = bse_data[bse_data["ISIN_No"] == isin]["Security_Id"].values[0]
+        #return str(code) + " " + str(ycode)
+        #st.info(f"Asked for {isin} giving back {code}")
         return code
+    else:
+        return None
+
 
 def search_df_nsebse(search):
     if search in nse_ISIN:
