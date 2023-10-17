@@ -13,6 +13,8 @@ import datetime
 from datetime import timedelta
 st.set_page_config(page_title="Portfolio", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
 st.title('Visualise your Portfolio ')
+
+st.markdown("[Zerodha](https://console.zerodha.com/dashboardst)")    
 tradebook = st.file_uploader("upload TradeBooks from ZERODHA", type= ['xlsx'],accept_multiple_files = True)
 
 # Get today's date
