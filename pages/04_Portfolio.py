@@ -13,8 +13,7 @@ import datetime
 from datetime import timedelta
 
 st.title('Visualise your Portfolio ')
-#tradebook = st.file_uploader("upload TradeBook from Zerodha", type= ['xlsx'])
-tradebook = st.file_uploader("upload TradeBooks from Zerodha", type= ['xlsx'],accept_multiple_files = True)
+tradebook = st.file_uploader("upload TradeBooks from ZERODHA", type= ['xlsx'],accept_multiple_files = True)
 
 # Get today's date
 today = datetime.datetime.now()
