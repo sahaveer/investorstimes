@@ -39,8 +39,8 @@ with col1:
     st.markdown('<p class="font">iTimesAlgo</p>', unsafe_allow_html=True)
     #html_temp = """<div style="background-color:darkgrey;padding:14px><h2 style="color: #FF9633;text-align:centre;">iTimesAlgo</h2></div>"""
     #st.markdown(html_temp, unsafe_allow_html=True)
-    st.markdown('<p class="font1">Contact us through</p>', unsafe_allow_html=True)
-    st.markdown("[TELEGRAM](https://t.me/itimesalgo/)    /      [TWITTER](https://twitter.com/itimesalgo)")
+    st.markdown('<p class="font1">Reach Us </p>', unsafe_allow_html=True)
+    st.markdown("[TELEGRAM](https://t.me/itimesalgo/)     /      [TWITTER](https://twitter.com/itimesalgo)")
     #st.markdown("[Twitter](https://twitter.com/itimesalgo)")
 
 with col2:  # To display brand log
@@ -53,7 +53,7 @@ with col2:  # To display brand log
 #st.markdown('<p class="font">About the Creator</p>', unsafe_allow_html=True)
 st.markdown("---")
 st.markdown('<p class="font2">About the Creator</p>', unsafe_allow_html=True)
-st.write("We @iTimes are trying to create basic DIY fundamental analysis. \n\n We shall try bringing you here bse announcements and amibroker eod data here")
+st.write("We @iTimes are trying to create basic DIY fundamental analysis. \n\n For Amibroker EndofDay Data, Use https://t.me/bhavcopy_amibroker \n\nWe have created a Telegram Bot for same : https://t.me/Sahav_bot ")
 st.write("We sincerely appreciates your suggestions and contribution to improvise our iTimes community.")
 st.markdown("---")
 
