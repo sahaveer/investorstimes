@@ -1,5 +1,6 @@
 yahoo-fin==0.8.9.1
 nltk==3.7
+numpy==1.22.4
 openpyxl==3.0.10
 pandas==1.4.2
 pdfplumber==0.7.1
