@@ -4,6 +4,7 @@ import streamlit.components.v1 as html
 import openpyxl
 from openpyxl.utils import get_column_letter
 import pandas as pd
+
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import base64  # Standard Python Module
@@ -391,3 +392,15 @@ def get_tables(datasht,file):
         df_comp = pd.concat(sht_list,keys=funda_keys)
     return qtr_pnl,df_comp
 
+# Define a custom function to apply the condition
+def OPM(row):
+    if row['OPERATING PROFIT'] > 0:
+        return round((row['OPERATING PROFIT'] / row['SALES'])*100,2)
+    else:
+        return 0
+
+def NPM(row):
+    if row['NET PROFIT'] > 0:
+        return round((row['NET PROFIT'] / row['SALES'])*100,2)
+    else:
+        return 0
