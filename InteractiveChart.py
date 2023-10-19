@@ -2,6 +2,7 @@ import streamlit as st
 import glob
 import os
 import pandas as pd
+import numpy as np
 import fundamentals
 from streamlit_option_menu import option_menu
 import streamlit.components.v1 as components
@@ -83,6 +84,49 @@ if selected:
         tree_folder = comp_Name[0].upper()
         df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Yearly.pkl')
         qtr_pnl = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Quarterly.pkl')
+        pnl = df_comp.loc['PROFIT&LOSS']
+        pnl.fillna(0, inplace=True)
+        pnl.index = pnl.index.str.strip()
+        pnl = pnl.transpose()
+        pnl['EXPENSES'] = pnl['RAW MATERIAL COST'] - pnl['CHANGE IN INVENTORY'] + pnl['POWER AND FUEL'] + pnl[
+            'OTHER MFR. EXP'] + pnl['EMPLOYEE COST'] + pnl['SELLING AND ADMIN'] + pnl['OTHER EXPENSES']
+        pnl = pnl.drop(
+            columns=['RAW MATERIAL COST', 'CHANGE IN INVENTORY', 'POWER AND FUEL', 'OTHER MFR. EXP', 'EMPLOYEE COST',
+                     'SELLING AND ADMIN', 'OTHER EXPENSES'], axis=1)
+        pnl['OPERATING PROFIT'] = pnl['SALES'] - pnl['EXPENSES']
+        pnl['OPM %'] = pnl.apply(fundamentals.OPM, axis=1)
+        pnl['NPM %'] = pnl.apply(fundamentals.NPM, axis=1)
+        # Calculate the QoQ percentage increase for SALES, NET PROFIT, and OPERATING PROFIT
+        pnl['SALES_QoQ'] = pnl['SALES'].pct_change() * 100
+        pnl['NET PROFIT_QoQ'] = pnl['NET PROFIT'].pct_change() * 100
+
+        balancesht = df_comp.loc['BALANCE SHEET'].drop(index='TOTAL', errors='ignore')
+        balancesht.fillna(0, inplace=True)
+        balancesht.index = balancesht.index.str.strip()
+        balancesht = balancesht.transpose()
+        balancesht['WORKING CAPITAL'] = balancesht['OTHER ASSETS'] - balancesht['OTHER LIABILITIES']
+        balancesht['DEBTOR DAYS'] = np.where(pnl['SALES'] > 0, balancesht['RECEIVABLES'] / (pnl['SALES'] / 365), 0)
+        balancesht['INVENTORY TURNOVER'] = np.where(balancesht['INVENTORY'] > 0, pnl['SALES'] / balancesht['INVENTORY'],
+                                                    0)
+        balancesht['ROCE'] = np.where(balancesht['NET BLOCK'] + balancesht['WORKING CAPITAL'] > 0, (
+                (pnl['OPERATING PROFIT'] - pnl['DEPRECIATION'] - pnl['TAX']) / (
+                balancesht['NET BLOCK'] + balancesht['WORKING CAPITAL'])) * 100, 0)
+
+        qtr_pnl.fillna(0, inplace=True)
+        qtr_pnl.index = qtr_pnl.index.str.strip()
+        qtr_pnl = qtr_pnl.transpose()
+        qtr_pnl['OPM %'] = qtr_pnl.apply(fundamentals.OPM, axis=1)
+        qtr_pnl['NPM %'] = qtr_pnl.apply(fundamentals.NPM, axis=1)
+        pnl = pnl.transpose()
+        pnl = pnl.round(2)
+        # st.dataframe(pnl)
+        balancesht = balancesht.transpose()
+        balancesht = balancesht.round(2)
+        # st.dataframe(balancesht)
+        qtr_pnl = qtr_pnl.transpose()
+        qtr_pnl = qtr_pnl.round(2)
+        # qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
+        # st.dataframe(qtr_pnl)
         try:
             df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
         except Exception as AttributeError:
@@ -158,46 +202,46 @@ if selected:
 
         # YEARLY SALES
         if sub_choose == fundamentals.funda_menu[0]:
-            index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
+            index_list = ["key_params"] + list(pnl.index)
             with col2:
                 param = st.selectbox("Params", index_list)
             if param == "key_params":
                 with st.expander("YEARLY PROFIT & LOSS DATA"):
-                    st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
-                fundamentals.qoq_growth(df_comp.loc[sub_choose], "SALES", color_dict[color_key], comp_Name)
-                fundamentals.group_2_bars(df_comp.loc[sub_choose], "PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
+                    st.dataframe(pnl.style.format(formatter="{:.1f}"))
+                fundamentals.qoq_growth(pnl, "SALES", color_dict[color_key], comp_Name)
+                fundamentals.group_2_bars(pnl, "PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
             else:
                 with col4:
                     qoq_checked = st.checkbox("QoQ Growth%")
                 if qoq_checked:
-                    fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+                    fundamentals.qoq_growth(pnl, param, color_dict[color_key], comp_Name)
                 else:
-                    fundamentals.go_bar(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+                    fundamentals.go_bar(pnl, param, color_dict[color_key], comp_Name)
 
         # YEARLY BALANCE SHEET
         if sub_choose == fundamentals.funda_menu[1]:
-            index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
+            index_list = ["key_params"] + list(balancesht.index)
             #param = st.sidebar.selectbox("Params", index_list)
             with col2:
                 param = st.selectbox("Params", index_list)
             if param == "key_params":
                 with st.expander("YEARLY BALANCE SHEET DATA"):
-                    st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
-                fundamentals.bar_line(df_comp.loc[sub_choose], "RESERVES", "BORROWINGS", color_dict[color_key],
+                    st.dataframe(balancesht.style.format(formatter="{:.1f}"))
+                fundamentals.bar_line(balancesht, "RESERVES", "BORROWINGS", color_dict[color_key],
                                       comp_Name)
-                #fundamentals.bar_line(df_comp.loc[sub_choose], "DEBTOR DAYS", "INVENTORY TURNOVER",color_dict[color_key], comp_Name)
-                fundamentals.bar_line(df_comp.loc[sub_choose], "CAPITAL WORK IN PROGRESS", "INVESTMENTS",color_dict[color_key], comp_Name)
-                #fundamentals.both_lines(df_comp.loc[sub_choose], "ROCE", "ROE", color_dict[color_key], color_line,comp_Name)
-                fundamentals.bar_line(df_comp.loc[sub_choose], "RECEIVABLES", "INVENTORY", color_dict[color_key], comp_Name)
-                # fundamentals.go_bar(df_comp.loc[sub_choose], "CAPITAL WORK IN PROGRESS", color_dict[color_key], comp_Name)
-                fundamentals.go_bar(df_comp.loc[sub_choose], "CASH & BANK", color_dict[color_key], comp_Name)
+                fundamentals.bar_line(balancesht, "DEBTOR DAYS", "INVENTORY TURNOVER",color_dict[color_key], comp_Name)
+                fundamentals.bar_line(balancesht, "CAPITAL WORK IN PROGRESS", "INVESTMENTS",color_dict[color_key], comp_Name)
+                #fundamentals.both_lines(balancesht, "ROCE", "ROE", color_dict[color_key], color_line,comp_Name)
+                fundamentals.bar_line(balancesht, "RECEIVABLES", "INVENTORY", color_dict[color_key], comp_Name)
+                # fundamentals.go_bar(balancesht, "CAPITAL WORK IN PROGRESS", color_dict[color_key], comp_Name)
+                fundamentals.go_bar(balancesht, "CASH & BANK", color_dict[color_key], comp_Name)
             else:
                 with col4:
                     qoq_checked = st.checkbox("QoQ Growth%")
                 if qoq_checked:
-                    fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+                    fundamentals.qoq_growth(balancesht, param, color_dict[color_key], comp_Name)
                 else:
-                    fundamentals.go_bar(df_comp.loc[sub_choose],param, color_dict[color_key], comp_Name)
+                    fundamentals.go_bar(balancesht,param, color_dict[color_key], comp_Name)
 
 
         # YEARLY CASH AND FLOW
