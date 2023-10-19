@@ -124,19 +124,7 @@ if uploaded_file is not None:
         except Exception as AttributeError:
             pass
         # **************************************************************************************************
-        colx, coly = st.columns([0.5, 0.5])
-        with colx:
-            save_code = st.text_input(label='Comp Code')
-        with coly:
-            if save_code :
-                save_code = str(save_code)
-                first_letter = save_code[0].upper()
-                alphabetic_folder = os.path.join("./pickl/", first_letter)
-                # Create the folder if it doesn't exist
-                if not os.path.exists(alphabetic_folder):
-                    os.makedirs(alphabetic_folder)
-                df_comp.to_pickle("./pickl/" + first_letter + '/' + save_code + " Yearly.pkl")
-                qtr_pnl.to_pickle("./pickl/" + first_letter + '/' + save_code + " Quarterly.pkl")
+        
         with col2:
             sub_choose = st.selectbox("Fundamentals", fundamentals.funda_menu)
         if sub_choose == fundamentals.funda_menu[0]:            # YEARLY PNL
