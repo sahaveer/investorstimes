@@ -16,6 +16,18 @@ st.set_page_config(page_title="Upload", page_icon=":bar_chart:", layout="wide",i
 st.title('Upload _Excel file_ from [***SCREENER***]({https://www.screener.in/}) ')
 color_dict = {'Yellow_Lite':"#f8ba43",'Yellow_Dark':"#D6D41B",'Blue_Lite':"#1959BF",'Blue_Dark':"#0971C9",'Green_Lite':"#11A694",'Green_Dark':"#11A64B","Purple_Lite":"#7019BF",'Purple_Dark':"#9319BF"}
 #color_list = ["#D6D41B","#f8ba43","#0971C9","#1959BF","#11A694","#11A64B","#7019BF","#9319BF"]
+# Define a custom function to apply the condition
+def OPM(row):
+    if row['OPERATING PROFIT'] > 0:
+        return round((row['OPERATING PROFIT'] / row['SALES'])*100,2)
+    else:
+        return 0
+
+def NPM(row):
+    if row['NET PROFIT'] > 0:
+        return round((row['NET PROFIT'] / row['SALES'])*100,2)
+    else:
+        return 0
 def load_lottiefile(filepath: str):
     with open(filepath, "r") as f:
         return json.load(f)
@@ -69,8 +81,8 @@ if uploaded_file is not None:
             columns=['RAW MATERIAL COST', 'CHANGE IN INVENTORY', 'POWER AND FUEL', 'OTHER MFR. EXP', 'EMPLOYEE COST',
                      'SELLING AND ADMIN', 'OTHER EXPENSES'], axis=1)
         pnl['OPERATING PROFIT'] = pnl['SALES'] - pnl['EXPENSES']
-        pnl['OPM %'] = pnl.apply(fundamentals.OPM, axis=1)
-        pnl['NPM %'] = pnl.apply(fundamentals.NPM, axis=1)
+        pnl['OPM %'] = pnl.apply(OPM, axis=1)
+        pnl['NPM %'] = pnl.apply(NPM, axis=1)
         # Calculate the QoQ percentage increase for SALES, NET PROFIT, and OPERATING PROFIT
         pnl['SALES_QoQ'] = pnl['SALES'].pct_change() * 100
         pnl['NET PROFIT_QoQ'] = pnl['NET PROFIT'].pct_change() * 100
@@ -90,8 +102,8 @@ if uploaded_file is not None:
         qtr_pnl.fillna(0, inplace=True)
         qtr_pnl.index = qtr_pnl.index.str.strip()
         qtr_pnl = qtr_pnl.transpose()
-        qtr_pnl['OPM %'] = qtr_pnl.apply(fundamentals.OPM, axis=1)
-        qtr_pnl['NPM %'] = qtr_pnl.apply(fundamentals.NPM, axis=1)
+        qtr_pnl['OPM %'] = qtr_pnl.apply(OPM, axis=1)
+        qtr_pnl['NPM %'] = qtr_pnl.apply(NPM, axis=1)
         pnl = pnl.transpose()
         pnl = pnl.round(2)
         # st.dataframe(pnl)
