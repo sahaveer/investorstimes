@@ -108,7 +108,6 @@ if uploaded_file is not None:
 
         qtr_pnl['OPM %'] = qtr_pnl.apply(OPM, axis=1)
         qtr_pnl['NPM %'] = qtr_pnl.apply(NPM, axis=1)
-
         pnl = pnl.transpose()
         pnl = pnl.round(2)
         # st.dataframe(pnl)
@@ -128,11 +127,6 @@ if uploaded_file is not None:
         except Exception as AttributeError:
             pass
         # **************************************************************************************************
-<<<<<<< HEAD
-
-=======
-        
->>>>>>> 317e01c2190586a2386dc8d78a502298fe09690d
         with col2:
             sub_choose = st.selectbox("Fundamentals", fundamentals.funda_menu)
         if sub_choose == fundamentals.funda_menu[0]:            # YEARLY PNL
