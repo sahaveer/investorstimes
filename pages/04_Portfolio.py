@@ -11,18 +11,10 @@ import lastdayprice
 import time
 import datetime
 from datetime import timedelta
-<<<<<<< HEAD
-
+st.set_page_config(page_title="Portfolio", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
 st.title('Visualise your Portfolio ')
 #tradebook = st.file_uploader("upload TradeBook from Zerodha", type= ['xlsx'])
 tradebook = st.file_uploader("upload TradeBooks from Zerodha", type= ['xlsx'],accept_multiple_files = True)
-=======
-st.set_page_config(page_title="Portfolio", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
-st.title('🚀📊 Portfolio Proficiency Analyzer 📉💰 ')
-
-st.markdown("[Download Holdings from Zerodha](https://console.zerodha.com/dashboardst)")    
-tradebook = st.file_uploader("upload TradeBooks from ZERODHA", type= ['xlsx'],accept_multiple_files = True)
->>>>>>> 317e01c2190586a2386dc8d78a502298fe09690d
 
 # Get today's date
 today = datetime.datetime.now()
@@ -42,13 +34,8 @@ mmm = last_weekday.strftime('%b')
 yyyy = last_weekday.strftime('%Y')
 yy = last_weekday.strftime('%y')
 
-<<<<<<< HEAD
-#st.info(f'https://www.bseindia.com/download/BhavCopy/Equity/EQ' + dd + mm + yy + '_CSV.ZIP')
-#st.info(f"https://archives.nseindia.com/products/content/sec_bhavdata_full_" + dd + mm + yyyy + ".csv")
-=======
 st.info(f'https://www.bseindia.com/download/BhavCopy/Equity/EQ' + dd + mm + yy + '_CSV.ZIP')
 st.info(f"https://archives.nseindia.com/products/content/sec_bhavdata_full_" + dd + mm + yyyy + ".csv")
->>>>>>> 317e01c2190586a2386dc8d78a502298fe09690d
 
 @st.cache_data
 def tradebook_perday(xl):
@@ -213,16 +200,21 @@ def createpf(xl):
         # Use the map function to assign 'PnL' values to 'final_pf' based on 'Symbol' matching
         final_pf['prev_pnl'] = final_pf['ISIN'].map(symbol_pnl_mapping)
         final_pf['prev_pnl'].fillna('0',inplace=True)
+        final_pf['prev_pnl'] = pd.to_numeric(final_pf['prev_pnl'], errors='coerce')
+
         #LETS COMBINE ISIN AND CODE PROVIDED BY ZERODHA
         #final_pf['ISIN CODE'] =
         final_pf['CODE'] = final_pf['ISIN'].apply(nse_bse_search.isin_to_code)
         #st.dataframe(final_pf)
         #final_pf['LTP'] = final_pf['CODE'].apply(fromyahoo.liveprice)
         final_pf['LTP'] = final_pf['CODE'].apply(lastdayprice.getltp)
+        final_pf['FreeShares'] = final_pf['prev_pnl'] / final_pf['LTP']
+        final_pf = final_pf.round()
 
         closed_pf['CODE'] = closed_pf['ISIN'].apply(nse_bse_search.isin_to_code)
         #closed_pf['LTP'] = closed_pf['CODE'].apply(fromyahoo.liveprice)
         closed_pf['LTP'] = closed_pf['CODE'].apply(lastdayprice.getltp)
+        closed_pf['FreeShares'] = closed_pf['PnL']/closed_pf['LTP']
         closed_pf['ifOPEN'] = (closed_pf['LTP'] - closed_pf['Buy Price'])*closed_pf['Quantity']
 
         closedpf_pnl = closed_pf['PnL'].sum()
@@ -268,7 +260,8 @@ if tradebook is not None:
         #createpf(orig_xl)
         # Get a tradebook where mulitple exeuction on same day is combined to one
         tradebook_daily = tradebook_perday(orig_xl)
-        #st.dataframe(tradebook_daily)
+        st.dataframe(tradebook_daily)
+
         show_pf, show_closed_pf, show_only_sell_pf =createpf(tradebook_daily)
 
         # this is to only SHOW the users by replacing ISIN to Symbol Name
@@ -284,11 +277,7 @@ if tradebook is not None:
         #st.info(f'Total Profit of Loss for CLOSED POrtfolio is {closedpf_pnl}')
         #st.info(f'If not booked : then PnL would have been {closedpf_pnl_open}')
 
-<<<<<<< HEAD
-        sip_investment = st.slider(label="What if you SIPped in your closed Portfolio ? Enter the SIP amount :", min_value=5000, max_value=100000, value=10000, step=1000)
-=======
         sip_investment = st.slider(label="What if you SIPped on your closed Portfolio ? Chose your SIP amount per stock :", min_value=1000, max_value=100000, value=2000, step=1000)
->>>>>>> 317e01c2190586a2386dc8d78a502298fe09690d
         #st.text_input(label="Enter Principal per stock to know your SIP value now")
         if st.button('Show SIP'):
             sip_pf = show_closed_pf[['CODE','Buy Date','Buy Price','LTP']].copy()
@@ -297,39 +286,6 @@ if tradebook is not None:
             sip_pf['PnL'] = sip_pf['LTP'] * (sip_pf['Invested'] / sip_pf['Buy Price'])
             sip_pf = sip_pf.drop_duplicates(subset=['CODE', 'Buy Date'])
             st.dataframe(sip_pf.sort_values('Buy Date',ascending=True))
-<<<<<<< HEAD
-            SIP_PnL = sip_pf['PnL'].sum()
-            st.success(f"The Same Portfolio with SIP amount and didnt book at all : PnL : {SIP_PnL}")
-
-            # Group by year and month and calculate total investment
-            result=pd.DataFrame()
-            sip_pf['Buy Date'] = pd.to_datetime(sip_pf['Buy Date'])
-            result['Year'] = sip_pf['Buy Date'].dt.year
-            result['Month'] = sip_pf['Buy Date'].dt.month
-            result['Invested'] = sip_pf['Invested']
-            result = result.groupby([ 'Year' , 'Month' ])['Invested'].sum().reset_index()
-            # Rename the columns for clarity
-            #result = result.rename(columns={'Buy Date': 'Year', 'Buy Date': 'Month', 'Invested': 'Total Investment'})
-            st.dataframe(result)
-        #show_closed_pf['Symbol'] = show_closed_pf['Symbol'].replace(symbol_isin)
-        #print(show_closed_pf.set_index('Symbol'))
-        #st.dataframe(show_closed_pf.set_index('Symbol'))
-
-
-        st.info("INVALID ENTRIES : ")
-        st.dataframe(show_only_sell_pf, use_container_width=True)
-        #show_only_sell_pf['Symbol'] = show_only_sell_pf['Symbol'].replace(symbol_isin)
-        #print(show_only_sell_pf.set_index('Symbol'))
-        #st.dataframe(show_only_sell_pf.set_index('Symbol'))
-
-        # IMPROVEMENTS
-        #any new upload of the excel sheet shud only append the initial dataframe xl
-
-
-
-
-
-=======
             SIP_totCapital = sip_pf['Invested'].sum()
             SIP_PnL = sip_pf['PnL'].sum()
             return_on_SIP = round(((SIP_PnL - SIP_totCapital) / SIP_totCapital)*100)
@@ -367,7 +323,6 @@ if tradebook is not None:
 
 
 
->>>>>>> 317e01c2190586a2386dc8d78a502298fe09690d
         end_time = time.time() - start_time
         st.info(f"Downloaded in {start_time - end_time} sec")
     else:
