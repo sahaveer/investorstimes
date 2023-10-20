@@ -107,13 +107,10 @@ if selected:
             columns=['RAW MATERIAL COST', 'CHANGE IN INVENTORY', 'POWER AND FUEL', 'OTHER MFR. EXP', 'EMPLOYEE COST',
                      'SELLING AND ADMIN', 'OTHER EXPENSES'], axis=1)
         pnl['OPERATING PROFIT'] = pnl['SALES'] - pnl['EXPENSES']
-<<<<<<< HEAD
-        pnl['OPM %'] = pnl.apply(fundamentals.OPM, axis=1)
-        pnl['NPM %'] = pnl.apply(fundamentals.NPM, axis=1)
-=======
+
         pnl['OPM %'] = pnl.apply(OPM, axis=1)
         pnl['NPM %'] = pnl.apply(NPM, axis=1)
->>>>>>> 317e01c2190586a2386dc8d78a502298fe09690d
+
         # Calculate the QoQ percentage increase for SALES, NET PROFIT, and OPERATING PROFIT
         pnl['SALES_QoQ'] = pnl['SALES'].pct_change() * 100
         pnl['NET PROFIT_QoQ'] = pnl['NET PROFIT'].pct_change() * 100
@@ -133,13 +130,10 @@ if selected:
         qtr_pnl.fillna(0, inplace=True)
         qtr_pnl.index = qtr_pnl.index.str.strip()
         qtr_pnl = qtr_pnl.transpose()
-<<<<<<< HEAD
-        qtr_pnl['OPM %'] = qtr_pnl.apply(fundamentals.OPM, axis=1)
-        qtr_pnl['NPM %'] = qtr_pnl.apply(fundamentals.NPM, axis=1)
-=======
+
         qtr_pnl['OPM %'] = qtr_pnl.apply(OPM, axis=1)
         qtr_pnl['NPM %'] = qtr_pnl.apply(NPM, axis=1)
->>>>>>> 317e01c2190586a2386dc8d78a502298fe09690d
+
         pnl = pnl.transpose()
         pnl = pnl.round(2)
         # st.dataframe(pnl)
