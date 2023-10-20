@@ -11,10 +11,18 @@ import lastdayprice
 import time
 import datetime
 from datetime import timedelta
+<<<<<<< HEAD
 
 st.title('Visualise your Portfolio ')
 #tradebook = st.file_uploader("upload TradeBook from Zerodha", type= ['xlsx'])
 tradebook = st.file_uploader("upload TradeBooks from Zerodha", type= ['xlsx'],accept_multiple_files = True)
+=======
+st.set_page_config(page_title="Portfolio", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
+st.title('🚀📊 Portfolio Proficiency Analyzer 📉💰 ')
+
+st.markdown("[Download Holdings from Zerodha](https://console.zerodha.com/dashboardst)")    
+tradebook = st.file_uploader("upload TradeBooks from ZERODHA", type= ['xlsx'],accept_multiple_files = True)
+>>>>>>> 317e01c2190586a2386dc8d78a502298fe09690d
 
 # Get today's date
 today = datetime.datetime.now()
@@ -34,8 +42,13 @@ mmm = last_weekday.strftime('%b')
 yyyy = last_weekday.strftime('%Y')
 yy = last_weekday.strftime('%y')
 
+<<<<<<< HEAD
 #st.info(f'https://www.bseindia.com/download/BhavCopy/Equity/EQ' + dd + mm + yy + '_CSV.ZIP')
 #st.info(f"https://archives.nseindia.com/products/content/sec_bhavdata_full_" + dd + mm + yyyy + ".csv")
+=======
+st.info(f'https://www.bseindia.com/download/BhavCopy/Equity/EQ' + dd + mm + yy + '_CSV.ZIP')
+st.info(f"https://archives.nseindia.com/products/content/sec_bhavdata_full_" + dd + mm + yyyy + ".csv")
+>>>>>>> 317e01c2190586a2386dc8d78a502298fe09690d
 
 @st.cache_data
 def tradebook_perday(xl):
@@ -271,7 +284,11 @@ if tradebook is not None:
         #st.info(f'Total Profit of Loss for CLOSED POrtfolio is {closedpf_pnl}')
         #st.info(f'If not booked : then PnL would have been {closedpf_pnl_open}')
 
+<<<<<<< HEAD
         sip_investment = st.slider(label="What if you SIPped in your closed Portfolio ? Enter the SIP amount :", min_value=5000, max_value=100000, value=10000, step=1000)
+=======
+        sip_investment = st.slider(label="What if you SIPped on your closed Portfolio ? Chose your SIP amount per stock :", min_value=1000, max_value=100000, value=2000, step=1000)
+>>>>>>> 317e01c2190586a2386dc8d78a502298fe09690d
         #st.text_input(label="Enter Principal per stock to know your SIP value now")
         if st.button('Show SIP'):
             sip_pf = show_closed_pf[['CODE','Buy Date','Buy Price','LTP']].copy()
@@ -280,6 +297,7 @@ if tradebook is not None:
             sip_pf['PnL'] = sip_pf['LTP'] * (sip_pf['Invested'] / sip_pf['Buy Price'])
             sip_pf = sip_pf.drop_duplicates(subset=['CODE', 'Buy Date'])
             st.dataframe(sip_pf.sort_values('Buy Date',ascending=True))
+<<<<<<< HEAD
             SIP_PnL = sip_pf['PnL'].sum()
             st.success(f"The Same Portfolio with SIP amount and didnt book at all : PnL : {SIP_PnL}")
 
@@ -311,6 +329,45 @@ if tradebook is not None:
 
 
 
+=======
+            SIP_totCapital = sip_pf['Invested'].sum()
+            SIP_PnL = sip_pf['PnL'].sum()
+            return_on_SIP = round(((SIP_PnL - SIP_totCapital) / SIP_totCapital)*100)
+            st.success(f"Your SIP generated Profit/Loss of {round(SIP_PnL/100000,2)}lak a return of ({return_on_SIP}%) on your Total SIP Investment of {round(SIP_totCapital/100000,2)}lak")
+            # Group by year and month and calculate total investment
+            result=pd.DataFrame()
+            sip_pf['Buy Date'] = pd.to_datetime(sip_pf['Buy Date'])
+            result['Year'] = sip_pf['Buy Date'].dt.year
+            result['Month'] = sip_pf['Buy Date'].dt.month
+            result['Invested'] = sip_pf['Invested']
+            result = result.groupby([ 'Year' , 'Month' ])['Invested'].sum().reset_index()
+            # Rename the columns for clarity
+            #result = result.rename(columns={'Buy Date': 'Year', 'Buy Date': 'Month', 'Invested': 'Total Investment'})
+
+            st.error(f"By the way : MAX SIP amount per month went upto {result['Invested'].max()} and minimum of {result['Invested'].min()}. Average SIP amount would be {round(result['Invested'].mean())}")
+            with st.expander("See Your Total Monthly SIP Amount PER MONTH"):
+                st.dataframe(result)
+
+
+        #show_closed_pf['Symbol'] = show_closed_pf['Symbol'].replace(symbol_isin)
+        #print(show_closed_pf.set_index('Symbol'))
+        #st.dataframe(show_closed_pf.set_index('Symbol'))
+
+
+        st.info("INVALID ENTRIES : ")
+        st.dataframe(show_only_sell_pf, use_container_width=True)
+        #show_only_sell_pf['Symbol'] = show_only_sell_pf['Symbol'].replace(symbol_isin)
+        #print(show_only_sell_pf.set_index('Symbol'))
+        #st.dataframe(show_only_sell_pf.set_index('Symbol'))
+
+        # IMPROVEMENTS
+        #any new upload of the excel sheet shud only append the initial dataframe xl
+
+
+
+
+
+>>>>>>> 317e01c2190586a2386dc8d78a502298fe09690d
         end_time = time.time() - start_time
         st.info(f"Downloaded in {start_time - end_time} sec")
     else:

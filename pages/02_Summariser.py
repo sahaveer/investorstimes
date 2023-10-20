@@ -11,7 +11,7 @@ from streamlit_lottie import st_lottie_spinner
 import json
 from streamlit_lottie import st_lottie
 from streamlit_lottie import st_lottie_spinner
-st.set_page_config(page_title="Summarize", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)
+st.set_page_config(page_title="Summarize", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
 st.title('Upload Concal to get a Summary')
 
 text = ""
