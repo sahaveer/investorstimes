@@ -12,7 +12,7 @@ import time
 import datetime
 from datetime import timedelta
 st.set_page_config(page_title="Portfolio", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
-st.title('Visualise your Portfolio ')
+st.title('💰 Analyze your Portfolio ')
 #tradebook = st.file_uploader("upload TradeBook from Zerodha", type= ['xlsx'])
 tradebook = st.file_uploader("upload TradeBooks from Zerodha", type= ['xlsx'],accept_multiple_files = True)
 

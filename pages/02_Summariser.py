@@ -12,8 +12,8 @@ import json
 from streamlit_lottie import st_lottie
 from streamlit_lottie import st_lottie_spinner
 st.set_page_config(page_title="Summarize", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
-st.title('Upload Concal to get a Summary')
-
+#st.title('Upload Concal to get a Summary')
+st.title('📃 Summarize PDF Concals')
 text = ""
 texxt = ""
 
@@ -41,7 +41,7 @@ with st.sidebar:
 
 col1, col2 = st.columns([0.8, 0.2])
 with col1:
-	pdf_upload = st.file_uploader("upload Concal", type= ['pdf'])
+	pdf_upload = st.file_uploader("upload Concal report in pdf format", type= ['pdf'])
 with col2:
 	avgperc = st.number_input("Context Length",1.00,2.00,1.25,0.05)
 
