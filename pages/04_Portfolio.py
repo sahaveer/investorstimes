@@ -14,6 +14,8 @@ from datetime import timedelta
 st.set_page_config(page_title="Portfolio", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
 st.title('💰 Analyze your Portfolio ')
 #tradebook = st.file_uploader("upload TradeBook from Zerodha", type= ['xlsx'])
+tradebook_url = 'https://console.zerodha.com/reports/tradebook'
+st.markdown(f"[***ZERODHA TRADEBOOK***]({tradebook_url})", unsafe_allow_html=True)
 tradebook = st.file_uploader("upload TradeBooks from Zerodha", type= ['xlsx'],accept_multiple_files = True)
 
 # Get today's date
