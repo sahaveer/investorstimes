@@ -447,15 +447,14 @@ def develop_data(qtr_pnl, df_comp):
 
     pnl = pnl.transpose()
     pnl = pnl.round(2)
-    pnl.columns = pnl.columns.strftime('%d-%m-%Y')
+    #pnl.columns = pnl.columns.strftime('%d-%m-%Y')
     # st.dataframe(pnl)
     balancesht = balancesht.transpose()
     balancesht = balancesht.round(2)
     # st.dataframe(balancesht)
     qtr_pnl = qtr_pnl.transpose()
     qtr_pnl = qtr_pnl.round(2)
-    qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
+    #qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
 
     # st.dataframe(qtr_pnl)
-    return
-
+    return pnl, balancesht, qtr_pnl
