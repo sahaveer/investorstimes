@@ -404,3 +404,58 @@ def NPM(row):
         return round((row['NET PROFIT'] / row['SALES'])*100,2)
     else:
         return 0
+
+
+def develop_data(qtr_pnl, df_comp):
+    pnl = df_comp.loc['PROFIT&LOSS']
+    pnl.fillna(0, inplace=True)
+    pnl.index = pnl.index.str.strip()
+    pnl = pnl.transpose()
+    pnl['EXPENSES'] = pnl['RAW MATERIAL COST'] - pnl['CHANGE IN INVENTORY'] + pnl['POWER AND FUEL'] + pnl[
+        'OTHER MFR. EXP'] + pnl['EMPLOYEE COST'] + pnl['SELLING AND ADMIN'] + pnl['OTHER EXPENSES']
+    pnl = pnl.drop(
+        columns=['RAW MATERIAL COST', 'CHANGE IN INVENTORY', 'POWER AND FUEL', 'OTHER MFR. EXP', 'EMPLOYEE COST',
+                 'SELLING AND ADMIN', 'OTHER EXPENSES'], axis=1)
+    pnl['OPERATING PROFIT'] = pnl['SALES'] - pnl['EXPENSES']
+    pnl['OPM %'] = pnl.apply(OPM, axis=1)
+    pnl['NPM %'] = pnl.apply(NPM, axis=1)
+    # Calculate the QoQ percentage increase for SALES, NET PROFIT, and OPERATING PROFIT
+    pnl['SALES_QoQ'] = pnl['SALES'].pct_change() * 100
+    pnl['NET PROFIT_QoQ'] = pnl['NET PROFIT'].pct_change() * 100
+    pnl['OPERATING PROFIT_QoQ'] = pnl['OPERATING PROFIT'].pct_change() * 100
+
+    balancesht = df_comp.loc['BALANCE SHEET'].drop(index='TOTAL', errors='ignore')
+    balancesht.fillna(0, inplace=True)
+    balancesht.index = balancesht.index.str.strip()
+    balancesht = balancesht.transpose()
+    balancesht['WORKING CAPITAL'] = balancesht['OTHER ASSETS'] - balancesht['OTHER LIABILITIES']
+    balancesht['DEBTOR DAYS'] = np.where(pnl['SALES'] > 0, balancesht['RECEIVABLES'] / (pnl['SALES'] / 365), 0)
+    balancesht['INVENTORY TURNOVER'] = np.where(balancesht['INVENTORY'] > 0, pnl['SALES'] / balancesht['INVENTORY'],
+                                                0)
+    balancesht['ROCE'] = np.where(balancesht['NET BLOCK'] + balancesht['WORKING CAPITAL'] > 0, (
+                (pnl['OPERATING PROFIT'] - pnl['DEPRECIATION'] - pnl['TAX']) / (
+                    balancesht['NET BLOCK'] + balancesht['WORKING CAPITAL'])) * 100, 0)
+
+    qtr_pnl.fillna(0, inplace=True)
+    qtr_pnl.index = qtr_pnl.index.str.strip()
+    qtr_pnl = qtr_pnl.transpose()
+    qtr_pnl['OPM %'] = qtr_pnl.apply(OPM, axis=1)
+    qtr_pnl['NPM %'] = qtr_pnl.apply(NPM, axis=1)
+    qtr_pnl['SALES_QoQ'] = qtr_pnl['SALES'].pct_change() * 100
+    qtr_pnl['NET PROFIT_QoQ'] = qtr_pnl['NET PROFIT'].pct_change() * 100
+    qtr_pnl['OPERATING PROFIT_QoQ'] = qtr_pnl['OPERATING PROFIT'].pct_change() * 100
+
+    pnl = pnl.transpose()
+    pnl = pnl.round(2)
+    pnl.columns = pnl.columns.strftime('%d-%m-%Y')
+    # st.dataframe(pnl)
+    balancesht = balancesht.transpose()
+    balancesht = balancesht.round(2)
+    # st.dataframe(balancesht)
+    qtr_pnl = qtr_pnl.transpose()
+    qtr_pnl = qtr_pnl.round(2)
+    qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
+
+    # st.dataframe(qtr_pnl)
+    return
+
