@@ -4,7 +4,7 @@ import streamlit.components.v1 as html
 import openpyxl
 from openpyxl.utils import get_column_letter
 import pandas as pd
-
+import numpy as np
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import base64  # Standard Python Module

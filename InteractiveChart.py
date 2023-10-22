@@ -102,7 +102,10 @@ if selected:
             df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
         except Exception as AttributeError:
             pass
-
+        try:
+            qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
+        except Exception as AttributeError:
+            pass
         sub_choose = option_menu("", fundamentals.funda_menu,default_index=0,orientation="horizontal")
         #sub_choose = st.sidebar.selectbox("Fundamentals", fundamentals.funda_menu,index=0)
 
