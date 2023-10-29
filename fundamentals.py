@@ -13,9 +13,6 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import base64  # Standard Python Module
 from io import StringIO, BytesIO  # Standard Python Module
-import os
-import instaimage
-from PIL import ImageFont
 
 # text_rgb = {'#f8ba43' : "rgb(248,186,67)", "#D6D41B":"rgb(248,186,67)", '#1959BF': "rgb(33,161,225)", '#0971C9': "rgb(33,161,225)",'#11A694': "rgb(0,253,85)", '#11A64B': "rgb(0,253,85)", }
 color_dict = {'black': {'hash': '000000', 'rgb': 'rgb(0,0,0)'},
