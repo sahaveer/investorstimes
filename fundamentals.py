@@ -1,4 +1,8 @@
 import streamlit as st
+# import plotly.io as pio
+# pio.kaleido.scope.chromium_args += ("--single-process",)
+# pio.kaleido.scope.mathjax = None
+
 from streamlit_option_menu import option_menu
 import streamlit.components.v1 as html
 import openpyxl
@@ -10,24 +14,43 @@ from plotly.subplots import make_subplots
 import base64  # Standard Python Module
 from io import StringIO, BytesIO  # Standard Python Module
 import os
+import instaimage
+from PIL import ImageFont
 
-tabs = ['Profit & Loss', 'Quarters','Balance Sheet', 'Cash Flow' ,'Data Sheet']
-table = ['PROFIT & LOSS', 'Quarters', 'BALANCE SHEET' ]
+# text_rgb = {'#f8ba43' : "rgb(248,186,67)", "#D6D41B":"rgb(248,186,67)", '#1959BF': "rgb(33,161,225)", '#0971C9': "rgb(33,161,225)",'#11A694': "rgb(0,253,85)", '#11A64B': "rgb(0,253,85)", }
+color_dict = {'black': {'hash': '000000', 'rgb': 'rgb(0,0,0)'},
+              'white': {'hash': '#ffffff', 'rgb': 'rgb(255, 255, 255)'},
+              'blue1': {'hash': '#21A1E1', 'rgb': 'rgb(33,161,225)'},
+              'blue2': {'hash': '#5DB7D2', 'rgb': 'rgb(93,183,210)'},
+              'blue3': {'hash': '#00A3FE', 'rgb': 'rgb(0,163,254)'},
+              'green1': {'hash': '#00F954', 'rgb': 'rgb(0,249,84)'},
+              'yellow1': {'hash': '#FFFF01', 'rgb': 'rgb(255,255,1)'},
+              'yellow2': {'hash': '#FFFE57', 'rgb': 'rgb(255,254,87)'},
+              'red1': {'hash': '#CC0118', 'rgb': 'rgb(204,1,24)'},
+              }
+tabs = ['Profit & Loss', 'Quarters', 'Balance Sheet', 'Cash Flow', 'Data Sheet']
+table = ['PROFIT & LOSS', 'Quarters', 'BALANCE SHEET']
 # lets define the first and last table keys to extract the exact table size
-DataSheet_Key_Values = ['PROFIT & LOSS', 'Dividend Amount', 'Quarters', 'Operating Profit', 'BALANCE SHEET', 'Cash & Bank',
+DataSheet_Key_Values = ['PROFIT & LOSS', 'Dividend Amount', 'Quarters', 'Operating Profit', 'BALANCE SHEET',
+                        'Cash & Bank',
                         'CASH FLOW:', 'Net Cash Flow']
-#funda_keys = ['PROFIT&LOSS','BALANCE SHEET','CASH FLOW','KEY_DATA']    # dont change the order of this list as it will affect the keys used in Yearly df
-#funda_menu = funda_keys + ['QTR PnL']
-funda_keys = ['PROFIT&LOSS','BALANCE SHEET','CASH FLOW']
-funda_menu = funda_keys + ['QTR PnL', 'Key_Data'] # used for showing the menu in Interactivechat.py
+# funda_keys = ['PROFIT&LOSS','BALANCE SHEET','CASH FLOW','KEY_DATA']    # dont change the order of this list as it will affect the keys used in Yearly df
+# funda_menu = funda_keys + ['QTR PnL']
+funda_keys = ['PROFIT&LOSS', 'BALANCE SHEET', 'CASH FLOW']
+funda_menu = funda_keys + ['QTR PnL', 'Key_Data']  # used for showing the menu in Interactivechat.py
 
 color_hover = "darkgrey"
 color_background = "grey"
-#Top 16:9 Resolutions. 640 x 360 (nHD) 854 x 480 (FWVGA) 960 x 540 (qHD) 1024 x 576 (WSVGA) 1280 x 720 (HD/WXGA) 1366 x 768 (FWXGA) 1600 x 900 (HD+) 1920 x 1080 (FHD) 2048 x 1152 (QWXGA) 2560 x 1440 (QHD) 3200 x 1800 (WQXGA+) 3840 x 2160 (UHD) 5120 x 2880 (UHD+) 7680 x 4320 (FUHD) 15360 x 8640 (QUHD) 30720 x 17280 (HHD) 61440 x 34560 (FHHD) 122880 x 69120 (QHHD)
-#height_val = 680 #574
-#width_val = 1209 #1024
-width_val = 1120
-height_val = 360
+# Top 16:9 Resolutions. 640 x 360 (nHD) 854 x 480 (FWVGA) 960 x 540 (qHD) 1024 x 576 (WSVGA) 1280 x 720 (HD/WXGA) 1366 x 768 (FWXGA) 1600 x 900 (HD+) 1920 x 1080 (FHD) 2048 x 1152 (QWXGA) 2560 x 1440 (QHD) 3200 x 1800 (WQXGA+) 3840 x 2160 (UHD) 5120 x 2880 (UHD+) 7680 x 4320 (FUHD) 15360 x 8640 (QUHD) 30720 x 17280 (HHD) 61440 x 34560 (FHHD) 122880 x 69120 (QHHD)
+width_val = 1120  # 1024
+height_val = 360  # 574
+# aspect_ratio = 16/9  # For a 16:9 aspect ratio
+# height_val = width_val / aspect_ratio
+TARGET_FOLDER = "C:/Users/sahaveer/OneDrive/Documents/bhavcopy/"
+
+# write_on_chart = "<i>@itimesalgo        </i>"
+write_on_chart = "<i>https://itimesalgo.streamlit.app/</i>"
+
 
 def generate_excel_Download_link(df):
     # Credit Excel: https://discuss.streamlit.io/t/how-to-add-a-Download-excel-csv-function-to-a-button/4474/5
@@ -38,6 +61,7 @@ def generate_excel_Download_link(df):
     href = f'<a href="data:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;base64,{b64}" Download="data_Download.xlsx">Download Excel File</a>'
     return st.markdown(href, unsafe_allow_html=True)
 
+
 def generate_html_Download_link(fig):
     # Credit Plotly: https://discuss.streamlit.io/t/Download-plotly-plot-as-html/4426/2
     towrite = StringIO()
@@ -46,68 +70,80 @@ def generate_html_Download_link(fig):
     b64 = base64.b64encode(towrite.read()).decode()
     href = f'<a href="data:text/html;charset=utf-8;base64, {b64}" Download="plot.html">Download Plot</a>'
     return st.markdown(href, unsafe_allow_html=True)
-def go_bar(df, row_name,color_bar,comp_Name):
-    #fig = ff.create_table(df)
-    #st.plotly_chart(fig)
-    #st.write(df)                                                   # this is givng data conversion error sometimes
-    fig = go.Figure(data = [go.Bar(x = df.columns,y = df.loc[row_name],
-                                   text = df.loc[row_name], textposition = 'auto')])
+
+
+def go_bar(df, row_name, color_bar, comp_Name):
+    # fig = ff.create_table(df)
+    # st.plotly_chart(fig)
+    # st.write(df)                                                   # this is givng data conversion error sometimes
+    fig = go.Figure(data=[go.Bar(x=df.columns, y=df.loc[row_name],
+                                 text=df.loc[row_name], textposition='auto')])
     # go.bar has another attribute - hovertext = ['27% market share', '24% market share', '19% market share']
     fig.update_traces(marker_color=color_bar, marker_line_color='rgb(8,48,107)',
-                      marker_line_width=1.5, opacity=1, texttemplate='%{text:.3s}', textposition='outside', textfont=dict(size=18), textfont_color='yellow')
-    fig.update_layout(autosize=False, #paper_bgcolor="#16181A",plot_bgcolor="#23282D",
-                      height=height_val,width=width_val,
-                      margin = dict(l=0,r=0,t=0,b=0,pad=10),
-                      title={'font':{ 'color':"#e25f5b"},
-                             'text': "<i>@itimesalgo        </i> <b>" + comp_Name.upper() + "</b> : <i>" + row_name.upper() + ' Report</i>',
-                             'y': 0.99,'x': 0.5,'xanchor': 'center','yanchor': 'top'},
+                      marker_line_width=1.5, opacity=1, texttemplate='%{text:.3s}', textposition='outside',
+                      textfont=dict(size=18), textfont_color='yellow')
+    fig.update_layout(autosize=True, paper_bgcolor="#16181A", plot_bgcolor="#23282D",
+                      height=height_val, width=width_val,
+                      margin=dict(l=0, r=0, t=0, b=0, pad=10),
+                      title={'font': {'color': "#e25f5b"},
+                             'text': "<b>" + comp_Name.upper() + "</b> : <i>" + row_name.upper() + ' Report</i>',
+                             'y': 0.99, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
                       xaxis_tickfont_size=14,
-                      xaxis=dict(showgrid=False,tickfont=dict(color='white'),),
-                      yaxis=dict(showgrid=False, title= row_name +' in cr',titlefont_size=16,tickfont_size=1,tickfont=dict(color='white'),),
+                      xaxis=dict(showgrid=False, tickfont=dict(color='white'), ),
+                      yaxis=dict(showgrid=False, title=write_on_chart + '    ' + row_name + ' in cr', titlefont_size=16,
+                                 tickfont_size=1, tickfont=dict(color='white'), ),
                       legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
-                      bargap=0.15,font_color = "white")     #legend=dict(x=0,y=1.0,bgcolor='rgba(255, 255, 255, 0)',bordercolor='rgba(255, 255, 255, 0)'),
+                      bargap=0.15,
+                      font_color="white")  # legend=dict(x=0,y=1.0,bgcolor='rgba(255, 255, 255, 0)',bordercolor='rgba(255, 255, 255, 0)'),
     new_df = pd.concat([df.loc[row_name]], axis=1).transpose()
-    st.plotly_chart(fig,use_container_width=True)
-    #col1, col3 = st.columns([0.9, 0.1])
+    st.plotly_chart(fig, use_container_width=True)
+    col1, col3 = st.columns([0.9, 0.1])
     #with col1:
         #with st.expander(row_name + " DATA"):
             #st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    #fig.write_image("./Downloadimages/fig1.png")
-    #st.subheader('Downloads:')
-    #generate_html_Download_link(fig)
-def both_lines(df,row1,row2,color_bar,color_line,comp_Name):
+
+    # fig.write_image("./Downloadimages/fig1.png")
+    # st.subheader('Downloads:')
+    generate_html_Download_link(fig)
+
+
+def both_lines(df, row1, row2, color_bar, color_line, comp_Name):
     dat_rows = [df.loc[row1], df.loc[row2]]
     new_df = pd.concat(dat_rows, keys=[row1, row2], axis=1)
     # Create figure with secondary y-axis
     fig = make_subplots(specs=[[{"secondary_y": True}]])
-    fig.add_trace(go.Scatter(x=new_df.index, y=new_df[row1], name=row1, text=new_df[row1]),secondary_y=False)
+    fig.add_trace(go.Scatter(x=new_df.index, y=new_df[row1], name=row1, text=new_df[row1]), secondary_y=False)
     fig.update_traces(marker_color=color_bar, marker_line_color='rgb(8,48,107)',
-                      marker_line_width=2, opacity=1, texttemplate='%{text:.1s}', textposition='top left', textfont=dict(size=18), textfont_color='yellow')
-    fig.add_trace(go.Line(x=new_df.index, y=new_df[row2], name=row2, text=new_df[row2]),secondary_y=True)
+                      marker_line_width=2, opacity=1, texttemplate='%{text:.1s}', textposition='top left',
+                      textfont=dict(size=18), textfont_color='yellow')
+    fig.add_trace(go.Line(x=new_df.index, y=new_df[row2], name=row2, text=new_df[row2]), secondary_y=True)
     # Add figure title
-    fig.update_layout(autosize=True, #paper_bgcolor="#16181A",plot_bgcolor="#23282D",
-                      height=height_val,width=width_val,
-                      margin = dict(l=0,r=0,t=0,b=0, pad=10),
-                      title={'font':{'color':"#e25f5b"},'text': "<i>@itimesalgo        </i><b>" + comp_Name.upper() + " " + row1 + " " + row2 + "</b> : <i>" + ' Report</i>',
+    fig.update_layout(autosize=True, paper_bgcolor="#16181A", plot_bgcolor="#23282D",
+                      height=height_val, width=width_val,
+                      margin=dict(l=0, r=0, t=0, b=0, pad=10),
+                      title={'font': {'color': "#e25f5b"},
+                             'text': "<b>" + comp_Name.upper() + " " + row1 + " " + row2 + "</b> : <i>" + ' Report</i>',
                              'y': 0.99, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
-                      #xaxis_tickfont_size=14,
-                      xaxis=dict(showgrid=False, title=row1 , titlefont_size=16, tickfont_size=1),
-                      yaxis=dict(showgrid=False, title=row2 , titlefont_size=16, tickfont_size=1),
+                      # xaxis_tickfont_size=14,
+                      xaxis=dict(showgrid=False, title=row1, titlefont_size=16, tickfont_size=1),
+                      yaxis=dict(showgrid=False, title=row2, titlefont_size=16, tickfont_size=1),
                       legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
                       bargap=0.15)  # legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),bargap = 0.15)
     # Set y-axes titles
-    fig.update_yaxes(title_text="<b>" + row1 + "</b>", secondary_y=False, showgrid=False,tickfont=dict(color='white'))
-    fig.update_yaxes(title_text="<b>" + row2 + "</b>", secondary_y=True, showgrid=False,tickfont=dict(color='white'))
-    fig.update_xaxes(tickfont=dict(color='yellow'),)
+    fig.update_yaxes(title_text="<b>" + row1 + "</b>", secondary_y=False, showgrid=False, tickfont=dict(color='white'))
+    fig.update_yaxes(title_text=write_on_chart + '    ' + "<b>" + row2 + "</b>", secondary_y=True, showgrid=False,
+                     tickfont=dict(color='white'))
+    fig.update_xaxes(tickfont=dict(color='yellow'), )
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
 
-    #col1, col3 = st.columns([0.9, 0.1])
+    col1, col3 = st.columns([0.9, 0.1])
     #with col1:
         #with st.expander(row1 + "/" + row2 + " DATA"):
             #st.dataframe(new_df.style.format(formatter="{:.1f}"))
 
-def bar_line(df,row1,row2,color_bar,comp_Name):
+
+def bar_line(df, row1, row2, color_bar, comp_Name):
     dat_rows = [df.loc[row1], df.loc[row2]]
     new_df = pd.concat(dat_rows, keys=[row1, row2], axis=1)
     # Create figure with secondary y-axis
@@ -115,30 +151,35 @@ def bar_line(df,row1,row2,color_bar,comp_Name):
     fig.add_trace(go.Bar(x=new_df.index, y=new_df[row1], name=row1, textposition='auto', text=new_df[row1]),
                   secondary_y=False)
     fig.update_traces(marker_color=color_bar, marker_line_color='rgb(8,48,107)',
-                      marker_line_width=1.5, opacity=1, texttemplate='%{text:.3s}', textposition='outside', textfont=dict(size=18), textfont_color='yellow')
+                      marker_line_width=1.5, opacity=1, texttemplate='%{text:.3s}', textposition='outside',
+                      textfont=dict(size=18), textfont_color='yellow')
     fig.add_trace(go.Scatter(x=new_df.index, y=new_df[row2], name=row2, text=new_df[row2]),
                   secondary_y=True)
     # Add figure title
-    fig.update_layout(autosize=True, #paper_bgcolor="#16181A",plot_bgcolor="#23282D",
-                      height=height_val,width=width_val,
-                      margin = dict(l=0,r=0,t=0,b=0, pad=10),
-                      title={'font':{'color':"#e25f5b"},'text': "<i>@itimesalgo        </i> <b>" + comp_Name.upper() + "</b> : <i>" + row1 + " & " + row2 + ' Report</i>',
+    fig.update_layout(autosize=True, paper_bgcolor="#16181A", plot_bgcolor="#23282D",
+                      height=height_val, width=width_val,
+                      margin=dict(l=0, r=0, t=0, b=0, pad=10),
+                      title={'font': {'color': "#e25f5b"},
+                             'text': "<b>" + comp_Name.upper() + "</b> : <i>" + row1 + " & " + row2 + ' Report</i>',
                              'y': 0.99, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
                       xaxis_tickfont_size=14,
                       legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
                       bargap=0.15)  # legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),bargap = 0.15)
     # Set y-axes titles
-    fig.update_yaxes(title_text="<b>" + row1 + "</b>", secondary_y=False, showgrid=False,tickfont=dict(color='white'))
-    fig.update_yaxes(title_text="<b>" + row2 + "</b>", secondary_y=True, showgrid=False,tickfont=dict(color='white'))
-    fig.update_xaxes(tickfont=dict(color='white'),)
+    fig.update_yaxes(title_text="<b>" + row1 + "</b>", secondary_y=False, showgrid=False, tickfont=dict(color='white'))
+    fig.update_yaxes(title_text=write_on_chart + '    ' + "<b>" + row2 + "</b>", secondary_y=True, showgrid=False,
+                     tickfont=dict(color='white'))
+    fig.update_xaxes(tickfont=dict(color='white'), )
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
-    #col1, col3 = st.columns([0.9, 0.1])
+    col1, col3 = st.columns([0.9, 0.1])
     #with col1:
         #with st.expander(row1 + "/" + row2 + " DATA"):
             #st.dataframe(new_df.style.format(formatter="{:.1f}"))
 
-def qoq_growth(df,row_name,color_bar,comp_Name):
+
+def qoq_growth(df, row_name, color_bar, comp_Name):
+    col_chart1, col2_chart = st.columns([1, 5])
     temp_df = df.loc[row_name]
     df_qoq = (temp_df.pct_change() * 100)
     df_qoq.name = row_name + '_QoQ'
@@ -147,70 +188,152 @@ def qoq_growth(df,row_name,color_bar,comp_Name):
     # Create figure with secondary y-axis
     fig = make_subplots(specs=[[{"secondary_y": True}]])
     # adds bar chart
-    fig.add_trace(go.Bar(x=df2.columns, y=df2.loc[row_name], name=row_name, textposition = 'auto',text = df.loc[row_name]),
-                   secondary_y=False)
+    fig.add_trace(go.Bar(x=df2.columns, y=df2.loc[row_name], name=row_name, textposition='auto', text=df.loc[row_name]),
+                  secondary_y=False)
     fig.update_traces(marker_color=color_bar, marker_line_color='rgb(8,48,107)',
-                      marker_line_width=1.5, opacity=1, texttemplate='%{text:.3s}', textposition='outside', textfont=dict(size=18), textfont_color='yellow')
+                      marker_line_width=1.5, opacity=1, texttemplate='%{text:.3s}', textposition='outside',
+                      textfont=dict(size=18), textfont_color='yellow')
     # adds line chart
-    fig.add_trace(go.Scatter(x=df2.columns, y=df2.iloc[-1], name=row_name + " QoQ", text = df.iloc[-1]),
-                   secondary_y=True)
+    fig.add_trace(go.Scatter(x=df2.columns, y=df2.iloc[-1], name=row_name + " QoQ", text=df.iloc[-1]),
+                  secondary_y=True)
     # Add figure title
-    fig.update_layout(autosize=True, #paper_bgcolor="#16181A",plot_bgcolor="#23282D",
+    fig.update_layout(autosize=True, paper_bgcolor="#16181A", plot_bgcolor="#23282D",
                       height=height_val, width=width_val,
                       margin=dict(l=0, r=0, t=0, b=0, pad=10),
-                      title={'font':{'color':"#e25f5b"},'text': "<i>@itimesalgo        </i><b>" + comp_Name.upper() + "</b> : <i>" + row_name + ' Report</i>',
-                              'y': 0.99, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
-                       xaxis_tickfont_size=14,
-                       legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
-                       bargap=0.15)#legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),bargap = 0.15)
+                      title={'font': {'color': "#e25f5b"},
+                             'text': "<b>" + comp_Name.upper() + "</b> : <i>" + row_name + ' Report</i>',
+                             'y': 0.99, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
+                      xaxis_tickfont_size=14,
+                      legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+                      bargap=0.15)  # legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),bargap = 0.15)
     # Set y-axes titles
-    fig.update_yaxes(title_text="<b>" + row_name + "</b> in cr ", secondary_y=False,showgrid=False,tickfont=dict(color='white'))
-    fig.update_yaxes(title_text="<b> QoQ </b> in % ", secondary_y=True,showgrid=False,tickfont=dict(color='white'))
-    fig.update_xaxes(tickfont=dict(color='yellow'),)
+    fig.update_yaxes(title_text=write_on_chart + '    ' + "<b>" + row_name + "</b> in cr ", secondary_y=False,
+                     showgrid=False, tickfont=dict(color='white'))
+    fig.update_yaxes(title_text="<b> QoQ </b> in % ", secondary_y=True, showgrid=False, tickfont=dict(color='white'))
+
     # Set x-axis tick color and font color
     fig.update_xaxes(tickfont_color='white')  # Set font color for x-axis tick labels
 
     new_df = pd.concat([df2.loc[row_name], df2.iloc[-1]], axis=1).transpose()
-    st.plotly_chart(fig,use_container_width=True)
+    latest_sales = new_df.iloc[0, -1]
+    qoq = new_df.iloc[1, -1]
+    if qoq > 0:
+        write_annotation = f"{comp_Name} has clocked {row_name} of {latest_sales:.1f}cr up by {qoq:.1f}% with the previous Q1FY24"
+    else:
+        write_annotation = f"{comp_Name} has clocked {row_name} of {latest_sales:.1f}cr down by {qoq:.1f}% with the previous Q1FY24"
 
-    #col1, col3 = st.columns([0.9, 0.1])
-    #with st.expander(row_name + " DATA"):
-        #st.dataframe(new_df.style.format(formatter="{:.1f}"))
-
-
-    #st.subheader('Downloads:')
-    #generate_excel_Download_link(df2)
-    #generate_html_Download_link(fig)
-
-#this has 2 series concatenated, these 2 are shown as GroupBar
-def peer_bar(df,Name,comp1_Name,comp2_Name):   #this has 2 series concatinated with key names
-    bar_list = list(df.columns)
-    fig = go.Figure(data=[go.Bar(name=bar_list[0], x=df.index, y=df[bar_list[0]], textposition='auto', marker={'color': "#3EC1CD"}),
-                          go.Bar(name=bar_list[1], x=df.index, y=df[bar_list[1]], textposition='auto', marker={'color': "#EF3A4C"})])
-    # Change the bar mode
-    fig.update_layout(autosize=True,barmode='group', bargroupgap=0.1,
-                      #paper_bgcolor="#16181A", plot_bgcolor="#23282D",
-                      height=height_val, width=width_val,
-                      margin = dict(l=0,r=0,t=0,b=0, pad=10),
-                      title={'font':{'color':"#e25f5b"},'text': '<i>@itimesalgo        ' + Name + " Comparision : </i> <b>" + comp1_Name + '/' + comp2_Name + '</b>',
-                             'y': 0.99, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
-                      xaxis_tickfont_size=14,
-                      xaxis=dict(showgrid=False,tickfont=dict(color='white'),),
-                      yaxis=dict(showgrid=False, title='INR (cr)', titlefont_size=16, tickfont_size=14,tickfont=dict(color='white'), ),
-                      legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
-                      bargap=0.1)   # this barmode = 'group | stack | 'relative''
+    # fig.add_annotation(text=write_annotation, x=0, y=1, xref="paper", yref="paper",showarrow=False, font=dict(size=18, color=color_bar))
+    # fig.update_layout(annotations=[dict(text=write_annotation,x=0,y=1,xref='paper',yref='paper',showarrow=False,font=dict(size=18, color=color_bar))])
     st.plotly_chart(fig, use_container_width=True)
-    new_df = pd.concat([df[bar_list[0]],df[bar_list[1]]], axis=1).transpose()
-
 
     col1, col3 = st.columns([0.9, 0.1])
     with col1:
-        with st.expander(Name + " DATA"):
-            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+        # title_text = st.text_area(key="TITLE", label="Title Text", value=comp_Name.upper() + " Q2FY24", height=50)
+        subject_text = st.text_area(label="Edit to create subject line in instagram image", value=write_annotation,
+                                    height=25)
+        # with st.expander(row_name + " DATA"):
+        # st.dataframe(new_df.style.format(formatter="{:.1f}"))
+
+    # st.subheader('Downloads:')
+    # generate_excel_Download_link(df2)
+    generate_html_Download_link(fig)
 
 
+def qoq_growth1(df, color_bar, comp_Name):
+    col1_chart, col2_chart = st.columns([3, 8])
+    index_list = list(df.index)
+    with col1_chart:
+        row_name = option_menu("", index_list, default_index=0, orientation="vertical")
+    temp_df = df.loc[row_name]
+    df_qoq = (temp_df.pct_change() * 100)
+    df_qoq.name = row_name + '_QoQ'
+    df_qoq = pd.DataFrame(df_qoq).transpose()
+    df2 = pd.concat([df, df_qoq], axis=0)
+    # Create figure with secondary y-axis
+    fig = make_subplots(specs=[[{"secondary_y": True}]])
+    # adds bar chart
+    fig.add_trace(go.Bar(x=df2.columns, y=df2.loc[row_name], name=row_name, textposition='auto', text=df.loc[row_name]),
+                  secondary_y=False)
+    fig.update_traces(marker_color=color_bar, marker_line_color='rgb(8,48,107)',
+                      marker_line_width=1.5, opacity=1, texttemplate='%{text:.3s}', textposition='outside',
+                      textfont=dict(size=18), textfont_color='yellow')
+    # adds line chart
+    fig.add_trace(go.Scatter(x=df2.columns, y=df2.iloc[-1], name=row_name + " QoQ", text=df.iloc[-1]),
+                  secondary_y=True)
+    # Add figure title
+    fig.update_layout(autosize=True, paper_bgcolor="#16181A", plot_bgcolor="#23282D",
+                      height=height_val, width=width_val,
+                      margin=dict(l=0, r=0, t=0, b=0, pad=10),
+                      title={'font': {'color': "#e25f5b"},
+                             'text': "<b>" + comp_Name.upper() + "</b> : <i>" + row_name + ' Report</i>',
+                             'y': 0.99, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
+                      xaxis_tickfont_size=14,
+                      legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+                      bargap=0.15)  # legend=dict(yanchor="top",y=0.99,xanchor="left",x=0.01),bargap = 0.15)
+    # Set y-axes titles
+    fig.update_yaxes(title_text=write_on_chart + '    ' + "<b>" + row_name + "</b> in cr ", secondary_y=False,
+                     showgrid=False, tickfont=dict(color='white'))
+    fig.update_yaxes(title_text="<b> QoQ </b> in % ", secondary_y=True, showgrid=False, tickfont=dict(color='white'))
 
-def group_2_bars(df,row1,row2,comp_Name):
+    # Set x-axis tick color and font color
+    fig.update_xaxes(tickfont_color='white')  # Set font color for x-axis tick labels
+
+    new_df = pd.concat([df2.loc[row_name], df2.iloc[-1]], axis=1).transpose()
+    latest_sales = new_df.iloc[0, -1]
+    qoq = new_df.iloc[1, -1]
+    if qoq > 0:
+        write_annotation = f"{comp_Name} has clocked Revenue of {latest_sales:.1f}cr up by {qoq:.1f}% with the previous Q1FY24"
+    else:
+        write_annotation = f"{comp_Name} has clocked Revenue of {latest_sales:.1f}cr down by {qoq:.1f}% with the previous Q1FY24"
+    # fig.add_annotation(text=write_annotation, x=0, y=1, xref="paper", yref="paper",showarrow=False, font=dict(size=18, color=color_bar))
+    # fig.update_layout(annotations=[dict(text=write_annotation,x=0,y=1,xref='paper',yref='paper',showarrow=False,font=dict(size=18, color=color_bar))])
+    with col2_chart:
+        st.plotly_chart(fig, use_container_width=True)
+
+    col1, col3 = st.columns([0.9, 0.1])
+    with col1:
+        # title_text = st.text_area(key="TITLE", label="Title Text", value=comp_Name.upper() + " Q2FY24", height=50)
+        subject_text = st.text_area(label="Edit to create subject line in instagram image", value=write_annotation,
+                                    height=25)
+        # with st.expander(row_name + " DATA"):
+        # st.dataframe(new_df.style.format(formatter="{:.1f}"))
+
+    # st.subheader('Downloads:')
+    # generate_excel_Download_link(df2)
+    #generate_html_Download_link(fig)
+
+
+# this has 2 series concatenated, these 2 are shown as GroupBar
+def peer_bar(df, Name, comp1_Name, comp2_Name):  # this has 2 series concatinated with key names
+    bar_list = list(df.columns)
+    fig = go.Figure(
+        data=[go.Bar(name=bar_list[0], x=df.index, y=df[bar_list[0]], textposition='auto', marker={'color': "#3EC1CD"}),
+              go.Bar(name=bar_list[1], x=df.index, y=df[bar_list[1]], textposition='auto',
+                     marker={'color': "#EF3A4C"})])
+    # Change the bar mode
+    fig.update_layout(autosize=True, barmode='group', bargroupgap=0.1,
+                      paper_bgcolor="#16181A", plot_bgcolor="#23282D",
+                      height=height_val, width=width_val,
+                      margin=dict(l=0, r=0, t=0, b=0, pad=10),
+                      title={'font': {'color': "#e25f5b"},
+                             'text': '<i>@itimesalgo        ' + Name + " Comparision : </i> <b>" + comp1_Name + '/' + comp2_Name + '</b>',
+                             'y': 0.99, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
+                      xaxis_tickfont_size=14,
+                      xaxis=dict(showgrid=False, tickfont=dict(color='white'), ),
+                      yaxis=dict(showgrid=False, title=write_on_chart + '    ' + 'INR (cr)', titlefont_size=16,
+                                 tickfont_size=14, tickfont=dict(color='white'), ),
+                      legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+                      bargap=0.1)  # this barmode = 'group | stack | 'relative''
+    st.plotly_chart(fig, use_container_width=True)
+    new_df = pd.concat([df[bar_list[0]], df[bar_list[1]]], axis=1).transpose()
+
+    col1, col3 = st.columns([0.9, 0.1])
+    # with col1:
+    # with st.expander(Name + " DATA"):
+    # st.dataframe(new_df.style.format(formatter="{:.1f}"))
+
+
+def group_2_bars(df, row1, row2, comp_Name):
     dat_rows = [df.loc[row1], df.loc[row2]]
     new_df = pd.concat(dat_rows, keys=[row1, row2], axis=1)
     # Create the text labels for each bar
@@ -242,17 +365,17 @@ def group_2_bars(df,row1,row2,comp_Name):
         autosize=True,
         barmode='group',
         bargroupgap=0.1,
-        #paper_bgcolor="#16181A",
-        #plot_bgcolor="#23282D",
+        paper_bgcolor="#16181A",
+        plot_bgcolor="#23282D",
         height=height_val,
         width=width_val,
         margin=dict(l=0, r=0, t=0, b=0, pad=10),
         title={'font': {'color': "#e25f5b"},
-               'text': "<i>@itimesalgo        </i> <b>" + comp_Name.upper() + ' : </b> <i>' + row1 + ' ' + row2 + ' Report</i>',
+               'text': "<b>" + comp_Name.upper() + ' : </b> <i>' + row1 + ' ' + row2 + ' Report</i>',
                'y': 0.99, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
         xaxis_tickfont_size=14,
         xaxis=dict(showgrid=False, tickfont=dict(color='white')),
-        yaxis=dict(showgrid=False, title='INR (cr)', titlefont_size=16, tickfont_size=14,
+        yaxis=dict(showgrid=False, title=write_on_chart + '    ' + 'INR (cr)', titlefont_size=16, tickfont_size=14,
                    tickfont=dict(color='white')),
         legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
         bargap=0.1
@@ -260,20 +383,17 @@ def group_2_bars(df,row1,row2,comp_Name):
 
     # Customize text font color and size
     fig.update_traces(textfont=dict(color='yellow', size=14))
-
-
-
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
 
     col1, col3 = st.columns([0.9, 0.1])
-    with col1:
-        with st.expander(row1 + "/" + row2 + " DATA"):
-            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    # with col1:
+    # with st.expander(row1 + "/" + row2 + " DATA"):
+    # st.dataframe(new_df.style.format(formatter="{:.1f}"))
 
 
 # THIS IS SPECIFICALLY DESIGNED FOR CASHFLOWs, Where fixed 4 rows are there
-def go_group_bar(df, row_name,color_bar):
+def go_group_bar(df, row_name, color_bar):
     # Sample data
     bar_list = list(df.index)
 
@@ -330,8 +450,8 @@ def go_group_bar(df, row_name,color_bar):
         autosize=True,
         barmode='group',
         bargroupgap=0.1,
-        #paper_bgcolor="#16181A",
-        #plot_bgcolor="#23282D",
+        paper_bgcolor="#16181A",
+        plot_bgcolor="#23282D",
         height=height_val,
         width=width_val,
         margin=dict(l=0, r=0, t=0, b=0, pad=10),
@@ -339,74 +459,123 @@ def go_group_bar(df, row_name,color_bar):
                'y': 0.99, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
         xaxis_tickfont_size=14,
         xaxis=dict(showgrid=False, tickfont=dict(color='white')),
-        yaxis=dict(showgrid=False, title='INR (cr)', titlefont_size=16, tickfont_size=14, tickfont=dict(color='white')),
+        yaxis=dict(showgrid=False, title=write_on_chart + '    ' + 'INR (cr)', titlefont_size=16, tickfont_size=14,
+                   tickfont=dict(color='white')),
         legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
     )
 
     # Show the plot
     st.plotly_chart(fig, use_container_width=True)
 
-def get_tables(datasht,file):
-    for i in range(1,datasht.max_row+1) :
-        if datasht['A'+str(i)].value == DataSheet_Key_Values[0] :
+
+def get_tables(datasht, file):
+    for i in range(1, datasht.max_row + 1):
+        if datasht['A' + str(i)].value == DataSheet_Key_Values[0]:
             pnl_start_row = i
         if datasht['A' + str(i)].value == DataSheet_Key_Values[1]:
-            pnl_end_row = i-1
+            pnl_end_row = i - 1
         if datasht['A' + str(i)].value == DataSheet_Key_Values[2]:
             quarterly_start_row = i
         if datasht['A' + str(i)].value == DataSheet_Key_Values[3]:
-            quarterly_end_row = i-1
+            quarterly_end_row = i - 1
         if datasht['A' + str(i)].value == DataSheet_Key_Values[4]:
             BS_start_row = i
         if datasht['A' + str(i)].value == DataSheet_Key_Values[5]:
-            BS_end_row = i-1
+            BS_end_row = i - 1
         if datasht['A' + str(i)].value == DataSheet_Key_Values[6]:
             cash_start_row = i
         if datasht['A' + str(i)].value == DataSheet_Key_Values[7]:
-            cash_end_row = i-1
+            cash_end_row = i - 1
     reqd_cols = "A :" + str(get_column_letter(datasht.max_column))
 
-    if pnl_start_row is not None and pnl_end_row is not None :
-        pnl = pd.read_excel(file, index_col=0, sheet_name=tabs[-1], header=pnl_start_row,usecols=reqd_cols,
-                            nrows=pnl_end_row-pnl_start_row )
-        #pnl.columns = pnl.columns.strftime('%d-%m-%Y')
+    if pnl_start_row is not None and pnl_end_row is not None:
+        pnl = pd.read_excel(file, index_col=0, sheet_name=tabs[-1], header=pnl_start_row, usecols=reqd_cols,
+                            nrows=pnl_end_row - pnl_start_row)
+        pnl.fillna(0, inplace=True)
+        # pnl.columns = pnl.columns.strftime('%d-%m-%Y')
+        pnl.index = pnl.index.str.strip()
         pnl.index = pnl.index.str.upper()
-    if quarterly_start_row is not None and quarterly_end_row is not None :
+    if quarterly_start_row is not None and quarterly_end_row is not None:
         qtr_pnl = pd.read_excel(file, index_col=0, sheet_name=tabs[-1], header=quarterly_start_row, usecols=reqd_cols,
                                 nrows=quarterly_end_row - quarterly_start_row)
-        #qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
+
+        # qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
+        qtr_pnl.fillna(0, inplace=True)
+        qtr_pnl.index = qtr_pnl.index.str.strip()
         qtr_pnl.index = qtr_pnl.index.str.upper()
 
     if BS_start_row is not None and BS_end_row is not None:
-        balancesht = pd.read_excel(file, index_col=0, sheet_name=tabs[-1], header=BS_start_row,usecols=reqd_cols,
-                                   nrows=BS_end_row-BS_start_row )
-        #balancesht.columns = balancesht.columns.strftime('%d-%m-%Y')
+        balancesht = pd.read_excel(file, index_col=0, sheet_name=tabs[-1], header=BS_start_row, usecols=reqd_cols,
+                                   nrows=BS_end_row - BS_start_row)
+        # balancesht.columns = balancesht.columns.strftime('%d-%m-%Y')
+        balancesht.fillna(0, inplace=True)
+        balancesht.index = balancesht.index.str.strip()
         balancesht.index = balancesht.index.str.upper()
     if cash_start_row is not None and cash_end_row is not None:
-        cashflow = pd.read_excel(file, index_col=0, sheet_name=tabs[-1], header=cash_start_row,usecols=reqd_cols,
-                                   nrows=cash_end_row-cash_start_row)
-        #cashflow.columns = cashflow.columns.strftime('%d-%m-%Y')
+        cashflow = pd.read_excel(file, index_col=0, sheet_name=tabs[-1], header=cash_start_row, usecols=reqd_cols,
+                                 nrows=cash_end_row - cash_start_row)
+        # cashflow.columns = cashflow.columns.strftime('%d-%m-%Y')
+        cashflow.fillna(0, inplace=True)
+        cashflow.index = cashflow.index.str.strip()
         cashflow.index = cashflow.index.str.upper()
-    if(pnl is not None and balancesht is not None and cashflow is not None):
-        sht_list = [pnl,balancesht,cashflow]
-        df_comp = pd.concat(sht_list,keys=funda_keys)
-    return qtr_pnl,df_comp
+
+    # pnl = pnl.transpose()
+    # pnl['EXPENSES'] = pnl['RAW MATERIAL COST'] - pnl['CHANGE IN INVENTORY'] + pnl['POWER AND FUEL'] + pnl['OTHER MFR. EXP'] + pnl['EMPLOYEE COST'] + pnl['SELLING AND ADMIN'] + pnl['OTHER EXPENSES']
+    # pnl = pnl.drop(columns= ['RAW MATERIAL COST','CHANGE IN INVENTORY','POWER AND FUEL','OTHER MFR. EXP','EMPLOYEE COST','SELLING AND ADMIN','OTHER EXPENSES'],axis=1)
+    # pnl['OPERATING PROFIT'] = pnl['SALES'] - pnl['EXPENSES']
+    # pnl['OPM %'] = pnl.apply(OPM, axis=1)
+    # pnl['NPM %'] = pnl.apply(NPM, axis=1)
+    # pnl = pnl.transpose()
+    # pnl = pnl.round(2)
+
+    # balancesht = balancesht.drop(index='TOTAL', errors='ignore')
+    # balancesht = balancesht.transpose()
+    # balancesht['WORKING CAPITAL'] = balancesht['OTHER ASSETS'] - balancesht['OTHER LIABILITIES']
+    # balancesht['DEBTOR DAYS'] = np.where(pnl['SALES']>0, balancesht['RECEIVABLES'] / (pnl['SALES']/365),0)
+    # balancesht['INVENTORY TURNOVER'] = np.where(balancesht['INVENTORY']>0 , pnl['SALES'] / balancesht['INVENTORY'],0)
+    # balancesht['ROCE'] = np.where(balancesht['NET BLOCK'] + balancesht['WORKING CAPITAL']>0, ((pnl['OPERATING PROFIT'] - pnl['DEPRECIATION'] - pnl['TAX'])/(balancesht['NET BLOCK'] + balancesht['WORKING CAPITAL'])) * 100,0)
+    # balancesht = balancesht.transpose()
+    # balancesht = balancesht.round(2)
+    # st.dataframe(balancesht)
+
+    # qtr_pnl = qtr_pnl.transpose()
+    # qtr_pnl['OPM %'] = qtr_pnl.apply(OPM, axis=1)
+    # qtr_pnl['NPM %'] = qtr_pnl.apply(NPM, axis=1)
+    # qtr_pnl = qtr_pnl.transpose()
+    # qtr_pnl = qtr_pnl.round(2)
+    # st.dataframe(qtr_pnl)
+
+    if (pnl is not None and balancesht is not None and cashflow is not None and qtr_pnl is not None):
+        sht_list = [pnl, balancesht, cashflow]
+        df_comp = pd.concat(sht_list, keys=funda_keys)
+    return qtr_pnl, df_comp
+
 
 # Define a custom function to apply the condition
 def OPM(row):
     if row['OPERATING PROFIT'] > 0:
-        return round((row['OPERATING PROFIT'] / row['SALES'])*100,2)
+        return round((row['OPERATING PROFIT'] / row['SALES']) * 100, 2)
     else:
         return 0
 
+
 def NPM(row):
     if row['NET PROFIT'] > 0:
-        return round((row['NET PROFIT'] / row['SALES'])*100,2)
+        return round((row['NET PROFIT'] / row['SALES']) * 100, 2)
     else:
         return 0
 
 
 def develop_data(qtr_pnl, df_comp):
+    try:
+        df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
+    except Exception as AttributeError:
+        pass
+    try:
+        qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
+    except Exception as AttributeError:
+        pass
+
     pnl = df_comp.loc['PROFIT&LOSS']
     pnl.fillna(0, inplace=True)
     pnl.index = pnl.index.str.strip()
@@ -433,8 +602,8 @@ def develop_data(qtr_pnl, df_comp):
     balancesht['INVENTORY TURNOVER'] = np.where(balancesht['INVENTORY'] > 0, pnl['SALES'] / balancesht['INVENTORY'],
                                                 0)
     balancesht['ROCE'] = np.where(balancesht['NET BLOCK'] + balancesht['WORKING CAPITAL'] > 0, (
-                (pnl['OPERATING PROFIT'] - pnl['DEPRECIATION'] - pnl['TAX']) / (
-                    balancesht['NET BLOCK'] + balancesht['WORKING CAPITAL'])) * 100, 0)
+            (pnl['OPERATING PROFIT'] - pnl['DEPRECIATION'] - pnl['TAX']) / (
+            balancesht['NET BLOCK'] + balancesht['WORKING CAPITAL'])) * 100, 0)
 
     qtr_pnl.fillna(0, inplace=True)
     qtr_pnl.index = qtr_pnl.index.str.strip()
@@ -447,14 +616,52 @@ def develop_data(qtr_pnl, df_comp):
 
     pnl = pnl.transpose()
     pnl = pnl.round(2)
-    #pnl.columns = pnl.columns.strftime('%d-%m-%Y')
+    # pnl.columns = pnl.columns.strftime('%d-%m-%Y')
     # st.dataframe(pnl)
     balancesht = balancesht.transpose()
     balancesht = balancesht.round(2)
     # st.dataframe(balancesht)
     qtr_pnl = qtr_pnl.transpose()
     qtr_pnl = qtr_pnl.round(2)
-    #qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
+    # qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
 
     # st.dataframe(qtr_pnl)
     return pnl, balancesht, qtr_pnl
+
+
+def stmt_for_qoq(df):
+    # THE FOLLOWIGN CODE CALCULATES THE GROWTH OR DEGROWTH
+    last_quarter = df.columns[-1]
+    prev_quarter = df.columns[-2]
+    yoy_quarter = df.columns[-5]
+    sentence = f"{last_quarter}\n"
+    # Create a list of metrics
+    metrics = ['SALES', 'OPERATING PROFIT', 'NET PROFIT']
+    # qtr_string = last_quarter.strptime(last_quarter,"%b%Y")
+    # Loop through the metrics
+    for metric in metrics:
+        # Retrieve the QoQ percentage change value for the last quarter
+        value = df.loc[metric, last_quarter]
+        value_qoq = df.loc[metric, prev_quarter]
+        value_yoy = df.loc[metric, yoy_quarter]
+        yoy_growth = ((value - value_yoy) / value_yoy) * 100
+        qoq_growth = df.at[metric + '_QoQ', last_quarter]
+        if not pd.isna(qoq_growth) and not pd.isna(value):
+            qoq_trend = " up by " if qoq_growth > 0 else " down by "
+            yoy_trend = " up by " if yoy_growth > 0 else " down by "
+            # abs_qoq_growth = abs(qoq_growth)
+            # abs_value = abs(value)
+            # sentence += f"{metric}: {value:.2f}cr vs {value_qoq}cr,{trend}{qoq_growth:.2f}% QoQ\n"
+            # sentence += f"{metric}: {value:.2f}cr,{qoq_trend}{qoq_growth:.2f}% QoQ & {yoy_trend}{yoy_growth:.2f}% YoY\n"
+            sentence += f"{value:.2f}cr,QoQ {qoq_growth:.2f}% & YoY {yoy_growth:.2f}% {metric}\n"
+
+    # st.info(type(last_quarter))
+    for metric in ['OPM %', 'NPM %']:
+        value = df.loc[metric, last_quarter]
+        if not pd.isna(value):
+            # abs_value = abs(value)
+            sentence += f"{metric}: {value:.2f}% vs {(df.loc[metric, prev_quarter])}%\n"
+    sentence += f"For more: https://www.instagram.com/itimesalgo/\nAnalyse your favourite company using https://www.itimesalgo.streamlit.app\nhttps://t.me/itimesalgo"
+    # sentence += f"OPM {pnl.loc['OPM %', last_quarter]}% vs {pnl.loc['OPM %', prev_quarter]}%\n"
+    # sentence += f"NPM {pnl.loc['NPM %', last_quarter]}% vs {pnl.loc['NPM %', prev_quarter]}%\n"
+    return sentence

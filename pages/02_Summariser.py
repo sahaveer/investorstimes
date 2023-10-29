@@ -46,6 +46,11 @@ with col2:
 	avgperc = st.number_input("Context Length",1.00,2.00,1.25,0.05)
 
 if pdf_upload is not None:
+	# Download NLTK stopwords data
+	nltk.download("stopwords")
+	# Continue with your script
+	stopWords = set(nltk.corpus.stopwords.words("english"))
+
 	name_file = pdf_upload.name.split('.')[0]
 	col3, col4, col5 = st.columns([0.1,0.1,0.8])
 	with pdfplumber.open(pdf_upload) as pdf:
@@ -64,7 +69,7 @@ if pdf_upload is not None:
 			text += page.extract_text()
 
 	# Tokenizing the text
-	stopWords = set(stopwords.words("english"))
+	#stopWords = set(stopwords.words("english"))
 	pattern = '(page|Page|PAGE)\s*\d+\s*(of|OF|Of)\s*\d+'
 	date_pattern = r'(January|February|March|April|May|June|July|August|September|October|November|December|january|february|march|april|may|june|july|august|september|october|november|december|JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY|AUGUST|SEPTEMBER|OCTOBER|NOVEMBER|DECEMBER)\s*\d{2}\s*(\,|\s)\s*\d{4}'
 	rupee_pattern = r'Rs.'
