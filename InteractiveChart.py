@@ -19,8 +19,18 @@ funda_keys = ['PROFIT&LOSS', 'BALANCE SHEET',
 # **************************************************************************************************
 listed_stocks = []
 stocks_dict = {}
-color_dict = {'Yellow_Lite': "#f8ba43", 'Yellow_Dark': "#D6D41B", 'Blue_Lite': "#0FBAEC", 'Blue_Dark': "#0971C9",
-              'Green_Lite': "#11A694", 'Green_Dark': "#11A64B", "Purple_Lite": "#7019BF", 'Purple_Dark': "#9319BF"}
+#color_dict = {'Yellow_Lite': "#f8ba43", 'Yellow_Dark': "#D6D41B", 'Blue_Lite': "#0FBAEC", 'Blue_Dark': "#0971C9",'Green_Lite': "#11A694", 'Green_Dark': "#11A64B", "Purple_Lite": "#7019BF", 'Purple_Dark': "#9319BF"}
+color_dict = {'blue3':{'hash':'#00A3FE','rgb':'rgb(0,163,254)'},
+              'yellow1':{'hash':'#FFFF01','rgb':'rgb(255,255,1)'},
+              'blue1':{'hash':'#21A1E1', 'rgb':'rgb(33,161,225)'},
+              'yellow2':{'hash':'#FFFE57','rgb':'rgb(255,254,87)'},
+              'blue2':{'hash':'#5DB7D2','rgb':'rgb(93,183,210)'},
+              'green1':{'hash':'#00F954','rgb':'rgb(0,249,84)'},
+              'red1':{'hash':'#CC0118','rgb':'rgb(204,1,24)'},
+              'black': {'hash': '000000', 'rgb': 'rgb(0,0,0)'},
+              'white': {'hash': '#ffffff', 'rgb': 'rgb(255, 255, 255)'},
+              }
+
 # color_list = ["#D6D41B","#f8ba43","#0971C9","#1959BF","#11A694","#11A64B","#7019BF","#9319BF"]
 color_line = "Red"
 
@@ -117,17 +127,17 @@ if selected:
             if param == "key_params":
                 with st.expander("QUARTERLY PROFIT & LOSS DATA"):
                     st.dataframe(qtr_pnl.style.format(formatter="{:.1f}"))
-                fundamentals.qoq_growth(qtr_pnl, "SALES", color_dict[color_key], comp_Name)
+                fundamentals.qoq_growth(qtr_pnl, "SALES", color_dict[color_key]['hash'], comp_Name)
                 fundamentals.group_2_bars(qtr_pnl, "PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
-                fundamentals.qoq_growth(qtr_pnl, "PROFIT BEFORE TAX", color_dict[color_key], comp_Name)
-                fundamentals.qoq_growth(qtr_pnl, "NET PROFIT", color_dict[color_key], comp_Name)
+                fundamentals.qoq_growth(qtr_pnl, "PROFIT BEFORE TAX", color_dict[color_key]['hash'], comp_Name)
+                fundamentals.qoq_growth(qtr_pnl, "NET PROFIT", color_dict[color_key]['hash'], comp_Name)
             else:
                 with col4:
                     qoq_checked = st.checkbox("QoQ Growth%")
                 if qoq_checked:
-                    fundamentals.qoq_growth(qtr_pnl, param, color_dict[color_key], comp_Name)
+                    fundamentals.qoq_growth(qtr_pnl, param, color_dict[color_key]['hash'], comp_Name)
                 else:
-                    fundamentals.go_bar(qtr_pnl, param, color_dict[color_key], comp_Name)
+                    fundamentals.go_bar(qtr_pnl, param, color_dict[color_key]['hash'], comp_Name)
 
         if sub_choose == fundamentals.funda_menu[4]:
             key_data = str("""<!-- TradingView Widget BEGIN -->
@@ -182,15 +192,15 @@ if selected:
             if param == "key_params":
                 with st.expander("YEARLY PROFIT & LOSS DATA"):
                     st.dataframe(pnl.style.format(formatter="{:.1f}"))
-                fundamentals.qoq_growth(pnl, "SALES", color_dict[color_key], comp_Name)
+                fundamentals.qoq_growth(pnl, "SALES", color_dict[color_key]['hash'], comp_Name)
                 fundamentals.group_2_bars(pnl, "PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
             else:
                 with col4:
                     qoq_checked = st.checkbox("QoQ Growth%")
                 if qoq_checked:
-                    fundamentals.qoq_growth(pnl, param, color_dict[color_key], comp_Name)
+                    fundamentals.qoq_growth(pnl, param, color_dict[color_key]['hash'], comp_Name)
                 else:
-                    fundamentals.go_bar(pnl, param, color_dict[color_key], comp_Name)
+                    fundamentals.go_bar(pnl, param, color_dict[color_key]['hash'], comp_Name)
 
         # YEARLY BALANCE SHEET
         if sub_choose == fundamentals.funda_menu[1]:
@@ -201,21 +211,21 @@ if selected:
             if param == "key_params":
                 with st.expander("YEARLY BALANCE SHEET DATA"):
                     st.dataframe(balancesht.style.format(formatter="{:.1f}"))
-                fundamentals.bar_line(balancesht, "RESERVES", "BORROWINGS", color_dict[color_key],
+                fundamentals.bar_line(balancesht, "RESERVES", "BORROWINGS", color_dict[color_key]['hash'],
                                       comp_Name)
-                fundamentals.bar_line(balancesht, "DEBTOR DAYS", "INVENTORY TURNOVER",color_dict[color_key], comp_Name)
-                fundamentals.bar_line(balancesht, "CAPITAL WORK IN PROGRESS", "INVESTMENTS",color_dict[color_key], comp_Name)
-                #fundamentals.both_lines(balancesht, "ROCE", "ROE", color_dict[color_key], color_line,comp_Name)
-                fundamentals.bar_line(balancesht, "RECEIVABLES", "INVENTORY", color_dict[color_key], comp_Name)
-                # fundamentals.go_bar(balancesht, "CAPITAL WORK IN PROGRESS", color_dict[color_key], comp_Name)
-                fundamentals.go_bar(balancesht, "CASH & BANK", color_dict[color_key], comp_Name)
+                fundamentals.bar_line(balancesht, "DEBTOR DAYS", "INVENTORY TURNOVER",color_dict[color_key]['hash'], comp_Name)
+                fundamentals.bar_line(balancesht, "CAPITAL WORK IN PROGRESS", "INVESTMENTS",color_dict[color_key]['hash'], comp_Name)
+                #fundamentals.both_lines(balancesht, "ROCE", "ROE", color_dict[color_key]['hash'], color_line,comp_Name)
+                fundamentals.bar_line(balancesht, "RECEIVABLES", "INVENTORY", color_dict[color_key]['hash'], comp_Name)
+                # fundamentals.go_bar(balancesht, "CAPITAL WORK IN PROGRESS", color_dict[color_key]['hash'], comp_Name)
+                fundamentals.go_bar(balancesht, "CASH & BANK", color_dict[color_key]['hash'], comp_Name)
             else:
                 with col4:
                     qoq_checked = st.checkbox("QoQ Growth%")
                 if qoq_checked:
-                    fundamentals.qoq_growth(balancesht, param, color_dict[color_key], comp_Name)
+                    fundamentals.qoq_growth(balancesht, param, color_dict[color_key]['hash'], comp_Name)
                 else:
-                    fundamentals.go_bar(balancesht,param, color_dict[color_key], comp_Name)
+                    fundamentals.go_bar(balancesht,param, color_dict[color_key]['hash'], comp_Name)
 
 
         # YEARLY CASH AND FLOW
@@ -228,14 +238,14 @@ if selected:
             if param == "key_params":
                 with st.expander("YEARLY CASH FLOWS DATA"):
                     st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
-                fundamentals.go_group_bar(df_comp.loc[sub_choose], "cash_flows", color_dict[color_key])
+                fundamentals.go_group_bar(df_comp.loc[sub_choose], "cash_flows", color_dict[color_key]['hash'])
             else:
                 with col4:
                     qoq_checked = st.checkbox("QoQ Growth%")
                 if qoq_checked:
-                    fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+                    fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key]['hash'], comp_Name)
                 else:
-                    fundamentals.go_bar(df_comp.loc[sub_choose], param, color_dict[color_key], comp_Name)
+                    fundamentals.go_bar(df_comp.loc[sub_choose], param, color_dict[color_key]['hash'], comp_Name)
 
 
     if funda_tech == "Tech_Chart":

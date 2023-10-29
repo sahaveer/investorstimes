@@ -28,6 +28,16 @@ def load_lottieurl(url: str):
     return r.json()
 lottie_summariser = load_lottiefile("./lottie/summariser.json")
 
+with st.sidebar:
+	st_lottie(
+		lottie_summariser,
+		speed=0.7,
+		reverse=False,
+		loop=True,
+		quality="low",  # medium ; high
+		height=None,
+		width=None,
+		key="barchart", )
 
 col1, col2 = st.columns([0.8, 0.2])
 with col1:
@@ -119,17 +129,6 @@ if pdf_upload is not None:
 	#split_summary = sent_tokenize(summary)
 	#for each in split_summary:
 		#st.write(each)
-
-with st.sidebar:
-	st_lottie(
-		lottie_summariser,
-		speed=0.7,
-		reverse=False,
-		loop=True,
-		quality="low",  # medium ; high
-		height=None,
-		width=None,
-		key="barchart", )
 
 
 st.write("____")
