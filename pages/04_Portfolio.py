@@ -262,7 +262,7 @@ if tradebook is not None:
         #createpf(orig_xl)
         # Get a tradebook where mulitple exeuction on same day is combined to one
         tradebook_daily = tradebook_perday(orig_xl)
-        st.dataframe(tradebook_daily)
+        #st.dataframe(tradebook_daily)
 
         show_pf, show_closed_pf, show_only_sell_pf =createpf(tradebook_daily)
 
