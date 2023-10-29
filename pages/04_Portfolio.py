@@ -275,10 +275,11 @@ if tradebook is not None:
 
         st.info("CLosed Portfolio")
         st.dataframe(show_closed_pf.set_index('CODE').sort_values('PnL',ascending=False), use_container_width=True)
-        #closedpf_pnl_open = closed_pf['ifOPEN'].sum()
-        #st.info(f'Total Profit of Loss for CLOSED POrtfolio is {closedpf_pnl}')
-        #st.info(f'If not booked : then PnL would have been {closedpf_pnl_open}')
-
+        tot_realised_pnl = closed_pf['PnL'].sum()
+        if_open_pnl = closed_pf['ifOPEN'].sum()
+        st.success(f'So, You have booked total PnL of {tot_realised_pnl}.\nIf you had left all ur positions Open, then Your PnL would have been {if_open_pnl}\nBefore oggling at the kinda returns you missed, lets SIP a minimum amount of 1000 at you buy entry points to check the actual Returns')
+        tot_realised_investment = closed_pf[closed_pf['Quantity']*closed_pf['Buy Price']].sum()
+        
         sip_investment = st.slider(label="What if you SIPped on your closed Portfolio ? Chose your SIP amount per stock :", min_value=1000, max_value=100000, value=2000, step=1000)
         #st.text_input(label="Enter Principal per stock to know your SIP value now")
         if st.button('Show SIP'):
