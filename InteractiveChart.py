@@ -1,6 +1,7 @@
 import streamlit as st
 import glob
 import os
+import datetime
 import pandas as pd
 import numpy as np
 import fundamentals
@@ -9,17 +10,21 @@ import streamlit.components.v1 as components
 import json
 from streamlit_lottie import st_lottie
 from streamlit_lottie import st_lottie_spinner
+import nse_bse_search
+st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)
 
-st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)               # initial_sidebar_state can be set to 'collapsed'
+global bsecodenum_codename
+global bsecodename_codenum
+bsecodenum_codename, bsecodename_codenum = nse_bse_search.bsecodenum_bsecodename()
+
 # PARAMS
-st.title('Visualize Fundamentals as :bar_chart:')
 funda_keys = ['PROFIT&LOSS', 'BALANCE SHEET',
               'CASH FLOW']  # dont change the order of this list as it will affect the keys used in Yearly df
-
 # **************************************************************************************************
 listed_stocks = []
+latest_quarterly_stocks = []
 stocks_dict = {}
-#color_dict = {'Yellow_Lite': "#f8ba43", 'Yellow_Dark': "#D6D41B", 'Blue_Lite': "#0FBAEC", 'Blue_Dark': "#0971C9",'Green_Lite': "#11A694", 'Green_Dark': "#11A64B", "Purple_Lite": "#7019BF", 'Purple_Dark': "#9319BF"}
+#color_dict = {'Yellow_Lite': "#f8ba43", 'Yellow_Dark': "#D6D41B", 'Blue_Lite': "#0FBAEC", 'Blue_Dark': "#0971C9",'Green_Lite': "#11A694", 'Green_Dark': "#11A64B",} #"Purple_Lite": "#7019BF", 'Purple_Dark': "#9319BF"}
 color_dict = {'blue3':{'hash':'#00A3FE','rgb':'rgb(0,163,254)'},
               'yellow1':{'hash':'#FFFF01','rgb':'rgb(255,255,1)'},
               'blue1':{'hash':'#21A1E1', 'rgb':'rgb(33,161,225)'},
@@ -30,22 +35,8 @@ color_dict = {'blue3':{'hash':'#00A3FE','rgb':'rgb(0,163,254)'},
               'black': {'hash': '000000', 'rgb': 'rgb(0,0,0)'},
               'white': {'hash': '#ffffff', 'rgb': 'rgb(255, 255, 255)'},
               }
-
 # color_list = ["#D6D41B","#f8ba43","#0971C9","#1959BF","#11A694","#11A64B","#7019BF","#9319BF"]
 color_line = "Red"
-
-# Define a custom function to apply the condition
-def OPM(row):
-    if row['OPERATING PROFIT'] > 0:
-        return round((row['OPERATING PROFIT'] / row['SALES'])*100,2)
-    else:
-        return 0
-
-def NPM(row):
-    if row['NET PROFIT'] > 0:
-        return round((row['NET PROFIT'] / row['SALES'])*100,2)
-    else:
-        return 0
 
 def load_lottiefile(filepath: str):
     with open(filepath, "r") as f:
@@ -65,16 +56,27 @@ for each_pickl in glob.glob('./pickl/**/*.pkl', recursive=True):
     #st.info(each_pickl)
     file_name_only = os.path.basename(each_pickl)
     #file_name_only = each_pickl.split('/')[-1]
+    tree_folder = file_name_only[0].upper()
     if file_name_only.endswith('Yearly.pkl'):
         pickle_name = file_name_only.split('Yearly.pkl')[0].strip()  # Since all the pickle files are either Quartetrly or Yearly, we need to get the first company code only
     elif file_name_only.endswith('Quarterly.pkl'):
-        pickle_name = file_name_only.split('Quarterly.pkl')[0].strip()  # st.info(pickle_name)
-    #st.info(pickle_name)
+        pickle_name = file_name_only.split('Quarterly.pkl')[0].strip()#st.info(pickle_name)
+        qtr_pnl = pd.read_pickle(f'./pickl/{tree_folder}/{file_name_only}')
     if pickle_name not in listed_stocks:
         listed_stocks.append(pickle_name)
+
+    try:
+        timedelta_90_days = pd.Timedelta(days=90)
+        #st.info(datetime.datetime.now().strptime-qtr_pnl.columns[-1])
+        #st.info(type(datetime.datetime.now()-qtr_pnl.columns[-1]))
+        if (datetime.datetime.now()-qtr_pnl.columns[-1])<timedelta_90_days and pickle_name not in latest_quarterly_stocks:
+            latest_quarterly_stocks.append(pickle_name)
+    except:
+        pass
+    #if len(pickle_name.split())>1:
+        #st.info(pickle_name)
     #stocks_dict[pickle_name] = each_pickl
     #listed_stocks += [pickle_name]
-
 with st.sidebar:
     st_lottie(
         lottie_data_analysis,
@@ -88,24 +90,37 @@ with st.sidebar:
     st.write(r"Chose among {} listed stocks available".format(str(len(listed_stocks))))
     #selected = st.selectbox("Chose Company", listed_stocks)
 
-col1, col2, col3, col4 = st.columns([2, 2, 2, 1])
+
+col1, col2, col3, col4 = st.columns([2, 2, 2, 2])
+with col4:
+    show_latest_quarter = st.checkbox(label='Only latest Quarter',value=True)
+
 with col1:
-    selected = st.selectbox("Chose Company 📈 ", listed_stocks)
+    if show_latest_quarter:
+        selected = st.selectbox("Chose Company 📈 ",latest_quarterly_stocks )
+    else:
+        selected = st.selectbox("Chose Company 📈 ", listed_stocks)
 if selected:
     funda_tech = option_menu("", ["Funda_Chart", 'Tech_Chart'],
                              icons=['house', '📈 '], menu_icon="cast", default_index=0, orientation="horizontal")
     comp_Name = str(selected)
+    nsecode = nse_bse_search.nse_code
     if funda_tech == "Funda_Chart":
-        screener_address = "https://www.screener.in/company/" + str(selected)
-        with col4:
-            st.markdown(f"[***SCREENER***]({screener_address})", unsafe_allow_html=True)
+        if selected in nsecode:
+            nse_screener_address = "https://www.screener.in/company/" + str(selected)
+            with col4:
+                st.markdown(f"[***NSE SCREENER***]({nse_screener_address})", unsafe_allow_html=True)
+        elif selected in bsecodename_codenum.keys():
+            codenum = bsecodename_codenum[selected]
+            bse_screener_address = "https://www.screener.in/company/" + str(codenum)
+            with col4:
+                st.markdown(f"[***BSE SCREENER***]({bse_screener_address})", unsafe_allow_html=True)
         with col3:
             color_key = st.selectbox("Bar Color", color_dict.keys())
-            # color_bar = st.color_picker("Bar Color",value="#ECE80F")  # blueshades"#0971C9""ECE80F"   #yellowshades"#f8ba43"
 
-        #df_comp = pd.read_pickle(stocks_dict[selected])
         tree_folder = comp_Name[0].upper()
         df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Yearly.pkl')
+        #st.dataframe(df_comp)
         qtr_pnl = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Quarterly.pkl')
         pnl, balancesht, qtr_pnl = fundamentals.develop_data(qtr_pnl, df_comp)
         try:
@@ -116,8 +131,7 @@ if selected:
             qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
         except Exception as AttributeError:
             pass
-        sub_choose = option_menu("", fundamentals.funda_menu,default_index=0,orientation="horizontal")
-        #sub_choose = st.sidebar.selectbox("Fundamentals", fundamentals.funda_menu,index=0)
+        sub_choose = option_menu("", fundamentals.funda_menu,default_index=3,orientation="horizontal")
 
         # KEY DATA PULLED FROM TRADINGVIEW
         if sub_choose == fundamentals.funda_menu[3]:                  #QUARTERLY

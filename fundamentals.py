@@ -621,8 +621,8 @@ def develop_data(qtr_pnl, df_comp):
     qtr_pnl = qtr_pnl.transpose()
     qtr_pnl = qtr_pnl.round(2)
     # qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
-
     # st.dataframe(qtr_pnl)
+
     return pnl, balancesht, qtr_pnl
 
 

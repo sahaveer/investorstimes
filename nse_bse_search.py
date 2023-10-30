@@ -103,3 +103,12 @@ def dict_from_bse_csv(driver):
     #selected_df.to_pickle('./bsecodes.pkl')
     # Save the selected data to a JSON file
     #selected_df.to_json('selected_data.json', orient='records')
+
+
+def bsecodenum_bsecodename():
+    bse_data = pd.read_csv('./Select.csv', header=0, index_col=False)
+    bse_data.columns = bse_data.columns.str.replace(' ', '_')
+    bse_data = bse_data[['Security_Code','Security_Id']].copy()
+    bsecodenum_codename = bse_data.set_index('Security_Code')['Security_Id'].to_dict()
+    bsecodename_codenum = bse_data.set_index('Security_Id')['Security_Code'].to_dict()
+    return bsecodenum_codename,bsecodename_codenum
