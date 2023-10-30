@@ -122,7 +122,9 @@ if selected:
         df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Yearly.pkl')
         #st.dataframe(df_comp)
         qtr_pnl = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Quarterly.pkl')
-        pnl, balancesht, qtr_pnl = fundamentals.develop_data(qtr_pnl, df_comp)
+        #pnl, balancesht, qtr_pnl = fundamentals.develop_data(qtr_pnl, df_comp)
+        pnl, balancesht = fundamentals.develop_yearly(df_comp)
+        qtr_pnl = fundamentals.develop_quarterly(qtr_pnl)
         try:
             df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
         except Exception as AttributeError:

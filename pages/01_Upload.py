@@ -88,7 +88,9 @@ if uploaded_file is not None:
         book = openpyxl.load_workbook(uploaded_file[0])
         #comp_name = book['Data Sheet']['B1'].value
         qtr_pnl,df_comp = fundamentals.get_tables(book[fundamentals.tabs[-1]], uploaded_file[0])  # send a sheet(not whole workbook)
-        pnl, balancesht, qtr_pnl = fundamentals.develop_data(qtr_pnl, df_comp)
+        #pnl, balancesht, qtr_pnl = fundamentals.develop_data(qtr_pnl, df_comp)
+        pnl, balancesht = fundamentals.develop_yearly(df_comp)
+        qtr_pnl = fundamentals.develop_quarterly(qtr_pnl)
         try:
             df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
         except Exception as AttributeError:
