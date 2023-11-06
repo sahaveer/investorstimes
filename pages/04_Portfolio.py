@@ -12,15 +12,10 @@ import time
 import datetime
 from datetime import timedelta
 st.set_page_config(page_title="Portfolio", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
-st.title('💰 Analyze your Portfolio ')
-#tradebook = st.file_uploader("upload TradeBook from Zerodha", type= ['xlsx'])
-tradebook_url = 'https://console.zerodha.com/reports/tradebook'
-st.markdown(f"[***ZERODHA TRADEBOOK***]({tradebook_url})", unsafe_allow_html=True)
-tradebook = st.file_uploader("upload TradeBooks from Zerodha", type= ['xlsx'],accept_multiple_files = True)
+st.title('Visualise your Portfolio ')
 
 # Get today's date
 today = datetime.datetime.now()
-
 # Check if today is a weekend (Saturday or Sunday)
 if today.weekday() >= 5:  # 5 represents Saturday, 6 represents Sunday
     # Calculate how many days to subtract to get the last weekday (Friday)
@@ -38,6 +33,12 @@ yy = last_weekday.strftime('%y')
 
 st.info(f'https://www.bseindia.com/download/BhavCopy/Equity/EQ' + dd + mm + yy + '_CSV.ZIP')
 st.info(f"https://archives.nseindia.com/products/content/sec_bhavdata_full_" + dd + mm + yyyy + ".csv")
+
+
+#tradebook = st.file_uploader("upload TradeBook from Zerodha", type= ['xlsx'])
+tradebook_url = 'https://console.zerodha.com/reports/tradebook'
+st.markdown(f"[***ZERODHA TRADEBOOK***]({tradebook_url})", unsafe_allow_html=True)
+tradebook = st.file_uploader("upload TradeBooks from Zerodha", type= ['xlsx'],accept_multiple_files = True)
 
 @st.cache_data
 def tradebook_perday(xl):
@@ -262,7 +263,7 @@ if tradebook is not None:
         #createpf(orig_xl)
         # Get a tradebook where mulitple exeuction on same day is combined to one
         tradebook_daily = tradebook_perday(orig_xl)
-        #st.dataframe(tradebook_daily)
+        st.dataframe(tradebook_daily)
 
         show_pf, show_closed_pf, show_only_sell_pf =createpf(tradebook_daily)
 
@@ -275,10 +276,9 @@ if tradebook is not None:
 
         st.info("CLosed Portfolio")
         st.dataframe(show_closed_pf.set_index('CODE').sort_values('PnL',ascending=False), use_container_width=True)
-        #tot_realised_pnl = closed_pf['PnL'].sum()
-        #if_open_pnl = closed_pf['ifOPEN'].sum()
-        #st.success(f'So, You have booked total PnL of {tot_realised_pnl}.\nIf you had left all ur positions Open, then Your PnL would have been {if_open_pnl}\nBefore oggling at the kinda returns you missed, lets SIP a minimum amount of 1000 at you buy entry points to check the actual Returns')
-        #tot_realised_investment = closed_pf[closed_pf['Quantity']*closed_pf['Buy Price']].sum()
+        #closedpf_pnl_open = closed_pf['ifOPEN'].sum()
+        #st.info(f'Total Profit of Loss for CLOSED POrtfolio is {closedpf_pnl}')
+        #st.info(f'If not booked : then PnL would have been {closedpf_pnl_open}')
 
         sip_investment = st.slider(label="What if you SIPped on your closed Portfolio ? Chose your SIP amount per stock :", min_value=1000, max_value=100000, value=2000, step=1000)
         #st.text_input(label="Enter Principal per stock to know your SIP value now")
@@ -332,3 +332,51 @@ if tradebook is not None:
         # Handle the case where 'ISIN' is not present in the DataFrame
         st.warning("Make Sure to Upload from the Start to avoid Malfunctioning")
 
+holding_url = 'https://console.zerodha.com/portfolio/holdings'
+st.markdown(f"[***ZERODHA HOLDINGS***]({holding_url})", unsafe_allow_html=True)
+holding = st.file_uploader("upload Holdings from Zerodha", type= ['xlsx'])
+pledging_path = 'C:/Users/sahaveer/PycharmProjects/webapps/Scripts/itimes local/zerodha pledging.xlsx'
+
+if holding is not None:
+    # PROCESSING THE PLEDGING FILE FROM ZERODHA
+    pledging_xl = pd.read_excel(pledging_path)
+    #st.dataframe(pledging_xl)
+
+    # PROCESSING THE UPLOADED FILE
+    i=0
+    orig_xl = pd.DataFrame()
+    start_row = None
+    book = openpyxl.load_workbook(holding)
+    datasht = book["Equity"]
+    for i in range(1, datasht.max_row + 1):
+        if datasht['B' + str(i)].value == "Symbol":
+            start_row = i-1
+            break
+    reqd_cols = "B :" + str(get_column_letter(datasht.max_column))
+    if start_row is not None:
+        #st.info(datasht['B'+str(start_row)].value)
+        # Load each file into a DataFrame
+        orig_xl = pd.read_excel(holding,header=start_row,usecols=reqd_cols)
+        # Concatenate the cleaned data to the combined DataFrame
+        orig_xl = orig_xl.dropna(axis=1)
+
+    # Remove duplicates based on all columns
+    orig_xl = orig_xl.drop_duplicates()
+    #ProcessPortfolio.createpf(xl)
+    if 'ISIN' in orig_xl.columns:
+        # Create a dictionary mapping 'Symbol' values to 'PnL' values from 'closed_pf'
+        ISIN_haircut_mapping = pledging_xl.set_index('ISIN')['Haircut %'].to_dict()
+        # Use the map function to assign 'PnL' values to 'final_pf' based on 'Symbol' matching
+        orig_xl['Haircut'] = orig_xl['ISIN'].map(ISIN_haircut_mapping)
+        orig_xl['Valuation'] = orig_xl['Quantity Available']*orig_xl['Previous Closing Price']
+        #orig_xl['CanPledge'] = (1-(orig_xl['Haircut']/100))*orig_xl['Valuation']
+        # Check if 'Valuation' is greater than 50000
+        mask = orig_xl['Valuation'] > 50000
+        # Apply the operation only where the condition is met
+        orig_xl.loc[mask, 'CanPledge'] = (1 - (orig_xl['Haircut'] / 100)) * orig_xl.loc[mask, 'Valuation']
+        st.dataframe(orig_xl)
+        Total_Collateral = orig_xl['CanPledge'].sum()
+        st.info(f'You can pledge a total of {Total_Collateral}rs')
+    else:
+        # Handle the case where 'ISIN' is not present in the DataFrame
+        st.warning("Upload from Zerodha Console")
