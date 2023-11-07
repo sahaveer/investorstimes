@@ -144,7 +144,7 @@ if selected:
                 with st.expander("QUARTERLY PROFIT & LOSS DATA"):
                     st.dataframe(qtr_pnl.style.format(formatter="{:.1f}"))
                 fundamentals.qoq_growth(qtr_pnl, "SALES", color_dict[color_key]['hash'], comp_Name)
-                fundamentals.group_2_bars(qtr_pnl, "PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
+                fundamentals.group_2_bars(qtr_pnl, "SALES","PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
                 fundamentals.qoq_growth(qtr_pnl, "PROFIT BEFORE TAX", color_dict[color_key]['hash'], comp_Name)
                 fundamentals.qoq_growth(qtr_pnl, "NET PROFIT", color_dict[color_key]['hash'], comp_Name)
             else:
@@ -209,7 +209,7 @@ if selected:
                 with st.expander("YEARLY PROFIT & LOSS DATA"):
                     st.dataframe(pnl.style.format(formatter="{:.1f}"))
                 fundamentals.qoq_growth(pnl, "SALES", color_dict[color_key]['hash'], comp_Name)
-                fundamentals.group_2_bars(pnl, "PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
+                fundamentals.group_2_bars(pnl, "SALES","PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
             else:
                 with col4:
                     qoq_checked = st.checkbox("QoQ Growth%")
