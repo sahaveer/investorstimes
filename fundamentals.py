@@ -2,7 +2,7 @@ import streamlit as st
 # import plotly.io as pio
 # pio.kaleido.scope.chromium_args += ("--single-process",)
 # pio.kaleido.scope.mathjax = None
-
+import datetime
 from streamlit_option_menu import option_menu
 import streamlit.components.v1 as html
 import openpyxl
@@ -13,6 +13,9 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import base64  # Standard Python Module
 from io import StringIO, BytesIO  # Standard Python Module
+import os
+import instaimage
+from PIL import ImageFont
 
 # text_rgb = {'#f8ba43' : "rgb(248,186,67)", "#D6D41B":"rgb(248,186,67)", '#1959BF': "rgb(33,161,225)", '#0971C9': "rgb(33,161,225)",'#11A694': "rgb(0,253,85)", '#11A64B': "rgb(0,253,85)", }
 color_dict = {'black': {'hash': '000000', 'rgb': 'rgb(0,0,0)'},
@@ -94,14 +97,22 @@ def go_bar(df, row_name, color_bar, comp_Name):
                       font_color="white")  # legend=dict(x=0,y=1.0,bgcolor='rgba(255, 255, 255, 0)',bordercolor='rgba(255, 255, 255, 0)'),
     new_df = pd.concat([df.loc[row_name]], axis=1).transpose()
     st.plotly_chart(fig, use_container_width=True)
-    col1, col3 = st.columns([0.9, 0.1])
-    #with col1:
-        #with st.expander(row_name + " DATA"):
-            #st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    col1, col3 = st.columns([6, 4])
+    with col1:
+        with st.expander(row_name + " DATA"):
+            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    with col3:
+        if st.button(f'{row_name}.png'):
+            image_path = './Downloadimages/' + comp_Name.upper() + " " + row_name.upper() + ".png"
+            savenameas = os.path.basename(image_path)
+            print("TRYING TO SAVE IMAGE")
+            fig.update_layout(autosize=True, paper_bgcolor="#16181A", plot_bgcolor="#23282D", )
+            fig.write_image(image_path, width=1080, height=1080)
+            print("Saved as image")
 
     # fig.write_image("./Downloadimages/fig1.png")
     # st.subheader('Downloads:')
-    generate_html_Download_link(fig)
+    # generate_html_Download_link(fig)
 
 
 def both_lines(df, row1, row2, color_bar, color_line, comp_Name):
@@ -134,10 +145,17 @@ def both_lines(df, row1, row2, color_bar, color_line, comp_Name):
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
 
-    col1, col3 = st.columns([0.9, 0.1])
-    #with col1:
-        #with st.expander(row1 + "/" + row2 + " DATA"):
-            #st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    col1, col3 = st.columns([6, 4])
+    with col1:
+        with st.expander(row1 + "/" + row2 + " DATA"):
+            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    with col3:
+        if st.button(f'{row1} {row2}.png'):
+            image_path = './Downloadimages/' + comp_Name.upper() + " " + row1 + " " + row2 + ".png"
+            savenameas = os.path.basename(image_path)
+            print("TRYING TO SAVE IMAGE")
+            fig.write_image(image_path, width=1080, height=1080)
+            print("Saved as image")
 
 
 def bar_line(df, row1, row2, color_bar, comp_Name):
@@ -169,10 +187,17 @@ def bar_line(df, row1, row2, color_bar, comp_Name):
     fig.update_xaxes(tickfont=dict(color='white'), )
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
-    col1, col3 = st.columns([0.9, 0.1])
-    #with col1:
-        #with st.expander(row1 + "/" + row2 + " DATA"):
-            #st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    col1, col3 = st.columns([6, 4])
+    with col1:
+        with st.expander(row1 + "/" + row2 + " DATA"):
+            st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    with col3:
+        if st.button(f'{row1} {row2}.png'):
+            image_path = './Downloadimages/' + comp_Name.upper() + " " + row1 + " " + row2 + ".png"
+            savenameas = os.path.basename(image_path)
+            print("TRYING TO SAVE IMAGE")
+            fig.write_image(image_path, width=1080, height=1080)
+            print("Saved as image")
 
 
 def qoq_growth(df, row_name, color_bar, comp_Name):
@@ -223,7 +248,7 @@ def qoq_growth(df, row_name, color_bar, comp_Name):
     # fig.update_layout(annotations=[dict(text=write_annotation,x=0,y=1,xref='paper',yref='paper',showarrow=False,font=dict(size=18, color=color_bar))])
     st.plotly_chart(fig, use_container_width=True)
 
-    col1, col3 = st.columns([0.9, 0.1])
+    col1, col3 = st.columns([6, 4])
     with col1:
         # title_text = st.text_area(key="TITLE", label="Title Text", value=comp_Name.upper() + " Q2FY24", height=50)
         subject_text = st.text_area(label="Edit to create subject line in instagram image", value=write_annotation,
@@ -231,9 +256,37 @@ def qoq_growth(df, row_name, color_bar, comp_Name):
         # with st.expander(row_name + " DATA"):
         # st.dataframe(new_df.style.format(formatter="{:.1f}"))
 
+    with col3:
+        if st.button(f'{row_name}.png'):
+            image_path = './Downloadimages/' + comp_Name.upper() + " " + row_name + ".png"
+            savenameas = os.path.basename(image_path)
+            # print("TRYING TO SAVE IMAGE")
+            fig.update_layout(autosize=False, paper_bgcolor="#16181A", plot_bgcolor="#23282D", )
+            fig.write_image(image_path, width=1080, height=1080)
+            # (15,186,236)    (235,202,10)
+            # Candara arial
+            title_font = ImageFont.truetype("Candara.ttf", size=96)
+            subject_font = ImageFont.truetype("arial.ttf", size=42)
+
+            title_color = color_dict['black']['rgb']
+            title_box_color = color_bar  # color_dict['blue1']['rgb']
+            subject_box_color = title_color
+            subject_color = color_bar
+
+            if os.path.exists(image_path):
+                instaimage.create_image(centre_image=image_path, title_text=comp_Name.upper() + " Q2FY24",
+                                        title_font=title_font, title_color=title_color, title_box_color=title_box_color,
+                                        subject_text=subject_text, subject_font=subject_font,
+                                        subject_color=subject_color, subject_box_color=subject_box_color,
+                                        output_path=TARGET_FOLDER + comp_Name + row_name + ".png")  # send the path of Centre image not the Image itself
+
+            # print("Saved as image")
+            # with open(image_path, "rb") as file:
+            # btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
+
     # st.subheader('Downloads:')
     # generate_excel_Download_link(df2)
-    generate_html_Download_link(fig)
+    # generate_html_Download_link(fig)
 
 
 def qoq_growth1(df, color_bar, comp_Name):
@@ -287,17 +340,33 @@ def qoq_growth1(df, color_bar, comp_Name):
     with col2_chart:
         st.plotly_chart(fig, use_container_width=True)
 
-    col1, col3 = st.columns([0.9, 0.1])
+    col1, col3 = st.columns([6, 4])
     with col1:
         # title_text = st.text_area(key="TITLE", label="Title Text", value=comp_Name.upper() + " Q2FY24", height=50)
         subject_text = st.text_area(label="Edit to create subject line in instagram image", value=write_annotation,
                                     height=25)
         # with st.expander(row_name + " DATA"):
         # st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    with col3:
+        if st.button(f'{row_name}.png'):
+            image_path = './Downloadimages/' + comp_Name.upper() + " " + row_name + ".png"
+            savenameas = os.path.basename(image_path)
+            # print("TRYING TO SAVE IMAGE")
+            fig.write_image(image_path, width=1080, height=1080)
+            # (15,186,236)    (235,202,10)
+            if os.path.exists(image_path):
+                instaimage.create_image(centre_image=image_path, title_text=comp_Name.upper() + " Q2FY24",
+                                        title_color=(15, 186, 236), subject_text=subject_text,
+                                        subject_color=(255, 255, 255),
+                                        output_path=TARGET_FOLDER + comp_Name + row_name + ".png")  # send the path of Centre image not the Image itself
+
+            # print("Saved as image")
+            # with open(image_path, "rb") as file:
+            # btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
 
     # st.subheader('Downloads:')
     # generate_excel_Download_link(df2)
-    #generate_html_Download_link(fig)
+    # generate_html_Download_link(fig)
 
 
 # this has 2 series concatenated, these 2 are shown as GroupBar
@@ -324,18 +393,26 @@ def peer_bar(df, Name, comp1_Name, comp2_Name):  # this has 2 series concatinate
     st.plotly_chart(fig, use_container_width=True)
     new_df = pd.concat([df[bar_list[0]], df[bar_list[1]]], axis=1).transpose()
 
-    col1, col3 = st.columns([0.9, 0.1])
+    col1, col3 = st.columns([6, 4])
     # with col1:
     # with st.expander(Name + " DATA"):
     # st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    with col3:
+        if st.button(f'{Name}.png'):
+            image_path = './Downloadimages/' + comp1_Name.upper() + '/' + comp2_Name.upper() + " " + Name + ".png"
+            savenameas = os.path.basename(image_path)
+            print("TRYING TO SAVE IMAGE")
+            fig.write_image(image_path, width=1080, height=1080)
+            print("Saved as image")
 
 
-def group_2_bars(df, row1, row2, comp_Name):
-    dat_rows = [df.loc[row1], df.loc[row2]]
-    new_df = pd.concat(dat_rows, keys=[row1, row2], axis=1)
+def group_2_bars(df, row1, row2, row3, comp_Name):
+    dat_rows = [df.loc[row1], df.loc[row2], df.loc[row3]]
+    new_df = pd.concat(dat_rows, keys=[row1, row2, row3], axis=1)
     # Create the text labels for each bar
     text_labels_row1 = new_df[row1].tolist()
     text_labels_row2 = new_df[row2].tolist()
+    text_labels_row3 = new_df[row3].tolist()
 
     # Create the bar chart with text labels for each trace
     fig = go.Figure(data=[
@@ -355,6 +432,15 @@ def group_2_bars(df, row1, row2, comp_Name):
             textposition='auto',
             marker={'color': "#EF3A4C"}
         ),
+        go.Bar(
+            name=row3,
+            x=new_df.index,
+            y=new_df[row3],
+            text=text_labels_row3,  # Provide the text labels for row2 bars
+            textposition='auto',
+            marker={'color': "#53B987"}
+        ),
+
     ])
 
     # Change the bar mode
@@ -383,10 +469,17 @@ def group_2_bars(df, row1, row2, comp_Name):
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
 
-    col1, col3 = st.columns([0.9, 0.1])
+    col1, col3 = st.columns([6, 4])
     # with col1:
     # with st.expander(row1 + "/" + row2 + " DATA"):
     # st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    with col3:
+        if st.button(f'{row1} {row2} {row3}.png'):
+            image_path = TARGET_FOLDER + comp_Name.upper() + " " + row1 + " " + row2 + " " + row3 + ".png"
+            savenameas = os.path.basename(image_path)
+            print("TRYING TO SAVE IMAGE")
+            fig.write_image(image_path, width=1080, height=1080)
+            print("Saved as image")
 
 
 # THIS IS SPECIFICALLY DESIGNED FOR CASHFLOWs, Where fixed 4 rows are there
@@ -489,18 +582,17 @@ def get_tables(datasht, file):
         pnl = pd.read_excel(file, index_col=0, sheet_name=tabs[-1], header=pnl_start_row, usecols=reqd_cols,
                             nrows=pnl_end_row - pnl_start_row)
         pnl.fillna(0, inplace=True)
-        # pnl.columns = pnl.columns.strftime('%d-%m-%Y')
         pnl.index = pnl.index.str.strip()
         pnl.index = pnl.index.str.upper()
+        pnl = pnl.loc[:, (pnl != 0).any()]
     if quarterly_start_row is not None and quarterly_end_row is not None:
         qtr_pnl = pd.read_excel(file, index_col=0, sheet_name=tabs[-1], header=quarterly_start_row, usecols=reqd_cols,
                                 nrows=quarterly_end_row - quarterly_start_row)
 
-        # qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
         qtr_pnl.fillna(0, inplace=True)
         qtr_pnl.index = qtr_pnl.index.str.strip()
         qtr_pnl.index = qtr_pnl.index.str.upper()
-
+        qtr_pnl = qtr_pnl.loc[:, (qtr_pnl != 0).any()]
     if BS_start_row is not None and BS_end_row is not None:
         balancesht = pd.read_excel(file, index_col=0, sheet_name=tabs[-1], header=BS_start_row, usecols=reqd_cols,
                                    nrows=BS_end_row - BS_start_row)
@@ -508,6 +600,7 @@ def get_tables(datasht, file):
         balancesht.fillna(0, inplace=True)
         balancesht.index = balancesht.index.str.strip()
         balancesht.index = balancesht.index.str.upper()
+        balancesht = balancesht.loc[:, (balancesht != 0).any()]
     if cash_start_row is not None and cash_end_row is not None:
         cashflow = pd.read_excel(file, index_col=0, sheet_name=tabs[-1], header=cash_start_row, usecols=reqd_cols,
                                  nrows=cash_end_row - cash_start_row)
@@ -515,7 +608,7 @@ def get_tables(datasht, file):
         cashflow.fillna(0, inplace=True)
         cashflow.index = cashflow.index.str.strip()
         cashflow.index = cashflow.index.str.upper()
-
+        cashflow = cashflow.loc[:, (cashflow != 0).any()]
     # pnl = pnl.transpose()
     # pnl['EXPENSES'] = pnl['RAW MATERIAL COST'] - pnl['CHANGE IN INVENTORY'] + pnl['POWER AND FUEL'] + pnl['OTHER MFR. EXP'] + pnl['EMPLOYEE COST'] + pnl['SELLING AND ADMIN'] + pnl['OTHER EXPENSES']
     # pnl = pnl.drop(columns= ['RAW MATERIAL COST','CHANGE IN INVENTORY','POWER AND FUEL','OTHER MFR. EXP','EMPLOYEE COST','SELLING AND ADMIN','OTHER EXPENSES'],axis=1)
@@ -545,6 +638,8 @@ def get_tables(datasht, file):
     if (pnl is not None and balancesht is not None and cashflow is not None and qtr_pnl is not None):
         sht_list = [pnl, balancesht, cashflow]
         df_comp = pd.concat(sht_list, keys=funda_keys)
+        # df_comp = df_comp.drop(columns=[''])
+        # qtr_pnl = qtr_pnl.drop(columns=[''])
     return qtr_pnl, df_comp
 
 
@@ -564,15 +659,6 @@ def NPM(row):
 
 
 def develop_data(qtr_pnl, df_comp):
-    try:
-        df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
-    except Exception as AttributeError:
-        pass
-    try:
-        qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
-    except Exception as AttributeError:
-        pass
-
     pnl = df_comp.loc['PROFIT&LOSS']
     pnl.fillna(0, inplace=True)
     pnl.index = pnl.index.str.strip()
@@ -621,9 +707,10 @@ def develop_data(qtr_pnl, df_comp):
     qtr_pnl = qtr_pnl.transpose()
     qtr_pnl = qtr_pnl.round(2)
     # qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
-    # st.dataframe(qtr_pnl)
 
+    # st.dataframe(qtr_pnl)
     return pnl, balancesht, qtr_pnl
+
 
 def develop_quarterly(qtr_pnl):
     qtr_pnl.fillna(0, inplace=True)
@@ -636,7 +723,7 @@ def develop_quarterly(qtr_pnl):
     qtr_pnl['OPERATING PROFIT_QoQ'] = qtr_pnl['OPERATING PROFIT'].pct_change() * 100
     qtr_pnl = qtr_pnl.transpose()
     qtr_pnl = qtr_pnl.round(2)
-    #qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
+    # qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
 
     # st.dataframe(qtr_pnl)
     return qtr_pnl
@@ -668,50 +755,73 @@ def develop_yearly(df_comp):
     balancesht['INVENTORY TURNOVER'] = np.where(balancesht['INVENTORY'] > 0, pnl['SALES'] / balancesht['INVENTORY'],
                                                 0)
     balancesht['ROCE'] = np.where(balancesht['NET BLOCK'] + balancesht['WORKING CAPITAL'] > 0, (
-                (pnl['OPERATING PROFIT'] - pnl['DEPRECIATION'] - pnl['TAX']) / (
-                    balancesht['NET BLOCK'] + balancesht['WORKING CAPITAL'])) * 100, 0)
+            (pnl['OPERATING PROFIT'] - pnl['DEPRECIATION'] - pnl['TAX']) / (
+            balancesht['NET BLOCK'] + balancesht['WORKING CAPITAL'])) * 100, 0)
     pnl = pnl.transpose()
     pnl = pnl.round(2)
-    #pnl.columns = pnl.columns.strftime('%d-%m-%Y')
+    # pnl.columns = pnl.columns.strftime('%d-%m-%Y')
     # st.dataframe(pnl)
     balancesht = balancesht.transpose()
     balancesht = balancesht.round(2)
     # st.dataframe(balancesht)
     return pnl, balancesht
 
+
 def stmt_for_qoq(df):
     # THE FOLLOWIGN CODE CALCULATES THE GROWTH OR DEGROWTH
+    df.columns = pd.to_datetime(df.columns)
     last_quarter = df.columns[-1]
-    prev_quarter = df.columns[-2]
-    yoy_quarter = df.columns[-5]
-    sentence = f"{last_quarter}\n"
+    sentence = f"{datetime.datetime.strftime(last_quarter, '%d-%b-%Y')} #Quarterly #result\n"
     # Create a list of metrics
     metrics = ['SALES', 'OPERATING PROFIT', 'NET PROFIT']
     # qtr_string = last_quarter.strptime(last_quarter,"%b%Y")
-    # Loop through the metrics
-    for metric in metrics:
-        # Retrieve the QoQ percentage change value for the last quarter
-        value = df.loc[metric, last_quarter]
-        value_qoq = df.loc[metric, prev_quarter]
-        value_yoy = df.loc[metric, yoy_quarter]
-        yoy_growth = ((value - value_yoy) / value_yoy) * 100
-        qoq_growth = df.at[metric + '_QoQ', last_quarter]
-        if not pd.isna(qoq_growth) and not pd.isna(value):
-            qoq_trend = " up by " if qoq_growth > 0 else " down by "
-            yoy_trend = " up by " if yoy_growth > 0 else " down by "
-            # abs_qoq_growth = abs(qoq_growth)
-            # abs_value = abs(value)
-            # sentence += f"{metric}: {value:.2f}cr vs {value_qoq}cr,{trend}{qoq_growth:.2f}% QoQ\n"
-            # sentence += f"{metric}: {value:.2f}cr,{qoq_trend}{qoq_growth:.2f}% QoQ & {yoy_trend}{yoy_growth:.2f}% YoY\n"
-            sentence += f"{value:.2f}cr,QoQ {qoq_growth:.2f}% & YoY {yoy_growth:.2f}% {metric}\n"
+    if len(df.columns) >= 5:
+        prev_quarter = df.columns[-2]
+        yoy_quarter = df.columns[-5]
+        # Loop through the metrics
+        for metric in metrics:
+            # Retrieve the QoQ percentage change value for the last quarter
+            value = df.loc[metric, last_quarter]
+            value_qoq = df.loc[metric, prev_quarter]
+            value_yoy = df.loc[metric, yoy_quarter]
+            yoy_growth = ((value - value_yoy) / value_yoy) * 100
+            qoq_growth = df.at[metric + '_QoQ', last_quarter]
+            if not pd.isna(qoq_growth) and not pd.isna(value):
+                qoq_trend = " up by " if qoq_growth > 0 else " down by "
+                yoy_trend = " up by " if yoy_growth > 0 else " down by "
+                # sentence += f"{metric}: {value:.2f}cr vs {value_qoq}cr,{trend}{qoq_growth:.2f}% QoQ\n"
+                # sentence += f"{metric}: {value:.2f}cr,{qoq_trend}{qoq_growth:.2f}% QoQ & {yoy_trend}{yoy_growth:.2f}% YoY\n"
+                sentence += f"{value:.2f}cr, QoQ {qoq_growth:.2f}% & YoY {yoy_growth:.2f}% {metric};\n"
 
-    # st.info(type(last_quarter))
-    for metric in ['OPM %', 'NPM %']:
-        value = df.loc[metric, last_quarter]
-        if not pd.isna(value):
-            # abs_value = abs(value)
-            sentence += f"{metric}: {value:.2f}% vs {(df.loc[metric, prev_quarter])}%\n"
-    sentence += f"For more: https://www.instagram.com/itimesalgo/\nAnalyse your favourite company using https://www.itimesalgo.streamlit.app\nhttps://t.me/itimesalgo"
-    # sentence += f"OPM {pnl.loc['OPM %', last_quarter]}% vs {pnl.loc['OPM %', prev_quarter]}%\n"
-    # sentence += f"NPM {pnl.loc['NPM %', last_quarter]}% vs {pnl.loc['NPM %', prev_quarter]}%\n"
-    return sentence
+        # st.info(type(last_quarter))
+        for metric in ['OPM %', 'NPM %']:
+            value = df.loc[metric, last_quarter]
+            if not pd.isna(value):
+                # abs_value = abs(value)
+                sentence += f"{metric}: {value:.2f}% vs {(df.loc[metric, prev_quarter])}%\n"
+        # sentence += f"For more: https://www.instagram.com/itimesalgo/\nAnalyse your favourite company using https://www.itimesalgo.streamlit.app\nhttps://t.me/itimesalgo"
+        # sentence += f"OPM {pnl.loc['OPM %', last_quarter]}% vs {pnl.loc['OPM %', prev_quarter]}%\n"
+        # sentence += f"NPM {pnl.loc['NPM %', last_quarter]}% vs {pnl.loc['NPM %', prev_quarter]}%\n"
+        return sentence
+    elif len(df.columns) >= 2:
+        last_quarter = df.columns[-1]
+        prev_quarter = df.columns[-2]
+        # Loop through the metrics
+        for metric in metrics:
+            # Retrieve the QoQ percentage change value for the last quarter
+            value = df.loc[metric, last_quarter]
+            value_qoq = df.loc[metric, prev_quarter]
+            qoq_growth = df.at[metric + '_QoQ', last_quarter]
+            if not pd.isna(qoq_growth) and not pd.isna(value):
+                qoq_trend = " up by " if qoq_growth > 0 else " down by "
+                sentence += f"{value:.2f}cr, QoQ {qoq_growth:.2f}% {metric};\n"
+
+        # st.info(type(last_quarter))
+        for metric in ['OPM %', 'NPM %']:
+            value = df.loc[metric, last_quarter]
+            if not pd.isna(value):
+                sentence += f"{metric}: {value:.2f}% vs {(df.loc[metric, prev_quarter])}%\n"
+        sentence += f"For more: https://www.instagram.com/itimesalgo/\nAnalyse your favourite company using https://www.itimesalgo.streamlit.app\nhttps://t.me/itimesalgo"
+        # sentence += f"OPM {pnl.loc['OPM %', last_quarter]}% vs {pnl.loc['OPM %', prev_quarter]}%\n"
+        # sentence += f"NPM {pnl.loc['NPM %', last_quarter]}% vs {pnl.loc['NPM %', prev_quarter]}%\n"
+        return sentence

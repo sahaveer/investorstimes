@@ -1,6 +1,7 @@
 import csv
 import pandas as pd
 import streamlit as st
+from streamlit_option_menu import option_menu
 import openpyxl
 from openpyxl.utils import get_column_letter
 
@@ -12,34 +13,23 @@ import time
 import datetime
 from datetime import timedelta
 st.set_page_config(page_title="Portfolio", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
-st.title('Visualise your Portfolio ')
+st.title('Portfolio Proficiency Analyzer 🌟')
 
-# Get today's date
-today = datetime.datetime.now()
-# Check if today is a weekend (Saturday or Sunday)
-if today.weekday() >= 5:  # 5 represents Saturday, 6 represents Sunday
-    # Calculate how many days to subtract to get the last weekday (Friday)
-    days_to_subtract = (today.weekday() + 1) % 5  # Add 1 to shift Sunday to Monday
-    # Subtract the appropriate number of days
-    last_weekday = today - timedelta(days=days_to_subtract)
-else:
-    # If today is a weekday, use today's date
-    last_weekday = today
-dd = last_weekday.strftime('%d')
-mm = last_weekday.strftime('%m')
-mmm = last_weekday.strftime('%b')
-yyyy = last_weekday.strftime('%Y')
-yy = last_weekday.strftime('%y')
-
-st.info(f'https://www.bseindia.com/download/BhavCopy/Equity/EQ' + dd + mm + yy + '_CSV.ZIP')
-st.info(f"https://archives.nseindia.com/products/content/sec_bhavdata_full_" + dd + mm + yyyy + ".csv")
-
-
-#tradebook = st.file_uploader("upload TradeBook from Zerodha", type= ['xlsx'])
-tradebook_url = 'https://console.zerodha.com/reports/tradebook'
-st.markdown(f"[***ZERODHA TRADEBOOK***]({tradebook_url})", unsafe_allow_html=True)
-tradebook = st.file_uploader("upload TradeBooks from Zerodha", type= ['xlsx'],accept_multiple_files = True)
-
+#tab1, tab2, tab3 = st.tabs(["Portfolio", "Collateral"])
+portfolio_option = option_menu("", ["Portfolio", "Collateral"],
+                             icons=['cash', 'cash'], menu_icon="cast", default_index=0, orientation="horizontal")
+if portfolio_option == "Portfolio":
+    col1,col2 = st.columns([2,2])
+    col2.subheader("💡 Key Benefits:")
+    col2.write("✅ Calculate Open & Closed Portfolio")
+    col2.write("📊 Analyze Your Past Actions")
+    col2.write("💰 Free Shares Calculation")
+    col2.write("💹 SIP vs Portfolio")
+    col1.subheader("🔍 How it works:")
+    #tradebook = st.file_uploader("upload TradeBook from Zerodha", type= ['xlsx'])
+    tradebook_url = 'https://console.zerodha.com/reports/tradebook'
+    col2.markdown(f"[***ZERODHA TRADEBOOK***]({tradebook_url})", unsafe_allow_html=True)
+    tradebook = col1.file_uploader("🔗 upload TradeBooks from Zerodha", type= ['xlsx'],accept_multiple_files = True)
 @st.cache_data
 def tradebook_perday(xl):
     if isinstance(xl,pd.DataFrame):
@@ -228,17 +218,144 @@ def createpf(xl):
 
         return final_pf,closed_pf,only_sell_pf
 
+if portfolio_option == "Portfolio":
+    #loc = "./TRADEBOOK.xlsx"
+    if tradebook is not None:
+        start_time = time.time()
+        i=0
+        orig_xl = pd.DataFrame()
+        for each_xl in tradebook:
+            start_row = None
+            book = openpyxl.load_workbook(each_xl)
+            datasht = book["Equity"]
+            #st.info(datasht['C7'].value)
+            for i in range(1, datasht.max_row + 1):
+                if datasht['B' + str(i)].value == "Symbol":
+                    start_row = i-1
+                    break
+            reqd_cols = "B :" + str(get_column_letter(datasht.max_column))
+            if start_row is not None:
+                #st.info(datasht['B'+str(start_row)].value)
+                # Load each file into a DataFrame
+                df = pd.read_excel(each_xl,header=start_row,usecols=reqd_cols)
+                # Concatenate the cleaned data to the combined DataFrame
+                orig_xl = pd.concat([orig_xl, df])
+                orig_xl = orig_xl.dropna(axis=1)
+                #st.dataframe(df)
+        # Remove duplicates based on all columns
+        orig_xl = orig_xl.drop_duplicates()
+        #ProcessPortfolio.createpf(xl)
+        if 'ISIN' in orig_xl.columns:
+            # Continue with your processing logic
+            orig_xl = orig_xl.sort_values('Trade Date', ascending=True)
+            #st.info("Original DF from all the uploaded files")
+            #st.dataframe(orig_xl)
+            #createpf(orig_xl)
+            # Get a tradebook where mulitple exeuction on same day is combined to one
+            tradebook_daily = tradebook_perday(orig_xl)
+            st.dataframe(tradebook_daily)
 
-#loc = "./TRADEBOOK.xlsx"
-if tradebook is not None:
-    start_time = time.time()
-    i=0
-    orig_xl = pd.DataFrame()
-    for each_xl in tradebook:
+            show_pf, show_closed_pf, show_only_sell_pf =createpf(tradebook_daily)
+
+            # this is to only SHOW the users by replacing ISIN to Symbol Name
+            st.info("OPEN PORTFOLIO : ")
+            st.dataframe(show_pf.set_index('CODE').sort_values('Investment',ascending=False), use_container_width=True)
+            #show_pf['Symbol'] = show_pf['Symbol'].replace(symbol_isin)             # Instead of replacing ISIN with Symbol. Best is to get the yahoo codes for these
+            #print(show_pf.set_index('Symbol').sort_values('Investment',ascending=True))
+            #st.dataframe(show_pf.set_index('Symbol').sort_values('Investment',ascending=False))
+
+            st.info("CLosed Portfolio")
+            st.dataframe(show_closed_pf.set_index('CODE').sort_values('PnL',ascending=False), use_container_width=True)
+            #closedpf_pnl_open = closed_pf['ifOPEN'].sum()
+            #st.info(f'Total Profit of Loss for CLOSED POrtfolio is {closedpf_pnl}')
+            #st.info(f'If not booked : then PnL would have been {closedpf_pnl_open}')
+
+            sip_investment = st.slider(label="What if you SIPped on your closed Portfolio ? Chose your SIP amount per stock :", min_value=1000, max_value=100000, value=2000, step=1000)
+            #st.text_input(label="Enter Principal per stock to know your SIP value now")
+            if st.button('Show SIP'):
+                sip_pf = show_closed_pf[['CODE','Buy Date','Buy Price','LTP']].copy()
+                #sip_pf['Invested'] = sip_investment
+                sip_pf.loc[:, 'Invested'] = sip_investment
+                sip_pf['PnL'] = sip_pf['LTP'] * (sip_pf['Invested'] / sip_pf['Buy Price'])
+                sip_pf = sip_pf.drop_duplicates(subset=['CODE', 'Buy Date'])
+                st.dataframe(sip_pf.sort_values('Buy Date',ascending=True))
+                SIP_totCapital = sip_pf['Invested'].sum()
+                SIP_PnL = sip_pf['PnL'].sum()
+                return_on_SIP = round(((SIP_PnL - SIP_totCapital) / SIP_totCapital)*100)
+                st.success(f"Your SIP generated Profit/Loss of {round(SIP_PnL/100000,2)}lak a return of ({return_on_SIP}%) on your Total SIP Investment of {round(SIP_totCapital/100000,2)}lak")
+                # Group by year and month and calculate total investment
+                result=pd.DataFrame()
+                sip_pf['Buy Date'] = pd.to_datetime(sip_pf['Buy Date'])
+                result['Year'] = sip_pf['Buy Date'].dt.year
+                result['Month'] = sip_pf['Buy Date'].dt.month
+                result['Invested'] = sip_pf['Invested']
+                result = result.groupby([ 'Year' , 'Month' ])['Invested'].sum().reset_index()
+                # Rename the columns for clarity
+                #result = result.rename(columns={'Buy Date': 'Year', 'Buy Date': 'Month', 'Invested': 'Total Investment'})
+
+                st.error(f"By the way : MAX SIP amount per month went upto {result['Invested'].max()} and minimum of {result['Invested'].min()}. Average SIP amount would be {round(result['Invested'].mean())}")
+                with st.expander("See Your Total Monthly SIP Amount PER MONTH"):
+                    st.dataframe(result)
+
+
+            #show_closed_pf['Symbol'] = show_closed_pf['Symbol'].replace(symbol_isin)
+            #print(show_closed_pf.set_index('Symbol'))
+            #st.dataframe(show_closed_pf.set_index('Symbol'))
+
+
+            st.info("INVALID ENTRIES : ")
+            st.dataframe(show_only_sell_pf, use_container_width=True)
+            #show_only_sell_pf['Symbol'] = show_only_sell_pf['Symbol'].replace(symbol_isin)
+            #print(show_only_sell_pf.set_index('Symbol'))
+            #st.dataframe(show_only_sell_pf.set_index('Symbol'))
+
+            # IMPROVEMENTS
+            #any new upload of the excel sheet shud only append the initial dataframe xl
+
+
+
+
+
+            end_time = time.time() - start_time
+            st.info(f"Downloaded in {start_time - end_time} sec")
+        else:
+            # Handle the case where 'ISIN' is not present in the DataFrame
+            st.success("Make Sure to Upload from the Start to avoid Malfunctioning")
+
+
+
+
+# Define a custom function to calculate 'Allowed' based on 'Broker limit reached'
+def calculate_allowed(row):
+    if row['Broker limit reached'] == 'No':
+        return (100 - (row['Haircut %']))
+    else:
+        return 0
+
+if portfolio_option == "Collateral":
+    colx,coly = st.columns([2,2])
+    coly.subheader("💡 Key Benefits:")
+    coly.write("✅ Discover which of your stocks are eligible for collateral")
+    coly.write("💰 Maximize your trading potential")
+    coly.write("💹 Leverage your existing investments")
+    colx.subheader("🔍 How it works:")
+    holding_url = 'https://console.zerodha.com/portfolio/holdings'
+    st.markdown(f"[***ZERODHA HOLDINGS***]({holding_url})", unsafe_allow_html=True)
+    holding = colx.file_uploader("🔗 Upload your holdings Excel file", type= ['xlsx'])
+    pledging_path = 'C:/Users/sahaveer/PycharmProjects/webapps/Scripts/itimes local/zerodha pledging.xlsx'
+    ISIN_haircut_mapping = None
+    if holding is not None:
+        # PROCESSING THE PLEDGING FILE FROM ZERODHA
+        pledging_xl = pd.read_excel(pledging_path)
+        pledging_xl['Allowed'] = pledging_xl.apply(calculate_allowed, axis=1)
+        #st.dataframe(pledging_xl)
+
+        # PROCESSING THE UPLOADED FILE
+        i=0
+        orig_xl = pd.DataFrame()
         start_row = None
-        book = openpyxl.load_workbook(each_xl)
+        book = openpyxl.load_workbook(holding)
         datasht = book["Equity"]
-        #st.info(datasht['C7'].value)
         for i in range(1, datasht.max_row + 1):
             if datasht['B' + str(i)].value == "Symbol":
                 start_row = i-1
@@ -247,136 +364,32 @@ if tradebook is not None:
         if start_row is not None:
             #st.info(datasht['B'+str(start_row)].value)
             # Load each file into a DataFrame
-            df = pd.read_excel(each_xl,header=start_row,usecols=reqd_cols)
+            orig_xl = pd.read_excel(holding,header=start_row,usecols=reqd_cols)
             # Concatenate the cleaned data to the combined DataFrame
-            orig_xl = pd.concat([orig_xl, df])
             orig_xl = orig_xl.dropna(axis=1)
-            #st.dataframe(df)
-    # Remove duplicates based on all columns
-    orig_xl = orig_xl.drop_duplicates()
-    #ProcessPortfolio.createpf(xl)
-    if 'ISIN' in orig_xl.columns:
-        # Continue with your processing logic
-        orig_xl = orig_xl.sort_values('Trade Date', ascending=True)
-        #st.info("Original DF from all the uploaded files")
-        #st.dataframe(orig_xl)
-        #createpf(orig_xl)
-        # Get a tradebook where mulitple exeuction on same day is combined to one
-        tradebook_daily = tradebook_perday(orig_xl)
-        st.dataframe(tradebook_daily)
 
-        show_pf, show_closed_pf, show_only_sell_pf =createpf(tradebook_daily)
+        # Remove duplicates based on all columns
+        orig_xl = orig_xl.drop_duplicates()
+        #ProcessPortfolio.createpf(xl)
+        if 'ISIN' in orig_xl.columns:
+            # Create a dictionary mapping 'Symbol' values to 'PnL' values from 'closed_pf'
+            ISIN_haircut_mapping = pledging_xl.set_index('ISIN')['Allowed'].to_dict()
+            # Use the map function to assign 'PnL' values to 'final_pf' based on 'Symbol' matching
+            orig_xl['Allowed %'] = orig_xl['ISIN'].map(ISIN_haircut_mapping)                  ##'Broker limit reached' == 'No'
+            orig_xl['Valuation'] = orig_xl['Quantity Available']*orig_xl['Previous Closing Price']
+            orig_xl['CanPledge'] = (orig_xl['Allowed %']/100)*orig_xl['Valuation']
 
-        # this is to only SHOW the users by replacing ISIN to Symbol Name
-        st.info("OPEN PORTFOLIO : ")
-        st.dataframe(show_pf.set_index('CODE').sort_values('Investment',ascending=False), use_container_width=True)
-        #show_pf['Symbol'] = show_pf['Symbol'].replace(symbol_isin)             # Instead of replacing ISIN with Symbol. Best is to get the yahoo codes for these
-        #print(show_pf.set_index('Symbol').sort_values('Investment',ascending=True))
-        #st.dataframe(show_pf.set_index('Symbol').sort_values('Investment',ascending=False))
+            # Check if 'Valuation' is greater than 50000
+            #mask = orig_xl['Valuation'] > 50000
+            # Apply the operation only where the condition is met
+            #orig_xl.loc[mask, 'CanPledge'] = (1 - (orig_xl['Haircut'] / 100)) * orig_xl.loc[mask, 'Valuation']
+            show_pledging = orig_xl[['Symbol', 'CanPledge']].copy()
+            # Drop rows where 'CanPledge' is None (missing values)
+            show_pledging = show_pledging.dropna(subset=['CanPledge'])
+            st.dataframe(show_pledging)
+            Total_Collateral = orig_xl['CanPledge'].sum()
+            st.info(f'You can pledge a total of {round(Total_Collateral)}rs')
+        else:
+            # Handle the case where 'ISIN' is not present in the DataFrame
+            st.warning("Upload from Zerodha Console")
 
-        st.info("CLosed Portfolio")
-        st.dataframe(show_closed_pf.set_index('CODE').sort_values('PnL',ascending=False), use_container_width=True)
-        #closedpf_pnl_open = closed_pf['ifOPEN'].sum()
-        #st.info(f'Total Profit of Loss for CLOSED POrtfolio is {closedpf_pnl}')
-        #st.info(f'If not booked : then PnL would have been {closedpf_pnl_open}')
-
-        sip_investment = st.slider(label="What if you SIPped on your closed Portfolio ? Chose your SIP amount per stock :", min_value=1000, max_value=100000, value=2000, step=1000)
-        #st.text_input(label="Enter Principal per stock to know your SIP value now")
-        if st.button('Show SIP'):
-            sip_pf = show_closed_pf[['CODE','Buy Date','Buy Price','LTP']].copy()
-            #sip_pf['Invested'] = sip_investment
-            sip_pf.loc[:, 'Invested'] = sip_investment
-            sip_pf['PnL'] = sip_pf['LTP'] * (sip_pf['Invested'] / sip_pf['Buy Price'])
-            sip_pf = sip_pf.drop_duplicates(subset=['CODE', 'Buy Date'])
-            st.dataframe(sip_pf.sort_values('Buy Date',ascending=True))
-            SIP_totCapital = sip_pf['Invested'].sum()
-            SIP_PnL = sip_pf['PnL'].sum()
-            return_on_SIP = round(((SIP_PnL - SIP_totCapital) / SIP_totCapital)*100)
-            st.success(f"Your SIP generated Profit/Loss of {round(SIP_PnL/100000,2)}lak a return of ({return_on_SIP}%) on your Total SIP Investment of {round(SIP_totCapital/100000,2)}lak")
-            # Group by year and month and calculate total investment
-            result=pd.DataFrame()
-            sip_pf['Buy Date'] = pd.to_datetime(sip_pf['Buy Date'])
-            result['Year'] = sip_pf['Buy Date'].dt.year
-            result['Month'] = sip_pf['Buy Date'].dt.month
-            result['Invested'] = sip_pf['Invested']
-            result = result.groupby([ 'Year' , 'Month' ])['Invested'].sum().reset_index()
-            # Rename the columns for clarity
-            #result = result.rename(columns={'Buy Date': 'Year', 'Buy Date': 'Month', 'Invested': 'Total Investment'})
-
-            st.error(f"By the way : MAX SIP amount per month went upto {result['Invested'].max()} and minimum of {result['Invested'].min()}. Average SIP amount would be {round(result['Invested'].mean())}")
-            with st.expander("See Your Total Monthly SIP Amount PER MONTH"):
-                st.dataframe(result)
-
-
-        #show_closed_pf['Symbol'] = show_closed_pf['Symbol'].replace(symbol_isin)
-        #print(show_closed_pf.set_index('Symbol'))
-        #st.dataframe(show_closed_pf.set_index('Symbol'))
-
-
-        st.info("INVALID ENTRIES : ")
-        st.dataframe(show_only_sell_pf, use_container_width=True)
-        #show_only_sell_pf['Symbol'] = show_only_sell_pf['Symbol'].replace(symbol_isin)
-        #print(show_only_sell_pf.set_index('Symbol'))
-        #st.dataframe(show_only_sell_pf.set_index('Symbol'))
-
-        # IMPROVEMENTS
-        #any new upload of the excel sheet shud only append the initial dataframe xl
-
-
-
-
-
-        end_time = time.time() - start_time
-        st.info(f"Downloaded in {start_time - end_time} sec")
-    else:
-        # Handle the case where 'ISIN' is not present in the DataFrame
-        st.warning("Make Sure to Upload from the Start to avoid Malfunctioning")
-
-holding_url = 'https://console.zerodha.com/portfolio/holdings'
-st.markdown(f"[***ZERODHA HOLDINGS***]({holding_url})", unsafe_allow_html=True)
-holding = st.file_uploader("upload Holdings from Zerodha", type= ['xlsx'])
-pledging_path = 'C:/Users/sahaveer/PycharmProjects/webapps/Scripts/itimes local/zerodha pledging.xlsx'
-
-if holding is not None:
-    # PROCESSING THE PLEDGING FILE FROM ZERODHA
-    pledging_xl = pd.read_excel(pledging_path)
-    #st.dataframe(pledging_xl)
-
-    # PROCESSING THE UPLOADED FILE
-    i=0
-    orig_xl = pd.DataFrame()
-    start_row = None
-    book = openpyxl.load_workbook(holding)
-    datasht = book["Equity"]
-    for i in range(1, datasht.max_row + 1):
-        if datasht['B' + str(i)].value == "Symbol":
-            start_row = i-1
-            break
-    reqd_cols = "B :" + str(get_column_letter(datasht.max_column))
-    if start_row is not None:
-        #st.info(datasht['B'+str(start_row)].value)
-        # Load each file into a DataFrame
-        orig_xl = pd.read_excel(holding,header=start_row,usecols=reqd_cols)
-        # Concatenate the cleaned data to the combined DataFrame
-        orig_xl = orig_xl.dropna(axis=1)
-
-    # Remove duplicates based on all columns
-    orig_xl = orig_xl.drop_duplicates()
-    #ProcessPortfolio.createpf(xl)
-    if 'ISIN' in orig_xl.columns:
-        # Create a dictionary mapping 'Symbol' values to 'PnL' values from 'closed_pf'
-        ISIN_haircut_mapping = pledging_xl.set_index('ISIN')['Haircut %'].to_dict()
-        # Use the map function to assign 'PnL' values to 'final_pf' based on 'Symbol' matching
-        orig_xl['Haircut'] = orig_xl['ISIN'].map(ISIN_haircut_mapping)
-        orig_xl['Valuation'] = orig_xl['Quantity Available']*orig_xl['Previous Closing Price']
-        #orig_xl['CanPledge'] = (1-(orig_xl['Haircut']/100))*orig_xl['Valuation']
-        # Check if 'Valuation' is greater than 50000
-        mask = orig_xl['Valuation'] > 50000
-        # Apply the operation only where the condition is met
-        orig_xl.loc[mask, 'CanPledge'] = (1 - (orig_xl['Haircut'] / 100)) * orig_xl.loc[mask, 'Valuation']
-        st.dataframe(orig_xl)
-        Total_Collateral = orig_xl['CanPledge'].sum()
-        st.info(f'You can pledge a total of {Total_Collateral}rs')
-    else:
-        # Handle the case where 'ISIN' is not present in the DataFrame
-        st.warning("Upload from Zerodha Console")
