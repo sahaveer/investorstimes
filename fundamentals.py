@@ -101,14 +101,7 @@ def go_bar(df, row_name, color_bar, comp_Name):
     with col1:
         with st.expander(row_name + " DATA"):
             st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    with col3:
-        if st.button(f'{row_name}.png'):
-            image_path = './Downloadimages/' + comp_Name.upper() + " " + row_name.upper() + ".png"
-            savenameas = os.path.basename(image_path)
-            print("TRYING TO SAVE IMAGE")
-            fig.update_layout(autosize=True, paper_bgcolor="#16181A", plot_bgcolor="#23282D", )
-            fig.write_image(image_path, width=1080, height=1080)
-            print("Saved as image")
+
 
     # fig.write_image("./Downloadimages/fig1.png")
     # st.subheader('Downloads:')
@@ -149,13 +142,7 @@ def both_lines(df, row1, row2, color_bar, color_line, comp_Name):
     with col1:
         with st.expander(row1 + "/" + row2 + " DATA"):
             st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    with col3:
-        if st.button(f'{row1} {row2}.png'):
-            image_path = './Downloadimages/' + comp_Name.upper() + " " + row1 + " " + row2 + ".png"
-            savenameas = os.path.basename(image_path)
-            print("TRYING TO SAVE IMAGE")
-            fig.write_image(image_path, width=1080, height=1080)
-            print("Saved as image")
+
 
 
 def bar_line(df, row1, row2, color_bar, comp_Name):
@@ -191,13 +178,7 @@ def bar_line(df, row1, row2, color_bar, comp_Name):
     with col1:
         with st.expander(row1 + "/" + row2 + " DATA"):
             st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    with col3:
-        if st.button(f'{row1} {row2}.png'):
-            image_path = './Downloadimages/' + comp_Name.upper() + " " + row1 + " " + row2 + ".png"
-            savenameas = os.path.basename(image_path)
-            print("TRYING TO SAVE IMAGE")
-            fig.write_image(image_path, width=1080, height=1080)
-            print("Saved as image")
+
 
 
 def qoq_growth(df, row_name, color_bar, comp_Name):
@@ -247,46 +228,6 @@ def qoq_growth(df, row_name, color_bar, comp_Name):
     # fig.add_annotation(text=write_annotation, x=0, y=1, xref="paper", yref="paper",showarrow=False, font=dict(size=18, color=color_bar))
     # fig.update_layout(annotations=[dict(text=write_annotation,x=0,y=1,xref='paper',yref='paper',showarrow=False,font=dict(size=18, color=color_bar))])
     st.plotly_chart(fig, use_container_width=True)
-
-    col1, col3 = st.columns([6, 4])
-    with col1:
-        # title_text = st.text_area(key="TITLE", label="Title Text", value=comp_Name.upper() + " Q2FY24", height=50)
-        subject_text = st.text_area(label="Edit to create subject line in instagram image", value=write_annotation,
-                                    height=25)
-        # with st.expander(row_name + " DATA"):
-        # st.dataframe(new_df.style.format(formatter="{:.1f}"))
-
-    with col3:
-        if st.button(f'{row_name}.png'):
-            image_path = './Downloadimages/' + comp_Name.upper() + " " + row_name + ".png"
-            savenameas = os.path.basename(image_path)
-            # print("TRYING TO SAVE IMAGE")
-            fig.update_layout(autosize=False, paper_bgcolor="#16181A", plot_bgcolor="#23282D", )
-            fig.write_image(image_path, width=1080, height=1080)
-            # (15,186,236)    (235,202,10)
-            # Candara arial
-            title_font = ImageFont.truetype("Candara.ttf", size=96)
-            subject_font = ImageFont.truetype("arial.ttf", size=42)
-
-            title_color = color_dict['black']['rgb']
-            title_box_color = color_bar  # color_dict['blue1']['rgb']
-            subject_box_color = title_color
-            subject_color = color_bar
-
-            if os.path.exists(image_path):
-                instaimage.create_image(centre_image=image_path, title_text=comp_Name.upper() + " Q2FY24",
-                                        title_font=title_font, title_color=title_color, title_box_color=title_box_color,
-                                        subject_text=subject_text, subject_font=subject_font,
-                                        subject_color=subject_color, subject_box_color=subject_box_color,
-                                        output_path=TARGET_FOLDER + comp_Name + row_name + ".png")  # send the path of Centre image not the Image itself
-
-            # print("Saved as image")
-            # with open(image_path, "rb") as file:
-            # btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
-
-    # st.subheader('Downloads:')
-    # generate_excel_Download_link(df2)
-    # generate_html_Download_link(fig)
 
 
 def qoq_growth1(df, color_bar, comp_Name):
@@ -340,29 +281,7 @@ def qoq_growth1(df, color_bar, comp_Name):
     with col2_chart:
         st.plotly_chart(fig, use_container_width=True)
 
-    col1, col3 = st.columns([6, 4])
-    with col1:
-        # title_text = st.text_area(key="TITLE", label="Title Text", value=comp_Name.upper() + " Q2FY24", height=50)
-        subject_text = st.text_area(label="Edit to create subject line in instagram image", value=write_annotation,
-                                    height=25)
-        # with st.expander(row_name + " DATA"):
-        # st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    with col3:
-        if st.button(f'{row_name}.png'):
-            image_path = './Downloadimages/' + comp_Name.upper() + " " + row_name + ".png"
-            savenameas = os.path.basename(image_path)
-            # print("TRYING TO SAVE IMAGE")
-            fig.write_image(image_path, width=1080, height=1080)
-            # (15,186,236)    (235,202,10)
-            if os.path.exists(image_path):
-                instaimage.create_image(centre_image=image_path, title_text=comp_Name.upper() + " Q2FY24",
-                                        title_color=(15, 186, 236), subject_text=subject_text,
-                                        subject_color=(255, 255, 255),
-                                        output_path=TARGET_FOLDER + comp_Name + row_name + ".png")  # send the path of Centre image not the Image itself
 
-            # print("Saved as image")
-            # with open(image_path, "rb") as file:
-            # btn = st.download_button(label="Download",data=file,file_name=savenameas,mime="image/png")
 
     # st.subheader('Downloads:')
     # generate_excel_Download_link(df2)
@@ -393,17 +312,7 @@ def peer_bar(df, Name, comp1_Name, comp2_Name):  # this has 2 series concatinate
     st.plotly_chart(fig, use_container_width=True)
     new_df = pd.concat([df[bar_list[0]], df[bar_list[1]]], axis=1).transpose()
 
-    col1, col3 = st.columns([6, 4])
-    # with col1:
-    # with st.expander(Name + " DATA"):
-    # st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    with col3:
-        if st.button(f'{Name}.png'):
-            image_path = './Downloadimages/' + comp1_Name.upper() + '/' + comp2_Name.upper() + " " + Name + ".png"
-            savenameas = os.path.basename(image_path)
-            print("TRYING TO SAVE IMAGE")
-            fig.write_image(image_path, width=1080, height=1080)
-            print("Saved as image")
+
 
 
 def group_2_bars(df, row1, row2, row3, comp_Name):
@@ -468,18 +377,6 @@ def group_2_bars(df, row1, row2, row3, comp_Name):
     fig.update_traces(textfont=dict(color='yellow', size=14))
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
-
-    col1, col3 = st.columns([6, 4])
-    # with col1:
-    # with st.expander(row1 + "/" + row2 + " DATA"):
-    # st.dataframe(new_df.style.format(formatter="{:.1f}"))
-    with col3:
-        if st.button(f'{row1} {row2} {row3}.png'):
-            image_path = TARGET_FOLDER + comp_Name.upper() + " " + row1 + " " + row2 + " " + row3 + ".png"
-            savenameas = os.path.basename(image_path)
-            print("TRYING TO SAVE IMAGE")
-            fig.write_image(image_path, width=1080, height=1080)
-            print("Saved as image")
 
 
 # THIS IS SPECIFICALLY DESIGNED FOR CASHFLOWs, Where fixed 4 rows are there
