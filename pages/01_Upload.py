@@ -14,7 +14,7 @@ import fundamentals
 import json
 from streamlit_lottie import st_lottie
 
-st.set_page_config(page_title="Upload", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
+st.set_page_config(page_title="Upload", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)
 
 #color_dict = {'Yellow_Lite':"#f8ba43",'Yellow_Dark':"#D6D41B",'Blue_Lite':"#1959BF",'Blue_Dark':"#0971C9",'Green_Lite':"#11A694",'Green_Dark':"#11A64B",}   #"Purple_Lite":"#7019BF",'Purple_Dark':"#9319BF"}
 color_dict = {'blue3':{'hash':'#00A3FE','rgb':'rgb(0,163,254)'},
