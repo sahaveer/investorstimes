@@ -6,14 +6,35 @@ import openpyxl
 from openpyxl.utils import get_column_letter
 
 import nse_bse_search
-#import fromyahoo
+import fromyahoo
 import lastdayprice
-
+import numpy as np
+import concurrent.futures
 import time
 import datetime
 from datetime import timedelta
+import threading
+
 st.set_page_config(page_title="Portfolio", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
 st.title('Portfolio Proficiency Analyzer 🌟')
+
+# Get today's date
+today = datetime.datetime.now()
+# Check if today is a weekend (Saturday or Sunday)
+if today.weekday() >= 5:  # 5 represents Saturday, 6 represents Sunday
+    # Calculate how many days to subtract to get the last weekday (Friday)
+    days_to_subtract = (today.weekday() + 1) % 5  # Add 1 to shift Sunday to Monday
+    # Subtract the appropriate number of days
+    last_weekday = today - timedelta(days=days_to_subtract)
+else:
+    # If today is a weekday, use today's date
+    last_weekday = today
+dd = last_weekday.strftime('%d')
+mm = last_weekday.strftime('%m')
+mmm = last_weekday.strftime('%b')
+yyyy = last_weekday.strftime('%Y')
+yy = last_weekday.strftime('%y')
+live_prices = {}
 
 #tab1, tab2, tab3 = st.tabs(["Portfolio", "Collateral"])
 portfolio_option = option_menu("", ["Portfolio", "Collateral"],
@@ -29,7 +50,9 @@ if portfolio_option == "Portfolio":
     #tradebook = st.file_uploader("upload TradeBook from Zerodha", type= ['xlsx'])
     tradebook_url = 'https://console.zerodha.com/reports/tradebook'
     col2.markdown(f"[***ZERODHA TRADEBOOK***]({tradebook_url})", unsafe_allow_html=True)
-    tradebook = col1.file_uploader("🔗 upload TradeBooks from Zerodha", type= ['xlsx'],accept_multiple_files = True)
+    tradebook = col1.file_uploader("upload TradeBooks from Zerodha", type= ['xlsx'],accept_multiple_files = True)
+    st.info(f'https://www.bseindia.com/download/BhavCopy/Equity/EQ' + dd + mm + yy + '_CSV.ZIP')
+    st.info(f"https://archives.nseindia.com/products/content/sec_bhavdata_full_" + dd + mm + yyyy + ".csv")
 @st.cache_data
 def tradebook_perday(xl):
     if isinstance(xl,pd.DataFrame):
@@ -38,7 +61,6 @@ def tradebook_perday(xl):
         for each in xl['ISIN'].unique():
             # get the first group of SCRIPT
             xl_symbol = xl.groupby("ISIN").get_group(each)
-
             #phase-2      All transactions per each day into one
             df_grouped = xl_symbol[["Symbol","ISIN", "Trade Date", "Trade Type", "Quantity", "Price"]].set_index("ISIN")
             #TO REPLACE ISIN WITH THE SYMBOL NAMES
@@ -53,10 +75,25 @@ def tradebook_perday(xl):
             new_df = (temp_df_grouped.sort_values('Trade Date', ascending=True))
             # converts the multiline index to normal DF
             grouped_df = new_df.reset_index()
-
             grouped_df.drop("Investment", axis=1, inplace=True)
             tradebook_day = pd.concat([tradebook_day,grouped_df])
+
         return tradebook_day
+
+# Create a function to map YCODE to live prices with a default value
+def map_ycode_to_live_price(ycode):
+    return live_prices.get(ycode, 0)
+
+# Create a function to update live prices
+def update_live_prices(final_pf):
+    while True:
+        # Fetch live prices and update the DataFrame
+        for index, row in final_pf.iterrows():
+            ycode = row['YCODE']
+            live_price = fromyahoo.liveprice(ycode)
+            final_pf.at[index, 'LTP'] = live_price
+        # Sleep for a specified interval (e.g., every 5 seconds)
+        time.sleep(5)
 
 @st.cache_data
 def createpf(xl):
@@ -74,30 +111,9 @@ def createpf(xl):
         buy_queue = []  # to save all buy transactions temporarily, {} values in a list
         symbol_isin = {}
         # NOW LETS GROUP EVERY DF BY 'ISIN' instead of 'SYMBOL'
+
         for each in xl['ISIN'].unique():
             grouped_df = xl.groupby("ISIN").get_group(each)
-            #phase-1
-            # get the first group of SCRIPT
-            #xl_symbol = xl.groupby("ISIN").get_group(each)
-            #phase-2      All transactions per each day into one
-            #df_grouped = xl_symbol[["Symbol","ISIN", "Trade Date", "Trade Type", "Quantity", "Price"]].set_index("ISIN")
-            #TO REPLACE ISIN WITH THE SYMBOL NAMES
-            #symbol_isin[each] = (df_grouped['Symbol'].iloc[0])
-            # CALCULATE THE TRADE VAL and then sums up the BUYS/SELLS which happened on the same DATES
-            #df_grouped['Investment'] = df_grouped['Quantity'] * df_grouped['Price']
-            #temp_df_grouped = df_grouped.groupby(["ISIN", "Trade Date", "Trade Type"])[['Quantity', 'Investment']].sum()  # .reset_index()
-            #temp_df_grouped["avg_price"] = temp_df_grouped["Investment"] / temp_df_grouped["Quantity"]
-            #HERE WE GET A DATAFRAME grouped_df WHICH IS MORE LIKE A DAILY TRADEBOOK
-            #new_df = (temp_df_grouped.sort_values('Trade Date', ascending=True))
-            # converts the multiline index to normal DF
-            #grouped_df = new_df.reset_index()
-            #grouped_df.drop("Investment", axis=1, inplace=True)
-            #st.dataframe(grouped_df)
-            #GROUPED_DF gives us so that all dates are combined to one and for each stock
-            # SO, WE DID GROUPED AND THEN COMBINED DAY's SEVERAL ORDER FILLS
-            #st.dataframe(grouped_df)
-            # NOW, LETS work to get two Dataframes, one is SOLD_DF which keeps a record of closed orders
-            # Second DF is the final OPEN positions which will be saved in open_pf : represents current portfolio
             buy_queue = []
             remaining_sell_quantity = 0
             # we will try to get 2 seperate dataframes from the grouped_df : 1 is sold_df and one is current_df
@@ -112,8 +128,6 @@ def createpf(xl):
                         buy_queue.append(
                             {'ISIN': each, 'Trade Date': trade_date, 'Trade Type': trade_type, 'Quantity': quantity,
                              'avg_price': avg_price})
-                        # print(" ADDING BUY in THE QUEUE : ")
-                        # print(buy_queue)
                     elif trade_type == 'sell':
                         # Process 'sell' transactions
                         remaining_sell_quantity = quantity
@@ -121,8 +135,6 @@ def createpf(xl):
                         # Check if there are 'buy' transactions in the queue to offset the 'sell' quantity
                         while remaining_sell_quantity > 0 and (buy_queue):
                             # get data from queue
-                            # print("$$$$$$$$$$ PICKING THE FIRST QUEUE IS : $$$$$$$$$$$$$$$")
-                            # print(buy_queue[0])
                             buy_transaction = buy_queue[0]  # Get the 'buy' transaction at index i
                             buy_date = buy_transaction['Trade Date']
                             buy_qty = buy_transaction['Quantity']
@@ -177,7 +189,6 @@ def createpf(xl):
                                 buy_queue.pop(0)
                                 remaining_sell_quantity -= buy_qty
 
-
             # Append any remaining 'buy' transactions to the result DataFrame
             open_pf = pd.concat([open_pf,pd.DataFrame(buy_queue)],ignore_index=True)
             closed_pf = pd.DataFrame(sold_data)
@@ -196,25 +207,19 @@ def createpf(xl):
         final_pf['prev_pnl'] = pd.to_numeric(final_pf['prev_pnl'], errors='coerce')
 
         #LETS COMBINE ISIN AND CODE PROVIDED BY ZERODHA
-        #final_pf['ISIN CODE'] =
         final_pf['CODE'] = final_pf['ISIN'].apply(nse_bse_search.isin_to_code)
-        #st.dataframe(final_pf)
-        #final_pf['LTP'] = final_pf['CODE'].apply(fromyahoo.liveprice)
-        final_pf['LTP'] = final_pf['CODE'].apply(lastdayprice.getltp)
-        final_pf['FreeShares'] = final_pf['prev_pnl'] / final_pf['LTP']
-        final_pf = final_pf.round()
+        final_pf['YCODE'] = final_pf['ISIN'].apply(nse_bse_search.isin_to_ycode)
+
+        #final_pf['LTP'] = final_pf['YCODE'].apply(fromyahoo.liveprice)
+        final_pf['LastDay'] = final_pf['CODE'].apply(lastdayprice.getltp)
+        final_pf['FreeShares'] = final_pf['prev_pnl'] / final_pf['LastDay']
 
         closed_pf['CODE'] = closed_pf['ISIN'].apply(nse_bse_search.isin_to_code)
-        #closed_pf['LTP'] = closed_pf['CODE'].apply(fromyahoo.liveprice)
-        closed_pf['LTP'] = closed_pf['CODE'].apply(lastdayprice.getltp)
-        closed_pf['FreeShares'] = closed_pf['PnL']/closed_pf['LTP']
-        closed_pf['ifOPEN'] = (closed_pf['LTP'] - closed_pf['Buy Price'])*closed_pf['Quantity']
-
-        closedpf_pnl = closed_pf['PnL'].sum()
-        st.info(f'Total Profit of Loss for CLOSED POrtfolio is {closedpf_pnl}')
-
-        only_sell_pf['CODE'] = only_sell_pf['ISIN'].apply(nse_bse_search.isin_to_code)
-        only_sell_pf['LTP'] = only_sell_pf['CODE'].apply(lastdayprice.getltp)
+        closed_pf['YCODE'] = closed_pf['ISIN'].apply(nse_bse_search.isin_to_ycode)
+        #closed_pf['LTP'] = closed_pf['YCODE'].apply(fromyahoo.liveprice)
+        closed_pf['LastDay'] = closed_pf['CODE'].apply(lastdayprice.getltp)
+        closed_pf['FreeShares'] = closed_pf['PnL']/closed_pf['LastDay']
+        closed_pf['ifOPEN'] = ((closed_pf['LastDay'] - closed_pf['Buy Price']) * closed_pf['Quantity']) - closed_pf['PnL']
 
         return final_pf,closed_pf,only_sell_pf
 
@@ -244,19 +249,20 @@ if portfolio_option == "Portfolio":
                 #st.dataframe(df)
         # Remove duplicates based on all columns
         orig_xl = orig_xl.drop_duplicates()
-        #ProcessPortfolio.createpf(xl)
+
         if 'ISIN' in orig_xl.columns:
             # Continue with your processing logic
             orig_xl = orig_xl.sort_values('Trade Date', ascending=True)
-            #st.info("Original DF from all the uploaded files")
+            # THIS needs to be SAVED in DATABASE in the Signed-IN Username
+            #           ("Original DF from all the uploaded files is stored as orig_xl dataframe in the code")
             #st.dataframe(orig_xl)
             #createpf(orig_xl)
+
             # Get a tradebook where mulitple exeuction on same day is combined to one
             tradebook_daily = tradebook_perday(orig_xl)
-            st.dataframe(tradebook_daily)
+            #st.dataframe(tradebook_daily)
 
             show_pf, show_closed_pf, show_only_sell_pf =createpf(tradebook_daily)
-
             # this is to only SHOW the users by replacing ISIN to Symbol Name
             st.info("OPEN PORTFOLIO : ")
             st.dataframe(show_pf.set_index('CODE').sort_values('Investment',ascending=False), use_container_width=True)
@@ -265,18 +271,23 @@ if portfolio_option == "Portfolio":
             #st.dataframe(show_pf.set_index('Symbol').sort_values('Investment',ascending=False))
 
             st.info("CLosed Portfolio")
-            st.dataframe(show_closed_pf.set_index('CODE').sort_values('PnL',ascending=False), use_container_width=True)
-            #closedpf_pnl_open = closed_pf['ifOPEN'].sum()
-            #st.info(f'Total Profit of Loss for CLOSED POrtfolio is {closedpf_pnl}')
-            #st.info(f'If not booked : then PnL would have been {closedpf_pnl_open}')
-
+            st.dataframe(show_closed_pf.set_index('CODE').sort_values('Sell Date',ascending=True), use_container_width=True)
+            closedpf_pnl = round(show_closed_pf['PnL'].sum()/100000,1)
+            closedpf_pnl_open = round(show_closed_pf['ifOPEN'].sum()/100000,1)
+            st.info(f'Realised Profit/Loss is {closedpf_pnl}Laks')
+            st.info(f'If held till your closed positions till now, PnL would have been {closedpf_pnl_open}Laks')
+            if (closedpf_pnl_open>closedpf_pnl):
+                st.error(f"So you would have made more {round(closedpf_pnl_open-closedpf_pnl,1)}Laks if positions were kept Open.")
+                st.info("You should even consider the fact that, non-rotating cash amoung ur stocks mean, You need to do SIP at your entry levels")
+            else:
+                st.succes("You made better returns by doing Positional Investment. Keep Going")
             sip_investment = st.slider(label="What if you SIPped on your closed Portfolio ? Chose your SIP amount per stock :", min_value=1000, max_value=100000, value=2000, step=1000)
             #st.text_input(label="Enter Principal per stock to know your SIP value now")
             if st.button('Show SIP'):
-                sip_pf = show_closed_pf[['CODE','Buy Date','Buy Price','LTP']].copy()
+                sip_pf = show_closed_pf[['CODE','Buy Date','Buy Price','LastDay']].copy()
                 #sip_pf['Invested'] = sip_investment
                 sip_pf.loc[:, 'Invested'] = sip_investment
-                sip_pf['PnL'] = sip_pf['LTP'] * (sip_pf['Invested'] / sip_pf['Buy Price'])
+                sip_pf['PnL'] = sip_pf['LastDay'] * (sip_pf['Invested'] / sip_pf['Buy Price'])
                 sip_pf = sip_pf.drop_duplicates(subset=['CODE', 'Buy Date'])
                 st.dataframe(sip_pf.sort_values('Buy Date',ascending=True))
                 SIP_totCapital = sip_pf['Invested'].sum()
@@ -311,18 +322,15 @@ if portfolio_option == "Portfolio":
 
             # IMPROVEMENTS
             #any new upload of the excel sheet shud only append the initial dataframe xl
-
-
-
-
-
             end_time = time.time() - start_time
-            st.info(f"Downloaded in {start_time - end_time} sec")
+            st.info(f"Downloaded in {end_time} sec")
         else:
             # Handle the case where 'ISIN' is not present in the DataFrame
             st.success("Make Sure to Upload from the Start to avoid Malfunctioning")
 
-
+        # Use a separate thread to continuously update live prices
+        thread = threading.Thread(target=update_live_prices, args=(show_pf,))
+        thread.start()
 
 
 # Define a custom function to calculate 'Allowed' based on 'Broker limit reached'
@@ -341,7 +349,7 @@ if portfolio_option == "Collateral":
     colx.subheader("🔍 How it works:")
     holding_url = 'https://console.zerodha.com/portfolio/holdings'
     st.markdown(f"[***ZERODHA HOLDINGS***]({holding_url})", unsafe_allow_html=True)
-    holding = colx.file_uploader("🔗 Upload your holdings Excel file", type= ['xlsx'])
+    holding = colx.file_uploader("Upload your holdings Excel file", type= ['xlsx'])
     pledging_path = 'C:/Users/sahaveer/PycharmProjects/webapps/Scripts/itimes local/zerodha pledging.xlsx'
     ISIN_haircut_mapping = None
     if holding is not None:

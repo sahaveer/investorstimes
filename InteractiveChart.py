@@ -11,7 +11,7 @@ import json
 from streamlit_lottie import st_lottie
 from streamlit_lottie import st_lottie_spinner
 import nse_bse_search
-st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)
+st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
 
 global bsecodenum_codename
 global bsecodename_codenum
