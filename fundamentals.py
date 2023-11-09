@@ -101,14 +101,13 @@ def go_bar(df, row_name, color_bar, comp_Name):
     cola1, cola3 = st.columns([6, 4])
     with cola3:
         image_path = './downloadimages/' + comp_Name.upper() + " " + row_name + ".png"
-        savenameas = os.path.basename(image_path)
         fig.update_layout(autosize=False, paper_bgcolor="#16181A", plot_bgcolor="#23282D", )
         fig.write_image(image_path, width=1080, height=1080)
         with open(image_path, "rb") as file:
             btn = st.download_button(
                 label="Download",
                 data=file,
-                file_name=savenameas,
+                file_name=f"{comp_Name.upper()} {row1} {row2}",
                 mime="image/png")
 
     # fig.write_image("./Downloadimages/fig1.png")
@@ -153,14 +152,13 @@ def both_lines(df, row1, row2, color_bar, color_line, comp_Name):
     cola1, cola3 = st.columns([6, 4])
     with cola3:
         image_path = './downloadimages/' + comp_Name.upper() + " " + row1 +'-'+ row2 + ".png"
-        savenameas = os.path.basename(image_path)
         fig.update_layout(autosize=False, paper_bgcolor="#16181A", plot_bgcolor="#23282D", )
         fig.write_image(image_path, width=1080, height=1080)
         with open(image_path, "rb") as file:
             btn = st.download_button(
                 label="Download",
                 data=file,
-                file_name=savenameas,
+                file_name=f"{comp_Name.upper()} {row1} {row2}",
                 mime="image/png")
 
 
@@ -199,14 +197,13 @@ def bar_line(df, row1, row2, color_bar, comp_Name):
     cola1, cola3 = st.columns([6, 4])
     with cola3:
         image_path = './downloadimages/' + comp_Name.upper() + " " + row1 + '-' + row2 + ".png"
-        savenameas = os.path.basename(image_path)
         fig.update_layout(autosize=False, paper_bgcolor="#16181A", plot_bgcolor="#23282D", )
         fig.write_image(image_path, width=1080, height=1080)
         with open(image_path, "rb") as file:
             btn = st.download_button(
                 label="Download",
                 data=file,
-                file_name=savenameas,
+                file_name=f"{comp_Name.upper()} {row1} {row2}",
                 mime="image/png")
 
 
@@ -261,14 +258,13 @@ def qoq_growth(df, row_name, color_bar, comp_Name):
     cola1, cola3 = st.columns([6, 4])
     with cola3:
         image_path = './downloadimages/' + comp_Name.upper() + " " + row_name + ".png"
-        savenameas = os.path.basename(image_path)
         fig.update_layout(autosize=False, paper_bgcolor="#16181A", plot_bgcolor="#23282D", )
         fig.write_image(image_path, width=1080, height=1080)
         with open(image_path, "rb") as file:
             btn = st.download_button(
                 label="Download",
                 data=file,
-                file_name=savenameas,
+                file_name=f"{comp_Name.upper()} {row1} {row2}",
                 mime="image/png")
 
 def qoq_growth1(df, color_bar, comp_Name):
@@ -429,7 +425,7 @@ def group_2_bars(df, row1, row2, row3, comp_Name):
             btn = st.download_button(
                 label="Download",
                 data=file,
-                file_name=savenameas,
+                file_name=f"{comp_Name.upper()} {row1} {row2}",
                 mime="image/png")
 
 
@@ -510,14 +506,13 @@ def go_group_bar(df, row_name, color_bar):
     cola1, cola3 = st.columns([6, 4])
     with cola3:
         image_path = './downloadimages/' + comp_Name.upper() + " " + row_name + ".png"
-        savenameas = os.path.basename(image_path)
         fig.update_layout(autosize=False, paper_bgcolor="#16181A", plot_bgcolor="#23282D", )
         fig.write_image(image_path, width=1080, height=1080)
         with open(image_path, "rb") as file:
             btn = st.download_button(
                 label="Download",
                 data=file,
-                file_name=savenameas,
+                file_name=f"{comp_Name.upper()} {row1} {row2}",
                 mime="image/png")
 
 def get_tables(datasht, file):
