@@ -314,9 +314,7 @@ if portfolio_option == "Portfolio":
             # Handle the case where 'ISIN' is not present in the DataFrame
             st.success("Make Sure to Upload from the Start to avoid Malfunctioning")
 
-        # Use a separate thread to continuously update live prices
-        thread = threading.Thread(target=update_live_prices, args=(show_pf,))
-        thread.start()
+        
 
 
 # Define a custom function to calculate 'Allowed' based on 'Broker limit reached'
