@@ -137,6 +137,8 @@ if selected:
         with st.sidebar:
             #color_key = st.selectbox("Bar Color", color_dict.keys())
             color_key = 'blue3'
+
+        col_sub1,col_sub2 = st.columns([2,2])
         tree_folder = comp_Name[0].upper()
 
 
