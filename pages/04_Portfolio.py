@@ -6,7 +6,7 @@ import openpyxl
 from openpyxl.utils import get_column_letter
 
 import nse_bse_search
-import fromyahoo
+
 import lastdayprice
 import numpy as np
 import concurrent.futures
@@ -80,20 +80,6 @@ def tradebook_perday(xl):
 
         return tradebook_day
 
-# Create a function to map YCODE to live prices with a default value
-def map_ycode_to_live_price(ycode):
-    return live_prices.get(ycode, 0)
-
-# Create a function to update live prices
-def update_live_prices(final_pf):
-    while True:
-        # Fetch live prices and update the DataFrame
-        for index, row in final_pf.iterrows():
-            ycode = row['YCODE']
-            live_price = fromyahoo.liveprice(ycode)
-            final_pf.at[index, 'LTP'] = live_price
-        # Sleep for a specified interval (e.g., every 5 seconds)
-        time.sleep(5)
 
 @st.cache_data
 def createpf(xl):
