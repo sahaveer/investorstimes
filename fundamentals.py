@@ -733,7 +733,7 @@ def stmt_for_qoq(df):
     # THE FOLLOWIGN CODE CALCULATES THE GROWTH OR DEGROWTH
     df.columns = pd.to_datetime(df.columns)
     last_quarter = df.columns[-1]
-    sentence = f"{datetime.datetime.strftime(last_quarter, '%d-%b-%Y')} #Quarterly #result\n"
+    sentence = f"{datetime.datetime.strftime(last_quarter, '%d-%b-%Y')} #result\n"
     # Create a list of metrics
     metrics = ['SALES', 'OPERATING PROFIT', 'NET PROFIT']
     # qtr_string = last_quarter.strptime(last_quarter,"%b%Y")

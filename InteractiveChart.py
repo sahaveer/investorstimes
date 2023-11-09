@@ -11,7 +11,7 @@ import json
 from streamlit_lottie import st_lottie
 from streamlit_lottie import st_lottie_spinner
 import nse_bse_search
-st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
+st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)
 
 global bsecodenum_codename
 global bsecodename_codenum
@@ -63,21 +63,26 @@ for each_pickl in glob.glob('./pickl/**/*.pkl', recursive=True):
     elif file_name_only.endswith('Quarterly.pkl'):
         pickle_name = file_name_only.split('Quarterly.pkl')[0].strip()#st.info(pickle_name)
         qtr_pnl = pd.read_pickle(f'./pickl/{tree_folder}/{file_name_only}')
+        try:
+            timedelta_90_days = pd.Timedelta(days=90)
+            # st.info(datetime.datetime.now().strptime-qtr_pnl.columns[-1])
+            # st.info(type(datetime.datetime.now()-qtr_pnl.columns[-1]))
+            if (datetime.datetime.now() - qtr_pnl.columns[
+                -1]) < timedelta_90_days and pickle_name not in latest_quarterly_stocks:
+                latest_quarterly_stocks.append(pickle_name)
+        except:
+            pass
+
     if pickle_name not in listed_stocks:
         listed_stocks.append(pickle_name)
 
-    try:
-        timedelta_90_days = pd.Timedelta(days=90)
-        #st.info(datetime.datetime.now().strptime-qtr_pnl.columns[-1])
-        #st.info(type(datetime.datetime.now()-qtr_pnl.columns[-1]))
-        if (datetime.datetime.now()-qtr_pnl.columns[-1])<timedelta_90_days and pickle_name not in latest_quarterly_stocks:
-            latest_quarterly_stocks.append(pickle_name)
-    except:
-        pass
-    #if len(pickle_name.split())>1:
-        #st.info(pickle_name)
-    #stocks_dict[pickle_name] = each_pickl
-    #listed_stocks += [pickle_name]
+
+with st.sidebar:
+    show_latest_quarter = st.checkbox(label='Only latest Quarter',value=True)
+    if show_latest_quarter:
+        selected = st.selectbox("Chose Company 📈 ",latest_quarterly_stocks )
+    else:
+        selected = st.selectbox("Chose Company 📈 ", listed_stocks)
 with st.sidebar:
     st_lottie(
         lottie_data_analysis,
@@ -88,74 +93,184 @@ with st.sidebar:
         height=None,
         width=None,
         key="barchart",)
-    st.write(r"Chose among {} listed stocks available".format(str(len(listed_stocks))))
-    #selected = st.selectbox("Chose Company", listed_stocks)
+
+st.title(r"👈 Chose among {} listed stocks".format(str(len(listed_stocks))))
+#selected = st.selectbox("Chose Company", listed_stocks)
 
 
 col1, col2, col3, col4 = st.columns([2, 2, 2, 2])
-with col4:
-    show_latest_quarter = st.checkbox(label='Only latest Quarter',value=True)
 
-with col1:
-    if show_latest_quarter:
-        selected = st.selectbox("Chose Company 📈 ",latest_quarterly_stocks )
-    else:
-        selected = st.selectbox("Chose Company 📈 ", listed_stocks)
 if selected:
+    comp_Name = str(selected)
+    ticker_symbol_info = str('''<!-- TradingView Widget BEGIN -->
+                                            <div class="tradingview-widget-container">
+                                              <div class="tradingview-widget-container__widget"></div>
+                                              <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
+                                              <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
+                                              {
+                                              "symbol": "xyx",
+                                              "width": "100%",
+                                              "locale": "en",
+                                              "colorTheme": "dark",
+                                              "isTransparent": true
+                                            }
+                                              </script>
+                                            </div>
+                                            <!-- TradingView Widget END -->''')
+    components.html(ticker_symbol_info.replace("xyx", comp_Name), height=200)
+    sentence = f"{comp_Name}: "
+
     funda_tech = option_menu("", ["Funda_Chart", 'Tech_Chart'],
                              icons=['house', '📈 '], menu_icon="cast", default_index=0, orientation="horizontal")
-    comp_Name = str(selected)
     nsecode = nse_bse_search.nse_code
+
     if funda_tech == "Funda_Chart":
         if selected in nsecode:
             nse_screener_address = "https://www.screener.in/company/" + str(selected)
-            with col4:
+            with st.sidebar:
                 st.markdown(f"[***NSE SCREENER***]({nse_screener_address})", unsafe_allow_html=True)
         elif selected in bsecodename_codenum.keys():
             codenum = bsecodename_codenum[selected]
             bse_screener_address = "https://www.screener.in/company/" + str(codenum)
-            with col4:
+            with st.sidebar:
                 st.markdown(f"[***BSE SCREENER***]({bse_screener_address})", unsafe_allow_html=True)
-        with col3:
+        with st.sidebar:
             #color_key = st.selectbox("Bar Color", color_dict.keys())
             color_key = 'blue3'
         tree_folder = comp_Name[0].upper()
-        df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Yearly.pkl')
-        #st.dataframe(df_comp)
-        qtr_pnl = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Quarterly.pkl')
-        #pnl, balancesht, qtr_pnl = fundamentals.develop_data(qtr_pnl, df_comp)
-        pnl, balancesht = fundamentals.develop_yearly(df_comp)
-        qtr_pnl = fundamentals.develop_quarterly(qtr_pnl)
-        try:
-            df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
-        except Exception as AttributeError:
-            pass
-        try:
-            qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
-        except Exception as AttributeError:
-            pass
-        sub_choose = option_menu("", fundamentals.funda_menu,default_index=3,orientation="horizontal")
 
-        # KEY DATA PULLED FROM TRADINGVIEW
-        if sub_choose == fundamentals.funda_menu[3]:                  #QUARTERLY
-            index_list = ["key_params"] + list(qtr_pnl.index)
-            with col2:
-                param = st.selectbox("SubChose", index_list)
-            if param == "key_params":
-                with st.expander("QUARTERLY PROFIT & LOSS DATA"):
-                    st.dataframe(qtr_pnl.style.format(formatter="{:.1f}"))
-                fundamentals.qoq_growth(qtr_pnl, "SALES", color_dict[color_key]['hash'], comp_Name)
-                fundamentals.group_2_bars(qtr_pnl, "SALES","PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
-                fundamentals.qoq_growth(qtr_pnl, "PROFIT BEFORE TAX", color_dict[color_key]['hash'], comp_Name)
-                fundamentals.qoq_growth(qtr_pnl, "NET PROFIT", color_dict[color_key]['hash'], comp_Name)
-            else:
-                with col4:
-                    qoq_checked = st.checkbox("QoQ Growth%")
-                if qoq_checked:
-                    fundamentals.qoq_growth(qtr_pnl, param, color_dict[color_key]['hash'], comp_Name)
-                else:
-                    fundamentals.go_bar(qtr_pnl, param, color_dict[color_key]['hash'], comp_Name)
 
+        if not os.path.exists(f'./pickl/{tree_folder}/{selected} Quarterly.pkl') :
+            df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Yearly.pkl')
+            # st.dataframe(df_comp)
+            pnl, balancesht = fundamentals.develop_yearly(df_comp)
+            try:
+                df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
+            except Exception as AttributeError:
+                pass
+            with col_sub2:
+                sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_keys)
+
+        elif os.path.exists(f'./pickl/{tree_folder}/{selected} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{selected} Yearly.pkl'):
+            df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Yearly.pkl')
+            #st.dataframe(df_comp)
+            pnl, balancesht = fundamentals.develop_yearly(df_comp)
+            try:
+                df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
+            except Exception as AttributeError:
+                pass
+
+            qtr_pnl = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Quarterly.pkl')
+            # pnl, balancesht, qtr_pnl = fundamentals.develop_data(qtr_pnl, df_comp)
+            qtr_pnl = fundamentals.develop_quarterly(qtr_pnl)
+            try:
+                qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
+            except Exception as AttributeError:
+                pass
+            with col_sub2:
+                sub_choose = st.selectbox("Fundamentals", fundamentals.funda_menu)
+
+        #with col_sub1:
+            #st.subheader('📊 ' + comp_Name)
+        #sub_choose = option_menu("", fundamentals.funda_menu,default_index=3,orientation="horizontal")
+        if sub_choose == "PROFIT&LOSS":            # YEARLY PNL
+            sentence += fundamentals.stmt_for_qoq(pnl)
+            coltw1, coltw2 = st.columns([4, 1])
+            with coltw1:
+                st.text_area(label="👉 INSIGHTS", value=sentence, height=180)
+
+            Ykeydata,YSales, YOtherIncome,YExpenses,YOperatingProfit,YNetProfit,Ytable = st.tabs(['Key Data','SALES','OTHER INCOME','EXPENSES','OPERATING PROFIT','NET PROFIT','Table'])
+
+            with Ytable:
+                # THE FOLLOWIGN CODE CALCULATES THE GROWTH OR DEGROWTH
+                st.dataframe(pnl.style.format(formatter="{:.1f}"))
+            with Ykeydata:
+                fundamentals.group_2_bars(pnl, "SALES", "PROFIT BEFORE TAX","NET PROFIT",comp_Name)
+                fundamentals.both_lines(pnl, "OPM %", "NPM %", color_dict['red1']['hash'], color_dict['green1']['hash'], comp_Name)
+            with YSales:
+                fundamentals.qoq_growth(pnl, 'SALES', color_dict[color_key]['hash'], comp_Name)
+            with YOtherIncome:
+                fundamentals.go_bar(pnl, 'OTHER INCOME', color_dict[color_key]['hash'], comp_Name)
+            with YExpenses:
+                fundamentals.go_bar(pnl, 'EXPENSES', color_dict[color_key]['hash'], comp_Name)
+            with YOperatingProfit:
+                fundamentals.bar_line(pnl, 'OPERATING PROFIT','OPM %', color_dict[color_key]['hash'], comp_Name)
+            with YNetProfit:
+                fundamentals.bar_line(pnl,'NET PROFIT','NPM %',color_dict[color_key]['hash'],comp_Name)
+
+        if sub_choose == 'QTR PnL':                #QUARTERLY PNL
+            sentence += fundamentals.stmt_for_qoq(qtr_pnl)
+            coltw1, coltw2 = st.columns([4, 1])
+            with coltw1:
+                st.text_area(label="👉 INSIGHTS", value=sentence, height=180)
+            with coltw2:
+                if st.button('Send Telegram'):
+                    bot.send_message(chat_id=chat_id, text=sentence)
+
+            Qkeydata, QSales, QOtherIncome, QExpenses, QOperatingProfit, QNetProfit, Qtable = st.tabs(
+                ['Key Data', 'SALES', 'OTHER INCOME', 'EXPENSES', 'OPERATING PROFIT', 'NET PROFIT', 'Table'])
+            with Qtable:
+                st.dataframe(qtr_pnl)
+                # Replace the first row with NaN for the QoQ columns
+                #df.loc[0, ['SALES_QoQ', 'NET PROFIT_QoQ', 'OPERATING PROFIT_QoQ']] = np.nan
+                #df = df.transpose()
+                #st.dataframe(qtr_pnl.style.format(formatter="{:.1f}"))
+
+            with Qkeydata:
+                fundamentals.group_2_bars(qtr_pnl, "SALES",  "PROFIT BEFORE TAX","NET PROFIT",comp_Name)
+                fundamentals.both_lines(qtr_pnl, "OPM %", "NPM %", color_dict['red1']['hash'], color_dict['green1']['hash'],comp_Name)
+                fundamentals.bar_line(qtr_pnl,'NET PROFIT','NPM %',color_dict[color_key]['hash'],comp_Name)
+            with QSales:
+                fundamentals.qoq_growth(qtr_pnl,"SALES", color_dict[color_key]['hash'],comp_Name)
+            with QOtherIncome:
+                fundamentals.go_bar(qtr_pnl, 'OTHER INCOME', color_dict[color_key]['hash'], comp_Name)
+            with QExpenses:
+                fundamentals.go_bar(qtr_pnl, 'EXPENSES', color_dict[color_key]['hash'], comp_Name)
+            with QOperatingProfit:
+                fundamentals.bar_line(qtr_pnl, 'OPERATING PROFIT','OPM %', color_dict[color_key]['hash'], comp_Name)
+            with QNetProfit:
+                fundamentals.bar_line(qtr_pnl,'NET PROFIT','NPM %',color_dict[color_key]['hash'],comp_Name)
+
+
+        if sub_choose == 'BALANCE SHEET':        #YEARLY BALANCE SHEET
+            BSKeyData, BStable, BSReserves, BSBorrowings, BSOtherAssets, BSOtherLiabilities, BSReceivables, BSInventory, BSCWIP = st.tabs(['KeyData','table','Reserves','Borrowings','OtherAssets','OtherLiabilities','Receivables','Inventory','CWIP'])
+            with BSKeyData:
+                fundamentals.bar_line(balancesht,"RESERVES","BORROWINGS",color_dict[color_key]['hash'],comp_Name)
+                fundamentals.bar_line(balancesht,"RECEIVABLES","INVENTORY",color_dict[color_key]['hash'],comp_Name)
+                fundamentals.bar_line(balancesht, "DEBTOR DAYS", "INVENTORY TURNOVER",color_dict[color_key]['hash'], comp_Name)
+                fundamentals.bar_line(balancesht, "CAPITAL WORK IN PROGRESS", "INVESTMENTS",color_dict[color_key]['hash'], comp_Name)
+                #fundamentals.both_lines(balancesht, "ROCE", "ROE", color_dict[color_key]['hash'], color_line,comp_Name)
+            with BStable:
+                st.dataframe(balancesht.style.format(formatter="{:.1f}"))
+            with BSCWIP:
+                fundamentals.go_bar(balancesht, "CAPITAL WORK IN PROGRESS", color_dict[color_key]['hash'],comp_Name)
+            with BSInventory:
+                fundamentals.go_bar(balancesht, "INVENTORY", color_dict[color_key]['hash'],comp_Name)
+            with BSReserves:
+                fundamentals.qoq_growth(balancesht, "RESERVES", color_dict[color_key]['hash'],comp_Name)
+            with BSBorrowings:
+                fundamentals.qoq_growth(balancesht, "BORROWINGS", color_dict[color_key]['hash'],comp_Name)
+            with BSReceivables:
+                fundamentals.qoq_growth(balancesht, "RECEIVABLES", color_dict[color_key]['hash'],comp_Name)
+            with BSOtherAssets:
+                fundamentals.qoq_growth(balancesht, "OTHER ASSETS", color_dict[color_key]['hash'],comp_Name)
+            with BSOtherLiabilities:
+                fundamentals.qoq_growth(balancesht, "OTHER LIABILITIES", color_dict[color_key]['hash'],comp_Name)
+
+        if sub_choose == 'CASH FLOW':        # YEARLY CASH FLOWS
+            CF, CFTab, CFop, CFinv, CFfin, NetCF = st.tabs(["KeyData","Table","Operating Cash","Investing Cash","Financing Cash","Net Cash Flow"])
+            with CFTab:
+                st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
+            with CF:
+                fundamentals.go_group_bar(df_comp.loc[sub_choose], "cash_flows", color_dict[color_key]['hash'])
+            with CFop:
+                fundamentals.qoq_growth(df_comp.loc[sub_choose], "CASH FROM OPERATING ACTIVITY", color_dict[color_key]['hash'],comp_Name)
+            with CFfin:
+                fundamentals.go_bar(df_comp.loc[sub_choose], "CASH FROM FINANCING ACTIVITY", color_dict[color_key]['hash'], comp_Name)
+            with CFinv:
+                fundamentals.go_bar(df_comp.loc[sub_choose], "CASH FROM INVESTING ACTIVITY", color_dict[color_key]['hash'],comp_Name)
+            with NetCF:
+                fundamentals.go_bar(df_comp.loc[sub_choose], "NET CASH FLOW", color_dict[color_key]['hash'], comp_Name)
         if sub_choose == fundamentals.funda_menu[4]:
             key_data = str("""<!-- TradingView Widget BEGIN -->
                             <div class="tradingview-widget-container">
@@ -200,69 +315,6 @@ if selected:
                 components.html(key_data.replace("xx",comp_Name), height=1080)
             with coly:
                 components.html(comp_profile.replace("xxyy",comp_Name), height=1080)
-
-        # YEARLY SALES
-        if sub_choose == fundamentals.funda_menu[0]:
-            index_list = ["key_params"] + list(pnl.index)
-            with col2:
-                param = st.selectbox("Params", index_list)
-            if param == "key_params":
-                with st.expander("YEARLY PROFIT & LOSS DATA"):
-                    st.dataframe(pnl.style.format(formatter="{:.1f}"))
-                fundamentals.qoq_growth(pnl, "SALES", color_dict[color_key]['hash'], comp_Name)
-                fundamentals.group_2_bars(pnl, "SALES","PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
-            else:
-                with col4:
-                    qoq_checked = st.checkbox("QoQ Growth%")
-                if qoq_checked:
-                    fundamentals.qoq_growth(pnl, param, color_dict[color_key]['hash'], comp_Name)
-                else:
-                    fundamentals.go_bar(pnl, param, color_dict[color_key]['hash'], comp_Name)
-
-        # YEARLY BALANCE SHEET
-        if sub_choose == fundamentals.funda_menu[1]:
-            index_list = ["key_params"] + list(balancesht.index)
-            #param = st.sidebar.selectbox("Params", index_list)
-            with col2:
-                param = st.selectbox("Params", index_list)
-            if param == "key_params":
-                with st.expander("YEARLY BALANCE SHEET DATA"):
-                    st.dataframe(balancesht.style.format(formatter="{:.1f}"))
-                fundamentals.bar_line(balancesht, "RESERVES", "BORROWINGS", color_dict[color_key]['hash'],
-                                      comp_Name)
-                fundamentals.bar_line(balancesht, "DEBTOR DAYS", "INVENTORY TURNOVER",color_dict[color_key]['hash'], comp_Name)
-                fundamentals.bar_line(balancesht, "CAPITAL WORK IN PROGRESS", "INVESTMENTS",color_dict[color_key]['hash'], comp_Name)
-                #fundamentals.both_lines(balancesht, "ROCE", "ROE", color_dict[color_key]['hash'], color_line,comp_Name)
-                fundamentals.bar_line(balancesht, "RECEIVABLES", "INVENTORY", color_dict[color_key]['hash'], comp_Name)
-                # fundamentals.go_bar(balancesht, "CAPITAL WORK IN PROGRESS", color_dict[color_key]['hash'], comp_Name)
-                fundamentals.go_bar(balancesht, "CASH & BANK", color_dict[color_key]['hash'], comp_Name)
-            else:
-                with col4:
-                    qoq_checked = st.checkbox("QoQ Growth%")
-                if qoq_checked:
-                    fundamentals.qoq_growth(balancesht, param, color_dict[color_key]['hash'], comp_Name)
-                else:
-                    fundamentals.go_bar(balancesht,param, color_dict[color_key]['hash'], comp_Name)
-
-
-        # YEARLY CASH AND FLOW
-        if sub_choose == fundamentals.funda_menu[2]:
-            index_list = ["key_params"] + list(df_comp.loc[sub_choose].index)
-            # param = st.sidebar.selectbox("SubChose", index_list)
-            # param = st.sidebar.selectbox("Params", index_list)
-            with col2:
-                param = st.selectbox("Params", index_list)
-            if param == "key_params":
-                with st.expander("YEARLY CASH FLOWS DATA"):
-                    st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
-                fundamentals.go_group_bar(df_comp.loc[sub_choose], "cash_flows", color_dict[color_key]['hash'])
-            else:
-                with col4:
-                    qoq_checked = st.checkbox("QoQ Growth%")
-                if qoq_checked:
-                    fundamentals.qoq_growth(df_comp.loc[sub_choose], param, color_dict[color_key]['hash'], comp_Name)
-                else:
-                    fundamentals.go_bar(df_comp.loc[sub_choose], param, color_dict[color_key]['hash'], comp_Name)
 
 
     if funda_tech == "Tech_Chart":
