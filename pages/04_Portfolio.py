@@ -51,8 +51,8 @@ if portfolio_option == "Portfolio":
     tradebook_url = 'https://console.zerodha.com/reports/tradebook'
     col2.markdown(f"[***ZERODHA TRADEBOOK***]({tradebook_url})", unsafe_allow_html=True)
     tradebook = col1.file_uploader("upload TradeBooks from Zerodha", type= ['xlsx'],accept_multiple_files = True)
-    st.info(f'https://www.bseindia.com/download/BhavCopy/Equity/EQ' + dd + mm + yy + '_CSV.ZIP')
-    st.info(f"https://archives.nseindia.com/products/content/sec_bhavdata_full_" + dd + mm + yyyy + ".csv")
+    #st.info(f'https://www.bseindia.com/download/BhavCopy/Equity/EQ' + dd + mm + yy + '_CSV.ZIP')
+    #st.info(f"https://archives.nseindia.com/products/content/sec_bhavdata_full_" + dd + mm + yyyy + ".csv")
 @st.cache_data
 def tradebook_perday(xl):
     if isinstance(xl,pd.DataFrame):

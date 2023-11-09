@@ -39,6 +39,7 @@ def load_lottieurl(url: str):
 lottie_data_analytics = load_lottiefile("./lottie/data-analytics.json")
 
 with st.sidebar:
+    uploaded_file = st.file_uploader("🔗 Upload here :", type=['xlsx', 'xlsm'],accept_multiple_files=True)  # Only accepts xlsx,xlsm file format
     st.markdown(""" <style> .font {
     font-size:22px ; font-family: 'Cooper Black'; color: #FF9633;} 
     </style> """, unsafe_allow_html=True)
@@ -57,7 +58,6 @@ with st.sidebar:
         key="barchart", )
 
 st.title("📈 Don't See the Latest Charts?")
-uploaded_file = st.file_uploader("🔗 Upload here :", type=['xlsx','xlsm'],accept_multiple_files = True)  # Only accepts xlsx,xlsm file format
 
 if uploaded_file is not None:
     if len(uploaded_file)==1:

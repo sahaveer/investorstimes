@@ -20,6 +20,7 @@ bsecodenum_codename, bsecodename_codenum = nse_bse_search.bsecodenum_bsecodename
 # PARAMS
 funda_keys = ['PROFIT&LOSS', 'BALANCE SHEET',
               'CASH FLOW']  # dont change the order of this list as it will affect the keys used in Yearly df
+
 # **************************************************************************************************
 listed_stocks = []
 latest_quarterly_stocks = []
@@ -116,8 +117,8 @@ if selected:
             with col4:
                 st.markdown(f"[***BSE SCREENER***]({bse_screener_address})", unsafe_allow_html=True)
         with col3:
-            color_key = st.selectbox("Bar Color", color_dict.keys())
-
+            #color_key = st.selectbox("Bar Color", color_dict.keys())
+            color_key = 'blue3'
         tree_folder = comp_Name[0].upper()
         df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Yearly.pkl')
         #st.dataframe(df_comp)

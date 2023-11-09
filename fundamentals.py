@@ -94,11 +94,22 @@ def go_bar(df, row_name, color_bar, comp_Name):
                       font_color="white")  # legend=dict(x=0,y=1.0,bgcolor='rgba(255, 255, 255, 0)',bordercolor='rgba(255, 255, 255, 0)'),
     new_df = pd.concat([df.loc[row_name]], axis=1).transpose()
     st.plotly_chart(fig, use_container_width=True)
-    col1, col3 = st.columns([6, 4])
-    with col1:
-        with st.expander(row_name + " DATA"):
-            st.dataframe(new_df.style.format(formatter="{:.1f}"))
-
+    #col1, col3 = st.columns([6, 4])
+    #with col1:
+        #with st.expander(row_name + " DATA"):
+            #st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    cola1, cola3 = st.columns([6, 4])
+    with cola3:
+        image_path = './downloadimages/' + comp_Name.upper() + " " + row_name + ".png"
+        savenameas = os.path.basename(image_path)
+        fig.update_layout(autosize=False, paper_bgcolor="#16181A", plot_bgcolor="#23282D", )
+        fig.write_image(image_path, width=1080, height=1080)
+        with open(image_path, "rb") as file:
+            btn = st.download_button(
+                label="Download",
+                data=file,
+                file_name=savenameas,
+                mime="image/png")
 
     # fig.write_image("./Downloadimages/fig1.png")
     # st.subheader('Downloads:')
@@ -135,11 +146,22 @@ def both_lines(df, row1, row2, color_bar, color_line, comp_Name):
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
 
-    col1, col3 = st.columns([6, 4])
-    with col1:
-        with st.expander(row1 + "/" + row2 + " DATA"):
-            st.dataframe(new_df.style.format(formatter="{:.1f}"))
-
+    #col1, col3 = st.columns([6, 4])
+    #with col1:
+        #with st.expander(row1 + "/" + row2 + " DATA"):
+            #st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    cola1, cola3 = st.columns([6, 4])
+    with cola3:
+        image_path = './downloadimages/' + comp_Name.upper() + " " + row1 +'-'+ row2 + ".png"
+        savenameas = os.path.basename(image_path)
+        fig.update_layout(autosize=False, paper_bgcolor="#16181A", plot_bgcolor="#23282D", )
+        fig.write_image(image_path, width=1080, height=1080)
+        with open(image_path, "rb") as file:
+            btn = st.download_button(
+                label="Download",
+                data=file,
+                file_name=savenameas,
+                mime="image/png")
 
 
 def bar_line(df, row1, row2, color_bar, comp_Name):
@@ -171,11 +193,21 @@ def bar_line(df, row1, row2, color_bar, comp_Name):
     fig.update_xaxes(tickfont=dict(color='white'), )
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
-    col1, col3 = st.columns([6, 4])
-    with col1:
-        with st.expander(row1 + "/" + row2 + " DATA"):
-            st.dataframe(new_df.style.format(formatter="{:.1f}"))
-
+    #with cola1:
+        #with st.expander(row1 + "/" + row2 + " DATA"):
+            #st.dataframe(new_df.style.format(formatter="{:.1f}"))
+    cola1, cola3 = st.columns([6, 4])
+    with cola3:
+        image_path = './downloadimages/' + comp_Name.upper() + " " + row1 + '-' + row2 + ".png"
+        savenameas = os.path.basename(image_path)
+        fig.update_layout(autosize=False, paper_bgcolor="#16181A", plot_bgcolor="#23282D", )
+        fig.write_image(image_path, width=1080, height=1080)
+        with open(image_path, "rb") as file:
+            btn = st.download_button(
+                label="Download",
+                data=file,
+                file_name=savenameas,
+                mime="image/png")
 
 
 def qoq_growth(df, row_name, color_bar, comp_Name):
@@ -226,6 +258,18 @@ def qoq_growth(df, row_name, color_bar, comp_Name):
     # fig.update_layout(annotations=[dict(text=write_annotation,x=0,y=1,xref='paper',yref='paper',showarrow=False,font=dict(size=18, color=color_bar))])
     st.plotly_chart(fig, use_container_width=True)
 
+    cola1, cola3 = st.columns([6, 4])
+    with cola3:
+        image_path = './downloadimages/' + comp_Name.upper() + " " + row_name + ".png"
+        savenameas = os.path.basename(image_path)
+        fig.update_layout(autosize=False, paper_bgcolor="#16181A", plot_bgcolor="#23282D", )
+        fig.write_image(image_path, width=1080, height=1080)
+        with open(image_path, "rb") as file:
+            btn = st.download_button(
+                label="Download",
+                data=file,
+                file_name=savenameas,
+                mime="image/png")
 
 def qoq_growth1(df, color_bar, comp_Name):
     col1_chart, col2_chart = st.columns([3, 8])
@@ -375,6 +419,19 @@ def group_2_bars(df, row1, row2, row3, comp_Name):
     st.plotly_chart(fig, use_container_width=True)
     new_df = new_df.transpose()
 
+    cola1, cola3 = st.columns([6, 4])
+    with cola3:
+        image_path = './downloadimages/' + comp_Name.upper() + " " + row1 + "-" + row2 + "-" + row3 + ".png"
+        savenameas = os.path.basename(image_path)
+        fig.update_layout(autosize=False, paper_bgcolor="#16181A", plot_bgcolor="#23282D",)
+        fig.write_image(image_path, width=1080, height=1080)
+        with open(image_path, "rb") as file:
+            btn = st.download_button(
+                label="Download",
+                data=file,
+                file_name=savenameas,
+                mime="image/png")
+
 
 # THIS IS SPECIFICALLY DESIGNED FOR CASHFLOWs, Where fixed 4 rows are there
 def go_group_bar(df, row_name, color_bar):
@@ -450,7 +507,18 @@ def go_group_bar(df, row_name, color_bar):
 
     # Show the plot
     st.plotly_chart(fig, use_container_width=True)
-
+    cola1, cola3 = st.columns([6, 4])
+    with cola3:
+        image_path = './downloadimages/' + comp_Name.upper() + " " + row_name + ".png"
+        savenameas = os.path.basename(image_path)
+        fig.update_layout(autosize=False, paper_bgcolor="#16181A", plot_bgcolor="#23282D", )
+        fig.write_image(image_path, width=1080, height=1080)
+        with open(image_path, "rb") as file:
+            btn = st.download_button(
+                label="Download",
+                data=file,
+                file_name=savenameas,
+                mime="image/png")
 
 def get_tables(datasht, file):
     for i in range(1, datasht.max_row + 1):
