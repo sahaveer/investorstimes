@@ -205,7 +205,7 @@ def createpf(xl):
         #closed_pf['LTP'] = closed_pf['YCODE'].apply(fromyahoo.liveprice)
         closed_pf['LastDay'] = closed_pf['CODE'].apply(lastdayprice.getltp)
         closed_pf['FreeShares'] = closed_pf['PnL']/closed_pf['LastDay']
-        closed_pf['ifOPEN'] = ((closed_pf['LastDay'] - closed_pf['Buy Price']) * closed_pf['Quantity']) - closed_pf['PnL']
+        closed_pf['PnL_toDate'] = ((closed_pf['LastDay'] - closed_pf['Buy Price']) * closed_pf['Quantity'])
 
         return final_pf,closed_pf,only_sell_pf
 
@@ -259,7 +259,7 @@ if portfolio_option == "Portfolio":
             st.info("CLosed Portfolio")
             st.dataframe(show_closed_pf.set_index('CODE').sort_values('Sell Date',ascending=True), use_container_width=True)
             closedpf_pnl = round(show_closed_pf['PnL'].sum()/100000,1)
-            closedpf_pnl_open = round(show_closed_pf['ifOPEN'].sum()/100000,1)
+            closedpf_pnl_open = round(show_closed_pf['PnL_toDate'].sum()/100000,1)
             st.info(f'Realised Profit/Loss is {closedpf_pnl}Laks')
             st.info(f'If held till your closed positions till now, PnL would have been {closedpf_pnl_open}Laks')
             if (closedpf_pnl_open>closedpf_pnl):
