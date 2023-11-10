@@ -95,7 +95,8 @@ st.subheader(f"{str(len(latest_quarterly_stocks))} stocks announced {last_announ
 #selected = st.selectbox("Chose Company", listed_stocks)
 
 col1, col2, col3, col4 = st.columns([2, 2, 2, 2])
-show_latest_quarter = st.checkbox(label='Only latest Quarter',value=True)
+with col1:
+    show_latest_quarter = st.checkbox(label='Only latest Quarter',value=True)
     if show_latest_quarter:
         selected = st.selectbox("Chose Company 📈 ",latest_quarterly_stocks )
     else:
