@@ -67,9 +67,10 @@ for each_pickl in glob.glob('./pickl/**/*.pkl', recursive=True):
             timedelta_90_days = pd.Timedelta(days=90)
             # st.info(datetime.datetime.now().strptime-qtr_pnl.columns[-1])
             # st.info(type(datetime.datetime.now()-qtr_pnl.columns[-1]))
-            if (datetime.datetime.now() - qtr_pnl.columns[
-                -1]) < timedelta_90_days and pickle_name not in latest_quarterly_stocks:
+            if (datetime.datetime.now() - qtr_pnl.columns[-1]) < timedelta_90_days and pickle_name not in latest_quarterly_stocks:
                 latest_quarterly_stocks.append(pickle_name)
+                last_announced_quarter = datetime.datetime.strftime(qtr_pnl.columns[-1],'%b%Y')
+
         except:
             pass
 
@@ -77,12 +78,7 @@ for each_pickl in glob.glob('./pickl/**/*.pkl', recursive=True):
         listed_stocks.append(pickle_name)
 
 
-with st.sidebar:
-    show_latest_quarter = st.checkbox(label='Only latest Quarter',value=True)
-    if show_latest_quarter:
-        selected = st.selectbox("Chose Company 📈 ",latest_quarterly_stocks )
-    else:
-        selected = st.selectbox("Chose Company 📈 ", listed_stocks)
+
 with st.sidebar:
     st_lottie(
         lottie_data_analysis,
@@ -94,12 +90,16 @@ with st.sidebar:
         width=None,
         key="barchart",)
 
-st.title(r"👈 Chose among {} listed stocks".format(str(len(listed_stocks))))
+st.title(f"👇 Chose among {str(len(listed_stocks))} listed stocks")
+st.subheader(f"{str(len(latest_quarterly_stocks))} stocks announced {last_announced_quarter} Quarterly Results")
 #selected = st.selectbox("Chose Company", listed_stocks)
 
-
 col1, col2, col3, col4 = st.columns([2, 2, 2, 2])
-
+show_latest_quarter = st.checkbox(label='Only latest Quarter',value=True)
+    if show_latest_quarter:
+        selected = st.selectbox("Chose Company 📈 ",latest_quarterly_stocks )
+    else:
+        selected = st.selectbox("Chose Company 📈 ", listed_stocks)
 if selected:
     comp_Name = str(selected)
     ticker_symbol_info = str('''<!-- TradingView Widget BEGIN -->
@@ -138,7 +138,6 @@ if selected:
             #color_key = st.selectbox("Bar Color", color_dict.keys())
             color_key = 'blue3'
 
-        col_sub1,col_sub2 = st.columns([2,2])
         tree_folder = comp_Name[0].upper()
 
 
@@ -150,7 +149,7 @@ if selected:
                 df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
             except Exception as AttributeError:
                 pass
-            with col_sub2:
+            with col2:
                 sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_keys)
 
         elif os.path.exists(f'./pickl/{tree_folder}/{selected} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{selected} Yearly.pkl'):
@@ -169,7 +168,7 @@ if selected:
                 qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
             except Exception as AttributeError:
                 pass
-            with col_sub2:
+            with col2:
                 sub_choose = st.selectbox("Fundamentals", fundamentals.funda_menu)
 
         #with col_sub1:
