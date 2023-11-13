@@ -85,7 +85,7 @@ if pdf_upload is not None:
 	rupee_pattern = r'Rs.'
 	replace_rupee = 'Rs'
 	moderator_pattern = r'(Thank you|Please go ahead.|Moderator | Thank you very much.)'
-	replace_oksir = 'ok Sir|OK SIR|ok sir|Ok sir|Ok Sir|ok.|Ok.|Ok|Yes|Yes.|yes|yes.|YES|Okay|okay'
+	replace_oksir = 'ok Sir|OK SIR|ok sir|Ok sir|Ok Sir|ok.|Ok.|Ok|Yes|Yes.|yes|yes.|YES|Okay|okay|Okay.|okay.'
 	replace = ''
 	texxt = re.sub(pattern, replace, text)
 	texxt = re.sub(date_pattern, replace, texxt)
