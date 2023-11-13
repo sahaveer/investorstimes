@@ -11,6 +11,12 @@ import json
 from streamlit_lottie import st_lottie
 from streamlit_lottie import st_lottie_spinner
 import nse_bse_search
+import nltk
+# Download NLTK stopwords data
+nltk.download("stopwords")
+nltk.download('punkt')
+
+
 st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)
 
 global bsecodenum_codename
@@ -38,17 +44,6 @@ color_dict = {'blue3':{'hash':'#00A3FE','rgb':'rgb(0,163,254)'},
               }
 # color_list = ["#D6D41B","#f8ba43","#0971C9","#1959BF","#11A694","#11A64B","#7019BF","#9319BF"]
 color_line = "Red"
-
-def load_lottiefile(filepath: str):
-    with open(filepath, "r") as f:
-        return json.load(f)
-def load_lottieurl(url: str):
-    r = requests.get(url)
-    if r.status_code != 200:
-        return None
-    return r.json()
-lottie_bar = load_lottiefile("./lottie/barchart.json")  # replace link to local lottie file
-lottie_data_analysis = load_lottiefile("./lottie/data-analysis.json")
 
 
 #lottie_hello = load_lottieurl("https://assets9.lottiefiles.com/packages/lf20_M9p23l.json")
@@ -79,16 +74,6 @@ for each_pickl in glob.glob('./pickl/**/*.pkl', recursive=True):
 
 
 
-with st.sidebar:
-    st_lottie(
-        lottie_data_analysis,
-        speed=0.7,
-        reverse=False,
-        loop=True,
-        quality="low",  # medium ; high
-        height=None,
-        width=None,
-        key="barchart",)
 
 st.title(f"👇 Chose among {str(len(listed_stocks))} listed stocks")
 st.subheader(f"{str(len(latest_quarterly_stocks))} stocks announced {last_announced_quarter} Quarterly Results")
