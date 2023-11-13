@@ -48,8 +48,10 @@ with col2:
 if pdf_upload is not None:
 	# Download NLTK stopwords data
 	nltk.download("stopwords")
+	nltk.download('punkt')
+
 	# Continue with your script
-	stopWords = set(nltk.corpus.stopwords.words("popular"))
+	stopWords = set(nltk.corpus.stopwords.words("english"))
 
 	name_file = pdf_upload.name.split('.')[0]
 	col3, col4, col5 = st.columns([0.1,0.1,0.8])
