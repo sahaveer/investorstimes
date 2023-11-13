@@ -11,10 +11,6 @@ import json
 from streamlit_lottie import st_lottie
 from streamlit_lottie import st_lottie_spinner
 import nse_bse_search
-import nltk
-# Download NLTK stopwords data
-nltk.download("stopwords")
-nltk.download('punkt')
 
 
 st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)

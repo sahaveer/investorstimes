@@ -671,7 +671,7 @@ def develop_yearly(df_comp):
 
 def stmt_for_qoq(df):
     # THE FOLLOWIGN CODE CALCULATES THE GROWTH OR DEGROWTH
-    df.columns = pd.to_datetime(df.columns)
+    df.columns = pd.to_datetime(df.columns, format='%d-%b-%Y')
     last_quarter = df.columns[-1]
     sentence = f"{datetime.datetime.strftime(last_quarter, '%d-%b-%Y')} #result\n"
     # Create a list of metrics

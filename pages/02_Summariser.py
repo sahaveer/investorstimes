@@ -46,7 +46,14 @@ with col2:
 	avgperc = st.number_input("Context Length",1.00,2.00,1.25,0.05)
 
 if pdf_upload is not None:
+	# Determine the path to the NLTK data directory within your code directory
+	nltk_data_path = os.path.join(os.path.dirname(__file__), "nltk_data")
 
+	# Set NLTK data path explicitly
+	nltk.data.path.append(nltk_data_path)
+	# Download NLTK stopwords data
+	nltk.download("stopwords")
+	nltk.download('punkt')
 
 	# Continue with your script
 	stopWords = set(nltk.corpus.stopwords.words("english"))
