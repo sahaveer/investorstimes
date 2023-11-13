@@ -61,6 +61,8 @@ if pdf_upload is not None:
 
 	name_file = pdf_upload.name.split('.')[0]
 	col3, col4, col5 = st.columns([0.1,0.1,0.8])
+
+	#read pdf file and extract text
 	with pdfplumber.open(pdf_upload) as pdf:
 		with col3:
 			start_from_pageno = st.number_input("Start from", 1, len(pdf.pages), 2, 1)
@@ -83,12 +85,22 @@ if pdf_upload is not None:
 	rupee_pattern = r'Rs.'
 	replace_rupee = 'Rs'
 	moderator_pattern = r'(Thank you|Please go ahead.|Moderator | Thank you very much.)'
+	replace_oksir = 'ok Sir|OK SIR|ok sir|Ok sir|Ok Sir|ok.|Ok.|Ok|Yes|Yes.|yes|yes.|YES|Okay|okay'
 	replace = ''
 	texxt = re.sub(pattern, replace, text)
 	texxt = re.sub(date_pattern, replace, texxt)
 	texxt = re.sub(moderator_pattern,replace, texxt)
 	texxt = re.sub(rupee_pattern,replace_rupee,texxt)
 	texxt = re.sub('\s{2}',' ',texxt)
+	texxt = re.sub(replace_oksir,replace,texxt)
+
+	st.write("____")
+	del_further = st.text_input("Delete any particular word/s seperated by ,")
+	if del_further is not None:
+		del_these = del_further.split(',')
+		for each in del_these:
+			texxt = re.sub(each, replace, texxt)
+
 	words = word_tokenize(texxt)
 
 	# Creating a frequency table to keep the score of each word
@@ -125,12 +137,7 @@ if pdf_upload is not None:
 	for sentence in sentences:
 		if (sentence in sentenceValue) and (sentenceValue[sentence] > (avgperc * average)):
 			summary += "\n" + sentence
-	st.write("____")
-	del_further = st.text_input("Delete any particular word/s")
-	if del_further is not None:
-		del_these = del_further.split(',')
-		for each in del_these:
-			summary = re.sub(each,replace, summary)
+
 	edited_txt = st.text_area("Edit further and generate ur own file",value=summary,height=500)
 	st.info('the {} words of uploaded document is concised to {} words'.format(len(text),len(edited_txt)))
 	st.download_button(label = "Download as txt",data= edited_txt,file_name=name_file+'.txt')
