@@ -197,15 +197,15 @@ def createpf(xl):
         final_pf['YCODE'] = final_pf['ISIN'].apply(nse_bse_search.isin_to_ycode)
 
         #final_pf['LTP'] = final_pf['YCODE'].apply(fromyahoo.liveprice)
-        final_pf['LastDay'] = final_pf['CODE'].apply(lastdayprice.getltp)
-        final_pf['FreeShares'] = final_pf['prev_pnl'] / final_pf['LastDay']
+        final_pf['CLosingPrice'] = final_pf['CODE'].apply(lastdayprice.getltp)
+        final_pf['FreeShares'] = final_pf['prev_pnl'] / final_pf['CLosingPrice']
 
         closed_pf['CODE'] = closed_pf['ISIN'].apply(nse_bse_search.isin_to_code)
         closed_pf['YCODE'] = closed_pf['ISIN'].apply(nse_bse_search.isin_to_ycode)
         #closed_pf['LTP'] = closed_pf['YCODE'].apply(fromyahoo.liveprice)
-        closed_pf['LastDay'] = closed_pf['CODE'].apply(lastdayprice.getltp)
-        closed_pf['FreeShares'] = closed_pf['PnL']/closed_pf['LastDay']
-        closed_pf['PnL_toDate'] = ((closed_pf['LastDay'] - closed_pf['Buy Price']) * closed_pf['Quantity'])
+        closed_pf['CLosingPrice'] = closed_pf['CODE'].apply(lastdayprice.getltp)
+        closed_pf['FreeShares'] = closed_pf['PnL']/closed_pf['CLosingPrice']
+        closed_pf['PnL_toDate'] = ((closed_pf['CLosingPrice'] - closed_pf['Buy Price']) * closed_pf['Quantity'])
 
         return final_pf,closed_pf,only_sell_pf
 
@@ -213,6 +213,15 @@ if portfolio_option == "Portfolio":
     #loc = "./TRADEBOOK.xlsx"
     if tradebook is not None:
         start_time = time.time()
+        # PLEDGING EXCEL FILE - PART1
+        ISIN_haircut_mapping = None
+        # PROCESSING THE PLEDGING FILE FROM ZERODHA
+        pledging_xl = pd.read_excel(pledging_path)
+        pledging_xl['Allowed'] = pledging_xl.apply(calculate_allowed, axis=1)
+        # st.dataframe(pledging_xl)
+        # Create a dictionary mapping 'Symbol' values to 'PnL' values from 'closed_pf'
+        ISIN_haircut_mapping = pledging_xl.set_index('ISIN')['Allowed'].to_dict()
+
         i=0
         orig_xl = pd.DataFrame()
         for each_xl in tradebook:
@@ -250,64 +259,80 @@ if portfolio_option == "Portfolio":
 
             show_pf, show_closed_pf, show_only_sell_pf =createpf(tradebook_daily)
             # this is to only SHOW the users by replacing ISIN to Symbol Name
-            st.info("OPEN PORTFOLIO : ")
-            st.dataframe(show_pf.set_index('CODE').sort_values('Investment',ascending=False), use_container_width=True)
-            #show_pf['Symbol'] = show_pf['Symbol'].replace(symbol_isin)             # Instead of replacing ISIN with Symbol. Best is to get the yahoo codes for these
-            #print(show_pf.set_index('Symbol').sort_values('Investment',ascending=True))
-            #st.dataframe(show_pf.set_index('Symbol').sort_values('Investment',ascending=False))
+            Open_Portfolio, CLosed_Portfolio, Make_SIP = st.tabs(["Open Position", "Closed Position", "Make SIP"])
+            # st.info("OPEN PORTFOLIO : ")
+            fundamentals.excel_link_to_download(tradebook_daily, "Download History.xlsx", "Download Tradebook")
+            with Open_Portfolio:
+                # Use the map function to assign 'PnL' values to 'final_pf' based on 'Symbol' matching
+                show_pf['Allowed %'] = show_pf['ISIN'].map(ISIN_haircut_mapping)  ##'Broker limit reached' == 'No'
+                show_pf['Valuation'] = show_pf['Quantity'] * show_pf['CLosingPrice']
+                show_pf['CanPledge'] = (show_pf['Allowed %'] / 100) * show_pf['Valuation']
 
-            st.info("CLosed Portfolio")
-            st.dataframe(show_closed_pf.set_index('CODE').sort_values('Sell Date',ascending=True), use_container_width=True)
-            closedpf_pnl = round(show_closed_pf['PnL'].sum()/100000,1)
-            closedpf_pnl_open = round(show_closed_pf['PnL_toDate'].sum()/100000,1)
-            st.info(f'Realised Profit/Loss is {closedpf_pnl}Laks')
-            st.info(f'If held till your closed positions till now, PnL would have been {closedpf_pnl_open}Laks')
-            if (closedpf_pnl_open>closedpf_pnl):
-                st.error(f"So you would have made more {round(closedpf_pnl_open-closedpf_pnl,1)}Laks if positions were kept Open.")
-                st.info("You should even consider the fact that, non-rotating cash amoung ur stocks mean, You need to do SIP at your entry levels")
-            else:
-                st.succes("You made better returns by doing Positional Investment. Keep Going")
-            sip_investment = st.slider(label="What if you SIPped on your closed Portfolio ? Chose your SIP amount per stock :", min_value=1000, max_value=100000, value=2000, step=1000)
-            #st.text_input(label="Enter Principal per stock to know your SIP value now")
-            if st.button('Show SIP'):
-                sip_pf = show_closed_pf[['CODE','Buy Date','Buy Price','LastDay']].copy()
-                #sip_pf['Invested'] = sip_investment
-                sip_pf.loc[:, 'Invested'] = sip_investment
-                sip_pf['PnL'] = sip_pf['LastDay'] * (sip_pf['Invested'] / sip_pf['Buy Price'])
-                sip_pf = sip_pf.drop_duplicates(subset=['CODE', 'Buy Date'])
-                st.dataframe(sip_pf.sort_values('Buy Date',ascending=True))
-                SIP_totCapital = sip_pf['Invested'].sum()
-                SIP_PnL = sip_pf['PnL'].sum()
-                return_on_SIP = round(((SIP_PnL - SIP_totCapital) / SIP_totCapital)*100)
-                st.success(f"Your SIP generated Profit/Loss of {round(SIP_PnL/100000,2)}lak a return of ({return_on_SIP}%) on your Total SIP Investment of {round(SIP_totCapital/100000,2)}lak")
-                # Group by year and month and calculate total investment
-                result=pd.DataFrame()
-                sip_pf['Buy Date'] = pd.to_datetime(sip_pf['Buy Date'])
-                result['Year'] = sip_pf['Buy Date'].dt.year
-                result['Month'] = sip_pf['Buy Date'].dt.month
-                result['Invested'] = sip_pf['Invested']
-                result = result.groupby([ 'Year' , 'Month' ])['Invested'].sum().reset_index()
-                # Rename the columns for clarity
-                #result = result.rename(columns={'Buy Date': 'Year', 'Buy Date': 'Month', 'Invested': 'Total Investment'})
+                show_pf1 = show_pf[["CODE", "YCODE", "Quantity", "Price", "Investment", "CLosingPrice", "FreeShares",
+                                    "CanPledge"]].copy()
+                st.dataframe(show_pf1.set_index('CODE').sort_values('Investment', ascending=False),
+                             use_container_width=True)
+                st.info("INVALID ENTRIES : ")
+                st.dataframe(show_only_sell_pf, use_container_width=True)
+                # show_only_sell_pf['Symbol'] = show_only_sell_pf['Symbol'].replace(symbol_isin)
+                # print(show_only_sell_pf.set_index('Symbol'))
+                # st.dataframe(show_only_sell_pf.set_index('Symbol'))
+                Total_Collateral = show_pf1['CanPledge'].sum()
+                st.info(f'You can pledge a total of {round(Total_Collateral)}rs')
 
-                st.error(f"By the way : MAX SIP amount per month went upto {result['Invested'].max()} and minimum of {result['Invested'].min()}. Average SIP amount would be {round(result['Invested'].mean())}")
-                with st.expander("See Your Total Monthly SIP Amount PER MONTH"):
-                    st.dataframe(result)
+            # st.info("CLosed Portfolio")
+            with CLosed_Portfolio:
+                st.dataframe(show_closed_pf.set_index('CODE').sort_values('Sell Date', ascending=True),
+                             use_container_width=True)
+                closedpf_pnl = round(show_closed_pf['PnL'].sum() / 100000, 1)
+                closedpf_pnl_open = round(show_closed_pf['PnL_toDate'].sum() / 100000, 1)
+                st.info(f'Realised Profit/Loss is {closedpf_pnl}Laks')
+                st.info(f'If held all your closed positions till now, PnL would have been {closedpf_pnl_open}Laks')
+                if (closedpf_pnl_open > closedpf_pnl):
+                    st.error(
+                        f"So you would have made more {round(closedpf_pnl_open - closedpf_pnl, 1)}Laks if positions were kept Open.")
+                    st.info(
+                        "You should even consider the fact that, non-rotating cash amoung ur stocks mean, You need to do SIP at your entry levels")
+                else:
+                    st.succes("You made better returns by doing Positional Investment. Keep Going")
+                # show_closed_pf['Symbol'] = show_closed_pf['Symbol'].replace(symbol_isin)
+                # print(show_closed_pf.set_index('Symbol'))
+                # st.dataframe(show_closed_pf.set_index('Symbol'))
 
+            with Make_SIP:
+                sip_investment = st.slider(
+                    label="What if you SIPped on your closed Portfolio ? Chose your SIP amount per stock :",
+                    min_value=1000, max_value=100000, value=2000, step=1000)
+                # st.text_input(label="Enter Principal per stock to know your SIP value now")
+                if st.button('Show SIP'):
+                    sip_pf = show_closed_pf[['CODE', 'Buy Date', 'Buy Price', 'CLosingPrice']].copy()
+                    # sip_pf['Invested'] = sip_investment
+                    sip_pf.loc[:, 'Invested'] = sip_investment
+                    sip_pf['PnL'] = sip_pf['CLosingPrice'] * (sip_pf['Invested'] / sip_pf['Buy Price'])
+                    sip_pf = sip_pf.drop_duplicates(subset=['CODE', 'Buy Date'])
+                    st.dataframe(sip_pf.sort_values('Buy Date', ascending=True))
+                    SIP_totCapital = sip_pf['Invested'].sum()
+                    SIP_PnL = sip_pf['PnL'].sum()
+                    return_on_SIP = round(((SIP_PnL - SIP_totCapital) / SIP_totCapital) * 100)
+                    st.success(
+                        f"Your SIP generated Profit/Loss of {round(SIP_PnL / 100000, 2)}lak a return of ({return_on_SIP}%) on your Total SIP Investment of {round(SIP_totCapital / 100000, 2)}lak")
+                    # Group by year and month and calculate total investment
+                    result = pd.DataFrame()
+                    sip_pf['Buy Date'] = pd.to_datetime(sip_pf['Buy Date'])
+                    result['Year'] = sip_pf['Buy Date'].dt.year
+                    result['Month'] = sip_pf['Buy Date'].dt.month
+                    result['Invested'] = sip_pf['Invested']
+                    result = result.groupby(['Year', 'Month'])['Invested'].sum().reset_index()
+                    # Rename the columns for clarity
+                    # result = result.rename(columns={'Buy Date': 'Year', 'Buy Date': 'Month', 'Invested': 'Total Investment'})
 
-            #show_closed_pf['Symbol'] = show_closed_pf['Symbol'].replace(symbol_isin)
-            #print(show_closed_pf.set_index('Symbol'))
-            #st.dataframe(show_closed_pf.set_index('Symbol'))
-
-
-            st.info("INVALID ENTRIES : ")
-            st.dataframe(show_only_sell_pf, use_container_width=True)
-            #show_only_sell_pf['Symbol'] = show_only_sell_pf['Symbol'].replace(symbol_isin)
-            #print(show_only_sell_pf.set_index('Symbol'))
-            #st.dataframe(show_only_sell_pf.set_index('Symbol'))
+                    st.error(
+                        f"By the way : MAX SIP amount per month went upto {result['Invested'].max()} and minimum of {result['Invested'].min()}. Average SIP amount would be {round(result['Invested'].mean())}")
+                    with st.expander("See Your Total Monthly SIP Amount PER MONTH"):
+                        st.dataframe(result)
 
             # IMPROVEMENTS
-            #any new upload of the excel sheet shud only append the initial dataframe xl
+            # any new upload of the excel sheet shud only append the initial dataframe xl
             end_time = time.time() - start_time
             st.info(f"Downloaded in {end_time} sec")
         else:

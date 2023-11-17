@@ -48,14 +48,14 @@ TARGET_FOLDER = "C:/Users/sahaveer/OneDrive/Documents/bhavcopy/"
 # write_on_chart = "<i>@itimesalgo        </i>"
 write_on_chart = "<i>https://itimesalgo.streamlit.app/</i>"
 
-
-def generate_excel_Download_link(df):
+def excel_link_to_download(df,filename,label):
     # Credit Excel: https://discuss.streamlit.io/t/how-to-add-a-Download-excel-csv-function-to-a-button/4474/5
     towrite = BytesIO()
     df.to_excel(towrite, encoding="utf-8", index=False, header=True)  # write to BytesIO buffer
     towrite.seek(0)  # reset pointer
     b64 = base64.b64encode(towrite.read()).decode()
-    href = f'<a href="data:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;base64,{b64}" Download="data_Download.xlsx">Download Excel File</a>'
+    #href = f'<a href="data:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;base64,{b64}" Download="data_Download.xlsx">Download Excel File</a>'
+    href = f'<a href="data:file/xlsx;base64,{b64}" download="{filename}">{label}</a>'
     return st.markdown(href, unsafe_allow_html=True)
 
 
@@ -66,7 +66,7 @@ def generate_html_Download_link(fig):
     towrite = BytesIO(towrite.getvalue().encode())
     b64 = base64.b64encode(towrite.read()).decode()
     href = f'<a href="data:text/html;charset=utf-8;base64, {b64}" Download="plot.html">Download Plot</a>'
-    return st.markdown(href, unsafe_allow_html=True)
+    st.markdown(href, unsafe_allow_html=True)
 
 
 def go_bar(df, row_name, color_bar, comp_Name):
