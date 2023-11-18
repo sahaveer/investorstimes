@@ -186,9 +186,6 @@ if selected:
             coltw1, coltw2 = st.columns([4, 1])
             with coltw1:
                 st.text_area(label="👉 INSIGHTS", value=sentence, height=180)
-            with coltw2:
-                if st.button('Send Telegram'):
-                    bot.send_message(chat_id=chat_id, text=sentence)
 
             Qkeydata, QSales, QOtherIncome, QExpenses, QOperatingProfit, QNetProfit, Qtable = st.tabs(
                 ['Key Data', 'SALES', 'OTHER INCOME', 'EXPENSES', 'OPERATING PROFIT', 'NET PROFIT', 'Table'])

@@ -34,7 +34,7 @@ DataSheet_Key_Values = ['PROFIT & LOSS', 'Dividend Amount', 'Quarters', 'Operati
 # funda_keys = ['PROFIT&LOSS','BALANCE SHEET','CASH FLOW','KEY_DATA']    # dont change the order of this list as it will affect the keys used in Yearly df
 # funda_menu = funda_keys + ['QTR PnL']
 funda_keys = ['PROFIT&LOSS', 'BALANCE SHEET', 'CASH FLOW']
-funda_menu = funda_keys + ['QTR PnL', 'Key_Data']  # used for showing the menu in Interactivechat.py
+funda_menu = ['QTR PnL'] + funda_keys + ['Key_Data']  # used for showing the menu in Interactivechat.py
 
 color_hover = "darkgrey"
 color_background = "grey"

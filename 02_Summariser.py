@@ -8,10 +8,6 @@ import streamlit as st
 import re
 import json
 from streamlit_lottie import st_lottie
-from streamlit_lottie import st_lottie_spinner
-import json
-from streamlit_lottie import st_lottie
-from streamlit_lottie import st_lottie_spinner
 st.set_page_config(page_title="Summarize", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
 #st.title('Upload Concal to get a Summary')
 st.title('📃 Summarize PDF Concals')
@@ -49,7 +45,6 @@ with col2:
 if pdf_upload is not None:
 	# Determine the path to the NLTK data directory within your code directory
 	nltk_data_path = os.path.join(os.path.dirname(__file__), "nltk_data")
-
 	# Set NLTK data path explicitly
 	nltk.data.path.append(nltk_data_path)
 	# Download NLTK stopwords data
