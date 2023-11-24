@@ -124,7 +124,6 @@ if selected:
         with st.sidebar:
             #color_key = st.selectbox("Bar Color", color_dict.keys())
             color_key = 'blue3'
-
         tree_folder = comp_Name[0].upper()
 
 
@@ -137,7 +136,7 @@ if selected:
             except Exception as AttributeError:
                 pass
             # st.dataframe(df_comp)
-            if len(balancesht.columns) >= 2:
+            if len(balancesht.columns) >= 2 and "NO. OF EQUITY SHARES" in balancesht.index:
                 last_year = balancesht.columns[-1]
                 prev_year = balancesht.columns[-2]
                 eq_last_year = round(balancesht.loc["NO. OF EQUITY SHARES", last_year] / 10000000, 2)
@@ -164,7 +163,7 @@ if selected:
                 pass
             pnl, balancesht = fundamentals.develop_yearly(df_comp)
 
-            if len(balancesht.columns) >= 2:
+            if len(balancesht.columns) >= 2 and "NO. OF EQUITY SHARES" in balancesht.index:
                 last_year = balancesht.columns[-1]
                 prev_year = balancesht.columns[-2]
                 eq_last_year = round(balancesht.loc["NO. OF EQUITY SHARES", last_year] / 10000000, 2)
