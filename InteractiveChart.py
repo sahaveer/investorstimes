@@ -124,29 +124,55 @@ if selected:
         tree_folder = comp_Name[0].upper()
 
 
-        if not os.path.exists(f'./pickl/{tree_folder}/{selected} Quarterly.pkl') :
+        if not os.path.exists(f'./pickl/{tree_folder}/{selected} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{selected} Yearly.pkl'):
             df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Yearly.pkl')
             try:
-                df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
+                df_comp.columns = pd.to_datetime(df_comp,'%d-%m-%Y')
+                #df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
             except Exception as AttributeError:
                 pass
             # st.dataframe(df_comp)
+            if len(balancesht.columns) >= 2:
+                last_year = balancesht.columns[-1]
+                prev_year = balancesht.columns[-2]
+                eq_last_year = round(balancesht.loc["NO. OF EQUITY SHARES", last_year] / 10000000, 2)
+                eq_prev_year = round(balancesht.loc['NO. OF EQUITY SHARES', prev_year] / 10000000, 2)
+                FV_last_year = round(balancesht.loc['FACE VALUE', last_year])
+                FV_prev_year = round(balancesht.loc['FACE VALUE', prev_year])
+                ROCE_last_year = balancesht.loc['ROCE', last_year]
+                ROCE_prev_year = balancesht.loc['ROCE', prev_year]
+                Yearly_sentence_in_Quarterly += f"*****\nEquity in {str(datetime.datetime.strftime(last_year, '%b-%Y'))}: {str(eq_last_year)}cr; in {str(datetime.datetime.strftime(prev_year, '%b-%Y'))}: {str(eq_prev_year)}cr\nFaceValue in {str(datetime.datetime.strftime(last_year, '%b-%Y'))}: {str(FV_last_year)}; in {str(datetime.datetime.strftime(prev_year, '%b-%Y'))}: {str(FV_prev_year)}\nROCE in {str(datetime.datetime.strftime(last_year, '%b-%Y'))}: {str(ROCE_last_year)}%; in {str(datetime.datetime.strftime(prev_year, '%b-%Y'))}: {str(ROCE_prev_year)}%\n*****\n"
+
             pnl, balancesht = fundamentals.develop_yearly(df_comp)
             with col2:
                 sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_keys)
+
 
         elif os.path.exists(f'./pickl/{tree_folder}/{selected} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{selected} Yearly.pkl'):
             df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Yearly.pkl')
             #st.dataframe(df_comp)
             try:
-                df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
+                df_comp.columns = pd.to_datetime(df_comp,'%d-%m-%Y')
+                #df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
             except Exception as AttributeError:
                 pass
             pnl, balancesht = fundamentals.develop_yearly(df_comp)
 
+            if len(balancesht.columns) >= 2:
+                last_year = balancesht.columns[-1]
+                prev_year = balancesht.columns[-2]
+                eq_last_year = round(balancesht.loc["NO. OF EQUITY SHARES", last_year] / 10000000, 2)
+                eq_prev_year = round(balancesht.loc['NO. OF EQUITY SHARES', prev_year] / 10000000, 2)
+                FV_last_year = round(balancesht.loc['FACE VALUE', last_year])
+                FV_prev_year = round(balancesht.loc['FACE VALUE', prev_year])
+                ROCE_last_year = balancesht.loc['ROCE', last_year]
+                ROCE_prev_year = balancesht.loc['ROCE', prev_year]
+                Yearly_sentence_in_Quarterly += f"*****\nEquity in {str(datetime.datetime.strftime(last_year, '%b-%Y'))}: {str(eq_last_year)}cr; in {str(datetime.datetime.strftime(prev_year, '%b-%Y'))}: {str(eq_prev_year)}cr\nFaceValue in {str(datetime.datetime.strftime(last_year, '%b-%Y'))}: {str(FV_last_year)}; in {str(datetime.datetime.strftime(prev_year, '%b-%Y'))}: {str(FV_prev_year)}\nROCE in {str(datetime.datetime.strftime(last_year, '%b-%Y'))}: {str(ROCE_last_year)}%; in {str(datetime.datetime.strftime(prev_year, '%b-%Y'))}: {str(ROCE_prev_year)}%\n*****\n"
+
             qtr_pnl = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Quarterly.pkl')
             try:
-                qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
+                qtr_pnl.columns = pd.to_datetime(qtr_pnl.columns, format='%d-%m-%Y')
+                #qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
             except Exception as AttributeError:
                 pass
             qtr_pnl = fundamentals.develop_quarterly(qtr_pnl)

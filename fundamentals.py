@@ -637,8 +637,7 @@ def develop_quarterly(qtr_pnl):
 
     qtr_pnl = qtr_pnl.transpose()
     qtr_pnl = qtr_pnl.round(2)
-
-    # qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
+    qtr_pnl.columns = pd.to_datetime(qtr_pnl.columns, format='%d-%m-%Y')
     # st.dataframe(qtr_pnl)
     return qtr_pnl
 
@@ -690,7 +689,8 @@ def develop_yearly(df_comp):
     balancesht = balancesht.transpose()
     balancesht = balancesht.round(2)
     # st.dataframe(balancesht)
-
+    pnl.columns = pd.to_datetime(pnl.columns,'%d-%m-%Y')
+    balancesht.columns = pd.to_datetime(balancesht.columns,'%d-%m-%Y')
     return pnl, balancesht
 
 
