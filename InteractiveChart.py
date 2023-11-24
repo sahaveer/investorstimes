@@ -17,7 +17,9 @@ st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wid
 
 global bsecodenum_codename
 global bsecodename_codenum
-bsecodenum_codename, bsecodename_codenum,bsecodenum_fullname = nse_bse_search.bsecodenum_bsecodename()
+#bsecodenum_codename, bsecodename_codenum,bsecodenum_fullname,bsecodename_fullname = nse_bse_search.bsecodenum_bsecodename()
+bsecodenum_codename,bsecodename_codenum,bsecodenum_fullname,bsecodename_fullname,bsefullname_codenum,bsefullname_codename = nse_bse_search.bsecodenum_bsecodename()
+
 
 # PARAMS
 funda_keys = ['PROFIT&LOSS', 'BALANCE SHEET',
@@ -100,7 +102,9 @@ if selected:
                                               </script>
                                             </div>
                                             <!-- TradingView Widget END -->''')
-    components.html(ticker_symbol_info.replace("xyx", comp_Name), height=200)
+    coltw1, coltw2 = st.columns([2, 2])
+    with coltw1:
+        components.html(ticker_symbol_info.replace("xyx", comp_Name), height=200)
     sentence = f"{comp_Name}: "
 
     funda_tech = option_menu("", ["Funda_Chart", 'Tech_Chart'],
@@ -125,6 +129,7 @@ if selected:
 
 
         if not os.path.exists(f'./pickl/{tree_folder}/{selected} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{selected} Yearly.pkl'):
+            Yearly_sentence_in_Quarterly = ""
             df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Yearly.pkl')
             try:
                 df_comp.columns = pd.to_datetime(df_comp,'%d-%m-%Y')
@@ -149,6 +154,7 @@ if selected:
 
 
         elif os.path.exists(f'./pickl/{tree_folder}/{selected} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{selected} Yearly.pkl'):
+            Yearly_sentence_in_Quarterly = ""
             df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Yearly.pkl')
             #st.dataframe(df_comp)
             try:
@@ -179,15 +185,18 @@ if selected:
             with col2:
                 sub_choose = st.selectbox("Fundamentals", fundamentals.funda_menu)
 
+        sentence += fundamentals.stmt_for_qoq(pnl)
+        sentence += Yearly_sentence_in_Quarterly
+        sentence += fundamentals.stmt_for_qoq(qtr_pnl)
+
+        with coltw2:
+            st.text_area(label="👉 INSIGHTS", value=sentence, height=180)
+
+
         #with col_sub1:
             #st.subheader('📊 ' + comp_Name)
         #sub_choose = option_menu("", fundamentals.funda_menu,default_index=3,orientation="horizontal")
         if sub_choose == "PROFIT&LOSS":            # YEARLY PNL
-            sentence += fundamentals.stmt_for_qoq(pnl)
-            coltw1, coltw2 = st.columns([4, 1])
-            with coltw1:
-                st.text_area(label="👉 INSIGHTS", value=sentence, height=180)
-
             Ykeydata,YSales, YOtherIncome,YExpenses,YOperatingProfit,YNetProfit,Ytable = st.tabs(['Key Data','SALES','OTHER INCOME','EXPENSES','OPERATING PROFIT','NET PROFIT','Table'])
 
             with Ytable:
@@ -208,11 +217,6 @@ if selected:
                 fundamentals.bar_line(pnl,'NET PROFIT','NPM %',color_dict[color_key]['hash'],comp_Name)
 
         if sub_choose == 'QTR PnL':                #QUARTERLY PNL
-            sentence += fundamentals.stmt_for_qoq(qtr_pnl)
-            coltw1, coltw2 = st.columns([4, 1])
-            with coltw1:
-                st.text_area(label="👉 INSIGHTS", value=sentence, height=180)
-
             Qkeydata, QSales, QOtherIncome, QExpenses, QOperatingProfit, QNetProfit, Qtable = st.tabs(
                 ['Key Data', 'SALES', 'OTHER INCOME', 'EXPENSES', 'OPERATING PROFIT', 'NET PROFIT', 'Table'])
             with Qtable:

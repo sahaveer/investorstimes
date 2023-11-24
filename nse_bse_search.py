@@ -108,8 +108,11 @@ def dict_from_bse_csv(driver):
 def bsecodenum_bsecodename():
     bse_data = pd.read_csv('./Select.csv', header=0, index_col=False)
     bse_data.columns = bse_data.columns.str.replace(' ', '_')
-    bse_data = bse_data[['Security_Code','Security_Id']].copy()
+    bse_data = bse_data[['Security_Code','Security_Id','Security_Name']].copy()
     bsecodenum_codename = bse_data.set_index('Security_Code')['Security_Id'].to_dict()
     bsecodename_codenum = bse_data.set_index('Security_Id')['Security_Code'].to_dict()
     bsecodenum_fullname = bse_data.set_index('Security_Code')['Security_Name'].to_dict()
-    return bsecodenum_codename,bsecodename_codenum,bsecodenum_fullname
+    bsecodename_fullname = bse_data.set_index('Security_Id')['Security_Name'].to_dict()
+    bsefullname_codenum = bse_data.set_index('Security_Name')['Security_Code'].to_dict()
+    bsefullname_codename = bse_data.set_index('Security_Name')['Security_Id'].to_dict()
+    return bsecodenum_codename,bsecodename_codenum,bsecodenum_fullname,bsecodename_fullname,bsefullname_codenum,bsefullname_codename
