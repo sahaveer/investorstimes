@@ -86,7 +86,7 @@ with col1:
     else:
         selected = st.selectbox("Chose Company 📈 ", listed_stocks)
 
-st.text_area("COPY THESE", value = latest_quarterly_stocks)
+st.text_area(label = "COPY THESE", value = latest_quarterly_stocks)
 
 if selected:
     comp_Name = str(selected)
