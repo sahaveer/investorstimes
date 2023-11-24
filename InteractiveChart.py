@@ -17,7 +17,7 @@ st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wid
 
 global bsecodenum_codename
 global bsecodename_codenum
-bsecodenum_codename, bsecodename_codenum = nse_bse_search.bsecodenum_bsecodename()
+bsecodenum_codename, bsecodename_codenum,bsecodenum_fullname = nse_bse_search.bsecodenum_bsecodename()
 
 # PARAMS
 funda_keys = ['PROFIT&LOSS', 'BALANCE SHEET',
@@ -54,6 +54,7 @@ for each_pickl in glob.glob('./pickl/**/*.pkl', recursive=True):
     elif file_name_only.endswith('Quarterly.pkl'):
         pickle_name = file_name_only.split('Quarterly.pkl')[0].strip()#st.info(pickle_name)
         qtr_pnl = pd.read_pickle(f'./pickl/{tree_folder}/{file_name_only}')
+        qtr_pnl.columns = pd.to_datetime(qtr_pnl.columns, format='%d-%m-%Y')
         try:
             timedelta_90_days = pd.Timedelta(days=90)
             # st.info(datetime.datetime.now().strptime-qtr_pnl.columns[-1])
@@ -125,31 +126,30 @@ if selected:
 
         if not os.path.exists(f'./pickl/{tree_folder}/{selected} Quarterly.pkl') :
             df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Yearly.pkl')
-            # st.dataframe(df_comp)
-            pnl, balancesht = fundamentals.develop_yearly(df_comp)
             try:
                 df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
             except Exception as AttributeError:
                 pass
+            # st.dataframe(df_comp)
+            pnl, balancesht = fundamentals.develop_yearly(df_comp)
             with col2:
                 sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_keys)
 
         elif os.path.exists(f'./pickl/{tree_folder}/{selected} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{selected} Yearly.pkl'):
             df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Yearly.pkl')
             #st.dataframe(df_comp)
-            pnl, balancesht = fundamentals.develop_yearly(df_comp)
             try:
                 df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
             except Exception as AttributeError:
                 pass
+            pnl, balancesht = fundamentals.develop_yearly(df_comp)
 
             qtr_pnl = pd.read_pickle(f'./pickl/{tree_folder}/{selected} Quarterly.pkl')
-            # pnl, balancesht, qtr_pnl = fundamentals.develop_data(qtr_pnl, df_comp)
-            qtr_pnl = fundamentals.develop_quarterly(qtr_pnl)
             try:
                 qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
             except Exception as AttributeError:
                 pass
+            qtr_pnl = fundamentals.develop_quarterly(qtr_pnl)
             with col2:
                 sub_choose = st.selectbox("Fundamentals", fundamentals.funda_menu)
 

@@ -615,6 +615,7 @@ def develop_data(qtr_pnl, df_comp):
 
 
 def develop_quarterly(qtr_pnl):
+    qtr_pnl.columns = pd.to_datetime(qtr_pnl.columns, format='%d-%m-%Y')
     qtr_pnl.fillna(0, inplace=True)
     qtr_pnl.index = qtr_pnl.index.str.strip()
     qtr_pnl = qtr_pnl.transpose()
@@ -623,14 +624,27 @@ def develop_quarterly(qtr_pnl):
     qtr_pnl['SALES_QoQ'] = qtr_pnl['SALES'].pct_change() * 100
     qtr_pnl['NET PROFIT_QoQ'] = qtr_pnl['NET PROFIT'].pct_change() * 100
     qtr_pnl['OPERATING PROFIT_QoQ'] = qtr_pnl['OPERATING PROFIT'].pct_change() * 100
+
+    if len(qtr_pnl) >= 5:  # Check if there are at least 5 rows in the DataFrame
+        qtr_pnl['SALES_YoY'] = qtr_pnl['SALES'].pct_change(periods=4) * 100
+        qtr_pnl['OPERATING PROFIT_YoY'] = qtr_pnl['OPERATING PROFIT'].pct_change(periods=4) * 100
+        qtr_pnl['NET PROFIT_YoY'] = qtr_pnl['NET PROFIT'].pct_change(periods=4) * 100
+
+    else:
+        qtr_pnl['SALES_YoY'] = None  # Assign None or any placeholder value when insufficient data is available
+        qtr_pnl['OPERATING PROFIT_YoY'] = None
+        qtr_pnl['NET PROFIT_YoY'] = None
+
     qtr_pnl = qtr_pnl.transpose()
     qtr_pnl = qtr_pnl.round(2)
-    # qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
 
+    # qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
     # st.dataframe(qtr_pnl)
     return qtr_pnl
 
+
 def develop_yearly(df_comp):
+    df_comp.columns = pd.to_datetime(df_comp.columns, format='%d-%m-%Y')
     pnl = df_comp.loc['PROFIT&LOSS']
     pnl.fillna(0, inplace=True)
     pnl.index = pnl.index.str.strip()
@@ -647,6 +661,16 @@ def develop_yearly(df_comp):
     pnl['SALES_QoQ'] = pnl['SALES'].pct_change() * 100
     pnl['NET PROFIT_QoQ'] = pnl['NET PROFIT'].pct_change() * 100
     pnl['OPERATING PROFIT_QoQ'] = pnl['OPERATING PROFIT'].pct_change() * 100
+    # Assuming 'qtr_pnl' is your DataFrame and 'SALES' column exists
+    if len(pnl) >= 5:  # Check if there are at least 5 rows in the DataFrame
+        pnl['SALES_YoY'] = pnl['SALES'].pct_change(periods=4) * 100
+        pnl['OPERATING PROFIT_YoY'] = pnl['OPERATING PROFIT'].pct_change(periods=4) * 100
+        pnl['NET PROFIT_YoY'] = pnl['NET PROFIT'].pct_change(periods=4) * 100
+
+    else:
+        pnl['SALES_YoY'] = None  # Assign None or any placeholder value when insufficient data is available
+        pnl['OPERATING PROFIT_YoY'] = None
+        pnl['NET PROFIT_YoY'] = None
 
     balancesht = df_comp.loc['BALANCE SHEET'].drop(index='TOTAL', errors='ignore')
     balancesht.fillna(0, inplace=True)
@@ -666,6 +690,7 @@ def develop_yearly(df_comp):
     balancesht = balancesht.transpose()
     balancesht = balancesht.round(2)
     # st.dataframe(balancesht)
+
     return pnl, balancesht
 
 
@@ -673,11 +698,11 @@ def stmt_for_qoq(df):
     # THE FOLLOWIGN CODE CALCULATES THE GROWTH OR DEGROWTH
     df.columns = pd.to_datetime(df.columns, format='%d-%m-%Y')
     last_quarter = df.columns[-1]
-    sentence = f"{datetime.datetime.strftime(last_quarter, '%d-%b-%Y')} #result\n"
+    sentence = f"{datetime.datetime.strftime(last_quarter,'%d-%b-%Y')} #result\n"
     # Create a list of metrics
     metrics = ['SALES', 'OPERATING PROFIT', 'NET PROFIT']
     # qtr_string = last_quarter.strptime(last_quarter,"%b%Y")
-    if len(df.columns) >= 5:
+    if len(df.columns)>=5:
         prev_quarter = df.columns[-2]
         yoy_quarter = df.columns[-5]
         # Loop through the metrics
@@ -686,26 +711,25 @@ def stmt_for_qoq(df):
             value = df.loc[metric, last_quarter]
             value_qoq = df.loc[metric, prev_quarter]
             value_yoy = df.loc[metric, yoy_quarter]
-            yoy_growth = ((value - value_yoy) / value_yoy) * 100
+            yoy_growth = ((value - value_yoy)/value_yoy)*100
             qoq_growth = df.at[metric + '_QoQ', last_quarter]
             if not pd.isna(qoq_growth) and not pd.isna(value):
                 qoq_trend = " up by " if qoq_growth > 0 else " down by "
                 yoy_trend = " up by " if yoy_growth > 0 else " down by "
-                # sentence += f"{metric}: {value:.2f}cr vs {value_qoq}cr,{trend}{qoq_growth:.2f}% QoQ\n"
-                # sentence += f"{metric}: {value:.2f}cr,{qoq_trend}{qoq_growth:.2f}% QoQ & {yoy_trend}{yoy_growth:.2f}% YoY\n"
+                #sentence += f"{metric}: {value:.2f}cr vs {value_qoq}cr,{trend}{qoq_growth:.2f}% QoQ\n"
+                #sentence += f"{metric}: {value:.2f}cr,{qoq_trend}{qoq_growth:.2f}% QoQ & {yoy_trend}{yoy_growth:.2f}% YoY\n"
                 sentence += f"{value:.2f}cr, QoQ {qoq_growth:.2f}% & YoY {yoy_growth:.2f}% {metric};\n"
 
         # st.info(type(last_quarter))
         for metric in ['OPM %', 'NPM %']:
             value = df.loc[metric, last_quarter]
             if not pd.isna(value):
-                # abs_value = abs(value)
+                #abs_value = abs(value)
                 sentence += f"{metric}: {value:.2f}% vs {(df.loc[metric, prev_quarter])}%\n"
-        # sentence += f"For more: https://www.instagram.com/itimesalgo/\nAnalyse your favourite company using https://www.itimesalgo.streamlit.app\nhttps://t.me/itimesalgo"
+        #sentence += f"For more: https://www.instagram.com/itimesalgo/\nAnalyse your favourite company using https://www.itimesalgo.streamlit.app\nhttps://t.me/itimesalgo"
         # sentence += f"OPM {pnl.loc['OPM %', last_quarter]}% vs {pnl.loc['OPM %', prev_quarter]}%\n"
         # sentence += f"NPM {pnl.loc['NPM %', last_quarter]}% vs {pnl.loc['NPM %', prev_quarter]}%\n"
-        return sentence
-    elif len(df.columns) >= 2:
+    elif len(df.columns)>=2:
         last_quarter = df.columns[-1]
         prev_quarter = df.columns[-2]
         # Loop through the metrics
@@ -723,7 +747,12 @@ def stmt_for_qoq(df):
             value = df.loc[metric, last_quarter]
             if not pd.isna(value):
                 sentence += f"{metric}: {value:.2f}% vs {(df.loc[metric, prev_quarter])}%\n"
-        sentence += f"For more: https://www.instagram.com/itimesalgo/\nAnalyse your favourite company using https://www.itimesalgo.streamlit.app\nhttps://t.me/itimesalgo"
+        #sentence += f"For more: https://www.instagram.com/itimesalgo/\nAnalyse your favourite company using https://www.itimesalgo.streamlit.app\nhttps://t.me/itimesalgo"
         # sentence += f"OPM {pnl.loc['OPM %', last_quarter]}% vs {pnl.loc['OPM %', prev_quarter]}%\n"
         # sentence += f"NPM {pnl.loc['NPM %', last_quarter]}% vs {pnl.loc['NPM %', prev_quarter]}%\n"
-        return sentence
+    else:
+        last_quarter = df.columns[-1]
+        sales_q = df.loc["SALES",last_quarter]
+        Net_Profit_q = df.loc["NET PROFIT",last_quarter]
+        sentence += f"{sales_q}\n{Net_Profit_q}"
+    return sentence

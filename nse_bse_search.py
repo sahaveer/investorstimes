@@ -111,4 +111,5 @@ def bsecodenum_bsecodename():
     bse_data = bse_data[['Security_Code','Security_Id']].copy()
     bsecodenum_codename = bse_data.set_index('Security_Code')['Security_Id'].to_dict()
     bsecodename_codenum = bse_data.set_index('Security_Id')['Security_Code'].to_dict()
-    return bsecodenum_codename,bsecodename_codenum
+    bsecodenum_fullname = bse_data.set_index('Security_Code')['Security_Name'].to_dict()
+    return bsecodenum_codename,bsecodename_codenum,bsecodenum_fullname
