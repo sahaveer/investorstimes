@@ -85,6 +85,9 @@ with col1:
         selected = st.selectbox("Chose Company 📈 ",latest_quarterly_stocks )
     else:
         selected = st.selectbox("Chose Company 📈 ", listed_stocks)
+
+st.text_area("COPY THESE", value = latest_quarterly_stocks)
+
 if selected:
     comp_Name = str(selected)
     ticker_symbol_info = str('''<!-- TradingView Widget BEGIN -->
