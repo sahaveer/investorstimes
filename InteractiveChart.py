@@ -88,7 +88,7 @@ with col1:
 
 
 if selected:
-    st.text_area(label="COPY THESE", value=latest_quarterly_stocks, height=180)
+    #st.text_area(label="COPY THESE", value=latest_quarterly_stocks, height=180)
     comp_Name = str(selected)
     ticker_symbol_info = str('''<!-- TradingView Widget BEGIN -->
                                             <div class="tradingview-widget-container">
