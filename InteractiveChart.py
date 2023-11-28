@@ -79,13 +79,14 @@ st.subheader(f"{str(len(latest_quarterly_stocks))} stocks announced {last_announ
 #selected = st.selectbox("Chose Company", listed_stocks)
 
 col1, col2, col3, col4 = st.columns([2, 2, 2, 2])
+with col3:
+    #show_latest_quarter = st.checkbox(label='Only latest Quarter',value=True)
+    show_latest_quarter = st.radio("What's your favorite movie genre",[":rainbow[Latest Quarterly]", "All Listed", "Holdings", "Watchlist"],)
 with col1:
-    show_latest_quarter = st.checkbox(label='Only latest Quarter',value=True)
-    if show_latest_quarter:
-        selected = st.selectbox("Chose Company 📈 ",latest_quarterly_stocks )
-    else:
-        selected = st.selectbox("Chose Company 📈 ", listed_stocks)
-
+    if show_latest_quarter == ":rainbow[Latest Quarterly]":
+        selected = st.selectbox("Pick ",latest_quarterly_stocks )
+    elif show_latest_quarter =="All Listed" :
+        selected = st.selectbox("", listed_stocks)
 
 if selected:
     #st.text_area(label="COPY THESE", value=latest_quarterly_stocks, height=180)
@@ -205,7 +206,9 @@ if selected:
                 # THE FOLLOWIGN CODE CALCULATES THE GROWTH OR DEGROWTH
                 st.dataframe(pnl.style.format(formatter="{:.1f}"))
             with Ykeydata:
-                fundamentals.group_2_bars(pnl, "SALES", "PROFIT BEFORE TAX","NET PROFIT",comp_Name)
+                fundamentals.group_2_bars(pnl, "SALES", "OTHER INCOME", comp_Name)
+                fundamentals.group_2_bars(pnl, "PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
+                # fundamentals.group_3_bars(pnl, "SALES", "PROFIT BEFORE TAX","NET PROFIT",comp_Name)
                 fundamentals.both_lines(pnl, "OPM %", "NPM %", color_dict['red1']['hash'], color_dict['green1']['hash'], comp_Name)
             with YSales:
                 fundamentals.qoq_growth(pnl, 'SALES', color_dict[color_key]['hash'], comp_Name)
@@ -229,7 +232,9 @@ if selected:
                 #st.dataframe(qtr_pnl.style.format(formatter="{:.1f}"))
 
             with Qkeydata:
-                fundamentals.group_2_bars(qtr_pnl, "SALES",  "PROFIT BEFORE TAX","NET PROFIT",comp_Name)
+                fundamentals.group_2_bars(qtr_pnl, "SALES", "OTHER INCOME", comp_Name)
+                fundamentals.group_2_bars(qtr_pnl, "PROFIT BEFORE TAX", "NET PROFIT", comp_Name)
+                # fundamentals.group_3_bars(qtr_pnl, "SALES",  "PROFIT BEFORE TAX","NET PROFIT",comp_Name)
                 fundamentals.both_lines(qtr_pnl, "OPM %", "NPM %", color_dict['red1']['hash'], color_dict['green1']['hash'],comp_Name)
                 fundamentals.bar_line(qtr_pnl,'NET PROFIT','NPM %',color_dict[color_key]['hash'],comp_Name)
             with QSales:

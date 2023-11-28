@@ -317,12 +317,10 @@ def peer_bar(df, Name, comp1_Name, comp2_Name):  # this has 2 series concatinate
     st.plotly_chart(fig, use_container_width=True)
     new_df = pd.concat([df[bar_list[0]], df[bar_list[1]]], axis=1).transpose()
 
-
-
-
-def group_2_bars(df, row1, row2, row3, comp_Name):
-    dat_rows = [df.loc[row1], df.loc[row2], df.loc[row3]]
-    new_df = pd.concat(dat_rows, keys=[row1, row2, row3], axis=1)
+def group_3_bars(df,row1,row2,row3,comp_Name):
+    save_as = f"{row1} {row2} {row3}".upper()
+    dat_rows = [df.loc[row1], df.loc[row2],df.loc[row3]]
+    new_df = pd.concat(dat_rows, keys=[row1, row2,row3], axis=1)
     # Create the text labels for each bar
     text_labels_row1 = new_df[row1].tolist()
     text_labels_row2 = new_df[row2].tolist()
@@ -368,11 +366,65 @@ def group_2_bars(df, row1, row2, row3, comp_Name):
         width=width_val,
         margin=dict(l=0, r=0, t=0, b=0, pad=10),
         title={'font': {'color': "#e25f5b"},
-               'text': "<b>" + comp_Name.upper() + ' : </b> <i>' + row1 + ' ' + row2 + ' Report</i>',
+               'text': "<b>" + comp_Name.upper() + ' : </b> <i>' + save_as + ' Report</i>',
                'y': 0.99, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
         xaxis_tickfont_size=14,
         xaxis=dict(showgrid=False, tickfont=dict(color='white')),
-        yaxis=dict(showgrid=False, title=write_on_chart + '    ' + 'INR (cr)', titlefont_size=16, tickfont_size=14,
+        yaxis=dict(showgrid=False, title=write_on_chart + '    ' +'INR (cr)', titlefont_size=16, tickfont_size=14,
+                   tickfont=dict(color='white')),
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+        bargap=0.1
+    )
+
+    # Customize text font color and size
+    fig.update_traces(textfont=dict(color='yellow', size=14))
+    st.plotly_chart(fig, use_container_width=True)
+    new_df = new_df.transpose()
+
+def group_2_bars(df,row1,row2,comp_Name):
+    save_as = f"{row1} {row2}"
+    dat_rows = [df.loc[row1], df.loc[row2]]
+    new_df = pd.concat(dat_rows, keys=[row1, row2], axis=1)
+    # Create the text labels for each bar
+    text_labels_row1 = new_df[row1].tolist()
+    text_labels_row2 = new_df[row2].tolist()
+
+    # Create the bar chart with text labels for each trace
+    fig = go.Figure(data=[
+        go.Bar(
+            name=row1,
+            x=new_df.index,
+            y=new_df[row1],
+            text=text_labels_row1,  # Provide the text labels for row1 bars
+            textposition='auto',
+            marker={'color': "#3EC1CD"}
+        ),
+        go.Bar(
+            name=row2,
+            x=new_df.index,
+            y=new_df[row2],
+            text=text_labels_row2,  # Provide the text labels for row2 bars
+            textposition='auto',
+            marker={'color': "#EF3A4C"}
+        ),
+    ])
+
+    # Change the bar mode
+    fig.update_layout(
+        autosize=True,
+        barmode='group',
+        bargroupgap=0.1,
+        paper_bgcolor="#16181A",
+        plot_bgcolor="#23282D",
+        height=height_val,
+        width=width_val,
+        margin=dict(l=0, r=0, t=0, b=0, pad=10),
+        title={'font': {'color': "#e25f5b"},
+               'text': "<b>" + comp_Name.upper() + ' : </b> <i>' + save_as + ' Report</i>',
+               'y': 0.99, 'x': 0.5, 'xanchor': 'center', 'yanchor': 'top'},
+        xaxis_tickfont_size=14,
+        xaxis=dict(showgrid=False, tickfont=dict(color='white')),
+        yaxis=dict(showgrid=False, title=write_on_chart + '    ' +'INR (cr)', titlefont_size=16, tickfont_size=14,
                    tickfont=dict(color='white')),
         legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
         bargap=0.1
