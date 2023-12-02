@@ -74,28 +74,6 @@ def get_all_quarterly_list():
     return listed_stocks, latest_quarterly_stocks, last_announced_quarter
 
 listed_stocks, latest_quarterly_stocks, last_announced_quarter = get_all_quarterly_list()
-@st.cache_data
-def holdings_func():
-    if os.path.exists('./holdings.txt'):
-        # Open the file in read mode
-        with open('./holdings.txt', 'r') as file:
-            # Read each line and append it to the list
-            for line in file:
-                holdings_list.append(line.strip())
-    return holdings_list
-
-@st.cache_data
-def watchlist_func():
-    if os.path.exists('./watchlist.txt'):
-        # Open the file in read mode
-        with open('./watchlist.txt', 'r') as file:
-            # Read each line and append it to the list
-            for line in file:
-                watch_list.append(line.strip())
-    return watch_list
-
-holdings_list = holdings_func()
-watch_list = watchlist_func()
 
 
 
