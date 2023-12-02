@@ -81,15 +81,22 @@ st.title(f"👇 Chose among {str(len(listed_stocks))} listed stocks")
 st.subheader(f"{str(len(latest_quarterly_stocks))} stocks announced {last_announced_quarter} Quarterly Results")
 #selected = st.selectbox("Chose Company", listed_stocks)
 
+# Parse the URL parameters to get the selected stock
+url = st.experimental_get_query_params()
+selected_stock = url.get("selected", [""])[0]
+
 col1, col2, col3, col4 = st.columns([2, 2, 2, 2])
 with col3:
-    #show_latest_quarter = st.checkbox(label='Only latest Quarter',value=True)
-    show_latest_quarter = st.radio("What's your favorite movie genre",[":rainbow[Latest Quarterly]", "All Listed", "Holdings", "Watchlist"],)
+    #genre = st.checkbox(label='Only latest Quarter',value=True)
+    genre = st.radio("Chose Genre :",[":rainbow[Latest Quarterly]", "All Listed", "Holdings", "Watchlist"],)
 with col1:
-    if show_latest_quarter == ":rainbow[Latest Quarterly]":
-        selected = st.selectbox("Pick ",latest_quarterly_stocks )
-    elif show_latest_quarter =="All Listed" :
-        selected = st.selectbox("", listed_stocks)
+    if genre == ":rainbow[Latest Quarterly]":
+        selected = st.selectbox("Pick",latest_quarterly_stocks if selected_stock in latest_quarterly_stocks else listed_stocks,index=latest_quarterly_stocks.index(selected_stock) if selected_stock in latest_quarterly_stocks else listed_stocks.index(selected_stock) if selected_stock in listed_stocks else 0)
+        #selected = st.selectbox("Pick ",latest_quarterly_stocks )
+    elif genre =="All Listed" :
+        selected = st.selectbox("", listed_stocks,index=listed_stocks.index(selected_stock) if selected_stock in listed_stocks else 0)
+        #selected = st.selectbox("", listed_stocks)
+
 
 if selected:
     #st.text_area(label="COPY THESE", value=latest_quarterly_stocks, height=180)
