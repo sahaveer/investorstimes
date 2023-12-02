@@ -44,33 +44,58 @@ color_dict = {'blue3':{'hash':'#00A3FE','rgb':'rgb(0,163,254)'},
 color_line = "Red"
 
 
-#lottie_hello = load_lottieurl("https://assets9.lottiefiles.com/packages/lf20_M9p23l.json")
-for each_pickl in glob.glob('./pickl/**/*.pkl', recursive=True):
-    each_pickl = each_pickl.replace('\\', '/')
-    #st.info(each_pickl)
-    file_name_only = os.path.basename(each_pickl)
-    #file_name_only = each_pickl.split('/')[-1]
-    tree_folder = file_name_only[0].upper()
-    if file_name_only.endswith('Yearly.pkl'):
-        pickle_name = file_name_only.split('Yearly.pkl')[0].strip()  # Since all the pickle files are either Quartetrly or Yearly, we need to get the first company code only
-    elif file_name_only.endswith('Quarterly.pkl'):
-        pickle_name = file_name_only.split('Quarterly.pkl')[0].strip()#st.info(pickle_name)
-        qtr_pnl = pd.read_pickle(f'./pickl/{tree_folder}/{file_name_only}')
-        qtr_pnl.columns = pd.to_datetime(qtr_pnl.columns, format='%d-%m-%Y')
-        try:
-            timedelta_90_days = pd.Timedelta(days=90)
-            # st.info(datetime.datetime.now().strptime-qtr_pnl.columns[-1])
-            # st.info(type(datetime.datetime.now()-qtr_pnl.columns[-1]))
-            if (datetime.datetime.now() - qtr_pnl.columns[-1]) < timedelta_90_days and pickle_name not in latest_quarterly_stocks:
-                latest_quarterly_stocks.append(pickle_name)
-                last_announced_quarter = datetime.datetime.strftime(qtr_pnl.columns[-1],'%b%Y')
+@st.cache_data
+def get_all_quarterly_list():
+    #lottie_hello = load_lottieurl("https://assets9.lottiefiles.com/packages/lf20_M9p23l.json")
+    for each_pickl in glob.glob('./pickl/**/*.pkl', recursive=True):
+        each_pickl = each_pickl.replace('\\', '/')
+        #st.info(each_pickl)
+        file_name_only = os.path.basename(each_pickl)
+        #file_name_only = each_pickl.split('/')[-1]
+        tree_folder = file_name_only[0].upper()
+        if file_name_only.endswith('Yearly.pkl'):
+            pickle_name = file_name_only.split()[0].strip()  # Since all the pickle files are either Quartetrly or Yearly, we need to get the first company code only
+        elif file_name_only.endswith('Quarterly.pkl'):
+            pickle_name = file_name_only.split()[0].strip()#st.info(pickle_name)
+            qtr_pnl = pd.read_pickle(f'./pickl/{tree_folder}/{file_name_only}')
+            qtr_pnl.columns = pd.to_datetime(qtr_pnl.columns, format='%d-%m-%Y')
+            try:
+                timedelta_90_days = pd.Timedelta(days=90)
+                # st.info(datetime.datetime.now().strptime-qtr_pnl.columns[-1])
+                # st.info(type(datetime.datetime.now()-qtr_pnl.columns[-1]))
+                if (datetime.datetime.now() - qtr_pnl.columns[-1]) < timedelta_90_days and pickle_name not in latest_quarterly_stocks:
+                    latest_quarterly_stocks.append(pickle_name.split()[0])
+                    last_announced_quarter = datetime.datetime.strftime(qtr_pnl.columns[-1],'%b%Y')
+            except:
+                pass
 
-        except:
-            pass
+        if pickle_name.split()[0] not in listed_stocks:
+            listed_stocks.append(pickle_name)
+    return listed_stocks, latest_quarterly_stocks, last_announced_quarter
 
-    if pickle_name not in listed_stocks:
-        listed_stocks.append(pickle_name)
+listed_stocks, latest_quarterly_stocks, last_announced_quarter = get_all_quarterly_list()
+@st.cache_data
+def holdings_func():
+    if os.path.exists('./holdings.txt'):
+        # Open the file in read mode
+        with open('./holdings.txt', 'r') as file:
+            # Read each line and append it to the list
+            for line in file:
+                holdings_list.append(line.strip())
+    return holdings_list
 
+@st.cache_data
+def watchlist_func():
+    if os.path.exists('./watchlist.txt'):
+        # Open the file in read mode
+        with open('./watchlist.txt', 'r') as file:
+            # Read each line and append it to the list
+            for line in file:
+                watch_list.append(line.strip())
+    return watch_list
+
+holdings_list = holdings_func()
+watch_list = watchlist_func()
 
 
 
