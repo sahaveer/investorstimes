@@ -17,6 +17,7 @@ import threading
 
 st.set_page_config(page_title="Portfolio", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
 st.title('Portfolio Proficiency Analyzer 💸')
+pledging_path = './zerodha pledging.xlsx'
 
 # Get today's date
 today = datetime.datetime.now()
