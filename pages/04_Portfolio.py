@@ -14,10 +14,13 @@ import time
 import datetime
 from datetime import timedelta
 import threading
+import fundamentals
+
+pledging_path = './zerodha pledging.xlsx'
 
 st.set_page_config(page_title="Portfolio", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
 st.title('Portfolio Proficiency Analyzer 💸')
-pledging_path = './zerodha pledging.xlsx'
+
 
 # Get today's date
 today = datetime.datetime.now()
@@ -40,6 +43,7 @@ live_prices = {}
 #tab1, tab2, tab3 = st.tabs(["Portfolio", "Collateral"])
 portfolio_option = option_menu("", ["Portfolio", "Collateral"],
                              icons=['cash', 'cash'], menu_icon="cast", default_index=0, orientation="horizontal")
+
 if portfolio_option == "Portfolio":
     col1,col2 = st.columns([2,2])
     col2.subheader("💡 Key Benefits:")
@@ -52,8 +56,7 @@ if portfolio_option == "Portfolio":
     tradebook_url = 'https://console.zerodha.com/reports/tradebook'
     col2.markdown(f"[***ZERODHA TRADEBOOK***]({tradebook_url})", unsafe_allow_html=True)
     tradebook = col1.file_uploader("upload TradeBooks from Zerodha", type= ['xlsx'],accept_multiple_files = True)
-    #st.info(f'https://www.bseindia.com/download/BhavCopy/Equity/EQ' + dd + mm + yy + '_CSV.ZIP')
-    #st.info(f"https://archives.nseindia.com/products/content/sec_bhavdata_full_" + dd + mm + yyyy + ".csv")
+
 @st.cache_data
 def tradebook_perday(xl):
     if isinstance(xl,pd.DataFrame):
@@ -209,6 +212,14 @@ def createpf(xl):
         closed_pf['PnL_toDate'] = ((closed_pf['CLosingPrice'] - closed_pf['Buy Price']) * closed_pf['Quantity'])
 
         return final_pf,closed_pf,only_sell_pf
+
+# Define a custom function to calculate 'Allowed' based on 'Broker limit reached'
+def calculate_allowed(row):
+    if row['Broker limit reached'] == 'No':
+        return (100 - (row['Haircut %']))
+    else:
+        return 0
+
 
 if portfolio_option == "Portfolio":
     #loc = "./TRADEBOOK.xlsx"
