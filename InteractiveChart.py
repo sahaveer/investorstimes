@@ -46,6 +46,7 @@ color_line = "Red"
 
 @st.cache_data
 def get_all_quarterly_list():
+    latest_quarterly_stocks = []
     #lottie_hello = load_lottieurl("https://assets9.lottiefiles.com/packages/lf20_M9p23l.json")
     for each_pickl in glob.glob('./pickl/**/*.pkl', recursive=True):
         each_pickl = each_pickl.replace('\\', '/')
@@ -66,9 +67,7 @@ def get_all_quarterly_list():
             if (datetime.datetime.now() - qtr_pnl.columns[-1]) < timedelta_90_days and pickle_name not in latest_quarterly_stocks:
                 latest_quarterly_stocks.append(pickle_name.split()[0])
                 last_announced_quarter = datetime.datetime.strftime(qtr_pnl.columns[-1],'%b%Y')
-            else:
-                latest_quarterly_stocks = "None"
-                last_announced_quarter = "None"
+
         if pickle_name.split()[0] not in listed_stocks:
             listed_stocks.append(pickle_name)
     return listed_stocks, latest_quarterly_stocks, last_announced_quarter
