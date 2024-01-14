@@ -59,16 +59,16 @@ def get_all_quarterly_list():
             pickle_name = file_name_only.split()[0].strip()#st.info(pickle_name)
             qtr_pnl = pd.read_pickle(f'./pickl/{tree_folder}/{file_name_only}')
             qtr_pnl.columns = pd.to_datetime(qtr_pnl.columns, format='%d-%m-%Y')
-            try:
-                timedelta_90_days = pd.Timedelta(days=90)
-                # st.info(datetime.datetime.now().strptime-qtr_pnl.columns[-1])
-                # st.info(type(datetime.datetime.now()-qtr_pnl.columns[-1]))
-                if (datetime.datetime.now() - qtr_pnl.columns[-1]) < timedelta_90_days and pickle_name not in latest_quarterly_stocks:
-                    latest_quarterly_stocks.append(pickle_name.split()[0])
-                    last_announced_quarter = datetime.datetime.strftime(qtr_pnl.columns[-1],'%b%Y')
-            except:
-                pass
 
+            timedelta_90_days = pd.Timedelta(days=90)
+            # st.info(datetime.datetime.now().strptime-qtr_pnl.columns[-1])
+            # st.info(type(datetime.datetime.now()-qtr_pnl.columns[-1]))
+            if (datetime.datetime.now() - qtr_pnl.columns[-1]) < timedelta_90_days and pickle_name not in latest_quarterly_stocks:
+                latest_quarterly_stocks.append(pickle_name.split()[0])
+                last_announced_quarter = datetime.datetime.strftime(qtr_pnl.columns[-1],'%b%Y')
+            else:
+                latest_quarterly_stocks = "None"
+                last_announced_quarter = "None"
         if pickle_name.split()[0] not in listed_stocks:
             listed_stocks.append(pickle_name)
     return listed_stocks, latest_quarterly_stocks, last_announced_quarter
