@@ -65,20 +65,20 @@ def get_all_quarterly_list():
             # st.info(type(datetime.datetime.now()-qtr_pnl.columns[-1]))
             if (datetime.datetime.now() - qtr_pnl.columns[-1]) < timedelta_90_days and pickle_name not in latest_quarterly_stocks:
                 latest_quarterly_stocks.append(pickle_name.split()[0])
-                last_announced_quarter = datetime.datetime.strftime(qtr_pnl.columns[-1],'%b%Y')
+                #last_announced_quarter = datetime.datetime.strftime(qtr_pnl.columns[-1],'%b%Y')
             else:
                 latest_quarterly_stocks = "None"
-                last_announced_quarter = "None"
+                #last_announced_quarter = "None"
         if pickle_name.split()[0] not in listed_stocks:
             listed_stocks.append(pickle_name)
-    return listed_stocks, latest_quarterly_stocks, last_announced_quarter
+    return listed_stocks, latest_quarterly_stocks
 
-listed_stocks, latest_quarterly_stocks, last_announced_quarter = get_all_quarterly_list()
+listed_stocks, latest_quarterly_stocks = get_all_quarterly_list()
 
 
 
 st.title(f"👇 Chose among {str(len(listed_stocks))} listed stocks")
-st.subheader(f"{str(len(latest_quarterly_stocks))} stocks announced {last_announced_quarter} Quarterly Results")
+st.subheader(f"{str(len(latest_quarterly_stocks))} stocks announced latest Quarterly Results")
 #selected = st.selectbox("Chose Company", listed_stocks)
 
 # Parse the URL parameters to get the selected stock
