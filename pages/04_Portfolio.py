@@ -311,7 +311,7 @@ if portfolio_option == "Portfolio":
 
             #this download_tradebook is especially for formatting the tradebook in downloadable format
             download_tradebook = tradebook_daily.copy()
-            download_tradebook['YCODE'] = download_tradebook['ISIN'].apply(nse_bse_search.isin_to_ycode)
+            download_tradebook['YCODE'] = download_tradebook['ISIN'].apply(nse_bse_search.isin_to_code)
 
             #st.dataframe(download_tradebook)
             #final_pf['YCODE'] = final_pf['ISIN'].apply(nse_bse_search.isin_to_ycode)
