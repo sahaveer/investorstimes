@@ -324,10 +324,10 @@ if portfolio_option == "Portfolio":
                 fundamentals.excel_link_to_download(tradebook_daily, "Download History.xlsx", "Download Tradebook")
                 if st.button("Download Holdings Txt"):
                     pf_for_txt = show_pf.copy().sort_values('Investment', ascending=False)
-                    with open(f"./holdings {today.strftime('%d%b%Y')}.txt",'w') as w:
+                    with open(f"./tradebook {today.strftime('%d%b%Y')}.txt",'w') as w:
                         for entry in pf_for_txt["YCODE"]:
                             w.write(f"{entry}\n")
-                    with open(f"./holdings {today.strftime('%d%b%Y')}.txt", 'r') as file:
+                    with open(f"./tradebook {today.strftime('%d%b%Y')}.txt", 'r') as file:
                         txt_data = file.read()
                         st.download_button(label="Download_Now", data=txt_data, file_name=f"holdings_{today.strftime('%d%b%Y')}.txt", mime="text/plain")
 
