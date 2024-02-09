@@ -312,6 +312,7 @@ if portfolio_option == "Portfolio":
             #this download_tradebook is especially for formatting the tradebook in downloadable format
             download_tradebook = tradebook_daily.copy()
             download_tradebook['YCODE'] = download_tradebook['ISIN'].apply(nse_bse_search.isin_to_ycode)
+
             #st.dataframe(download_tradebook)
             #final_pf['YCODE'] = final_pf['ISIN'].apply(nse_bse_search.isin_to_ycode)
 
@@ -321,7 +322,15 @@ if portfolio_option == "Portfolio":
             #st.info("OPEN PORTFOLIO : ")
 
             with subcol2:
-                fundamentals.excel_link_to_download(tradebook_daily, "Tradebook History.xlsx", "Download Tradebook")
+                download_tradebook = download_tradebook[['YCODE','Quantity','Trade Date','avg_price','Trade Type']]
+                download_tradebook['Trade Date'] = pd.to_datetime(download_tradebook['Trade Date'])
+                download_tradebook['Trade Date'] = download_tradebook['Trade Date'].dt.strftime('%d-%m-%Y')
+                #st.dataframe(download_tradebook)
+                download_tradebook = download_tradebook.rename(
+                    columns={'YCODE': 'Symbol', 'Trade Date': 'BuyDate', 'Trade Type': 'Type', 'avg_price': 'BuyPrice'})
+                fundamentals.excel_link_to_download(download_tradebook, "Tradebook Marketsmith.xlsx", "Download MarketSmith Format")
+
+                #fundamentals.excel_link_to_download(tradebook_daily, "Tradebook History.xlsx", "Download Tradebook")
                 if st.button("Download Tradebook Txt"):
                     pf_for_txt = show_pf.copy().sort_values('Investment', ascending=False)
                     with open(f"./tradebook {today.strftime('%d%b%Y')}.txt",'w') as w:
@@ -357,13 +366,6 @@ if portfolio_option == "Portfolio":
                         txt_data = file.read()
                         st.download_button(label="Download_Now", data=txt_data, file_name=f"Open_holdings_{today.strftime('%d%b%Y')}.txt", mime="text/plain")
 
-                download_tradebook = download_tradebook[['YCODE','Quantity','Trade Date','avg_price','Trade Type']]
-                download_tradebook['Trade Date'] = pd.to_datetime(download_tradebook['Trade Date'])
-                download_tradebook['Trade Date'] = download_tradebook['Trade Date'].dt.strftime('%d-%m-%Y')
-                #st.dataframe(download_tradebook)
-                download_tradebook = download_tradebook.rename(
-                    columns={'YCODE': 'Symbol', 'Trade Date': 'BuyDate', 'Trade Type': 'Type', 'avg_price': 'BuyPrice'})
-                fundamentals.excel_link_to_download(download_tradebook, "Tradebook Marketsmith.xlsx", "Download MarketSmith Format")
 
             #st.info("CLosed Portfolio")
             with CLosed_Portfolio:
