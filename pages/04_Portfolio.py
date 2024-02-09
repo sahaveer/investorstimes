@@ -324,7 +324,7 @@ if portfolio_option == "Portfolio":
                 fundamentals.excel_link_to_download(tradebook_daily, "Download History.xlsx", "Download Tradebook")
                 if st.button("Download Holdings Txt"):
                     pf_for_txt = show_pf.copy().sort_values('Investment', ascending=False)
-                    with open("./portfolio/holdings {today.strftime('%d%b%Y')}.txt",'w') as w:
+                    with open(f"./holdings {today.strftime('%d%b%Y')}.txt",'w') as w:
                         for entry in pf_for_txt["YCODE"]:
                             w.write(f"{entry}\n")
 
@@ -346,7 +346,7 @@ if portfolio_option == "Portfolio":
                 st.info(f'You can pledge a total of {round(Total_Collateral)}rs')
                 if st.button("Download OpenHoldings Txt"):
                     pf_for_txt = show_pf.copy().sort_values('Investment', ascending=False)
-                    with open(f"./portfolio/openholdings {today.strftime('%d%b%Y')}.txt",'w') as w:
+                    with open(f"./openholdings {today.strftime('%d%b%Y')}.txt",'w') as w:
                         for entry in pf_for_txt["YCODE"]:
                             w.write(f"{entry}\n")
                 download_tradebook = download_tradebook[['YCODE','Quantity','Trade Date','avg_price','Trade Type']]
