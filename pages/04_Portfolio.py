@@ -321,15 +321,15 @@ if portfolio_option == "Portfolio":
             #st.info("OPEN PORTFOLIO : ")
 
             with subcol2:
-                fundamentals.excel_link_to_download(tradebook_daily, "Download History.xlsx", "Download Tradebook")
-                if st.button("Download Holdings Txt"):
+                fundamentals.excel_link_to_download(tradebook_daily, "Tradebook History.xlsx", "Download Tradebook")
+                if st.button("Download Tradebook Txt"):
                     pf_for_txt = show_pf.copy().sort_values('Investment', ascending=False)
                     with open(f"./tradebook {today.strftime('%d%b%Y')}.txt",'w') as w:
                         for entry in pf_for_txt["YCODE"]:
                             w.write(f"{entry}\n")
                     with open(f"./tradebook {today.strftime('%d%b%Y')}.txt", 'r') as file:
                         txt_data = file.read()
-                        st.download_button(label="Download_Now", data=txt_data, file_name=f"holdings_{today.strftime('%d%b%Y')}.txt", mime="text/plain")
+                        st.download_button(label="Download_Now", data=txt_data, file_name=f"tradebook_{today.strftime('%d%b%Y')}.txt", mime="text/plain")
 
 
             with Open_Portfolio:
@@ -355,7 +355,7 @@ if portfolio_option == "Portfolio":
                             w.write(f"{entry}\n")
                     with open(f"./openholdings {today.strftime('%d%b%Y')}.txt", 'r') as file:
                         txt_data = file.read()
-                        st.download_button(label="Download_Now", data=txt_data, file_name=f"holdings_{today.strftime('%d%b%Y')}.txt", mime="text/plain")
+                        st.download_button(label="Download_Now", data=txt_data, file_name=f"Open_holdings_{today.strftime('%d%b%Y')}.txt", mime="text/plain")
 
                 download_tradebook = download_tradebook[['YCODE','Quantity','Trade Date','avg_price','Trade Type']]
                 download_tradebook['Trade Date'] = pd.to_datetime(download_tradebook['Trade Date'])
