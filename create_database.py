@@ -1,24 +1,32 @@
+import pandas as pd
 import pymongo
 from pymongo import MongoClient
+from pymongoarrow.api import write
+import datetime
 # CONNECTION STRING : mongodb+srv://EODBhavcopy:bhavcopy@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority
 # client = pymongo.MongoClient("mongodb+srv://EODBhavcopy:<password>@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority")
 # db = client.test
 global my_dict
 global db
+global db2
 global NSE_col
 global BSE_col
 global INDEX_col
 global userid_col
 global topics_col
 global OI_col
+global eod_df_col
+global company_metadata_col
 from datetime import date
+import pprint
 
 my_dict = {}
 # CREATING AND CONNECTING TO DATABASE
 Connection_String = "mongodb+srv://EODBhavcopy:bhavcopy@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
-
 client = MongoClient(Connection_String)
 db = client.get_database('Bhavcopy')
+db2 = client.get_database('STOCKSINFO')
+
 # DEFINING COLLECTIONS INSIDE THE DATABASE
 NSE_col = db["NSEbhav"]
 BSE_col = db["BSEbhav"]
@@ -32,12 +40,12 @@ OI_col = db["OI"]
 EOD_col = db["EOD"]
 reco_col = db["RECO"]
 pf_col = db["Portfolio"]
-
+eod_df_col = db["EODdataframe"]
+company_metadata_col = db2["CompanyMetadata"]
+# print(list(company_metadata_col.find()))
 pfaccess_col = db["PFaccess"]
-
 gtt_col = db["GTT"]
 watchlist_col = db["Watchlist"]
-
 #EODBhavcopy : Bhavcopy : INDEXbhav
 #EODBhavcopy : Bhavcopy : NSEbhav
 
@@ -64,9 +72,46 @@ def allow_my_pf(my_id, my_name, add_id):
 def insert_db(col,fileid,date):
     #my_dict["file_id"] = fileid
     #my_dict["date"] = date
+
     my_dict = {"file_id":fileid, "date":date}                       # date in yyyymmdd
     try:
         col.insert_one(my_dict)
+    except pymongo.errors.ServerSelectionTimeoutError:
+        print("Hey buddy, we Couldnt update to the Database. \nOpen NETWORK ACCESS in MongoDB and add your IP address")
+
+def insert_stock_metadata(dict):
+    try:
+        col = company_metadata_col
+        dict["_id"] = dict['Code']
+        dict['timestamp'] = (datetime.datetime.now())
+        # check if dict['Code'] is already available in the database, and update that record
+        if col.count_documents({"Code": dict['Code']}):
+            col.find_one_and_update({"Code": dict['Code']}, {"$set": dict})
+        else:
+            col.insert_one(dict)
+    except pymongo.errors.ServerSelectionTimeoutError:
+        print("Hey buddy, we Couldnt update to the Database. \nOpen NETWORK ACCESS in MongoDB and add your IP address")
+
+def insert_EODdf(df):
+    try:
+        # Assuming df['DATE'][0] contains the condition for deletion
+        # Convert the integer date to a datetime object
+        print(df['DATE'][0])
+        print(str(document['DATE']))
+        date_from_df = datetime.strptime(str(df['DATE'][0]), '%Y%m%d')
+        print(date_from_df)
+        # Convert the integer date from the MongoDB document to a datetime object
+        document = eod_df_col.find_one({}, {'DATE': 1})
+        date_from_mongodb = datetime.strptime(str(document['DATE']), '%Y%m%d')
+        print(date_from_mongodb)
+        # Compare the datetime objects
+        if date_from_df > date_from_mongodb:
+            # Delete documents in the collection based on your condition
+            eod_df_col.delete_many({'DATE': {'$gte': df['DATE'][0]}})
+            write(eod_df_col,df)
+            #for doc in eod_df_col.find({}):
+                #pprint.pprint(doc)
+
     except pymongo.errors.ServerSelectionTimeoutError:
         print("Hey buddy, we Couldnt update to the Database. \nOpen NETWORK ACCESS in MongoDB and add your IP address")
 

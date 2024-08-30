@@ -2,8 +2,6 @@ import streamlit as st
 import pandas as pd
 import digyahoo
 
-
-
 bse_data = pd.read_csv('./Select.csv', header=0, index_col=False)
 bse_data.columns = bse_data.columns.str.replace(' ', '_')
 #df = bse_data[['Security Code', 'Issuer Name', 'Security Id', 'ISIN No']]
@@ -34,13 +32,20 @@ def isin_to_ycode(isin):
         ycode = bse_data[bse_data["ISIN_No"] == isin]["Security_Id"].values[0]
         return ycode
 
-def isin_to_code(isin):
+def isin_to_code(isin):                 # this returns CODE suitable for both SCREENER and YAHOO for NSE but for BSE, returns "BSECODE YCODE"
     if isin in nse_ISIN:
         code = nse_data[nse_data["ISIN"] == isin]["SYMBOL"].values[0]
+        #st.info(f"Asked for {isin} giving back {code}")
         return code
-    if isin in bse_ISIN:
+    elif isin in bse_ISIN:
         code = bse_data[bse_data["ISIN_No"]==isin]["Security_Code"].values[0]
+        ycode = bse_data[bse_data["ISIN_No"] == isin]["Security_Id"].values[0]
+        #return str(code) + " " + str(ycode)
+        #st.info(f"Asked for {isin} giving back {code}")
         return code
+    else:
+        return None
+
 
 def search_df_nsebse(search):
     if search in nse_ISIN:
@@ -98,3 +103,16 @@ def dict_from_bse_csv(driver):
     #selected_df.to_pickle('./bsecodes.pkl')
     # Save the selected data to a JSON file
     #selected_df.to_json('selected_data.json', orient='records')
+
+
+def bsecodenum_bsecodename():
+    bse_data = pd.read_csv('./Select.csv', header=0, index_col=False)
+    bse_data.columns = bse_data.columns.str.replace(' ', '_')
+    bse_data = bse_data[['Security_Code','Security_Id','Security_Name']].copy()
+    bsecodenum_codename = bse_data.set_index('Security_Code')['Security_Id'].to_dict()
+    bsecodename_codenum = bse_data.set_index('Security_Id')['Security_Code'].to_dict()
+    bsecodenum_fullname = bse_data.set_index('Security_Code')['Security_Name'].to_dict()
+    bsecodename_fullname = bse_data.set_index('Security_Id')['Security_Name'].to_dict()
+    bsefullname_codenum = bse_data.set_index('Security_Name')['Security_Code'].to_dict()
+    bsefullname_codename = bse_data.set_index('Security_Name')['Security_Id'].to_dict()
+    return bsecodenum_codename,bsecodename_codenum,bsecodenum_fullname,bsecodename_fullname,bsefullname_codenum,bsefullname_codename

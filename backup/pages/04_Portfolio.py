@@ -16,13 +16,12 @@ from datetime import timedelta
 import threading
 import fundamentals
 
+#pledging_path = 'C:/Users/sahaveer/PycharmProjects/webapps/Scripts/itimes local/zerodha pledging.xlsx'
+pledging_path = './zerodha pledging.xlsx'
 
-pledging_path = 'C:/Users/sahaveer/PycharmProjects/webapps/Scripts/itimes local/zerodha pledging.xlsx'
 st.set_page_config(page_title="Portfolio", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
 st.title('Portfolio Proficiency Analyzer 💸')
 #🌟
-
-
 
 # Get today's date
 today = datetime.datetime.now()
@@ -42,25 +41,6 @@ yyyy = last_weekday.strftime('%Y')
 yy = last_weekday.strftime('%y')
 live_prices = {}
 
-
-watchlist_path = st.text_input(label="Enter the txt file path whose duplicates needs to be removed", value="./watchlist/holdings1orwatchlist1.txt")    
-output_path = st.text_input(label="Where you want to save", value="./watchlist/holdingsorwatchlist.txt")    
-if st.button("Remove_Duplicates_CODES_from_holdings"):
-    # path = './watchlist/holdings.txt'
-    path = watchlist_path
-    take_list = []
-    with open(path,'r') as r:
-        for each in r:
-            take_list.append(each.strip())
-    # st.info(take_list)
-    unique_list = nse_bse_search.remove_duplicate_in_watchlist(take_list)
-    # st.success(unique_list)
-    with open(output_path,'w') as f:
-        for each in unique_list:
-            f.write(f"{each}\n")
-        st.success(f"Duplicates Removed and saved in the file {output_path}")
-
-
 #tab1, tab2, tab3 = st.tabs(["Portfolio", "Collateral"])
 portfolio_option = option_menu("", ["Portfolio", "Collateral"],icons=['cash', 'cash'], menu_icon="cast", default_index=0, orientation="horizontal")
 if portfolio_option == "Portfolio":
@@ -77,7 +57,6 @@ if portfolio_option == "Portfolio":
     tradebook = col1.file_uploader("upload TradeBooks from Zerodha", type= ['xlsx'],accept_multiple_files = True)
     st.info(f'https://www.bseindia.com/download/BhavCopy/Equity/EQ' + dd + mm + yy + '_CSV.ZIP')
     st.info(f"https://archives.nseindia.com/products/content/sec_bhavdata_full_" + dd + mm + yyyy + ".csv")
-
 @st.cache_data
 def tradebook_perday(xl):
     if isinstance(xl,pd.DataFrame):
@@ -333,23 +312,23 @@ if portfolio_option == "Portfolio":
             #this download_tradebook is especially for formatting the tradebook in downloadable format
             download_tradebook = tradebook_daily.copy()
             download_tradebook['CODE'] = download_tradebook['ISIN'].apply(nse_bse_search.isin_to_code)
-            st.dataframe(download_tradebook)
+
+            #st.dataframe(download_tradebook)
             #final_pf['YCODE'] = final_pf['ISIN'].apply(nse_bse_search.isin_to_ycode)
 
             show_pf, show_closed_pf, show_only_sell_pf =createpf(tradebook_daily)
             # this is to only SHOW the users by replacing ISIN to Symbol Name
             Open_Portfolio, CLosed_Portfolio,Make_SIP = st.tabs(["Open Position", "Closed Position","Make SIP"])
+            #st.info("OPEN PORTFOLIO : ")
 
             with subcol2:
-                download_tradebook = download_tradebook[['CODE', 'Quantity', 'Trade Date', 'avg_price', 'Trade Type']]
+                download_tradebook = download_tradebook[['CODE','Quantity','Trade Date','avg_price','Trade Type']]
                 download_tradebook['Trade Date'] = pd.to_datetime(download_tradebook['Trade Date'])
                 download_tradebook['Trade Date'] = download_tradebook['Trade Date'].dt.strftime('%d-%m-%Y')
-                # st.dataframe(download_tradebook)
+                #st.dataframe(download_tradebook)
                 download_tradebook = download_tradebook.rename(
                     columns={'CODE': 'Symbol', 'Trade Date': 'BuyDate', 'Trade Type': 'Type', 'avg_price': 'BuyPrice'})
-                fundamentals.excel_link_to_download(download_tradebook, "Tradebook Marketsmith.xlsx",
-                                                    "Download MarketSmith Format")
-
+                fundamentals.excel_link_to_download(download_tradebook, "Tradebook Marketsmith.xlsx", "Download MarketSmith Format")
 
                 #fundamentals.excel_link_to_download(tradebook_daily, "Tradebook History.xlsx", "Download Tradebook")
                 if st.button("Download Tradebook Txt"):
@@ -360,6 +339,7 @@ if portfolio_option == "Portfolio":
                     with open(f"./tradebook {today.strftime('%d%b%Y')}.txt", 'r') as file:
                         txt_data = file.read()
                         st.download_button(label="Download_Now", data=txt_data, file_name=f"tradebook_{today.strftime('%d%b%Y')}.txt", mime="text/plain")
+
 
             with Open_Portfolio:
                 # Use the map function to assign 'PnL' values to 'final_pf' based on 'Symbol' matching
