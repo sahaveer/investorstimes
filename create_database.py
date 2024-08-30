@@ -1,7 +1,6 @@
 import pandas as pd
 import pymongo
 from pymongo import MongoClient
-from pymongoarrow.api import write
 import datetime
 # CONNECTION STRING : mongodb+srv://EODBhavcopy:bhavcopy@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority
 # client = pymongo.MongoClient("mongodb+srv://EODBhavcopy:<password>@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority")
@@ -92,28 +91,6 @@ def insert_stock_metadata(dict):
     except pymongo.errors.ServerSelectionTimeoutError:
         print("Hey buddy, we Couldnt update to the Database. \nOpen NETWORK ACCESS in MongoDB and add your IP address")
 
-def insert_EODdf(df):
-    try:
-        # Assuming df['DATE'][0] contains the condition for deletion
-        # Convert the integer date to a datetime object
-        print(df['DATE'][0])
-        print(str(document['DATE']))
-        date_from_df = datetime.strptime(str(df['DATE'][0]), '%Y%m%d')
-        print(date_from_df)
-        # Convert the integer date from the MongoDB document to a datetime object
-        document = eod_df_col.find_one({}, {'DATE': 1})
-        date_from_mongodb = datetime.strptime(str(document['DATE']), '%Y%m%d')
-        print(date_from_mongodb)
-        # Compare the datetime objects
-        if date_from_df > date_from_mongodb:
-            # Delete documents in the collection based on your condition
-            eod_df_col.delete_many({'DATE': {'$gte': df['DATE'][0]}})
-            write(eod_df_col,df)
-            #for doc in eod_df_col.find({}):
-                #pprint.pprint(doc)
-
-    except pymongo.errors.ServerSelectionTimeoutError:
-        print("Hey buddy, we Couldnt update to the Database. \nOpen NETWORK ACCESS in MongoDB and add your IP address")
 
 def insert_topic(topic_dict):
     try:
