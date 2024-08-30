@@ -1,8 +1,8 @@
 yahoo-fin==0.8.9.1
 nltk==3.7
-numpy==1.22.4
+numpy
 openpyxl==3.0.10
-pandas==1.4.2
+pandas
 pdfplumber==0.7.1
 Pillow==9.2.0
 plotly==5.8.0
