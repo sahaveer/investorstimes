@@ -4,7 +4,7 @@ numpy
 openpyxl==3.0.10
 pandas
 pdfplumber==0.7.1
-Pillow==9.2.0
+Pillow
 plotly==5.8.0
 python-telegram-bot==13.11
 pymongo==4.3.3
