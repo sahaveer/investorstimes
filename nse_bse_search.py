@@ -19,10 +19,9 @@ if 'bsenames_list' not in st.session_state or 'bsecodes_list' not in st.session_
     # bse_code = bse_data["Security_Code"].tolist()
     # st.session_state.bsenames_list = bse_name
     # st.session_state.bsecodes_list = bse_code
-
     st.session_state.bsenames_list = bse_data["Security_Name"].tolist()
     st.session_state.bsecodes_list = bse_data["Security_Code"].tolist()
-
+    
 if 'nsecode_list' not in st.session_state or 'nseISIN_list' not in st.session_state:
     nse_data = pd.read_csv('./cm21JUN2024bhav.csv')
     nse_data.columns = nse_data.columns.str.replace(' ','_')

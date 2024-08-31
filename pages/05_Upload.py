@@ -247,6 +247,91 @@ if uploaded_file is not None:
         with col2:
             sub_choose = st.selectbox("Fundamentals", fundamentals.funda_menu)
 
+        if sub_choose == 'Key_Data':
+            key_data = str("""<!-- TradingView Widget BEGIN -->
+                                    <div class="tradingview-widget-container">
+                                      <div class="tradingview-widget-container__widget"></div>
+                                      <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/financials-overview/" rel="noopener" target="_blank"><span class="blue-text">Fundamental Data</span></a> by TradingView</div>
+                                      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-financials.js" async>
+                                      {
+                                      "colorTheme": "dark",
+                                      "isTransparent": false,
+                                      "largeChartUrl": "",
+                                      "displayMode": "regular",
+                                      "width": "100%",
+                                      "height": 880,
+                                      "symbol": "xx",
+                                      "locale": "en"
+                                      }
+                                      </script>
+                                    </div>
+                                    <!-- TradingView Widget END -->
+                                """)
+
+            comp_profile = str("""
+                                    <!-- TradingView Widget BEGIN -->
+                                    <div class="tradingview-widget-container">
+                                      <div class="tradingview-widget-container__widget"></div>
+                                      <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text"> Profile</span></a> by TradingView</div>
+                                      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-profile.js" async>
+                                      {
+                                      "width": "100%",
+                                      "height": 880,
+                                      "colorTheme": "dark",
+                                      "isTransparent": false,
+                                      "symbol": "xxyy",
+                                      "locale": "en"
+                                    }
+                                      </script>
+                                    </div>
+                                    <!-- TradingView Widget END -->
+                                    """)
+            with st.expander(label="TRADINGVIEW DATA"):
+                colx, coly = st.columns([1.5, 1])
+                with colx:
+                    components.html(key_data.replace("xx", comp_Name), height=1080)
+                with coly:
+                    components.html(comp_profile.replace("xxyy", comp_Name), height=1080)
+            with st.expander(label='BALANCE SHEET'):
+                st.dataframe(balancesht)
+            with st.expander(label='YEARLY PNL'):
+                st.dataframe(pnl)
+            with st.expander(label='QUARTERLY PNL'):
+                st.dataframe(qtr_pnl)
+
+            keydata_col1, keydata_col2 = st.columns([1,1])
+            with keydata_col1:
+                fundamentals.bar_line(balancesht, "DEBTOR DAYS", "INVENTORY TURNOVER", color_dict[color_key]['hash'],comp_Name, "Yearly")
+            with keydata_col2:
+                fundamentals.bar_line(balancesht, "NET BLOCK", "CAPITAL WORK IN PROGRESS", color_dict[color_key]['hash'], comp_Name,"Yearly")
+            with keydata_col1:
+                fundamentals.bar_line(balancesht, "RESERVES", "BORROWINGS", color_dict[color_key]['hash'], comp_Name,"Yearly")
+            with keydata_col2:
+                fundamentals.bar_line(balancesht, "WORKING CAPITAL", "CASH & BANK", color_dict[color_key]['hash'],comp_Name,"Yearly")
+
+            with keydata_col1:
+                st.title("QUARTERLY")
+                fundamentals.group_2_bars(qtr_pnl, "SALES", "OTHER INCOME", comp_Name, "Quarterly")
+
+            with keydata_col2:
+                st.title("YEARLY")
+                fundamentals.group_2_bars(pnl, "SALES", "OTHER INCOME", comp_Name, "Yearly")
+
+            with keydata_col1:
+                fundamentals.both_lines(qtr_pnl, "OPM %", "NPM %", color_dict['red1']['hash'], color_dict['green1']['hash'],
+                                        comp_Name, "Quarterly")
+                fundamentals.bar_line(qtr_pnl, 'NET PROFIT', 'NPM %', color_dict[color_key]['hash'], comp_Name, "Quarterly")
+
+            with keydata_col2:
+                fundamentals.both_lines(pnl, "OPM %", "NPM %", color_dict['red1']['hash'], color_dict['green1']['hash'],
+                                        comp_Name, "Yearly")
+                fundamentals.bar_line(pnl, 'NET PROFIT', 'NPM %', color_dict[color_key]['hash'], comp_Name, "Yearly")
+
+            fundamentals.go_group_bar(df_comp.loc['CASH FLOW'], "cash_flows", color_dict[color_key]['hash'], "Yearly")
+
+        # for each in variables.metadata.keys():
+        #     st.info(each)
+
         if sub_choose == "PROFIT&LOSS":            # YEARLY PNL
             sentence += fundamentals.stmt_for_qoq(pnl)
             coltw1, coltw2 = st.columns([4, 1])
