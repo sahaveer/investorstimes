@@ -64,8 +64,8 @@ def save_metadata():
 #         st.error(f"Duplicate key error occurred for {each}.")
 #save_metadata()
 
-total_keys = len(variables.metadata.keys())
-st.sidebar.info(f"Total {total_keys} stocks in metadata")
+# total_keys = len(variables.metadata.keys())
+# st.sidebar.info(f"Total {total_keys} stocks in metadata")
 
 if 'user_data' not in st.session_state:
     st.session_state.user_data = {}
@@ -691,9 +691,9 @@ selected_first_as = company_in[first_selected.split(" (")[0]]
 selected = st.sidebar.selectbox("", selected_first_as,
                 index=selected_first_as.index(selected_stock) if selected_stock in selected_first_as else 0)
 
-with col3:
-    if st.button("SAVE METADATA"):
-        save_metadata()
+# with col3:
+#     if st.button("SAVE METADATA"):
+#         save_metadata()
 
 with col2:
     if st.button(f"Create Text file from {first_selected.split(' (')[0]}"):
@@ -825,7 +825,7 @@ if selected:
                 # st.info(f"METADATA already Avaialble ")
                 metadata = variables.metadata[company_code]
             else:
-                st.info(f"METADATA NOT Avaialble ")
+                # st.info(f"METADATA NOT Avaialble ")
                 metadata = fundamentals.analyse_df(pnl,balancesht,qtr_pnl)
                 metadata['code_names'] = nse_bse_search.process_code(company_code, comp_Name)
                 variables.metadata[company_code] = metadata
@@ -847,9 +847,9 @@ if selected:
                     #     if metadata['code_names'][0] not in this_text_list:
                     #         file.write(f"{metadata['code_names'][0]}\n")
                     #         st.success(f"Updated {metadata['code_names'][0]} in {text_file}")
-            with st.expander(label=f"Metadata of {company_code}"):
-                for each in metadata.keys():
-                    st.info(f"{each} : {metadata[each]}")
+            # with st.expander(label=f"Metadata of {company_code}"):
+            #     for each in metadata.keys():
+            #         st.info(f"{each} : {metadata[each]}")
             proscons_col1, proscons_col2 = st.columns([1,1])
             with proscons_col1:
                 st.title("PROS")
