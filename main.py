@@ -1369,12 +1369,6 @@ if selected:
                 color: red;
                 background-color: #ffe6e6;
             }
-            .table-cell.buttons {
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                gap: 10px;
-            }
             </style>
         """, unsafe_allow_html=True)
         st.markdown('<div class="table-container">', unsafe_allow_html=True)
@@ -1441,11 +1435,9 @@ if selected:
                     <div class="table-row">
                         <div class="table-cell title">{code_names_html}</div>
                         <div class="table-cell success">{pros_html}</div>
-                        <div class="table-cell error">{cons_html}</div>
-                        
+                        <div class="table-cell error">{cons_html}</div>                        
                     </div>
                     ''', unsafe_allow_html=True)
-        st.markdown('</div>', unsafe_allow_html=True)
 
 # with st.expander(label="METADATA"):
 #     st.success(f"We got about {len(metadata.keys())} saved in our Metadata")
