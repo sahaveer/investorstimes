@@ -536,23 +536,19 @@ with col1:
         if 'Latest Quarterly' not in st.session_state.no_of_stocks_not_latest:
             st.session_state.no_of_stocks_not_latest['Latest Quarterly'] = lets_scan_list(show_list_as)
 
-        # with col2_header:
-        #     if st.button(f'LATEST RESULTS from entire Watchlist'):
-        #         get_latest_results(show_list_as)
-
-        temp_var = st.session_state.no_of_stocks_not_latest['Latest Quarterly']
-        if len(temp_var) > 0:
-            # with col2_header:
-            #     if st.button(f'Get Results of {len(temp_var)} scripts with NO_LATEST_RESULTS'):
-            #         get_latest_results(temp_var)
-            no_of_stocks_not_latest1 = []
-            for each in temp_var:
-                if each.isdigit():
-                    no_of_stocks_not_latest1.append(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
-                else:
-                    no_of_stocks_not_latest1.append(each)
-            with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
-                st.info(no_of_stocks_not_latest1)
+        # temp_var = st.session_state.no_of_stocks_not_latest['Latest Quarterly']
+        # if len(temp_var) > 0:
+        #     # with col2_header:
+        #     #     if st.button(f'Get Results of {len(temp_var)} scripts with NO_LATEST_RESULTS'):
+        #     #         get_latest_results(temp_var)
+        #     no_of_stocks_not_latest1 = []
+        #     for each in temp_var:
+        #         if each.isdigit():
+        #             no_of_stocks_not_latest1.append(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
+        #         else:
+        #             no_of_stocks_not_latest1.append(each)
+        #     with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
+        #         st.info(no_of_stocks_not_latest1)
     elif genre =="All Listed" :
         funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
         show_list_as = st.session_state.listed_stocks
@@ -561,24 +557,20 @@ with col1:
         if 'All Listed' not in st.session_state.no_of_stocks_not_latest:
                 st.session_state.no_of_stocks_not_latest["All Listed"] = lets_scan_list(st.session_state.listed_stocks)
         temp_var = st.session_state.no_of_stocks_not_latest["All Listed"]
-        # with col2_header:
-        #     if st.button(f'Get Latest Results for ALL'):
-        #         get_latest_results(show_list_as)
-
-        if len(temp_var) > 0:
-            # with col2_header:
-            #     if st.button(f'{len(temp_var)} needs Latest Results'):
-            #         get_latest_results(temp_var)
-            no_of_stocks_not_latest1 = []
-            for each in temp_var:
-                if each.isdigit():
-                    no_of_stocks_not_latest1.append(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
-                else:
-                    no_of_stocks_not_latest1.append(each)
-            with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
-                st.info(no_of_stocks_not_latest1)
-        # else:
-        #     st.button("LOVELY! Watchlist is Updated")
+        
+        # if len(temp_var) > 0:
+        #     # with col2_header:
+        #     #     if st.button(f'{len(temp_var)} needs Latest Results'):
+        #     #         get_latest_results(temp_var)
+        #     no_of_stocks_not_latest1 = []
+        #     for each in temp_var:
+        #         if each.isdigit():
+        #             no_of_stocks_not_latest1.append(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
+        #         else:
+        #             no_of_stocks_not_latest1.append(each)
+        #     with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
+        #         st.info(no_of_stocks_not_latest1)
+        
     elif genre == "Holdings":
         funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
         update_txt_file = './watchlist/holdings.txt'
@@ -589,22 +581,18 @@ with col1:
         if 'Holdings' not in st.session_state.no_of_stocks_not_latest:
             st.session_state.no_of_stocks_not_latest['Holdings'] = lets_scan_list(holdings_list)
         temp_var = st.session_state.no_of_stocks_not_latest['Holdings']
-        # with col2_header:
-        #     if st.button(f'Get Latest Results'):
-        #         get_latest_results(show_list_as)
-                # DISPLAY IN WEBAPP ABT STOCKS WITHOUT LATEST QRESULTS
-        if len(temp_var) > 0:
-            # with col2_header:
-            #     if st.button(f'{len(temp_var)} needs Latest Results'):
-            #         get_latest_results(temp_var)
-            no_of_stocks_not_latest1 = []
-            for each in temp_var:
-                if each.isdigit():
-                    no_of_stocks_not_latest1.append(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
-                else:
-                    no_of_stocks_not_latest1.append(each)
-            with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
-                st.info(no_of_stocks_not_latest1)
+        # if len(temp_var) > 0:
+        #     # with col2_header:
+        #     #     if st.button(f'{len(temp_var)} needs Latest Results'):
+        #     #         get_latest_results(temp_var)
+        #     no_of_stocks_not_latest1 = []
+        #     for each in temp_var:
+        #         if each.isdigit():
+        #             no_of_stocks_not_latest1.append(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
+        #         else:
+        #             no_of_stocks_not_latest1.append(each)
+        #     with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
+        #         st.info(no_of_stocks_not_latest1)
     elif genre == "Watchlist":
         funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
         update_txt_file = './watchlist/watchlist.txt'
@@ -617,21 +605,21 @@ with col1:
         temp_var = st.session_state.no_of_stocks_not_latest['Watchlist']
         # st.info(f"Out of {len(watch_list)} stocks, {len(temp_var)} have NO-LATEST results")
 
-        with col2_header:
-            if st.button(f'Get Latest Results'):
-                get_latest_results(show_list_as)
-        if len(temp_var) > 0:
-            # with col2_header:
-            #     if st.button(f'{len(temp_var)} needs Latest Results'):
-            #         get_latest_results(temp_var)
-            no_of_stocks_not_latest1 = []
-            for each in temp_var:
-                if each.isdigit():
-                    no_of_stocks_not_latest1.append(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
-                else:
-                    no_of_stocks_not_latest1.append(each)
-            with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
-                st.info(no_of_stocks_not_latest1)
+        # with col2_header:
+        #     if st.button(f'Get Latest Results'):
+        #         get_latest_results(show_list_as)
+        # if len(temp_var) > 0:
+        #     # with col2_header:
+        #     #     if st.button(f'{len(temp_var)} needs Latest Results'):
+        #     #         get_latest_results(temp_var)
+        #     no_of_stocks_not_latest1 = []
+        #     for each in temp_var:
+        #         if each.isdigit():
+        #             no_of_stocks_not_latest1.append(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
+        #         else:
+        #             no_of_stocks_not_latest1.append(each)
+        #     with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
+        #         st.info(no_of_stocks_not_latest1)
     elif genre == "Favourite":
         funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
         update_txt_file = './watchlist/favourite.txt'
@@ -645,19 +633,19 @@ with col1:
         #     if st.button(f'Get Latest Results'):
         #         get_latest_results(show_list_as)
 
-        if len(temp_var) > 0:
-            # with col2_header:
-            #     if st.button(f'{len(temp_var)} needs Latest Results'):
-            #         get_latest_results(temp_var)
-            # ONLY TO SHOW BOTH CODE AND NAME TOGETHER IN EXPANDER
-            no_of_stocks_not_latest1 = []
-            for each in temp_var:
-                if each.isdigit():
-                    no_of_stocks_not_latest1.append(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
-                else:
-                    no_of_stocks_not_latest1.append(each)
-            with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
-                st.info(no_of_stocks_not_latest1)
+        # if len(temp_var) > 0:
+        #     # with col2_header:
+        #     #     if st.button(f'{len(temp_var)} needs Latest Results'):
+        #     #         get_latest_results(temp_var)
+        #     # ONLY TO SHOW BOTH CODE AND NAME TOGETHER IN EXPANDER
+        #     no_of_stocks_not_latest1 = []
+        #     for each in temp_var:
+        #         if each.isdigit():
+        #             no_of_stocks_not_latest1.append(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
+        #         else:
+        #             no_of_stocks_not_latest1.append(each)
+        #     with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
+        #         st.info(no_of_stocks_not_latest1)
                                                                                                                         # GET LIST OF STOCKS IN WATCHLIST and MAKE WATCHLISTS AS PER TAGS
 company_in = {}
 company_in['ALL'] = show_list_as
