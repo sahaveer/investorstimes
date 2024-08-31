@@ -2,6 +2,13 @@ import streamlit as st
 import pandas as pd
 import digyahoo
 
+if 'nsecode_list' not in st.session_state or 'nseISIN_list' not in st.session_state:
+        nse_data = pd.read_csv('./cm21JUN2024bhav.csv')
+        nse_data.columns = nse_data.columns.str.replace(' ', '_')
+        st.session_state.nseISIN_list = nse_data["ISIN"].tolist()
+        st.session_state.nsecode_list = nse_data["SYMBOL"].tolist()
+
+
 if 'bsenames_list' not in st.session_state or 'bsecodes_list' not in st.session_state:  #if 'bse_ISIN' not in st.session_state or 'bse_ycode' not in st.session_state
     bse_data = pd.read_csv('./Select.csv', header=0, index_col=False)
     bse_data.columns = bse_data.columns.str.replace(' ', '_')
