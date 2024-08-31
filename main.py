@@ -21,7 +21,7 @@ import fundamentals
 import variables
 
 token_jarvis = "1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI"                     # JarvisPOSTME
-bot = telegram.Bot(token=jarvis_bot)
+bot = telegram.Bot(token=token_jarvis)
 
 
 if 'nsecode_list' not in st.session_state or 'nseISIN_list' not in st.session_state:
