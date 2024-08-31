@@ -1419,7 +1419,6 @@ if selected:
                     metadata_info = fundamentals.analyse_df(pnl, balancesht, qtr_pnl)
                     metadata_info['code_names'] = nse_bse_search.process_code(company_code, comp_Name)
                     variables.metadata[company_code] = metadata_info
-                    st.info(metadata_info)
                     if 'tags' in metadata_info.keys():
                         if len(metadata_info['tags']) >=1:
                             for each in metadata_info['tags']:
@@ -1443,44 +1442,10 @@ if selected:
                         <div class="table-cell title">{code_names_html}</div>
                         <div class="table-cell success">{pros_html}</div>
                         <div class="table-cell error">{cons_html}</div>
-                        <div class="table-cell buttons">
-                            <button id="Remove-{company_code}" onclick="handleRemove('{company_code}')">Remove</button>
-                            <button id="Add-{company_code}" onclick="handleAdd('{company_code}')">Add</button>
-                        </div>
+                        
                     </div>
                     ''', unsafe_allow_html=True)
         st.markdown('</div>', unsafe_allow_html=True)
-        # Define JavaScript functions to handle like and dislike
-        st.markdown("""
-                    <script>
-                    function handleRemove(company) {
-                        document.getElementById("Remove-" + company).innerHTML = "Removed";
-                        document.getElementById("Add-" + company).disabled = true;
-                        window.location.href = window.location.href + "?Remove=" + company;
-                    }
-                    function handleAdd(company) {
-                        document.getElementById("Add-" + company).innerHTML = "Added";
-                        document.getElementById("Remove-" + company).disabled = true;
-                        window.location.href = window.location.href + "?Add=" + company;
-                    }
-                    </script>
-                    """, unsafe_allow_html=True)
-        # Handle query parameters to update the show_list_as
-        query_params = st.experimental_get_query_params()
-        added_company = query_params.get("Add", [None])[0]
-        removed_company = query_params.get("Remove", [None])[0]
-
-        if removed_company and removed_company in show_list_as:
-            show_list_as.remove(removed_company)
-            st.session_state.show_list_as = show_list_as
-            # Save updted watchlist to file
-            os.makedirs('./watchlist', exist_ok=True)
-            with open(update_txt_file, 'w') as f:
-                for company in show_list_as:
-                    f.write(f"{company}\n")
-
-            
-            st.experimental_set_query_params()  # Clear query params after updating
 
 # with st.expander(label="METADATA"):
 #     st.success(f"We got about {len(metadata.keys())} saved in our Metadata")
