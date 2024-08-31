@@ -875,10 +875,7 @@ if selected:
                 
         else:
             # get_latest_results([company_code])
-            metadata = variables.metadata[company_code]
-            if not os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and \
-                    os.path.exists(
-                        f'./pickl/{tree_folder}/{company_code} Yearly.pkl'):  # if Quarterly data not available
+            if not os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{company_code} Yearly.pkl'):  # if Quarterly data not available
                 df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{company_code} Yearly.pkl')
                 st.info(f"ONLY YEARLY DATA AVAILABLE, thus Reading ./pickl/{tree_folder}/{company_code} Yearly.pkl")
                 try:
@@ -894,9 +891,8 @@ if selected:
                 with coltw2:
                     textarea_is = st.text_area(label="👉 INSIGHTS", value="", height=180, key="InsightsY1")
 
-
-            elif os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and os.path.exists(
-                    f'./pickl/{tree_folder}/{company_code} Yearly.pkl'):
+            elif os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{company_code} Yearly.pkl'):
+                metadata = variables.metadata[company_code]
                 st.info(f"PKL FILE EXISTS, thus Reading './pickl/{tree_folder}/{company_code} Yearly.pkl' and './pickl/{tree_folder}/{company_code} Quarterly.pkl'   ")
                 df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{company_code} Yearly.pkl')
                 # st.info(f"PKL FILE EXISTS, thus Reading './pickl/{tree_folder}/{comp_Name} Yearly.pkl'   ")
@@ -985,6 +981,8 @@ if selected:
                     with coltw2:
                         textarea_is = st.text_area(label="👉 INSIGHTS", value=sentence, height=180, key="InsightsYQ1")
 
+            else:
+                st.markdown(f"[***Didnt Find Your Data, Kindly Upload Screener File here***]({https://itimesalgo.streamlit.app/Upload})", unsafe_allow_html=True)
         with subcoltw2_2:
             if st.button('Send Telegram'):
                 # bot.send_message(chat_id=chat_id, text=sentence)
