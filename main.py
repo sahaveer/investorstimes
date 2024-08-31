@@ -11,6 +11,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 import streamlit.components.v1 as components
 st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)
+import telegram
 
 import nse_bse_search
 import create_database
@@ -18,6 +19,10 @@ import fundamentals
 # import processdriver
 # import screenerpage
 import variables
+
+token_jarvis = "1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI"                     # JarvisPOSTME
+bot = telegram.Bot(token=jarvis_bot)
+
 
 if 'nsecode_list' not in st.session_state or 'nseISIN_list' not in st.session_state:
         nse_data = pd.read_csv('./cm21JUN2024bhav.csv')
@@ -877,6 +882,8 @@ if selected:
                 # with subcoltw2_1:
                 #     if st.button("Overwrite Amibroker Notes"):
                 #         amibroker.amibroker_notes_insights(metadata['code_names'], textarea_is)
+                with subcoltw2_1:
+                    chat_id = st.text_input(label="👉 ChatID", value="itimesAlgo_d")
                 with subcoltw2_2:
                     if st.button('Send Telegram'):
                         bot.send_message(chat_id=chat_id, text=sentence)
