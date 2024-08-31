@@ -19,7 +19,7 @@ import fundamentals
 from pathlib import Path
 
 script_dir = Path(__file__).parent
-pledging_path = script_dir.parent / '/zerodha pledging.xlsx'
+pledging_path = script_dir.parent / 'zerodha pledging.xlsx'
 
 st.set_page_config(page_title="Portfolio", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
 st.title('Portfolio Proficiency Analyzer 💸')
