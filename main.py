@@ -794,6 +794,9 @@ if selected:
                 sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_keys)
                 st.title(comp_Name)            
             # st.error("Yearly DATA not in order")
+            with coltw2:
+                textarea_is = st.text_area(label="👉 INSIGHTS", value="", height=180, key="InsightsY")
+
 
         elif os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{company_code} Yearly.pkl'):
             df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{company_code} Yearly.pkl')
@@ -883,7 +886,7 @@ if selected:
                 sentence += f"\n{metadata['QPNL_tweet']}\n{metadata['YPNL_tweet']}"
 
             with coltw2:
-                textarea_is = st.text_area(label="👉 INSIGHTS", value=sentence, height=180, key="Insights")
+                textarea_is = st.text_area(label="👉 INSIGHTS", value=sentence, height=180, key="InsightsYQ")
                 
         else:
             # get_latest_results([company_code])
@@ -904,7 +907,7 @@ if selected:
                     sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_keys)
 
                 with coltw2:
-                    textarea_is = st.text_area(label="👉 INSIGHTS", value="", height=180, key="InsightsY")
+                    textarea_is = st.text_area(label="👉 INSIGHTS", value="", height=180, key="InsightsY1")
 
 
             elif os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and os.path.exists(
@@ -995,8 +998,8 @@ if selected:
 
                 with coltw2:
                     with coltw2:
-                        textarea_is = st.text_area(label="👉 INSIGHTS", value=sentence, height=180, key="InsightsYQ")
-        
+                        textarea_is = st.text_area(label="👉 INSIGHTS", value=sentence, height=180, key="InsightsYQ1")
+
         with subcoltw2_2:
             if st.button('Send Telegram'):
                 # bot.send_message(chat_id=chat_id, text=sentence)
