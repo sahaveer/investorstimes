@@ -13,7 +13,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 import streamlit.components.v1 as components
 st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)
-import telegram
+# import telegram
 
 import nse_bse_search
 import create_database
@@ -22,9 +22,8 @@ import fundamentals
 # import screenerpage
 import variables
 
-token_jarvis = "1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI"                     # JarvisPOSTME
-bot = telegram.Bot(token=token_jarvis)
-group_telegram = "-1001254776963"
+# token_jarvis = "1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI"                     # JarvisPOSTME
+# bot = telegram.Bot(token=token_jarvis)
 
 if 'nsecode_list' not in st.session_state or 'nseISIN_list' not in st.session_state:
         nse_data = pd.read_csv('./cm21JUN2024bhav.csv')
@@ -33,7 +32,6 @@ if 'nsecode_list' not in st.session_state or 'nseISIN_list' not in st.session_st
         st.session_state.nsecode_list = nse_data["SYMBOL"].tolist()
 
 # import amibroker
-
 # Function to load the dictionary from a file
 def load_metadata():
     if os.path.exists('./metadata.pkl'):
