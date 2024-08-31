@@ -687,10 +687,18 @@ selected_first_as = company_in[first_selected.split(" (")[0]]
 
 selected = st.sidebar.selectbox("", selected_first_as,
                 index=selected_first_as.index(selected_stock) if selected_stock in selected_first_as else 0)
-if st.button(f"Make Txt file from {first_selected.split(' (')[0]}"):
-    with open(f'./watchlist/watchlist {first_selected.split(" (")[0]}.txt', 'w') as wr:
+if st.button(f"Create Text file from {first_selected.split(' (')[0]}"):
+    save_txt_file_as = f"watchlist {first_selected.split(" (")[0]}.txt"
+    with open(f'./watchlist/tempwatchlist.txt', 'w') as wr:
         for each in selected_first_as:
             wr.write(each+"\n")
+    with open(f'./watchlist/tempwatchlist.txt', 'w') as file:
+        content = file.read()
+        btn = st.download_button(
+            label="Download Now",
+            data=content,
+            file_name=save_txt_file_as,
+            mime="application/text"
 
 st.experimental_set_query_params(selected=[selected],)
 if selected:
@@ -723,10 +731,10 @@ if selected:
                                                                                                                         # TRADING VIEW DATA
                                                                                                                         # ADD TO FAVOURITE TXT FILE
                                                                                                                         # GIVE A FAVOURITE BUTTON
-    with col4:
-        if st.button("+FAVOURITE"):
-            with open('./watchlist/favourite.txt', 'w') as file:
-                file.write(selected)
+    # with col4:
+    #     if st.button("+FAVOURITE"):
+    #         with open('./watchlist/favourite.txt', 'w') as file:
+    #             file.write(selected)
 
     coltw1, coltw2 = st.columns([2, 2])
                                                                                                                         # TICKER INFO FROM TRADING VIEW SITE
@@ -993,77 +1001,46 @@ if selected:
                     # with subcol4_2:
                     #     standalone = st.checkbox("Standalone",value=True)
 
-        with col2_header:
-            # if st.button(f'GET RESULTS : Script'):
-            #     get_latest_results([metadata['code_names'][0]])
-            if st.button(f"Process all Pickle Files again and make TAGS from this WATCHLIST"):
-                for each_code in show_list_as:
-                    company_code, code_name = get_code(each_code)
-                    if company_code is not None and code_name is not None:
-                        code_names = nse_bse_search.process_code(company_code, code_name)                    
-                    #st.info(each_pickl)
-                    if os.path.exists(f"./pickl/{company_code[0]}/{company_code} Yearly.pkl") and os.path.exists(f"./pickl/{company_code[0]}/{company_code} Quarterly.pkl"):
-                        with open(f"./pickl/{company_code[0]}/{company_code} Yearly.pkl", 'rb') as file:
-                            yr_df = pickle.load(file)                    
-                        with open(f"./pickl/{company_code[0]}/{company_code} Quarterly.pkl", 'rb') as file:
-                            qtr_df = pickle.load(file)
-                        st.success(f"Processing {company_code}")
-                        pnl, balancesht = fundamentals.develop_yearly(yr_df)
-                        qtr_pnl = fundamentals.develop_quarterly(qtr_df)
-                        # st.dataframe(pnl)
-                        # st.dataframe(qtr_pnl)                                        
-                        metadata = fundamentals.analyse_df(pnl, balancesht, qtr_pnl)
-                        metadata['code_names'] = code_names
-                        metadata['Code'] = code_names[0]
-                        variables.metadata[company_code] = metadata
-                        # st.success(variables.metadata[company_code]['recent_quarter'])
-                                                                                                                                                    #writing tags to its respective text files
-                        if len(metadata['tags'])>=1:
-                            for each in metadata['tags']:
-                                text_file = f'./watchlist/groups/{each}.txt'
-                                if each not in variables.user_data.keys():
-                                    variables.user_data[each] = []    
-                                if metadata['code_names'][0] not in variables.user_data[each]:
-                                    with open(text_file,'a+') as file:
-                                        file.write(f"{metadata['code_names'][0]}\n")
-                                        st.success(f"Updated {metadata['code_names'][0]} in {text_file}")
-                            variables.metadata[company_code] = metadata
-                        save_metadata()
+        # with col2_header:
+        #     # if st.button(f'GET RESULTS : Script'):
+        #     #     get_latest_results([metadata['code_names'][0]])
+        #     if st.button(f"Process all Pickle Files again and make TAGS from this WATCHLIST"):
+        #         for each_code in show_list_as:
+        #             company_code, code_name = get_code(each_code)
+        #             if company_code is not None and code_name is not None:
+        #                 code_names = nse_bse_search.process_code(company_code, code_name)                    
+        #             #st.info(each_pickl)
+        #             if os.path.exists(f"./pickl/{company_code[0]}/{company_code} Yearly.pkl") and os.path.exists(f"./pickl/{company_code[0]}/{company_code} Quarterly.pkl"):
+        #                 with open(f"./pickl/{company_code[0]}/{company_code} Yearly.pkl", 'rb') as file:
+        #                     yr_df = pickle.load(file)                    
+        #                 with open(f"./pickl/{company_code[0]}/{company_code} Quarterly.pkl", 'rb') as file:
+        #                     qtr_df = pickle.load(file)
+        #                 st.success(f"Processing {company_code}")
+        #                 pnl, balancesht = fundamentals.develop_yearly(yr_df)
+        #                 qtr_pnl = fundamentals.develop_quarterly(qtr_df)
+        #                 # st.dataframe(pnl)
+        #                 # st.dataframe(qtr_pnl)                                        
+        #                 metadata = fundamentals.analyse_df(pnl, balancesht, qtr_pnl)
+        #                 metadata['code_names'] = code_names
+        #                 metadata['Code'] = code_names[0]
+        #                 variables.metadata[company_code] = metadata
+        #                 # st.success(variables.metadata[company_code]['recent_quarter'])
+        #                                                                                                                                             #writing tags to its respective text files
+        #                 if len(metadata['tags'])>=1:
+        #                     for each in metadata['tags']:
+        #                         text_file = f'./watchlist/groups/{each}.txt'
+        #                         if each not in variables.user_data.keys():
+        #                             variables.user_data[each] = []    
+        #                         if metadata['code_names'][0] not in variables.user_data[each]:
+        #                             with open(text_file,'a+') as file:
+        #                                 file.write(f"{metadata['code_names'][0]}\n")
+        #                                 st.success(f"Updated {metadata['code_names'][0]} in {text_file}")
+        #                     variables.metadata[company_code] = metadata
+        #                 save_metadata()
 
 
 
-                # for each_pickl in glob.glob('./pickl/**/*Yearly.pkl', recursive=True):
-                #     each_pickl = each_pickl.replace('\\', '/')
-                #     company_code1 = os.path.basename(each_pickl).split('.')[0].split(' ')[0]
-                #     company_code, code_name = get_code(company_code1)
-                #     if company_code is not None and code_name is not None:
-                #         code_names = nse_bse_search.process_code(company_code, code_name)
-                    
-                #     #st.info(each_pickl)
-                #     with open(each_pickl, 'rb') as file:
-                #         yr_df = pickle.load(file)
-                #     if os.path.exists(f"./pickl/{company_code[0]}/{company_code} Quarterly.pkl"):
-                #         with open(f"./pickl/{company_code[0]}/{company_code} Quarterly.pkl", 'rb') as file:
-                #             qtr_df = pickle.load(file)
-                #         st.success(f"Processing {company_code}")
-                #         pnl, balancesht = fundamentals.develop_yearly(yr_df)
-                #         qtr_pnl = fundamentals.develop_quarterly(qtr_df)
-                #         # st.dataframe(pnl)
-                #         # st.dataframe(qtr_pnl)                                        
-                #         metadata = fundamentals.analyse_df(pnl, balancesht, qtr_pnl)
-                #         metadata['code_names'] = code_names
-                #         variables.metadata[company_code] = metadata
-                #         # st.success(variables.metadata[company_code]['recent_quarter'])
-                #                                                                                                                                     #writing tags to its respective text files
-                #         if len(metadata['tags'])>=1:
-                #             for each in metadata['tags']:
-                #                 text_file = f'./watchlist/groups/{each}.txt'
-                #                 if metadata['code_names'][0] not in variables.user_data[each]:
-                #                     with open(text_file,'a+') as file:
-                #                         file.write(f"{metadata['code_names'][0]}\n")
-                #                         st.success(f"Updated {metadata['code_names'][0]} in {text_file}")
-                #             variables.metadata[company_code] = metadata
-                #             save_metadata()
+                
                 
         #sub_choose = option_menu("", fundamentals.funda_menu,default_index=3,orientation="horizontal")
         if sub_choose == "PROFIT&LOSS":            # YEARLY PNL
