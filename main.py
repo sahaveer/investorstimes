@@ -339,9 +339,6 @@ def get_code(query):
 
                                                                                                                         # Function to save the dictionary to a file
 
-with col2_header:
-    if st.button("SAVE METADATA"):
-        save_metadata()
 
 # IF RECENT_QUARTER IS NOT NEW IN METADATA
 # DWONLOADS FROM SCREENER, ANALYSES TO GET THE METADATA
@@ -693,18 +690,24 @@ selected_first_as = company_in[first_selected.split(" (")[0]]
 
 selected = st.sidebar.selectbox("", selected_first_as,
                 index=selected_first_as.index(selected_stock) if selected_stock in selected_first_as else 0)
-if st.button(f"Create Text file from {first_selected.split(' (')[0]}"):
-    save_txt_file_as = f"watchlist {first_selected.split(" (")[0]}.txt"
-    with open(f'./watchlist/tempwatchlist.txt', 'w') as wr:
-        for each in selected_first_as:
-            wr.write(each+"\n")
-    with open(f'./watchlist/tempwatchlist.txt', 'w') as file:
-        content = file.read()
-        btn = st.download_button(
-            label="Download Now",
-            data=content,
-            file_name=save_txt_file_as,
-            mime="application/text")
+
+with col3:
+    if st.button("SAVE METADATA"):
+        save_metadata()
+
+with col2:
+    if st.button(f"Create Text file from {first_selected.split(' (')[0]}"):
+        save_txt_file_as = f"watchlist {first_selected.split(" (")[0]}.txt"
+        with open(f'./watchlist/tempwatchlist.txt', 'w') as wr:
+            for each in selected_first_as:
+                wr.write(each+"\n")
+        with open(f'./watchlist/tempwatchlist.txt', 'w') as file:
+            content = file.read()
+            btn = st.download_button(
+                label="Download Now",
+                data=content,
+                file_name=save_txt_file_as,
+                mime="application/text")
 
 st.experimental_set_query_params(selected=[selected],)
 if selected:
