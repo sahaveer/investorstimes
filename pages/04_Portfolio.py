@@ -45,6 +45,7 @@ live_prices = {}
 st.title("Upload and Read a Text File with Stock Names")
 # File uploader widget
 uploaded_file = st.file_uploader("Choose a text file with stock names", type="txt")
+take_list = []
 if uploaded_file is not None:
     # Read the file line by line and store each line in the list
     for line in uploaded_file:
