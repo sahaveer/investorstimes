@@ -1421,25 +1421,15 @@ if selected:
                     variables.metadata[company_code] = metadata_info
                     st.info(metadata_info)
                     if 'tags' in metadata_info.keys():
-                        if len(metadata['tags']) < 1:
-                            pass
-                        else:
-                            for each in metadata['tags']:
+                        if len(metadata_info['tags']) >=1:
+                            for each in metadata_info['tags']:
                                 text_file = f'./watchlist/groups/{each}.txt'
                                 if each not in variables.user_data.keys():
                                     variables.user_data[each] = []
-                                if metadata['code_names'][0] not in variables.user_data[each]:
+                                if metadata_info['code_names'][0] not in variables.user_data[each]:
                                     with open(text_file, 'a+') as file:
-                                        file.write(f"{metadata['code_names'][0]}\n")
-                                        st.success(f"Updated {metadata['code_names'][0]} in {text_file}")
-                                # this_text_list = []
-                                # with open(text_file, 'a+') as file:
-                                #     for each in file:
-                                #         this_text_list.append(each)
-                                #     st.info(this_text_list)
-                                #     if metadata['code_names'][0] not in this_text_list:
-                                #         file.write(f"{metadata['code_names'][0]}\n")
-                                #         st.success(f"Updated {metadata['code_names'][0]} in {text_file}")
+                                        file.write(f"{metadata_info['code_names'][0]}\n")
+                                        st.success(f"Updated {metadata_info['code_names'][0]} in {text_file}")
                 else:
                     st.error(f"PICKLE DATA is not available anywhere for {company_code}")
 
