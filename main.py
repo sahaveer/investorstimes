@@ -772,6 +772,11 @@ if selected:
         else:
             tree_folder = company_code[0].upper()
 
+        with coltw2:
+            subcoltw2_1, subcoltw2_2 = st.columns([1, 1])
+            with subcoltw2_1:
+                chat_name = st.text_input(label="👉 ChatID", value="itimesAlgo_D")
+
         # st.info(f"In FUNDACHART comp_Name : {comp_Name}")
                                                                                                                         # if Quarterly data not available but YEARLY DATA AVAILABLE
         if not os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and \
@@ -787,8 +792,7 @@ if selected:
             pnl, balancesht = fundamentals.develop_yearly(df_comp)
             with st.sidebar:  # with col2:
                 sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_keys)
-                st.title(comp_Name)
-            
+                st.title(comp_Name)            
             # st.error("Yearly DATA not in order")
 
         elif os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{company_code} Yearly.pkl'):
@@ -879,25 +883,8 @@ if selected:
                 sentence += f"\n{metadata['QPNL_tweet']}\n{metadata['YPNL_tweet']}"
 
             with coltw2:
-                subcoltw2_1, subcoltw2_2 = st.columns([1, 1])
                 textarea_is = st.text_area(label="👉 INSIGHTS", value=sentence, height=180, key="Insights")
-                # with subcoltw2_1:
-                #     if st.button("Overwrite Amibroker Notes"):
-                #         amibroker.amibroker_notes_insights(metadata['code_names'], textarea_is)
-                with subcoltw2_1:
-                    chat_name = st.text_input(label="👉 ChatID", value="itimesAlgo_D")
-                with subcoltw2_2:
-                    if st.button('Send Telegram'):
-                        # bot.send_message(chat_id=chat_id, text=sentence)
-                        # URL encode the message
-                        message_txt_encoded = urllib.parse.quote(sentence)
-
-                        # Construct the Telegram API URL
-                        group_address = f'https://api.telegram.org/bot1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI/sendMessage?chat_id=@{chat_name}&text={message_txt_encoded}'
-
-                        # Send the message
-                        resp = requests.get(group_address)
-
+                
         else:
             # get_latest_results([company_code])
             metadata = variables.metadata[company_code]
@@ -915,6 +902,10 @@ if selected:
 
                 with col2:
                     sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_keys)
+
+                with coltw2:
+                    textarea_is = st.text_area(label="👉 INSIGHTS", value="", height=180, key="InsightsY")
+
 
             elif os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and os.path.exists(
                     f'./pickl/{tree_folder}/{company_code} Yearly.pkl'):
@@ -1003,56 +994,19 @@ if selected:
                     sentence += f"\n{metadata['QPNL_tweet']}\n{metadata['YPNL_tweet']}"
 
                 with coltw2:
-                    subcoltw2_1, subcoltw2_2 = st.columns([1, 1])
-                    textarea_is = st.text_area(label="👉 INSIGHTS", value=sentence, height=180, key="Insights")
-                    # with subcoltw2_1:
-                    #     if st.button("Overwrite Amibroker Notes"):
-                    #         amibroker.amibroker_notes_insights(metadata['code_names'], textarea_is)
-                    with subcoltw2_2:
-                        if st.button('Send Telegram'):
-                            bot.send_message(chat_id=chat_id, text=sentence)
-                    # subcol4_1, subcol4_2 = st.columns([1,1])
-                    # with subcol4_1:
-                    #     consolidated = st.checkbox("Consolidated",value=False)
-                    # with subcol4_2:
-                    #     standalone = st.checkbox("Standalone",value=True)
+                    with coltw2:
+                        textarea_is = st.text_area(label="👉 INSIGHTS", value=sentence, height=180, key="InsightsYQ")
+        
+        with subcoltw2_2:
+            if st.button('Send Telegram'):
+                # bot.send_message(chat_id=chat_id, text=sentence)
+                # URL encode the message
+                message_txt_encoded = urllib.parse.quote(textarea_is)
+                # Construct the Telegram API URL
+                group_address = f'https://api.telegram.org/bot1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI/sendMessage?chat_id=@{chat_name}&text={message_txt_encoded}'
 
-        # with col2_header:
-        #     # if st.button(f'GET RESULTS : Script'):
-        #     #     get_latest_results([metadata['code_names'][0]])
-        #     if st.button(f"Process all Pickle Files again and make TAGS from this WATCHLIST"):
-        #         for each_code in show_list_as:
-        #             company_code, code_name = get_code(each_code)
-        #             if company_code is not None and code_name is not None:
-        #                 code_names = nse_bse_search.process_code(company_code, code_name)                    
-        #             #st.info(each_pickl)
-        #             if os.path.exists(f"./pickl/{company_code[0]}/{company_code} Yearly.pkl") and os.path.exists(f"./pickl/{company_code[0]}/{company_code} Quarterly.pkl"):
-        #                 with open(f"./pickl/{company_code[0]}/{company_code} Yearly.pkl", 'rb') as file:
-        #                     yr_df = pickle.load(file)                    
-        #                 with open(f"./pickl/{company_code[0]}/{company_code} Quarterly.pkl", 'rb') as file:
-        #                     qtr_df = pickle.load(file)
-        #                 st.success(f"Processing {company_code}")
-        #                 pnl, balancesht = fundamentals.develop_yearly(yr_df)
-        #                 qtr_pnl = fundamentals.develop_quarterly(qtr_df)
-        #                 # st.dataframe(pnl)
-        #                 # st.dataframe(qtr_pnl)                                        
-        #                 metadata = fundamentals.analyse_df(pnl, balancesht, qtr_pnl)
-        #                 metadata['code_names'] = code_names
-        #                 metadata['Code'] = code_names[0]
-        #                 variables.metadata[company_code] = metadata
-        #                 # st.success(variables.metadata[company_code]['recent_quarter'])
-        #                                                                                                                                             #writing tags to its respective text files
-        #                 if len(metadata['tags'])>=1:
-        #                     for each in metadata['tags']:
-        #                         text_file = f'./watchlist/groups/{each}.txt'
-        #                         if each not in variables.user_data.keys():
-        #                             variables.user_data[each] = []    
-        #                         if metadata['code_names'][0] not in variables.user_data[each]:
-        #                             with open(text_file,'a+') as file:
-        #                                 file.write(f"{metadata['code_names'][0]}\n")
-        #                                 st.success(f"Updated {metadata['code_names'][0]} in {text_file}")
-        #                     variables.metadata[company_code] = metadata
-        #                 save_metadata()
+                # Send the message
+                resp = requests.get(group_address)
 
 
 
