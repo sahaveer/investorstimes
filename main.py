@@ -1438,7 +1438,8 @@ if selected:
                                 #     if metadata['code_names'][0] not in this_text_list:
                                 #         file.write(f"{metadata['code_names'][0]}\n")
                                 #         st.success(f"Updated {metadata['code_names'][0]} in {text_file}")
-
+                        else:
+                            pass
                 else:
                     st.error(f"PICKLE DATA is not available anywhere for {company_code}")
 
