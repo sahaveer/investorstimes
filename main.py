@@ -6,6 +6,8 @@ import datetime
 import time
 import pandas as pd
 import pickle
+import requests
+import urllib
 
 import streamlit as st
 from streamlit_option_menu import option_menu
@@ -22,7 +24,7 @@ import variables
 
 token_jarvis = "1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI"                     # JarvisPOSTME
 bot = telegram.Bot(token=token_jarvis)
-
+group_telegram = "-1001254776963"
 
 if 'nsecode_list' not in st.session_state or 'nseISIN_list' not in st.session_state:
         nse_data = pd.read_csv('./cm21JUN2024bhav.csv')
@@ -883,10 +885,18 @@ if selected:
                 #     if st.button("Overwrite Amibroker Notes"):
                 #         amibroker.amibroker_notes_insights(metadata['code_names'], textarea_is)
                 with subcoltw2_1:
-                    chat_id = st.text_input(label="👉 ChatID", value="itimesAlgo_d")
+                    chat_name = st.text_input(label="👉 ChatID", value="itimesAlgo_D")
                 with subcoltw2_2:
                     if st.button('Send Telegram'):
-                        bot.send_message(chat_id=chat_id, text=sentence)
+                        # bot.send_message(chat_id=chat_id, text=sentence)
+                        # URL encode the message
+                        message_txt_encoded = urllib.parse.quote(sentence)
+
+                        # Construct the Telegram API URL
+                        group_address = f'https://api.telegram.org/bot1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI/sendMessage?chat_id=@{chat_name}&text={message_txt_encoded}'
+
+                        # Send the message
+                        resp = requests.get(group_address)
 
         else:
             # get_latest_results([company_code])
