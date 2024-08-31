@@ -105,9 +105,6 @@ def go_bar(df, row_name,color_bar,comp_Name,filename):
     # new_df = pd.concat([df.loc[row_name]], axis=1).transpose()
     st.plotly_chart(fig,use_container_width=True)
     col1, col3 = st.columns([2,1])
-    #with col1:
-        #with st.expander(row_name + " DATA"):
-            #st.dataframe(new_df.style.format(formatter="{:.1f}"))
     with col1:
         title_text = f"{comp_Name}" # comp_Name.upper() + " " + save_as
         key_have = f"GoBar {save_as}"
