@@ -698,7 +698,7 @@ if st.button(f"Create Text file from {first_selected.split(' (')[0]}"):
             label="Download Now",
             data=content,
             file_name=save_txt_file_as,
-            mime="application/text"
+            mime="application/text")
 
 st.experimental_set_query_params(selected=[selected],)
 if selected:
