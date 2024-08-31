@@ -1421,7 +1421,9 @@ if selected:
                     variables.metadata[company_code] = metadata_info
                     st.info(metadata_info)
                     if 'tags' in metadata_info.keys():
-                        if len(metadata['tags']) >= 1:
+                        if len(metadata['tags']) < 1:
+                            pass
+                        else:
                             for each in metadata['tags']:
                                 text_file = f'./watchlist/groups/{each}.txt'
                                 if each not in variables.user_data.keys():
@@ -1438,8 +1440,6 @@ if selected:
                                 #     if metadata['code_names'][0] not in this_text_list:
                                 #         file.write(f"{metadata['code_names'][0]}\n")
                                 #         st.success(f"Updated {metadata['code_names'][0]} in {text_file}")
-                        else:
-                            pass
                 else:
                     st.error(f"PICKLE DATA is not available anywhere for {company_code}")
 
