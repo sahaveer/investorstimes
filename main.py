@@ -517,11 +517,10 @@ selected_stock = url.get("selected", [""])[0]
 
 # WATCHLIST OPTIONS
 col1, col2, col3, col4 = st.columns([2, 2, 2, 2])
-with col3:
-    #genre = st.checkbox(label='Only latest Quarter',value=True)
-
-    genre = st.radio("Chose Genre :",["Holdings",":rainbow[Latest Quarterly]", "Watchlist","All Listed","Favourite"],)
-
+# with col3:
+#     #genre = st.checkbox(label='Only latest Quarter',value=True)
+#     genre = st.radio("Chose Genre :",["Holdings",":rainbow[Latest Quarterly]", "Watchlist","All Listed","Favourite"],)
+genre = "All Listed"
 
                                                                                                                         # SELECTION OF WATCHLIST
 with col1:
@@ -1420,7 +1419,7 @@ if selected:
                     metadata_info = fundamentals.analyse_df(pnl, balancesht, qtr_pnl)
                     metadata_info['code_names'] = nse_bse_search.process_code(company_code, comp_Name)
                     variables.metadata[company_code] = metadata_info
-
+                    st.info(metadata_info)
                     if 'tags' in metadata_info.keys():
                         if len(metadata['tags']) >= 1:
                             for each in metadata['tags']:
