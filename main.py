@@ -88,16 +88,12 @@ for file in files:
             variables.user_data[txt_file_name_only.split('.')[0]].append(each_line.strip())
 
 # st.info(variables.user_data)
-
 # global bsecodenum_codename
 # global bsecodename_codenum
 if 'bsecodenum_codename' not in st.session_state and 'bsecodename_codenum' not in st.session_state:
     st.session_state.bsecodenum_codename,st.session_state.bsecodename_codenum,bsecodenum_fullname,bsecodename_fullname,bsefullname_codenum,bsefullname_codename = nse_bse_search.bsecodenum_bsecodename()
     # This gets us the BSE NAME from the DAILY BHAVCOPY THAT WE ARE DOWNLOADING
     st.session_state.bsesccode_scname,st.session_state.bsescname_sccode = nse_bse_search.bseSCNAME_SCCODE()
-
-
-
 
 # if 'nsecode_list' not in st.session_state:
 #     st.session_state.nsecode_list = nse_bse_search.nse_code

@@ -9,6 +9,7 @@ import nse_bse_search
 import fromyahoo
 import lastdayprice
 import numpy as np
+import io
 import concurrent.futures
 import time
 import datetime
@@ -16,13 +17,10 @@ from datetime import timedelta
 import threading
 import fundamentals
 
-
-pledging_path = 'C:/Users/sahaveer/PycharmProjects/webapps/Scripts/itimes local/zerodha pledging.xlsx'
+pledging_path = '../zerodha pledging.xlsx'
 st.set_page_config(page_title="Portfolio", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
 st.title('Portfolio Proficiency Analyzer 💸')
 #🌟
-
-
 
 # Get today's date
 today = datetime.datetime.now()
@@ -43,23 +41,46 @@ yy = last_weekday.strftime('%y')
 live_prices = {}
 
 
-watchlist_path = st.text_input(label="Enter the txt file path whose duplicates needs to be removed", value="./watchlist/holdings1orwatchlist1.txt")    
-output_path = st.text_input(label="Where you want to save", value="./watchlist/holdingsorwatchlist.txt")    
-if st.button("Remove_Duplicates_CODES_from_holdings"):
-    # path = './watchlist/holdings.txt'
-    path = watchlist_path
-    take_list = []
-    with open(path,'r') as r:
-        for each in r:
-            take_list.append(each.strip())
-    # st.info(take_list)
+# Title
+st.title("Upload and Read a Text File with Stock Names")
+# File uploader widget
+uploaded_file = st.file_uploader("Choose a text file with stock names", type="txt")
+if uploaded_file is not None:
+    # Read the file line by line and store each line in the list
+    for line in uploaded_file:
+        # Decode each line to string and strip any extra whitespace/newlines
+        stock_name = line.decode("utf-8").strip()
+        take_list.append(stock_name)
     unique_list = nse_bse_search.remove_duplicate_in_watchlist(take_list)
-    # st.success(unique_list)
-    with open(output_path,'w') as f:
-        for each in unique_list:
-            f.write(f"{each}\n")
-        st.success(f"Duplicates Removed and saved in the file {output_path}")
 
+    # Convert the list to a string with each name on a new line
+    stock_names_str = "\n".join(unique_list)
+    # Create a BytesIO object to hold the text file content
+    buffer = io.BytesIO()
+    buffer.write(stock_names_str.encode("utf-8"))
+    buffer.seek(0)  # Rewind the buffer to the beginning
+
+    # Download button
+    st.download_button(
+        label="Download Unique List",
+        data=buffer,
+        file_name="Unique_stock_names.txt",
+        mime="text/plain")
+
+# if st.button("Remove_Duplicates_CODES"):
+#     path = watchlist_path
+#     take_list = []
+#     with open(path,'r') as r:
+#         for each in r:
+#             take_list.append(each.strip())
+#     # st.info(take_list)
+#     #send a list here
+#     unique_list = nse_bse_search.remove_duplicate_in_watchlist(take_list)
+#     # st.success(unique_list)
+#     with open(output_path,'w') as f:
+#         for each in unique_list:
+#             f.write(f"{each}\n")
+#         st.success(f"Duplicates Removed and saved in the file {output_path}")
 
 #tab1, tab2, tab3 = st.tabs(["Portfolio", "Collateral"])
 portfolio_option = option_menu("", ["Portfolio", "Collateral"],icons=['cash', 'cash'], menu_icon="cast", default_index=0, orientation="horizontal")
