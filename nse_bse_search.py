@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import digyahoo
 
-
 if 'bsenames_list' not in st.session_state or 'bsecodes_list' not in st.session_state:  #if 'bse_ISIN' not in st.session_state or 'bse_ycode' not in st.session_state
     bse_data = pd.read_csv('./Select.csv', header=0, index_col=False)
     bse_data.columns = bse_data.columns.str.replace(' ', '_')

@@ -91,7 +91,6 @@ def insert_stock_metadata(dict):
     except pymongo.errors.ServerSelectionTimeoutError:
         print("Hey buddy, we Couldnt update to the Database. \nOpen NETWORK ACCESS in MongoDB and add your IP address")
 
-
 def insert_topic(topic_dict):
     try:
         topics_col.insert_one(topic_dict)

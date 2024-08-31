@@ -1,9 +1,4 @@
-import pprint
 import time
-
-import streamlit as st
-st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)
-
 import glob
 import random
 import os
@@ -11,9 +6,18 @@ import datetime
 import time
 import pandas as pd
 import pickle
-#import numpy as np
+
+import streamlit as st
+from streamlit_option_menu import option_menu
+import streamlit.components.v1 as components
+st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)
+
 import nse_bse_search
 import create_database
+import fundamentals
+# import processdriver
+# import screenerpage
+import variables
 
 if 'nsecode_list' not in st.session_state or 'nseISIN_list' not in st.session_state:
         nse_data = pd.read_csv('./cm21JUN2024bhav.csv')
@@ -21,17 +25,7 @@ if 'nsecode_list' not in st.session_state or 'nseISIN_list' not in st.session_st
         st.session_state.nseISIN_list = nse_data["ISIN"].tolist()
         st.session_state.nsecode_list = nse_data["SYMBOL"].tolist()
 
-import fundamentals
-from streamlit_option_menu import option_menu
-import streamlit.components.v1 as components
-#import json
-#from streamlit_lottie import st_lottie
-#from streamlit_lottie import st_lottie_spinner
-
-import processdriver
-import screenerpage
-import variables
-import amibroker
+# import amibroker
 
 # Function to load the dictionary from a file
 def load_metadata():
@@ -349,161 +343,161 @@ with col2_header:
 # PICKLES DATA ALSO
 
 
-def get_latest_results(selected_list:list):
-    driver = processdriver.getedgedriver()
-    i=0
-    for selected in selected_list:
-        # st.info(selected)
-        company_code, code_name = get_code(selected)
-        #st.info(company_code)
-        #st.info(code_name)
-        if company_code is not None and code_name is not None:
-            code_names = nse_bse_search.process_code(company_code, code_name)
-            # st.info(company_code)
-            # st.info(code_names[0])
-            # try:
-            # if company_code in variables.metadata.keys():
-            #     if 'recent_quarter' in variables.metadata[company_code].keys():
-            #         the_quarter_is = variables.metadata[company_code]['recent_quarter']
-            #         if (datetime.datetime.now() - the_quarter_is) < timedelta_Q_days:
-            #             metadata = variables.metadata[company_code]
+# def get_latest_results(selected_list:list):
+#     driver = processdriver.getedgedriver()
+#     i=0
+#     for selected in selected_list:
+#         # st.info(selected)
+#         company_code, code_name = get_code(selected)
+#         #st.info(company_code)
+#         #st.info(code_name)
+#         if company_code is not None and code_name is not None:
+#             code_names = nse_bse_search.process_code(company_code, code_name)
+#             # st.info(company_code)
+#             # st.info(code_names[0])
+#             # try:
+#             # if company_code in variables.metadata.keys():
+#             #     if 'recent_quarter' in variables.metadata[company_code].keys():
+#             #         the_quarter_is = variables.metadata[company_code]['recent_quarter']
+#             #         if (datetime.datetime.now() - the_quarter_is) < timedelta_Q_days:
+#             #             metadata = variables.metadata[company_code]
 
-            # else:
-            if code_names[0] in variables.metadata.keys() and 'recent_quarter' in variables.metadata[code_names[0]].keys() and 'updated_results_on' in variables.metadata[code_names[0]].keys() and (datetime.datetime.now() - variables.metadata[code_names[0]]['recent_quarter']) < timedelta_Q_days and (datetime.datetime.now() - variables.metadata[code_names[0]]['updated_results_on']) < datetime.timedelta(days=3):
-                #check the recent quarter is not very old
-                #check if reported date is very recent like just 3 days back
-                reported_date_is = variables.metadata[code_names[0]]['updated_results_on']
-                # check the difference is not less than 3 days
-                st.info(f"The company {code_names[0]} has recent quarter {variables.metadata[code_names[0]]['recent_quarter']} reported recently, thus skipping SCREENER")
-                metadata = variables.metadata[code_names[0]]
-                metadata['Code'] = code_names[0]
-                create_database.insert_stock_metadata(metadata)
-                st.success(f"Saved Metadata in Database as well")                
-                # metadata = variables.metadata[code_names[0]]                    
-                # st.info(f"Metadata is {metadata}")
-            else:
-                yr_df, qtr_df, code_name_pickle = screenerpage.search_screener(driver,company_code)                     # lets get code_name from site itself to make it convenient and updated
-                metadata = {}
-                if yr_df is not None and qtr_df is not None and code_name_pickle is not None:
-                    pnl, balancesht = fundamentals.develop_yearly(yr_df)
-                    qtr_pnl = fundamentals.develop_quarterly(qtr_df)
-                    metadata = fundamentals.analyse_df(pnl, balancesht, qtr_pnl)
-                    metadata['code_names'] = code_names
-                    metadata['Code'] = code_names[0]
-                    variables.metadata[company_code] = metadata
-                    # st.success(variables.metadata[company_code]['recent_quarter'])
-                                                                                                                        #writing tags to its respective text files
-                    if len(metadata['tags'])>=1:
-                        for each in metadata['tags']:
-                            text_file = f'./watchlist/groups/{each}.txt'
-                            if each not in variables.user_data.keys():
-                                variables.user_data[each] = []
-                            if metadata['code_names'][0] not in variables.user_data[each]:
-                                with open(text_file,'a+') as file:
-                                    file.write(f"{metadata['code_names'][0]}\n")
-                                    st.success(f"Updated {metadata['code_names'][0]} in {text_file}")
-                            # this_text_list = []
-                            # with open(text_file,'a+') as file:
-                            #     for each in file:
-                            #         this_text_list.append(each)
-                            #     if metadata['code_names'][0] not in this_text_list:
-                            #        file.write(f"{metadata['code_names'][0]}\n")
-                            #        st.success(f"Updated {metadata['code_names'][0]} in {text_file}")
+#             # else:
+#             if code_names[0] in variables.metadata.keys() and 'recent_quarter' in variables.metadata[code_names[0]].keys() and 'updated_results_on' in variables.metadata[code_names[0]].keys() and (datetime.datetime.now() - variables.metadata[code_names[0]]['recent_quarter']) < timedelta_Q_days and (datetime.datetime.now() - variables.metadata[code_names[0]]['updated_results_on']) < datetime.timedelta(days=3):
+#                 #check the recent quarter is not very old
+#                 #check if reported date is very recent like just 3 days back
+#                 reported_date_is = variables.metadata[code_names[0]]['updated_results_on']
+#                 # check the difference is not less than 3 days
+#                 st.info(f"The company {code_names[0]} has recent quarter {variables.metadata[code_names[0]]['recent_quarter']} reported recently, thus skipping SCREENER")
+#                 metadata = variables.metadata[code_names[0]]
+#                 metadata['Code'] = code_names[0]
+#                 create_database.insert_stock_metadata(metadata)
+#                 st.success(f"Saved Metadata in Database as well")                
+#                 # metadata = variables.metadata[code_names[0]]                    
+#                 # st.info(f"Metadata is {metadata}")
+#             else:
+#                 yr_df, qtr_df, code_name_pickle = screenerpage.search_screener(driver,company_code)                     # lets get code_name from site itself to make it convenient and updated
+#                 metadata = {}
+#                 if yr_df is not None and qtr_df is not None and code_name_pickle is not None:
+#                     pnl, balancesht = fundamentals.develop_yearly(yr_df)
+#                     qtr_pnl = fundamentals.develop_quarterly(qtr_df)
+#                     metadata = fundamentals.analyse_df(pnl, balancesht, qtr_pnl)
+#                     metadata['code_names'] = code_names
+#                     metadata['Code'] = code_names[0]
+#                     variables.metadata[company_code] = metadata
+#                     # st.success(variables.metadata[company_code]['recent_quarter'])
+#                                                                                                                         #writing tags to its respective text files
+#                     if len(metadata['tags'])>=1:
+#                         for each in metadata['tags']:
+#                             text_file = f'./watchlist/groups/{each}.txt'
+#                             if each not in variables.user_data.keys():
+#                                 variables.user_data[each] = []
+#                             if metadata['code_names'][0] not in variables.user_data[each]:
+#                                 with open(text_file,'a+') as file:
+#                                     file.write(f"{metadata['code_names'][0]}\n")
+#                                     st.success(f"Updated {metadata['code_names'][0]} in {text_file}")
+#                             # this_text_list = []
+#                             # with open(text_file,'a+') as file:
+#                             #     for each in file:
+#                             #         this_text_list.append(each)
+#                             #     if metadata['code_names'][0] not in this_text_list:
+#                             #        file.write(f"{metadata['code_names'][0]}\n")
+#                             #        st.success(f"Updated {metadata['code_names'][0]} in {text_file}")
 
-                    # st.info(metadata)
-                    # st.info(company_code)
-                    # st.info(variables.metadata[company_code])
+#                     # st.info(metadata)
+#                     # st.info(company_code)
+#                     # st.info(variables.metadata[company_code])
 
-                                                                                                                            # LETS CREATE SENTENCE (INSIGHT) from METADATA
-                    sentence = ""
-                    if len(metadata['code_names']) == 1 and metadata['code_names'][0].isdigit():
-                        sentence += f"CODE\tNAME"
-                        sentence += f"{metadata['code_names'][0]} {st.session_state.bsecodenum_codename[int(metadata['code_names'][0])]}"
-                    else:
-                        sentence += f"CODES\n"
-                        for each in metadata['code_names']: sentence += f"{each}\t"
+#                                                                                                                             # LETS CREATE SENTENCE (INSIGHT) from METADATA
+#                     sentence = ""
+#                     if len(metadata['code_names']) == 1 and metadata['code_names'][0].isdigit():
+#                         sentence += f"CODE\tNAME"
+#                         sentence += f"{metadata['code_names'][0]} {st.session_state.bsecodenum_codename[int(metadata['code_names'][0])]}"
+#                     else:
+#                         sentence += f"CODES\n"
+#                         for each in metadata['code_names']: sentence += f"{each}\t"
 
-                    # for each in metadata['code_names']: sentence += f"{each}\t"
-                    sentence += "\n***CONS***\n"
-                    for each in metadata['cons']: sentence += f"{each}\n"
-                    sentence += "\n***YEARLY***" + metadata['YPNL_Statement']
-                    sentence += "\n***QUARTERLY***" + metadata['QPNL_Statement']
-                    sentence += "\n***PROS***\n"
-                    for each in metadata['pros']: sentence += f"{each}\n"
-                    if 'QPNL_tweet' in metadata.keys() and 'YPNL_tweet' in metadata.keys():
-                        sentence += f"\n{metadata['QPNL_tweet']}\n{metadata['YPNL_tweet']}"
-                    # st.info(sentence)
-                    amibroker.amibroker_notes_insights(code_names, sentence)
-                    create_database.insert_stock_metadata(metadata)
-                    st.success("Saved Metadata in Database as well")
-                    save_metadata()
-                    # if i==50:
-                    #     save_metadata()
-                    #     i=0
-                    time.sleep(random.uniform(1, 3))
-                    #time.sleep(2)
-                                                                                                                            # SAVING TO PICKLE FILE
-                    if code_name_pickle is not None:
-                        # st.info(f"For pickling Yearly we received {code_names}")
-                        # lets process first yearly dataframe
-                        if not yr_df.empty and yr_df is not None and isinstance(yr_df, pd.DataFrame):
-                            yr_df.columns = pd.to_datetime(yr_df.columns, format='%d-%m-%Y')
-                            # st.dataframe(yr_df)
-                            for code_name1 in code_names:
-                                # st.info(f"{i+1}    {code_name1}")
-                                if code_name1.isnumeric():
-                                    folder_treeY1 = str(code_name1[0])
-                                    folder_locationY1 = "./pickl/" + folder_treeY1 + "/"
-                                    if not os.path.exists(folder_locationY1):
-                                        os.makedirs(folder_locationY1)
+#                     # for each in metadata['code_names']: sentence += f"{each}\t"
+#                     sentence += "\n***CONS***\n"
+#                     for each in metadata['cons']: sentence += f"{each}\n"
+#                     sentence += "\n***YEARLY***" + metadata['YPNL_Statement']
+#                     sentence += "\n***QUARTERLY***" + metadata['QPNL_Statement']
+#                     sentence += "\n***PROS***\n"
+#                     for each in metadata['pros']: sentence += f"{each}\n"
+#                     if 'QPNL_tweet' in metadata.keys() and 'YPNL_tweet' in metadata.keys():
+#                         sentence += f"\n{metadata['QPNL_tweet']}\n{metadata['YPNL_tweet']}"
+#                     # st.info(sentence)
+#                     # amibroker.amibroker_notes_insights(code_names, sentence)
+#                     create_database.insert_stock_metadata(metadata)
+#                     st.success("Saved Metadata in Database as well")
+#                     save_metadata()
+#                     # if i==50:
+#                     #     save_metadata()
+#                     #     i=0
+#                     time.sleep(random.uniform(1, 3))
+#                     #time.sleep(2)
+#                                                                                                                             # SAVING TO PICKLE FILE
+#                     if code_name_pickle is not None:
+#                         # st.info(f"For pickling Yearly we received {code_names}")
+#                         # lets process first yearly dataframe
+#                         if not yr_df.empty and yr_df is not None and isinstance(yr_df, pd.DataFrame):
+#                             yr_df.columns = pd.to_datetime(yr_df.columns, format='%d-%m-%Y')
+#                             # st.dataframe(yr_df)
+#                             for code_name1 in code_names:
+#                                 # st.info(f"{i+1}    {code_name1}")
+#                                 if code_name1.isnumeric():
+#                                     folder_treeY1 = str(code_name1[0])
+#                                     folder_locationY1 = "./pickl/" + folder_treeY1 + "/"
+#                                     if not os.path.exists(folder_locationY1):
+#                                         os.makedirs(folder_locationY1)
 
-                                    save_pickl_asY1 = folder_locationY1 + str(code_name1) + " Yearly.pkl"
-                                    yr_df.to_pickle(save_pickl_asY1)
-                                    st.success(f"LATEST : Yearly DataFrame saved in {save_pickl_asY1}")
-                                    pass
-                                else:
-                                    folder_treeY2 = code_name1[0].upper()
-                                    folder_locationY2 = "./pickl/" + folder_treeY2 + "/"
-                                    if not os.path.exists(folder_locationY2):
-                                        os.makedirs(folder_locationY2)
-                                    save_pickl_asY2 = folder_locationY2 + code_name1 + " Yearly.pkl"
-                                    yr_df.to_pickle(save_pickl_asY2)
-                                    st.success(f"LATEST : Yearly DataFrame saved in {save_pickl_asY2}")
+#                                     save_pickl_asY1 = folder_locationY1 + str(code_name1) + " Yearly.pkl"
+#                                     yr_df.to_pickle(save_pickl_asY1)
+#                                     st.success(f"LATEST : Yearly DataFrame saved in {save_pickl_asY1}")
+#                                     pass
+#                                 else:
+#                                     folder_treeY2 = code_name1[0].upper()
+#                                     folder_locationY2 = "./pickl/" + folder_treeY2 + "/"
+#                                     if not os.path.exists(folder_locationY2):
+#                                         os.makedirs(folder_locationY2)
+#                                     save_pickl_asY2 = folder_locationY2 + code_name1 + " Yearly.pkl"
+#                                     yr_df.to_pickle(save_pickl_asY2)
+#                                     st.success(f"LATEST : Yearly DataFrame saved in {save_pickl_asY2}")
 
-                            # amibroker.amibroker_notes_csv_yearly(code_names, yr_df)
+#                             # amibroker.amibroker_notes_csv_yearly(code_names, yr_df)
 
-                        # st.info(f"For pickling Quarterly we received {code_names}")
+#                         # st.info(f"For pickling Quarterly we received {code_names}")
 
-                        # lets process Quarterly Dataframe
-                        # lets process first Quarterly dataframe
-                        if not qtr_df.empty and isinstance(qtr_df, pd.DataFrame) and qtr_df is not None:
-                            qtr_df.columns = pd.to_datetime(qtr_df.columns, format='%d-%m-%Y')
-                            for code_name2 in code_names:
-                                # st.info(code_name2)
-                                if code_name2.isnumeric():
-                                    folder_treeQ2 = str(code_name2[0])
-                                    folder_locationQ2 = "./pickl/" + folder_treeQ2 + "/"
-                                    save_pickl_asQ2 = folder_locationQ2 + str(code_name2) + " Quarterly.pkl"
-                                    qtr_df.to_pickle(save_pickl_asQ2)
-                                    st.success(f"LATEST : Quarterly DataFrame saved in {save_pickl_asQ2}")
+#                         # lets process Quarterly Dataframe
+#                         # lets process first Quarterly dataframe
+#                         if not qtr_df.empty and isinstance(qtr_df, pd.DataFrame) and qtr_df is not None:
+#                             qtr_df.columns = pd.to_datetime(qtr_df.columns, format='%d-%m-%Y')
+#                             for code_name2 in code_names:
+#                                 # st.info(code_name2)
+#                                 if code_name2.isnumeric():
+#                                     folder_treeQ2 = str(code_name2[0])
+#                                     folder_locationQ2 = "./pickl/" + folder_treeQ2 + "/"
+#                                     save_pickl_asQ2 = folder_locationQ2 + str(code_name2) + " Quarterly.pkl"
+#                                     qtr_df.to_pickle(save_pickl_asQ2)
+#                                     st.success(f"LATEST : Quarterly DataFrame saved in {save_pickl_asQ2}")
 
-                                else:
-                                    folder_treeQ1 = code_name2[0].upper()
-                                    folder_locationQ1 = "./pickl/" + folder_treeQ1 + "/"
-                                    if not os.path.exists(folder_locationQ1):
-                                        os.makedirs(folder_locationQ1)
-                                    save_pickl_asQ1 = folder_locationQ1 + code_name2 + " Quarterly.pkl"
-                                    qtr_df.to_pickle(save_pickl_asQ1)
-                                    st.success(f"LATEST : Quarterly DataFrame saved in {save_pickl_asQ1}")
+#                                 else:
+#                                     folder_treeQ1 = code_name2[0].upper()
+#                                     folder_locationQ1 = "./pickl/" + folder_treeQ1 + "/"
+#                                     if not os.path.exists(folder_locationQ1):
+#                                         os.makedirs(folder_locationQ1)
+#                                     save_pickl_asQ1 = folder_locationQ1 + code_name2 + " Quarterly.pkl"
+#                                     qtr_df.to_pickle(save_pickl_asQ1)
+#                                     st.success(f"LATEST : Quarterly DataFrame saved in {save_pickl_asQ1}")
 
-                                    # amibroker.amibroker_notes_csv_quarterly(code_names, qtr_df)
+#                                     # amibroker.amibroker_notes_csv_quarterly(code_names, qtr_df)
 
-                                    # st.info(f"saved pickl file {code_name} in working directory pickle folder ")
+#                                     # st.info(f"saved pickl file {code_name} in working directory pickle folder ")
 
-                                    # always need a CODE but in STRING format
-                                    # SCANS THE WATCLIST TO GET US THOSE SCRIPTS IN THE WATCHLIST WITHOUT LATEST QRESULTS
-        i+=1
-    save_metadata()
+#                                     # always need a CODE but in STRING format
+#                                     # SCANS THE WATCLIST TO GET US THOSE SCRIPTS IN THE WATCHLIST WITHOUT LATEST QRESULTS
+#         i+=1
+#     save_metadata()
 
 
 if 'holdings_list' not in st.session_state.user_data:
@@ -539,15 +533,15 @@ with col1:
         if 'Latest Quarterly' not in st.session_state.no_of_stocks_not_latest:
             st.session_state.no_of_stocks_not_latest['Latest Quarterly'] = lets_scan_list(show_list_as)
 
-        with col2_header:
-            if st.button(f'LATEST RESULTS from entire Watchlist'):
-                get_latest_results(show_list_as)
+        # with col2_header:
+        #     if st.button(f'LATEST RESULTS from entire Watchlist'):
+        #         get_latest_results(show_list_as)
 
         temp_var = st.session_state.no_of_stocks_not_latest['Latest Quarterly']
         if len(temp_var) > 0:
-            with col2_header:
-                if st.button(f'Get Results of {len(temp_var)} scripts with NO_LATEST_RESULTS'):
-                    get_latest_results(temp_var)
+            # with col2_header:
+            #     if st.button(f'Get Results of {len(temp_var)} scripts with NO_LATEST_RESULTS'):
+            #         get_latest_results(temp_var)
             no_of_stocks_not_latest1 = []
             for each in temp_var:
                 if each.isdigit():
@@ -564,14 +558,14 @@ with col1:
         if 'All Listed' not in st.session_state.no_of_stocks_not_latest:
                 st.session_state.no_of_stocks_not_latest["All Listed"] = lets_scan_list(st.session_state.listed_stocks)
         temp_var = st.session_state.no_of_stocks_not_latest["All Listed"]
-        with col2_header:
-            if st.button(f'Get Latest Results for ALL'):
-                get_latest_results(show_list_as)
+        # with col2_header:
+        #     if st.button(f'Get Latest Results for ALL'):
+        #         get_latest_results(show_list_as)
 
         if len(temp_var) > 0:
-            with col2_header:
-                if st.button(f'{len(temp_var)} needs Latest Results'):
-                    get_latest_results(temp_var)
+            # with col2_header:
+            #     if st.button(f'{len(temp_var)} needs Latest Results'):
+            #         get_latest_results(temp_var)
             no_of_stocks_not_latest1 = []
             for each in temp_var:
                 if each.isdigit():
@@ -592,14 +586,14 @@ with col1:
         if 'Holdings' not in st.session_state.no_of_stocks_not_latest:
             st.session_state.no_of_stocks_not_latest['Holdings'] = lets_scan_list(holdings_list)
         temp_var = st.session_state.no_of_stocks_not_latest['Holdings']
-        with col2_header:
-            if st.button(f'Get Latest Results'):
-                get_latest_results(show_list_as)
+        # with col2_header:
+        #     if st.button(f'Get Latest Results'):
+        #         get_latest_results(show_list_as)
                 # DISPLAY IN WEBAPP ABT STOCKS WITHOUT LATEST QRESULTS
         if len(temp_var) > 0:
-            with col2_header:
-                if st.button(f'{len(temp_var)} needs Latest Results'):
-                    get_latest_results(temp_var)
+            # with col2_header:
+            #     if st.button(f'{len(temp_var)} needs Latest Results'):
+            #         get_latest_results(temp_var)
             no_of_stocks_not_latest1 = []
             for each in temp_var:
                 if each.isdigit():
@@ -624,9 +618,9 @@ with col1:
             if st.button(f'Get Latest Results'):
                 get_latest_results(show_list_as)
         if len(temp_var) > 0:
-            with col2_header:
-                if st.button(f'{len(temp_var)} needs Latest Results'):
-                    get_latest_results(temp_var)
+            # with col2_header:
+            #     if st.button(f'{len(temp_var)} needs Latest Results'):
+            #         get_latest_results(temp_var)
             no_of_stocks_not_latest1 = []
             for each in temp_var:
                 if each.isdigit():
@@ -644,14 +638,14 @@ with col1:
         if 'Favourites' not in st.session_state.no_of_stocks_not_latest:
             st.session_state.no_of_stocks_not_latest["Favourites"] = lets_scan_list(show_list_as)
         temp_var = st.session_state.no_of_stocks_not_latest["Favourites"]
-        with col2_header:
-            if st.button(f'Get Latest Results'):
-                get_latest_results(show_list_as)
+        # with col2_header:
+        #     if st.button(f'Get Latest Results'):
+        #         get_latest_results(show_list_as)
 
         if len(temp_var) > 0:
-            with col2_header:
-                if st.button(f'{len(temp_var)} needs Latest Results'):
-                    get_latest_results(temp_var)
+            # with col2_header:
+            #     if st.button(f'{len(temp_var)} needs Latest Results'):
+            #         get_latest_results(temp_var)
             # ONLY TO SHOW BOTH CODE AND NAME TOGETHER IN EXPANDER
             no_of_stocks_not_latest1 = []
             for each in temp_var:
@@ -873,15 +867,15 @@ if selected:
             with coltw2:
                 subcoltw2_1, subcoltw2_2 = st.columns([1, 1])
                 textarea_is = st.text_area(label="👉 INSIGHTS", value=sentence, height=180, key="Insights")
-                with subcoltw2_1:
-                    if st.button("Overwrite Amibroker Notes"):
-                        amibroker.amibroker_notes_insights(metadata['code_names'], textarea_is)
+                # with subcoltw2_1:
+                #     if st.button("Overwrite Amibroker Notes"):
+                #         amibroker.amibroker_notes_insights(metadata['code_names'], textarea_is)
                 with subcoltw2_2:
                     if st.button('Send Telegram'):
                         bot.send_message(chat_id=chat_id, text=sentence)
 
         else:
-            get_latest_results([company_code])
+            # get_latest_results([company_code])
             metadata = variables.metadata[company_code]
             if not os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and \
                     os.path.exists(
@@ -987,9 +981,9 @@ if selected:
                 with coltw2:
                     subcoltw2_1, subcoltw2_2 = st.columns([1, 1])
                     textarea_is = st.text_area(label="👉 INSIGHTS", value=sentence, height=180, key="Insights")
-                    with subcoltw2_1:
-                        if st.button("Overwrite Amibroker Notes"):
-                            amibroker.amibroker_notes_insights(metadata['code_names'], textarea_is)
+                    # with subcoltw2_1:
+                    #     if st.button("Overwrite Amibroker Notes"):
+                    #         amibroker.amibroker_notes_insights(metadata['code_names'], textarea_is)
                     with subcoltw2_2:
                         if st.button('Send Telegram'):
                             bot.send_message(chat_id=chat_id, text=sentence)
@@ -1000,8 +994,8 @@ if selected:
                     #     standalone = st.checkbox("Standalone",value=True)
 
         with col2_header:
-            if st.button(f'GET RESULTS : Script'):
-                get_latest_results([metadata['code_names'][0]])
+            # if st.button(f'GET RESULTS : Script'):
+            #     get_latest_results([metadata['code_names'][0]])
             if st.button(f"Process all Pickle Files again and make TAGS from this WATCHLIST"):
                 for each_code in show_list_as:
                     company_code, code_name = get_code(each_code)
@@ -1409,7 +1403,6 @@ if selected:
         """, unsafe_allow_html=True)
         st.markdown('<div class="table-container">', unsafe_allow_html=True)
         # st.info(show_list_as)
-        # pprint.pprint(variables.metadata.keys())
         for each in show_list_as:
             company_code, comp_Name = get_code(each)
             if company_code in variables.metadata.keys():

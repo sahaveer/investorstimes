@@ -4,7 +4,7 @@ import streamlit as st
 #pio.kaleido.scope.chromium_args += ("--single-process",)
 #pio.kaleido.scope.mathjax = None
 import datetime
-from streamlit_option_menu import option_menu
+# from streamlit_option_menu import option_menu
 from openpyxl.utils import get_column_letter
 import pandas as pd
 import numpy as np
@@ -14,8 +14,7 @@ import base64  # Standard Python Module
 from io import StringIO, BytesIO  # Standard Python Module
 import os
 import instaimage
-from PIL import ImageFont
-import instaimage
+# from PIL import ImageFont
 
 #text_rgb = {'#f8ba43' : "rgb(248,186,67)", "#D6D41B":"rgb(248,186,67)", '#1959BF': "rgb(33,161,225)", '#0971C9': "rgb(33,161,225)",'#11A694': "rgb(0,253,85)", '#11A64B': "rgb(0,253,85)", }
 color_dict = {'black':{'hash':'000000','rgb':'rgb(0,0,0)'}, 'white':{'hash':'#ffffff','rgb':'rgb(255, 255, 255)'},
