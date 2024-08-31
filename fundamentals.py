@@ -62,7 +62,6 @@ if 'nsecode_list' not in st.session_state or 'nseISIN_list' not in st.session_st
 
 nsecode = st.session_state.nsecode_list
 
-
 def excel_link_to_download(df,filename,label):
     # Credit Excel: https://discuss.streamlit.io/t/how-to-add-a-Download-excel-csv-function-to-a-button/4474/5
     towrite = BytesIO()

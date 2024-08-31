@@ -16,10 +16,9 @@ import datetime
 from datetime import timedelta
 import threading
 import fundamentals
-# from pathlib import Path
+from pathlib import Path
 
-# pledging_path = Path(__file__).parent / '/zerodha pledging.xlsx'
-pledging_path = '..\zerodha pledging.xlsx'
+pledging_path = Path(__file__).parent / '/zerodha pledging.xlsx'
 
 st.set_page_config(page_title="Portfolio", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="collapsed",)
 st.title('Portfolio Proficiency Analyzer 💸')
