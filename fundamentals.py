@@ -66,7 +66,7 @@ nsecode = st.session_state.nsecode_list
 def excel_link_to_download(df,filename,label):
     # Credit Excel: https://discuss.streamlit.io/t/how-to-add-a-Download-excel-csv-function-to-a-button/4474/5
     towrite = BytesIO()
-    df.to_excel(towrite, encoding="utf-8", index=False, header=True)  # write to BytesIO buffer
+    df.to_excel(towrite, index=False, header=True)  # write to BytesIO buffer
     towrite.seek(0)  # reset pointer
     b64 = base64.b64encode(towrite.read()).decode()
     #href = f'<a href="data:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;base64,{b64}" Download="data_Download.xlsx">Download Excel File</a>'

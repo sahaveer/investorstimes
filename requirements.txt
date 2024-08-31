@@ -1,7 +1,7 @@
 yahoo-fin==0.8.9.1
 nltk==3.7
 numpy
-openpyxl
+openpyxl==3.1.5
 pandas
 pdfplumber==0.7.1
 Pillow
