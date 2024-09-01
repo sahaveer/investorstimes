@@ -204,8 +204,8 @@ if 'listed_stocks' not in st.session_state:
 
 col1_header, col2_header = st.columns([2,1])
 with col1_header:
-    st.title(f"👇 Chose among {str(len(st.session_state.listed_stocks))} listed stocks")
-    st.subheader(f"{str(len(st.session_state.latest_quarterly_stocks))} stocks announced {st.session_state.last_announced_quarter} Quarterly Results;")
+    st.title(f"👇 {str(len(st.session_state.listed_stocks))} listed stocks")
+    st.caption(f"{str(len(st.session_state.latest_quarterly_stocks))} stocks announced {st.session_state.last_announced_quarter} Quarterly Results;")
     #selected = st.selectbox("Chose Company", st.session_state.listed_stocks)
 
 #REGARDING USER DATA 
