@@ -792,7 +792,7 @@ if selected:
                 st.title(comp_Name)            
             # st.error("Yearly DATA not in order")
             with coltw2:
-                textarea_is = st.text_area(label="🌟INSIGHTS", value="", height=180, key="INSIGHTSY")
+                textarea_is = st.text_area(label="🌟INSIGHTS", value="", height=400, key="INSIGHTSY")
 
 
         elif os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{company_code} Yearly.pkl'):
@@ -884,7 +884,7 @@ if selected:
                 sentence += f"\n{metadata['QPNL_tweet']}\n{metadata['YPNL_tweet']}"
 
             with coltw2:
-                textarea_is = st.text_area(label="👉 🌟INSIGHTS", value=sentence, height=180, key="INSIGHTSYQ")
+                textarea_is = st.text_area(label="👉 🌟INSIGHTS", value=sentence, height=400, key="INSIGHTSYQ")
                 
         else:
             # get_latest_results([company_code])
@@ -902,7 +902,7 @@ if selected:
                     sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_keys)
 
                 with coltw2:
-                    textarea_is = st.text_area(label="👉 🌟INSIGHTS", value="", height=180, key="INSIGHTSY1")
+                    textarea_is = st.text_area(label="👉 🌟INSIGHTS", value="", height=400, key="INSIGHTSY1")
 
             elif os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{company_code} Yearly.pkl'):
                 metadata = variables.metadata[company_code]
@@ -992,7 +992,7 @@ if selected:
 
                 with coltw2:
                     with coltw2:
-                        textarea_is = st.text_area(label="👉 🌟INSIGHTS", value=sentence, height=180, key="INSIGHTSYQ1")
+                        textarea_is = st.text_area(label="🌟INSIGHTS", value=sentence, height=400, key="INSIGHTSYQ1")
 
             else:
                 st.markdown(f"[***Didnt Find Your Data, Kindly Upload Screener File here***]({https://itimesalgo.streamlit.app/Upload})", unsafe_allow_html=True)
