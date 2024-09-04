@@ -425,7 +425,7 @@ def get_code(query):
 #                     if 'QPNL_tweet' in metadata.keys() and 'YPNL_tweet' in metadata.keys():
 #                         sentence += f"\n{metadata['QPNL_tweet']}\n{metadata['YPNL_tweet']}"
 #                     # st.info(sentence)
-#                     # amibroker.amibroker_notes_insights(code_names, sentence)
+#                     # amibroker.amibroker_notes_🌟INSIGHTS(code_names, sentence)
 #                     create_database.insert_stock_metadata(metadata)
 #                     st.success("Saved Metadata in Database as well")
 #                     save_metadata()
@@ -679,7 +679,7 @@ selected = st.sidebar.selectbox("", selected_first_as,
 
 with col2:
     if st.button(f"Create Text file from {first_selected.split(' (')[0]}"):
-        save_txt_file_as = f"watchlist {first_selected.split(" (")[0]}.txt"
+        save_txt_file_as = f"watchlist {first_selected.split(' (')[0]}.txt"
         with open(f'./watchlist/tempwatchlist.txt', 'w') as wr:
             for each in selected_first_as:
                 wr.write(each+"\n")
@@ -747,6 +747,22 @@ if selected:
     with coltw1:
         components.html(ticker_symbol_info.replace("xyx", comp_Name), height=200)
                                                                                                                             # FUNDA CHART TAB
+    
+    # Generate the HTML code with the dynamic stock symbol
+    html_code = f"""
+    <blockquote class="trendlyne-widgets" data-get-url="https://trendlyne.com/web-widget/swot-widget/Poppins/{selected}/?posCol=00A25B&primaryCol=006AFF&negCol=EB3B00&neuCol=F7941E" data-theme="light"></blockquote>
+    <script async src="https://cdn-static.trendlyne.com/static/js/webwidgets/tl-widgets.js" charset="utf-8"></script>
+    """
+    
+    # Display the widget
+    with coltw1:
+        components.html(html_code, height=400)
+
+    with coltw2:
+        subcoltw2_1, subcoltw2_2 = st.columns([1, 1])
+        with subcoltw2_1:
+            chat_name = st.text_input(label="Send 🌟INSIGHTS to 👉ChatID", value="itimesAlgo_D")
+
     if funda_tech == "Funda_Chart":
         with st.sidebar:
             #color_key = st.selectbox("Bar Color", color_dict.keys())
@@ -757,10 +773,6 @@ if selected:
         else:
             tree_folder = company_code[0].upper()
 
-        with coltw2:
-            subcoltw2_1, subcoltw2_2 = st.columns([1, 1])
-            with subcoltw2_1:
-                chat_name = st.text_input(label="👉 ChatID", value="itimesAlgo_D")
 
         # st.info(f"In FUNDACHART comp_Name : {comp_Name}")
                                                                                                                         # if Quarterly data not available but YEARLY DATA AVAILABLE
@@ -780,7 +792,7 @@ if selected:
                 st.title(comp_Name)            
             # st.error("Yearly DATA not in order")
             with coltw2:
-                textarea_is = st.text_area(label="👉 INSIGHTS", value="", height=180, key="InsightsY")
+                textarea_is = st.text_area(label="🌟INSIGHTS", value="", height=180, key="INSIGHTSY")
 
 
         elif os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{company_code} Yearly.pkl'):
@@ -841,10 +853,11 @@ if selected:
                 st.title("CONS")
                 for each in metadata['cons']:
                     st.error(each)
-            options = st.multiselect(
-                "TAGS",
-                ["Favourite"]+metadata['tags'],
-                metadata['tags'])
+            with coltw2:
+                options = st.multiselect(
+                    "TAGS",
+                    ["Favourite"]+metadata['tags'],
+                    metadata['tags'])
             with st.sidebar:  # with col2:
                 sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_menu)
                 st.title(comp_Name)
@@ -871,7 +884,7 @@ if selected:
                 sentence += f"\n{metadata['QPNL_tweet']}\n{metadata['YPNL_tweet']}"
 
             with coltw2:
-                textarea_is = st.text_area(label="👉 INSIGHTS", value=sentence, height=180, key="InsightsYQ")
+                textarea_is = st.text_area(label="👉 🌟INSIGHTS", value=sentence, height=180, key="INSIGHTSYQ")
                 
         else:
             # get_latest_results([company_code])
@@ -889,7 +902,7 @@ if selected:
                     sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_keys)
 
                 with coltw2:
-                    textarea_is = st.text_area(label="👉 INSIGHTS", value="", height=180, key="InsightsY1")
+                    textarea_is = st.text_area(label="👉 🌟INSIGHTS", value="", height=180, key="INSIGHTSY1")
 
             elif os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{company_code} Yearly.pkl'):
                 metadata = variables.metadata[company_code]
@@ -979,7 +992,7 @@ if selected:
 
                 with coltw2:
                     with coltw2:
-                        textarea_is = st.text_area(label="👉 INSIGHTS", value=sentence, height=180, key="InsightsYQ1")
+                        textarea_is = st.text_area(label="👉 🌟INSIGHTS", value=sentence, height=180, key="INSIGHTSYQ1")
 
             else:
                 st.markdown(f"[***Didnt Find Your Data, Kindly Upload Screener File here***]({https://itimesalgo.streamlit.app/Upload})", unsafe_allow_html=True)
@@ -1135,6 +1148,7 @@ if selected:
                                     </div>
                                     <!-- TradingView Widget END -->
                                     """)
+            
             with st.expander(label="TRADINGVIEW DATA"):
                 colx, coly = st.columns([1.5, 1])
                 with colx:
