@@ -202,6 +202,19 @@ if 'listed_stocks' not in st.session_state:
         for line in unique_listed_stocks:
             file.write(line + "\n")
 
+
+def read_txt_watchlist(file_address):
+    send_listed_stocks = []
+    with open(file_address,'r') as f:
+        for each in f:
+            send_listed_stocks.append(each)
+    unique_listed_stocks = nse_bse_search.remove_duplicate_in_watchlist(send_listed_stocks)
+    with open(file_address, 'w') as file:  # Read each line and append it to the list
+        for line in unique_listed_stocks:
+            file.write(line + "\n")
+    return unique_listed_stocks
+
+
 col1_header, col2_header = st.columns([2,1])
 with col1_header:
     st.title(f"👇 {str(len(st.session_state.listed_stocks))} listed stocks")
@@ -210,62 +223,62 @@ with col1_header:
 
 #REGARDING USER DATA 
 
-def liked_stocks(script_code):
-    if "liked" in st.session_state.user_data:
-        st.session_state.user_data['liked'].append(script_code)
-    else:
-        st.session_state.user_data['liked'] = []
-        st.session_state.user_data['liked'].append(script_code)
+# def liked_stocks(script_code):
+#     if "liked" in st.session_state.user_data:
+#         st.session_state.user_data['liked'].append(script_code)
+#     else:
+#         st.session_state.user_data['liked'] = []
+#         st.session_state.user_data['liked'].append(script_code)
 
-def disliked_stocks(script_code):
-    if "disliked" in st.session_state.user_data:
-        st.session_state.user_data['disliked'].append(script_code)
-    else:
-        st.session_state.user_data['disliked'] = []
-        st.session_state.user_data['disliked'].append(script_code)
+# def disliked_stocks(script_code):
+#     if "disliked" in st.session_state.user_data:
+#         st.session_state.user_data['disliked'].append(script_code)
+#     else:
+#         st.session_state.user_data['disliked'] = []
+#         st.session_state.user_data['disliked'].append(script_code)
 
 holdings_list = []
 watch_list = []
 
 
-@st.cache_data
-def holdings_func():
-    if os.path.exists('./watchlist/holdings.txt'):
-        holdings_list = []
-        # Open the file in read mode
-        with open('./watchlist/holdings.txt', 'r') as file:                                                                       # Read each line and append it to the list
-            for line in file:
-                holdings_list.append(line.strip())
-        unique_holdings_list = nse_bse_search.remove_duplicate_in_watchlist(holdings_list)
-        # st.info(f"{len(holdings_list)} is reduced to {len(unique_holdings_list)}")
-        with open('./watchlist/holdings.txt', 'w') as file:  # Read each line and append it to the list
-            for line in unique_holdings_list:
-                file.write(line + "\n")
-    return unique_holdings_list
+# @st.cache_data
+# def holdings_func():
+#     if os.path.exists('./watchlist/holdings.txt'):
+#         holdings_list = []
+#         # Open the file in read mode
+#         with open('./watchlist/holdings.txt', 'r') as file:                                                                       # Read each line and append it to the list
+#             for line in file:
+#                 holdings_list.append(line.strip())
+#         unique_holdings_list = nse_bse_search.remove_duplicate_in_watchlist(holdings_list)
+#         # st.info(f"{len(holdings_list)} is reduced to {len(unique_holdings_list)}")
+#         with open('./watchlist/holdings.txt', 'w') as file:  # Read each line and append it to the list
+#             for line in unique_holdings_list:
+#                 file.write(line + "\n")
+#     return unique_holdings_list
 
-@st.cache_data
-def watchlist_func():
-    if os.path.exists('./watchlist/watchlist.txt'):
-        watch_list = []
-        with open('./watchlist/watchlist.txt', 'r') as file:  # Read each line and append it to the list
-            for line in file:
-                watch_list.append(line.strip())
-        unique_watchlist = nse_bse_search.remove_duplicate_in_watchlist(watch_list)
-        # st.info(f"{len(watch_list)} is reduced to {len(unique_watchlist)}")
-        with open('./watchlist/watchlist.txt', 'w') as file:  # Read each line and append it to the list
-            for line in unique_watchlist:
-                file.write(line + "\n")
-    return unique_watchlist
+# @st.cache_data
+# def watchlist_func():
+#     if os.path.exists('./watchlist/watchlist.txt'):
+#         watch_list = []
+#         with open('./watchlist/watchlist.txt', 'r') as file:  # Read each line and append it to the list
+#             for line in file:
+#                 watch_list.append(line.strip())
+#         unique_watchlist = nse_bse_search.remove_duplicate_in_watchlist(watch_list)
+#         # st.info(f"{len(watch_list)} is reduced to {len(unique_watchlist)}")
+#         with open('./watchlist/watchlist.txt', 'w') as file:  # Read each line and append it to the list
+#             for line in unique_watchlist:
+#                 file.write(line + "\n")
+#     return unique_watchlist
 
-@st.cache_data
-def favourite_func():
-    if os.path.exists('./watchlist/favourite.txt'):
-        added_watch_list = []
-        with open('./watchlist/favourite.txt', 'r') as file:  # Read each line and append it to the list
-            for line in file:
-                added_watch_list.append(line.strip())
-        unique_added_watch_list = nse_bse_search.remove_duplicate_in_watchlist(added_watch_list)
-    return unique_added_watch_list
+# @st.cache_data
+# def favourite_func():
+#     if os.path.exists('./watchlist/favourite.txt'):
+#         added_watch_list = []
+#         with open('./watchlist/favourite.txt', 'r') as file:  # Read each line and append it to the list
+#             for line in file:
+#                 added_watch_list.append(line.strip())
+#         unique_added_watch_list = nse_bse_search.remove_duplicate_in_watchlist(added_watch_list)
+#     return unique_added_watch_list
 
 @st.cache_data
 def lets_scan_list(query_list):
@@ -498,16 +511,16 @@ def get_code(query):
 #     save_metadata()
 
 
-if 'holdings_list' not in st.session_state.user_data:
-    st.session_state.user_data['holdings_list'] = holdings_func()
-if 'watch_list' not in st.session_state.user_data:
-    st.session_state.user_data['watch_list'] = watchlist_func()
-if 'favourite_list' not in st.session_state.user_data:
-    st.session_state.user_data['favourite_list'] = favourite_func()
+# if 'holdings_list' not in st.session_state.user_data:
+#     st.session_state.user_data['holdings_list'] = holdings_func()
+# if 'watch_list' not in st.session_state.user_data:
+#     st.session_state.user_data['watch_list'] = watchlist_func()
+# if 'favourite_list' not in st.session_state.user_data:
+#     st.session_state.user_data['favourite_list'] = favourite_func()
 
-holdings_list = st.session_state.user_data['holdings_list']
-watch_list = st.session_state.user_data['watch_list']
-favourite_list = st.session_state.user_data['favourite_list']
+# holdings_list = st.session_state.user_data['holdings_list']
+# watch_list = st.session_state.user_data['watch_list']
+# favourite_list = st.session_state.user_data['favourite_list']
 
 # Parse the URL parameters to get the selected stock
 url = st.experimental_get_query_params()
@@ -518,129 +531,46 @@ col1, col2, col3, col4 = st.columns([2, 2, 2, 2])
 # with col3:
 #     #genre = st.checkbox(label='Only latest Quarter',value=True)
 #     genre = st.radio("Chose Genre :",["Holdings",":rainbow[Latest Quarterly]", "Watchlist","All Listed","Favourite"],)
-genre = "All Listed"
+with col3:
+    #genre = st.checkbox(label='Only latest Quarter',value=True)
+    genre = st.radio("Chose Genre :",["All Listed","Expansion", "Double YSales YProfit","Last YProfit Doubled-Maintained","YSales 15perc Yprofit Doubled"])
 
+list_of_addresses = {"All Listed":"./watchlist/alllisted.txt","Expansion":"./watchlist/EXPANSION 2024.txt", "Last YProfit Doubled-Maintained":"./watchlist/LYPD PM 2024.txt", "YSales 15perc Yprofit Doubled":"./watchlist/YS15 YPD 2024.txt", "Double YSales YProfit":"./watchlist/YSD YPD 2024.txt"}
+# genre = "./watchlist/All Listed.txt"
                                                                                                                         # SELECTION OF WATCHLIST
 with col1:
-    if genre == ":rainbow[Latest Quarterly]":
+    if genre =="All Listed" :
         funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
-        show_list_as = st.session_state.latest_quarterly_stocks if selected_stock in st.session_state.latest_quarterly_stocks else st.session_state.listed_stocks
-        # selected = st.sidebar.selectbox("Pick",show_list_as,
-        #                                 index=st.session_state.latest_quarterly_stocks.index(selected_stock) if selected_stock in st.session_state.latest_quarterly_stocks else st.session_state.listed_stocks.index(selected_stock) if selected_stock in st.session_state.listed_stocks else 0)
-        if 'Latest Quarterly' not in st.session_state.no_of_stocks_not_latest:
-            st.session_state.no_of_stocks_not_latest['Latest Quarterly'] = lets_scan_list(show_list_as)
-
-        # temp_var = st.session_state.no_of_stocks_not_latest['Latest Quarterly']
-        # if len(temp_var) > 0:
-        #     # with col2_header:
-        #     #     if st.button(f'Get Results of {len(temp_var)} scripts with NO_LATEST_RESULTS'):
-        #     #         get_latest_results(temp_var)
-        #     no_of_stocks_not_latest1 = []
-        #     for each in temp_var:
-        #         if each.isdigit():
-        #             no_of_stocks_not_latest1.append(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
-        #         else:
-        #             no_of_stocks_not_latest1.append(each)
-        #     with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
-        #         st.info(no_of_stocks_not_latest1)
-    elif genre =="All Listed" :
-        funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
-        show_list_as = st.session_state.listed_stocks
-        # selected = st.sidebar.selectbox("", st.session_state.listed_stocks,
-        #                                 index=st.session_state.listed_stocks.index(selected_stock) if selected_stock in st.session_state.listed_stocks else 0)
+        show_list_as = read_txt_watchlist(list_of_addresses['All Listed'])
         if 'All Listed' not in st.session_state.no_of_stocks_not_latest:
-                st.session_state.no_of_stocks_not_latest["All Listed"] = lets_scan_list(st.session_state.listed_stocks)
-        temp_var = st.session_state.no_of_stocks_not_latest["All Listed"]
-        
-        # if len(temp_var) > 0:
-        #     # with col2_header:
-        #     #     if st.button(f'{len(temp_var)} needs Latest Results'):
-        #     #         get_latest_results(temp_var)
-        #     no_of_stocks_not_latest1 = []
-        #     for each in temp_var:
-        #         if each.isdigit():
-        #             no_of_stocks_not_latest1.append(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
-        #         else:
-        #             no_of_stocks_not_latest1.append(each)
-        #     with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
-        #         st.info(no_of_stocks_not_latest1)
-        
-    elif genre == "Holdings":
+            st.session_state.no_of_stocks_not_latest["All Listed"] = lets_scan_list(st.session_state.listed_stocks)
+        temp_var = st.session_state.no_of_stocks_not_latest["All Listed"]        
+    elif genre =="Expansion":
         funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
-        update_txt_file = './watchlist/holdings.txt'
-        # show_list_as = unique_from_watchlist(update_txt_file)
-        show_list_as = st.session_state.user_data['holdings_list']
-        # selected = st.sidebar.selectbox("", show_list_as,
-        #                 index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
-        if 'Holdings' not in st.session_state.no_of_stocks_not_latest:
-            st.session_state.no_of_stocks_not_latest['Holdings'] = lets_scan_list(holdings_list)
-        temp_var = st.session_state.no_of_stocks_not_latest['Holdings']
-        # if len(temp_var) > 0:
-        #     # with col2_header:
-        #     #     if st.button(f'{len(temp_var)} needs Latest Results'):
-        #     #         get_latest_results(temp_var)
-        #     no_of_stocks_not_latest1 = []
-        #     for each in temp_var:
-        #         if each.isdigit():
-        #             no_of_stocks_not_latest1.append(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
-        #         else:
-        #             no_of_stocks_not_latest1.append(each)
-        #     with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
-        #         st.info(no_of_stocks_not_latest1)
-    elif genre == "Watchlist":
+        show_list_as = read_txt_watchlist(list_of_addresses['Expansion'])
+        if 'Expansion' not in st.session_state.no_of_stocks_not_latest:
+            st.session_state.no_of_stocks_not_latest["Expansion"] = lets_scan_list(show_list_as)
+        temp_var = st.session_state.no_of_stocks_not_latest["Expansion"]       
+    elif genre =="Double YSales YProfit":
         funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
-        update_txt_file = './watchlist/watchlist.txt'
-        # show_list_as = unique_from_watchlist(update_txt_file)
-        show_list_as = st.session_state.user_data['watch_list']
-        # selected = st.sidebar.selectbox("", show_list_as,
-        #                 index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
-        if 'Watchlist' not in st.session_state.no_of_stocks_not_latest:
-            st.session_state.no_of_stocks_not_latest['Watchlist'] = lets_scan_list(watch_list)
-        temp_var = st.session_state.no_of_stocks_not_latest['Watchlist']
-        # st.info(f"Out of {len(watch_list)} stocks, {len(temp_var)} have NO-LATEST results")
+        show_list_as = read_txt_watchlist(list_of_addresses['Double YSales YProfit'])
+        if 'Double YSales YProfit' not in st.session_state.no_of_stocks_not_latest:
+            st.session_state.no_of_stocks_not_latest["Double YSales YProfit"] = lets_scan_list(show_list_as)
+        temp_var = st.session_state.no_of_stocks_not_latest["Double YSales YProfit"]
+    elif genre =="Last YProfit Doubled-Maintained":
+        funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
+        show_list_as = read_txt_watchlist(list_of_addresses['Last YProfit Doubled-Maintained'])
+        if 'Last YProfit Doubled-Maintained' not in st.session_state.no_of_stocks_not_latest:
+            st.session_state.no_of_stocks_not_latest["Last YProfit Doubled-Maintained"] = lets_scan_list(show_list_as)
+        temp_var = st.session_state.no_of_stocks_not_latest["Last YProfit Doubled-Maintained"]        
+    elif genre =="YSales 15perc Yprofit Doubled":
+        funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
+        show_list_as = read_txt_watchlist(list_of_addresses['YSales 15perc Yprofit Doubled'])
+        if 'YSales 15perc Yprofit Doubled' not in st.session_state.no_of_stocks_not_latest:
+            st.session_state.no_of_stocks_not_latest["YSales 15perc Yprofit Doubled"] = lets_scan_list(show_list_as)
+        temp_var = st.session_state.no_of_stocks_not_latest["YSales 15perc Yprofit Doubled"]  
 
-        # with col2_header:
-        #     if st.button(f'Get Latest Results'):
-        #         get_latest_results(show_list_as)
-        # if len(temp_var) > 0:
-        #     # with col2_header:
-        #     #     if st.button(f'{len(temp_var)} needs Latest Results'):
-        #     #         get_latest_results(temp_var)
-        #     no_of_stocks_not_latest1 = []
-        #     for each in temp_var:
-        #         if each.isdigit():
-        #             no_of_stocks_not_latest1.append(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
-        #         else:
-        #             no_of_stocks_not_latest1.append(each)
-        #     with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
-        #         st.info(no_of_stocks_not_latest1)
-    elif genre == "Favourite":
-        funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
-        update_txt_file = './watchlist/favourite.txt'
-        show_list_as = st.session_state.user_data['favourite_list']
-        # selected = st.sidebar.selectbox("", show_list_as,
-        #                 index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
-        if 'Favourites' not in st.session_state.no_of_stocks_not_latest:
-            st.session_state.no_of_stocks_not_latest["Favourites"] = lets_scan_list(show_list_as)
-        temp_var = st.session_state.no_of_stocks_not_latest["Favourites"]
-        # with col2_header:
-        #     if st.button(f'Get Latest Results'):
-        #         get_latest_results(show_list_as)
 
-        # if len(temp_var) > 0:
-        #     # with col2_header:
-        #     #     if st.button(f'{len(temp_var)} needs Latest Results'):
-        #     #         get_latest_results(temp_var)
-        #     # ONLY TO SHOW BOTH CODE AND NAME TOGETHER IN EXPANDER
-        #     no_of_stocks_not_latest1 = []
-        #     for each in temp_var:
-        #         if each.isdigit():
-        #             no_of_stocks_not_latest1.append(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
-        #         else:
-        #             no_of_stocks_not_latest1.append(each)
-        #     with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
-        #         st.info(no_of_stocks_not_latest1)
-                                                                                                                        # GET LIST OF STOCKS IN WATCHLIST and MAKE WATCHLISTS AS PER TAGS
 company_in = {}
 company_in['ALL'] = show_list_as
 for company_code in show_list_as:
@@ -677,19 +607,19 @@ selected = st.sidebar.selectbox("", selected_first_as,
 #     if st.button("SAVE METADATA"):
 #         save_metadata()
 
-with col2:
-    if st.button(f"Create Text file from {first_selected.split(' (')[0]}"):
-        save_txt_file_as = f"watchlist {first_selected.split(' (')[0]}.txt"
-        with open(f'./watchlist/tempwatchlist.txt', 'w') as wr:
-            for each in selected_first_as:
-                wr.write(each+"\n")
-        with open(f'./watchlist/tempwatchlist.txt', 'w') as file:
-            content = file.read()
-            btn = st.download_button(
-                label="Download Now",
-                data=content,
-                file_name=save_txt_file_as,
-                mime="application/text")
+# with col2:
+#     if st.button(f"Create Text file from {first_selected.split(' (')[0]}"):
+#         save_txt_file_as = f"watchlist {first_selected.split(' (')[0]}.txt"
+#         with open(f'./watchlist/tempwatchlist.txt', 'w') as wr:
+#             for each in selected_first_as:
+#                 wr.write(each+"\n")
+#         with open(f'./watchlist/tempwatchlist.txt', 'w') as file:
+#             content = file.read()
+#             btn = st.download_button(
+#                 label="Download Now",
+#                 data=content,
+#                 file_name=save_txt_file_as,
+#                 mime="application/text")
 
 st.experimental_set_query_params(selected=[selected],)
 if selected:
