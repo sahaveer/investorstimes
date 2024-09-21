@@ -128,7 +128,7 @@ if uploaded_file is not None:
         Yearly_sentence_in_Quarterly = ""
         comp_Name = uploaded_file[0].name.split('.xlsx')[0]
         comp_Name = comp_Name.split('.xlsm')[0]
-
+        
         sentence = f"{comp_Name}: "
         col1, col2, col3, col4 = st.columns([2, 2, 1, 1])
         with col1:
@@ -249,50 +249,7 @@ if uploaded_file is not None:
             sub_choose = st.selectbox("Fundamentals", fundamentals.funda_menu)
 
         if sub_choose == 'Key_Data':
-            key_data = str("""<!-- TradingView Widget BEGIN -->
-                                    <div class="tradingview-widget-container">
-                                      <div class="tradingview-widget-container__widget"></div>
-                                      <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/financials-overview/" rel="noopener" target="_blank"><span class="blue-text">Fundamental Data</span></a> by TradingView</div>
-                                      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-financials.js" async>
-                                      {
-                                      "colorTheme": "dark",
-                                      "isTransparent": false,
-                                      "largeChartUrl": "",
-                                      "displayMode": "regular",
-                                      "width": "100%",
-                                      "height": 880,
-                                      "symbol": "xx",
-                                      "locale": "en"
-                                      }
-                                      </script>
-                                    </div>
-                                    <!-- TradingView Widget END -->
-                                """)
-
-            comp_profile = str("""
-                                    <!-- TradingView Widget BEGIN -->
-                                    <div class="tradingview-widget-container">
-                                      <div class="tradingview-widget-container__widget"></div>
-                                      <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text"> Profile</span></a> by TradingView</div>
-                                      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-profile.js" async>
-                                      {
-                                      "width": "100%",
-                                      "height": 880,
-                                      "colorTheme": "dark",
-                                      "isTransparent": false,
-                                      "symbol": "xxyy",
-                                      "locale": "en"
-                                    }
-                                      </script>
-                                    </div>
-                                    <!-- TradingView Widget END -->
-                                    """)
-            with st.expander(label="TRADINGVIEW DATA"):
-                colx, coly = st.columns([1.5, 1])
-                with colx:
-                    components.html(key_data.replace("xx", comp_Name), height=1080)
-                with coly:
-                    components.html(comp_profile.replace("xxyy", comp_Name), height=1080)
+            
             with st.expander(label='BALANCE SHEET'):
                 st.dataframe(balancesht)
             with st.expander(label='YEARLY PNL'):
