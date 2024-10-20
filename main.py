@@ -533,9 +533,9 @@ col1, col2, col3, col4 = st.columns([2, 2, 2, 2])
 #     genre = st.radio("Chose Genre :",["Holdings",":rainbow[Latest Quarterly]", "Watchlist","All Listed","Favourite"],)
 with col3:
     #genre = st.checkbox(label='Only latest Quarter',value=True)
-    genre = st.radio("Chose Genre :",["All Listed","Expansion", "Double YSales YProfit","Last YProfit Doubled-Maintained","YSales 15perc Yprofit Doubled"])
+    genre = st.radio("Chose Genre :",["All Listed","Expansion", "Double YSales YProfit","Last YProfit Doubled-Maintained","YSales 15perc Yprofit Doubled","Best Quarter"])
 
-list_of_addresses = {"All Listed":"./watchlist/alllisted.txt","Expansion":"./watchlist/EXPANSION 2024.txt", "Last YProfit Doubled-Maintained":"./watchlist/LYPD PM 2024.txt", "YSales 15perc Yprofit Doubled":"./watchlist/YS15 YPD 2024.txt", "Double YSales YProfit":"./watchlist/YSD YPD 2024.txt"}
+list_of_addresses = {"All Listed":"./watchlist/alllisted.txt","Expansion":"./watchlist/EXPANSION 2024.txt", "Last YProfit Doubled-Maintained":"./watchlist/LYPD PM 2024.txt", "YSales 15perc Yprofit Doubled":"./watchlist/YS15 YPD 2024.txt", "Double YSales YProfit":"./watchlist/YSD YPD 2024.txt", "Best Quarter":"./watchlist/BestQ.txt"}
 # genre = "./watchlist/All Listed.txt"
                                                                                                                         # SELECTION OF WATCHLIST
 with col1:
@@ -569,7 +569,13 @@ with col1:
         if 'YSales 15perc Yprofit Doubled' not in st.session_state.no_of_stocks_not_latest:
             st.session_state.no_of_stocks_not_latest["YSales 15perc Yprofit Doubled"] = lets_scan_list(show_list_as)
         temp_var = st.session_state.no_of_stocks_not_latest["YSales 15perc Yprofit Doubled"]  
-
+    elif genre =="Best Quarter":
+        funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
+        show_list_as = read_txt_watchlist(list_of_addresses['BestQ'])
+        if 'BestQ' not in st.session_state.no_of_stocks_not_latest:
+            st.session_state.no_of_stocks_not_latest["BestQ"] = lets_scan_list(show_list_as)
+        temp_var = st.session_state.no_of_stocks_not_latest["BestQ"]       
+    
 
 company_in = {}
 company_in['ALL'] = show_list_as
