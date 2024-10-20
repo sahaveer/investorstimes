@@ -571,10 +571,10 @@ with col1:
         temp_var = st.session_state.no_of_stocks_not_latest["YSales 15perc Yprofit Doubled"]  
     elif genre =="Best Quarter":
         funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
-        show_list_as = read_txt_watchlist(list_of_addresses['BestQ'])
+        show_list_as = read_txt_watchlist(list_of_addresses['Best Quarter'])
         if 'BestQ' not in st.session_state.no_of_stocks_not_latest:
-            st.session_state.no_of_stocks_not_latest["BestQ"] = lets_scan_list(show_list_as)
-        temp_var = st.session_state.no_of_stocks_not_latest["BestQ"]       
+            st.session_state.no_of_stocks_not_latest["Best Quarter"] = lets_scan_list(show_list_as)
+        temp_var = st.session_state.no_of_stocks_not_latest["Best Quarter"]       
     
 
 company_in = {}
