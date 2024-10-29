@@ -531,51 +531,59 @@ col1, col2, col3, col4 = st.columns([2, 2, 2, 2])
 # with col3:
 #     #genre = st.checkbox(label='Only latest Quarter',value=True)
 #     genre = st.radio("Chose Genre :",["Holdings",":rainbow[Latest Quarterly]", "Watchlist","All Listed","Favourite"],)
-with col3:
-    #genre = st.checkbox(label='Only latest Quarter',value=True)
-    genre = st.radio("Chose Genre :",["All Listed","Expansion", "Double YSales YProfit","Last YProfit Doubled-Maintained","YSales 15perc Yprofit Doubled","Best Quarter"])
+# with col3:
+#     #genre = st.checkbox(label='Only latest Quarter',value=True)
+#     genre = st.radio("Chose Genre :",["All Listed","Expansion", "Double YSales YProfit","Last YProfit Doubled-Maintained","YSales 15perc Yprofit Doubled","Best Quarter"])
 
-list_of_addresses = {"All Listed":"./watchlist/alllisted.txt","Expansion":"./watchlist/EXPANSION 2024.txt", "Last YProfit Doubled-Maintained":"./watchlist/LYPD PM 2024.txt", "YSales 15perc Yprofit Doubled":"./watchlist/YS15 YPD 2024.txt", "Double YSales YProfit":"./watchlist/YSD YPD 2024.txt", "Best Quarter":"./watchlist/BestQ.txt"}
-# genre = "./watchlist/All Listed.txt"
-                                                                                                                        # SELECTION OF WATCHLIST
-with col1:
-    if genre =="All Listed" :
-        funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
-        show_list_as = read_txt_watchlist(list_of_addresses['All Listed'])
-        if 'All Listed' not in st.session_state.no_of_stocks_not_latest:
-            st.session_state.no_of_stocks_not_latest["All Listed"] = lets_scan_list(st.session_state.listed_stocks)
-        temp_var = st.session_state.no_of_stocks_not_latest["All Listed"]        
-    elif genre =="Expansion":
-        funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
-        show_list_as = read_txt_watchlist(list_of_addresses['Expansion'])
-        if 'Expansion' not in st.session_state.no_of_stocks_not_latest:
-            st.session_state.no_of_stocks_not_latest["Expansion"] = lets_scan_list(show_list_as)
-        temp_var = st.session_state.no_of_stocks_not_latest["Expansion"]       
-    elif genre =="Double YSales YProfit":
-        funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
-        show_list_as = read_txt_watchlist(list_of_addresses['Double YSales YProfit'])
-        if 'Double YSales YProfit' not in st.session_state.no_of_stocks_not_latest:
-            st.session_state.no_of_stocks_not_latest["Double YSales YProfit"] = lets_scan_list(show_list_as)
-        temp_var = st.session_state.no_of_stocks_not_latest["Double YSales YProfit"]
-    elif genre =="Last YProfit Doubled-Maintained":
-        funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
-        show_list_as = read_txt_watchlist(list_of_addresses['Last YProfit Doubled-Maintained'])
-        if 'Last YProfit Doubled-Maintained' not in st.session_state.no_of_stocks_not_latest:
-            st.session_state.no_of_stocks_not_latest["Last YProfit Doubled-Maintained"] = lets_scan_list(show_list_as)
-        temp_var = st.session_state.no_of_stocks_not_latest["Last YProfit Doubled-Maintained"]        
-    elif genre =="YSales 15perc Yprofit Doubled":
-        funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
-        show_list_as = read_txt_watchlist(list_of_addresses['YSales 15perc Yprofit Doubled'])
-        if 'YSales 15perc Yprofit Doubled' not in st.session_state.no_of_stocks_not_latest:
-            st.session_state.no_of_stocks_not_latest["YSales 15perc Yprofit Doubled"] = lets_scan_list(show_list_as)
-        temp_var = st.session_state.no_of_stocks_not_latest["YSales 15perc Yprofit Doubled"]  
-    elif genre =="Best Quarter":
-        funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
-        show_list_as = read_txt_watchlist(list_of_addresses['Best Quarter'])
-        if 'BestQ' not in st.session_state.no_of_stocks_not_latest:
-            st.session_state.no_of_stocks_not_latest["Best Quarter"] = lets_scan_list(show_list_as)
-        temp_var = st.session_state.no_of_stocks_not_latest["Best Quarter"]       
-    
+# list_of_addresses = {"All Listed":"./watchlist/alllisted.txt","Expansion":"./watchlist/EXPANSION 2024.txt", "Last YProfit Doubled-Maintained":"./watchlist/LYPD PM 2024.txt", "YSales 15perc Yprofit Doubled":"./watchlist/YS15 YPD 2024.txt", "Double YSales YProfit":"./watchlist/YSD YPD 2024.txt", "Best Quarter":"./watchlist/BestQ.txt"}
+# # genre = "./watchlist/All Listed.txt"
+#                                                                                                                         # SELECTION OF WATCHLIST
+# with col1:
+#     if genre =="All Listed" :
+#         funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
+#         show_list_as = read_txt_watchlist(list_of_addresses['All Listed'])
+#         if 'All Listed' not in st.session_state.no_of_stocks_not_latest:
+#             st.session_state.no_of_stocks_not_latest["All Listed"] = lets_scan_list(st.session_state.listed_stocks)
+#         temp_var = st.session_state.no_of_stocks_not_latest["All Listed"]        
+#     elif genre =="Expansion":
+#         funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
+#         show_list_as = read_txt_watchlist(list_of_addresses['Expansion'])
+#         if 'Expansion' not in st.session_state.no_of_stocks_not_latest:
+#             st.session_state.no_of_stocks_not_latest["Expansion"] = lets_scan_list(show_list_as)
+#         temp_var = st.session_state.no_of_stocks_not_latest["Expansion"]       
+#     elif genre =="Double YSales YProfit":
+#         funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
+#         show_list_as = read_txt_watchlist(list_of_addresses['Double YSales YProfit'])
+#         if 'Double YSales YProfit' not in st.session_state.no_of_stocks_not_latest:
+#             st.session_state.no_of_stocks_not_latest["Double YSales YProfit"] = lets_scan_list(show_list_as)
+#         temp_var = st.session_state.no_of_stocks_not_latest["Double YSales YProfit"]
+#     elif genre =="Last YProfit Doubled-Maintained":
+#         funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
+#         show_list_as = read_txt_watchlist(list_of_addresses['Last YProfit Doubled-Maintained'])
+#         if 'Last YProfit Doubled-Maintained' not in st.session_state.no_of_stocks_not_latest:
+#             st.session_state.no_of_stocks_not_latest["Last YProfit Doubled-Maintained"] = lets_scan_list(show_list_as)
+#         temp_var = st.session_state.no_of_stocks_not_latest["Last YProfit Doubled-Maintained"]        
+#     elif genre =="YSales 15perc Yprofit Doubled":
+#         funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
+#         show_list_as = read_txt_watchlist(list_of_addresses['YSales 15perc Yprofit Doubled'])
+#         if 'YSales 15perc Yprofit Doubled' not in st.session_state.no_of_stocks_not_latest:
+#             st.session_state.no_of_stocks_not_latest["YSales 15perc Yprofit Doubled"] = lets_scan_list(show_list_as)
+#         temp_var = st.session_state.no_of_stocks_not_latest["YSales 15perc Yprofit Doubled"]  
+#     elif genre =="Best Quarter":
+#         funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
+#         show_list_as = read_txt_watchlist(list_of_addresses['Best Quarter'])
+#         if 'BestQ' not in st.session_state.no_of_stocks_not_latest:
+#             st.session_state.no_of_stocks_not_latest["Best Quarter"] = lets_scan_list(show_list_as)
+#         temp_var = st.session_state.no_of_stocks_not_latest["Best Quarter"]       
+
+funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
+show_list_as = st.session_state.listed_stocks
+# selected = st.sidebar.selectbox("", st.session_state.listed_stocks,
+#                                 index=st.session_state.listed_stocks.index(selected_stock) if selected_stock in st.session_state.listed_stocks else 0)
+if 'All Listed' not in st.session_state.no_of_stocks_not_latest.keys():
+    st.session_state.no_of_stocks_not_latest["All Listed"] = lets_scan_list(st.session_state.listed_stocks)
+temp_var = st.session_state.no_of_stocks_not_latest["All Listed"] 
+
 
 company_in = {}
 company_in['ALL'] = show_list_as
@@ -591,6 +599,12 @@ for company_code in show_list_as:
             for each in comp_tags:
                 if each.endswith('2024') or each.endswith('DEMAND'):
                     company_in[each].append(company_code)
+with open('./watchlist/MCAP 5000.txt') as f:
+    for each_line in f:
+        #lets list all the  stocks with mcap < 5000
+        company_in['MCAP <5000'].append(each_line.strip())
+
+
 company_in_keys = list(company_in.keys())
 company_in_values = list(company_in.values())
 
