@@ -587,6 +587,12 @@ temp_var = st.session_state.no_of_stocks_not_latest["All Listed"]
 
 company_in = {}
 company_in['ALL'] = show_list_as
+company_in['MCAP <5000'] = []
+with open('./watchlist/MCAP 5000.txt') as f:
+    for each_line in f:
+        #lets list all the  stocks with mcap < 5000
+        company_in['MCAP <5000'].append(each_line.strip())
+
 for company_code in show_list_as:
     if company_code in variables.metadata.keys():
         comp_tags = variables.metadata[company_code]['tags']
@@ -599,10 +605,6 @@ for company_code in show_list_as:
             for each in comp_tags:
                 if each.endswith('2024') or each.endswith('DEMAND'):
                     company_in[each].append(company_code)
-with open('./watchlist/MCAP 5000.txt') as f:
-    for each_line in f:
-        #lets list all the  stocks with mcap < 5000
-        company_in['MCAP <5000'].append(each_line.strip())
 
 
 company_in_keys = list(company_in.keys())
