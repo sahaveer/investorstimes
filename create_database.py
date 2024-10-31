@@ -78,6 +78,18 @@ def insert_db(col,fileid,date):
     except pymongo.errors.ServerSelectionTimeoutError:
         print("Hey buddy, we Couldnt update to the Database. \nOpen NETWORK ACCESS in MongoDB and add your IP address")
 
+
+@st.cache_resource
+def get_metadata():
+    print("Trying to get data from PYMONGODB")
+    send_metadata = {}
+    for document in company_metadata_col.find():
+        key = document['_id']
+        send_metadata[key] = document
+    # st.success(send_metadata)
+    return send_metadata
+
+
 def insert_stock_metadata(dict):
     try:
         col = company_metadata_col

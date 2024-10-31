@@ -39,24 +39,25 @@ def load_metadata():
             return pickle.load(f)
     else:
         return {}
-variables.metadata = load_metadata()
+# variables.metadata = load_metadata()
+variables.metadata = create_database.get_metadata()
 
-with open('./watchlist/groups/BestQ Sep 2024.txt') as f:
-    for each_line in f:
-        #lets save this is metadata
-        # check if each_line is available in variables.metadata.keys()
-        if each_line in variables.metadata.keys():
-            variables.metadata[each_line]['tags'].append('BestQ Sep 2024')
+# with open('./watchlist/groups/BestQ Sep 2024.txt') as f:
+#     for each_line in f:
+#         #lets save this is metadata
+#         # check if each_line is available in variables.metadata.keys()
+#         if each_line in variables.metadata.keys():
+#             variables.metadata[each_line]['tags'].append('BestQ Sep 2024')
         
 
 
 
-def save_metadata():
-    with open('./metadata.pkl', 'wb') as f:
-        pickle.dump(variables.metadata, f)
-    with open('./userdata.pkl','wb') as f:
-        pickle.dump(st.session_state.user_data, f)
-    st.success("Metadata saved successfully")
+# def save_metadata():
+#     with open('./metadata.pkl', 'wb') as f:
+#         pickle.dump(variables.metadata, f)
+#     with open('./userdata.pkl','wb') as f:
+#         pickle.dump(st.session_state.user_data, f)
+#     st.success("Metadata saved successfully")
 
 # for each in variables.metadata.keys():
 #     try:
