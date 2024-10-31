@@ -41,6 +41,16 @@ def load_metadata():
         return {}
 variables.metadata = load_metadata()
 
+with open('./watchlist/groups/BestQ Sep 2024.txt') as f:
+    for each_line in f:
+        #lets save this is metadata
+        # check if each_line is available in variables.metadata.keys()
+        if each_line in variables.metadata.keys():
+            variables.metadata[each_line]['tags'].append('BestQ Sep 2024')
+        
+
+
+
 def save_metadata():
     with open('./metadata.pkl', 'wb') as f:
         pickle.dump(variables.metadata, f)
@@ -593,17 +603,19 @@ with open('./watchlist/MCAP 5000.txt') as f:
         #lets list all the  stocks with mcap < 5000
         company_in['MCAP <5000'].append(each_line.strip())
 
+
+
 for company_code in show_list_as:
     if company_code in variables.metadata.keys():
         comp_tags = variables.metadata[company_code]['tags']
         # st.info(f"for {company_code} : Comp tags are {comp_tags")
         if len(comp_tags) >= 1:                
             for each in comp_tags:
-                if each.endswith('2024') or each.endswith('DEMAND'):
+                if each.endswith('2024') or each.endswith('DEMAND') or each.startswith('BestQ') :
                     if each not in company_in.keys():
                         company_in[each] = []
             for each in comp_tags:
-                if each.endswith('2024') or each.endswith('DEMAND'):
+                if each.endswith('2024') or each.endswith('DEMAND') or each.startswith('BestQ') :
                     company_in[each].append(company_code)
 
 
