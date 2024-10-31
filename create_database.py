@@ -78,7 +78,6 @@ def insert_db(col,fileid,date):
     except pymongo.errors.ServerSelectionTimeoutError:
         print("Hey buddy, we Couldnt update to the Database. \nOpen NETWORK ACCESS in MongoDB and add your IP address")
 
-@st.cache_data
 def get_metadata():
     print("Trying to get data from PYMONGODB")
     send_metadata = {}
