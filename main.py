@@ -39,6 +39,8 @@ def load_metadata():
             return pickle.load(f)
     else:
         return {}
+
+
 # variables.metadata = load_metadata()
 variables.metadata = create_database.get_metadata()
 

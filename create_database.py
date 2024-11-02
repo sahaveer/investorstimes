@@ -87,7 +87,6 @@ def get_metadata():
     # st.success(send_metadata)
     return send_metadata
 
-
 def insert_stock_metadata(dict):
     try:
         col = company_metadata_col
