@@ -496,12 +496,12 @@ if selected:
         with coltw2:
             textarea_is = st.text_area(label="👉 INSIGHTS", value=sentence, height=180, key="InsightsYQ")
             # Provide a download button
-            st.download_button(
-                label=f"📥 Download {company_code}",
-                data=file_like,
-                file_name=f"{company_code}.txt",
-                mime="text/plain"
-            )
+            # st.download_button(
+            #     label=f"📥 Download {company_code}",
+            #     data=file_like,
+            #     file_name=f"{company_code}.txt",
+            #     mime="text/plain"
+            # )
         with subcoltw2_2:            
             if st.button('Send Telegram'):
                 # bot.send_message(chat_id=chat_id, text=sentence)
