@@ -198,7 +198,6 @@ with col1:
             #     st.info(no_of_stocks_not_latest1)
     elif genre =="All Listed" :
         funda_tech_options = ["Funda_Chart", 'Tech_Chart', 'Analyse Watchlist']
-        #get listed sotcks from AMIBROKER entire database
         show_list_as = st.session_state.listed_stocks
         selected = st.sidebar.selectbox("", show_list_as, index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
         
