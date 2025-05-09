@@ -162,8 +162,6 @@ def get_code_name(code):
         code_names_obj = create_database.comp_metadata_col.find_one({"code_names":query_code})
         return code_names_obj['code_names'][-1],code_names_obj["comp_metadata"]["comp_fullname"]
 
-        
-
 
 @st.cache_data
 def remove_duplicate_in_watchlist(givenlist:list)->list:            #give LIST here
