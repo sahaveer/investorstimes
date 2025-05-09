@@ -160,12 +160,11 @@ def amibroker_notes_insights( metadata):
     message = sentence
     # print(message)
     # st.info(f"RECEIVED in amibroker.py {code_names}")
-    for each in code_names:
-        each = str(each)
-        amibroker_txt = "./amibroker/notes/" + each.strip() + ".txt"
-        with open(amibroker_txt, "w") as f:
-            f.write(message)
-        
+    # for each in code_names:
+    #     each = str(each)
+    #     amibroker_txt = "./amibroker/notes/" + each.strip() + ".txt"
+    #     with open(amibroker_txt, "w") as f:
+    #         f.write(message)
     return sentence
 
 def amibroker_notes_csv_yearly(code_names, yr_df):
