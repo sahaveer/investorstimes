@@ -1001,21 +1001,21 @@ if selected:
                     </script>
                     """, unsafe_allow_html=True)
         # Handle query parameters to update the show_list_as
-        query_params = st.experimental_get_query_params()
-        added_company = query_params.get("Add", [None])[0]
-        removed_company = query_params.get("Remove", [None])[0]
+        # query_params = st.query_params()
+        # added_company = query_params.get("Add", [None])[0]
+        # removed_company = query_params.get("Remove", [None])[0]
 
-        if removed_company and removed_company in show_list_as:
-            show_list_as.remove(removed_company)
-            st.session_state.show_list_as = show_list_as
-            # Save updted watchlist to file
-            os.makedirs('./watchlist', exist_ok=True)
-            with open(update_txt_file, 'w') as f:
-                for company in show_list_as:
-                    f.write(f"{company}\n")
+        # if removed_company and removed_company in show_list_as:
+        #     show_list_as.remove(removed_company)
+        #     st.session_state.show_list_as = show_list_as
+        #     # Save updted watchlist to file
+        #     os.makedirs('./watchlist', exist_ok=True)
+        #     with open(update_txt_file, 'w') as f:
+        #         for company in show_list_as:
+        #             f.write(f"{company}\n")
 
             
-            st.experimental_set_query_params()  # Clear query params after updating
+            # st.experimental_set_query_params()  # Clear query params after updating
 
 
 # if st.checkbox("DONOT TICK THIS : UPLOAD", value=False):
