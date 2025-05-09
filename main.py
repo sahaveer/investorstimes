@@ -490,11 +490,12 @@ if selected:
             # st.title(comp_Name)
 
         sentence = amibroker.amibroker_notes_insights(metadata=metadata)
-        file_like = io.StringIO(sentence)
         
 
         with coltw2:
             textarea_is = st.text_area(label="👉 INSIGHTS", value=sentence, height=180, key="InsightsYQ")
+
+            # file_like = io.StringIO(sentence)
             # Provide a download button
             # st.download_button(
             #     label=f"📥 Download {company_code}",
