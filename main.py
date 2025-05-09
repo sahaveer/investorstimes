@@ -165,7 +165,7 @@ def write_tags_to_txt(metadata):
             #         st.success(f"Updated {metadata['code_names'][-1]} in {text_file}")
 
 # Parse the URL parameters to get the selected stock
-url = st.experimental_get_query_params()
+url = st.query_params()
 selected_stock = url.get("selected", [""])[0]
 
 # WATCHLIST OPTIONS
