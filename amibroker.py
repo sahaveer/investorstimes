@@ -3,8 +3,161 @@ import shutil
 import pandas as pd
 import streamlit as st
 import fundamentals
+import create_database
 
-def amibroker_notes_insights(code_names, message):
+
+#by clicking a button, this function is called; It gets all the necessary data from the database and writes to dbnotes folder
+# def ami_notes_from_database():
+#     for document in create_database.company_metadata_col.find():
+#         key = document['_id']
+#         #create and write a text file        
+#         with open(f'./amibroker/dbnotes/{key}.txt', 'w') as f:
+#             # write document('code_names') document('pros') document('tags') document('cons') document('YPNL_Statement') document('QPNL_Statement')
+#             try:
+#                 f.write(f"Code Names: {document['code_names']}\n")
+#                 if len(document['pros']) > 1:
+#                     f.write(f"\nPros: \n")
+#                     for each in document['pros']:
+#                         f.write(f"{each}\n")
+#                 if len(document['tags']) > 1:
+#                     f.write(f"\nTAGS: \n")
+#                     for each in document['tags']:
+#                         f.write(f"{each}\n")
+#                 if len(document['cons']) > 1:
+#                     f.write(f"\nCONS: \n")
+#                     for each in document['cons']:
+#                         f.write(f"{each}\n")
+
+#                 if 'YPNL_Statement' in document.keys():
+#                     f.write(f"\nYPNL Statement: {document['YPNL_Statement']}\n")
+#                 if 'QPNL_Statement' in document.keys():
+#                     f.write(f"\nQPNL Statement: {document['QPNL_Statement']}\n")
+#             except Exception as KeyError:
+#                 st.error(f"Error writing to file {key}.txt: {KeyError}")
+
+def ami_notes_from_database1():
+    for document in create_database.comp_metadata_col.find():
+        # st.success(document)
+        key = document['_id']
+        #create and write a text file        
+        try:
+            for each1 in document['code_names']:
+                metadata = each1
+                with open(f"./amibroker/dbnotes/{document[each1]}.txt", 'w') as f:
+                    code_names = metadata['code_names']
+                    sentence = ""
+                    if len(metadata['code_names']) == 1 and metadata['code_names'][0].isdigit():
+                        sentence += f"CODE\tNAME\n"
+                        sentence += f"{metadata['code_names'][0]} \n" #{st.session_state.bsecodenum_codename[int(metadata['code_names'][0])]}"
+                    else:
+                        sentence += f"CODES\n"
+                        for each in metadata['code_names']: sentence += f"{each}\t"
+                    # for each in metadata['code_names']: sentence += f"{each}\t"
+                    sentence += "\n"
+                    for each in metadata['metadata']['tags'] : sentence += f"{each}\n"
+                    if 'cons' in metadata['metadata'].keys():
+                        sentence += "\n***CONS***\n"
+                        for each in metadata['metadata']['cons']: sentence += f"{each}\n"
+                    if 'YPNL_Statement' in metadata['metadata'].keys(): 
+                        sentence += "\n***YEARLY***" + metadata['metadata']['YPNL_Statement'] + "\n"
+                    if 'QPNL_Statement' in metadata['metadata'].keys():     
+                        sentence += "\n***QUARTERLY***" + metadata['metadata']['QPNL_Statement'] + "\n"
+                    if 'pros' in metadata['metadata'].keys():
+                        sentence += "\n***PROS***\n"
+                        for each in metadata['metadata']['pros']: sentence += f"{each}\n"
+                    if 'QPNL_tweet' in metadata['metadata'].keys():
+                        sentence += f"\n{metadata['metadata']['QPNL_tweet']}\n"
+                    if 'YPNL_tweet' in metadata['metadata'].keys():
+                        sentence += f"\n{metadata['metadata']['YPNL_tweet']}\n"
+                    message = sentence
+                    f.write(message)
+                    # if "comp_metadata" in document.keys():
+                    #     # f.write(f"Code Names: ")
+                    #     #how to read key and value in a dict?
+                    #     for eachkey,eachval in document['comp_metadata']['code_names'].items():
+                    #         f.write(f"{eachkey}:{eachval}\n")
+                    #     f.write(f"{document['comp_metadata']['comp_fullname']}\n")
+                    #     f.write(f"SECTOR : {document['comp_metadata']['sector']}; \nINDUSTRY : {document['comp_metadata']['industry']}\n")
+                    # if "CONSOLIDATED" in document.keys() or "STANDALONE" in document.keys():
+                    #     if "CONSOLIDATED" in document.keys():
+                    #         # reqd_data = document['CONSOLIDATED']['metadata']
+                    #         f.write(f"Both Standalone and Consolidated data are available.\nCONSOLIDATED DATA:\n")
+                    #         if 'metadata' in document['CONSOLIDATED'].keys(): 
+                    #             if 'tags' in document['CONSOLIDATED']['metadata'].keys():
+                    #                 if len(document['CONSOLIDATED']['metadata']['tags'])>=1:
+                    #                     f.write(f"TAGS:\n")
+                    #                     for each in document['CONSOLIDATED']['metadata']['tags']:
+                    #                         f.write(f"{each}\n")
+                    #             if 'pros' in document['CONSOLIDATED']['metadata'].keys():
+                    #                 if len(document['CONSOLIDATED']['metadata']['pros'])>0:
+                    #                     f.write(f"PROS:\n")
+                    #                     for each in document['CONSOLIDATED']['metadata']['pros']:
+                    #                         f.write(f"{each}\n")
+                    #             if 'cons' in document['CONSOLIDATED']['metadata'].keys():
+                    #                 if len(document['CONSOLIDATED']['metadata']['cons'])>0:
+                    #                     f.write(f"CONS:\n")
+                    #                     for each in document['CONSOLIDATED']['metadata']['cons']:
+                    #                         f.write(f"{each}\n")
+                    #             if 'YPNL_Statement' in document['CONSOLIDATED']['metadata'].keys():
+                    #                 f.write(f"{document['CONSOLIDATED']['metadata']['YPNL_Statement']}\n")
+                    #             if 'QPNL_Statement' in document['CONSOLIDATED']['metadata'].keys():
+                    #                 f.write(f"{document['CONSOLIDATED']['metadata']['QPNL_Statement']}\n")
+                            
+                    #     elif "STANDALONE" in document.keys():
+                    #         f.write(f"STANDALONE DATA:\n")
+                    #         if 'metadata' in document['STANDALONE'].keys(): 
+                    #             if 'tags' in document['STANDALONE']['metadata'].keys():
+                    #                 if len(document['STANDALONE']['metadata']['tags'])>0:
+                    #                     f.write(f"TAGS:\n")
+                    #                     for each in document['STANDALONE']['metadata']['tags']:
+                    #                         f.write(f"{each}\n")
+                    #             if 'pros' in document['STANDALONE']['metadata'].keys():
+                    #                 if len(document['STANDALONE']['metadata']['pros'])>0:
+                    #                     f.write(f"PROS:\n")
+                    #                     for each in document['STANDALONE']['metadata']['pros']:
+                    #                         f.write(f"{each}\n")
+
+                    #             if 'cons' in document['STANDALONE']['metadata'].keys():
+                    #                 if len(document['STANDALONE']['metadata']['cons'])>0:
+                    #                     f.write(f"CONS:\n")
+                    #                     for each in document['STANDALONE']['metadata']['cons']:
+                    #                         f.write(f"{each}\n")
+                    #             if 'YPNL_Statement' in document['STANDALONE']['metadata'].keys():
+                    #                 f.write(f"{document['STANDALONE']['metadata']['YPNL_Statement']}\n")
+                    #             if 'QPNL_Statement' in document['STANDALONE']['metadata'].keys():
+                    #                 f.write(f"{document['STANDALONE']['metadata']['QPNL_Statement']}\n")
+
+        except Exception as KeyError:
+            st.error(f"Error writing to file {key}.txt: {KeyError}")
+
+def amibroker_notes_insights( metadata):
+    # st.success(f"In amibroker_notes_insights FUNC, the Metadata is \n{metadata}")
+    code_names = metadata['code_names']
+    sentence = ""
+    if len(metadata['code_names']) == 1 and metadata['code_names'][0].isdigit():
+        sentence += f"CODE\tNAME\n"
+        sentence += f"{metadata['code_names'][0]} \n" #{st.session_state.bsecodenum_codename[int(metadata['code_names'][0])]}"
+    else:
+        sentence += f"CODES\n"
+        for each in metadata['code_names']: sentence += f"{each}\t"
+    # for each in metadata['code_names']: sentence += f"{each}\t"
+    sentence += "\n"
+    for each in metadata['metadata']['tags'] : sentence += f"{each}\n"
+    if 'cons' in metadata['metadata'].keys():
+        sentence += "\n***CONS***\n"
+        for each in metadata['metadata']['cons']: sentence += f"{each}\n"
+    if 'YPNL_Statement' in metadata['metadata'].keys(): 
+        sentence += "\n***YEARLY***" + metadata['metadata']['YPNL_Statement'] + "\n"
+    if 'QPNL_Statement' in metadata['metadata'].keys():     
+        sentence += "\n***QUARTERLY***" + metadata['metadata']['QPNL_Statement'] + "\n"
+    if 'pros' in metadata['metadata'].keys():
+        sentence += "\n***PROS***\n"
+        for each in metadata['metadata']['pros']: sentence += f"{each}\n"
+    if 'QPNL_tweet' in metadata['metadata'].keys():
+        sentence += f"\n{metadata['metadata']['QPNL_tweet']}\n"
+    if 'YPNL_tweet' in metadata['metadata'].keys():
+        sentence += f"\n{metadata['metadata']['YPNL_tweet']}\n"
+    message = sentence
     # print(message)
     # st.info(f"RECEIVED in amibroker.py {code_names}")
     for each in code_names:
@@ -16,6 +169,7 @@ def amibroker_notes_insights(code_names, message):
         with open(amibroker_txt, "w") as f:
             f.write(message)
         # st.info(f"Amibroker notes saved in {amibroker_txt}")
+    return sentence
 
 def amibroker_notes_csv_yearly(code_names, yr_df):
     pnl, balancesht = fundamentals.develop_yearly(yr_df)

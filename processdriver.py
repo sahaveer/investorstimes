@@ -5,7 +5,6 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 
 
-
 def getedgedriver():
     try:
         service = Service(executable_path=r'C://Users/sahaveer/PycharmProjects/msedgedriver.exe')
@@ -14,6 +13,7 @@ def getedgedriver():
         return driver
     except Exception as e:
         print(e)
+
 def getchromedriver():
     service = Service(executable_path=r'C://Users/sahaveer/PycharmProjects/chromedriver.exe')
     options = webdriver.ChromeOptions()

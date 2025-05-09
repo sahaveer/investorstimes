@@ -1,13 +1,10 @@
 import streamlit as st
 import pandas as pd
 import digyahoo
-
-if 'nsecode_list' not in st.session_state or 'nseISIN_list' not in st.session_state:
-        nse_data = pd.read_csv('./cm21JUN2024bhav.csv')
-        nse_data.columns = nse_data.columns.str.replace(' ', '_')
-        st.session_state.nseISIN_list = nse_data["ISIN"].tolist()
-        st.session_state.nsecode_list = nse_data["SYMBOL"].tolist()
-
+import create_database
+import variables
+import screenerpage
+import processdriver
 
 if 'bsenames_list' not in st.session_state or 'bsecodes_list' not in st.session_state:  #if 'bse_ISIN' not in st.session_state or 'bse_ycode' not in st.session_state
     bse_data = pd.read_csv('./Select.csv', header=0, index_col=False)
@@ -19,9 +16,10 @@ if 'bsenames_list' not in st.session_state or 'bsecodes_list' not in st.session_
     # bse_code = bse_data["Security_Code"].tolist()
     # st.session_state.bsenames_list = bse_name
     # st.session_state.bsecodes_list = bse_code
+
     st.session_state.bsenames_list = bse_data["Security_Name"].tolist()
     st.session_state.bsecodes_list = bse_data["Security_Code"].tolist()
-    
+
 if 'nsecode_list' not in st.session_state or 'nseISIN_list' not in st.session_state:
     nse_data = pd.read_csv('./cm21JUN2024bhav.csv')
     nse_data.columns = nse_data.columns.str.replace(' ','_')
@@ -144,117 +142,47 @@ global bsecodename_codenum
 bsecodenum_codename, bsecodename_codenum, bsecodenum_fullname, bsecodename_fullname, bsefullname_codenum, bsefullname_codename = bsecodenum_bsecodename()
 # This gets us the BSE NAME from the DAILY BHAVCOPY THAT WE ARE DOWNLOADING
 bsesccode_scname, bsescname_sccode = bseSCNAME_SCCODE()
-# Returns (CODE, CODENUM, SCNAME )
-def process_code1(code,code_name):
-    code = str(code).upper()
-    if code.isdigit():
-        st.info("CODE IS DIGIT")
-        # for sure we have code in bsecodenum_name
-        if int(code) in bsesccode_scname.keys():
-            # st.info(f"{code} available in SCCODE-SCNAME")
-            if bsecodenum_codename[int(code)] in st.session_state.nsecode_list:
-                # st.info(f"{code} BSECODE given - Found in nselist also")
-                code_names = [str(code), bsecodenum_codename[int(code)].strip(), bsesccode_scname[int(code)].strip()]   #returns [bseCODE, nsecode,SCNAME]
-                #st.subheader(f"{code_names}")
-            else:
-                # st.info(f"{code} not found in scname")
-                code_names = [str(code), bsesccode_scname[int(code)].strip()]                                           #returns BSECODE, SCNAME
-                #st.info(f"BSECODE given - not in NSE {code_names}")
-                #st.subheader(code_names)
-        elif int(code) in bsecodenum_codename.keys():
-            if bsecodenum_codename[int(code)] in st.session_state.nsecode_list:
-                # st.info(f"{code} BSECODE given - Found in nselist also")
-                code_names = [str(code), bsecodenum_codename[int(code)].strip()]    # returns [BSECODE, NSECODE,SCNAME, ]
-            else:
-                code_names = [str(code), ]                                           #returns BSECODE
-                # st.subheader(code_names)
-                #st.info(f"BSECODE given - Notfound in BSESCCODE Found in BSECODENUM_CODENAM {code_names}")
 
+
+#needs to return NSE CODE and BSECODE as 
+def process_code(code)->list:
+    code_names = [str(code).upper()]
+    query_code = str(code).upper()
+    if create_database.comp_metadata_col.count_documents({"code_names":query_code}):
+        code_names_obj = create_database.comp_metadata_col.find_one({"code_names":query_code})
+        code_names = code_names_obj['code_names']
+        return code_names
     else:
-        st.info("CODE IS NOT DIGIT, LETTER")
-        if code in bsecodename_codenum.keys():
-            st.info("LETTER IN BSECODENAME")
-            if bsecodename_codenum[code] in bsesccode_scname.keys():
-                code_names = [code, str(bsecodename_codenum[(code)]).strip(), bsesccode_scname[bsecodename_codenum[code]].strip()]      #RETURNS NSECODE,BSECODE,SCNAME
-                # st.subheader(code_names)
-                #st.info(f"NSECODE given - Found in bsecodename_codenum and BSESCCODE as well : {code_names}")
-            else:
-                code_names = [code, str(bsecodename_codenum[code]).strip()]                                             #RETURNS NSECODE, BSECODE
-                st.subheader(code_names)
-                # st.info(f"NSECODE given - Found in BSECODENAME_CODNUM and not found in BSESCCODE : {code_names}")
-        else:
-            st.info("LETTER NOT IN BSECODENAME")
-            # st.info("NSECODELIST FROM VARIABLES.Py")
-            # st.info(st.session_state.nsecode_list)
-            if code in st.session_state.nsecode_list:
-                code_names = [code]                                                                                     # returns NSECODE
-                # st.subheader(code_names)
-                # st.info(f"NSECODE given - not in BSE : {code_names}")
-                #code = code.upper()
-    return code_names
+        return code_names
+
+def get_code_name(code):
+    query_code = str(code).upper()
+    # st.success(query_code)
+    if create_database.comp_metadata_col.count_documents({"code_names":query_code}):
+        code_names_obj = create_database.comp_metadata_col.find_one({"code_names":query_code})
+        return code_names_obj['code_names'][-1],code_names_obj["comp_metadata"]["comp_fullname"]
+
+        
 
 
-def process_code(code,code_name):
-    code_names = []
-    code = str(code).upper()
-
-    if 'bsenames_list' not in st.session_state or 'bsecodes_list' not in st.session_state:  # if 'bse_ISIN' not in st.session_state or 'bse_ycode' not in st.session_state
-        bse_data = pd.read_csv('./Select.csv', header=0, index_col=False)
-        bse_data.columns = bse_data.columns.str.replace(' ', '_')
-        st.session_state.bse_ISIN = bse_data["ISIN_No"].tolist()
-        st.session_state.bse_ycode = bse_data["Security_Id"].tolist()
-        st.session_state.bsenames_list = bse_data["Security_Name"].tolist()
-        st.session_state.bsecodes_list = bse_data["Security_Code"].tolist()
-
-    if 'nsecode_list' not in st.session_state or 'nseISIN_list' not in st.session_state:
-        nse_data = pd.read_csv('./cm21JUN2024bhav.csv')
-        nse_data.columns = nse_data.columns.str.replace(' ', '_')
-        st.session_state.nseISIN_list = nse_data["ISIN"].tolist()
-        st.session_state.nsecode_list = nse_data["SYMBOL"].tolist()
-
-    if code.isdigit():
-        # st.info("CODE IS DIGIT")
-        if int(code) in bsecodenum_codename.keys():
-            if bsecodenum_codename[int(code)] in st.session_state.nsecode_list:
-                # st.info(f"{code} BSECODE given - Found in nselist also")
-                code_names = [bsecodenum_codename[int(code)].strip(), str(code)]                                        # returns [NSECODE,BSECODE]
-            else:
-                code_names = [str(code)]                                                                                #returns BSECODE
-                # st.subheader(code_names)
-                #st.info(f"BSECODE given - Notfound in BSESCCODE Found in BSECODENUM_CODENAM {code_names}")
-
-    else:
-        # st.info("CODE IS NOT DIGIT, LETTER")
-        if code in bsecodename_codenum.keys() and code not in st.session_state.nsecode_list:
-            # st.info("LETTER IN BSECODENAME")
-            code_names = [str(bsecodename_codenum[code]).strip()]                                                       #RETURNS BSECODE
-            # st.subheader(code_names)
-            # st.info(f"NSECODE given - Found in BSECODENAME_CODNUM and not found in BSESCCODE : {code_names}")
-        else:
-            # st.info("LETTER NOT IN BSECODENAME")
-            # st.info("NSECODELIST FROM VARIABLES.Py")
-            # st.info(st.session_state.nsecode_list)
-            if code in st.session_state.nsecode_list:
-                code_names = [code]                                                                                     # returns NSECODE
-                # st.subheader(code_names)
-                # st.info(f"NSECODE given - not in BSE : {code_names}")
-                #code = code.upper()
-
-    return code_names
-
-def remove_duplicate_in_watchlist(givenlist):            #give LIST here
+@st.cache_data
+def remove_duplicate_in_watchlist(givenlist:list)->list:            #give LIST here
+    print(f"Entered remove_duplicate_in_watchlist which gave {len(givenlist)} to process")
+    # print(f"We hve metadata already {type(variables.metadata)}")
     unique_list = []
     duplicate_list = []
     for line in givenlist:
-        codenames_watchlist = process_code(str(line).strip(), "code_name")
+        codenames_watchlist = 0(str(line).strip())
+        print(f"We got {codenames_watchlist} from DB in remove_duplicate_in_watchlist FUNC while trying for {line}")
         # st.info(codenames_watchlist)
         if len(codenames_watchlist) >=1:
             if len(codenames_watchlist)==1 :
                 if line not in unique_list and line not in duplicate_list:
-                    unique_list.append(codenames_watchlist[0])
+                    unique_list.append(codenames_watchlist[-1])
                     # st.info(unique_list)
             else:
-                if codenames_watchlist[0] not in unique_list and codenames_watchlist[1] not in duplicate_list:
-                    unique_list.append(codenames_watchlist[0])
-                    duplicate_list.append(codenames_watchlist[1])
+                if codenames_watchlist[-1] not in unique_list and codenames_watchlist[0] not in duplicate_list:
+                    unique_list.append(codenames_watchlist[-1])
+                    duplicate_list.append(codenames_watchlist[0])
+    print(f"We finalized {len(unique_list)} from given {len(givenlist)} in remove_duplicate_in_watchlist FUNC")
     return unique_list

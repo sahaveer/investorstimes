@@ -5,7 +5,6 @@
 # GIVE A SUBJECT to be written at the bottom of the page
 from PIL import Image, ImageDraw, ImageFont, PSDraw, ImageGrab
 import os
-
 target_size = [(1080, 1100), (1350, 1080), (1080, 608)]
 temp_centre_image = './tempimage.png'
 color_dict = {'black':{'hash':'000000','rgb':'rgb(0,0,0)'}, 'white':{'hash':'#ffffff','rgb':'rgb(255, 255, 255)'},
