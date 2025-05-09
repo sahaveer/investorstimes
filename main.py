@@ -1,4 +1,4 @@
-import pprint
+# import pprint
 import time
 import io
 import streamlit as st
@@ -6,20 +6,20 @@ from streamlit_option_menu import option_menu
 import streamlit.components.v1 as components
 st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)
 
-import glob
-import random
+# import glob
+# import random
 import os
 import datetime
 import time
 import pandas as pd
-import pickle
+# import pickle
 #import numpy as np66
 import nse_bse_search
 import create_database
 import fundamentals
 import plotlyfigures
-import processdriver
-import screenerpage
+# import processdriver
+# import screenerpage
 import variables
 import amibroker
 from telegram import Bot
