@@ -122,15 +122,7 @@ if 'latest_quarterly_stocks' not in st.session_state or 'last_announced_quarter'
     seconds = elapsed % 60
     print(f"Time taken: {minutes}min {seconds} sec ")
 
-watchlist = create_database.industry_col.find()
-industry_dict = {}
-for each in watchlist:
-    get_this_watchlist_db = each['_id']
-    get_this_watchlist_db = get_this_watchlist_db.replace("/"," ")
-    industry_dict[get_this_watchlist_db] = []
-    for each_stock in each[each['_id']]:
-        #each_stock is a stock name in the watchlist get_this_watchlist_db
-        industry_dict[get_this_watchlist_db].append(each_stock)
+
 
 
 
@@ -180,108 +172,139 @@ def write_tags_to_txt(metadata):
 url = st.experimental_get_query_params()
 selected_stock = url.get("selected", [""])[0]
 
+
+watchlist = create_database.industry_col.find()
+industry_dict = {}
+
+if len(st.session_state.latest_quarterly_stocks)>1:
+    industry_dict["Latest Quarterly"] = st.session_state.latest_quarterly_stocks #if selected_stock in st.session_state.latest_quarterly_stocks else st.session_state.listed_stocks
+else:
+    industry_dict["Latest Quarterly"] = st.session_state.listed_stocks
+
+industry_dict['All Listed'] = st.session_state.listed_stocks
+
+for each in watchlist:
+    get_this_watchlist_db = each['_id']
+    get_this_watchlist_db = get_this_watchlist_db.replace("/"," ")
+    industry_dict[get_this_watchlist_db] = []
+    for each_stock in each[each['_id']]:
+        #each_stock is a stock name in the watchlist get_this_watchlist_db
+        industry_dict[get_this_watchlist_db].append(each_stock)
+
 # WATCHLIST OPTIONS
 col1, col2, col3, col4 = st.columns([2, 2, 2, 2])
 # with col3:
 with st.sidebar:
-    chose_genre = ["Latest Quarterly", "All Listed", "Holdings", "Watchlist","Favourite"] + list(industry_dict.keys())
+    chose_genre = list(industry_dict.keys())
+    temp_list_len = [f"{each_key} ({len(industry_dict[each_key])})" for each_key in chose_genre]   #to give name with number in the SelectBox
+
     # genre = st.radio("Watchlist:",chose_genre,)
     genre = st.selectbox("Watchlist:",chose_genre,)
 
-                                                                                                                        # SELECTION OF WATCHLIST
-with col1:
-    if genre == "Latest Quarterly":
-        funda_tech_options = ["Funda_Chart", 'Tech_Chart']#, 'Analyse Watchlist']
-        # checks only Pickle
-        if len(st.session_state.latest_quarterly_stocks)>1:
-            show_list_as = st.session_state.latest_quarterly_stocks #if selected_stock in st.session_state.latest_quarterly_stocks else st.session_state.listed_stocks
-        else:
-            show_list_as = st.session_state.listed_stocks
-        selected = st.sidebar.selectbox("", show_list_as, index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
-        # selected = st.sidebar.selectbox("Pick",show_list_as,
-        #                                 index=st.session_state.latest_quarterly_stocks.index(selected_stock) if selected_stock in st.session_state.latest_quarterly_stocks else st.session_state.listed_stocks.index(selected_stock) if selected_stock in st.session_state.listed_stocks else 0)
+funda_tech_options = ["Funda_Chart", 'Tech_Chart']#, 'Analyse Watchlist']
+show_list_as = industry_dict[genre]
+selected = st.sidebar.selectbox("", show_list_as, index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
         
-            # no_of_stocks_not_latest1 = []
-            # for each in temp_var:
-            #     if each.isdigit():
-            #         no_of_stocks_not_latest1.append(each) #(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
-            #     else:
-            #         no_of_stocks_not_latest1.append(each)
-            # with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
-            #     st.info(no_of_stocks_not_latest1)
-    elif genre =="All Listed" :
-        funda_tech_options = ["Funda_Chart", 'Tech_Chart']#, 'Analyse Watchlist']
-        show_list_as = st.session_state.listed_stocks
-        selected = st.sidebar.selectbox("", show_list_as, index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
+
+# '''OLD METHOD OF SELCTING SELECTED'''
+
+# chose_genre = ["Latest Quarterly", "All Listed", "Holdings", "Watchlist","Favourite"]
+# genre = st.selectbox("Watchlist:",chose_genre,)
+
+#                                                                                                                         # SELECTION OF WATCHLIST
+# with col1:
+#     if genre == "Latest Quarterly":
+#         funda_tech_options = ["Funda_Chart", 'Tech_Chart']#, 'Analyse Watchlist']
+#         # checks only Pickle
+#         if len(st.session_state.latest_quarterly_stocks)>1:
+#             show_list_as = st.session_state.latest_quarterly_stocks #if selected_stock in st.session_state.latest_quarterly_stocks else st.session_state.listed_stocks
+#         else:
+#             show_list_as = st.session_state.listed_stocks
+#         selected = st.sidebar.selectbox("", show_list_as, index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
+#         # selected = st.sidebar.selectbox("Pick",show_list_as,
+#         #                                 index=st.session_state.latest_quarterly_stocks.index(selected_stock) if selected_stock in st.session_state.latest_quarterly_stocks else st.session_state.listed_stocks.index(selected_stock) if selected_stock in st.session_state.listed_stocks else 0)
         
-    # elif genre == "Holdings":
-    #     funda_tech_options = ["Funda_Chart", 'Tech_Chart']#, 'Analyse Watchlist']
-    #     update_txt_file = './watchlist/holdings.txt'
-    #     show_list_as = st.session_state.user_data['holdings_list']
-    #     # selected = st.sidebar.selectbox("", show_list_as,
-    #     #                 index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
-    #     if 'Holdings' not in st.session_state.no_of_stocks_not_latest:
-    #         st.session_state.no_of_stocks_not_latest['Holdings'] = scan_for_old_quarterly(holdings_list)
-    #     temp_var = st.session_state.no_of_stocks_not_latest['Holdings'] 
-    #     # DISPLAY IN WEBAPP ABT STOCKS WITHOUT LATEST QRESULTS
-    #     if len(temp_var) > 0:
-    #         with col2_header:
-    #             if st.button(f'{len(temp_var)} needs Latest Results'):
-    #                 save_screener1(temp_var)
-    #         no_of_stocks_not_latest1 = []
-    #         for each in temp_var:
-    #             if each.isdigit():
-    #                 no_of_stocks_not_latest1.append(each)    #(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
-    #             else:
-    #                 no_of_stocks_not_latest1.append(each)
-    #         with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
-    #             st.info(no_of_stocks_not_latest1)
+#             # no_of_stocks_not_latest1 = []
+#             # for each in temp_var:
+#             #     if each.isdigit():
+#             #         no_of_stocks_not_latest1.append(each) #(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
+#             #     else:
+#             #         no_of_stocks_not_latest1.append(each)
+#             # with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
+#             #     st.info(no_of_stocks_not_latest1)
+#     elif genre =="All Listed" :
+#         funda_tech_options = ["Funda_Chart", 'Tech_Chart']#, 'Analyse Watchlist']
+#         show_list_as = st.session_state.listed_stocks
+#         selected = st.sidebar.selectbox("", show_list_as, index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
+        
+#     # elif genre == "Holdings":
+#     #     funda_tech_options = ["Funda_Chart", 'Tech_Chart']#, 'Analyse Watchlist']
+#     #     update_txt_file = './watchlist/holdings.txt'
+#     #     show_list_as = st.session_state.user_data['holdings_list']
+#     #     # selected = st.sidebar.selectbox("", show_list_as,
+#     #     #                 index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
+#     #     if 'Holdings' not in st.session_state.no_of_stocks_not_latest:
+#     #         st.session_state.no_of_stocks_not_latest['Holdings'] = scan_for_old_quarterly(holdings_list)
+#     #     temp_var = st.session_state.no_of_stocks_not_latest['Holdings'] 
+#     #     # DISPLAY IN WEBAPP ABT STOCKS WITHOUT LATEST QRESULTS
+#     #     if len(temp_var) > 0:
+#     #         with col2_header:
+#     #             if st.button(f'{len(temp_var)} needs Latest Results'):
+#     #                 save_screener1(temp_var)
+#     #         no_of_stocks_not_latest1 = []
+#     #         for each in temp_var:
+#     #             if each.isdigit():
+#     #                 no_of_stocks_not_latest1.append(each)    #(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
+#     #             else:
+#     #                 no_of_stocks_not_latest1.append(each)
+#     #         with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
+#     #             st.info(no_of_stocks_not_latest1)
 
-    # elif genre == "Watchlist":
-    #     funda_tech_options = ["Funda_Chart", 'Tech_Chart']#, 'Analyse Watchlist']
-    #     update_txt_file = './watchlist/watchlist.txt'
-    #     show_list_as = st.session_state.user_data['watch_list']
-    #     # selected = st.sidebar.selectbox("", show_list_as,
-    #     #                 index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
-    #     if 'Watchlist' not in st.session_state.no_of_stocks_not_latest:
-    #         st.session_state.no_of_stocks_not_latest['Watchlist'] = scan_for_old_quarterly(watch_list)
-    #     temp_var = st.session_state.no_of_stocks_not_latest['Watchlist']
-    #     # st.info(f"Out of {len(watch_list)} stocks, {len(temp_var)} have NO-LATEST results")
+#     # elif genre == "Watchlist":
+#     #     funda_tech_options = ["Funda_Chart", 'Tech_Chart']#, 'Analyse Watchlist']
+#     #     update_txt_file = './watchlist/watchlist.txt'
+#     #     show_list_as = st.session_state.user_data['watch_list']
+#     #     # selected = st.sidebar.selectbox("", show_list_as,
+#     #     #                 index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
+#     #     if 'Watchlist' not in st.session_state.no_of_stocks_not_latest:
+#     #         st.session_state.no_of_stocks_not_latest['Watchlist'] = scan_for_old_quarterly(watch_list)
+#     #     temp_var = st.session_state.no_of_stocks_not_latest['Watchlist']
+#     #     # st.info(f"Out of {len(watch_list)} stocks, {len(temp_var)} have NO-LATEST results")
 
-    #     if len(temp_var) > 0:
-    #         with col2_header:
-    #             if st.button(f'{len(temp_var)} needs Latest Results'):
-    #                 save_screener1(temp_var)
-    #         no_of_stocks_not_latest1 = []
-    #         for each in temp_var:
-    #             if each.isdigit():
-    #                 no_of_stocks_not_latest1.append(each) #(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
-    #             else:
-    #                 no_of_stocks_not_latest1.append(each)
-    #         with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
-    #             st.info(no_of_stocks_not_latest1)
-    # elif genre == "Favourite":
-    #     funda_tech_options = ["Funda_Chart", 'Tech_Chart']#, 'Analyse Watchlist']
-    #     update_txt_file = './watchlist/favourite.txt'
-    #     show_list_as = st.session_state.user_data['favourite_list']
-    #     # selected = st.sidebar.selectbox("", show_list_as,
-    #     #                 index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
-    #     if 'Favourites' not in st.session_state.no_of_stocks_not_latest:
-    #         st.session_state.no_of_stocks_not_latest["Favourites"] = scan_for_old_quarterly(show_list_as)
-    #     temp_var = st.session_state.no_of_stocks_not_latest["Favourites"]
-    #     if len(temp_var) > 0:
-    #         with col2_header:
-    #             if st.button(f'{len(temp_var) } needs Latest Results'):
-    #                 save_screener1(temp_var)
-    #         # ONLY TO SHOW BOTH CODE AND NAME TOGETHER IN EXPANDER
-    #         no_of_stocks_not_latest1 = []
-    #         for each in temp_var:
-    #             if each.isdigit():
-    #                 no_of_stocks_not_latest1.append(each) #(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
-    #             else:
-    #                 no_of_stocks_not_latest1.append(each)
-    #         with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
-    #             st.info(no_of_stocks_not_latest1)
+#     #     if len(temp_var) > 0:
+#     #         with col2_header:
+#     #             if st.button(f'{len(temp_var)} needs Latest Results'):
+#     #                 save_screener1(temp_var)
+#     #         no_of_stocks_not_latest1 = []
+#     #         for each in temp_var:
+#     #             if each.isdigit():
+#     #                 no_of_stocks_not_latest1.append(each) #(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
+#     #             else:
+#     #                 no_of_stocks_not_latest1.append(each)
+#     #         with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
+#     #             st.info(no_of_stocks_not_latest1)
+#     # elif genre == "Favourite":
+#     #     funda_tech_options = ["Funda_Chart", 'Tech_Chart']#, 'Analyse Watchlist']
+#     #     update_txt_file = './watchlist/favourite.txt'
+#     #     show_list_as = st.session_state.user_data['favourite_list']
+#     #     # selected = st.sidebar.selectbox("", show_list_as,
+#     #     #                 index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
+#     #     if 'Favourites' not in st.session_state.no_of_stocks_not_latest:
+#     #         st.session_state.no_of_stocks_not_latest["Favourites"] = scan_for_old_quarterly(show_list_as)
+#     #     temp_var = st.session_state.no_of_stocks_not_latest["Favourites"]
+#     #     if len(temp_var) > 0:
+#     #         with col2_header:
+#     #             if st.button(f'{len(temp_var) } needs Latest Results'):
+#     #                 save_screener1(temp_var)
+#     #         # ONLY TO SHOW BOTH CODE AND NAME TOGETHER IN EXPANDER
+#     #         no_of_stocks_not_latest1 = []
+#     #         for each in temp_var:
+#     #             if each.isdigit():
+#     #                 no_of_stocks_not_latest1.append(each) #(f"{each} : {st.session_state.bsecodenum_codename[int(each)]}")
+#     #             else:
+#     #                 no_of_stocks_not_latest1.append(each)
+#     #         with st.expander(label=f"{str(len(temp_var))} Stocks in this watchlist have NO latest Quarterly Results"):
+#     #             st.info(no_of_stocks_not_latest1)
 
 
 
