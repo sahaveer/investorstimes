@@ -140,7 +140,7 @@ def amibroker_notes_insights( metadata):
     else:
         sentence += f"CODES\n"
         for each in metadata['code_names']: sentence += f"{each}\t"
-    # for each in metadata['code_names']: sentence += f"{each}\t"
+    sentence += f"\nSECTOR : {metadata['comp_metadata']['sector']}\nINDUSTRY : {metadata['comp_metadata']['industry']}"
     sentence += "\n"
     for each in metadata['metadata']['tags'] : sentence += f"{each}\n"
     if 'cons' in metadata['metadata'].keys():

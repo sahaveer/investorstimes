@@ -122,6 +122,18 @@ if 'latest_quarterly_stocks' not in st.session_state or 'last_announced_quarter'
     seconds = elapsed % 60
     print(f"Time taken: {minutes}min {seconds} sec ")
 
+watchlist = create_database.industry_col.find()
+industry_dict = {}
+for each in watchlist:
+    get_this_watchlist_db = each['_id']
+    get_this_watchlist_db = get_this_watchlist_db.replace("/"," ")
+    industry_dict[get_this_watchlist_db] = []
+    for each_stock in each[each['_id']]:
+        #each_stock is a stock name in the watchlist get_this_watchlist_db
+        industry_dict[get_this_watchlist_db].append(each_stock)
+
+
+
 # @st.cache_data
 # def scan_for_old_quarterly(query_list):
 #     not_latest_quarterly_stocks=[]
@@ -170,14 +182,15 @@ selected_stock = url.get("selected", [""])[0]
 
 # WATCHLIST OPTIONS
 col1, col2, col3, col4 = st.columns([2, 2, 2, 2])
-with col3:
-    chose_genre = [":rainbow[Latest Quarterly]", "All Listed", "Holdings", "Watchlist","Favourite"]
-    #genre = st.checkbox(label='Only latest Quarter',value=True)
-    genre = st.radio("Watchlist:",chose_genre,)
+# with col3:
+with st.sidebar:
+    chose_genre = ["Latest Quarterly", "All Listed", "Holdings", "Watchlist","Favourite"] + list(industry_dict.keys())
+    # genre = st.radio("Watchlist:",chose_genre,)
+    genre = st.selectbox("Watchlist:",chose_genre,)
 
                                                                                                                         # SELECTION OF WATCHLIST
 with col1:
-    if genre == ":rainbow[Latest Quarterly]":
+    if genre == "Latest Quarterly":
         funda_tech_options = ["Funda_Chart", 'Tech_Chart']#, 'Analyse Watchlist']
         # checks only Pickle
         if len(st.session_state.latest_quarterly_stocks)>1:
@@ -476,18 +489,27 @@ if selected:
 
         proscons_col1, proscons_col2 = st.columns([1,1])
         with proscons_col1:
+            st.text("SECTOR:")
+            st.subheader(f"{metadata['comp_metadata']['sector']}")
             st.title("PROS")
             for each in metadata['metadata']['pros']:
                 st.success(each)
+
+
         with proscons_col2:
+            st.text("INDUSTRY:")
+            st.subheader(f"{metadata['comp_metadata']['industry']}")
             st.title("CONS")
             for each in metadata['metadata']['cons']:
                 st.error(each)
+            
         options = st.multiselect("TAGS",["Favourite"]+metadata['metadata']['tags'],metadata['metadata']['tags'])
+        
 
         with st.sidebar:  # with col2:
             sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_menu)
             # st.title(comp_Name)
+
 
         sentence = amibroker.amibroker_notes_insights(metadata=metadata)
         

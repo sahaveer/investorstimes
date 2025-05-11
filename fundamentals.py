@@ -412,7 +412,6 @@ def analyse_df(pnl,balancesht,qtr_pnl):
     send_metadata['pros'] = []
     send_metadata['cons'] = []
     send_metadata['statement'] = []
-    send_metadata['YPNL_Statement'] = ""
     send_metadata['BALANCE_SHEET'] = ""
     send_metadata['tags'] = []
     #make columns to datetime
