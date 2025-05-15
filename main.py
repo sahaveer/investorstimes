@@ -18,8 +18,8 @@ import nse_bse_search
 import create_database
 import fundamentals
 import plotlyfigures
-# import processdriver
-# import screenerpage
+import processdriver
+import screenerpage
 import variables
 import amibroker
 from telegram import Bot
@@ -167,6 +167,54 @@ def write_tags_to_txt(metadata):
             #     with open(text_file, 'a+') as file:
             #         file.write(f"{metadata['code_names'][-1]}\n")
             #         st.success(f"Updated {metadata['code_names'][-1]} in {text_file}")
+
+def save_screener1(codes,force):
+    driver = processdriver.getedgedriver()
+    if force == False:
+        # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+        print("Entered save_screener1 FUNC")
+        i=0
+        for code in codes:
+            i+=1
+            print(f"Trying to get details of {code} in saves_screener1 Func")
+            #lets search for code in create_database.comp_metadata_col database by countdocuments
+            # last_quarter_announced = ""
+            st.success(f'We have {create_database.comp_metadata_col.count_documents({"code_names": code})} documents saved in DB')
+            
+            if create_database.comp_metadata_col.count_documents({"code_names": code}):
+                doc_is = create_database.comp_metadata_col.find_one({"code_names":code})
+                if doc_is is not None:
+                    # st.success(doc_is)
+                    if "CONSOLIDATED" in doc_is.keys():
+                        # get the last key value saved in the dict of doc_is["CONSOLIDATED"]['QUARTERLY']
+                        listed_dict_keys = list(doc_is['CONSOLIDATED']['QUARTERLY'])
+                        if len(listed_dict_keys) > 0:
+                            last_quarter_announced = listed_dict_keys[-1]
+                    elif "STANDALONE" in doc_is.keys():
+                        # get the last key value saved in the dict of doc_is["CONSOLIDATED"]['QUARTERLY']
+                        listed_dict_keys = list(doc_is['STANDALONE']['QUARTERLY'])
+                        if len(listed_dict_keys)>0:
+                            last_quarter_announced = listed_dict_keys[-1]
+                    else:
+                        screenerpage.search_screener1(driver,code)
+                    # st.success(last_quarter_announced)
+                    # st.success(type(last_quarter_announced))
+                    if (last_quarter_announced != recent_quarter_txt ) and (datetime.datetime.now() - doc_is['timestamp']).days>5:
+                        screenerpage.search_screener1(driver,code)
+                    else:
+                        st.success(f"We already got LATEST RESULTS for {code} : {last_quarter_announced}")
+                else:
+                    screenerpage.search_screener1(driver,code)
+            else:
+                screenerpage.search_screener1(driver,code)
+            # lets sleep for random of 1-10 sec when i is added 10 times
+    else:
+        for code in codes:
+            st.success(code)
+            screenerpage.search_screener1(driver,code)
+
+    print("Exiting save_screener1 FUNC")
+
 
 # Parse the URL parameters to get the selected stock
 url = st.experimental_get_query_params()
@@ -318,7 +366,7 @@ if selected:
     try:
         company_code, comp_Name = nse_bse_search.get_code_name(selected)
     except Exception as TypeError:
-        save_screener1([selected])
+        save_screener1([selected],True)
         company_code, comp_Name = nse_bse_search.get_code_name(selected)
 
 
@@ -933,47 +981,6 @@ if selected:
 #         for each in metadata.keys():
 #             st.info(f"{each} : {metadata[each]}")
 
-#     def save_screener1(codes):
-#         # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-#         print("Entered save_screener1 FUNC")
-#         driver = processdriver.getedgedriver()
-#         i=0
-#         for code in codes:
-#             i+=1
-#             print(f"Trying to get details of {code} in saves_screener1 Func")
-#             #lets search for code in create_database.comp_metadata_col database by countdocuments
-#             # last_quarter_announced = ""
-#             st.success(f'We have {create_database.comp_metadata_col.count_documents({"code_names": code})} documents saved in DB')
-            
-#             if create_database.comp_metadata_col.count_documents({"code_names": code}):
-#                 doc_is = create_database.comp_metadata_col.find_one({"code_names":code})
-#                 if doc_is is not None:
-#                     # st.success(doc_is)
-#                     if "CONSOLIDATED" in doc_is.keys():
-#                         # get the last key value saved in the dict of doc_is["CONSOLIDATED"]['QUARTERLY']
-#                         listed_dict_keys = list(doc_is['CONSOLIDATED']['QUARTERLY'])
-#                         if len(listed_dict_keys) > 0:
-#                             last_quarter_announced = listed_dict_keys[-1]
-#                     elif "STANDALONE" in doc_is.keys():
-#                         # get the last key value saved in the dict of doc_is["CONSOLIDATED"]['QUARTERLY']
-#                         listed_dict_keys = list(doc_is['STANDALONE']['QUARTERLY'])
-#                         if len(listed_dict_keys)>0:
-#                             last_quarter_announced = listed_dict_keys[-1]
-#                     else:
-#                         screenerpage.search_screener1(driver,code)
-#                     # st.success(last_quarter_announced)
-#                     # st.success(type(last_quarter_announced))
-#                     if (last_quarter_announced != recent_quarter_txt ) and (datetime.datetime.now() - doc_is['timestamp']).days>5:
-#                         screenerpage.search_screener1(driver,code)
-#                     else:
-#                         st.success(f"We already got LATEST RESULTS for {code} : {last_quarter_announced}")
-#                 else:
-#                     screenerpage.search_screener1(driver,code)
-#             else:
-#                 screenerpage.search_screener1(driver,code)
-#             # lets sleep for random of 1-10 sec when i is added 10 times
-
-#         print("Exiting save_screener1 FUNC")
 
 #     with col2_header:
 #         if st.button("SAVE METADATA"):
@@ -1045,6 +1052,35 @@ hide_st_style = """
                 </style>
                 """
 st.markdown(hide_st_style,unsafe_allow_html=True)
+
+
+tick_force = st.checkbox(label="Force Download",value=False)
+if st.button("Download ALL stocks again:"):
+    try:
+        save_screener1(st.session_state.listed_stocks,True)
+    except Exception as e:
+        st.error("You are running on Server, Only Sahaveer has access")
+        st.error(e)
+
+if st.button(f'Get Latest Results from this watchlist'):
+    try:
+        save_screener1(show_list_as,tick_force)
+    except Exception as e:
+        st.error("You are running on Server, Only Sahaveer has access")
+        st.error(e)
+
+if selected:
+    if st.button(f'Get Latest Results for {selected}'):
+        try:
+            save_screener1(codes=[selected],force=True)
+        except Exception as e:
+            st.error("You are running on Server, Only Sahaveer has access")
+            st.error(e)
+
+if st.button('Save all data in DB as notes:'):
+    amibroker.ami_notes_from_database1()
+    st.success(f"Saved in amibroker/dbnotes/")
+
 
 #REFERENCE :
 #FLASK : https://www.datasciencelearner.com/how-to-create-a-bar-chart-from-a-dataframe-in-python/#:~:text=There%20is%20also%20another%20method%20to%20create%20a,y-axis%20values%20you%20want%20to%20draw%20the%20bar.

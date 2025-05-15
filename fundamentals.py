@@ -817,7 +817,7 @@ def analyse_df(pnl,balancesht,qtr_pnl):
                 send_metadata['BALANCE_SHEET_Statement'] = bsht_stmt
             # TO GET THE LAST 5 YRS DATA as TABLE
             if len(pnl.columns)>=5 and len(qtr_pnl.columns)>=5:
-                QPnl_stmt = f"\nQPNL    :\t{str(datetime.datetime.strftime(qtr_pnl.columns[-5], '%b-%Y'))}\t\t{str(datetime.datetime.strftime(qtr_pnl.columns[-4], '%b-%Y'))}\t{str(datetime.datetime.strftime(qtr_pnl.columns[-3], '%b-%Y'))}\t{str(datetime.datetime.strftime(qtr_pnl.columns[-2], '%b-%Y'))}\t\t{str(datetime.datetime.strftime(qtr_pnl.columns[-1], '%b-%Y'))}\n"
+                QPnl_stmt = f"\nQPNL: \t{str(datetime.datetime.strftime(qtr_pnl.columns[-5], '%b-%Y'))}\t\t{str(datetime.datetime.strftime(qtr_pnl.columns[-4], '%b-%Y'))}\t{str(datetime.datetime.strftime(qtr_pnl.columns[-3], '%b-%Y'))}\t{str(datetime.datetime.strftime(qtr_pnl.columns[-2], '%b-%Y'))}\t\t{str(datetime.datetime.strftime(qtr_pnl.columns[-1], '%b-%Y'))}\n"
                 QPnl_stmt += f"QSALES: \t{qtr_pnl.loc['SALES', qtr_pnl.columns[-5]]}\t\t{qtr_pnl.loc['SALES', qtr_pnl.columns[-4]]}\t\t{qtr_pnl.loc['SALES', qtr_pnl.columns[-3]]}\t\t{qtr_pnl.loc['SALES', qtr_pnl.columns[-2]]}\t\t{qtr_pnl.loc['SALES', qtr_pnl.columns[-1]]}\n"
                 QPnl_stmt += f"QoQ%: \t{qtr_pnl.loc['SALES_QoQ', qtr_pnl.columns[-5]]}\t\t{qtr_pnl.loc['SALES_QoQ', qtr_pnl.columns[-4]]}\t\t{qtr_pnl.loc['SALES_QoQ', qtr_pnl.columns[-3]]}\t\t{qtr_pnl.loc['SALES_QoQ', qtr_pnl.columns[-2]]}\t\t{qtr_pnl.loc['SALES_QoQ', qtr_pnl.columns[-1]]}\n"
                 QPnl_stmt += f"QOPM%: \t{qtr_pnl.loc['OPM %', qtr_pnl.columns[-5]]}\t\t{qtr_pnl.loc['OPM %', qtr_pnl.columns[-4]]}\t\t{qtr_pnl.loc['OPM %', qtr_pnl.columns[-3]]}\t\t{qtr_pnl.loc['OPM %', qtr_pnl.columns[-2]]}\t\t{qtr_pnl.loc['OPM %', qtr_pnl.columns[-1]]}\n"
@@ -845,9 +845,9 @@ def analyse_df(pnl,balancesht,qtr_pnl):
                     PROFIT_Qsum_QoQ_in_Y = round((PROFIT_Qsum_in_Y / pnl.loc['NET PROFIT', pnl.columns[-1]]) * 100, 1)
 
                 if str(datetime.datetime.strftime(qtr_pnl.columns[-1], '%b')).upper() == 'SEP' or str(datetime.datetime.strftime(qtr_pnl.columns[-1], '%b')).upper() == 'DEC':
-                    Pnl_stmt = f"\nYPNL   : \t{str(datetime.datetime.strftime(pnl.columns[-5], '%b-%Y'))}\t{str(datetime.datetime.strftime(pnl.columns[-4], '%b-%Y'))}\t{str(datetime.datetime.strftime(pnl.columns[-3], '%b-%Y'))}\t{str(datetime.datetime.strftime(pnl.columns[-2], '%b-%Y'))}\t{str(datetime.datetime.strftime(pnl.columns[-1], '%b-%Y'))}\tQSUM:{datetime.datetime.strftime(qtr_pnl.columns[-1], '%b-%Y')}\n"
+                    Pnl_stmt = f"\nYPNL: \t{str(datetime.datetime.strftime(pnl.columns[-5], '%b-%Y'))}\t{str(datetime.datetime.strftime(pnl.columns[-4], '%b-%Y'))}\t{str(datetime.datetime.strftime(pnl.columns[-3], '%b-%Y'))}\t{str(datetime.datetime.strftime(pnl.columns[-2], '%b-%Y'))}\t{str(datetime.datetime.strftime(pnl.columns[-1], '%b-%Y'))}\tQSUM:{datetime.datetime.strftime(qtr_pnl.columns[-1], '%b-%Y')}\n"
                 else:
-                    Pnl_stmt = f"\nYPNL   : \t{str(datetime.datetime.strftime(pnl.columns[-5], '%b-%Y'))}\t{str(datetime.datetime.strftime(pnl.columns[-4], '%b-%Y'))}\t{str(datetime.datetime.strftime(pnl.columns[-3], '%b-%Y'))}\t{str(datetime.datetime.strftime(pnl.columns[-2], '%b-%Y'))}\t{str(datetime.datetime.strftime(pnl.columns[-1], '%b-%Y'))}\n"
+                    Pnl_stmt = f"\nYPNL: \t{str(datetime.datetime.strftime(pnl.columns[-5], '%b-%Y'))}\t{str(datetime.datetime.strftime(pnl.columns[-4], '%b-%Y'))}\t{str(datetime.datetime.strftime(pnl.columns[-3], '%b-%Y'))}\t{str(datetime.datetime.strftime(pnl.columns[-2], '%b-%Y'))}\t{str(datetime.datetime.strftime(pnl.columns[-1], '%b-%Y'))}\n"
                 if str(datetime.datetime.strftime(qtr_pnl.columns[-1], '%b')).upper() == 'SEP' or str(datetime.datetime.strftime(qtr_pnl.columns[-1], '%b')).upper() == 'DEC':
                     Pnl_stmt += f"YSALES: \t{pnl.loc['SALES', pnl.columns[-5]]}\t\t{pnl.loc['SALES', pnl.columns[-4]]}\t\t{pnl.loc['SALES', pnl.columns[-3]]}\t\t{pnl.loc['SALES', pnl.columns[-2]]}\t\t{pnl.loc['SALES', pnl.columns[-1]]}\t\t{SALES_Qsum_in_Y}\n"
                 else:
@@ -871,8 +871,6 @@ def analyse_df(pnl,balancesht,qtr_pnl):
                     Pnl_stmt += f"PQoQ%: \t{pnl.loc['NET PROFIT_QoQ', pnl.columns[-5]]}\t\t{pnl.loc['NET PROFIT_QoQ', pnl.columns[-4]]}\t\t{pnl.loc['NET PROFIT_QoQ', pnl.columns[-3]]}\t\t{pnl.loc['NET PROFIT_QoQ', pnl.columns[-2]]}\t\t{pnl.loc['NET PROFIT_QoQ', pnl.columns[-1]]}\n"
 
                 send_metadata['YPNL_Statement']+=Pnl_stmt
-
-
 
             return send_metadata
         else:
