@@ -1,0 +1,45 @@
+CODES
+523792	MAZDA	
+SECTOR : 
+INDUSTRY : 
+PRODUCT DEMAND
+BestQ Dec 2024
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  179.7   |  152.4   |  165.0   |  191.5   |  225.4   |     139.8    
+ SQoQ%:  |   29.6   |  -15.2   |   8.2    |   16.1   |   17.7   |      62.0    
+ YOPM%:  |   14.0   |   15.5   |   16.7   |   19.6   |   17.7   |              
+ YNPM%:  |   9.3    |   10.7   |   12.9   |   13.9   |   14.0   |              
+YPROFIT: |   16.6   |   16.3   |   21.2   |   26.6   |   31.5   |      19.3    
+ PQoQ%:  |   18.1   |   -1.9   |   30.1   |   25.4   |   18.4   |      61.3    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   54.0   |   57.6   |   36.2   |   56.8   |   46.8  
+ QoQ%:  |  -13.9   |   6.6    |  -37.2   |   57.0   |  -17.6  
+ QOPM%: |   19.0   |   21.0   |   4.8    |   15.8   |   22.9  
+ QNPM%: |   15.3   |   16.3   |   8.0    |   15.8   |   15.9  
+ QPFT:  |   8.3    |   9.4    |   2.9    |   9.0    |   7.4   
+ PQoQ%: |   33.4   |   13.4   |  -69.1   |  209.7   |  -17.4  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 19.0%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 62% YSales
+- Last 3QPROFIT is about 61% of YProfit
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 17.7% while the Profit QoQ_growth is much better than Sales itself at 18.4%
+
+Yearly 
+ 31-Mar-2024 #Result
+225.40cr, QoQ 17.70% & YoY 25.43% SALES;
+39.80cr, QoQ 6.00% & YoY 58.57% OPERATING PROFIT;
+31.50cr, QoQ 18.40% & YoY 89.76% NET PROFIT;
+OPM %: 17.70% vs 19.6%
+NPM %: 14.00% vs 13.9%
+

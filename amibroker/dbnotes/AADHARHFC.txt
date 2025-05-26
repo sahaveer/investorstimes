@@ -1,0 +1,39 @@
+CODES
+544176	AADHARHFC	
+SECTOR : Finance
+INDUSTRY : Finance - Housing
+PRODUCT DEMAND
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1575.3  |  1728.3  |  2043.2  |  2586.8  |  3107.6 
+ SQoQ%:  |   13.5   |   9.7    |   18.2   |   26.6   |   20.1  
+ YOPM%:  |   80.0   |   77.6   |   75.2   |   76.1   |   76.3  
+ YNPM%:  |   21.6   |   25.7   |   26.7   |   29.0   |   29.3  
+YPROFIT: |  340.1   |  444.8   |  544.8   |  749.6   |  911.8  
+ PQoQ%:  |   79.6   |   30.8   |   22.5   |   37.6   |   21.6  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  691.8   |  713.1   |  764.3   |  797.6   |  832.6  
+ QoQ%:  |   2.8    |   3.1    |   7.2    |   4.4    |   4.4   
+ QOPM%: |   76.1   |   75.8   |   76.4   |   76.6   |   76.4  
+ QNPM%: |   29.2   |   28.1   |   29.8   |   30.0   |   29.4  
+ QPFT:  |  201.8   |  200.1   |  227.5   |  239.3   |  244.8  
+ PQoQ%: |   -1.2   |   -0.8   |   13.7   |   5.2    |   2.3   
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 20.1% while the Profit QoQ_growth is much better than Sales itself at 21.6%
+
+Yearly 
+ 31-Mar-2025 #Result
+3107.60cr, QoQ 20.10% & YoY 97.27% SALES;
+2371.00cr, QoQ 20.50% & YoY 88.20% OPERATING PROFIT;
+911.80cr, QoQ 21.60% & YoY 168.10% NET PROFIT;
+OPM %: 76.30% vs 76.1%
+NPM %: 29.30% vs 29.0%
+

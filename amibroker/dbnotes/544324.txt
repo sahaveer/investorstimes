@@ -1,0 +1,22 @@
+CODE	NAME
+544324 
+
+SECTOR : Trading
+INDUSTRY : Trading
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2024 #Result
+19.60cr, QoQ -6.40% & YoY -84.62% SALES;
+1.80cr, QoQ 208.60% & YoY 500.00% OPERATING PROFIT;
+1.10cr, QoQ 211.10% & YoY 450.00% NET PROFIT;
+OPM %: 9.10% vs 2.8%
+NPM %: 5.70% vs 1.7%
+

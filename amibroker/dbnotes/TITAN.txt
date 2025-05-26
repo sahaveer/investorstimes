@@ -1,0 +1,37 @@
+CODES
+500114	TITAN	
+SECTOR : Diamond, Gems and Jewellery
+INDUSTRY : Diamond Cutting / Jewellery
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  | 21644.0  | 28799.0  | 40575.0  | 51084.0  | 60456.0 
+ SQoQ%:  |   2.8    |   33.1   |   40.9   |   25.9   |   18.3  
+ YOPM%:  |   8.0    |   11.6   |   12.0   |   10.4   |   9.4   
+ YNPM%:  |   4.5    |   7.5    |   8.0    |   6.8    |   5.5   
+YPROFIT: |  973.0   |  2173.0  |  3250.0  |  3496.0  |  3337.0 
+ PQoQ%:  |  -35.2   |  123.3   |   49.6   |   7.6    |   -4.5  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: | 12494.0  | 13266.0  | 14534.0  | 17740.0  | 14916.0 
+ QoQ%:  |  -11.8   |   6.2    |   9.6    |   22.1   |  -15.9  
+ QOPM%: |   9.5    |   9.4    |   8.5    |   9.4    |   10.3  
+ QNPM%: |   6.2    |   5.4    |   4.8    |   5.9    |   5.8   
+ QPFT:  |  771.0   |  715.0   |  704.0   |  1047.0  |  871.0  
+ PQoQ%: |  -26.8   |   -7.3   |   -1.5   |   48.7   |  -16.8  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 16.9%
+
+Yearly 
+ 31-Mar-2025 #Result
+60456.00cr, QoQ 18.30% & YoY 179.32% SALES;
+5694.00cr, QoQ 7.60% & YoY 230.09% OPERATING PROFIT;
+3337.00cr, QoQ -4.50% & YoY 242.96% NET PROFIT;
+OPM %: 9.40% vs 10.4%
+NPM %: 5.50% vs 6.8%
+

@@ -1,0 +1,39 @@
+CODES
+500163	GODFRYPHLP	
+SECTOR : Tobacco Products
+INDUSTRY : Cigarettes
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  2525.3  |  2687.6  |  3562.5  |  4419.6  |  5611.0 
+ SQoQ%:  |  -12.2   |   6.4    |   32.6   |   24.1   |   27.0  
+ YOPM%:  |   21.4   |   23.6   |   22.6   |   20.2   |   21.0  
+ YNPM%:  |   14.9   |   16.3   |   19.4   |   20.0   |   19.1  
+YPROFIT: |  376.5   |  438.1   |  690.5   |  883.0   |  1072.0 
+ PQoQ%:  |   -2.2   |   16.4   |   57.6   |   27.9   |   21.4  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  875.3   |  1170.4  |  1384.0  |  1588.8  |  1573.4 
+ QoQ%:  |  -30.0   |   33.7   |   18.2   |   14.8   |   -1.0  
+ QOPM%: |   21.8   |   22.7   |   19.6   |   22.7   |   17.1  
+ QNPM%: |   24.5   |   19.5   |   17.9   |   19.9   |   17.8  
+ QPFT:  |  214.2   |  228.6   |  248.3   |  315.8   |  279.3  
+ PQoQ%: |   0.9    |   6.7    |   8.6    |   27.2   |  -11.6  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 33.4%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 27.0% while the Profit QoQ_growth is at 21.4%
+
+Yearly 
+ 31-Mar-2025 #Result
+5611.00cr, QoQ 27.00% & YoY 122.19% SALES;
+1177.40cr, QoQ 32.00% & YoY 117.67% OPERATING PROFIT;
+1072.00cr, QoQ 21.40% & YoY 184.73% NET PROFIT;
+OPM %: 21.00% vs 20.2%
+NPM %: 19.10% vs 20.0%
+

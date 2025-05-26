@@ -1,0 +1,46 @@
+CODE	NAME
+509040 
+
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Medium / Small
+PRODUCT DEMAND
+BestQ Dec 2024
+YSD YPD 2023
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.2    |   0.1    |   0.5    |   2.1    |   2.0    |      0.2     
+ SQoQ%:  |  -56.5   |  -70.0   |  716.7   |  326.5   |   -6.2   |      10.0    
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   34.9   |   27.6   |              
+ YNPM%:  |   0.0    |  3850.0  |  302.0   |  228.2   |  469.4   |              
+YPROFIT: |   -3.0   |   2.3    |   1.5    |   4.8    |   9.2    |      7.3     
+ PQoQ%:  |  861.3   |  -177.5  |  -35.9   |  222.3   |   92.9   |      79.3    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.0    |   1.8    |   0.1    |   0.1    |   0.0   
+ QoQ%:  |  -50.0   | 18300.0  |  -94.6   |   20.0   |  -91.7  
+ QOPM%: |   0.0    |   67.4   |   0.0    |   0.0    |   0.0   
+ QNPM%: |  9100.0  |  244.6   |  1710.0  |  5300.0  |   0.0   
+ QPFT:  |   0.9    |   4.5    |   1.7    |   6.4    |   -0.8  
+ PQoQ%: |  -47.1   |  394.5   |  -62.0   |  271.9   |  -111.9 
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QPROFIT is about 79% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2024
+- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2024 #Result
+2.00cr, QoQ -6.20% & YoY 900.00% SALES;
+0.50cr, QoQ -26.00% & YoY -114.71% OPERATING PROFIT;
+9.20cr, QoQ 92.90% & YoY -406.67% NET PROFIT;
+OPM %: 27.60% vs 34.9%
+NPM %: 469.40% vs 228.2%
+

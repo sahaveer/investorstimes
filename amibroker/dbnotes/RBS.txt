@@ -1,0 +1,20 @@
+CODES
+RBS	
+SECTOR : Edible Oil
+INDUSTRY : Solvent Extraction
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2024 #Result
+686.40cr, QoQ -1.60% & YoY 96.73% SALES;
+25.10cr, QoQ 35.70% & YoY 109.17% OPERATING PROFIT;
+13.00cr, QoQ -11.30% & YoY 154.90% NET PROFIT;
+OPM %: 3.70% vs 2.7%
+NPM %: 1.90% vs 2.1%
+

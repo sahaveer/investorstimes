@@ -1,0 +1,40 @@
+CODES
+543687	DHARMAJ	
+SECTOR : 
+INDUSTRY : 
+EXPANSION 2023
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  193.2   |  297.7   |  388.4   |  524.3   |  654.1   |     741.1    
+ SQoQ%:  |   42.1   |   54.0   |   30.5   |   35.0   |   24.8   |     113.3    
+ YOPM%:  |   9.3    |   10.4   |   11.4   |   7.8    |   9.6    |              
+ YNPM%:  |   5.6    |   7.0    |   7.4    |   5.1    |   6.8    |              
+YPROFIT: |   10.8   |   21.0   |   28.7   |   26.9   |   44.4   |      37.3    
+ PQoQ%:  |  114.3   |   94.8   |   36.9   |   -6.4   |   65.2   |      84.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  123.4   |  116.1   |  255.3   |  311.3   |  174.5  
+ QoQ%:  |  -51.2   |   -6.0   |  119.9   |   22.0   |  -43.9  
+ QOPM%: |   8.7    |   0.0    |   10.6   |   11.1   |   5.4   
+ QNPM%: |   6.3    |   0.0    |   5.9    |   6.8    |   0.7   
+ QPFT:  |   7.7    |   -3.4   |   15.1   |   21.0   |   1.2   
+ PQoQ%: |  -66.4   |  -143.9  |  -544.5  |   39.5   |  -94.4  
+
+***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
+- Last 3QSALES is about 113% YSales
+- Last 3QPROFIT is about 84% of YProfit
+
+YSALES in Mar-2024 is at 654.1 showing a QoQ_growth of 24.8%. The YNETPROFIT grew by 65.2% to 44.4
+
+Yearly 
+ 31-Mar-2024 #Result
+654.10cr, QoQ 24.80% & YoY 238.56% SALES;
+62.90cr, QoQ 53.00% & YoY 251.40% OPERATING PROFIT;
+44.40cr, QoQ 65.20% & YoY 311.11% NET PROFIT;
+OPM %: 9.60% vs 7.8%
+NPM %: 6.80% vs 5.1%
+

@@ -1,0 +1,20 @@
+CODES
+ZENITHDRUG	
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Formulations
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2024 #Result
+131.60cr, QoQ 14.90% & YoY 68.29% SALES;
+16.90cr, QoQ 87.00% & YoY 141.43% OPERATING PROFIT;
+9.50cr, QoQ 95.50% & YoY 179.41% NET PROFIT;
+OPM %: 12.90% vs 7.9%
+NPM %: 7.20% vs 4.3%
+

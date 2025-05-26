@@ -1,0 +1,29 @@
+CODES
+532904	SUPREMEINF	
+SECTOR : Infrastructure Developers & Operators
+INDUSTRY : Engineering - Turnkey Services
+EXPANSION 2023
+
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -1174.6
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Sep-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  320.7   |  263.4   |  136.3   |   96.6   |   58.7   |      36.9    
+ SQoQ%:  |  -52.6   |  -17.8   |  -48.2   |  -29.1   |  -39.2   |      62.9    
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
+YPROFIT: |  -812.7  |  -873.6  |  -905.7  | -1157.8  | -1174.6  |     -691.7   
+ PQoQ%:  |  -42.9   |   7.5    |   3.7    |   27.8   |   1.5    |      58.9    
+ QPNL:  | Sep-2023 | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   16.6   |   8.8    |   28.6   |   26.7   |   10.2  
+ QoQ%:  |   98.3   |  -47.0   |  224.7   |   -6.8   |  -61.8  
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QPFT:  |  -310.4  |  -307.2  |  -326.3  |  -351.0  |  -340.7 
+ PQoQ%: |   6.9    |   -1.0   |   6.2    |   7.6    |   -2.9  
+
+***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
+- Last 2QSALES is about 63% YSales

@@ -1,0 +1,39 @@
+CODES
+540073	BLS	
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Medium / Small
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  478.4   |  849.9   |  1516.2  |  1676.8  |  2193.3 
+ SQoQ%:  |  -39.1   |   77.7   |   78.4   |   10.6   |   30.8  
+ YOPM%:  |   8.5    |   12.7   |   14.7   |   20.9   |   28.7  
+ YNPM%:  |   10.5   |   13.1   |   13.2   |   18.7   |   23.2  
+YPROFIT: |   50.2   |  111.3   |  200.8   |  313.0   |  508.2  
+ PQoQ%:  |   -4.3   |  121.9   |   80.4   |   55.9   |   62.4  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  447.7   |  492.7   |  495.0   |  512.8   |  692.8  
+ QoQ%:  |   2.2    |   10.0   |   0.5    |   3.6    |   35.1  
+ QOPM%: |   20.2   |   27.0   |   33.1   |   30.8   |   25.1  
+ QNPM%: |   18.0   |   23.2   |   27.9   |   23.5   |   19.5  
+ QPFT:  |   80.8   |  114.2   |  138.2   |  120.7   |  135.1  
+ PQoQ%: |   -4.5   |   41.4   |   21.1   |  -12.7   |   12.0  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 26.2%
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+YSALES in Mar-2025 is at 2193.3 showing a QoQ_growth of 30.8%. The YNETPROFIT grew by 62.4% to 508.2
+
+Yearly 
+ 31-Mar-2025 #Result
+2193.30cr, QoQ 30.80% & YoY 358.47% SALES;
+629.30cr, QoQ 79.50% & YoY 1438.63% OPERATING PROFIT;
+508.20cr, QoQ 62.40% & YoY 912.35% NET PROFIT;
+OPM %: 28.70% vs 20.9%
+NPM %: 23.20% vs 18.7%
+

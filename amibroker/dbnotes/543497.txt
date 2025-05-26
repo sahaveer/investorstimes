@@ -1,0 +1,11 @@
+CODE	NAME
+543497 
+
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+
+***CONS***
+
+
+
+***PROS***

@@ -1,0 +1,40 @@
+CODES
+500343	AMJLAND	
+SECTOR : Realty
+INDUSTRY : Construction
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   11.2   |   28.7   |   35.3   |   56.5   |   77.6  
+ SQoQ%:  |  -34.5   |  155.9   |   23.2   |   59.8   |   37.5  
+ YOPM%:  |   9.1    |   20.0   |   24.8   |   24.7   |   34.9  
+ YNPM%:  |   39.5   |   30.8   |   19.3   |   19.7   |   26.4  
+YPROFIT: |   4.4    |   8.8    |   6.8    |   11.1   |   20.5  
+ PQoQ%:  |  -54.8   |   99.5   |  -23.0   |   63.0   |   84.4  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   8.1    |   25.7   |   11.1   |   15.4   |   25.5  
+ QoQ%:  |  -61.6   |  218.7   |  -56.8   |   38.4   |   66.0  
+ QOPM%: |   67.6   |   20.9   |   34.9   |   15.3   |   60.9  
+ QNPM%: |   57.9   |   15.3   |   34.5   |   14.8   |   40.9  
+ QPFT:  |   4.7    |   3.9    |   3.8    |   2.3    |   10.4  
+ PQoQ%: |  719.3   |  -15.6   |   -2.8   |  -40.7   |  359.0  
+
+***PROS***
+A DEBT-Free Company
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 37.5% while the Profit QoQ_growth is much better than Sales itself at 84.4%
+
+Yearly 
+ 31-Mar-2025 #Result
+77.60cr, QoQ 37.50% & YoY 592.86% SALES;
+27.10cr, QoQ 94.40% & YoY 2610.00% OPERATING PROFIT;
+20.50cr, QoQ 84.40% & YoY 365.91% NET PROFIT;
+OPM %: 34.90% vs 24.7%
+NPM %: 26.40% vs 19.7%
+

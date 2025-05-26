@@ -1,0 +1,31 @@
+CODES
+544328	INDOFARM	
+SECTOR : Automobile
+INDUSTRY : Automobiles - Tractors
+
+***CONS***
+
+
+
+
+
+***PROS***
+- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2024 is at 11.7%. The QPROFIT QoQ_growth by 10.6%
+
+Quarterly 
+31-Dec-2024 #Result
+96.20cr, QoQ 11.70% SALES;
+14.80cr, QoQ 14.60% OPERATING PROFIT;
+4.00cr, QoQ 10.60% NET PROFIT;
+OPM %: 15.40% vs 15.0%
+NPM %: 4.10% vs 4.2%
+
+
+Yearly 
+ 31-Mar-2024 #Result
+360.40cr, QoQ 1.10% & YoY 47.04% SALES;
+63.10cr, QoQ 7.00% & YoY 85.04% OPERATING PROFIT;
+15.60cr, QoQ 1.50% & YoY 218.37% NET PROFIT;
+OPM %: 17.50% vs 16.6%
+NPM %: 4.30% vs 4.3%
+

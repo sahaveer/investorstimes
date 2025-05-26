@@ -1,0 +1,40 @@
+CODE	NAME
+544308 
+
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   4.1    |   5.8    |   6.5    |   5.6    |   6.8    |      5.5     
+ SQoQ%:  |   5.4    |   41.4   |   12.7   |  -14.6   |   23.4   |      80.9    
+ YOPM%:  |   2.0    |   3.5    |   4.0    |   16.9   |   5.8    |              
+ YNPM%:  |   1.2    |   2.1    |   2.6    |   13.2   |   7.4    |              
+YPROFIT: |   0.0    |   0.1    |   0.2    |   0.7    |   0.5    |      0.3     
+ PQoQ%:  |  -28.6   |  140.0   |   41.7   |  329.4   |  -30.1   |      60.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   1.5    |   2.2    |   2.0    |   2.1    |   1.4   
+ QoQ%:  |  -10.1   |   47.4   |   -9.8   |   3.5    |  -33.0  
+ QOPM%: |   11.2   |   0.0    |   2.5    |   2.4    |   0.0   
+ QNPM%: |   13.8   |   7.1    |   5.0    |   5.3    |   7.1   
+ QPFT:  |   0.2    |   0.2    |   0.1    |   0.1    |   0.1   
+ PQoQ%: |  133.3   |  -23.8   |  -37.5   |   10.0   |   -9.1  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.8
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 60% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+6.80cr, QoQ 23.40% & YoY 65.85% SALES;
+0.40cr, QoQ -57.40% & YoY 300.00% OPERATING PROFIT;
+0.50cr, QoQ -30.10% & YoY inf% NET PROFIT;
+OPM %: 5.80% vs 16.9%
+NPM %: 7.40% vs 13.2%
+

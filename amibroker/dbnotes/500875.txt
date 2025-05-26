@@ -1,0 +1,38 @@
+CODES
+500875	ITC	
+SECTOR : Tobacco Products
+INDUSTRY : Cigarettes
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  | 49257.4  | 60644.5  | 70919.0  | 70866.2  | 75323.3 
+ SQoQ%:  |   -0.3   |   23.1   |   16.9   |   -0.1   |   6.3   
+ YOPM%:  |   34.6   |   34.0   |   36.2   |   37.0   |   34.5  
+ YNPM%:  |   26.7   |   25.1   |   27.1   |   28.9   |   46.1  
+YPROFIT: | 13161.2  | 15242.7  | 19191.7  | 20458.8  | 34746.6 
+ PQoQ%:  |  -14.0   |   15.8   |   25.9   |   6.6    |   69.8  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: | 17037.8  | 18457.3  | 19990.4  | 18790.2  | 18765.0 
+ QoQ%:  |   -0.9   |   8.3    |   8.3    |   -6.0   |   -0.1  
+ QOPM%: |   37.0   |   36.6   |   32.8   |   33.9   |   34.7  
+ QNPM%: |   30.1   |   27.6   |   25.0   |   26.3   |  105.1  
+ QPFT:  |  5120.6  |  5091.6  |  4992.9  |  4934.8  | 19727.4 
+ PQoQ%: |   -4.0   |   -0.6   |   -1.9   |   -1.2   |  299.8  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 50.5%
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+75323.30cr, QoQ 6.30% & YoY 52.92% SALES;
+25978.20cr, QoQ -1.00% & YoY 52.23% OPERATING PROFIT;
+34746.60cr, QoQ 69.80% & YoY 164.01% NET PROFIT;
+OPM %: 34.50% vs 37.0%
+NPM %: 46.10% vs 28.9%
+

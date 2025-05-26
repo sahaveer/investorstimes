@@ -1,0 +1,10 @@
+CODES
+SKP	
+SECTOR : Bearings
+INDUSTRY : Bearings
+
+***CONS***
+
+
+
+***PROS***

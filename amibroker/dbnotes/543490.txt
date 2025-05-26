@@ -1,0 +1,15 @@
+CODES
+543490	GMRP&UI	
+SECTOR : Infrastructure Developers & Operators
+INDUSTRY : Engineering - Turnkey Services
+
+***CONS***
+- NEGATIVE YProfit : -103.0
+
+
+
+
+
+***PROS***
+- Last 3QSALES is about 103% YSales
+

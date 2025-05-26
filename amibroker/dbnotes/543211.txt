@@ -1,0 +1,35 @@
+CODE	NAME
+543211 
+
+SECTOR : Trading
+INDUSTRY : Trading
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+YSALES in Mar-2024 is at 431.5 showing a QoQ_growth of 172.8%. The YNETPROFIT grew by 18.3% to 2.3
+
+Quarterly 
+31-Dec-2024 #Result
+138.40cr, QoQ -32.40% SALES;
+2.10cr, QoQ 23.40% OPERATING PROFIT;
+0.90cr, QoQ 100.00% NET PROFIT;
+OPM %: 1.50% vs 0.8%
+NPM %: 0.70% vs 0.2%
+
+
+Yearly 
+ 31-Mar-2024 #Result
+431.50cr, QoQ 172.80% & YoY 78.23% SALES;
+6.10cr, QoQ 7562.50% & YoY -344.00% OPERATING PROFIT;
+2.30cr, QoQ 18.30% & YoY 666.67% NET PROFIT;
+OPM %: 1.40% vs 0.1%
+NPM %: 0.50% vs 1.2%
+

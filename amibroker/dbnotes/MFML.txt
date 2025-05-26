@@ -1,0 +1,13 @@
+CODES
+544233	MFML	
+SECTOR : Textiles
+INDUSTRY : Textiles - Products
+
+***CONS***
+- NEGATIVE YProfit : -1.9
+
+
+
+
+
+***PROS***

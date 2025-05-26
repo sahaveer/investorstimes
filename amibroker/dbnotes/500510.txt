@@ -1,0 +1,37 @@
+CODES
+500510	LT	
+SECTOR : Infrastructure Developers & Operators
+INDUSTRY : Engineering - Turnkey Services
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  | 135979.0 | 156521.2 | 183340.7 | 221112.9 | 255734.4
+ SQoQ%:  |   -6.5   |   15.1   |   17.1   |   20.6   |   15.7  
+ YOPM%:  |   17.3   |   15.5   |   14.8   |   13.5   |   12.8  
+ YNPM%:  |   8.5    |   5.5    |   5.7    |   5.9    |   5.9   
+YPROFIT: | 11582.9  |  8669.3  | 10470.7  | 13059.1  | 15037.1 
+ PQoQ%:  |   21.3   |  -25.2   |   20.8   |   24.7   |   15.1  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: | 67078.7  | 55119.8  | 61554.6  | 64667.8  | 74392.3 
+ QoQ%:  |   21.7   |  -17.8   |   11.7   |   5.1    |   15.0  
+ QOPM%: |   12.9   |   12.8   |   12.9   |   12.2   |   13.3  
+ QNPM%: |   6.6    |   5.1    |   5.5    |   5.2    |   7.4   
+ QPFT:  |  4396.1  |  2785.7  |  3395.3  |  3358.8  |  5497.3 
+ PQoQ%: |   49.2   |  -36.6   |   21.9   |   -1.1   |   63.7  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 15.7% while the Profit QoQ_growth is at 15.1%
+
+Yearly 
+ 31-Mar-2025 #Result
+255734.40cr, QoQ 15.70% & YoY 88.07% SALES;
+32737.00cr, QoQ 9.60% & YoY 39.54% OPERATING PROFIT;
+15037.10cr, QoQ 15.10% & YoY 29.82% NET PROFIT;
+OPM %: 12.80% vs 13.5%
+NPM %: 5.90% vs 5.9%
+

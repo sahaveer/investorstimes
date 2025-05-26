@@ -1,0 +1,13 @@
+CODES
+532872	SPARC	
+SECTOR : Pharmaceuticals
+INDUSTRY : Miscellaneous
+
+***CONS***
+- NEGATIVE YProfit : -342.5
+
+
+
+
+
+***PROS***

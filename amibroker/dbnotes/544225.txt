@@ -1,0 +1,18 @@
+CODES
+544225	OLAELEC	
+SECTOR : Automobile
+INDUSTRY : Automobiles - Motorcycles / Mopeds
+PRODUCT DEMAND
+YSD YPD 2023
+
+***CONS***
+- NEGATIVE YProfit : -1584.4
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 78% YSales
+- YProfits and YSales DOUBLED in Mar2023

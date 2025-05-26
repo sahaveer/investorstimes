@@ -1,0 +1,31 @@
+CODE	NAME
+543805 
+
+SECTOR : Refineries
+INDUSTRY : Refineries
+PRODUCT DEMAND
+YSD YPD 2023
+YSD YPD 2022
+LYPD PM 2024
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2023
+- YProfits and YSales DOUBLED in Mar2022
+- LastYr YProfits Doubled and maintained in Mar2024
+- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2024, Sales have increased by 93.0% while the Profit QoQ_growth is at 57.6%
+
+Yearly 
+ 31-Mar-2024 #Result
+45.50cr, QoQ 93.00% & YoY inf% SALES;
+15.30cr, QoQ 48.30% & YoY -7750.00% OPERATING PROFIT;
+6.60cr, QoQ 57.60% & YoY -3400.00% NET PROFIT;
+OPM %: 33.60% vs 43.7%
+NPM %: 14.40% vs 17.7%
+

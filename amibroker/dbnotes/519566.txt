@@ -1,0 +1,39 @@
+CODE	NAME
+519566 
+
+SECTOR : FMCG
+INDUSTRY : Miscellaneous
+BestQ Dec 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  281.1   |  322.1   |  393.7   |  367.0   |  486.4   |     596.1    
+ SQoQ%:  |  -12.1   |   14.6   |   22.2   |   -6.8   |   32.6   |     122.6    
+ YOPM%:  |   0.0    |   7.8    |   2.9    |   1.9    |   0.4    |              
+ YNPM%:  |   0.0    |   3.9    |   2.6    |   1.0    |   0.1    |              
+YPROFIT: |  -21.5   |   12.6   |   10.3   |   3.6    |   0.4    |      9.0     
+ PQoQ%:  |  -628.5  |  -158.5  |  -18.2   |  -65.2   |  -89.4   |     2250.0   
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  123.4   |  138.4   |  176.4   |  174.6   |  245.1  
+ QoQ%:  |   3.6    |   12.2   |   27.4   |   -1.0   |   40.4  
+ QOPM%: |   0.0    |   0.2    |   7.0    |   0.4    |   0.3   
+ QNPM%: |   0.0    |   0.1    |   4.9    |   0.1    |   0.1   
+ QPFT:  |   -3.4   |   0.2    |   8.7    |   0.2    |   0.1   
+ PQoQ%: |  -213.8  |  -105.6  |  4489.5  |  -97.2   |  -41.7  
+
+***PROS***
+- Last 3QSALES is about 123% YSales
+- Last 3QPROFIT is about 2250% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2024 #Result
+486.40cr, QoQ 32.60% & YoY 73.03% SALES;
+2.10cr, QoQ -70.00% & YoY -108.05% OPERATING PROFIT;
+0.40cr, QoQ -89.40% & YoY -101.86% NET PROFIT;
+OPM %: 0.40% vs 1.9%
+NPM %: 0.10% vs 1.0%
+

@@ -1,0 +1,23 @@
+CODE	NAME
+544035 
+
+SECTOR : Plastic products
+INDUSTRY : Plastics Products
+LYPD PM 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+- LastYr YProfits Doubled and maintained in Mar2024
+
+Yearly 
+ 31-Mar-2024 #Result
+43.30cr, QoQ 0.70% SALES;
+5.40cr, QoQ -12.40% OPERATING PROFIT;
+5.60cr, QoQ 98.20% NET PROFIT;
+OPM %: 12.40% vs 14.2%
+NPM %: 12.80% vs 6.5%
+

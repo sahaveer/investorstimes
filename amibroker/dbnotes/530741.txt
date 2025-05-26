@@ -1,0 +1,40 @@
+CODE	NAME
+530741 
+
+SECTOR : FMCG
+INDUSTRY : Food - Processing - Indian
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  108.7   |  110.7   |  125.1   |  221.3   |  174.6   |     140.7    
+ SQoQ%:  |   11.7   |   1.9    |   13.0   |   76.9   |  -21.1   |      80.6    
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   23.4   |   12.2   |              
+ YNPM%:  |   2.5    |   0.0    |   0.0    |   17.5   |   10.2   |              
+YPROFIT: |   2.7    |   -1.8   |   0.0    |   38.8   |   17.9   |      3.2     
+ PQoQ%:  |  -51.9   |  -166.5  |  -101.1  | 194000.0 |  -53.9   |      17.9    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   50.8   |   28.9   |   47.6   |   42.0   |   51.1  
+ QoQ%:  |   10.7   |  -43.1   |   64.8   |  -11.7   |   21.6  
+ QOPM%: |   0.0    |   0.0    |   6.2    |   3.6    |   0.0   
+ QNPM%: |   0.8    |   0.0    |   5.8    |   3.8    |   0.0   
+ QPFT:  |   0.4    |   -1.8   |   2.8    |   1.6    |   -1.2  
+ PQoQ%: |  -95.3   |  -536.6  |  -253.6  |  -41.8   |  -171.9 
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 16.4%
+- Last 3QSALES is about 81% YSales
+
+
+Yearly 
+ 31-Mar-2024 #Result
+174.60cr, QoQ -21.10% & YoY 60.63% SALES;
+21.30cr, QoQ -59.00% & YoY -1068.18% OPERATING PROFIT;
+17.90cr, QoQ -53.90% & YoY 562.96% NET PROFIT;
+OPM %: 12.20% vs 23.4%
+NPM %: 10.20% vs 17.5%
+

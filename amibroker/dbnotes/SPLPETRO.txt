@@ -1,0 +1,37 @@
+CODES
+500405	SPLPETRO	
+SECTOR : Petrochemicals
+INDUSTRY : Petrochemicals
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  3185.2  |  5032.3  |  5287.2  |  5253.4  |  6023.4 
+ SQoQ%:  |   16.9   |   58.0   |   5.1    |   -0.6   |   14.7  
+ YOPM%:  |   21.2   |   18.0   |   12.5   |   9.0    |   8.8   
+ YNPM%:  |   15.0   |   13.2   |   9.4    |   6.6    |   6.5   
+YPROFIT: |  477.5   |  663.3   |  498.1   |  346.5   |  390.5  
+ PQoQ%:  |  365.2   |   38.9   |  -24.9   |  -30.4   |   12.7  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  1562.8  |  1573.5  |  1505.6  |  1405.3  |  1539.0 
+ QoQ%:  |   31.6   |   0.7    |   -4.3   |   -6.7   |   9.5   
+ QOPM%: |   11.2   |   10.2   |   8.3    |   7.1    |   9.4   
+ QNPM%: |   8.4    |   7.8    |   6.0    |   5.1    |   6.9   
+ QPFT:  |  131.5   |  122.0   |   90.3   |   71.4   |  106.9  
+ PQoQ%: |   94.3   |   -7.3   |  -25.9   |  -21.0   |   49.8  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 24.5%
+
+Yearly 
+ 31-Mar-2025 #Result
+6023.40cr, QoQ 14.70% & YoY 89.11% SALES;
+532.60cr, QoQ 12.60% & YoY -21.14% OPERATING PROFIT;
+390.50cr, QoQ 12.70% & YoY -18.22% NET PROFIT;
+OPM %: 8.80% vs 9.0%
+NPM %: 6.50% vs 6.6%
+

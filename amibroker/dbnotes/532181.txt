@@ -1,0 +1,38 @@
+CODES
+532181	GMDCLTD	
+SECTOR : Mining & Mineral products
+INDUSTRY : Mining / Minerals / Metals
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1329.0  |  2732.1  |  3497.9  |  2462.9  |  2850.8 
+ SQoQ%:  |   -8.3   |  105.6   |   28.0   |  -29.6   |   15.8  
+ YOPM%:  |   0.0    |   26.4   |   38.2   |   25.4   |   22.4  
+ YNPM%:  |   0.0    |   16.3   |   34.4   |   25.1   |   24.1  
+YPROFIT: |  -35.8   |  445.9   |  1204.4  |  617.2   |  685.8  
+ PQoQ%:  |  -124.4  | -1346.6  |  170.1   |  -48.8   |   11.1  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  750.3   |  818.1   |  593.0   |  653.4   |  786.3  
+ QoQ%:  |   33.0   |   9.0    |  -27.5   |   10.2   |   20.3  
+ QOPM%: |   25.1   |   25.8   |   23.7   |   14.1   |   24.6  
+ QNPM%: |   25.0   |   22.5   |   21.6   |   22.6   |   28.8  
+ QPFT:  |  187.2   |  184.0   |  127.9   |  147.7   |  226.2  
+ PQoQ%: |   60.3   |   -1.7   |  -30.5   |   15.5   |   53.2  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+
+Yearly 
+ 31-Mar-2025 #Result
+2850.80cr, QoQ 15.80% & YoY 114.51% SALES;
+637.50cr, QoQ 1.80% & YoY -10382.26% OPERATING PROFIT;
+685.80cr, QoQ 11.10% & YoY -2015.64% NET PROFIT;
+OPM %: 22.40% vs 25.4%
+NPM %: 24.10% vs 25.1%
+

@@ -1,0 +1,23 @@
+CODES
+AGUL	
+SECTOR : Trading
+INDUSTRY : Trading
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+YSALES in Mar-2024 is at 78.4 showing a QoQ_growth of 32.1%. The YNETPROFIT grew by 65.5% to 1.9
+
+Yearly 
+ 31-Mar-2024 #Result
+78.40cr, QoQ 32.10% & YoY 292.00% SALES;
+4.80cr, QoQ 287.90% & YoY 585.71% OPERATING PROFIT;
+1.90cr, QoQ 65.50% & YoY inf% NET PROFIT;
+OPM %: 6.10% vs 2.1%
+NPM %: 2.40% vs 2.0%
+

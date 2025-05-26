@@ -1,0 +1,37 @@
+CODES
+500085	CHAMBLFERT	
+SECTOR : Fertilizers
+INDUSTRY : Fertilizers
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  | 12719.0  | 16068.8  | 27772.8  | 17966.4  | 16646.2 
+ SQoQ%:  |   4.2    |   26.3   |   72.8   |  -35.3   |   -7.3  
+ YOPM%:  |   19.4   |   14.1   |   6.6    |   11.4   |   14.9  
+ YNPM%:  |   13.0   |   9.7    |   3.7    |   7.1    |   9.9   
+YPROFIT: |  1654.8  |  1566.0  |  1034.2  |  1275.8  |  1649.5 
+ PQoQ%:  |   35.0   |   -5.4   |  -34.0   |   23.4   |   29.3  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  2643.0  |  4933.2  |  4346.2  |  4918.1  |  2448.7 
+ QoQ%:  |  -39.2   |   86.6   |  -11.9   |   13.2   |  -50.2  
+ QOPM%: |   6.3    |   15.2   |   18.2   |   15.8   |   6.7   
+ QNPM%: |   3.7    |   9.1    |   12.3   |   10.9   |   5.3   
+ QPFT:  |   96.8   |  448.4   |  536.4   |  534.4   |  130.4  
+ PQoQ%: |  -78.9   |  363.3   |   19.6   |   -0.4   |  -75.6  
+
+***PROS***
+A DEBT-Free Company
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 19.9%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+
+Yearly 
+ 31-Mar-2025 #Result
+16646.20cr, QoQ -7.30% & YoY 30.88% SALES;
+2483.50cr, QoQ 21.30% & YoY 0.56% OPERATING PROFIT;
+1649.50cr, QoQ 29.30% & YoY -0.32% NET PROFIT;
+OPM %: 14.90% vs 11.4%
+NPM %: 9.90% vs 7.1%
+

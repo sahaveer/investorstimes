@@ -1,0 +1,35 @@
+CODES
+543904	MANKIND	
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  6214.4  |  7781.6  |  8749.4  | 10334.8  | 12207.4 
+ SQoQ%:  |   6.0    |   25.2   |   12.4   |   18.1   |   18.1  
+ YOPM%:  |   26.5   |   25.6   |   21.7   |   24.6   |   24.7  
+ YNPM%:  |   20.4   |   18.4   |   14.7   |   18.5   |   16.3  
+YPROFIT: |  1265.4  |  1433.5  |  1281.9  |  1912.9  |  1991.0 
+ PQoQ%:  |   22.8   |   13.3   |  -10.6   |   49.2   |   4.1   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  2422.2  |  2893.4  |  3076.5  |  3198.8  |  3079.4 
+ QoQ%:  |   -7.1   |   19.5   |   6.3    |   4.0    |   -3.7  
+ QOPM%: |   24.2   |   23.6   |   27.6   |   25.5   |   22.2  
+ QNPM%: |   19.5   |   18.5   |   21.2   |   11.9   |   13.7  
+ QPFT:  |  471.2   |  536.5   |  653.5   |  380.2   |  420.8  
+ PQoQ%: |   3.9    |   13.8   |   21.8   |  -41.8   |   10.7  
+
+***PROS***
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+Yearly 
+ 31-Mar-2025 #Result
+12207.40cr, QoQ 18.10% & YoY 96.44% SALES;
+3017.90cr, QoQ 18.90% & YoY 83.00% OPERATING PROFIT;
+1991.00cr, QoQ 4.10% & YoY 57.34% NET PROFIT;
+OPM %: 24.70% vs 24.6%
+NPM %: 16.30% vs 18.5%
+

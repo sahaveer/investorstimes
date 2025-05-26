@@ -1,0 +1,39 @@
+CODES
+532892	MOTILALOFS	
+SECTOR : Stock/ Commodity Brokers
+INDUSTRY : Finance & Investments
+LYPD PM 2025
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  3625.9  |  4298.0  |  4177.8  |  7069.4  |  8339.0 
+ SQoQ%:  |   53.8   |   18.5   |   -2.8   |   69.2   |   18.0  
+ YOPM%:  |   55.6   |   49.3   |   44.9   |   57.5   |   54.5  
+ YNPM%:  |   34.8   |   30.5   |   22.3   |   34.5   |   30.0  
+YPROFIT: |  1260.4  |  1309.8  |  931.7   |  2441.1  |  2501.6 
+ PQoQ%:  |  587.4   |   3.9    |  -28.9   |  162.0   |   2.5   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  2153.8  |  2312.3  |  2837.8  |  1993.4  |  1190.3 
+ QoQ%:  |   20.2   |   7.4    |   22.7   |  -29.8   |  -40.3  
+ QOPM%: |   57.5   |   60.2   |   63.9   |   53.2   |   23.5  
+ QNPM%: |   33.6   |   38.1   |   39.5   |   28.3   |   0.0   
+ QPFT:  |  723.0   |  881.9   |  1120.1  |  564.5   |  -64.8  
+ PQoQ%: |   9.6    |   22.0   |   27.0   |  -49.6   |  -111.5 
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 22.1%
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+8339.00cr, QoQ 18.00% & YoY 129.98% SALES;
+4545.30cr, QoQ 11.70% & YoY 125.45% OPERATING PROFIT;
+2501.60cr, QoQ 2.50% & YoY 98.48% NET PROFIT;
+OPM %: 54.50% vs 57.5%
+NPM %: 30.00% vs 34.5%
+

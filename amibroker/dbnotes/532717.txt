@@ -1,0 +1,40 @@
+CODES
+532717	INDOTECH	
+SECTOR : 
+INDUSTRY : 
+PRODUCT DEMAND
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  206.0   |  280.1   |  370.9   |  503.6   |  611.8  
+ SQoQ%:  |   0.3    |   36.0   |   32.4   |   35.8   |   21.5  
+ YOPM%:  |   5.5    |   7.9    |   9.8    |   13.6   |   12.4  
+ YNPM%:  |   3.1    |   4.4    |   6.9    |   9.3    |   10.4  
+YPROFIT: |   6.3    |   12.2   |   25.7   |   46.9   |   63.9  
+ PQoQ%:  |  227.6   |   93.8   |  110.8   |   82.3   |   36.3  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  174.7   |   82.2   |  146.2   |  177.3   |  206.1  
+ QoQ%:  |   25.3   |  -53.0   |   78.0   |   21.3   |   16.2  
+ QOPM%: |   15.2   |   10.0   |   15.7   |   13.7   |   10.0  
+ QNPM%: |   14.6   |   7.2    |   12.1   |   10.9   |   10.2  
+ QPFT:  |   25.6   |   5.9    |   17.7   |   19.3   |   21.0  
+ PQoQ%: |  139.4   |  -76.9   |  199.8   |   8.7    |   8.9   
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 17.5%
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 21.5% while the Profit QoQ_growth is much better than Sales itself at 36.3%
+
+Yearly 
+ 31-Mar-2025 #Result
+611.80cr, QoQ 21.50% & YoY 196.99% SALES;
+76.10cr, QoQ 11.40% & YoY 573.45% OPERATING PROFIT;
+63.90cr, QoQ 36.30% & YoY 914.29% NET PROFIT;
+OPM %: 12.40% vs 13.6%
+NPM %: 10.40% vs 9.3%
+

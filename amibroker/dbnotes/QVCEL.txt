@@ -1,0 +1,28 @@
+CODES
+QVCEL	
+SECTOR : Trading
+INDUSTRY : Trading
+PRODUCT DEMAND
+YSD YPD 2024
+LYPD PM 2024
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2024
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 115.2% while the Profit QoQ_growth is much better than Sales itself at 129.8%
+
+Yearly 
+ 31-Mar-2024 #Result
+446.00cr, QoQ 115.20% & YoY 117.35% SALES;
+2.10cr, QoQ -167.90% & YoY 5.00% OPERATING PROFIT;
+3.90cr, QoQ 129.80% & YoY 160.00% NET PROFIT;
+OPM %: 0.50% vs 0.0%
+NPM %: 0.90% vs 0.8%
+

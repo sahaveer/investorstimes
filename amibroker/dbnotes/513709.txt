@@ -1,0 +1,37 @@
+CODE	NAME
+513709 
+
+SECTOR : Mining & Mineral products
+INDUSTRY : Mining / Minerals / Metals
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   70.6   |   69.8   |   74.8   |   87.2   |   87.5   |      68.3    
+ SQoQ%:  |   11.1   |   -1.2   |   7.1    |   16.6   |   0.3    |      78.1    
+ YOPM%:  |   16.9   |   18.2   |   15.9   |   16.8   |   13.3   |              
+ YNPM%:  |   1.2    |   14.7   |   10.6   |   9.0    |   13.1   |              
+YPROFIT: |   0.9    |   10.3   |   7.9    |   7.8    |   11.4   |      4.5     
+ PQoQ%:  |  -84.3   |  1080.5  |  -23.0   |   -1.3   |   46.2   |      39.5    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   19.9   |   22.4   |   22.8   |   24.0   |   21.5  
+ QoQ%:  |  -17.2   |   12.8   |   1.6    |   5.4    |  -10.6  
+ QOPM%: |   10.6   |   11.1   |   13.2   |   10.4   |   4.1   
+ QNPM%: |   13.8   |   6.5    |   15.3   |   11.8   |   0.0   
+ QPFT:  |   2.8    |   1.5    |   3.5    |   2.8    |   -1.8  
+ PQoQ%: |  -17.9   |  -46.9   |  139.0   |  -18.6   |  -164.8 
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 78% YSales
+
+Yearly 
+ 31-Mar-2024 #Result
+87.50cr, QoQ 0.30% & YoY 23.94% SALES;
+11.60cr, QoQ -20.50% & YoY -2.52% OPERATING PROFIT;
+11.40cr, QoQ 46.20% & YoY 1166.67% NET PROFIT;
+OPM %: 13.30% vs 16.8%
+NPM %: 13.10% vs 9.0%
+

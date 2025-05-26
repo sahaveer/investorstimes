@@ -1,0 +1,38 @@
+CODES
+PANSARI	
+SECTOR : Construction
+INDUSTRY : Construction
+YSD YPD 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024
+---------+----------+----------+----------+----------+---------
+YSALES:  |   34.8   |   36.1   |   60.2   |   22.5   |   56.0  
+ SQoQ%:  |  245.9   |   3.7    |   66.9   |  -62.6   |  149.0  
+ YOPM%:  |   20.8   |   25.5   |   12.8   |   20.2   |   13.0  
+ YNPM%:  |   7.9    |   10.4   |   6.0    |   8.9    |   9.3   
+YPROFIT: |   2.8    |   3.8    |   3.6    |   2.0    |   5.2   
+ PQoQ%:  |   41.5   |   36.2   |   -3.2   |  -44.8   |  159.2  
+ QPNL:  | Mar-2023 | Jun-2023 | Sep-2023 | Dec-2023 | Mar-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   4.6    |   8.0    |   6.0    |   30.2   |   12.2  
+ QoQ%:  |  -47.0   |   76.7   |  -25.2   |  402.8   |  -59.6  
+ QOPM%: |   26.2   |   24.9   |   21.6   |   10.9   |   6.1   
+ QNPM%: |   10.5   |   10.3   |   13.6   |   6.8    |   12.2  
+ QPFT:  |   0.5    |   0.8    |   0.8    |   2.1    |   1.5   
+ PQoQ%: |  -21.3   |   72.9   |   -1.2   |  152.4   |  -28.0  
+
+***PROS***
+- YProfits and YSales DOUBLED in Mar2024
+
+YSALES in Mar-2024 is at 56.0 showing a QoQ_growth of 149.0%. The YNETPROFIT grew by 159.2% to 5.2
+
+Yearly 
+ 31-Mar-2024 #Result
+56.00cr, QoQ 149.00% & YoY 60.92% SALES;
+7.30cr, QoQ 60.70% & YoY 1.39% OPERATING PROFIT;
+5.20cr, QoQ 159.20% & YoY 85.71% NET PROFIT;
+OPM %: 13.00% vs 20.2%
+NPM %: 9.30% vs 8.9%
+

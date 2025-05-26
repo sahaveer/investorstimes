@@ -1,0 +1,15 @@
+CODE	NAME
+524314 
+
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Formulations
+
+***CONS***
+- NEGATIVE YProfit : -2.5
+
+
+
+
+
+***PROS***
+- Last 2QSALES is about 79% YSales

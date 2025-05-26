@@ -1,0 +1,38 @@
+CODES
+524404	MARKSANS	
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Formulations
+PRODUCT DEMAND
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1376.2  |  1490.8  |  1852.1  |  2177.4  |  2622.8 
+ SQoQ%:  |   21.3   |   8.3    |   24.2   |   17.6   |   20.5  
+ YOPM%:  |   24.7   |   17.4   |   18.3   |   21.1   |   20.2  
+ YNPM%:  |   17.1   |   12.4   |   14.4   |   14.4   |   14.5  
+YPROFIT: |  235.9   |  184.6   |  266.3   |  313.7   |  380.6  
+ PQoQ%:  |   95.4   |  -21.8   |   44.3   |   17.8   |   21.3  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  560.0   |  590.6   |  641.9   |  681.8   |  708.5  
+ QoQ%:  |   -4.5   |   5.5    |   8.7    |   6.2    |   3.9   
+ QOPM%: |   19.6   |   21.7   |   21.1   |   20.4   |   17.8  
+ QNPM%: |   14.0   |   15.0   |   15.1   |   15.3   |   12.8  
+ QPFT:  |   78.3   |   88.8   |   96.7   |  104.6   |   90.6  
+ PQoQ%: |   -5.9   |   13.4   |   9.0    |   8.1    |  -13.4  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 20.5% while the Profit QoQ_growth is much better than Sales itself at 21.3%
+
+Yearly 
+ 31-Mar-2025 #Result
+2622.80cr, QoQ 20.50% & YoY 90.58% SALES;
+528.60cr, QoQ 15.30% & YoY 55.65% OPERATING PROFIT;
+380.60cr, QoQ 21.30% & YoY 61.34% NET PROFIT;
+OPM %: 20.20% vs 21.1%
+NPM %: 14.50% vs 14.4%
+

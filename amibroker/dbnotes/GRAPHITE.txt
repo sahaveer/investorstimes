@@ -1,0 +1,38 @@
+CODES
+509488	GRAPHITE	
+SECTOR : Capital Goods-Non Electrical Equipment
+INDUSTRY : Electrodes - Graphites
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1957.6  |  3026.5  |  3180.9  |  2949.7  |  2560.0 
+ SQoQ%:  |  -36.7   |   54.6   |   5.1    |   -7.3   |  -13.2  
+ YOPM%:  |   0.0    |   15.1   |   9.8    |   0.0    |   9.9   
+ YNPM%:  |   0.0    |   16.7   |   6.3    |   27.4   |   18.0  
+YPROFIT: |  -32.1   |  504.6   |  199.4   |  808.1   |  462.0  
+ PQoQ%:  |  -171.4  | -1672.8  |  -60.5   |  305.4   |  -42.8  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  720.0   |  728.0   |  643.0   |  523.0   |  666.0  
+ QoQ%:  |   4.3    |   1.1    |  -11.7   |  -18.7   |   27.3  
+ QOPM%: |   0.0    |   15.5   |   17.1   |   0.0    |   5.9   
+ QNPM%: |   2.2    |   32.6   |   30.3   |   0.0    |   7.5   
+ QPFT:  |   16.0   |  237.0   |  195.0   |  -20.0   |   50.0  
+ PQoQ%: |  -11.1   |  1381.2  |  -17.7   |  -110.3  |  -350.0 
+
+***PROS***
+A DEBT-Free Company
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+
+Yearly 
+ 31-Mar-2025 #Result
+2560.00cr, QoQ -13.20% & YoY 30.77% SALES;
+254.00cr, QoQ -277.10% & YoY -218.03% OPERATING PROFIT;
+462.00cr, QoQ -42.80% & YoY -1539.25% NET PROFIT;
+OPM %: 9.90% vs 0.0%
+NPM %: 18.00% vs 27.4%
+

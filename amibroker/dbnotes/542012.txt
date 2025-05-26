@@ -1,0 +1,25 @@
+CODE	NAME
+542012 
+
+SECTOR : Trading
+INDUSTRY : Trading
+BestQ Dec 2024
+
+***CONS***
+
+
+
+
+
+***PROS***
+- Last 3QSALES is about 109% YSales
+- Last 3QPROFIT is about 255% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+206.10cr, QoQ -37.60% SALES;
+-0.30cr, QoQ -107.00% OPERATING PROFIT;
+1.10cr, QoQ -69.50% NET PROFIT;
+OPM %: 0.00% vs 1.3%
+NPM %: 0.50% vs 1.1%
+

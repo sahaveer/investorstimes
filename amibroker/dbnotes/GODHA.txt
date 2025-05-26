@@ -1,0 +1,30 @@
+CODES
+GODHA	
+SECTOR : Cables
+INDUSTRY : Cables - Power
+PRODUCT DEMAND
+YSD YPD 2025
+YSD YPD 2024
+
+***CONS***
+ YPNL:   | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025 | Mar-2017
+---------+----------+----------+----------+----------+---------
+YSALES:  |   35.3   |   3.5    |   16.8   |  175.6   |   0.0   
+ SQoQ%:  |   9.1    |  -90.1   |  377.5   |  947.4   |  -100.0 
+ YOPM%:  |   4.0    |   0.0    |   4.9    |   3.6    |   0.0   
+ YNPM%:  |   2.3    |   0.0    |   3.0    |   4.1    |   0.0   
+YPROFIT: |   0.8    |   -1.4   |   0.5    |   7.2    |   0.0   
+ PQoQ%:  |  -315.8  |  -270.7  |  -136.4  |  1305.9  |  -100.0 
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   16.7   |   9.6    |   83.0   |   13.7   |   69.2  
+ QoQ%:  |   inf    |  -42.2   |  761.3   |  -83.5   |  403.7  
+ QOPM%: |   9.3    |   7.4    |   1.1    |   30.0   |   0.8   
+ QNPM%: |   7.3    |   4.7    |   0.8    |   20.3   |   4.7   
+ QPFT:  |   1.2    |   0.4    |   0.7    |   2.8    |   3.2   
+ PQoQ%: |  -551.9  |  -63.1   |   55.6   |  298.6   |   16.1  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2025
+- YProfits and YSales DOUBLED in Mar2024

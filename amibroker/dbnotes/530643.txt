@@ -1,0 +1,41 @@
+CODE	NAME
+530643 
+
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+BestQ Dec 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   12.2   |   12.7   |   15.3   |   17.7   |   28.0   |      34.2    
+ SQoQ%:  |   -2.0   |   3.9    |   20.7   |   16.0   |   57.9   |     122.1    
+ YOPM%:  |   20.8   |   7.7    |   23.9   |   22.2   |   58.8   |              
+ YNPM%:  |   9.1    |   35.3   |   83.0   |   34.9   |   63.7   |              
+YPROFIT: |   1.1    |   4.5    |   12.7   |   6.2    |   17.8   |      21.1    
+ PQoQ%:  |   0.9    |  302.7   |  183.9   |  -51.2   |  188.0   |     118.5    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   7.5    |   8.0    |   11.4   |   12.9   |   9.9   
+ QoQ%:  |   5.2    |   7.8    |   41.6   |   12.9   |  -22.9  
+ QOPM%: |   70.1   |   45.7   |   71.8   |   71.6   |   66.7  
+ QNPM%: |   74.8   |   20.5   |   71.5   |   62.4   |   49.3  
+ QPFT:  |   5.6    |   1.6    |   8.2    |   8.0    |   4.9   
+ PQoQ%: |   -4.3   |  -70.5   |  393.9   |   -1.5   |  -39.1  
+
+***PROS***
+- Last 3QSALES is about 122% YSales
+- Last 3QPROFIT is about 119% of YProfit
+
+
+YSALES in Mar-2024 is at 28.0 showing a QoQ_growth of 57.9%. The YNETPROFIT grew by 188.0% to 17.8
+
+Yearly 
+ 31-Mar-2024 #Result
+28.00cr, QoQ 57.90% & YoY 129.51% SALES;
+16.50cr, QoQ 318.80% & YoY 560.00% OPERATING PROFIT;
+17.80cr, QoQ 188.00% & YoY 1518.18% NET PROFIT;
+OPM %: 58.80% vs 22.2%
+NPM %: 63.70% vs 34.9%
+

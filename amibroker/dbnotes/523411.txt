@@ -1,0 +1,43 @@
+CODE	NAME
+523411 
+
+SECTOR : Telecomm Equipment & Infra Services
+INDUSTRY : Telecommunications - Equipment
+BestQ Dec 2024
+YSD YPD 2022
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   78.1   |   59.9   |  120.7   |  142.9   |  178.7   |     141.3    
+ SQoQ%:  |   -8.7   |  -23.4   |  101.7   |   18.4   |   25.1   |      79.1    
+ YOPM%:  |   6.2    |   8.1    |   8.8    |   7.2    |   14.6   |              
+ YNPM%:  |   4.9    |   6.0    |   7.0    |   5.7    |   11.6   |              
+YPROFIT: |   3.8    |   3.6    |   8.5    |   8.2    |   20.7   |      21.5    
+ PQoQ%:  |  -35.2   |   -4.7   |  134.3   |   -3.7   |  153.2   |     103.9    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   42.1   |   44.1   |   48.6   |   50.8   |   41.9  
+ QoQ%:  |  -12.5   |   4.8    |   10.2   |   4.4    |  -17.5  
+ QOPM%: |   19.2   |   19.8   |   17.5   |   20.9   |   16.8  
+ QNPM%: |   15.2   |   15.7   |   14.3   |   17.2   |   13.9  
+ QPFT:  |   6.4    |   6.9    |   7.0    |   8.7    |   5.8   
+ PQoQ%: |  -14.4   |   8.8    |   0.3    |   25.3   |  -33.1  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 104% of YProfit
+- YProfits and YSales DOUBLED in Mar2022
+
+YSALES in Mar-2024 is at 178.7 showing a QoQ_growth of 25.1%. The YNETPROFIT grew by 153.2% to 20.7
+
+Yearly 
+ 31-Mar-2024 #Result
+178.70cr, QoQ 25.10% & YoY 128.81% SALES;
+26.10cr, QoQ 154.20% & YoY 432.65% OPERATING PROFIT;
+20.70cr, QoQ 153.20% & YoY 444.74% NET PROFIT;
+OPM %: 14.60% vs 7.2%
+NPM %: 11.60% vs 5.7%
+

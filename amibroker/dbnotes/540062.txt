@@ -1,0 +1,39 @@
+CODE	NAME
+540062 
+
+SECTOR : Education
+INDUSTRY : Miscellaneous
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.2    |   0.2    |   0.2    |   0.3    |   0.2    |      0.3     
+ SQoQ%:  |   5.3    |   20.0   |   -4.2   |   47.8   |  -38.2   |     150.0    
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   14.7   |   19.0   |              
+ YNPM%:  |   10.0   |   12.5   |   17.4   |   20.6   |   33.3   |              
+YPROFIT: |   0.0    |   0.0    |   0.0    |   0.1    |   0.1    |      0.2     
+ PQoQ%:  |   inf    |   50.0   |   33.3   |   75.0   |   0.0    |     200.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.0    |   0.1    |   0.1    |   0.1    |   0.1   
+ QoQ%:  |   0.0    |  350.0   |   0.0    |   22.2   |  -27.3  
+ QOPM%: |   0.0    |   66.7   |   22.2   |   72.7   |   62.5  
+ QNPM%: |   0.0    |   77.8   |   33.3   |   90.9   |   87.5  
+ QPFT:  |   0.0    |   0.1    |   0.0    |   0.1    |   0.1   
+ PQoQ%: |   nan    |   inf    |  -57.1   |  233.3   |  -30.0  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- Last 3QSALES is about 150% YSales
+- Last 3QPROFIT is about 200% of YProfit
+
+
+Yearly 
+ 31-Mar-2024 #Result
+0.20cr, QoQ -38.20% & YoY 0.00% SALES;
+0.00cr, QoQ -20.00% & YoY nan% OPERATING PROFIT;
+0.10cr, QoQ 0.00% & YoY inf% NET PROFIT;
+OPM %: 19.00% vs 14.7%
+NPM %: 33.30% vs 20.6%
+

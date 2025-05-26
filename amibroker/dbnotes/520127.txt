@@ -1,0 +1,42 @@
+CODE	NAME
+520127 
+
+SECTOR : Logistics
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   98.4   |   92.5   |   61.6   |   64.5   |   79.3   |      60.8    
+ SQoQ%:  |   80.6   |   -6.1   |  -33.4   |   4.7    |   23.0   |      76.7    
+ YOPM%:  |   3.6    |   1.4    |   2.3    |   4.8    |   5.0    |              
+ YNPM%:  |   2.0    |   0.0    |   1.6    |   2.1    |   3.1    |              
+YPROFIT: |   2.0    |   -0.9   |   1.0    |   1.4    |   2.5    |      1.5     
+ PQoQ%:  |  143.8   |  -146.7  |  -208.8  |   37.4   |   80.9   |      60.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   20.3   |   20.0   |   16.9   |   20.9   |   23.0  
+ QoQ%:  |   4.7    |   -1.1   |  -15.6   |   23.4   |   10.5  
+ QOPM%: |   4.4    |   5.4    |   4.8    |   5.5    |   3.7   
+ QNPM%: |   2.1    |   5.1    |   2.5    |   3.2    |   1.9   
+ QPFT:  |   0.4    |   1.0    |   0.4    |   0.7    |   0.4   
+ PQoQ%: |   26.5   |  139.5   |  -59.2   |   59.5   |  -35.8  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 60% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+YSALES in Mar-2024 is at 79.3 showing a QoQ_growth of 23.0%. The YNETPROFIT grew by 80.9% to 2.5
+
+Yearly 
+ 31-Mar-2024 #Result
+79.30cr, QoQ 23.00% & YoY -19.41% SALES;
+3.90cr, QoQ 27.10% & YoY 11.43% OPERATING PROFIT;
+2.50cr, QoQ 80.90% & YoY 25.00% NET PROFIT;
+OPM %: 5.00% vs 4.8%
+NPM %: 3.10% vs 2.1%
+

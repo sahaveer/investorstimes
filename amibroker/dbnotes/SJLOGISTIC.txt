@@ -1,0 +1,12 @@
+CODES
+SJLOGISTIC	
+SECTOR : Logistics
+INDUSTRY : Miscellaneous
+
+***CONS***
+
+
+
+
+
+***PROS***

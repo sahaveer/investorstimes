@@ -1,0 +1,43 @@
+CODE	NAME
+532855 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+BestQ Dec 2024
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   2.5    |   1.8    |   2.1    |   2.7    |   4.4    |      6.9     
+ SQoQ%:  |   -3.1   |  -31.1   |   18.3   |   32.4   |   60.2   |     156.8    
+ YOPM%:  |   78.7   |   65.7   |   70.5   |   77.7   |   86.1   |              
+ YNPM%:  |   76.4   |   48.0   |   52.7   |   57.3   |   64.2   |              
+YPROFIT: |   1.9    |   0.8    |   1.1    |   1.6    |   2.8    |      4.9     
+ PQoQ%:  |   -2.5   |  -56.7   |   29.8   |   44.0   |   79.6   |     175.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.4    |   0.4    |   0.4    |   6.1    |   0.4   
+ QoQ%:  |  -87.3   |  -12.2   |   16.7   |  1359.5  |  -93.1  
+ QOPM%: |   68.3   |   47.2   |   59.5   |   97.7   |   69.0  
+ QNPM%: |   56.1   |   33.3   |   45.2   |   73.6   |   57.1  
+ QPFT:  |   0.2    |   0.1    |   0.2    |   4.5    |   0.2   
+ PQoQ%: |  -90.1   |  -47.8   |   58.3   |  2273.7  |  -94.7  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 157% YSales
+- Last 3QPROFIT is about 175% of YProfit
+- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 60.2% while the Profit QoQ_growth is much better than Sales itself at 79.6%
+
+Yearly 
+ 31-Mar-2024 #Result
+4.40cr, QoQ 60.20% & YoY 76.00% SALES;
+3.80cr, QoQ 77.50% & YoY 90.00% OPERATING PROFIT;
+2.80cr, QoQ 79.60% & YoY 47.37% NET PROFIT;
+OPM %: 86.10% vs 77.7%
+NPM %: 64.20% vs 57.3%
+

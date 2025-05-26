@@ -1,0 +1,31 @@
+CODES
+POSITRON	
+SECTOR : Gas Distribution
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+YSD YPD 2025
+YSD YPD 2024
+LYPD PM 2025
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 19.1%
+- YProfits and YSales DOUBLED in Mar2025
+- YProfits and YSales DOUBLED in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 150.0% while the Profit QoQ_growth is at 103.0%
+
+Yearly 
+ 31-Mar-2025 #Result
+336.80cr, QoQ 150.00% SALES;
+20.90cr, QoQ 74.10% OPERATING PROFIT;
+17.80cr, QoQ 103.00% NET PROFIT;
+OPM %: 6.20% vs 8.9%
+NPM %: 5.30% vs 6.5%
+

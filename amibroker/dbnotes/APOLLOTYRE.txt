@@ -1,0 +1,35 @@
+CODES
+500877	APOLLOTYRE	
+SECTOR : Tyres
+INDUSTRY : Tyres
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  | 17397.0  | 20947.6  | 24568.1  | 25377.7  | 26123.4 
+ SQoQ%:  |   6.4    |   20.4   |   17.3   |   3.3    |   2.9   
+ YOPM%:  |   16.2   |   12.4   |   13.6   |   17.6   |   13.7  
+ YNPM%:  |   2.0    |   3.0    |   4.3    |   6.8    |   4.3   
+YPROFIT: |  350.2   |  638.6   |  1045.8  |  1721.9  |  1121.3 
+ PQoQ%:  |  -26.5   |   82.3   |   63.8   |   64.6   |  -34.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  6258.2  |  6334.8  |  6437.0  |  6928.0  |  6423.6 
+ QoQ%:  |   -5.1   |   1.2    |   1.6    |   7.6    |   -7.3  
+ QOPM%: |   16.4   |   14.4   |   13.6   |   13.7   |   13.0  
+ QNPM%: |   5.7    |   4.8    |   4.6    |   4.9    |   2.9   
+ QPFT:  |  354.1   |  302.0   |  297.5   |  337.2   |  184.6  
+ PQoQ%: |  -28.7   |  -14.7   |   -1.5   |   13.4   |  -45.3  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+Yearly 
+ 31-Mar-2025 #Result
+26123.40cr, QoQ 2.90% & YoY 50.16% SALES;
+3571.50cr, QoQ -20.10% & YoY 26.76% OPERATING PROFIT;
+1121.30cr, QoQ -34.90% & YoY 220.19% NET PROFIT;
+OPM %: 13.70% vs 17.6%
+NPM %: 4.30% vs 6.8%
+

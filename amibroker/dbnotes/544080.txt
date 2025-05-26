@@ -1,0 +1,31 @@
+CODE	NAME
+544080 
+
+SECTOR : Hotels & Restaurants
+INDUSTRY : Hotels
+EXPANSION 2023
+BestQ Dec 2024
+YSD YPD 2023
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+
+
+***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 85% of YProfit
+- YProfits and YSales DOUBLED in Mar2023
+
+
+Yearly 
+ 31-Mar-2024 #Result
+96.10cr, QoQ -3.20% SALES;
+19.50cr, QoQ -15.40% OPERATING PROFIT;
+7.20cr, QoQ -31.00% NET PROFIT;
+OPM %: 20.30% vs 23.2%
+NPM %: 7.50% vs 10.5%
+

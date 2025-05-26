@@ -1,0 +1,28 @@
+CODES
+543260	STOVEKRAFT	
+SECTOR : Consumer Durables
+INDUSTRY : Domestic Appliances
+PRODUCT DEMAND
+LYPD PM 2021
+
+***CONS***
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2021
+
+YSALES in Mar-2021 is at 859.0 showing a QoQ_growth of 28.2%. The YNETPROFIT grew by 2477.5% to 81.4
+
+Yearly 
+ 31-Mar-2021 #Result
+859.00cr, QoQ 28.20% & YoY 74.06% SALES;
+113.40cr, QoQ 235.70% & YoY 2262.50% OPERATING PROFIT;
+81.40cr, QoQ 2477.50% & YoY -523.96% NET PROFIT;
+OPM %: 13.20% vs 5.0%
+NPM %: 9.50% vs 0.5%
+

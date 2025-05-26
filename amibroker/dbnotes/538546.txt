@@ -1,0 +1,42 @@
+CODE	NAME
+538546 
+
+SECTOR : Steel
+INDUSTRY : Steel - Medium / Small
+PRODUCT DEMAND
+BestQ Dec 2024
+BestQ Dec 2024
+
+***CONS***
+  YPNL   |  :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+------+----------+----------+----------+----------+----------+--------------
+YSALES:  | 41.0 |   41.5   |   72.6   |   93.2   |  105.6   |   67.1   |              
+ SQoQ%:  | -7.0 |   1.1    |   74.9   |   28.5   |   13.2   |   63.5   |              
+ YOPM%:  | 8.0  |   7.9    |   7.9    |   7.4    |   6.1    |          |              
+ YNPM%:  | 5.5  |   5.4    |   5.4    |   4.5    |   3.4    |          |              
+YPROFIT: | 2.2  |   2.2    |   3.9    |   4.2    |   3.6    |   3.7    |              
+ PQoQ%:  | 9.8  |   0.4    |   75.1   |   5.8    |  -14.9   |  102.8   |              
+  QPNL  |  :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+------+----------+----------+----------+----------+---------
+QSALES: | 25.7 |   24.1   |   24.0   |   16.7   |   26.4   |         
+ QoQ%:  | -4.7 |   -6.2   |   -0.2   |  -30.6   |   58.5   |         
+ QOPM%: | 5.8  |   6.4    |   6.4    |   7.4    |   13.1   |         
+ QNPM%: | 3.0  |   3.3    |   3.7    |   3.2    |   8.5    |         
+ QPFT:  | 0.8  |   0.8    |   0.9    |   0.5    |   2.3    |         
+ PQoQ%: | -7.2 |   2.6    |   12.7   |  -40.4   |  326.4   |         
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 64% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 103% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+105.60cr, QoQ 13.20% & YoY 157.56% SALES;
+6.50cr, QoQ -6.50% & YoY 96.97% OPERATING PROFIT;
+3.60cr, QoQ -14.90% & YoY 63.64% NET PROFIT;
+OPM %: 6.10% vs 7.4%
+NPM %: 3.40% vs 4.5%
+

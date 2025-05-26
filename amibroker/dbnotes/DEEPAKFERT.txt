@@ -1,0 +1,37 @@
+CODES
+500645	DEEPAKFERT	
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  5808.5  |  7663.3  | 11319.1  |  8696.7  | 10274.4 
+ SQoQ%:  |   24.0   |   31.9   |   47.7   |  -23.2   |   18.1  
+ YOPM%:  |   16.5   |   17.7   |   19.3   |   15.0   |   18.7  
+ YNPM%:  |   6.9    |   8.9    |   10.7   |   5.1    |   9.1   
+YPROFIT: |  400.3   |  678.3   |  1210.1  |  442.5   |  933.6  
+ PQoQ%:  |  358.8   |   69.4   |   78.4   |  -63.4   |  111.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  2086.3  |  2281.3  |  2746.7  |  2579.0  |  2667.4 
+ QoQ%:  |   12.6   |   9.3    |   20.4   |   -6.1   |   3.4   
+ QOPM%: |   21.0   |   20.4   |   18.0   |   18.8   |   18.0  
+ QNPM%: |   10.8   |   8.6    |   7.6    |   9.7    |   10.4  
+ QPFT:  |  225.1   |  195.6   |  210.1   |  250.7   |  277.2  
+ PQoQ%: |  291.1   |  -13.1   |   7.4    |   19.3   |   10.6  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+YSALES in Mar-2025 is at 10274.4 showing a QoQ_growth of 18.1%. The YNETPROFIT grew by 111.0% to 933.6
+
+Yearly 
+ 31-Mar-2025 #Result
+10274.40cr, QoQ 18.10% & YoY 76.89% SALES;
+1924.70cr, QoQ 47.20% & YoY 100.30% OPERATING PROFIT;
+933.60cr, QoQ 111.00% & YoY 133.23% NET PROFIT;
+OPM %: 18.70% vs 15.0%
+NPM %: 9.10% vs 5.1%
+

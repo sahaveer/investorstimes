@@ -1,0 +1,41 @@
+CODE	NAME
+531977 
+
+SECTOR : Logistics
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  143.4   |  131.5   |  127.5   |   84.9   |   71.6   |      58.5    
+ SQoQ%:  |   1.7    |   -8.3   |   -3.0   |  -33.4   |  -15.6   |      81.7    
+ YOPM%:  |   5.9    |   4.2    |   4.9    |   4.7    |   5.6    |              
+ YNPM%:  |   0.4    |   0.0    |   0.4    |   0.2    |   0.9    |              
+YPROFIT: |   0.5    |   -2.4   |   0.6    |   0.2    |   0.7    |      2.3     
+ PQoQ%:  |  -76.5   |  -564.7  |  -123.2  |  -70.9   |  318.8   |     328.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   16.2   |   20.0   |   22.1   |   16.2   |   20.2  
+ QoQ%:  |   -1.3   |   23.4   |   10.1   |  -26.8   |   25.2  
+ QOPM%: |   1.8    |   8.9    |   9.7    |   5.6    |   7.4   
+ QNPM%: |   0.0    |   9.5    |   5.9    |   1.9    |   3.7   
+ QPFT:  |   -0.9   |   1.9    |   1.3    |   0.3    |   0.7   
+ PQoQ%: |  1075.0  |  -303.2  |  -31.9   |  -76.2   |  138.7  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 329% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2024 #Result
+71.60cr, QoQ -15.60% & YoY -50.07% SALES;
+4.00cr, QoQ 1.80% & YoY -52.94% OPERATING PROFIT;
+0.70cr, QoQ 318.80% & YoY 40.00% NET PROFIT;
+OPM %: 5.60% vs 4.7%
+NPM %: 0.90% vs 0.2%
+

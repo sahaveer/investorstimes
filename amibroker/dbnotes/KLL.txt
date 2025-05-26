@@ -1,0 +1,23 @@
+CODES
+KLL	
+SECTOR : E-Commerce/App based Aggregator
+INDUSTRY : Trading
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2024, Sales have increased by 134.7% while the Profit QoQ_growth is at 28.9%
+
+Yearly 
+ 31-Mar-2024 #Result
+1466.00cr, QoQ 134.70% & YoY 5604.28% SALES;
+7.10cr, QoQ 12.60% & YoY 115.15% OPERATING PROFIT;
+9.10cr, QoQ 28.90% & YoY 405.56% NET PROFIT;
+OPM %: 0.50% vs 1.0%
+NPM %: 0.60% vs 1.1%
+

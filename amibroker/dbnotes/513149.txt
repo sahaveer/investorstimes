@@ -1,0 +1,27 @@
+CODE	NAME
+513149 
+
+SECTOR : Diversified
+INDUSTRY : Diversified - Medium / Small
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   -0.1   |   0.0    |   0.0    |   0.0    |   0.0    |      0.0     
+ SQoQ%:  |   -inf   |  -100.0  |   nan    |   nan    |   nan    |      nan     
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
+ YNPM%:  |   0.0    |   0.0    |   inf    |   inf    |   inf    |              
+YPROFIT: |   -0.3   |   -0.1   |   0.9    |   0.0    |   1.0    |      -0.7    
+ PQoQ%:  |  -242.9  |  -53.3   |  -714.3  |  -97.7   |  5000.0  |     -70.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |   inf    |   inf    |   inf    |   0.0    |   inf   
+ QPFT:  |   0.4    |   0.2    |   0.1    |   -1.2   |   0.4   
+ PQoQ%: |  100.0   |  -47.2   |  -26.3   |  -921.4  |  -135.7 
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+

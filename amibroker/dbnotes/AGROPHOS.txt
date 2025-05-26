@@ -1,0 +1,13 @@
+CODES
+AGROPHOS	
+SECTOR : Fertilizers
+INDUSTRY : Fertilizers
+
+***CONS***
+- NEGATIVE YProfit : -5.3
+
+
+
+
+
+***PROS***

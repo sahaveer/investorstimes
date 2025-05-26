@@ -1,0 +1,39 @@
+CODE	NAME
+533202 
+
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+LYPD PM 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  124.8   |   94.3   |   99.8   |   44.0   |   11.8  
+ SQoQ%:  |  199.7   |  -24.5   |   5.9    |  -55.9   |  -73.1  
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   35.9   |  155.5  
+YPROFIT: |  -205.1  |  -65.3   |  -74.7   |   15.8   |   18.4  
+ PQoQ%:  |  -71.5   |  -68.2   |   14.4   |  -121.1  |   16.3  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   6.4    |   1.8    |   6.0    |   3.8    |   0.2   
+ QoQ%:  |   2.4    |  -71.2   |  228.4   |  -36.8   |  -95.3  
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |  184.4   |  1603.8  |   0.0    |   0.0    |   0.0   
+ QPFT:  |   11.7   |   29.4   |   -0.6   |   -1.9   |   -8.4  
+ PQoQ%: |  -145.6  |  150.6   |  -102.2  |  198.5   |  332.0  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+Yearly 
+ 31-Mar-2025 #Result
+11.80cr, QoQ -73.10% & YoY -90.54% SALES;
+-17.10cr, QoQ -76.80% & YoY -93.87% OPERATING PROFIT;
+18.40cr, QoQ 16.30% & YoY -108.97% NET PROFIT;
+OPM %: 0.00% vs 0.0%
+NPM %: 155.50% vs 35.9%
+

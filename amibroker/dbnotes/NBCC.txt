@@ -1,0 +1,41 @@
+CODES
+534309	NBCC	
+SECTOR : Infrastructure Developers & Operators
+INDUSTRY : Miscellaneous
+BestQ Dec 2024
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  8087.1  |  6953.4  |  7690.6  |  8876.4  | 10432.6  |     7429.9   
+ SQoQ%:  |  -18.7   |  -14.0   |   10.6   |   15.4   |   17.5   |      71.2    
+ YOPM%:  |   1.3    |   1.9    |   2.7    |   3.9    |   5.0    |              
+ YNPM%:  |   1.0    |   3.2    |   2.9    |   3.0    |   3.8    |              
+YPROFIT: |   78.2   |  225.7   |  224.3   |  266.7   |  401.6   |     365.2    
+ PQoQ%:  |  -79.1   |  188.5   |   -0.6   |   18.9   |   50.6   |      90.9    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  2423.5  |  4024.5  |  2144.2  |  2458.7  |  2827.0 
+ QoQ%:  |   17.7   |   66.1   |  -46.7   |   14.7   |   15.0  
+ QOPM%: |   4.8    |   6.0    |   4.3    |   4.1    |   5.0   
+ QNPM%: |   4.6    |   3.4    |   4.9    |   5.0    |   4.9   
+ QPFT:  |  110.7   |  136.1   |  104.6   |  122.1   |  138.5  
+ PQoQ%: |   39.1   |   22.9   |  -23.1   |   16.7   |   13.4  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  have increased this year
+- Last 3QSALES is about 71% YSales
+- Last 3QPROFIT is about 91% of YProfit
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 17.5% while the Profit QoQ_growth is much better than Sales itself at 50.6%
+
+Yearly 
+ 31-Mar-2024 #Result
+10432.60cr, QoQ 17.50% & YoY 29.00% SALES;
+516.90cr, QoQ 50.00% & YoY 390.88% OPERATING PROFIT;
+401.60cr, QoQ 50.60% & YoY 413.55% NET PROFIT;
+OPM %: 5.00% vs 3.9%
+NPM %: 3.80% vs 3.0%
+

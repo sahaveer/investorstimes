@@ -1,0 +1,39 @@
+CODE	NAME
+504080 
+
+SECTOR : Capital Goods - Electrical Equipment
+INDUSTRY : Electric Equipment
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   48.4   |   49.1   |   54.9   |   48.5   |   50.7   |      40.1    
+ SQoQ%:  |  -11.6   |   1.4    |   11.8   |  -11.7   |   4.6    |      79.1    
+ YOPM%:  |   5.3    |   9.5    |   7.9    |   9.8    |   8.8    |              
+ YNPM%:  |   0.6    |   4.9    |   5.0    |   7.1    |   12.1   |              
+YPROFIT: |   0.3    |   2.4    |   2.8    |   3.4    |   6.2    |      6.6     
+ PQoQ%:  |   -3.1   |  674.2   |   15.0   |   24.6   |   79.1   |     106.5    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   14.4   |   12.6   |   13.9   |   12.2   |   14.0  
+ QoQ%:  |   22.8   |  -12.4   |   9.7    |  -11.7   |   14.2  
+ QOPM%: |   9.7    |   8.9    |   3.7    |   8.6    |   12.2  
+ QNPM%: |   0.0    |   13.0   |   29.2   |   13.1   |   7.1   
+ QPFT:  |   -0.3   |   1.6    |   4.0    |   1.6    |   1.0   
+ PQoQ%: |  -110.2  |  -669.0  |  145.5   |  -60.5   |  -38.1  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 106% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+50.70cr, QoQ 4.60% & YoY 4.75% SALES;
+4.50cr, QoQ -6.70% & YoY 73.08% OPERATING PROFIT;
+6.20cr, QoQ 79.10% & YoY 1966.67% NET PROFIT;
+OPM %: 8.80% vs 9.8%
+NPM %: 12.10% vs 7.1%
+

@@ -1,0 +1,37 @@
+CODES
+531761	APOLLOPIPE	
+SECTOR : Plastic products
+INDUSTRY : Plastics Products
+PRODUCT DEMAND
+YSD YPD 2024
+
+***CONS***
+ YPNL:   | Mar-2015 | Mar-2016 | Mar-2017 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  100.1   |  233.2   |  268.1   |  987.0   |  1181.6 
+ SQoQ%:  |   nan    |  133.0   |   14.9   |  268.2   |   19.7  
+ YOPM%:  |   8.1    |   10.4   |   12.0   |   9.8    |   8.1   
+ YNPM%:  |   5.8    |   2.1    |   3.0    |   4.3    |   2.8   
+YPROFIT: |   5.8    |   5.0    |   7.9    |   42.8   |   32.6  
+ PQoQ%:  |   nan    |  -13.8   |   57.9   |  441.3   |  -23.8  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  255.6   |  308.5   |  250.4   |  307.9   |  314.8  
+ QoQ%:  |  207.4   |   20.7   |  -18.8   |   23.0   |   2.2   
+ QOPM%: |   9.9    |   9.4    |   7.8    |   7.6    |   7.6   
+ QNPM%: |   2.6    |   4.0    |   1.7    |   2.0    |   3.1   
+ QPFT:  |   6.7    |   12.5   |   4.2    |   6.2    |   9.8   
+ PQoQ%: |  112.0   |   85.9   |  -66.5   |   48.6   |   57.5  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2024
+
+Yearly 
+ 31-Mar-2025 #Result
+1181.60cr, QoQ 19.70% & YoY 1080.42% SALES;
+95.70cr, QoQ -0.90% & YoY 1081.48% OPERATING PROFIT;
+32.60cr, QoQ -23.80% & YoY 462.07% NET PROFIT;
+OPM %: 8.10% vs 9.8%
+NPM %: 2.80% vs 4.3%
+

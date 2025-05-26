@@ -1,0 +1,21 @@
+CODES
+IPHL	
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2024 #Result
+702.00cr, QoQ -8.20% & YoY 85.27% SALES;
+23.00cr, QoQ -8.40% & YoY 350.98% OPERATING PROFIT;
+13.50cr, QoQ -18.90% & YoY 575.00% NET PROFIT;
+OPM %: 3.30% vs 3.3%
+NPM %: 1.90% vs 2.2%
+

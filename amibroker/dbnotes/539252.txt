@@ -1,0 +1,38 @@
+CODES
+539252	SHYAMCENT	
+SECTOR : Ferro Alloys
+INDUSTRY : Mining / Minerals / Metals
+BestQ Dec 2020
+
+***CONS***
+ YPNL:   | Mar-2016 | Mar-2017 | Mar-2018 | Mar-2019 | Mar-2020 | QSUM:Dec-2020
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  113.6   |   91.1   |  123.6   |  133.3   |   87.2   |      87.9    
+ SQoQ%:  |   -2.0   |  -19.8   |   35.7   |   7.8    |  -34.6   |     100.8    
+ YOPM%:  |   6.6    |   12.3   |   15.2   |   13.3   |   0.8    |              
+ YNPM%:  |   5.6    |   12.7   |   12.9   |   12.5   |   2.0    |              
+YPROFIT: |   6.4    |   11.6   |   16.0   |   16.7   |   1.7    |      9.5     
+ PQoQ%:  |  -20.3   |   82.1   |   38.0   |   4.3    |  -89.7   |     558.8    
+ QPNL:  | Dec-2019 | Mar-2020 | Jun-2020 | Sep-2020 | Dec-2020
+--------+----------+----------+----------+----------+---------
+QSALES: |   15.9   |   33.4   |   17.6   |   34.7   |   35.6  
+ QoQ%:  |  -35.8   |  110.6   |  -47.4   |   96.9   |   2.8   
+ QOPM%: |   0.0    |   17.6   |   18.5   |   6.7    |   7.7   
+ QNPM%: |   0.0    |   15.6   |   18.7   |   7.5    |   10.1  
+ QPFT:  |   -0.7   |   5.2    |   3.3    |   2.6    |   3.6   
+ PQoQ%: |  -37.7   |  -889.4  |  -36.9   |  -21.3   |   39.4  
+
+***PROS***
+A DEBT-Free Company for the last 2 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 101% YSales
+- Last 3QPROFIT is about 559% of YProfit
+
+Yearly 
+ 31-Mar-2020 #Result
+87.20cr, QoQ -34.60% & YoY -23.24% SALES;
+0.70cr, QoQ -96.10% & YoY -90.67% OPERATING PROFIT;
+1.70cr, QoQ -89.70% & YoY -73.44% NET PROFIT;
+OPM %: 0.80% vs 13.3%
+NPM %: 2.00% vs 12.5%
+

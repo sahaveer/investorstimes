@@ -1,0 +1,18 @@
+CODES
+506852	PRIMO	
+SECTOR : Chemicals
+INDUSTRY : Chlor Alkali / Soda Ash
+EXPANSION 2023
+
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -25.3
+
+
+
+
+
+***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
+- Last 3QSALES is about 102% YSales
+

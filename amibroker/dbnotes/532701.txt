@@ -1,0 +1,40 @@
+CODE	NAME
+532701 
+
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+BestQ Dec 2023
+LYPD PM 2023
+
+***CONS***
+ YPNL:   | Mar-2019 | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | QSUM:Dec-2023
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.0    |   2.7    |   3.3    |   5.3    |   7.4    |      5.6     
+ SQoQ%:  |  -100.0  |   inf    |   21.9   |   62.8   |   38.8   |      75.7    
+ YOPM%:  |   0.0    |   8.2    |   58.2   |   68.2   |   67.1   |              
+ YNPM%:  |   inf    |   30.1   |   11.0   |   19.3   |   15.2   |              
+YPROFIT: |   1.9    |   0.8    |   0.4    |   1.0    |   1.1    |      0.6     
+ PQoQ%:  |  -124.7  |  -57.4   |  -55.6   |  186.1   |   9.7    |      54.5    
+ QPNL:  | Dec-2022 | Mar-2023 | Jun-2023 | Sep-2023 | Dec-2023
+--------+----------+----------+----------+----------+---------
+QSALES: |   1.7    |   2.0    |   1.8    |   1.9    |   1.9   
+ QoQ%:  |   -1.1   |   15.5   |   -8.0   |   1.6    |   2.1   
+ QOPM%: |   69.0   |   58.7   |   76.8   |   73.4   |   74.5  
+ QNPM%: |   16.7   |   12.9   |   11.9   |   10.1   |   9.9   
+ QPFT:  |   0.3    |   0.3    |   0.2    |   0.2    |   0.2   
+ PQoQ%: |   26.1   |  -10.3   |  -15.4   |  -13.6   |   0.0   
+
+***PROS***
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 55% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2023
+- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since.
+
+Yearly 
+ 31-Mar-2023 #Result
+7.40cr, QoQ 38.80% & YoY inf% SALES;
+5.00cr, QoQ 36.50% & YoY -202.04% OPERATING PROFIT;
+1.10cr, QoQ 9.70% & YoY -42.11% NET PROFIT;
+OPM %: 67.10% vs 68.2%
+NPM %: 15.20% vs 19.3%
+

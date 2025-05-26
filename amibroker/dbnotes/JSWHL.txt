@@ -1,0 +1,42 @@
+CODES
+532642	JSWHL	
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+BestQ Dec 2024
+YSD YPD 2023
+YSD YPD 2022
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  121.0   |   92.8   |  186.1   |  406.8   |  169.6   |     218.6    
+ SQoQ%:  |   12.8   |  -23.3   |  100.6   |  118.5   |  -58.3   |     128.9    
+ YOPM%:  |   95.4   |   94.6   |   96.9   |   98.6   |   92.9   |              
+ YNPM%:  |   88.0   |   81.0   |   81.5   |   81.5   |   91.7   |              
+YPROFIT: |  106.4   |   75.2   |  151.6   |  331.5   |  155.6   |     186.1    
+ PQoQ%:  |   6.4    |  -29.3   |  101.6   |  118.6   |  -53.1   |     119.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   27.3   |   27.0   |   27.2   |  162.2   |   29.2  
+ QoQ%:  |  -69.4   |   -1.1   |   0.9    |  495.6   |  -82.0  
+ QOPM%: |   90.1   |   87.4   |   88.2   |   97.7   |   88.8  
+ QNPM%: |  127.2   |  123.3   |  193.1   |   73.8   |   47.5  
+ QPFT:  |   34.7   |   33.3   |   52.6   |  119.6   |   13.9  
+ PQoQ%: |  -45.1   |   -4.1   |   57.9   |  127.5   |  -88.4  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- Last 3QSALES is about 129% YSales
+- Last 3QPROFIT is about 120% of YProfit
+- YProfits and YSales DOUBLED in Mar2023
+- YProfits and YSales DOUBLED in Mar2022
+
+
+Yearly 
+ 31-Mar-2024 #Result
+169.60cr, QoQ -58.30% & YoY 40.17% SALES;
+157.50cr, QoQ -60.70% & YoY 36.36% OPERATING PROFIT;
+155.60cr, QoQ -53.10% & YoY 46.24% NET PROFIT;
+OPM %: 92.90% vs 98.6%
+NPM %: 91.70% vs 81.5%
+

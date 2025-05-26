@@ -1,0 +1,40 @@
+CODES
+543318	CLEAN	
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  419.3   |  512.4   |  684.9   |  935.8   |  791.5   |     702.9    
+ SQoQ%:  |   6.6    |   22.2   |   33.7   |   36.6   |  -15.4   |      88.8    
+ YOPM%:  |   44.3   |   50.6   |   43.8   |   43.0   |   42.0   |              
+ YNPM%:  |   33.3   |   38.7   |   33.4   |   31.5   |   30.8   |              
+YPROFIT: |  139.6   |  198.4   |  228.5   |  295.2   |  244.0   |     190.3    
+ PQoQ%:  |   43.0   |   42.1   |   15.2   |   29.2   |  -17.3   |      78.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  194.7   |  227.5   |  224.0   |  238.1   |  240.8  
+ QoQ%:  |   7.5    |   16.8   |   -1.5   |   6.3    |   1.1   
+ QOPM%: |   44.5   |   41.5   |   42.3   |   37.7   |   40.9  
+ QNPM%: |   32.2   |   30.9   |   29.4   |   24.7   |   27.3  
+ QPFT:  |   62.6   |   70.3   |   65.9   |   58.8   |   65.6  
+ PQoQ%: |   20.0   |   12.2   |   -6.2   |  -10.9   |   11.7  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 25.2%
+- Last 3QSALES is about 89% YSales
+- Last 3QPROFIT is about 78% of YProfit
+
+
+Yearly 
+ 31-Mar-2024 #Result
+791.50cr, QoQ -15.40% & YoY 88.77% SALES;
+332.40cr, QoQ -17.40% & YoY 79.09% OPERATING PROFIT;
+244.00cr, QoQ -17.30% & YoY 74.79% NET PROFIT;
+OPM %: 42.00% vs 43.0%
+NPM %: 30.80% vs 31.5%
+

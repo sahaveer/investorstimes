@@ -1,0 +1,41 @@
+CODE	NAME
+504605 
+
+SECTOR : Castings, Forgings & Fastners
+INDUSTRY : Castings & Forgings
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  102.4   |  104.7   |  136.7   |  163.0   |  180.0   |     132.7    
+ SQoQ%:  |   14.0   |   2.2    |   30.5   |   19.3   |   10.4   |      73.7    
+ YOPM%:  |   18.7   |   19.8   |   15.5   |   17.2   |   27.4   |              
+ YNPM%:  |   5.2    |   10.2   |   9.0    |   11.4   |   19.7   |              
+YPROFIT: |   5.4    |   10.7   |   12.3   |   18.5   |   35.5   |      21.0    
+ PQoQ%:  |  -43.0   |   99.4   |   15.1   |   50.7   |   91.4   |      59.2    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   45.1   |   33.6   |   44.0   |   46.6   |   42.1  
+ QoQ%:  |  -18.6   |  -25.4   |   30.9   |   6.0    |   -9.7  
+ QOPM%: |   31.7   |   14.1   |   22.0   |   22.0   |   19.4  
+ QNPM%: |   23.2   |   10.2   |   16.5   |   18.0   |   12.6  
+ QPFT:  |   10.5   |   3.4    |   7.3    |   8.4    |   5.3   
+ PQoQ%: |  -19.4   |  -67.1   |  111.0   |   15.6   |  -36.9  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 30.7%
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 59% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+180.00cr, QoQ 10.40% & YoY 75.78% SALES;
+49.20cr, QoQ 75.40% & YoY 156.25% OPERATING PROFIT;
+35.50cr, QoQ 91.40% & YoY 557.41% NET PROFIT;
+OPM %: 27.40% vs 17.2%
+NPM %: 19.70% vs 11.4%
+

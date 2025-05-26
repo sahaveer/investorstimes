@@ -1,0 +1,41 @@
+CODES
+532974	BIRLAMONEY	
+SECTOR : Stock/ Commodity Brokers
+INDUSTRY : Finance & Investments
+PRODUCT DEMAND
+LYPD PM 2018
+
+***CONS***
+ YPNL:   | Mar-2014 | Mar-2015 | Mar-2016 | Mar-2017 | Mar-2018 | QSUM:Sep-2018
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   80.4   |  126.2   |  126.6   |  132.9   |  164.4   |      85.2    
+ SQoQ%:  |  -14.0   |   57.0   |   0.3    |   4.9    |   23.7   |      51.8    
+ YOPM%:  |   0.0    |   11.4   |   11.3   |   13.1   |   14.6   |              
+ YNPM%:  |   0.0    |   4.7    |   2.6    |   5.5    |   6.1    |              
+YPROFIT: |  -11.7   |   5.9    |   3.3    |   7.3    |   10.1   |      4.4     
+ PQoQ%:  |  -23.3   |  -150.3  |  -43.6   |  118.6   |   38.3   |      43.6    
+ QPNL:  | Sep-2017 | Dec-2017 | Mar-2018 | Jun-2018 | Sep-2018
+--------+----------+----------+----------+----------+---------
+QSALES: |   39.3   |   43.1   |   43.8   |   42.1   |   43.1  
+ QoQ%:  |   9.4    |   9.9    |   1.6    |   -3.8   |   2.3   
+ QOPM%: |   12.0   |   14.1   |   16.5   |   19.2   |   24.4  
+ QNPM%: |   3.7    |   6.6    |   5.2    |   4.8    |   5.5   
+ QPFT:  |   1.4    |   2.8    |   2.3    |   2.0    |   2.4   
+ PQoQ%: |   13.3   |   96.6   |  -19.6   |  -11.8   |   16.8  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- Last 2QSALES is about 52% YSales
+- LastYr YProfits Doubled and maintained in Mar2018
+
+YSALES in Mar-2018 is at 164.4 showing a QoQ_growth of 23.7%. The YNETPROFIT grew by 38.3% to 10.1
+
+Yearly 
+ 31-Mar-2018 #Result
+164.40cr, QoQ 23.70% & YoY 104.48% SALES;
+24.00cr, QoQ 37.70% & YoY -988.89% OPERATING PROFIT;
+10.10cr, QoQ 38.30% & YoY -186.32% NET PROFIT;
+OPM %: 14.60% vs 13.1%
+NPM %: 6.10% vs 5.5%
+

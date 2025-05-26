@@ -1,0 +1,21 @@
+CODES
+MDL	
+SECTOR : Textiles
+INDUSTRY : Textiles - Products
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2024 #Result
+28.80cr, QoQ 4.40% & YoY 0.70% SALES;
+3.50cr, QoQ 103.40% & YoY -25.53% OPERATING PROFIT;
+1.10cr, QoQ 0.90% & YoY -56.00% NET PROFIT;
+OPM %: 12.30% vs 6.3%
+NPM %: 3.90% vs 4.0%
+

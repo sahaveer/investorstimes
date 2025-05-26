@@ -1,0 +1,32 @@
+CODE	NAME
+531043 
+
+SECTOR : Healthcare
+INDUSTRY : Healthcare
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   18.2   |   9.8    |   16.8   |   17.7   |   20.5   |      16.8    
+ SQoQ%:  |   8.1    |  -46.3   |   71.5   |   5.4    |   15.7   |      82.0    
+ YOPM%:  |   3.6    |   0.0    |   8.9    |   3.3    |   4.1    |              
+ YNPM%:  |   0.0    |   0.0    |   2.9    |   0.0    |   0.8    |              
+YPROFIT: |   -0.3   |   -1.4   |   0.5    |   -0.2   |   0.2    |      0.6     
+ PQoQ%:  |  -620.0  |  446.2   |  -134.5  |  -144.9  |  -177.3  |     300.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   5.2    |   5.4    |   5.7    |   5.4    |   5.7   
+ QoQ%:  |   5.1    |   5.6    |   4.8    |   -4.9   |   5.2   
+ QOPM%: |   9.1    |   0.2    |   4.4    |   4.4    |   3.3   
+ QNPM%: |   7.0    |   0.0    |   2.8    |   3.1    |   2.6   
+ QPFT:  |   0.4    |   -0.1   |   0.2    |   0.2    |   0.2   
+ PQoQ%: |  -340.0  |  -125.0  |  -277.8  |   6.2    |  -11.8  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 300% of YProfit
+- YProfit Turned POSITIVE this year Mar-2024 : 0.2

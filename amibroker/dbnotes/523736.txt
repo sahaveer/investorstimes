@@ -1,0 +1,40 @@
+CODES
+523736	DVL	
+SECTOR : Trading
+INDUSTRY : Trading
+EXPANSION 2023
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   69.9   |  181.8   |  272.5   |  231.9   |  403.5   |     436.0    
+ SQoQ%:  |  -90.8   |  160.2   |   49.8   |  -14.9   |   74.0   |     108.1    
+ YOPM%:  |   0.0    |   61.0   |   26.2   |   0.0    |   13.3   |              
+ YNPM%:  |   0.0    |  127.7   |  131.8   |  233.9   |   37.9   |              
+YPROFIT: |  -54.7   |  232.3   |  359.1   |  542.5   |  153.1   |     231.2    
+ PQoQ%:  |  -266.3  |  -524.4  |   54.6   |   51.1   |  -71.8   |     151.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   56.8   |  263.5   |  161.3   |  148.3   |  126.4  
+ QoQ%:  |   32.4   |  364.2   |  -38.8   |   -8.0   |  -14.8  
+ QOPM%: |   22.3   |   3.4    |   25.4   |   31.7   |   28.1  
+ QNPM%: |   21.9   |   9.2    |   43.4   |   45.7   |   73.9  
+ QPFT:  |   12.4   |   24.3   |   70.0   |   67.8   |   93.4  
+ PQoQ%: |  -83.6   |   96.1   |  187.5   |   -3.2   |   37.9  
+
+***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
+- Last 3QSALES is about 108% YSales
+- Last 3QPROFIT is about 151% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+
+Yearly 
+ 31-Mar-2024 #Result
+403.50cr, QoQ 74.00% & YoY 477.25% SALES;
+53.70cr, QoQ -19996.30% & YoY -168.41% OPERATING PROFIT;
+153.10cr, QoQ -71.80% & YoY -379.89% NET PROFIT;
+OPM %: 13.30% vs 0.0%
+NPM %: 37.90% vs 233.9%
+

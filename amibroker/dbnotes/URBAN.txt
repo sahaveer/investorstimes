@@ -1,0 +1,26 @@
+CODES
+URBAN	
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+YSD YPD 2024
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2024
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 161.7% while the Profit QoQ_growth is much better than Sales itself at 226.4%
+
+Yearly 
+ 31-Mar-2024 #Result
+102.50cr, QoQ 161.70% & YoY 713.49% SALES;
+18.40cr, QoQ 135.30% & YoY 1050.00% OPERATING PROFIT;
+7.00cr, QoQ 226.40% & YoY 775.00% NET PROFIT;
+OPM %: 18.00% vs 20.0%
+NPM %: 6.90% vs 5.5%
+

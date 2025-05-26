@@ -1,0 +1,40 @@
+CODES
+524332	BCLIND	
+SECTOR : Alcoholic Beverages
+INDUSTRY : Breweries & Distilleries
+EXPANSION 2023
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  913.4   |  1427.2  |  1987.7  |  1818.3  |  2129.2  |     2092.4   
+ SQoQ%:  |   2.6    |   56.3   |   39.3   |   -8.5   |   17.1   |      98.3    
+ YOPM%:  |   6.1    |   4.8    |   6.9    |   6.8    |   9.0    |              
+ YNPM%:  |   2.8    |   3.0    |   4.3    |   3.6    |   4.2    |              
+YPROFIT: |   25.9   |   42.2   |   84.8   |   66.3   |   90.3   |      69.4    
+ PQoQ%:  |  -37.3   |   62.8   |  101.1   |  -21.9   |   36.2   |      76.9    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  622.2   |  597.6   |  635.7   |  721.3   |  735.4  
+ QoQ%:  |   29.4   |   -3.9   |   6.4    |   13.5   |   2.0   
+ QOPM%: |   8.8    |   8.4    |   8.5    |   7.6    |   6.3   
+ QNPM%: |   4.9    |   3.9    |   3.6    |   3.8    |   2.6   
+ QPFT:  |   30.6   |   23.1   |   22.6   |   27.6   |   19.2  
+ PQoQ%: |   70.5   |  -24.6   |   -2.1   |   22.2   |  -30.6  
+
+***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
+- Last 3QSALES is about 98% YSales
+- Last 3QPROFIT is about 77% of YProfit
+
+YSALES in Mar-2024 is at 2129.2 showing a QoQ_growth of 17.1%. The YNETPROFIT grew by 36.2% to 90.3
+
+Yearly 
+ 31-Mar-2024 #Result
+2129.20cr, QoQ 17.10% & YoY 133.11% SALES;
+191.40cr, QoQ 54.90% & YoY 241.79% OPERATING PROFIT;
+90.30cr, QoQ 36.20% & YoY 248.65% NET PROFIT;
+OPM %: 9.00% vs 6.8%
+NPM %: 4.20% vs 3.6%
+

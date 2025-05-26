@@ -1,0 +1,13 @@
+CODES
+523694	APCOTEXIND	
+SECTOR : Chemicals
+INDUSTRY : Miscellaneous
+
+***CONS***
+
+
+
+
+
+***PROS***
+- Last 2QSALES is about 68% YSales

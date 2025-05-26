@@ -1,0 +1,17 @@
+CODE	NAME
+506919 
+
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Formulations
+PRODUCT DEMAND
+
+***CONS***
+- NEGATIVE YProfit : -6.3
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 84% YSales

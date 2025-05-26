@@ -1,0 +1,44 @@
+CODES
+532365	DSSL	
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Medium / Small
+BestQ Dec 2024
+LYPD PM 2024
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  328.8   |  435.9   |  654.0   |  804.5   |  1024.5  |     938.3    
+ SQoQ%:  |   5.8    |   32.6   |   50.0   |   23.0   |   27.3   |      91.6    
+ YOPM%:  |   4.4    |   4.3    |   4.7    |   6.8    |   7.6    |              
+ YNPM%:  |   1.7    |   2.0    |   2.5    |   4.2    |   5.3    |              
+YPROFIT: |   5.7    |   8.5    |   16.4   |   33.4   |   53.8   |      54.1    
+ PQoQ%:  |   10.4   |   49.6   |   92.4   |  103.6   |   60.9   |     100.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  226.9   |  282.2   |  321.0   |  306.3   |  311.0  
+ QoQ%:  |   3.2    |   24.4   |   13.8   |   -4.6   |   1.5   
+ QOPM%: |   8.4    |   6.9    |   7.7    |   8.3    |   9.3   
+ QNPM%: |   5.8    |   5.0    |   5.5    |   6.0    |   5.9   
+ QPFT:  |   13.2   |   14.1   |   17.6   |   18.2   |   18.3  
+ PQoQ%: |   4.6    |   7.2    |   24.9   |   3.6    |   0.5   
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 30.3%
+- Last 3QSALES is about 92% YSales
+- Last 3QPROFIT is about 101% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2024
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 27.3% while the Profit QoQ_growth is much better than Sales itself at 60.9%
+
+Yearly 
+ 31-Mar-2024 #Result
+1024.50cr, QoQ 27.30% & YoY 211.59% SALES;
+78.10cr, QoQ 42.80% & YoY 434.93% OPERATING PROFIT;
+53.80cr, QoQ 60.90% & YoY 843.86% NET PROFIT;
+OPM %: 7.60% vs 6.8%
+NPM %: 5.30% vs 4.2%
+

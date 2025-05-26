@@ -1,0 +1,37 @@
+CODES
+UNIINFO	
+SECTOR : Telecomm-Service
+INDUSTRY : Telecommunications - Service Provider
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   41.7   |   41.9   |   41.6   |   35.8   |   49.9   |      25.9    
+ SQoQ%:  |  -16.7   |   0.5    |   -0.8   |  -13.9   |   39.4   |      51.9    
+ YOPM%:  |   7.4    |   0.0    |   0.0    |   5.5    |   3.7    |              
+ YNPM%:  |   1.9    |   0.0    |   0.0    |   1.7    |   1.1    |              
+YPROFIT: |   0.8    |   -4.3   |   -2.8   |   0.6    |   0.5    |      -0.9    
+ PQoQ%:  |  -84.6   |  -638.7  |  -33.9   |  -121.4  |  -11.5   |     -180.0   
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   13.7   |   8.2    |   9.1    |   8.8    |   8.0   
+ QoQ%:  |   -9.7   |  -40.1   |   11.1   |   -3.1   |   -9.5  
+ QOPM%: |   2.9    |   0.0    |   0.0    |   0.8    |   1.5   
+ QNPM%: |   1.2    |   0.0    |   0.0    |   0.0    |   0.0   
+ QPFT:  |   0.2    |   -0.4   |   -0.5   |   -0.2   |   -0.2  
+ PQoQ%: |  -64.4   |  -325.0  |   30.6   |  -55.3   |   -4.8  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 52% YSales
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2024 #Result
+49.90cr, QoQ 39.40% & YoY 19.66% SALES;
+1.90cr, QoQ -5.60% & YoY -38.71% OPERATING PROFIT;
+0.50cr, QoQ -11.50% & YoY -37.50% NET PROFIT;
+OPM %: 3.70% vs 5.5%
+NPM %: 1.10% vs 1.7%
+

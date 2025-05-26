@@ -1,0 +1,36 @@
+CODES
+509480	BERGEPAINT	
+SECTOR : Paints/Varnish
+INDUSTRY : Paints / Varnishes
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  6817.6  |  8761.8  | 10567.8  | 11198.9  | 11544.7 
+ SQoQ%:  |   7.1    |   28.5   |   20.6   |   6.0    |   3.1   
+ YOPM%:  |   17.3   |   15.2   |   14.0   |   16.6   |   16.1  
+ YNPM%:  |   10.6   |   9.5    |   8.1    |   10.4   |   10.2  
+YPROFIT: |  719.8   |  832.8   |  859.4   |  1167.7  |  1180.4 
+ PQoQ%:  |   9.4    |   15.7   |   3.2    |   35.9   |   1.1   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  2520.3  |  3091.0  |  2774.6  |  2975.1  |  2704.0 
+ QoQ%:  |  -12.5   |   22.6   |  -10.2   |   7.2    |   -9.1  
+ QOPM%: |   13.9   |   16.9   |   15.6   |   15.9   |   15.8  
+ QNPM%: |   8.8    |   11.4   |   9.7    |   9.9    |   9.7   
+ QPFT:  |  222.1   |  353.6   |  269.7   |  295.1   |  262.0  
+ PQoQ%: |  -25.9   |   59.2   |  -23.7   |   9.4    |  -11.2  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 18.1%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+Yearly 
+ 31-Mar-2025 #Result
+11544.70cr, QoQ 3.10% & YoY 69.34% SALES;
+1856.10cr, QoQ -0.30% & YoY 56.98% OPERATING PROFIT;
+1180.40cr, QoQ 1.10% & YoY 63.99% NET PROFIT;
+OPM %: 16.10% vs 16.6%
+NPM %: 10.20% vs 10.4%
+

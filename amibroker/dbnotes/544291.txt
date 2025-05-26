@@ -1,0 +1,30 @@
+CODE	NAME
+544291 
+
+SECTOR : Infrastructure Developers & Operators
+INDUSTRY : Construction
+PRODUCT DEMAND
+YSD YPD 2025
+LYPD PM 2025
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 32.1%
+- YProfits and YSales DOUBLED in Mar2025
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 276.2% while the Profit QoQ_growth is at 235.5%
+
+Yearly 
+ 31-Mar-2025 #Result
+1072.10cr, QoQ 276.20% SALES;
+124.60cr, QoQ 266.90% OPERATING PROFIT;
+87.30cr, QoQ 235.50% NET PROFIT;
+OPM %: 11.60% vs 11.9%
+NPM %: 8.10% vs 9.1%
+

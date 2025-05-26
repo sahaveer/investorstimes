@@ -1,0 +1,24 @@
+CODE	NAME
+543378 
+
+SECTOR : Electronics
+INDUSTRY : Electronics - Components
+YSD YPD 2022
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+- YProfits and YSales DOUBLED in Mar2022
+
+
+Yearly 
+ 31-Mar-2024 #Result
+17.70cr, QoQ -22.00% & YoY 637.50% SALES;
+5.30cr, QoQ -10.30% & YoY 562.50% OPERATING PROFIT;
+1.20cr, QoQ -46.80% & YoY 300.00% NET PROFIT;
+OPM %: 30.10% vs 26.1%
+NPM %: 6.50% vs 9.5%
+

@@ -1,0 +1,31 @@
+CODES
+533605	SETUINFRA	
+SECTOR : Construction
+INDUSTRY : Construction
+BestQ Dec 2022
+LYPD PM 2023
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2019 | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | QSUM:Dec-2022
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  258.3   |  154.4   |   55.9   |  110.2   |   70.0   |      45.0    
+ SQoQ%:  |   -8.9   |  -40.3   |  -63.8   |   97.1   |  -36.5   |      64.3    
+ YOPM%:  |   3.1    |   0.0    |   0.0    |   0.0    |   1.8    |              
+ YNPM%:  |   0.1    |   0.0    |   0.0    |   0.0    |   0.1    |              
+YPROFIT: |   0.1    |  -44.0   |  -28.6   |   -6.1   |   0.1    |      1.2     
+ PQoQ%:  |  -98.2   | -33938.5 |  -35.0   |  -78.6   |  -101.5  |     1200.0   
+ QPNL:  | Dec-2021 | Mar-2022 | Jun-2022 | Sep-2022 | Dec-2022
+--------+----------+----------+----------+----------+---------
+QSALES: |   16.9   |   20.0   |   8.0    |   16.9   |   20.1  
+ QoQ%:  |  151.6   |   18.0   |  -60.0   |  111.5   |   19.0  
+ QOPM%: |   23.2   |   0.0    |   0.0    |   7.9    |   5.1   
+ QNPM%: |   15.3   |   0.0    |   0.0    |   7.0    |   2.2   
+ QPFT:  |   2.6    |   -3.2   |   -0.4   |   1.2    |   0.4   
+ PQoQ%: |  -231.5  |  -224.7  |  -86.7   |  -374.4  |  -62.7  
+
+***PROS***
+- Last 3QSALES is about 64% YSales
+- Last 3QPROFIT is about 1200% of YProfit
+- YProfit Turned POSITIVE this year Mar-2023 : 0.1
+- LastYr YProfits Doubled and maintained in Mar2023

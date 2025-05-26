@@ -1,0 +1,37 @@
+CODES
+532976	JAIBALAJI	
+SECTOR : Steel
+INDUSTRY : Steel - Large
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  2785.2  |  4692.5  |  6125.1  |  6413.8  |  6350.8 
+ SQoQ%:  |   -4.4   |   68.5   |   30.5   |   4.7    |   -1.0  
+ YOPM%:  |   3.5    |   4.5    |   5.4    |   14.5   |   13.6  
+ YNPM%:  |   0.0    |   1.0    |   0.9    |   13.7   |   8.8   
+YPROFIT: |  -75.8   |   48.1   |   57.8   |  879.6   |  557.9  
+ PQoQ%:  |  -33.7   |  -163.4  |   20.3   |  1421.2  |  -36.6  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  1845.6  |  1718.3  |  1556.6  |  1486.4  |  1589.5 
+ QoQ%:  |   19.9   |   -6.9   |   -9.4   |   -4.5   |   6.9   
+ QOPM%: |   13.0   |   18.4   |   14.7   |   12.8   |   8.4   
+ QNPM%: |   14.8   |   12.2   |   9.8    |   8.1    |   4.7   
+ QPFT:  |  273.0   |  208.8   |  153.2   |  120.4   |   75.5  
+ PQoQ%: |   16.4   |  -23.5   |  -26.7   |  -21.4   |  -37.3  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 21.6%
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+6350.80cr, QoQ -1.00% & YoY 128.02% SALES;
+866.80cr, QoQ -6.70% & YoY 799.17% OPERATING PROFIT;
+557.90cr, QoQ -36.60% & YoY -836.02% NET PROFIT;
+OPM %: 13.60% vs 14.5%
+NPM %: 8.80% vs 13.7%
+

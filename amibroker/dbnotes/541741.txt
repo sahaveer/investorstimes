@@ -1,0 +1,31 @@
+CODE	NAME
+541741 
+
+SECTOR : Trading
+INDUSTRY : Trading
+EXPANSION 2024
+LYPD PM 2024
+
+***CONS***
+- NEGATIVE YProfit : -0.2
+ YPNL:   | Mar-2018 | Mar-2019 | Mar-2020 | Mar-2021 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  464.1   |  487.6   |  294.7   |  244.9   |  451.1   |     270.2    
+ SQoQ%:  |   11.5   |   5.1    |  -39.6   |  -16.9   |   84.2   |      59.9    
+ YOPM%:  |   1.4    |   1.9    |   0.5    |   0.6    |   6.4    |              
+ YNPM%:  |   0.0    |   0.4    |   0.0    |   0.0    |   0.0    |              
+YPROFIT: |   -0.3   |   1.7    |   -3.1   |   -1.6   |   -0.2   |      -3.1    
+ PQoQ%:  |  -107.6  |  -643.8  |  -279.3  |  -47.4   |  -90.9   |     1550.0   
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  113.2   |  118.6   |  150.2   |   62.1   |   57.9  
+ QoQ%:  |  -19.1   |   4.8    |   26.6   |  -58.7   |   -6.7  
+ QOPM%: |   11.1   |   0.0    |   3.0    |   1.2    |   0.0   
+ QNPM%: |   0.4    |   0.0    |   1.8    |   0.0    |   0.0   
+ QPFT:  |   0.5    |   -0.5   |   2.6    |   -2.9   |   -2.8  
+ PQoQ%: |  -363.2  |  -208.0  |  -590.7  |  -209.8  |   -4.8  
+
+***PROS***
+EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+- Last 3QSALES is about 60% YSales
+- LastYr YProfits Doubled and maintained in Mar2024

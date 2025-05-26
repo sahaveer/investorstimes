@@ -1,0 +1,22 @@
+CODES
+RBMINFRA	
+SECTOR : Construction
+INDUSTRY : Construction
+
+***CONS***
+
+
+
+
+
+***PROS***
+- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Mar-2025 is at 135.2%. The QPROFIT QoQ_growth by 92.1%
+
+Quarterly 
+31-Mar-2025 #Result
+153.20cr, QoQ 135.20% SALES;
+18.80cr, QoQ 91.40% OPERATING PROFIT;
+12.90cr, QoQ 92.10% NET PROFIT;
+OPM %: 12.30% vs 15.1%
+NPM %: 8.40% vs 10.3%
+

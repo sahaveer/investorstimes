@@ -1,0 +1,41 @@
+CODE	NAME
+526355 
+
+SECTOR : Packaging
+INDUSTRY : Packaging
+BestQ Dec 2024
+
+***CONS***
+  YPNL   |  :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+------+----------+----------+----------+----------+----------+--------------
+YSALES:  | 17.1 |   20.6   |   24.1   |   31.0   |   31.7   |   23.7   |              
+ SQoQ%:  | -1.4 |   20.2   |   17.0   |   28.8   |   2.0    |   74.8   |              
+ YOPM%:  | 9.0  |   9.1    |   7.6    |   9.2    |   9.3    |          |              
+ YNPM%:  | 5.0  |   5.0    |   5.4    |   6.9    |   6.8    |          |              
+YPROFIT: | 0.8  |   1.0    |   1.3    |   2.1    |   2.2    |   2.3    |              
+ PQoQ%:  | 2.4  |   22.4   |   26.0   |   63.4   |   0.9    |  104.5   |              
+  QPNL  |  :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+------+----------+----------+----------+----------+---------
+QSALES: | 8.3  |   7.7    |   6.3    |   8.8    |   8.6    |         
+ QoQ%:  | -1.1 |   -7.8   |  -18.1   |   40.1   |   -2.0   |         
+ QOPM%: | 11.2 |   6.0    |   11.4   |   10.2   |   8.6    |         
+ QNPM%: | 8.2  |   3.0    |   8.7    |   12.6   |   6.6    |         
+ QPFT:  | 0.7  |   0.2    |   0.6    |   1.1    |   0.6    |         
+ PQoQ%: | -4.2 |  -66.2   |  139.1   |  101.8   |  -48.6   |         
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 17.8%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 105% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+31.70cr, QoQ 2.00% & YoY 85.38% SALES;
+2.90cr, QoQ 2.80% & YoY 93.33% OPERATING PROFIT;
+2.20cr, QoQ 0.90% & YoY 175.00% NET PROFIT;
+OPM %: 9.30% vs 9.2%
+NPM %: 6.80% vs 6.9%
+

@@ -1,0 +1,40 @@
+CODES
+544239	ECOSMOBLTY	
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+YSD YPD 2023
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  101.7   |  144.8   |  418.0   |  547.0   |  654.0  
+ SQoQ%:  |  -74.6   |   42.4   |  188.7   |   30.9   |   19.6  
+ YOPM%:  |   15.5   |   12.5   |   16.7   |   16.5   |   14.1  
+ YNPM%:  |   2.9    |   6.8    |   10.4   |   11.4   |   9.2   
+YPROFIT: |   3.0    |   9.9    |   43.6   |   62.5   |   60.1  
+ PQoQ%:  |   54.6   |  229.0   |  341.6   |   43.5   |   -3.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  149.0   |  148.9   |  159.6   |  168.2   |  177.2  
+ QoQ%:  |   8.8    |   -0.1   |   7.2    |   5.4    |   5.3   
+ QOPM%: |   14.9   |   13.9   |   14.8   |   12.8   |   14.9  
+ QNPM%: |   12.1   |   9.1    |   9.9    |   7.6    |   10.2  
+ QPFT:  |   18.0   |   13.5   |   15.8   |   12.8   |   18.1  
+ PQoQ%: |   27.0   |  -24.8   |   16.6   |  -18.9   |   41.4  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 34.4%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- YProfits and YSales DOUBLED in Mar2023
+
+Yearly 
+ 31-Mar-2025 #Result
+654.00cr, QoQ 19.60% & YoY 543.07% SALES;
+92.40cr, QoQ 2.60% & YoY 484.81% OPERATING PROFIT;
+60.10cr, QoQ -3.90% & YoY 1903.33% NET PROFIT;
+OPM %: 14.10% vs 16.5%
+NPM %: 9.20% vs 11.4%
+

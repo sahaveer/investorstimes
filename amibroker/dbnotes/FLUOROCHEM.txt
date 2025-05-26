@@ -1,0 +1,38 @@
+CODES
+542812	FLUOROCHEM	
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  2606.4  |  2650.5  |  3953.6  |  5684.7  |  4280.8  |     3512.0   
+ SQoQ%:  |   -4.5   |   1.7    |   49.2   |   43.8   |  -24.7   |      82.0    
+ YOPM%:  |   16.8   |   22.6   |   29.6   |   34.6   |   21.4   |              
+ YNPM%:  |   7.5    |   0.0    |   19.9   |   23.4   |   10.2   |              
+YPROFIT: |  196.3   |  -218.7  |  787.2   |  1328.8  |  435.0   |     355.0    
+ PQoQ%:  |  -84.3   |  -211.4  |  -459.9  |   68.8   |  -67.3   |      81.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  992.0   |  1133.0  |  1176.0  |  1188.0  |  1148.0 
+ QoQ%:  |   4.8    |   14.2   |   3.8    |   1.0    |   -3.4  
+ QOPM%: |   20.8   |   21.0   |   22.3   |   24.8   |   25.6  
+ QNPM%: |   8.1    |   8.9    |   9.2    |   10.2   |   11.0  
+ QPFT:  |   80.0   |  101.0   |  108.0   |  121.0   |  126.0  
+ PQoQ%: |   50.9   |   26.2   |   6.9    |   12.0   |   4.1   
+
+***PROS***
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 82% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+
+Yearly 
+ 31-Mar-2024 #Result
+4280.80cr, QoQ -24.70% & YoY 64.24% SALES;
+914.80cr, QoQ -53.50% & YoY 108.38% OPERATING PROFIT;
+435.00cr, QoQ -67.30% & YoY 121.60% NET PROFIT;
+OPM %: 21.40% vs 34.6%
+NPM %: 10.20% vs 23.4%
+

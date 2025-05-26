@@ -1,0 +1,35 @@
+CODES
+543398	LATENTVIEW	
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Medium / Small
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  305.9   |  407.8   |  538.8   |  640.7   |  847.8  
+ SQoQ%:  |   -1.4   |   33.3   |   32.1   |   18.9   |   32.3  
+ YOPM%:  |   34.2   |   29.9   |   26.9   |   21.3   |   23.1  
+ YNPM%:  |   29.9   |   31.8   |   28.8   |   24.8   |   20.5  
+YPROFIT: |   91.5   |  129.5   |  155.4   |  158.6   |  174.2  
+ PQoQ%:  |   25.5   |   41.6   |   20.0   |   2.1    |   9.8   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  171.6   |  178.9   |  209.0   |  227.8   |  232.2  
+ QoQ%:  |   3.6    |   4.2    |   16.8   |   9.0    |   1.9   
+ QOPM%: |   23.5   |   21.4   |   21.7   |   22.1   |   23.7  
+ QNPM%: |   26.4   |   21.8   |   19.1   |   18.4   |   23.0  
+ QPFT:  |   45.2   |   38.9   |   39.9   |   41.9   |   53.5  
+ PQoQ%: |   -2.8   |  -13.9   |   2.5    |   5.0    |   27.6  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+847.80cr, QoQ 32.30% & YoY 177.15% SALES;
+195.70cr, QoQ 43.60% & YoY 87.09% OPERATING PROFIT;
+174.20cr, QoQ 9.80% & YoY 90.38% NET PROFIT;
+OPM %: 23.10% vs 21.3%
+NPM %: 20.50% vs 24.8%
+

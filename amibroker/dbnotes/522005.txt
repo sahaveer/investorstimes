@@ -1,0 +1,41 @@
+CODE	NAME
+522005 
+
+SECTOR : Bearings
+INDUSTRY : Bearings
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   72.3   |   69.4   |   90.9   |  110.8   |  111.4   |      77.1    
+ SQoQ%:  |  -25.4   |   -4.0   |   30.9   |   21.9   |   0.5    |      69.2    
+ YOPM%:  |   0.0    |   0.0    |   2.2    |   3.5    |   3.5    |              
+ YNPM%:  |   0.0    |   0.0    |   1.8    |   3.9    |   3.3    |              
+YPROFIT: |   -1.6   |   -1.0   |   1.7    |   4.3    |   3.7    |      3.0     
+ PQoQ%:  |  -184.1  |  -39.0   |  -267.0  |  159.9   |  -15.2   |      81.1    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   25.5   |   31.0   |   26.1   |   26.3   |   24.7  
+ QoQ%:  |   -8.9   |   21.5   |  -15.9   |   0.8    |   -5.9  
+ QOPM%: |   3.1    |   3.8    |   6.8    |   4.6    |   4.0   
+ QNPM%: |   2.0    |   5.2    |   4.4    |   3.8    |   3.3   
+ QPFT:  |   0.5    |   1.6    |   1.2    |   1.0    |   0.8   
+ PQoQ%: |  -44.6   |  213.7   |  -28.1   |  -13.9   |  -18.2  
+
+***PROS***
+A DEBT-Free Company for the last 2 yrs
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 69% YSales
+- Last 3QPROFIT is about 81% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2024 #Result
+111.40cr, QoQ 0.50% & YoY 54.08% SALES;
+3.90cr, QoQ -0.50% & YoY -329.41% OPERATING PROFIT;
+3.70cr, QoQ -15.20% & YoY -331.25% NET PROFIT;
+OPM %: 3.50% vs 3.5%
+NPM %: 3.30% vs 3.9%
+

@@ -1,0 +1,42 @@
+CODES
+533227	AHLEAST	
+SECTOR : Hotels & Restaurants
+INDUSTRY : Hotels
+PRODUCT DEMAND
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  184.7   |   54.4   |   51.2   |   93.8   |  108.5   |      78.1    
+ SQoQ%:  |   -8.7   |  -70.6   |   -5.8   |   83.2   |   15.7   |      72.0    
+ YOPM%:  |   19.0   |   0.0    |   0.0    |   22.6   |   28.0   |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   26.2   |   29.2   |              
+YPROFIT: |   -7.5   |  -33.0   |  -34.5   |   24.5   |   31.7   |      7.4     
+ PQoQ%:  |  -312.1  |  339.0   |   4.6    |  -171.1  |   29.3   |      23.3    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   32.2   |   33.6   |   22.5   |   23.0   |   32.6  
+ QoQ%:  |   54.9   |   4.4    |  -33.1   |   2.5    |   41.3  
+ QOPM%: |   33.1   |   39.4   |   2.6    |   17.1   |   33.2  
+ QNPM%: |   5.4    |   57.4   |   0.0    |   13.1   |   14.8  
+ QPFT:  |   1.8    |   19.3   |   -0.4   |   3.0    |   4.8   
+ PQoQ%: |  -77.7   |  1001.7  |  -102.0  |  -874.4  |   59.9  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 72% YSales
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2024
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
+
+YSALES in Mar-2024 is at 108.5 showing a QoQ_growth of 15.7%. The YNETPROFIT grew by 29.3% to 31.7
+
+Yearly 
+ 31-Mar-2024 #Result
+108.50cr, QoQ 15.70% & YoY -41.26% SALES;
+30.30cr, QoQ 43.30% & YoY -13.43% OPERATING PROFIT;
+31.70cr, QoQ 29.30% & YoY -522.67% NET PROFIT;
+OPM %: 28.00% vs 22.6%
+NPM %: 29.20% vs 26.2%
+

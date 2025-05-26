@@ -1,0 +1,40 @@
+CODE	NAME
+535693 
+
+SECTOR : Infrastructure Developers & Operators
+INDUSTRY : Construction
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  150.0   |  141.7   |  160.1   |  178.6   |  219.9   |     144.0    
+ SQoQ%:  |  -37.1   |   -5.5   |   13.0   |   11.5   |   23.1   |      65.5    
+ YOPM%:  |   13.7   |   3.1    |   18.0   |   20.3   |   19.2   |              
+ YNPM%:  |   0.8    |   0.0    |   4.4    |   6.0    |   7.8    |              
+YPROFIT: |   1.2    |   -0.1   |   7.1    |   10.7   |   17.2   |      7.5     
+ PQoQ%:  |  -681.0  |  -109.0  | -6554.5  |   50.6   |   60.4   |      43.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   52.9   |   54.0   |   79.4   |   32.2   |   32.4  
+ QoQ%:  |  -12.7   |   2.1    |   47.0   |  -59.4   |   0.7   
+ QOPM%: |   27.5   |   17.5   |   16.2   |   14.5   |   13.8  
+ QNPM%: |   10.0   |   8.3    |   8.5    |   1.2    |   1.0   
+ QPFT:  |   5.3    |   4.5    |   6.8    |   0.4    |   0.3   
+ PQoQ%: |   37.6   |  -14.8   |   51.0   |  -94.2   |  -17.9  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 65% YSales
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+YSALES in Mar-2024 is at 219.9 showing a QoQ_growth of 23.1%. The YNETPROFIT grew by 60.4% to 17.2
+
+Yearly 
+ 31-Mar-2024 #Result
+219.90cr, QoQ 23.10% & YoY 46.60% SALES;
+42.10cr, QoQ 16.20% & YoY 105.37% OPERATING PROFIT;
+17.20cr, QoQ 60.40% & YoY 1333.33% NET PROFIT;
+OPM %: 19.20% vs 20.3%
+NPM %: 7.80% vs 6.0%
+

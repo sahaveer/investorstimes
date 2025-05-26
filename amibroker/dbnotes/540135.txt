@@ -1,0 +1,39 @@
+CODE	NAME
+540135 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   8.3    |   4.2    |   32.6   |   6.9    |   9.2    |      19.7    
+ SQoQ%:  |   78.8   |  -49.4   |  677.8   |  -78.8   |   33.5   |     214.1    
+ YOPM%:  |   3.6    |   7.2    |   2.0    |   26.4   |   7.0    |              
+ YNPM%:  |   2.9    |   4.3    |   0.9    |   4.8    |   2.9    |              
+YPROFIT: |   0.2    |   0.2    |   0.3    |   0.3    |   0.3    |      6.8     
+ PQoQ%:  |  -141.4  |  -25.0   |   55.6   |   17.9   |  -18.2   |     2266.7   
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.6    |   7.8    |   0.6    |   12.4   |   6.7   
+ QoQ%:  |   14.6   |  1321.8  |  -92.3   |  1961.7  |  -46.1  
+ QOPM%: |   0.0    |   1.9    |  698.3   |   48.8   |   24.6  
+ QNPM%: |   0.0    |   0.9    |  510.0   |   27.3   |   5.1   
+ QPFT:  |   -0.1   |   0.1    |   3.1    |   3.4    |   0.3   
+ PQoQ%: |  -145.0  |  -177.8  |  4271.4  |   10.5   |  -89.9  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 214% YSales
+- Last 3QPROFIT is about 2267% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+9.20cr, QoQ 33.50% & YoY 10.84% SALES;
+0.70cr, QoQ -64.50% & YoY 133.33% OPERATING PROFIT;
+0.30cr, QoQ -18.20% & YoY 50.00% NET PROFIT;
+OPM %: 7.00% vs 26.4%
+NPM %: 2.90% vs 4.8%
+

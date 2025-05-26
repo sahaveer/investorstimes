@@ -1,0 +1,39 @@
+CODES
+539686	KPEL	
+SECTOR : Infrastructure Developers & Operators
+INDUSTRY : Engineering - Turnkey Services
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   71.6   |  250.3   |  437.6   |  471.4   |  938.8  
+ SQoQ%:  |   -4.5   |  249.5   |   74.9   |   7.7    |   99.1  
+ YOPM%:  |   25.2   |   13.7   |   16.0   |   18.1   |   18.7  
+ YNPM%:  |   8.5    |   7.3    |   10.0   |   12.4   |   12.3  
+YPROFIT: |   6.1    |   18.3   |   43.9   |   58.3   |  115.3  
+ PQoQ%:  |  450.9   |  201.5   |  140.3   |   32.8   |   97.8  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  207.3   |  127.2   |  198.6   |  211.8   |  401.2  
+ QoQ%:  |  151.3   |  -38.6   |   56.2   |   6.6    |   89.5  
+ QOPM%: |   14.6   |   17.6   |   20.2   |   20.4   |   17.5  
+ QNPM%: |   12.0   |   14.3   |   12.6   |   12.5   |   11.4  
+ QPFT:  |   24.9   |   18.2   |   24.9   |   26.4   |   45.8  
+ PQoQ%: |  168.9   |  -26.9   |   37.0   |   5.8    |   73.5  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 22.4%
+
+YSALES in Mar-2025 is at 938.8 showing a QoQ_growth of 99.1%. The YNETPROFIT grew by 97.8% to 115.3
+
+Yearly 
+ 31-Mar-2025 #Result
+938.80cr, QoQ 99.10% & YoY 1211.17% SALES;
+175.70cr, QoQ 105.80% & YoY 876.11% OPERATING PROFIT;
+115.30cr, QoQ 97.80% & YoY 1790.16% NET PROFIT;
+OPM %: 18.70% vs 18.1%
+NPM %: 12.30% vs 12.4%
+

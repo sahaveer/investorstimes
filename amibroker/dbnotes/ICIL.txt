@@ -1,0 +1,38 @@
+CODES
+521016	ICIL	
+SECTOR : Textiles
+INDUSTRY : Textiles - Cotton/Blended
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  2080.1  |  2519.2  |  2842.0  |  3011.6  |  3557.1  |     3128.8   
+ SQoQ%:  |   7.5    |   21.1   |   12.8   |   6.0    |   18.1   |      88.0    
+ YOPM%:  |   8.8    |   15.0   |   15.4   |   15.1   |   15.8   |              
+ YNPM%:  |   3.5    |   9.9    |   12.6   |   9.2    |   9.5    |              
+YPROFIT: |   73.8   |  250.6   |  358.6   |  276.8   |  337.9   |     234.8    
+ PQoQ%:  |   22.5   |  239.7   |   43.1   |  -22.8   |   22.1   |      69.5    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  713.4   |  1093.3  |  941.4   |  1035.8  |  1151.6 
+ QoQ%:  |  -29.3   |   53.2   |  -13.9   |   10.0   |   11.2  
+ QOPM%: |   14.6   |   15.1   |   15.4   |   15.2   |   13.0  
+ QNPM%: |   8.1    |   8.4    |   8.3    |   7.9    |   6.6   
+ QPFT:  |   58.1   |   91.9   |   77.8   |   81.5   |   75.5  
+ PQoQ%: |  -49.2   |   58.4   |  -15.4   |   4.8    |   -7.4  
+
+***PROS***
+- Last 3QSALES is about 88% YSales
+- Last 3QPROFIT is about 69% of YProfit
+
+YSALES in Mar-2024 is at 3557.1 showing a QoQ_growth of 18.1%. The YNETPROFIT grew by 22.1% to 337.9
+
+Yearly 
+ 31-Mar-2024 #Result
+3557.10cr, QoQ 18.10% & YoY 71.01% SALES;
+561.70cr, QoQ 23.40% & YoY 206.10% OPERATING PROFIT;
+337.90cr, QoQ 22.10% & YoY 357.86% NET PROFIT;
+OPM %: 15.80% vs 15.1%
+NPM %: 9.50% vs 9.2%
+

@@ -1,0 +1,41 @@
+CODE	NAME
+532333 
+
+SECTOR : Stock/ Commodity Brokers
+INDUSTRY : Finance & Investments
+YSD YPD 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   14.6   |   21.5   |   18.6   |   23.1   |   54.8   |      23.6    
+ SQoQ%:  |   3.6    |   47.0   |  -13.5   |   24.2   |  137.5   |      43.1    
+ YOPM%:  |   0.0    |   23.4   |   38.2   |   17.2   |   15.8   |              
+ YNPM%:  |   0.0    |   16.5   |   34.8   |   13.3   |   12.8   |              
+YPROFIT: |   -3.4   |   3.6    |   6.5    |   3.1    |   7.0    |      3.0     
+ PQoQ%:  |   38.2   |  -204.4  |   82.0   |  -52.6   |  129.4   |      42.9    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   6.0    |   37.3   |   8.8    |   5.1    |   9.7   
+ QoQ%:  |   1.7    |  524.2   |  -76.6   |  -42.2   |   92.3  
+ QOPM%: |   46.8   |   1.9    |   55.1   |   4.9    |   0.0   
+ QNPM%: |   33.8   |   4.1    |   39.7   |   7.9    |   0.0   
+ QPFT:  |   2.0    |   1.5    |   3.5    |   0.4    |   -0.9  
+ PQoQ%: |  -19.5   |  -24.8   |  128.3   |  -88.5   |  -315.0 
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2024
+
+
+YSALES in Mar-2024 is at 54.8 showing a QoQ_growth of 137.5%. The YNETPROFIT grew by 129.4% to 7.0
+
+Yearly 
+ 31-Mar-2024 #Result
+54.80cr, QoQ 137.50% & YoY 275.34% SALES;
+8.70cr, QoQ 118.90% & YoY -270.59% OPERATING PROFIT;
+7.00cr, QoQ 129.40% & YoY -305.88% NET PROFIT;
+OPM %: 15.80% vs 17.2%
+NPM %: 12.80% vs 13.3%
+

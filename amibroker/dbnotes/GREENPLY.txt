@@ -1,0 +1,34 @@
+CODES
+526797	GREENPLY	
+SECTOR : Plywood Boards/Laminates
+INDUSTRY : Miscellaneous
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1165.3  |  1562.8  |  1663.2  |  2179.9  |  2487.6 
+ SQoQ%:  |  -18.0   |   34.1   |   6.4    |   31.1   |   14.1  
+ YOPM%:  |   9.9    |   9.6    |   8.0    |   8.5    |   8.2   
+ YNPM%:  |   5.2    |   6.1    |   5.5    |   3.2    |   3.7   
+YPROFIT: |   60.9   |   94.7   |   91.4   |   70.0   |   91.6  
+ PQoQ%:  |   28.9   |   55.5   |   -3.5   |  -23.5   |   31.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  599.8   |  583.9   |  640.5   |  614.4   |  648.8  
+ QoQ%:  |   3.0    |   -2.7   |   9.7    |   -4.1   |   5.6   
+ QOPM%: |   9.5    |   9.1    |   8.3    |   8.7    |   7.2   
+ QNPM%: |   4.7    |   5.7    |   2.8    |   4.0    |   2.5   
+ QPFT:  |   28.4   |   33.1   |   17.6   |   24.5   |   16.5  
+ PQoQ%: |   5.6    |   16.6   |  -46.7   |   38.7   |  -32.6  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+Yearly 
+ 31-Mar-2025 #Result
+2487.60cr, QoQ 14.10% & YoY 113.47% SALES;
+203.70cr, QoQ 9.80% & YoY 76.98% OPERATING PROFIT;
+91.60cr, QoQ 31.00% & YoY 50.41% NET PROFIT;
+OPM %: 8.20% vs 8.5%
+NPM %: 3.70% vs 3.2%
+

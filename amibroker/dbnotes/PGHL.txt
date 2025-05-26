@@ -1,0 +1,42 @@
+CODES
+500126	PGHL	
+SECTOR : 
+INDUSTRY : 
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Jun-2020 | Jun-2021 | Jun-2022 | Jun-2023 | Jun-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  1355.9  |  1008.7  |  1114.4  |  1229.6  |  1151.3  |     907.1    
+ SQoQ%:  |   46.3   |  -25.6   |   10.5   |   10.3   |   -6.4   |      78.8    
+ YOPM%:  |   23.5   |   24.4   |   24.1   |   26.4   |   26.6   |              
+ YNPM%:  |   18.7   |   17.5   |   17.3   |   18.7   |   17.5   |              
+YPROFIT: |  254.1   |  176.8   |  192.5   |  229.5   |  201.0   |     190.0    
+ PQoQ%:  |   60.0   |  -30.4   |   8.9    |   19.2   |  -12.4   |      94.5    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  310.0   |  252.5   |  283.9   |  313.4   |  309.8  
+ QoQ%:  |   1.7    |  -18.5   |   12.4   |   10.4   |   -1.2  
+ QOPM%: |   32.8   |   26.7   |   17.0   |   36.4   |   39.8  
+ QNPM%: |   23.3   |   18.4   |   5.9    |   26.3   |   29.3  
+ QPFT:  |   72.1   |   46.6   |   16.8   |   82.3   |   90.9  
+ PQoQ%: |   9.9    |  -35.4   |  -64.0   |  390.6   |   10.4  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Jun2024 is at 38.2%
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 95% of YProfit
+
+
+Yearly 
+ 30-Jun-2024 #Result
+1151.30cr, QoQ -6.40% & YoY -15.09% SALES;
+306.50cr, QoQ -5.60% & YoY -3.83% OPERATING PROFIT;
+201.00cr, QoQ -12.40% & YoY -20.90% NET PROFIT;
+OPM %: 26.60% vs 26.4%
+NPM %: 17.50% vs 18.7%
+

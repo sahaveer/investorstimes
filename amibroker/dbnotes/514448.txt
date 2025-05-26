@@ -1,0 +1,40 @@
+CODE	NAME
+514448 
+
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  101.3   |  182.0   |  261.2   |  257.3   |  284.1  
+ SQoQ%:  |   37.8   |   79.6   |   43.6   |   -1.5   |   10.4  
+ YOPM%:  |   10.3   |   13.1   |   23.2   |   32.6   |   31.5  
+ YNPM%:  |   12.0   |   10.9   |   17.8   |   26.1   |   26.0  
+YPROFIT: |   12.2   |   19.8   |   46.4   |   67.1   |   73.9  
+ PQoQ%:  |   50.2   |   62.4   |  135.0   |   44.5   |   10.1  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   71.2   |   69.2   |   65.2   |   71.1   |   78.6  
+ QoQ%:  |   15.1   |   -2.9   |   -5.7   |   9.0    |   10.6  
+ QOPM%: |   29.8   |   33.9   |   29.7   |   31.6   |   30.7  
+ QNPM%: |   26.3   |   27.1   |   25.0   |   26.8   |   25.2  
+ QPFT:  |   18.8   |   18.8   |   16.3   |   19.1   |   19.8  
+ PQoQ%: |   14.2   |   -0.1   |  -13.2   |   17.0   |   3.8   
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 27.7%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+284.10cr, QoQ 10.40% & YoY 180.45% SALES;
+89.50cr, QoQ 6.60% & YoY 752.38% OPERATING PROFIT;
+73.90cr, QoQ 10.10% & YoY 505.74% NET PROFIT;
+OPM %: 31.50% vs 32.6%
+NPM %: 26.00% vs 26.1%
+

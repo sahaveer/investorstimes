@@ -1,0 +1,34 @@
+CODE	NAME
+512297 
+
+SECTOR : Trading
+INDUSTRY : Trading
+PRODUCT DEMAND
+YSD YPD 2024
+YSD YPD 2022
+
+***CONS***
+- NEGATIVE YProfit : -0.1
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   10.6   |   0.4    |   1.2    |   0.6    |   1.3    |      13.0    
+ SQoQ%:  |  -17.8   |  -95.9   |  167.4   |  -47.8   |  115.0   |     1000.0   
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
+ YNPM%:  |   0.0    |   0.0    |   1.7    |   0.0    |   0.0    |              
+YPROFIT: |   -0.1   |   -1.0   |   0.0    |   -0.1   |   -0.1   |      0.2     
+ PQoQ%:  |  -104.5  |  900.0   |  -102.0  |  -600.0  |  -40.0   |     -200.0   
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.0    |   1.3    |   0.6    |   4.2    |   8.2   
+ QoQ%:  |   nan    |   inf    |  -55.8   |  642.1   |   94.3  
+ QOPM%: |   0.0    |   3.9    |   3.5    |   1.9    |   1.2   
+ QNPM%: |   0.0    |   5.4    |   3.5    |   2.4    |   1.2   
+ QPFT:  |   -0.1   |   0.1    |   0.0    |   0.1    |   0.1   
+ PQoQ%: |  200.0   |  -216.7  |  -71.4   |  400.0   |   0.0   
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 1000% YSales
+- YProfits and YSales DOUBLED in Mar2024
+- YProfits and YSales DOUBLED in Mar2022

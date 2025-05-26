@@ -1,0 +1,37 @@
+CODES
+517354	HAVELLS	
+SECTOR : Consumer Durables
+INDUSTRY : Electric Equipment
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  | 10457.3  | 13938.5  | 16910.7  | 18590.0  | 21778.1 
+ SQoQ%:  |   10.8   |   33.3   |   21.3   |   9.9    |   17.1  
+ YOPM%:  |   15.2   |   12.7   |   9.6    |   10.1   |   10.0  
+ YNPM%:  |   10.0   |   8.6    |   6.3    |   6.8    |   6.8   
+YPROFIT: |  1044.3  |  1196.5  |  1071.7  |  1270.8  |  1472.3 
+ PQoQ%:  |   42.0   |   14.6   |  -10.4   |   18.6   |   15.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  5442.0  |  5806.2  |  4539.3  |  4889.0  |  6543.6 
+ QoQ%:  |   23.3   |   6.7    |  -21.8   |   7.7    |   33.8  
+ QOPM%: |   11.7   |   9.9    |   8.3    |   8.7    |   11.6  
+ QNPM%: |   8.2    |   7.0    |   5.9    |   5.7    |   7.9   
+ QPFT:  |  446.7   |  407.9   |  268.2   |  278.3   |  517.8  
+ PQoQ%: |   55.2   |   -8.7   |  -34.2   |   3.8    |   86.1  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+YSALES in Mar-2025 is at 21778.1 showing a QoQ_growth of 17.1%. The YNETPROFIT grew by 15.9% to 1472.3
+
+Yearly 
+ 31-Mar-2025 #Result
+21778.10cr, QoQ 17.10% & YoY 108.26% SALES;
+2174.70cr, QoQ 15.60% & YoY 36.84% OPERATING PROFIT;
+1472.30cr, QoQ 15.90% & YoY 40.98% NET PROFIT;
+OPM %: 10.00% vs 10.1%
+NPM %: 6.80% vs 6.8%
+

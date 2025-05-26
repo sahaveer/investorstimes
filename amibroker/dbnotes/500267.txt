@@ -1,0 +1,40 @@
+CODE	NAME
+500267 
+
+SECTOR : Realty
+INDUSTRY : Construction
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   69.2   |   56.8   |   48.9   |   49.6   |   83.4   |      49.5    
+ SQoQ%:  |  -40.7   |  -17.8   |  -13.9   |   1.3    |   68.3   |      59.4    
+ YOPM%:  |   62.2   |   70.4   |   60.9   |   49.7   |   64.7   |              
+ YNPM%:  |   0.0    |   35.1   |   18.5   |   7.6    |   38.4   |              
+YPROFIT: |  -16.0   |   19.9   |   9.0    |   3.8    |   32.0   |      14.6    
+ PQoQ%:  |  -136.8  |  -224.3  |  -54.6   |  -58.2   |  746.8   |      45.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   15.0   |   15.5   |   16.1   |   16.2   |   17.2  
+ QoQ%:  |  -62.2   |   3.7    |   3.5    |   0.6    |   6.7   
+ QOPM%: |   56.7   |   59.4   |   42.8   |   45.0   |   58.9  
+ QNPM%: |   48.8   |   0.0    |   62.7   |   46.5   |   0.0   
+ QPFT:  |   7.3    |   -0.6   |   10.1   |   7.5    |   -3.0  
+ PQoQ%: |  -68.1   |  -108.3  | -1750.8  |  -25.4   |  -140.2 
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 59% YSales
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+
+YSALES in Mar-2024 is at 83.4 showing a QoQ_growth of 68.3%. The YNETPROFIT grew by 746.8% to 32.0
+
+Yearly 
+ 31-Mar-2024 #Result
+83.40cr, QoQ 68.30% & YoY 20.52% SALES;
+54.00cr, QoQ 119.00% & YoY 25.58% OPERATING PROFIT;
+32.00cr, QoQ 746.80% & YoY -300.00% NET PROFIT;
+OPM %: 64.70% vs 49.7%
+NPM %: 38.40% vs 7.6%
+

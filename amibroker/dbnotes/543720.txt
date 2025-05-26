@@ -1,0 +1,43 @@
+CODES
+543720	KFINTECH	
+SECTOR : Financial Services
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  481.1   |  639.5   |  720.0   |  837.5   |  1090.8 
+ SQoQ%:  |   7.0    |   32.9   |   12.6   |   16.3   |   30.2  
+ YOPM%:  |   44.2   |   45.0   |   41.4   |   43.5   |   43.9  
+ YNPM%:  |   0.0    |   23.2   |   27.2   |   29.4   |   30.5  
+YPROFIT: |  -64.5   |  148.6   |  195.7   |  246.0   |  332.6  
+ PQoQ%:  | -1527.2  |  -330.3  |   31.8   |   25.7   |   35.2  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  228.3   |  237.6   |  280.5   |  290.0   |  282.7  
+ QoQ%:  |   4.4    |   4.0    |   18.1   |   3.4    |   -2.5  
+ QOPM%: |   45.3   |   42.0   |   45.1   |   45.0   |   43.2  
+ QNPM%: |   32.6   |   28.7   |   31.8   |   31.1   |   30.1  
+ QPFT:  |   74.5   |   68.1   |   89.3   |   90.2   |   85.0  
+ PQoQ%: |   11.4   |   -8.6   |   31.2   |   1.0    |   -5.7  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 30.3%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 30.2% while the Profit QoQ_growth is much better than Sales itself at 35.2%
+
+Yearly 
+ 31-Mar-2025 #Result
+1090.80cr, QoQ 30.20% & YoY 126.73% SALES;
+479.00cr, QoQ 31.50% & YoY 125.41% OPERATING PROFIT;
+332.60cr, QoQ 35.20% & YoY -615.66% NET PROFIT;
+OPM %: 43.90% vs 43.5%
+NPM %: 30.50% vs 29.4%
+

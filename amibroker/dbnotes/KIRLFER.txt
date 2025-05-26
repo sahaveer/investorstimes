@@ -1,0 +1,22 @@
+CODES
+500245	KIRLFER	
+SECTOR : Steel
+INDUSTRY : Steel - Large
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2025 #Result
+6564.20cr, QoQ 6.80% SALES;
+756.20cr, QoQ -11.70% OPERATING PROFIT;
+294.00cr, QoQ -1.30% NET PROFIT;
+OPM %: 11.50% vs 13.9%
+NPM %: 4.50% vs 4.8%
+

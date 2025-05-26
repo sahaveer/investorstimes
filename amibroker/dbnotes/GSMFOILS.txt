@@ -1,0 +1,12 @@
+CODES
+GSMFOILS	
+SECTOR : Non Ferrous Metals
+INDUSTRY : Aluminium and Aluminium Products
+
+***CONS***
+
+
+
+
+
+***PROS***

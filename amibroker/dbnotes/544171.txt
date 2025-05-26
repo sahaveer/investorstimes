@@ -1,0 +1,25 @@
+CODE	NAME
+544171 
+
+SECTOR : Engineering
+INDUSTRY : Engineering
+LYPD PM 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+- LastYr YProfits Doubled and maintained in Mar2024
+
+YSALES in Mar-2024 is at 88.9 showing a QoQ_growth of 15.9%. The YNETPROFIT grew by 1903.4% to 5.8
+
+Yearly 
+ 31-Mar-2024 #Result
+88.90cr, QoQ 15.90% & YoY 144.90% SALES;
+11.90cr, QoQ 182.70% & YoY 417.39% OPERATING PROFIT;
+5.80cr, QoQ 1903.40% & YoY 544.44% NET PROFIT;
+OPM %: 13.40% vs 5.5%
+NPM %: 6.50% vs 0.4%
+

@@ -1,0 +1,42 @@
+CODES
+500144	FINCABLES	
+SECTOR : Cables
+INDUSTRY : Cables - Power
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  2877.3  |  2768.1  |  3768.1  |  4481.1  |  5014.4  |     3724.3   
+ SQoQ%:  |   -6.5   |   -3.8   |   36.1   |   18.9   |   11.9   |      74.3    
+ YOPM%:  |   13.3   |   13.4   |   11.4   |   11.4   |   11.7   |              
+ YNPM%:  |   13.6   |   16.7   |   15.9   |   11.3   |   13.0   |              
+YPROFIT: |  391.0   |  461.5   |  599.1   |  504.3   |  651.7   |     509.0    
+ PQoQ%:  |   -4.0   |   18.0   |   29.8   |  -15.8   |   29.2   |      78.1    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  1221.7  |  1401.0  |  1230.5  |  1311.7  |  1182.1 
+ QoQ%:  |   2.9    |   14.7   |  -12.2   |   6.6    |   -9.9  
+ QOPM%: |   10.9   |   11.6   |   10.3   |   8.1    |   11.7  
+ QNPM%: |   12.4   |   13.3   |   19.8   |   9.0    |   12.5  
+ QPFT:  |  151.0   |  186.1   |  243.9   |  117.9   |  147.2  
+ PQoQ%: |   -2.1   |   23.3   |   31.1   |  -51.7   |   24.9  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 27.4%
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 78% of YProfit
+
+
+Yearly 
+ 31-Mar-2024 #Result
+5014.40cr, QoQ 11.90% & YoY 74.27% SALES;
+588.20cr, QoQ 15.50% & YoY 53.38% OPERATING PROFIT;
+651.70cr, QoQ 29.20% & YoY 66.68% NET PROFIT;
+OPM %: 11.70% vs 11.4%
+NPM %: 13.00% vs 11.3%
+

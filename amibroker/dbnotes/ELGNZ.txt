@@ -1,0 +1,22 @@
+CODES
+ELGNZ	
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+YSALES in Mar-2025 is at 392.7 showing a QoQ_growth of 77.5%. The YNETPROFIT grew by 77.3% to 19.8
+
+Yearly 
+ 31-Mar-2025 #Result
+392.70cr, QoQ 77.50% & YoY 171.20% SALES;
+33.10cr, QoQ 66.40% & YoY -463.74% OPERATING PROFIT;
+19.80cr, QoQ 77.30% & YoY -244.53% NET PROFIT;
+OPM %: 8.40% vs 9.0%
+NPM %: 5.00% vs 5.0%
+

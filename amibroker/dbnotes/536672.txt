@@ -1,0 +1,16 @@
+CODE	NAME
+536672 
+
+SECTOR : Trading
+INDUSTRY : Trading
+
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -0.2
+
+
+
+
+
+***PROS***
+DEBT-Free Company for the last 3 yrs

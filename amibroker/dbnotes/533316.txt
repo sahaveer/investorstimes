@@ -1,0 +1,38 @@
+CODES
+533316	STEL	
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   12.3   |   20.1   |   17.2   |   18.5   |   21.9  
+ SQoQ%:  |  -24.5   |   63.5   |  -14.5   |   7.6    |   18.7  
+ YOPM%:  |   95.9   |   97.1   |   96.0   |   96.5   |   97.1  
+ YNPM%:  |   70.5   |   72.8   |   71.4   |   71.9   |   72.4  
+YPROFIT: |   8.6    |   14.6   |   12.3   |   13.3   |   15.9  
+ PQoQ%:  |  -43.0   |   68.9   |  -16.1   |   8.2    |   19.6  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   13.5   |   0.4    |   7.8    |   0.3    |   13.4  
+ QoQ%:  |  4393.3  |  -97.1   |  1894.9  |  -96.1   |  4380.0 
+ QOPM%: |   98.9   |   35.9   |   98.3   |   46.7   |   99.3  
+ QNPM%: |   73.9   |   23.1   |   73.5   |   30.0   |   74.3  
+ QPFT:  |   10.0   |   0.1    |   5.7    |   0.1    |   10.0  
+ PQoQ%: |  9860.0  |  -99.1   |  6255.6  |  -98.4   | 10988.9 
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+YSALES in Mar-2025 is at 21.9 showing a QoQ_growth of 18.7%. The YNETPROFIT grew by 19.6% to 15.9
+
+Yearly 
+ 31-Mar-2025 #Result
+21.90cr, QoQ 18.70% & YoY 78.05% SALES;
+21.30cr, QoQ 19.40% & YoY 80.51% OPERATING PROFIT;
+15.90cr, QoQ 19.60% & YoY 84.88% NET PROFIT;
+OPM %: 97.10% vs 96.5%
+NPM %: 72.40% vs 71.9%
+

@@ -1,0 +1,40 @@
+CODE	NAME
+500058 
+
+SECTOR : Steel
+INDUSTRY : Steel - Sponge Iron
+BestQ Dec 2024
+YSD YPD 2022
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.0    |   22.1   |   86.4   |  463.4   |  266.7   |     221.0    
+ SQoQ%:  |   nan    |   inf    |  291.1   |  436.3   |  -42.5   |      82.9    
+ YOPM%:  |   0.0    |   24.0   |   3.5    |   3.0    |   0.0    |              
+ YNPM%:  |   0.0    |   17.9   |   9.6    |   2.6    |   2.8    |              
+YPROFIT: |   -0.8   |   4.0    |   8.3    |   12.1   |   7.4    |      7.1     
+ PQoQ%:  |  654.5   |  -577.1  |  108.8   |   46.8   |  -38.7   |      95.9    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   70.4   |   74.1   |  103.9   |   63.8   |   53.3  
+ QoQ%:  |   -4.5   |   5.3    |   40.1   |  -38.6   |  -16.4  
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |   1.6    |   6.1    |   3.6    |   2.3    |   3.5   
+ QPFT:  |   1.1    |   4.5    |   3.7    |   1.5    |   1.9   
+ PQoQ%: |   -0.9   |  297.3   |  -17.8   |  -60.4   |   29.5  
+
+***PROS***
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 96% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2022
+
+Yearly 
+ 31-Mar-2024 #Result
+266.70cr, QoQ -42.50% & YoY inf% SALES;
+-13.80cr, QoQ -198.00% & YoY 305.88% OPERATING PROFIT;
+7.40cr, QoQ -38.70% & YoY -1025.00% NET PROFIT;
+OPM %: 0.00% vs 3.0%
+NPM %: 2.80% vs 2.6%
+

@@ -1,0 +1,41 @@
+CODE	NAME
+531402 
+
+SECTOR : Trading
+INDUSTRY : Trading
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   29.0   |   45.6   |   61.8   |   62.6   |   75.1   |      59.4    
+ SQoQ%:  |  -46.6   |   57.3   |   35.3   |   1.4    |   19.9   |      79.1    
+ YOPM%:  |   1.4    |   1.1    |   1.2    |   1.9    |   4.3    |              
+ YNPM%:  |   0.6    |   0.5    |   0.4    |   0.5    |   1.9    |              
+YPROFIT: |   0.2    |   0.2    |   0.3    |   0.3    |   1.4    |      1.4     
+ PQoQ%:  |  -61.4   |   47.1   |   4.0    |   11.5   |  382.8   |     100.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   17.3   |   34.5   |   17.4   |   25.6   |   16.4  
+ QoQ%:  |   2.6    |   99.5   |  -49.6   |   47.2   |  -36.0  
+ QOPM%: |   2.8    |   5.9    |   4.3    |   3.5    |   7.7   
+ QNPM%: |   0.3    |   3.5    |   1.8    |   0.8    |   5.3   
+ QPFT:  |   0.1    |   1.2    |   0.3    |   0.2    |   0.9   
+ PQoQ%: |  -14.3   |  1916.7  |  -73.6   |  -37.5   |  335.0  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 100% of YProfit
+
+YSALES in Mar-2024 is at 75.1 showing a QoQ_growth of 19.9%. The YNETPROFIT grew by 382.8% to 1.4
+
+Yearly 
+ 31-Mar-2024 #Result
+75.10cr, QoQ 19.90% & YoY 158.97% SALES;
+3.20cr, QoQ 168.30% & YoY 700.00% OPERATING PROFIT;
+1.40cr, QoQ 382.80% & YoY 600.00% NET PROFIT;
+OPM %: 4.30% vs 1.9%
+NPM %: 1.90% vs 0.5%
+

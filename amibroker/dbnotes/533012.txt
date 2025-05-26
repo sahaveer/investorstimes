@@ -1,0 +1,31 @@
+CODES
+533012	LPDC	
+SECTOR : 
+INDUSTRY : 
+YSD YPD 2024
+
+***CONS***
+- NEGATIVE YProfit : -11.7
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.1    |   1.0    |   0.7    |   0.4    |   1.2    |      1.2     
+ SQoQ%:  |   inf    |  1011.1  |  -31.0   |  -43.5   |  212.8   |     100.0    
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
+ YNPM%:  |  422.2   |   40.0   |   0.0    |   0.0    |   0.0    |              
+YPROFIT: |   0.4    |   0.4    |   -0.1   |   -6.5   |  -11.7   |      -3.7    
+ PQoQ%:  |  123.5   |   5.3    |  -120.0  |  8075.0  |   79.2   |      31.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.2    |   0.4    |   0.4    |   0.3    |   0.5   
+ QoQ%:  |  -21.4   |   63.6   |   13.9   |  -26.8   |   53.3  
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   4.3   
+ QNPM%: |   13.6   |   0.0    |   14.6   |   0.0    |   28.3  
+ QPFT:  |   0.0    |  -12.0   |   0.1    |   -3.9   |   0.1   
+ PQoQ%: |  -62.5   | -40133.3 |  -100.5  | -6566.7  |  -103.4 
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- Last 3QSALES is about 100% YSales
+- YProfits and YSales DOUBLED in Mar2024
+
+YSALES in Mar-2024 is at 1.2 showing a QoQ_growth of 212.8%. The YNETPROFIT grew by 79.2% to -11.7

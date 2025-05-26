@@ -1,0 +1,21 @@
+CODE	NAME
+538794 
+
+SECTOR : Construction
+INDUSTRY : Construction
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2024 #Result
+0.40cr, QoQ -23.90% & YoY 0.00% SALES;
+-0.20cr, QoQ 33.30% & YoY -71.43% OPERATING PROFIT;
+0.10cr, QoQ 0.00% & YoY -125.00% NET PROFIT;
+OPM %: 0.00% vs 0.0%
+NPM %: 17.10% vs 13.0%
+

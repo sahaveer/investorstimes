@@ -1,0 +1,41 @@
+CODES
+MARINE	
+SECTOR : Capital Goods - Electrical Equipment
+INDUSTRY : Electric Equipment
+PRODUCT DEMAND
+BestQ Dec 2024
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  262.9   |  251.3   |  376.3   |  442.8   |  622.1   |     516.4    
+ SQoQ%:  |  -34.2   |   -4.4   |   49.8   |   17.7   |   40.5   |      83.0    
+ YOPM%:  |   8.6    |   10.8   |   8.5    |   8.7    |   8.3    |              
+ YNPM%:  |   2.1    |   5.1    |   3.4    |   3.8    |   4.2    |              
+YPROFIT: |   5.6    |   12.9   |   13.0   |   17.0   |   25.9   |      25.0    
+ PQoQ%:  |  -39.2   |  129.9   |   0.6    |   31.0   |   52.4   |      96.5    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  146.6   |  237.1   |  138.5   |  184.1   |  193.8  
+ QoQ%:  |   6.8    |   61.7   |  -41.6   |   33.0   |   5.3   
+ QOPM%: |   7.8    |   8.6    |   9.6    |   11.6   |   5.9   
+ QNPM%: |   3.4    |   5.3    |   5.1    |   6.9    |   2.7   
+ QPFT:  |   5.0    |   12.7   |   7.1    |   12.7   |   5.2   
+ PQoQ%: |   6.4    |  154.4   |  -43.7   |   78.4   |  -59.2  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 97% of YProfit
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 40.5% while the Profit QoQ_growth is much better than Sales itself at 52.4%
+
+Yearly 
+ 31-Mar-2024 #Result
+622.10cr, QoQ 40.50% & YoY 136.63% SALES;
+51.80cr, QoQ 34.30% & YoY 130.22% OPERATING PROFIT;
+25.90cr, QoQ 52.40% & YoY 362.50% NET PROFIT;
+OPM %: 8.30% vs 8.7%
+NPM %: 4.20% vs 3.8%
+

@@ -1,0 +1,22 @@
+CODE	NAME
+544330 
+
+SECTOR : Mining & Mineral products
+INDUSTRY : Mining / Minerals / Metals
+
+***CONS***
+
+
+
+***PROS***
+
+YSALES in Mar-2025 is at 1382.4 showing a QoQ_growth of 25.6%. The YNETPROFIT grew by 52.1% to 11.0
+
+Yearly 
+ 31-Mar-2025 #Result
+1382.40cr, QoQ 25.60% & YoY 156.81% SALES;
+15.10cr, QoQ 36.10% & YoY 98.68% OPERATING PROFIT;
+11.00cr, QoQ 52.10% & YoY 182.05% NET PROFIT;
+OPM %: 1.10% vs 1.0%
+NPM %: 0.80% vs 0.7%
+

@@ -1,0 +1,37 @@
+CODES
+532627	JPPOWER	
+SECTOR : Power Generation & Distribution
+INDUSTRY : Power Generation And Supply
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  3301.7  |  4624.6  |  5786.7  |  6762.8  |  5462.2 
+ SQoQ%:  |   0.5    |   40.1   |   25.1   |   16.9   |  -19.2  
+ YOPM%:  |   35.1   |   24.1   |   19.4   |   33.1   |   34.0  
+ YNPM%:  |   8.1    |   2.3    |   1.0    |   15.1   |   14.9  
+YPROFIT: |  267.1   |  107.5   |   55.4   |  1022.0  |  813.6  
+ PQoQ%:  |  -112.4  |  -59.8   |  -48.4   |  1744.0  |  -20.4  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  1514.8  |  1754.7  |  1226.4  |  1140.2  |  1340.9 
+ QoQ%:  |  -30.8   |   15.8   |  -30.1   |   -7.0   |   17.6  
+ QOPM%: |   48.0   |   45.0   |   31.5   |   25.4   |   29.0  
+ QNPM%: |   38.9   |   19.9   |   14.9   |   11.1   |   11.6  
+ QPFT:  |  588.8   |  348.5   |  182.7   |  126.7   |  155.7  
+ PQoQ%: |  240.6   |  -40.8   |  -47.6   |  -30.6   |   22.9  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+
+Yearly 
+ 31-Mar-2025 #Result
+5462.20cr, QoQ -19.20% & YoY 65.44% SALES;
+1854.60cr, QoQ -17.10% & YoY 60.24% OPERATING PROFIT;
+813.60cr, QoQ -20.40% & YoY 204.61% NET PROFIT;
+OPM %: 34.00% vs 33.1%
+NPM %: 14.90% vs 15.1%
+

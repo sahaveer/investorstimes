@@ -1,0 +1,26 @@
+CODES
+544133	EXICOM	
+SECTOR : Capital Goods - Electrical Equipment
+INDUSTRY : Electric Equipment
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 59% YSales
+
+YSALES in Mar-2024 is at 1019.6 showing a QoQ_growth of 44.0%. The YNETPROFIT grew by 698.0% to 63.9
+
+Yearly 
+ 31-Mar-2024 #Result
+1019.60cr, QoQ 44.00% SALES;
+112.90cr, QoQ 112.50% OPERATING PROFIT;
+63.90cr, QoQ 698.00% NET PROFIT;
+OPM %: 11.10% vs 7.5%
+NPM %: 6.30% vs 1.1%
+

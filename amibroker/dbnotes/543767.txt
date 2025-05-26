@@ -1,0 +1,38 @@
+CODES
+543767	BTML	
+SECTOR : Entertainment
+INDUSTRY : Entertainment / Electronic Media Software
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   26.7   |   35.7   |   59.1   |   42.6   |   64.0   |      48.9    
+ SQoQ%:  |   nan    |   33.6   |   65.5   |  -27.9   |   50.2   |      76.4    
+ YOPM%:  |   12.2   |   9.0    |   5.2    |   12.1   |   9.3    |              
+ YNPM%:  |   13.4   |   7.0    |   5.5    |   7.7    |   5.3    |              
+YPROFIT: |   3.6    |   2.5    |   3.2    |   3.3    |   3.4    |      2.6     
+ PQoQ%:  |   nan    |  -30.6   |   29.7   |   0.9    |   4.0    |      76.5    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   12.9   |   12.7   |   18.0   |   14.0   |   16.9  
+ QoQ%:  |   -0.9   |   -1.3   |   41.5   |  -22.2   |   20.4  
+ QOPM%: |   7.4    |   24.7   |   0.0    |   17.1   |   14.7  
+ QNPM%: |   0.0    |   22.8   |   0.0    |   12.8   |   8.5   
+ QPFT:  |   -0.2   |   2.9    |   -0.6   |   1.8    |   1.4   
+ PQoQ%: |  -126.0  | -1626.3  |  -119.3  |  -419.6  |  -20.1  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 76% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+64.00cr, QoQ 50.20% & YoY 139.70% SALES;
+6.00cr, QoQ 15.90% & YoY 81.82% OPERATING PROFIT;
+3.40cr, QoQ 4.00% & YoY -5.56% NET PROFIT;
+OPM %: 9.30% vs 12.1%
+NPM %: 5.30% vs 7.7%
+

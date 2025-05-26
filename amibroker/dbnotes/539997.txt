@@ -1,0 +1,41 @@
+CODE	NAME
+539997 
+
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+BestQ Dec 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  138.5   |  260.5   |  456.1   |  251.0   |  307.2   |     254.5    
+ SQoQ%:  |  -15.9   |   88.1   |   75.1   |  -45.0   |   22.4   |      82.8    
+ YOPM%:  |   10.2   |   11.2   |   37.6   |   24.3   |   21.7   |              
+ YNPM%:  |   6.1    |   5.9    |   26.3   |   7.8    |   7.8    |              
+YPROFIT: |   8.4    |   15.4   |  120.0   |   19.5   |   24.0   |      25.4    
+ PQoQ%:  |   11.7   |   82.9   |  678.5   |  -83.8   |   23.2   |     105.8    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   78.1   |   92.0   |   80.1   |   90.0   |   84.4  
+ QoQ%:  |   12.1   |   17.8   |  -12.9   |   12.4   |   -6.2  
+ QOPM%: |   21.4   |   22.7   |   21.7   |   21.9   |   20.7  
+ QNPM%: |   9.9    |   4.9    |   10.5   |   9.4    |   10.1  
+ QPFT:  |   7.7    |   4.5    |   8.4    |   8.5    |   8.5   
+ PQoQ%: |   23.0   |  -41.6   |   86.0   |   1.4    |   0.6   
+
+***PROS***
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 106% of YProfit
+
+
+YSALES in Mar-2024 is at 307.2 showing a QoQ_growth of 22.4%. The YNETPROFIT grew by 23.2% to 24.0
+
+Yearly 
+ 31-Mar-2024 #Result
+307.20cr, QoQ 22.40% & YoY 121.81% SALES;
+66.60cr, QoQ 9.50% & YoY 372.34% OPERATING PROFIT;
+24.00cr, QoQ 23.20% & YoY 185.71% NET PROFIT;
+OPM %: 21.70% vs 24.3%
+NPM %: 7.80% vs 7.8%
+

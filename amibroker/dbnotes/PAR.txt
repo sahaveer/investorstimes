@@ -1,0 +1,38 @@
+CODES
+PAR	
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   60.8   |   75.1   |   95.8   |   95.6   |  101.0  
+ SQoQ%:  |   8.8    |   23.6   |   27.5   |   -0.1   |   5.6   
+ YOPM%:  |   26.4   |   21.6   |   19.0   |   23.9   |   19.3  
+ YNPM%:  |   19.1   |   12.3   |   11.8   |   15.2   |   13.2  
+YPROFIT: |   11.6   |   9.2    |   11.3   |   14.5   |   13.4  
+ PQoQ%:  |  143.9   |  -20.7   |   23.0   |   28.0   |   -7.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   22.8   |   22.6   |   34.7   |   21.4   |   22.3  
+ QoQ%:  |   -4.9   |   -0.9   |   53.3   |  -38.3   |   4.4   
+ QOPM%: |   26.7   |   18.8   |   32.9   |   6.7    |   10.9  
+ QNPM%: |   16.3   |   11.2   |   24.8   |   2.7    |   7.4   
+ QPFT:  |   3.7    |   2.5    |   8.6    |   0.6    |   1.6   
+ PQoQ%: |   8.8    |  -32.0   |  239.9   |  -93.3   |  184.5  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 15.3%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+
+
+Yearly 
+ 31-Mar-2025 #Result
+101.00cr, QoQ 5.60% & YoY 66.12% SALES;
+19.50cr, QoQ -14.50% & YoY 21.88% OPERATING PROFIT;
+13.40cr, QoQ -7.90% & YoY 15.52% NET PROFIT;
+OPM %: 19.30% vs 23.9%
+NPM %: 13.20% vs 15.2%
+

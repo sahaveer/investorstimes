@@ -1,0 +1,43 @@
+CODES
+SHERA	
+SECTOR : Non Ferrous Metals
+INDUSTRY : Mining / Minerals / Metals
+PRODUCT DEMAND
+BestQ Dec 2024
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  425.3   |  421.9   |  523.8   |  696.4   |  875.1   |     906.7    
+ SQoQ%:  |   nan    |   -0.8   |   24.2   |   32.9   |   25.7   |     103.6    
+ YOPM%:  |   6.9    |   7.7    |   6.4    |   5.5    |   5.9    |              
+ YNPM%:  |   1.1    |   1.2    |   1.3    |   1.1    |   1.4    |              
+YPROFIT: |   4.5    |   5.0    |   6.6    |   7.6    |   11.9   |      12.3    
+ PQoQ%:  |   nan    |   11.4   |   32.9   |   15.1   |   55.9   |     103.4    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  206.1   |  285.2   |  295.6   |  305.8   |  305.3  
+ QoQ%:  |   12.9   |   38.3   |   3.7    |   3.5    |   -0.2  
+ QOPM%: |   5.2    |   4.8    |   5.6    |   3.9    |   3.9   
+ QNPM%: |   2.2    |   0.8    |   1.3    |   1.2    |   1.5   
+ QPFT:  |   4.4    |   2.3    |   4.0    |   3.6    |   4.7   
+ PQoQ%: |   52.1   |  -47.3   |   69.7   |   -9.6   |   29.8  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 18.5%
+- Last 3QSALES is about 104% YSales
+- Last 3QPROFIT is about 103% of YProfit
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 25.7% while the Profit QoQ_growth is much better than Sales itself at 55.9%
+
+Yearly 
+ 31-Mar-2024 #Result
+875.10cr, QoQ 25.70% & YoY 105.76% SALES;
+51.30cr, QoQ 32.90% & YoY 73.90% OPERATING PROFIT;
+11.90cr, QoQ 55.90% & YoY 164.44% NET PROFIT;
+OPM %: 5.90% vs 5.5%
+NPM %: 1.40% vs 1.1%
+

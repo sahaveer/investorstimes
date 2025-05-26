@@ -1,0 +1,37 @@
+CODE	NAME
+533095 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  | 10121.8  | 10438.6  | 13608.7  | 16521.0  | 12961.6  |     1608.7   
+ SQoQ%:  |  -19.2   |   3.1    |   30.4   |   21.4   |  -21.5   |      12.4    
+ YOPM%:  |   12.5   |   14.4   |   9.8    |   9.8    |   14.8   |              
+ YNPM%:  |   4.5    |   4.9    |   4.6    |   5.7    |   30.0   |              
+YPROFIT: |  455.2   |  508.4   |  627.8   |  937.7   |  3891.6  |     509.2    
+ PQoQ%:  |   26.2   |   11.7   |   23.5   |   49.4   |  315.0   |      13.1    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  3777.3  |  522.9   |  528.3   |  589.9   |  490.5  
+ QoQ%:  |  -13.7   |  -86.2   |   1.0    |   11.7   |  -16.9  
+ QOPM%: |   14.6   |   21.1   |   15.8   |   26.7   |   14.2  
+ QNPM%: |   78.4   |   59.5   |   47.0   |   21.7   |   27.1  
+ QPFT:  |  2962.0  |  311.3   |  248.4   |  128.0   |  132.8  
+ PQoQ%: |  824.3   |  -89.5   |  -20.2   |  -48.5   |   3.8   
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+Yearly 
+ 31-Mar-2024 #Result
+12961.60cr, QoQ -21.50% & YoY 28.06% SALES;
+1917.90cr, QoQ 18.50% & YoY 51.80% OPERATING PROFIT;
+3891.60cr, QoQ 315.00% & YoY 754.92% NET PROFIT;
+OPM %: 14.80% vs 9.8%
+NPM %: 30.00% vs 5.7%
+

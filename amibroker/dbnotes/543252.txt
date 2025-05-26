@@ -1,0 +1,40 @@
+CODES
+543252	FAIRCHEMOR	
+SECTOR : 
+INDUSTRY : 
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  306.5   |  396.6   |  643.2   |  648.0   |  621.5   |     417.1    
+ SQoQ%:  |   nan    |   29.4   |   62.2   |   0.8    |   -4.1   |      67.1    
+ YOPM%:  |   15.9   |   17.4   |   16.3   |   11.2   |   10.8   |              
+ YNPM%:  |   11.3   |   10.7   |   10.6   |   6.7    |   6.5    |              
+YPROFIT: |   34.7   |   42.5   |   67.9   |   43.5   |   40.5   |      21.3    
+ PQoQ%:  |   nan    |   22.4   |   59.9   |  -35.9   |   -6.9   |      52.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  148.1   |  160.6   |  164.9   |  138.6   |  113.6  
+ QoQ%:  |   -2.7   |   8.4    |   2.7    |  -16.0   |  -18.1  
+ QOPM%: |   13.3   |   11.7   |   13.2   |   6.3    |   6.9   
+ QNPM%: |   8.3    |   7.3    |   8.4    |   2.9    |   3.1   
+ QPFT:  |   12.3   |   11.8   |   13.8   |   4.0    |   3.5   
+ PQoQ%: |   19.8   |   -4.6   |   17.8   |  -71.0   |  -12.2  
+
+***PROS***
+A DEBT-Free Company
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 67% YSales
+- Last 3QPROFIT is about 53% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+621.50cr, QoQ -4.10% & YoY 102.77% SALES;
+67.00cr, QoQ -7.40% & YoY 37.58% OPERATING PROFIT;
+40.50cr, QoQ -6.90% & YoY 16.71% NET PROFIT;
+OPM %: 10.80% vs 11.2%
+NPM %: 6.50% vs 6.7%
+

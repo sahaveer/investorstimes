@@ -1,0 +1,14 @@
+CODE	NAME
+539097 
+
+SECTOR : Trading
+INDUSTRY : Trading
+
+***CONS***
+- NEGATIVE YProfit : -0.2
+
+
+
+
+
+***PROS***

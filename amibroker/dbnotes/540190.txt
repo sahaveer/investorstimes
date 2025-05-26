@@ -1,0 +1,48 @@
+CODE	NAME
+540190 
+
+SECTOR : Trading
+INDUSTRY : Trading
+BestQ Dec 2024
+YSD YPD 2024
+LYPD PM 2024
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   13.1   |   15.0   |   17.0   |   20.5   |   50.6   |      83.8    
+ SQoQ%:  |  -24.4   |   14.3   |   13.2   |   20.6   |  146.5   |     165.6    
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   14.0   |   21.7   |              
+ YNPM%:  |   0.3    |   0.3    |   0.1    |   1.0    |   20.7   |              
+YPROFIT: |   0.0    |   0.0    |   0.0    |   0.2    |   10.5   |      12.9    
+ PQoQ%:  |  -55.6   |   0.0    |  -75.0   |  2000.0  |  4881.0  |     122.9    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   16.7   |   18.1   |   26.6   |   27.1   |   30.1  
+ QoQ%:  |   96.1   |   7.9    |   47.5   |   1.8    |   11.2  
+ QOPM%: |   28.0   |   25.1   |   22.4   |   15.6   |   14.8  
+ QNPM%: |   20.6   |   31.3   |   21.2   |   14.7   |   10.9  
+ QPFT:  |   3.4    |   5.7    |   5.6    |   4.0    |   3.3   
+ PQoQ%: |  360.0   |   64.1   |   -0.2   |  -29.4   |  -17.5  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 68.3%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.2
+- Last 3QSALES is about 166% YSales
+- Last 3QPROFIT is about 123% of YProfit
+- YProfits and YSales DOUBLED in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2024
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 146.5% while the Profit QoQ_growth is much better than Sales itself at 4881.0%
+
+Yearly 
+ 31-Mar-2024 #Result
+50.60cr, QoQ 146.50% & YoY 286.26% SALES;
+11.00cr, QoQ 282.20% & YoY inf% OPERATING PROFIT;
+10.50cr, QoQ 4881.00% & YoY inf% NET PROFIT;
+OPM %: 21.70% vs 14.0%
+NPM %: 20.70% vs 1.0%
+

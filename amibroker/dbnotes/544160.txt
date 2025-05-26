@@ -1,0 +1,22 @@
+CODE	NAME
+544160 
+
+SECTOR : FMCG
+INDUSTRY : Food - Processing - Indian
+
+***CONS***
+
+
+
+***PROS***
+
+YSALES in Mar-2025 is at 15.0 showing a QoQ_growth of 30.4%. The YNETPROFIT grew by 72.9% to 1.2
+
+Yearly 
+ 31-Mar-2025 #Result
+15.00cr, QoQ 30.40% SALES;
+3.80cr, QoQ 221.40% OPERATING PROFIT;
+1.20cr, QoQ 72.90% NET PROFIT;
+OPM %: 25.00% vs 10.2%
+NPM %: 8.10% vs 6.1%
+

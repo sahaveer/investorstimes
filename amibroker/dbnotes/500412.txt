@@ -1,0 +1,29 @@
+CODES
+500412	TIRUMALCHM	
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+EXPANSION 2024
+EXPANSION 2025
+
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -46.1
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1085.7  |  1998.2  |  2132.2  |  2083.1  |  2049.5 
+ SQoQ%:  |   0.1    |   84.0   |   6.7    |   -2.3   |   -1.6  
+ YOPM%:  |   20.3   |   22.1   |   8.7    |   2.4    |   2.4   
+ YNPM%:  |   10.8   |   14.1   |   4.2    |   0.0    |   0.0   
+YPROFIT: |  117.7   |  281.2   |   89.8   |  -38.8   |  -46.1  
+ PQoQ%:  |  407.9   |  139.0   |  -68.1   |  -143.2  |   18.8  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  526.5   |  554.7   |  525.1   |  446.6   |  523.1  
+ QoQ%:  |   7.0    |   5.3    |   -5.3   |  -14.9   |   17.1  
+ QOPM%: |   0.7    |   5.5    |   4.5    |   0.0    |   2.8   
+ QNPM%: |   0.0    |   0.9    |   0.9    |   0.0    |   0.0   
+ QPFT:  |  -20.5   |   5.1    |   4.9    |  -42.0   |  -14.1  
+ PQoQ%: |  -10.9   |  -124.9  |   -3.9   |  -959.3  |  -66.5  
+
+***PROS***
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year

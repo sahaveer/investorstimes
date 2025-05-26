@@ -1,0 +1,20 @@
+CODES
+AUSL	
+SECTOR : Steel
+INDUSTRY : Steel - Medium / Small
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2024 #Result
+587.80cr, QoQ 10.90% & YoY 77.80% SALES;
+18.00cr, QoQ 82.60% & YoY 195.08% OPERATING PROFIT;
+7.90cr, QoQ 184.90% & YoY 216.00% NET PROFIT;
+OPM %: 3.10% vs 1.9%
+NPM %: 1.30% vs 0.5%
+

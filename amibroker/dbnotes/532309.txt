@@ -1,0 +1,29 @@
+CODES
+532309	GEPIL	
+SECTOR : Infrastructure Developers & Operators
+INDUSTRY : Engineering - Turnkey Services
+PRODUCT DEMAND
+LYPD PM 2024
+
+***CONS***
+- NEGATIVE YProfit : -171.3
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  2445.9  |  3343.0  |  2620.4  |  1795.8  |  1624.8  |     780.7    
+ SQoQ%:  |   28.5   |   36.7   |  -21.6   |  -31.5   |   -9.5   |      48.0    
+ YOPM%:  |   6.2    |   4.9    |   0.0    |   0.0    |   0.0    |              
+ YNPM%:  |   3.5    |   2.1    |   0.0    |   0.0    |   0.0    |              
+YPROFIT: |   84.6   |   70.5   |  -288.8  |  -440.6  |  -171.3  |      38.8    
+ PQoQ%:  |   12.2   |  -16.7   |  -509.9  |   52.5   |  -61.1   |     -22.7    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  294.2   |  390.8   |  246.4   |  217.4   |  316.9  
+ QoQ%:  |   22.2   |   32.8   |  -36.9   |  -11.8   |   45.8  
+ QOPM%: |   0.8    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |   0.1    |   6.6    |   0.0    |   30.8   |   0.0   
+ QPFT:  |   0.4    |   25.9   |   -9.5   |   66.9   |  -18.6  
+ PQoQ%: |  -100.6  |  6910.8  |  -136.8  |  -800.9  |  -127.8 
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- LastYr YProfits Doubled and maintained in Mar2024

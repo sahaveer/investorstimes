@@ -1,0 +1,40 @@
+CODES
+517334	MOTHERSON	
+SECTOR : Auto Ancillaries
+INDUSTRY : Auto Ancillaries
+BestQ Dec 2024
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  | 60728.9  | 57369.9  | 63774.0  | 78788.1  | 98691.7  |    84345.8   
+ SQoQ%:  |   -4.4   |   -5.5   |   11.2   |   23.5   |   25.3   |      85.5    
+ YOPM%:  |   7.7    |   7.6    |   7.4    |   7.9    |   9.4    |              
+ YNPM%:  |   1.9    |   1.8    |   1.4    |   1.9    |   2.8    |              
+YPROFIT: |  1170.1  |  1039.2  |  873.8   |  1495.6  |  2716.2  |     2752.5   
+ PQoQ%:  |  -27.5   |  -11.2   |  -15.9   |   71.2   |   81.6   |     101.3    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: | 25643.9  | 27058.2  | 28868.0  | 27811.9  | 27665.9 
+ QoQ%:  |   9.2    |   5.5    |   6.7    |   -3.7   |   -0.5  
+ QOPM%: |   9.2    |   10.8   |   9.6    |   8.8    |   9.7   
+ QNPM%: |   2.1    |   5.1    |   3.4    |   3.2    |   3.2   
+ QPFT:  |  542.0   |  1371.8  |  994.2   |  879.7   |  878.6  
+ PQoQ%: |  168.9   |  153.1   |  -27.5   |  -11.5   |   -0.1  
+
+***PROS***
+- Last 3QSALES is about 85% YSales
+- Last 3QPROFIT is about 101% of YProfit
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 25.3% while the Profit QoQ_growth is much better than Sales itself at 81.6%
+
+Yearly 
+ 31-Mar-2024 #Result
+98691.70cr, QoQ 25.30% & YoY 62.51% SALES;
+9321.70cr, QoQ 49.10% & YoY 100.29% OPERATING PROFIT;
+2716.20cr, QoQ 81.60% & YoY 132.13% NET PROFIT;
+OPM %: 9.40% vs 7.9%
+NPM %: 2.80% vs 1.9%
+

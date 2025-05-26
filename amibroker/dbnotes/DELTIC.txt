@@ -1,0 +1,10 @@
+CODES
+DELTIC	
+SECTOR : Automobile
+INDUSTRY : Automobiles - Scooters And 3 - Wheelers
+
+***CONS***
+
+
+
+***PROS***

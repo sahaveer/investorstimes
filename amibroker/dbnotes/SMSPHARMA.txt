@@ -1,0 +1,29 @@
+CODES
+532815	SMSPHARMA	
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs
+BestQ Dec 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  412.0   |  563.2   |  519.9   |  522.0   |  709.3   |     534.6    
+ SQoQ%:  |  -11.4   |   36.7   |   -7.7   |   0.4    |   35.9   |      75.4    
+ YOPM%:  |   19.4   |   21.5   |   22.0   |   10.5   |   16.5   |              
+ YNPM%:  |   7.7    |   11.1   |   12.0   |   0.0    |   7.0    |              
+YPROFIT: |   31.6   |   62.5   |   62.2   |   -7.1   |   49.8   |      48.8    
+ PQoQ%:  |  -21.2   |   98.1   |   -0.5   |  -111.3  |  -805.8  |      98.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  161.5   |  245.8   |  164.4   |  196.8   |  173.4  
+ QoQ%:  |   -3.1   |   52.2   |  -33.1   |   19.6   |  -11.9  
+ QOPM%: |   18.0   |   13.7   |   20.4   |   16.0   |   19.2  
+ QNPM%: |   7.1    |   7.0    |   10.0   |   7.2    |   10.5  
+ QPFT:  |   11.5   |   17.3   |   16.5   |   14.1   |   18.2  
+ PQoQ%: |   -2.1   |   50.5   |   -4.6   |  -14.4   |   29.4  
+
+***PROS***
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 98% of YProfit
+- YProfit Turned POSITIVE this year Mar-2024 : 49.8

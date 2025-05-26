@@ -1,0 +1,22 @@
+CODE	NAME
+543916 
+
+SECTOR : Healthcare
+INDUSTRY : Healthcare
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+Yearly 
+ 31-Mar-2024 #Result
+105.60cr, QoQ -3.10% & YoY 88.24% SALES;
+10.50cr, QoQ -0.90% & YoY 288.89% OPERATING PROFIT;
+9.80cr, QoQ 28.30% & YoY 1860.00% NET PROFIT;
+OPM %: 9.90% vs 9.7%
+NPM %: 9.30% vs 7.0%
+

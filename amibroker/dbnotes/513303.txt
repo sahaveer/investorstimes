@@ -1,0 +1,36 @@
+CODE	NAME
+513303 
+
+SECTOR : Steel
+INDUSTRY : Steel - Medium / Small
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  211.5   |   83.5   |  102.0   |   0.0    |   0.0    |      0.0     
+ SQoQ%:  |  -34.2   |  -60.5   |   22.2   |  -100.0  |   nan    |      nan     
+ YOPM%:  |   0.0    |   0.0    |   0.2    |   0.0    |   0.0    |              
+ YNPM%:  |   0.0    |   0.0    |   74.6   |   inf    |   inf    |              
+YPROFIT: |  -50.8   |  -22.5   |   76.1   |   13.8   |   0.6    |      -0.0    
+ PQoQ%:  |  101.4   |  -55.7   |  -438.4  |  -81.8   |  -95.8   |      -0.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |   0.0    |   inf    |   0.0    |   0.0    |   0.0   
+ QPFT:  |   -0.0   |   1.0    |   -0.0   |   -0.0   |   -0.0  
+ PQoQ%: |   -inf   | -2040.0  |  -103.1  |   33.3   |  -50.0  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+
+Yearly 
+ 31-Mar-2024 #Result
+-1.30cr, QoQ 134.50% & YoY -97.17% OPERATING PROFIT;
+0.60cr, QoQ -95.80% & YoY -101.18% NET PROFIT;
+OPM %: 0.00% vs 0.0%
+NPM %: inf% vs inf%
+

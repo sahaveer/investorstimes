@@ -1,0 +1,22 @@
+CODES
+SABAR	
+SECTOR : Packaging
+INDUSTRY : Packaging
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+YSALES in Mar-2024 is at 126.2 showing a QoQ_growth of 32.4%. The YNETPROFIT grew by 137.2% to 4.3
+
+Yearly 
+ 31-Mar-2024 #Result
+126.20cr, QoQ 32.40% & YoY 98.43% SALES;
+9.60cr, QoQ 76.70% & YoY 166.67% OPERATING PROFIT;
+4.30cr, QoQ 137.20% & YoY 377.78% NET PROFIT;
+OPM %: 7.60% vs 5.7%
+NPM %: 3.40% vs 1.9%
+

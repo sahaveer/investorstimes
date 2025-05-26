@@ -1,0 +1,42 @@
+CODES
+544111	PARKHOTELS	
+SECTOR : Hotels & Restaurants
+INDUSTRY : Hotels
+BestQ Dec 2024
+YSD YPD 2023
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2019 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  421.3   |  178.8   |  255.0   |  510.4   |  579.0   |     454.2    
+ SQoQ%:  |   10.0   |  -57.6   |   42.6   |  100.2   |   13.4   |      78.4    
+ YOPM%:  |   20.2   |   6.5    |   18.2   |   32.0   |   33.3   |              
+ YNPM%:  |   2.3    |   0.0    |   0.0    |   9.4    |   11.9   |              
+YPROFIT: |   9.8    |  -75.8   |  -28.1   |   48.1   |   68.8   |      57.1    
+ PQoQ%:  |  -222.3  |  -877.2  |  -62.9   |  -271.3  |   43.0   |      83.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  158.9   |  155.7   |  135.1   |  141.6   |  177.5  
+ QoQ%:  |   17.8   |   -2.0   |  -13.2   |   4.8    |   25.4  
+ QOPM%: |   35.2   |   34.4   |   28.5   |   29.4   |   35.7  
+ QNPM%: |   17.3   |   11.9   |   0.0    |   18.9   |   18.1  
+ QPFT:  |   27.4   |   18.4   |   -1.9   |   26.8   |   32.2  
+ PQoQ%: |   85.0   |  -32.7   |  -110.4  | -1500.5  |   20.2  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 83% of YProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2024
+
+Yearly 
+ 31-Mar-2024 #Result
+579.00cr, QoQ 13.40% & YoY 37.43% SALES;
+192.90cr, QoQ 18.10% & YoY 126.41% OPERATING PROFIT;
+68.80cr, QoQ 43.00% & YoY 602.04% NET PROFIT;
+OPM %: 33.30% vs 32.0%
+NPM %: 11.90% vs 9.4%
+

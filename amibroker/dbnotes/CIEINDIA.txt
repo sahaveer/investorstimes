@@ -1,0 +1,35 @@
+CODES
+532756	CIEINDIA	
+SECTOR : Castings, Forgings & Fastners
+INDUSTRY : Castings & Forgings
+
+***CONS***
+ YPNL:   | Dec-2020 | Dec-2021 | Dec-2022 | Dec-2023 | Dec-2024
+---------+----------+----------+----------+----------+---------
+YSALES:  |  6050.1  |  6765.1  |  8753.0  |  9280.4  |  8964.1 
+ SQoQ%:  |  -23.5   |   11.8   |   29.4   |   6.0    |   -3.4  
+ YOPM%:  |   8.3    |   13.9   |   13.4   |   15.3   |   15.1  
+ YNPM%:  |   1.8    |   5.8    |   0.0    |   12.1   |   9.2   
+YPROFIT: |  106.4   |  392.9   |  -136.2  |  1125.2  |  827.5  
+ PQoQ%:  |  -69.9   |  269.3   |  -134.7  |  -926.3  |  -26.5  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  2426.8  |  2292.7  |  2134.6  |  2110.0  |  2272.6 
+ QoQ%:  |   8.3    |   -5.5   |   -6.9   |   -1.2   |   7.7   
+ QOPM%: |   14.9   |   15.7   |   15.5   |   14.2   |   14.8  
+ QNPM%: |   9.5    |   9.5    |   9.1    |   8.8    |   9.1   
+ QPFT:  |  230.5   |  216.8   |  195.2   |  185.0   |  206.4  
+ PQoQ%: |   36.4   |   -5.9   |  -10.0   |   -5.3   |   11.6  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+
+Yearly 
+ 31-Dec-2024 #Result
+8964.10cr, QoQ -3.40% & YoY 48.16% SALES;
+1350.60cr, QoQ -5.20% & YoY 169.26% OPERATING PROFIT;
+827.50cr, QoQ -26.50% & YoY 677.73% NET PROFIT;
+OPM %: 15.10% vs 15.3%
+NPM %: 9.20% vs 12.1%
+

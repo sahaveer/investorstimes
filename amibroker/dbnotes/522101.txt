@@ -1,0 +1,13 @@
+CODE	NAME
+522101 
+
+SECTOR : Capital Goods-Non Electrical Equipment
+INDUSTRY : Engineering
+
+***CONS***
+
+
+
+
+
+***PROS***

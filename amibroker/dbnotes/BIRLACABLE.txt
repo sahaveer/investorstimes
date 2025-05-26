@@ -1,0 +1,12 @@
+CODES
+500060	BIRLACABLE	
+SECTOR : Cables
+INDUSTRY : Cables - Telephone
+
+***CONS***
+
+
+
+
+
+***PROS***

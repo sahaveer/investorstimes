@@ -1,0 +1,13 @@
+CODE	NAME
+511672 
+
+SECTOR : Steel
+INDUSTRY : Steel - Medium / Small
+
+***CONS***
+
+
+
+
+
+***PROS***

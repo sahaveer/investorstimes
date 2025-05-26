@@ -1,0 +1,36 @@
+CODES
+532493	ASTRAMICRO	
+SECTOR : Aerospace & Defence
+INDUSTRY : Telecommunications - Equipment
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  640.9   |  750.5   |  815.5   |  908.8   |  1051.2 
+ SQoQ%:  |   37.2   |   17.1   |   8.7    |   11.4   |   15.7  
+ YOPM%:  |   12.0   |   11.6   |   17.8   |   21.1   |   25.6  
+ YNPM%:  |   4.5    |   5.0    |   8.6    |   13.3   |   14.6  
+YPROFIT: |   28.8   |   37.9   |   69.8   |  121.1   |  153.5  
+ PQoQ%:  |  -34.5   |   31.3   |   84.4   |   73.4   |   26.8  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  354.0   |  155.2   |  229.6   |  258.5   |  407.8  
+ QoQ%:  |   53.2   |  -56.2   |   48.0   |   12.6   |   57.8  
+ QOPM%: |   22.8   |   15.5   |   21.4   |   29.5   |   29.0  
+ QNPM%: |   15.4   |   4.6    |   11.1   |   18.3   |   18.0  
+ QPFT:  |   54.4   |   7.2    |   25.4   |   47.4   |   73.5  
+ PQoQ%: |   25.4   |  -86.8   |  252.6   |   86.8   |   54.9  
+
+***PROS***
+
+YSALES in Mar-2025 is at 1051.2 showing a QoQ_growth of 15.7%. The YNETPROFIT grew by 26.8% to 153.5
+
+Yearly 
+ 31-Mar-2025 #Result
+1051.20cr, QoQ 15.70% & YoY 64.02% SALES;
+269.00cr, QoQ 40.10% & YoY 249.80% OPERATING PROFIT;
+153.50cr, QoQ 26.80% & YoY 432.99% NET PROFIT;
+OPM %: 25.60% vs 21.1%
+NPM %: 14.60% vs 13.3%
+

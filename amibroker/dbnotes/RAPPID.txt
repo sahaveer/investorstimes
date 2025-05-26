@@ -1,0 +1,28 @@
+CODES
+RAPPID	
+SECTOR : Capital Goods-Non Electrical Equipment
+INDUSTRY : Engineering
+PRODUCT DEMAND
+YSD YPD 2024
+LYPD PM 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 42.8% while the Profit QoQ_growth is much better than Sales itself at 46.2%
+
+Yearly 
+ 31-Mar-2025 #Result
+52.10cr, QoQ 42.80% SALES;
+9.90cr, QoQ 35.10% OPERATING PROFIT;
+6.00cr, QoQ 46.20% NET PROFIT;
+OPM %: 19.10% vs 20.1%
+NPM %: 11.60% vs 11.3%
+

@@ -1,0 +1,46 @@
+CODES
+544271	GARUDA	
+SECTOR : Infrastructure Developers & Operators
+INDUSTRY : Engineering - Turnkey Services
+EXPANSION 2024
+BestQ Dec 2024
+YSD YPD 2023
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  123.9   |   72.0   |   77.0   |  160.7   |  154.2   |     144.1    
+ SQoQ%:  |   nan    |  -41.9   |   7.0    |  108.6   |   -4.1   |      93.5    
+ YOPM%:  |   3.4    |   20.7   |   35.3   |   34.6   |   32.3   |              
+ YNPM%:  |   1.2    |   12.9   |   24.4   |   25.4   |   23.6   |              
+YPROFIT: |   1.5    |   9.3    |   18.8   |   40.8   |   36.4   |      31.7    
+ PQoQ%:  |   nan    |  531.3   |  102.4   |  117.3   |  -10.7   |      87.1    
+ QPNL:  | Sep-2023 | Dec-2023 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   21.1   |   57.5   |   35.1   |   46.8   |   62.2  
+ QoQ%:  |   nan    |  173.0   |  -38.9   |   33.1   |   33.1  
+ QOPM%: |   33.1   |   32.3   |   33.2   |   28.7   |   27.7  
+ QNPM%: |   24.4   |   24.1   |   24.6   |   21.9   |   20.7  
+ QPFT:  |   5.1    |   13.8   |   8.6    |   10.2   |   12.9  
+ PQoQ%: |   nan    |  169.3   |  -37.5   |   18.5   |   25.6  
+
+***PROS***
+A DEBT-Free Company for the last 2 yrs
+EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 30.9%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.2
+- Last 3QSALES is about 93% YSales
+- Last 3QPROFIT is about 87% of YProfit
+- YProfits and YSales DOUBLED in Mar2023
+
+
+Yearly 
+ 31-Mar-2024 #Result
+154.20cr, QoQ -4.10% & YoY 24.46% SALES;
+49.80cr, QoQ -10.50% & YoY 1085.71% OPERATING PROFIT;
+36.40cr, QoQ -10.70% & YoY 2326.67% NET PROFIT;
+OPM %: 32.30% vs 34.6%
+NPM %: 23.60% vs 25.4%
+

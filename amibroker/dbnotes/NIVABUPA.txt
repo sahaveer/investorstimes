@@ -1,0 +1,39 @@
+CODES
+544286	NIVABUPA	
+SECTOR : 
+INDUSTRY : 
+LYPD PM 2025
+YS15 YPD 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1413.0  |  2114.0  |  3165.2  |  4195.6  |  5374.3 
+ SQoQ%:  |   33.6   |   49.6   |   49.7   |   32.6   |   28.1  
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   1.1   
+ YNPM%:  |   0.0    |   0.0    |   0.4    |   2.0    |   4.0   
+YPROFIT: |  -49.7   |  -196.5  |   12.5   |   81.8   |  213.5  
+ PQoQ%:  |  -19.2   |  295.1   |  -106.4  |  552.7   |  160.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  1315.6  |  1124.2  |  1321.3  |  1258.0  |  1670.8 
+ QoQ%:  |   28.3   |  -14.5   |   17.5   |   -4.8   |   32.8  
+ QOPM%: |   7.6    |   0.0    |   0.0    |   0.0    |   15.0  
+ QNPM%: |   11.9   |   0.0    |   1.0    |   1.1    |   12.3  
+ QPFT:  |  157.1   |  -18.8   |   13.0   |   13.2   |  206.1  
+ PQoQ%: |  3329.3  |  -112.0  |  -169.2  |   1.7    |  1456.5 
+
+***PROS***
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
+As on Mar2025, Sales have increased by 28.1% while the Profit QoQ_growth is much better than Sales itself at 160.9%
+
+Yearly 
+ 31-Mar-2025 #Result
+5374.30cr, QoQ 28.10% & YoY 280.35% SALES;
+58.10cr, QoQ -126.70% & YoY -366.51% OPERATING PROFIT;
+213.50cr, QoQ 160.90% & YoY -529.58% NET PROFIT;
+OPM %: 1.10% vs 0.0%
+NPM %: 4.00% vs 2.0%
+

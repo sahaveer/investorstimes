@@ -1,0 +1,37 @@
+CODES
+500042	BASF	
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+EXPANSION 2024
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2009 | Mar-2010 | Mar-2020 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1317.6  |  1627.3  |  7594.6  | 13767.5  | 15260.0 
+ SQoQ%:  |   24.9   |   23.5   |  366.7   |   81.3   |   10.8  
+ YOPM%:  |   7.9    |   10.5   |   3.7    |   6.5    |   4.8   
+ YNPM%:  |   3.7    |   5.9    |   0.3    |   4.1    |   3.1   
+YPROFIT: |   48.6   |   96.1   |   22.9   |  563.3   |  479.1  
+ PQoQ%:  |  -15.4   |   97.6   |  -76.2   |  2364.0  |  -15.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  3360.0  |  3966.9  |  4247.7  |  3758.7  |  3286.7 
+ QoQ%:  |   1.0    |   18.1   |   7.1    |  -11.5   |  -12.6  
+ QOPM%: |   7.3    |   7.9    |   4.7    |   4.5    |   1.5   
+ QNPM%: |   4.8    |   5.6    |   3.0    |   2.8    |   0.8   
+ QPFT:  |  161.4   |  220.6   |  127.9   |  103.6   |   27.0  
+ PQoQ%: |   15.3   |   36.6   |  -42.0   |  -19.1   |  -73.9  
+
+***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2025 #Result
+15260.00cr, QoQ 10.80% & YoY 1058.17% SALES;
+733.40cr, QoQ -17.60% & YoY 601.82% OPERATING PROFIT;
+479.10cr, QoQ -15.00% & YoY 885.80% NET PROFIT;
+OPM %: 4.80% vs 6.5%
+NPM %: 3.10% vs 4.1%
+

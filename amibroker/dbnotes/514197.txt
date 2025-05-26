@@ -1,0 +1,14 @@
+CODE	NAME
+514197 
+
+SECTOR : Realty
+INDUSTRY : Construction
+
+***CONS***
+- NEGATIVE YProfit : -0.2
+
+
+
+
+
+***PROS***

@@ -1,0 +1,12 @@
+CODES
+534392	VSSL	
+SECTOR : Steel
+INDUSTRY : Steel - Medium / Small
+
+***CONS***
+
+
+
+
+
+***PROS***

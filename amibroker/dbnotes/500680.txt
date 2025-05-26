@@ -1,0 +1,37 @@
+CODES
+500680	PFIZER	
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Multinational
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  2238.6  |  2611.0  |  2424.8  |  2193.2  |  2281.4 
+ SQoQ%:  |   4.0    |   16.6   |   -7.1   |   -9.6   |   4.0   
+ YOPM%:  |   31.8   |   32.0   |   33.4   |   29.1   |   32.4  
+ YNPM%:  |   22.2   |   23.5   |   25.7   |   25.1   |   33.6  
+YPROFIT: |  497.6   |  612.6   |  623.9   |  551.3   |  767.6  
+ PQoQ%:  |   -2.3   |   23.1   |   1.9    |  -11.6   |   39.2  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  546.6   |  562.9   |  588.6   |  538.0   |  591.9  
+ QoQ%:  |   1.2    |   3.0    |   4.6    |   -8.6   |   10.0  
+ QOPM%: |   34.7   |   31.5   |   32.2   |   27.1   |   38.4  
+ QNPM%: |   32.7   |   26.8   |   26.9   |   23.7   |   55.9  
+ QPFT:  |  178.9   |  150.7   |  158.4   |  127.6   |  330.9  
+ PQoQ%: |   37.6   |  -15.7   |   5.1    |  -19.4   |  159.4  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+
+
+Yearly 
+ 31-Mar-2025 #Result
+2281.40cr, QoQ 4.00% & YoY 1.91% SALES;
+740.20cr, QoQ 16.00% & YoY 3.90% OPERATING PROFIT;
+767.60cr, QoQ 39.20% & YoY 54.26% NET PROFIT;
+OPM %: 32.40% vs 29.1%
+NPM %: 33.60% vs 25.1%
+

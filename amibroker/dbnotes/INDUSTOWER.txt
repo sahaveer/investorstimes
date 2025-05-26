@@ -1,0 +1,38 @@
+CODES
+534816	INDUSTOWER	
+SECTOR : Telecomm Equipment & Infra Services
+INDUSTRY : Transmisson Line Towers / Equipment
+PRODUCT DEMAND
+LYPD PM 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  | 13954.3  | 27717.2  | 28381.8  | 28600.6  | 30122.8 
+ SQoQ%:  |  106.9   |   98.6   |   2.4    |   0.8    |   5.3   
+ YOPM%:  |   51.4   |   53.8   |   34.1   |   50.9   |   69.2  
+ YNPM%:  |   27.1   |   23.0   |   7.2    |   21.1   |   33.0  
+YPROFIT: |  3779.0  |  6373.1  |  2040.0  |  6036.2  |  9931.7 
+ PQoQ%:  |   14.6   |   68.6   |  -68.0   |  195.9   |   64.5  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  7193.2  |  7383.0  |  7465.3  |  7547.4  |  7727.1 
+ QoQ%:  |   -0.1   |   2.6    |   1.1    |   1.1    |   2.4   
+ QOPM%: |   56.6   |   61.0   |   65.2   |   92.2   |   56.9  
+ QNPM%: |   25.8   |   26.1   |   29.8   |   53.0   |   23.0  
+ QPFT:  |  1853.1  |  1925.9  |  2223.5  |  4003.2  |  1779.1 
+ PQoQ%: |   20.3   |   3.9    |   15.5   |   80.0   |  -55.6  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+Yearly 
+ 31-Mar-2025 #Result
+30122.80cr, QoQ 5.30% & YoY 115.87% SALES;
+20844.70cr, QoQ 43.20% & YoY 190.34% OPERATING PROFIT;
+9931.70cr, QoQ 64.50% & YoY 162.81% NET PROFIT;
+OPM %: 69.20% vs 50.9%
+NPM %: 33.00% vs 21.1%
+

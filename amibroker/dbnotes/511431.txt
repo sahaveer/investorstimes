@@ -1,0 +1,40 @@
+CODES
+511431	VAKRANGEE	
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Medium / Small
+PRODUCT DEMAND
+LYPD PM 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  314.3   |  193.8   |  197.3   |  212.6   |  255.0  
+ SQoQ%:  |  -54.1   |  -38.3   |   1.8    |   7.7    |   20.0  
+ YOPM%:  |   8.9    |   9.4    |   9.4    |   12.4   |   9.5   
+ YNPM%:  |   20.0   |   0.0    |   0.5    |   2.0    |   2.6   
+YPROFIT: |   62.8   |   0.0    |   1.0    |   4.4    |   6.7   
+ PQoQ%:  |  -11.9   |  -100.0  |   inf    |  335.0   |   53.1  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   53.9   |   58.7   |   65.2   |   67.9   |   63.2  
+ QoQ%:  |   4.5    |   8.9    |   11.2   |   4.0    |   -6.9  
+ QOPM%: |   14.1   |   11.2   |   8.0    |   8.1    |   10.8  
+ QNPM%: |   4.1    |   3.8    |   1.1    |   1.8    |   4.0   
+ QPFT:  |   2.2    |   2.2    |   0.7    |   1.2    |   2.5   
+ PQoQ%: |   76.6   |   2.3    |  -69.2   |   72.5   |  113.4  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 255.0 showing a QoQ_growth of 20.0%. The YNETPROFIT grew by 53.1% to 6.7
+
+Yearly 
+ 31-Mar-2025 #Result
+255.00cr, QoQ 20.00% & YoY -18.87% SALES;
+24.10cr, QoQ -8.60% & YoY -13.93% OPERATING PROFIT;
+6.70cr, QoQ 53.10% & YoY -89.33% NET PROFIT;
+OPM %: 9.50% vs 12.4%
+NPM %: 2.60% vs 2.0%
+

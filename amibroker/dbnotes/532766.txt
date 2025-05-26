@@ -1,0 +1,14 @@
+CODE	NAME
+532766 
+
+SECTOR : Construction
+INDUSTRY : Construction
+
+***CONS***
+- NEGATIVE YProfit : -57.3
+
+
+
+
+
+***PROS***

@@ -1,0 +1,37 @@
+CODES
+539871	THYROCARE	
+SECTOR : Healthcare
+INDUSTRY : Healthcare
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  494.6   |  588.9   |  526.7   |  571.9   |  687.4  
+ SQoQ%:  |   13.9   |   19.1   |  -10.6   |   8.6    |   20.2  
+ YOPM%:  |   34.6   |   40.0   |   23.4   |   24.4   |   27.5  
+ YNPM%:  |   22.9   |   29.9   |   12.2   |   12.4   |   13.3  
+YPROFIT: |  113.2   |  176.1   |   64.5   |   70.8   |   91.5  
+ PQoQ%:  |   28.0   |   55.7   |  -63.4   |   9.7    |   29.3  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  154.2   |  156.9   |  177.4   |  165.9   |  187.2  
+ QoQ%:  |   14.5   |   1.7    |   13.0   |   -6.5   |   12.8  
+ QOPM%: |   21.8   |   27.0   |   27.1   |   25.1   |   30.5  
+ QNPM%: |   11.5   |   15.4   |   15.0   |   11.5   |   11.6  
+ QPFT:  |   17.8   |   24.2   |   26.7   |   19.1   |   21.7  
+ PQoQ%: |   15.8   |   35.9   |   10.3   |  -28.3   |   13.6  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 20.0%
+
+YSALES in Mar-2025 is at 687.4 showing a QoQ_growth of 20.2%. The YNETPROFIT grew by 29.3% to 91.5
+
+Yearly 
+ 31-Mar-2025 #Result
+687.40cr, QoQ 20.20% & YoY 38.98% SALES;
+188.90cr, QoQ 35.20% & YoY 10.34% OPERATING PROFIT;
+91.50cr, QoQ 29.30% & YoY -19.17% NET PROFIT;
+OPM %: 27.50% vs 24.4%
+NPM %: 13.30% vs 12.4%
+

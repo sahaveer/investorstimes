@@ -1,0 +1,33 @@
+CODE	NAME
+500143 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+BestQ Dec 2024
+YSD YPD 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   59.1   |   48.3   |   83.1   |   76.2   |  161.4   |     152.0    
+ SQoQ%:  |   14.6   |  -18.3   |   72.0   |   -8.3   |  111.9   |      94.2    
+ YOPM%:  |   0.0    |   32.9   |   17.3   |   0.0    |   17.2   |              
+ YNPM%:  |   0.0    |   21.3   |   14.0   |   0.0    |   12.5   |              
+YPROFIT: |   -2.7   |   10.3   |   11.6   |   -3.8   |   20.1   |      14.6    
+ PQoQ%:  |  506.8   |  -485.8  |   12.7   |  -132.4  |  -635.4  |      72.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   29.9   |   64.9   |   47.3   |   30.1   |   74.6  
+ QoQ%:  |  -31.6   |  117.2   |  -27.1   |  -36.3   |  147.7  
+ QOPM%: |   42.6   |   0.0    |   3.6    |   51.0   |   3.9   
+ QNPM%: |   30.5   |   0.0    |   2.6    |   37.5   |   2.8   
+ QPFT:  |   9.1    |   -0.5   |   1.2    |   11.3   |   2.1   
+ PQoQ%: |  165.9   |  -105.6  |  -337.3  |  832.2   |  -81.6  
+
+***PROS***
+A DEBT-Free Company
+- Last 3QSALES is about 94% YSales
+- Last 3QPROFIT is about 73% of YProfit
+- YProfit Turned POSITIVE this year Mar-2024 : 20.1
+- YProfits and YSales DOUBLED in Mar2024

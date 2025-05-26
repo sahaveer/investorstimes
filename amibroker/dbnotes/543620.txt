@@ -1,0 +1,22 @@
+CODE	NAME
+543620 
+
+SECTOR : Capital Goods - Electrical Equipment
+INDUSTRY : Electric Equipment
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2024 #Result
+229.30cr, QoQ -11.40% & YoY 159.68% SALES;
+4.40cr, QoQ -64.30% & YoY -38.89% OPERATING PROFIT;
+2.90cr, QoQ -53.30% & YoY -6.45% NET PROFIT;
+OPM %: 1.90% vs 4.7%
+NPM %: 1.30% vs 2.4%
+

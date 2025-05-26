@@ -1,0 +1,17 @@
+CODE	NAME
+532039 
+
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Formulations
+LYPD PM 2010
+
+***CONS***
+- NEGATIVE YProfit : -12.5
+
+
+
+
+
+***PROS***
+- Last 2QSALES is about 123% YSales
+- LastYr YProfits Doubled and maintained in Mar2010

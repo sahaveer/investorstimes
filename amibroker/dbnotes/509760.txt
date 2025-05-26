@@ -1,0 +1,41 @@
+CODE	NAME
+509760 
+
+SECTOR : Stock/ Commodity Brokers
+INDUSTRY : Finance & Investments
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   2.3    |   2.6    |   3.3    |   3.0    |   3.4    |      2.9     
+ SQoQ%:  |   -9.9   |   14.1   |   25.9   |   -8.9   |   14.1   |      85.3    
+ YOPM%:  |   0.0    |   3.5    |   12.0   |   9.4    |   17.7   |              
+ YNPM%:  |   0.0    |   1.2    |   8.6    |   6.1    |   11.8   |              
+YPROFIT: |   -0.4   |   0.0    |   0.3    |   0.2    |   0.4    |      0.3     
+ PQoQ%:  |  -24.5   |  -107.5  |  833.3   |  -35.7   |  122.2   |      75.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.8    |   1.0    |   0.9    |   1.1    |   0.9   
+ QoQ%:  |   -3.4   |   11.8   |   -6.3   |   25.8   |  -18.8  
+ QOPM%: |   15.3   |   15.8   |   12.4   |   24.1   |   4.4   
+ QNPM%: |   10.6   |   9.5    |   9.0    |   17.0   |   0.0   
+ QPFT:  |   0.1    |   0.1    |   0.1    |   0.2    |   -0.0  
+ PQoQ%: |  -43.8   |   0.0    |  -11.1   |  137.5   |  -105.3 
+
+***PROS***
+A DEBT-Free Company
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 85% YSales
+- Last 3QPROFIT is about 75% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+3.40cr, QoQ 14.10% & YoY 47.83% SALES;
+0.60cr, QoQ 114.30% & YoY -300.00% OPERATING PROFIT;
+0.40cr, QoQ 122.20% & YoY -200.00% NET PROFIT;
+OPM %: 17.70% vs 9.4%
+NPM %: 11.80% vs 6.1%
+

@@ -1,0 +1,25 @@
+CODE	NAME
+544083 
+
+SECTOR : Trading
+INDUSTRY : Trading
+LYPD PM 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+- LastYr YProfits Doubled and maintained in Mar2024
+
+YSALES in Mar-2024 is at 91.7 showing a QoQ_growth of 94.6%. The YNETPROFIT grew by 42.2% to 2.6
+
+Yearly 
+ 31-Mar-2024 #Result
+91.70cr, QoQ 94.60% & YoY 215.12% SALES;
+4.10cr, QoQ 16.20% & YoY -4200.00% OPERATING PROFIT;
+2.60cr, QoQ 42.20% & YoY 2500.00% NET PROFIT;
+OPM %: 4.40% vs 7.4%
+NPM %: 2.90% vs 3.9%
+

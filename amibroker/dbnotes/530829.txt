@@ -1,0 +1,39 @@
+CODE	NAME
+530829 
+
+SECTOR : Stock/ Commodity Brokers
+INDUSTRY : Finance & Investments
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   5.7    |   8.3    |   9.7    |   10.5   |   9.8   
+ SQoQ%:  |   37.8   |   45.5   |   17.4   |   8.3    |   -6.6  
+ YOPM%:  |   22.0   |   37.3   |   35.3   |   40.3   |   33.0  
+ YNPM%:  |   13.2   |   27.4   |   26.7   |   27.4   |   21.0  
+YPROFIT: |   0.8    |   2.3    |   2.6    |   2.9    |   2.1   
+ PQoQ%:  |  7400.0  |  202.7   |   14.5   |   10.8   |  -28.5  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   3.0    |   2.6    |   2.9    |   2.4    |   2.0   
+ QoQ%:  |   6.1    |  -14.1   |   12.5   |  -17.1   |  -14.7  
+ QOPM%: |   44.4   |   30.2   |   34.8   |   32.8   |   33.5  
+ QNPM%: |   32.0   |   19.6   |   23.0   |   20.2   |   21.2  
+ QPFT:  |   1.0    |   0.5    |   0.7    |   0.5    |   0.4   
+ PQoQ%: |   9.2    |  -47.4   |   32.0   |  -27.3   |  -10.4  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+
+
+Yearly 
+ 31-Mar-2025 #Result
+9.80cr, QoQ -6.60% & YoY 71.93% SALES;
+3.20cr, QoQ -23.60% & YoY 146.15% OPERATING PROFIT;
+2.10cr, QoQ -28.50% & YoY 162.50% NET PROFIT;
+OPM %: 33.00% vs 40.3%
+NPM %: 21.00% vs 27.4%
+

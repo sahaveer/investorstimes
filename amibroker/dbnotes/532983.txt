@@ -1,0 +1,39 @@
+CODES
+532983	RPGLIFE	
+SECTOR : 
+INDUSTRY : 
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  389.1   |  440.2   |  512.8   |  582.0   |  653.4  
+ SQoQ%:  |   3.6    |   13.1   |   16.5   |   13.5   |   12.3  
+ YOPM%:  |   18.2   |   19.8   |   20.3   |   22.2   |   24.4  
+ YNPM%:  |   10.3   |   11.7   |   13.2   |   15.1   |   28.0  
+YPROFIT: |   40.0   |   51.5   |   67.6   |   87.7   |  183.2  
+ PQoQ%:  |   37.9   |   28.7   |   31.4   |   29.6   |  109.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  127.0   |  165.4   |  172.2   |  172.7   |  143.1  
+ QoQ%:  |  -17.4   |   30.3   |   4.1    |   0.3    |  -17.2  
+ QOPM%: |   16.3   |   23.6   |   26.7   |   28.5   |   17.8  
+ QNPM%: |   10.4   |   16.2   |   2.4    |   20.2   |   82.0  
+ QPFT:  |   13.2   |   26.8   |   4.2    |   34.9   |  117.4  
+ PQoQ%: |  -50.0   |  102.1   |  -84.3   |  731.7   |  236.0  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 22.2%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+Yearly 
+ 31-Mar-2025 #Result
+653.40cr, QoQ 12.30% & YoY 67.93% SALES;
+159.60cr, QoQ 23.60% & YoY 125.11% OPERATING PROFIT;
+183.20cr, QoQ 109.00% & YoY 358.00% NET PROFIT;
+OPM %: 24.40% vs 22.2%
+NPM %: 28.00% vs 15.1%
+

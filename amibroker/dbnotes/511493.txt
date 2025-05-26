@@ -1,0 +1,30 @@
+CODE	NAME
+511493 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+PRODUCT DEMAND
+YSD YPD 2024
+LYPD PM 2024
+
+***CONS***
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YProfit Turned POSITIVE this year Mar-2024 : 0.5
+- YProfits and YSales DOUBLED in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2024
+- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2024 is at 908.3%. The QPROFIT QoQ_growth by 172.9%
+
+Quarterly 
+31-Dec-2024 #Result
+35.30cr, QoQ 908.30% SALES;
+7.50cr, QoQ 131.70% OPERATING PROFIT;
+7.40cr, QoQ 172.90% NET PROFIT;
+OPM %: 21.10% vs 92.0%
+NPM %: 21.10% vs 78.0%
+

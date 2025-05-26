@@ -1,0 +1,37 @@
+CODES
+509557	GARFIBRES	
+SECTOR : Textiles
+INDUSTRY : Textiles - Products
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1034.6  |  1189.4  |  1305.6  |  1325.6  |  1540.1 
+ SQoQ%:  |   8.5    |   15.0   |   9.8    |   1.5    |   16.2  
+ YOPM%:  |   19.8   |   18.8   |   17.6   |   20.5   |   20.7  
+ YNPM%:  |   15.3   |   13.9   |   13.2   |   15.7   |   15.0  
+YPROFIT: |  158.4   |  164.8   |  172.2   |  208.2   |  231.6  
+ PQoQ%:  |   12.7   |   4.0    |   4.5    |   20.9   |   11.2  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  382.3   |  336.2   |  420.6   |  350.7   |  432.6  
+ QoQ%:  |   32.1   |  -12.0   |   25.1   |  -16.6   |   23.3  
+ QOPM%: |   23.9   |   19.2   |   21.7   |   18.4   |   22.7  
+ QNPM%: |   18.3   |   13.9   |   15.7   |   13.6   |   16.4  
+ QPFT:  |   70.1   |   46.8   |   66.0   |   47.8   |   71.1  
+ PQoQ%: |   62.0   |  -33.3   |   41.1   |  -27.6   |   48.8  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 35.4%
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+Yearly 
+ 31-Mar-2025 #Result
+1540.10cr, QoQ 16.20% & YoY 48.86% SALES;
+318.80cr, QoQ 17.20% & YoY 55.97% OPERATING PROFIT;
+231.60cr, QoQ 11.20% & YoY 46.21% NET PROFIT;
+OPM %: 20.70% vs 20.5%
+NPM %: 15.00% vs 15.7%
+

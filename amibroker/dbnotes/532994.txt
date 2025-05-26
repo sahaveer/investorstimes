@@ -1,0 +1,14 @@
+CODES
+532994	ARCHIDPLY	
+SECTOR : Plywood Boards/Laminates
+INDUSTRY : Miscellaneous
+
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -7.4
+
+
+
+
+
+***PROS***

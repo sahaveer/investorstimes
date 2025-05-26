@@ -1,0 +1,41 @@
+CODE	NAME
+539199 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+YSD YPD 2024
+YSD YPD 2023
+LYPD PM 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   2.4    |   2.2    |   41.4   |  189.7   |  171.0  
+ SQoQ%:  |  634.4   |   -8.1   |  1819.0  |  357.7   |   -9.8  
+ YOPM%:  |   69.8   |   54.6   |   79.5   |   89.2   |   83.4  
+ YNPM%:  |   67.2   |   36.1   |   44.4   |   41.4   |   47.4  
+YPROFIT: |   1.6    |   0.8    |   18.4   |   78.6   |   81.0  
+ PQoQ%:  |  -258.0  |  -50.6   |  2260.3  |  326.8   |   3.1   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   58.6   |   43.5   |   30.9   |   42.5   |   54.1  
+ QoQ%:  |   11.6   |  -25.6   |  -29.1   |   37.6   |   27.4  
+ QOPM%: |   88.5   |   86.3   |   67.3   |   78.7   |   87.3  
+ QNPM%: |   40.6   |   44.5   |   45.7   |   55.8   |   44.0  
+ QPFT:  |   23.8   |   19.4   |   14.1   |   23.7   |   23.8  
+ PQoQ%: |   9.9    |  -18.5   |  -27.2   |   67.8   |   0.4   
+
+***PROS***
+- YProfits and YSales DOUBLED in Mar2024
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+171.00cr, QoQ -9.80% & YoY 7025.00% SALES;
+142.60cr, QoQ -15.70% & YoY 8812.50% OPERATING PROFIT;
+81.00cr, QoQ 3.10% & YoY 4962.50% NET PROFIT;
+OPM %: 83.40% vs 89.2%
+NPM %: 47.40% vs 41.4%
+

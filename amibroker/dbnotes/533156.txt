@@ -1,0 +1,36 @@
+CODES
+533156	VASCONEQ	
+SECTOR : Construction
+INDUSTRY : Construction
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  505.8   |  656.9   |  1019.4  |  1052.9  |  1077.9 
+ SQoQ%:  |   -2.9   |   29.9   |   55.2   |   3.3    |   2.4   
+ YOPM%:  |   0.0    |   3.5    |   11.5   |   8.2    |   8.1   
+ YNPM%:  |   0.0    |   5.4    |   9.6    |   6.4    |   12.1  
+YPROFIT: |  -40.8   |   35.2   |   97.5   |   66.9   |  130.2  
+ PQoQ%:  |  -203.1  |  -186.2  |  177.0   |  -31.4   |   94.7  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  233.5   |  196.2   |  199.8   |  294.8   |  387.1  
+ QoQ%:  |   13.1   |  -16.0   |   1.8    |   47.5   |   31.3  
+ QOPM%: |   8.6    |   8.0    |   7.2    |   6.7    |   9.7   
+ QNPM%: |   7.2    |   4.9    |   5.2    |   25.6   |   9.0   
+ QPFT:  |   16.8   |   9.6    |   10.3   |   75.6   |   34.8  
+ PQoQ%: |   -9.4   |  -42.9   |   7.4    |  633.0   |  -54.0  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+1077.90cr, QoQ 2.40% & YoY 113.11% SALES;
+87.40cr, QoQ 1.80% & YoY -782.81% OPERATING PROFIT;
+130.20cr, QoQ 94.70% & YoY -419.12% NET PROFIT;
+OPM %: 8.10% vs 8.2%
+NPM %: 12.10% vs 6.4%
+

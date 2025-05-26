@@ -1,0 +1,37 @@
+CODES
+543425	MAPMYINDIA	
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Medium / Small
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  152.5   |  200.4   |  281.5   |  379.4   |  463.2  
+ SQoQ%:  |   2.6    |   31.5   |   40.4   |   34.8   |   22.1  
+ YOPM%:  |   33.7   |   43.0   |   41.8   |   40.8   |   38.0  
+ YNPM%:  |   39.2   |   43.4   |   38.1   |   35.3   |   31.8  
+YPROFIT: |   59.8   |   87.0   |  107.2   |  134.0   |  147.2  
+ PQoQ%:  |  157.8   |   45.5   |   23.2   |   24.9   |   9.9   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  106.9   |  101.5   |  103.7   |  114.5   |  143.6  
+ QoQ%:  |   16.2   |   -5.1   |   2.1    |   10.5   |   25.3  
+ QOPM%: |   37.0   |   41.6   |   35.8   |   36.2   |   38.4  
+ QNPM%: |   35.5   |   35.3   |   29.3   |   28.3   |   33.8  
+ QPFT:  |   37.9   |   35.8   |   30.3   |   32.4   |   48.6  
+ PQoQ%: |   23.4   |   -5.6   |  -15.3   |   7.0    |   49.7  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 29.6%
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+463.20cr, QoQ 22.10% & YoY 203.74% SALES;
+176.00cr, QoQ 13.80% & YoY 242.41% OPERATING PROFIT;
+147.20cr, QoQ 9.90% & YoY 146.15% NET PROFIT;
+OPM %: 38.00% vs 40.8%
+NPM %: 31.80% vs 35.3%
+

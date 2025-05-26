@@ -1,0 +1,21 @@
+CODES
+544367	QPOWER	
+SECTOR : Capital Goods - Electrical Equipment
+INDUSTRY : Electric Equipment
+
+***CONS***
+
+
+
+
+
+***PROS***
+
+Quarterly 
+31-Dec-2024 #Result
+72.60cr, QoQ -23.00% SALES;
+17.40cr, QoQ 115.30% OPERATING PROFIT;
+13.80cr, QoQ 18.60% NET PROFIT;
+OPM %: 24.00% vs 8.6%
+NPM %: 19.10% vs 12.4%
+

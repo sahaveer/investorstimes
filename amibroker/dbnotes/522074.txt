@@ -1,0 +1,36 @@
+CODES
+522074	ELGIEQUIP	
+SECTOR : Capital Goods-Non Electrical Equipment
+INDUSTRY : Compressors / Drilling Equipment
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  1829.2  |  1923.8  |  2524.7  |  3040.7  |  3217.8  |     2517.6   
+ SQoQ%:  |   -1.8   |   5.2    |   31.2   |   20.4   |   5.8    |      78.2    
+ YOPM%:  |   7.5    |   11.3   |   11.8   |   14.4   |   15.2   |              
+ YNPM%:  |   2.3    |   5.3    |   7.1    |   12.2   |   9.7    |              
+YPROFIT: |   42.6   |  102.5   |  178.4   |  370.8   |  311.9   |     248.1    
+ PQoQ%:  |  -58.7   |  140.8   |   74.1   |  107.8   |  -15.9   |      79.5    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  821.8   |  865.9   |  801.1   |  868.9   |  847.6  
+ QoQ%:  |   1.9    |   5.4    |   -7.5   |   8.5    |   -2.4  
+ QOPM%: |   15.7   |   14.4   |   14.2   |   16.3   |   14.1  
+ QNPM%: |   10.2   |   8.8    |   9.1    |   10.9   |   9.5   
+ QPFT:  |   83.9   |   76.2   |   72.8   |   94.7   |   80.6  
+ PQoQ%: |   -8.1   |   -9.1   |   -4.5   |   30.0   |  -14.9  
+
+***PROS***
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 80% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+3217.80cr, QoQ 5.80% & YoY 75.91% SALES;
+490.60cr, QoQ 12.20% & YoY 256.54% OPERATING PROFIT;
+311.90cr, QoQ -15.90% & YoY 632.16% NET PROFIT;
+OPM %: 15.20% vs 14.4%
+NPM %: 9.70% vs 12.2%
+

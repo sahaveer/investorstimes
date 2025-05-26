@@ -1,0 +1,12 @@
+CODES
+500002	ABB	
+SECTOR : Capital Goods - Electrical Equipment
+INDUSTRY : Electric Equipment
+
+***CONS***
+
+
+
+
+
+***PROS***

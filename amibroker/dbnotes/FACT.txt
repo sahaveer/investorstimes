@@ -1,0 +1,38 @@
+CODES
+590024	FACT	
+SECTOR : Fertilizers
+INDUSTRY : Fertilizers
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  2769.9  |  3258.8  |  4424.8  |  6198.2  |  5054.9  |     2997.6   
+ SQoQ%:  |   41.7   |   17.7   |   35.8   |   40.1   |  -18.4   |      59.3    
+ YOPM%:  |   10.1   |   16.9   |   13.5   |   12.2   |   7.1    |              
+ YNPM%:  |   35.2   |   10.8   |   7.8    |   9.9    |   2.9    |              
+YPROFIT: |  975.5   |  350.5   |  346.4   |  612.8   |  146.2   |     -29.5    
+ PQoQ%:  |  499.6   |  -64.1   |   -1.2   |   76.9   |  -76.1   |     -20.2    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  1097.3  |  1061.8  |  599.6   |  1448.6  |  949.4  
+ QoQ%:  |  -34.0   |   -3.2   |  -43.5   |  141.6   |  -34.5  
+ QOPM%: |   3.9    |   3.5    |   0.0    |   2.4    |   3.3   
+ QNPM%: |   2.8    |   0.0    |   0.0    |   0.8    |   0.8   
+ QPFT:  |   30.3   |  -61.2   |  -48.7   |   11.2   |   8.0   
+ PQoQ%: |  -71.2   |  -301.8  |  -20.5   |  -123.0  |  -28.4  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 15.4%
+- Last 3QSALES is about 59% YSales
+
+Yearly 
+ 31-Mar-2024 #Result
+5054.90cr, QoQ -18.40% & YoY 82.49% SALES;
+359.50cr, QoQ -52.40% & YoY 28.76% OPERATING PROFIT;
+146.20cr, QoQ -76.10% & YoY -85.01% NET PROFIT;
+OPM %: 7.10% vs 12.2%
+NPM %: 2.90% vs 9.9%
+

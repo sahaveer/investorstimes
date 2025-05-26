@@ -1,0 +1,37 @@
+CODES
+526217	HITECHCORP	
+SECTOR : Packaging
+INDUSTRY : Packaging
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2010 | Mar-2011 | Mar-2012 | Mar-2013 | Mar-2014 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  261.9   |  344.8   |  385.6   |  439.5   |  459.6   |     412.1    
+ SQoQ%:  |   21.3   |   31.6   |   11.8   |   14.0   |   4.6    |      89.7    
+ YOPM%:  |   14.9   |   13.4   |   11.7   |   10.5   |   10.6   |              
+ YNPM%:  |   5.7    |   4.2    |   2.8    |   2.1    |   1.4    |              
+YPROFIT: |   14.9   |   14.4   |   10.6   |   9.0    |   6.4    |      8.0     
+ PQoQ%:  |   46.6   |   -3.5   |  -26.2   |  -15.0   |  -29.8   |     125.0    
+ QPNL:  | Jun-2015 | Sep-2015 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  102.9   |  108.0   |  142.6   |  146.5   |  123.0  
+ QoQ%:  |   7.3    |   4.9    |   32.1   |   2.7    |  -16.0  
+ QOPM%: |   10.7   |   12.3   |   11.3   |   11.4   |   10.6  
+ QNPM%: |   3.1    |   4.5    |   2.7    |   1.9    |   1.0   
+ QPFT:  |   3.2    |   4.9    |   3.9    |   2.8    |   1.3   
+ PQoQ%: |  1782.4  |   53.4   |  -20.8   |  -28.5   |  -54.7  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 90% YSales
+- Last 3QPROFIT is about 125% of YProfit
+
+Yearly 
+ 31-Mar-2014 #Result
+459.60cr, QoQ 4.60% & YoY 75.49% SALES;
+48.80cr, QoQ 5.50% & YoY 24.81% OPERATING PROFIT;
+6.40cr, QoQ -29.80% & YoY -57.05% NET PROFIT;
+OPM %: 10.60% vs 10.5%
+NPM %: 1.40% vs 2.1%
+

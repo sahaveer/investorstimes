@@ -1,0 +1,14 @@
+CODE	NAME
+544205 
+
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+
+***CONS***
+- NEGATIVE YProfit : -2.2
+
+
+
+
+
+***PROS***

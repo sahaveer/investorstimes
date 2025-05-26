@@ -1,0 +1,32 @@
+CODES
+532777	NAUKRI	
+SECTOR : E-Commerce/App based Aggregator
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  1311.9  |  1128.0  |  1589.0  |  2345.7  |  2536.3  |     2099.9   
+ SQoQ%:  |   14.0   |  -14.0   |   40.9   |   47.6   |   8.1    |      82.8    
+ YOPM%:  |   0.0    |   6.6    |   28.1   |   14.9   |   28.0   |              
+ YNPM%:  |   0.0    |  125.6   |  803.0   |   0.0    |   22.7   |              
+YPROFIT: |  -237.6  |  1416.3  | 12759.6  |  -107.4  |  575.2   |     498.8    
+ PQoQ%:  |  -139.4  |  -696.0  |  800.9   |  -100.8  |  -635.5  |      86.7    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  627.1   |  657.4   |  676.7   |  700.8   |  722.4  
+ QoQ%:  |   0.2    |   4.8    |   2.9    |   3.6    |   3.1   
+ QOPM%: |   29.2   |   31.1   |   31.0   |   22.0   |   36.8  
+ QNPM%: |   24.1   |   9.2    |   34.4   |   3.3    |   33.6  
+ QPFT:  |  151.1   |   60.4   |  232.9   |   23.3   |  242.6  
+ PQoQ%: |  -26.3   |  -60.0   |  285.7   |  -90.0   |  942.9  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 87% of YProfit
+- YProfit Turned POSITIVE this year Mar-2024 : 575.2
+

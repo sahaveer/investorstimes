@@ -1,0 +1,36 @@
+CODES
+VARDHACRLC	
+SECTOR : Textiles
+INDUSTRY : Textiles - Manmade
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  280.2   |  303.3   |  426.7   |  297.5   |  281.6  
+ SQoQ%:  |  -16.2   |   8.3    |   40.7   |  -30.3   |   -5.3  
+ YOPM%:  |   17.0   |   2.9    |   8.5    |   4.5    |   1.3   
+ YNPM%:  |   15.3   |   4.8    |   7.7    |   5.9    |   4.2   
+YPROFIT: |   42.9   |   14.6   |   32.9   |   17.5   |   11.8  
+ PQoQ%:  |   -7.2   |  -66.1   |  125.7   |  -46.6   |  -32.6  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   68.4   |   57.0   |   70.6   |   81.8   |   72.1  
+ QoQ%:  |   10.5   |  -16.6   |   23.8   |   15.8   |  -11.8  
+ QOPM%: |   6.7    |   3.8    |   1.1    |   1.0    |   0.0   
+ QNPM%: |   7.7    |   7.6    |   2.2    |   4.9    |   2.7   
+ QPFT:  |   5.3    |   4.3    |   1.6    |   4.0    |   2.0   
+ PQoQ%: |   -5.5   |  -18.0   |  -64.1   |  154.5   |  -50.6  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2025 #Result
+281.60cr, QoQ -5.30% & YoY 0.50% SALES;
+3.70cr, QoQ -72.40% & YoY -92.26% OPERATING PROFIT;
+11.80cr, QoQ -32.60% & YoY -72.49% NET PROFIT;
+OPM %: 1.30% vs 4.5%
+NPM %: 4.20% vs 5.9%
+

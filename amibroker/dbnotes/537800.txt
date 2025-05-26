@@ -1,0 +1,14 @@
+CODE	NAME
+537800 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+
+***CONS***
+- NEGATIVE YProfit : -0.1
+
+
+
+
+
+***PROS***

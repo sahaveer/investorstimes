@@ -1,0 +1,20 @@
+CODES
+PURVFLEXI	
+SECTOR : Trading
+INDUSTRY : Trading
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2024 #Result
+103.80cr, QoQ -33.90% SALES;
+0.50cr, QoQ -92.00% OPERATING PROFIT;
+3.80cr, QoQ -30.60% NET PROFIT;
+OPM %: 0.40% vs 3.7%
+NPM %: 3.70% vs 3.5%
+

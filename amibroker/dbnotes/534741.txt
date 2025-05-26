@@ -1,0 +1,14 @@
+CODE	NAME
+534741 
+
+SECTOR : Education
+INDUSTRY : Miscellaneous
+
+***CONS***
+- NEGATIVE YProfit : -1.8
+
+
+
+
+
+***PROS***

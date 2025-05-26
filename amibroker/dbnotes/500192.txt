@@ -1,0 +1,31 @@
+CODE	NAME
+500192 
+
+SECTOR : Textiles
+INDUSTRY : Textiles - Manmade
+PRODUCT DEMAND
+LYPD PM 2024
+
+***CONS***
+- NEGATIVE YProfit : -11.6
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   17.7   |   1.6    |   4.4    |   1.4    |   0.1    |      1.0     
+ SQoQ%:  |  -69.4   |  -90.8   |  166.9   |  -67.6   |  -95.7   |     1000.0   
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
+YPROFIT: |  -16.5   |  -12.2   |  -24.9   |  -12.6   |  -11.6   |      -7.4    
+ PQoQ%:  |   46.3   |  -26.1   |  104.2   |  -49.5   |   -8.0   |      63.8    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.0    |   0.0    |   0.0    |   0.3    |   0.7   
+ QoQ%:  |  -100.0  |   nan    |   nan    |   inf    |  109.4  
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QPFT:  |   -2.6   |   -3.9   |   -2.5   |   -2.6   |   -2.3  
+ PQoQ%: |   0.0    |   47.7   |  -35.1   |   4.0    |  -11.0  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 1000% YSales
+- LastYr YProfits Doubled and maintained in Mar2024

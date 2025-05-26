@@ -1,0 +1,21 @@
+CODES
+HVAX	
+SECTOR : Engineering
+INDUSTRY : Engineering - Turnkey Services
+
+***CONS***
+
+
+
+***PROS***
+
+YSALES in Mar-2025 is at 131.0 showing a QoQ_growth of 23.6%. The YNETPROFIT grew by 17.6% to 11.0
+
+Yearly 
+ 31-Mar-2025 #Result
+131.00cr, QoQ 23.60% & YoY 115.46% SALES;
+18.60cr, QoQ 34.30% & YoY 244.44% OPERATING PROFIT;
+11.00cr, QoQ 17.60% & YoY 197.30% NET PROFIT;
+OPM %: 14.20% vs 13.0%
+NPM %: 8.40% vs 8.9%
+

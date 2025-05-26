@@ -1,0 +1,42 @@
+CODES
+500490	BAJAJHLDNG	
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  435.4   |  457.2   |  484.4   |  521.7   |  1702.0  |     539.2    
+ SQoQ%:  |   1.0    |   5.0    |   5.9    |   7.7    |  226.3   |      31.7    
+ YOPM%:  |   69.2   |   76.9   |   75.8   |   72.8   |   91.8   |              
+ YNPM%:  |  687.2   |  798.3   |  837.3   |  929.8   |  427.0   |              
+YPROFIT: |  2992.0  |  3649.8  |  4055.7  |  4850.5  |  7267.2  |     4795.3   
+ PQoQ%:  |   -1.8   |   22.0   |   11.1   |   19.6   |   49.8   |      66.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  108.0   |  1211.8  |  133.8   |  279.1   |  126.3  
+ QoQ%:  |  -51.9   |  1021.6  |  -89.0   |  108.6   |  -54.7  
+ QOPM%: |   66.7   |   97.1   |   54.5   |   83.4   |   75.7  
+ QNPM%: |  1521.9  |  224.1   |  1204.0  |  514.7   |  1384.0 
+ QPFT:  |  1644.4  |  2716.1  |  1610.5  |  1436.4  |  1748.4 
+ PQoQ%: |   10.3   |   65.2   |  -40.7   |  -10.8   |   21.7  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QPROFIT is about 66% of YProfit
+- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+
+YSALES in Mar-2024 is at 1702.0 showing a QoQ_growth of 226.3%. The YNETPROFIT grew by 49.8% to 7267.2
+
+Yearly 
+ 31-Mar-2024 #Result
+1702.00cr, QoQ 226.30% & YoY 290.90% SALES;
+1561.80cr, QoQ 311.40% & YoY 418.01% OPERATING PROFIT;
+7267.20cr, QoQ 49.80% & YoY 142.89% NET PROFIT;
+OPM %: 91.80% vs 72.8%
+NPM %: 427.00% vs 929.8%
+

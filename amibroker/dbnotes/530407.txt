@@ -1,0 +1,37 @@
+CODE	NAME
+530407 
+
+SECTOR : Capital Goods - Electrical Equipment
+INDUSTRY : Electric Equipment
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2010 | Mar-2011 | Mar-2012 | Mar-2013 | Mar-2014
+---------+----------+----------+----------+----------+---------
+YSALES:  |   58.2   |   62.9   |   64.9   |   49.8   |   42.8  
+ SQoQ%:  |   7.8    |   8.0    |   3.2    |  -23.2   |  -14.1  
+ YOPM%:  |   17.5   |   13.0   |   10.6   |   8.3    |   5.4   
+ YNPM%:  |   9.6    |   5.8    |   4.2    |   2.0    |   0.6   
+YPROFIT: |   5.6    |   3.7    |   2.7    |   1.0    |   0.3   
+ PQoQ%:  |   -1.6   |  -34.9   |  -26.2   |  -63.7   |  -73.5  
+ QPNL:  | Mar-2013 | Jun-2013 | Sep-2013 | Dec-2013 | Mar-2014
+--------+----------+----------+----------+----------+---------
+QSALES: |   12.9   |   10.4   |   10.6   |   10.8   |   11.0  
+ QoQ%:  |   3.7    |  -19.5   |   1.6    |   2.6    |   2.0   
+ QOPM%: |   7.7    |   8.9    |   6.7    |   6.3    |   0.0   
+ QNPM%: |   1.6    |   1.3    |   1.7    |   1.7    |   0.0   
+ QPFT:  |   0.2    |   0.1    |   0.2    |   0.2    |   -0.2  
+ PQoQ%: |   5.3    |  -35.0   |   38.5   |   0.0    |  -227.8 
+
+***PROS***
+A DEBT-Free Company
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.1
+
+Yearly 
+ 31-Mar-2014 #Result
+42.80cr, QoQ -14.10% & YoY -26.46% SALES;
+2.30cr, QoQ -44.60% & YoY -77.45% OPERATING PROFIT;
+0.30cr, QoQ -73.50% & YoY -94.64% NET PROFIT;
+OPM %: 5.40% vs 8.3%
+NPM %: 0.60% vs 2.0%
+

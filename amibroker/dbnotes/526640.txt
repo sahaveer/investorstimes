@@ -1,0 +1,38 @@
+CODE	NAME
+526640 
+
+SECTOR : Hotels & Restaurants
+INDUSTRY : Hotels
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   21.5   |   7.6    |   13.6   |   22.1   |   23.4   |      15.7    
+ SQoQ%:  |   -7.5   |  -64.4   |   78.2   |   62.4   |   5.8    |      67.1    
+ YOPM%:  |   20.4   |   0.0    |   17.5   |   26.0   |   24.5   |              
+ YNPM%:  |   11.7   |   3.7    |   6.7    |   17.1   |   18.0   |              
+YPROFIT: |   2.5    |   0.3    |   0.9    |   3.8    |   4.2    |      1.3     
+ PQoQ%:  |  -23.6   |  -88.9   |  228.6   |  312.0   |   11.3   |      31.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   7.4    |   7.0    |   4.6    |   5.0    |   6.1   
+ QoQ%:  |   57.3   |   -5.2   |  -33.8   |   8.2    |   21.6  
+ QOPM%: |   40.1   |   25.8   |   10.6   |   10.4   |   18.4  
+ QNPM%: |   28.5   |   22.1   |   5.0    |   8.0    |   10.9  
+ QPFT:  |   2.1    |   1.5    |   0.2    |   0.4    |   0.7   
+ PQoQ%: |  425.0   |  -26.7   |  -85.1   |   73.9   |   65.0  
+
+***PROS***
+- Last 3QSALES is about 67% YSales
+- LastYr YProfits Doubled and maintained in Mar2024
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
+
+Yearly 
+ 31-Mar-2024 #Result
+23.40cr, QoQ 5.80% & YoY 8.84% SALES;
+5.70cr, QoQ -0.20% & YoY 29.55% OPERATING PROFIT;
+4.20cr, QoQ 11.30% & YoY 68.00% NET PROFIT;
+OPM %: 24.50% vs 26.0%
+NPM %: 18.00% vs 17.1%
+

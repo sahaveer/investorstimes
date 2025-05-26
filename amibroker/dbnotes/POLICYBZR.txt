@@ -1,0 +1,38 @@
+CODES
+543390	POLICYBZR	
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Medium / Small
+LYPD PM 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  886.7   |  1424.9  |  2557.8  |  3437.7  |  4977.2 
+ SQoQ%:  |   15.0   |   60.7   |   79.5   |   34.4   |   44.8  
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   1.9   
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   1.9    |   7.1   
+YPROFIT: |  -150.2  |  -832.9  |  -487.2  |   67.0   |  353.0  
+ PQoQ%:  |  -50.6   |  454.4   |  -41.5   |  -113.7  |  427.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  1089.6  |  1010.5  |  1167.2  |  1291.6  |  1507.9 
+ QoQ%:  |   25.1   |   -7.3   |   15.5   |   10.7   |   16.7  
+ QOPM%: |   0.5    |   0.0    |   0.0    |   2.1    |   7.5   
+ QNPM%: |   5.6    |   6.0    |   4.3    |   5.5    |   11.3  
+ QPFT:  |   60.6   |   60.2   |   50.7   |   71.5   |  170.6  
+ PQoQ%: |   59.2   |   -0.7   |  -15.8   |   41.2   |  138.5  
+
+***PROS***
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 4977.2 showing a QoQ_growth of 44.8%. The YNETPROFIT grew by 427.0% to 353.0
+
+Yearly 
+ 31-Mar-2025 #Result
+4977.20cr, QoQ 44.80% & YoY 461.32% SALES;
+93.70cr, QoQ -149.80% & YoY -158.75% OPERATING PROFIT;
+353.00cr, QoQ 427.00% & YoY -335.02% NET PROFIT;
+OPM %: 1.90% vs 0.0%
+NPM %: 7.10% vs 1.9%
+

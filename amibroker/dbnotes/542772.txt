@@ -1,0 +1,36 @@
+CODES
+542772	360ONE	
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1654.3  |  2071.8  |  2056.6  |  2920.9  |  3295.1 
+ SQoQ%:  |   8.8    |   25.2   |   -0.7   |   42.0   |   12.8  
+ YOPM%:  |   56.8   |   55.8   |   62.8   |   58.4   |   60.8  
+ YNPM%:  |   22.3   |   27.9   |   32.0   |   27.5   |   30.8  
+YPROFIT: |  369.2   |  577.7   |  657.9   |  804.2   |  1015.3 
+ PQoQ%:  |   83.5   |   56.5   |   13.9   |   22.2   |   26.2  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  791.2   |  849.3   |  865.2   |  759.8   |  820.8  
+ QoQ%:  |   25.6   |   7.4    |   1.9    |  -12.2   |   8.0   
+ QOPM%: |   36.2   |   67.9   |   62.5   |   55.8   |   56.2  
+ QNPM%: |   30.7   |   28.7   |   28.4   |   36.4   |   30.4  
+ QPFT:  |  242.6   |  243.7   |  245.5   |  276.5   |  249.6  
+ PQoQ%: |   26.3   |   0.5    |   0.7    |   12.6   |   -9.7  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 15.1%
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+3295.10cr, QoQ 12.80% & YoY 99.18% SALES;
+2002.70cr, QoQ 17.50% & YoY 113.26% OPERATING PROFIT;
+1015.30cr, QoQ 26.20% & YoY 175.00% NET PROFIT;
+OPM %: 60.80% vs 58.4%
+NPM %: 30.80% vs 27.5%
+

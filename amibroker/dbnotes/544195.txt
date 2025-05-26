@@ -1,0 +1,11 @@
+CODE	NAME
+544195 
+
+SECTOR : Textiles
+INDUSTRY : Textiles - Cotton/Blended
+
+***CONS***
+
+
+
+***PROS***

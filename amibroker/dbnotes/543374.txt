@@ -1,0 +1,38 @@
+CODES
+543374	ABSLAMC	
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1201.6  |  1405.2  |  1349.1  |  1635.6  |  1684.8 
+ SQoQ%:  |   -2.7   |   16.9   |   -4.0   |   21.2   |   3.0   
+ YOPM%:  |   61.2   |   66.3   |   61.4   |   63.8   |   58.7  
+ YNPM%:  |   43.8   |   47.9   |   44.2   |   47.7   |   55.2  
+YPROFIT: |  526.3   |  672.8   |  596.4   |  780.4   |  930.6  
+ PQoQ%:  |   6.4    |   27.8   |  -11.4   |   30.8   |   19.3  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  365.6   |  386.6   |  424.2   |  445.1   |  428.8  
+ QoQ%:  |   7.1    |   5.8    |   9.7    |   4.9    |   -3.7  
+ QOPM%: |   56.0   |   57.0   |   59.0   |   61.6   |   56.9  
+ QNPM%: |   57.0   |   61.0   |   57.1   |   50.4   |   53.2  
+ QPFT:  |  208.4   |  235.7   |  242.3   |  224.5   |  228.1  
+ PQoQ%: |   -0.5   |   13.1   |   2.8    |   -7.4   |   1.6   
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 619.1%
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+1684.80cr, QoQ 3.00% & YoY 40.21% SALES;
+989.00cr, QoQ -5.20% & YoY 34.58% OPERATING PROFIT;
+930.60cr, QoQ 19.30% & YoY 76.82% NET PROFIT;
+OPM %: 58.70% vs 63.8%
+NPM %: 55.20% vs 47.7%
+

@@ -1,0 +1,37 @@
+CODES
+540497	SCHAND	
+SECTOR : Printing & Stationery
+INDUSTRY : Printing & Stationery
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  425.2   |  480.9   |  610.3   |  662.6   |  719.7  
+ SQoQ%:  |   -1.0   |   13.1   |   26.9   |   8.6    |   8.6   
+ YOPM%:  |   12.8   |   12.9   |   15.9   |   16.7   |   18.8  
+ YNPM%:  |   0.0    |   2.3    |   9.4    |   7.7    |   8.8   
+YPROFIT: |   -6.5   |   11.2   |   57.6   |   51.2   |   63.5  
+ PQoQ%:  |  -94.2   |  -272.4  |  414.7   |  -11.2   |   24.2  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  437.2   |  110.7   |   37.4   |  100.2   |  471.4  
+ QoQ%:  |  472.9   |  -74.7   |  -66.2   |  167.4   |  370.7  
+ QOPM%: |   42.6   |   7.6    |   0.0    |   0.0    |   43.1  
+ QNPM%: |   29.6   |   0.0    |   0.0    |   0.0    |   30.1  
+ QPFT:  |  129.2   |   -2.1   |  -51.7   |  -24.6   |  141.9  
+ PQoQ%: |  -470.4  |  -101.6  |  2408.7  |  -52.3   |  -676.2 
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+719.70cr, QoQ 8.60% & YoY 69.26% SALES;
+135.00cr, QoQ 22.40% & YoY 149.08% OPERATING PROFIT;
+63.50cr, QoQ 24.20% & YoY -1076.92% NET PROFIT;
+OPM %: 18.80% vs 16.7%
+NPM %: 8.80% vs 7.7%
+

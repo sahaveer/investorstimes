@@ -1,0 +1,39 @@
+CODES
+539883	PILANIINVS	
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  125.8   |  198.7   |  257.6   |  278.8   |  286.3   |     245.5    
+ SQoQ%:  |  399.8   |   57.9   |   29.6   |   8.2    |   2.7    |      85.7    
+ YOPM%:  |   91.5   |   96.3   |   97.2   |   97.6   |   96.4   |              
+ YNPM%:  |  139.1   |   48.6   |   78.2   |   88.2   |   58.1   |              
+YPROFIT: |  175.0   |   96.7   |  201.4   |  245.9   |  166.5   |     123.6    
+ PQoQ%:  |  -91.3   |  -44.7   |  108.4   |   22.1   |  -32.3   |      74.2    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   61.7   |   63.3   |   61.8   |  122.8   |   60.9  
+ QoQ%:  |  -42.2   |   2.6    |   -2.4   |   98.9   |  -50.4  
+ QOPM%: |   92.2   |   98.3   |   97.2   |   98.4   |   92.6  
+ QNPM%: |   90.0   |   49.7   |   52.6   |   63.3   |   21.9  
+ QPFT:  |   55.5   |   31.4   |   32.5   |   77.7   |   13.4  
+ PQoQ%: |   2.4    |  -43.4   |   3.4    |  139.0   |  -82.8  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 86% YSales
+- Last 3QPROFIT is about 74% of YProfit
+
+
+Yearly 
+ 31-Mar-2024 #Result
+286.30cr, QoQ 2.70% & YoY 127.58% SALES;
+276.10cr, QoQ 1.50% & YoY 139.88% OPERATING PROFIT;
+166.50cr, QoQ -32.30% & YoY -4.86% NET PROFIT;
+OPM %: 96.40% vs 97.6%
+NPM %: 58.10% vs 88.2%
+

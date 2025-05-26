@@ -1,0 +1,15 @@
+CODE	NAME
+513059 
+
+SECTOR : Auto Ancillaries
+INDUSTRY : Auto Ancillaries
+
+***CONS***
+- NEGATIVE YProfit : -6.2
+
+
+
+
+
+***PROS***
+- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Mar-2017 is at 17.4%. The QPROFIT QoQ_growth by -53.6%

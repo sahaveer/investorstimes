@@ -1,0 +1,39 @@
+CODE	NAME
+539399 
+
+SECTOR : Readymade Garments/ Apparells
+INDUSTRY : Textiles - Products
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+  YPNL   |   :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+-------+----------+----------+----------+----------+----------+--------------
+YSALES:  | 163.1 |  128.8   |  205.8   |  201.8   |  230.1   |  261.5   |              
+ SQoQ%:  |  11.1 |  -21.0   |   59.8   |   -1.9   |   14.0   |  113.6   |              
+ YOPM%:  |  10.8 |   8.7    |   10.3   |   7.7    |   8.3    |          |              
+ YNPM%:  |  5.6  |   4.2    |   5.4    |   3.8    |   4.4    |          |              
+YPROFIT: |  9.1  |   5.4    |   11.2   |   7.8    |   10.2   |   11.4   |              
+ PQoQ%:  |  4.0  |  -40.9   |  106.7   |  -30.5   |   31.2   |  111.8   |              
+  QPNL  |  :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+------+----------+----------+----------+----------+---------
+QSALES: | 58.0 |   61.1   |   73.9   |  106.8   |   80.8   |         
+ QoQ%:  | -9.7 |   5.4    |   21.0   |   44.6   |  -24.4   |         
+ QOPM%: | 7.7  |   9.2    |   8.6    |   8.3    |   8.9    |         
+ QNPM%: | 4.3  |   5.0    |   4.5    |   4.3    |   4.3    |         
+ QPFT:  | 2.5  |   3.1    |   3.3    |   4.6    |   3.5    |         
+ PQoQ%: | -3.1 |   22.3   |   8.5    |   38.4   |  -23.9   |         
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 114% YSales
+- Last 3QPROFIT is about 112% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+230.10cr, QoQ 14.00% & YoY 41.08% SALES;
+19.00cr, QoQ 22.50% & YoY 7.95% OPERATING PROFIT;
+10.20cr, QoQ 31.20% & YoY 12.09% NET PROFIT;
+OPM %: 8.30% vs 7.7%
+NPM %: 4.40% vs 3.8%
+

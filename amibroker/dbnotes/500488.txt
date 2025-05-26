@@ -1,0 +1,36 @@
+CODES
+500488	ABBOTINDIA	
+SECTOR : 
+INDUSTRY : 
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  4310.0  |  4913.3  |  5348.7  |  5848.9  |  6409.2 
+ SQoQ%:  |   5.3    |   14.0   |   8.9    |   9.4    |   9.6   
+ YOPM%:  |   21.4   |   22.0   |   22.5   |   24.8   |   26.4  
+ YNPM%:  |   16.0   |   16.3   |   17.8   |   20.5   |   22.1  
+YPROFIT: |  690.7   |  798.7   |  949.4   |  1201.2  |  1414.4 
+ PQoQ%:  |   16.5   |   15.6   |   18.9   |   26.5   |   17.8  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  1438.6  |  1557.6  |  1632.7  |  1614.3  |  1604.6 
+ QoQ%:  |   0.1    |   8.3    |   4.8    |   -1.1   |   -0.6  
+ QOPM%: |   22.9   |   25.1   |   26.9   |   27.0   |   26.7  
+ QNPM%: |   20.0   |   21.1   |   22.0   |   22.3   |   22.9  
+ QPFT:  |  287.1   |  328.0   |  358.6   |  360.8   |  367.0  
+ PQoQ%: |   -7.7   |   14.3   |   9.3    |   0.6    |   1.7   
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 26.1%
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+6409.20cr, QoQ 9.60% & YoY 48.71% SALES;
+1694.60cr, QoQ 16.60% & YoY 83.86% OPERATING PROFIT;
+1414.40cr, QoQ 17.80% & YoY 104.78% NET PROFIT;
+OPM %: 26.40% vs 24.8%
+NPM %: 22.10% vs 20.5%
+

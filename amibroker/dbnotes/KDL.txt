@@ -1,0 +1,47 @@
+CODES
+KDL	
+SECTOR : Telecomm Equipment & Infra Services
+INDUSTRY : Transmisson Line Towers / Equipment
+PRODUCT DEMAND
+BestQ Dec 2024
+YSD YPD 2024
+YSD YPD 2022
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.9    |   4.0    |   16.9   |   21.3   |  103.5   |     121.8    
+ SQoQ%:  |  100.0   |  352.3   |  325.6   |   25.6   |  386.6   |     117.7    
+ YOPM%:  |   2.3    |   10.3   |   18.4   |   22.3   |   15.0   |              
+ YNPM%:  |   2.3    |   6.5    |   12.9   |   15.1   |   11.1   |              
+YPROFIT: |   0.0    |   0.3    |   2.2    |   3.2    |   11.5   |      10.6    
+ PQoQ%:  |  -50.0   |  1200.0  |  738.5   |   47.7   |  256.8   |      92.2    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   54.0   |   34.5   |   50.8   |   41.0   |   30.0  
+ QoQ%:  |  412.3   |  -36.0   |   47.0   |  -19.1   |  -27.0  
+ QOPM%: |   10.5   |   16.5   |   14.7   |   8.3    |   22.1  
+ QNPM%: |   7.7    |   13.0   |   10.4   |   5.5    |   10.3  
+ QPFT:  |   4.2    |   4.5    |   5.3    |   2.2    |   3.1   
+ PQoQ%: |   70.5   |   7.9    |   18.0   |  -57.7   |   37.5  
+
+***PROS***
+A DEBT-Free Company
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.8
+- Last 3QSALES is about 118% YSales
+- Last 3QPROFIT is about 92% of YProfit
+- YProfits and YSales DOUBLED in Mar2024
+- YProfits and YSales DOUBLED in Mar2022
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2024, Sales have increased by 386.6% while the Profit QoQ_growth is at 256.8%
+
+Yearly 
+ 31-Mar-2024 #Result
+103.50cr, QoQ 386.60% & YoY 11400.00% SALES;
+15.50cr, QoQ 226.50% & YoY inf% OPERATING PROFIT;
+11.50cr, QoQ 256.80% & YoY inf% NET PROFIT;
+OPM %: 15.00% vs 22.3%
+NPM %: 11.10% vs 15.1%
+

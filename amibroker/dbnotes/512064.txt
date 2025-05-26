@@ -1,0 +1,32 @@
+CODE	NAME
+512064 
+
+SECTOR : Construction
+INDUSTRY : Construction
+EXPANSION 2023
+
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -0.3
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   2.2    |   0.7    |   2.4    |   1.8    |   5.9    |      9.0     
+ SQoQ%:  |   nan    |  -69.6   |  260.6   |  -22.7   |  222.8   |     152.5    
+ YOPM%:  |   4.6    |   0.0    |   0.0    |   3.3    |   21.0   |              
+ YNPM%:  |   3.7    |   9.1    |   0.0    |   0.0    |   0.0    |              
+YPROFIT: |   0.1    |   0.1    |   -0.4   |   -0.1   |   -0.3   |      0.3     
+ PQoQ%:  |   nan    |  -25.0   |  -833.3  |  -84.1   |  285.7   |     -100.0   
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   2.3    |   0.7    |   2.0    |   4.4    |   2.6   
+ QoQ%:  |   7.6    |  -67.8   |  174.0   |  117.5   |  -41.4  
+ QOPM%: |   0.0    |   57.5   |   16.0   |   28.5   |   38.0  
+ QNPM%: |   0.0    |   0.0    |   0.0    |   9.0    |   0.4   
+ QPFT:  |   -0.4   |   -0.2   |   -0.1   |   0.4    |   0.0   
+ PQoQ%: |  -266.7  |  -42.9   |  -55.0   |  -533.3  |  -97.4  
+
+***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
+- Last 3QSALES is about 153% YSales
+
+YSALES in Mar-2024 is at 5.9 showing a QoQ_growth of 222.8%. The YNETPROFIT grew by 285.7% to -0.3

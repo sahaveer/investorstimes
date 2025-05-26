@@ -1,0 +1,25 @@
+CODES
+QUESTLAB	
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Formulations
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 31.6%
+
+YSALES in Mar-2024 is at 82.6 showing a QoQ_growth of 33.9%. The YNETPROFIT grew by 100.2% to 10.1
+
+Yearly 
+ 31-Mar-2024 #Result
+82.60cr, QoQ 33.90% SALES;
+15.60cr, QoQ 97.50% OPERATING PROFIT;
+10.10cr, QoQ 100.20% NET PROFIT;
+OPM %: 18.80% vs 12.8%
+NPM %: 12.20% vs 8.2%
+

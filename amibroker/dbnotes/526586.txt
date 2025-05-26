@@ -1,0 +1,39 @@
+CODE	NAME
+526586 
+
+SECTOR : Plastic products
+INDUSTRY : Plastics Products
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  321.6   |  268.2   |  318.8   |  330.6   |  342.8   |     261.6    
+ SQoQ%:  |  -13.7   |  -16.6   |   18.8   |   3.7    |   3.7    |      76.3    
+ YOPM%:  |   20.7   |   19.9   |   16.4   |   17.8   |   17.8   |              
+ YNPM%:  |   14.0   |   12.0   |   11.0   |   12.6   |   16.3   |              
+YPROFIT: |   45.1   |   32.1   |   35.0   |   41.7   |   55.7   |      39.4    
+ PQoQ%:  |   14.8   |  -28.8   |   8.9    |   19.3   |   33.7   |      70.7    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   87.1   |   98.1   |   90.3   |   78.2   |   93.1  
+ QoQ%:  |   9.3    |   12.6   |   -7.9   |  -13.4   |   19.0  
+ QOPM%: |   16.8   |   18.0   |   18.4   |   15.4   |   16.8  
+ QNPM%: |   14.8   |   16.6   |   16.1   |   14.6   |   14.5  
+ QPFT:  |   12.9   |   16.3   |   14.5   |   11.4   |   13.5  
+ PQoQ%: |  -12.0   |   26.6   |  -10.9   |  -21.4   |   18.6  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 71% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+342.80cr, QoQ 3.70% & YoY 6.59% SALES;
+60.90cr, QoQ 3.10% & YoY -8.56% OPERATING PROFIT;
+55.70cr, QoQ 33.70% & YoY 23.50% NET PROFIT;
+OPM %: 17.80% vs 17.8%
+NPM %: 16.30% vs 12.6%
+

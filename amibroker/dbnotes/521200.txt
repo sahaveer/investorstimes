@@ -1,0 +1,35 @@
+CODES
+521200	SURYALAXMI	
+SECTOR : Textiles
+INDUSTRY : Textiles - Cotton/Blended
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  538.9   |  485.8   |  778.1   |  851.0   |  782.4   |     545.4    
+ SQoQ%:  |  -19.0   |   -9.8   |   60.1   |   9.4    |   -8.1   |      69.7    
+ YOPM%:  |   2.4    |   7.1    |   10.2   |   7.3    |   7.0    |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   1.2    |   0.5    |              
+YPROFIT: |  -31.8   |   -2.8   |   0.2    |   10.4   |   3.6    |      0.8     
+ PQoQ%:  |  276.4   |  -91.1   |  -107.8  |  4627.3  |  -65.3   |      22.2    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  184.4   |  238.6   |  158.7   |  193.2   |  193.5  
+ QoQ%:  |   -0.1   |   29.4   |  -33.5   |   21.7   |   0.2   
+ QOPM%: |   7.0    |   7.3    |   7.7    |   6.5    |   6.2   
+ QNPM%: |   0.5    |   0.4    |   0.3    |   0.0    |   0.5   
+ QPFT:  |   0.9    |   0.9    |   0.4    |   -0.5   |   0.9   
+ PQoQ%: |   22.2   |   3.4    |  -52.7   |  -223.3  |  -273.6 
+
+***PROS***
+- Last 3QSALES is about 70% YSales
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2024 #Result
+782.40cr, QoQ -8.10% & YoY 45.18% SALES;
+54.70cr, QoQ -11.80% & YoY 324.03% OPERATING PROFIT;
+3.60cr, QoQ -65.30% & YoY -111.32% NET PROFIT;
+OPM %: 7.00% vs 7.3%
+NPM %: 0.50% vs 1.2%
+

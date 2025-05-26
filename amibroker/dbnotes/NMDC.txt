@@ -1,0 +1,43 @@
+CODES
+526371	NMDC	
+SECTOR : Mining & Mineral products
+INDUSTRY : Mining / Minerals / Metals
+EXPANSION 2024
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  | 11699.2  | 15370.1  | 25964.8  | 17666.9  | 21307.8  |    16900.9   
+ SQoQ%:  |   -3.7   |   31.4   |   68.9   |  -32.0   |   20.6   |      79.3    
+ YOPM%:  |   51.3   |   57.2   |   48.6   |   34.3   |   34.2   |              
+ YNPM%:  |   30.5   |   40.8   |   36.3   |   31.7   |   26.1   |              
+YPROFIT: |  3573.0  |  6276.6  |  9428.2  |  5602.6  |  5570.9  |     5064.4   
+ PQoQ%:  |  -22.6   |   75.7   |   50.2   |  -40.6   |   -0.6   |      90.9    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  5409.9  |  6489.3  |  5414.2  |  4918.9  |  6567.8 
+ QoQ%:  |   34.8   |   20.0   |  -16.6   |   -9.1   |   33.5  
+ QOPM%: |   37.1   |   32.4   |   43.2   |   28.2   |   36.1  
+ QNPM%: |   27.4   |   21.8   |   36.4   |   24.6   |   28.7  
+ QPFT:  |  1483.9  |  1412.7  |  1970.8  |  1211.6  |  1882.0 
+ PQoQ%: |   44.6   |   -4.8   |   39.5   |  -38.5   |   55.3  
+
+***PROS***
+EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 18.4%
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 91% of YProfit
+
+
+Yearly 
+ 31-Mar-2024 #Result
+21307.80cr, QoQ 20.60% & YoY 82.13% SALES;
+7293.60cr, QoQ 20.50% & YoY 21.52% OPERATING PROFIT;
+5570.90cr, QoQ -0.60% & YoY 55.92% NET PROFIT;
+OPM %: 34.20% vs 34.3%
+NPM %: 26.10% vs 31.7%
+

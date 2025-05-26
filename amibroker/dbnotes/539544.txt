@@ -1,0 +1,16 @@
+CODE	NAME
+539544 
+
+SECTOR : Construction
+INDUSTRY : Construction
+PRODUCT DEMAND
+
+***CONS***
+- NEGATIVE YProfit : -0.3
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years

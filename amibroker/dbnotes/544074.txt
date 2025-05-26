@@ -1,0 +1,24 @@
+CODE	NAME
+544074 
+
+SECTOR : Capital Goods-Non Electrical Equipment
+INDUSTRY : Engineering
+LYPD PM 2024
+
+***CONS***
+
+
+
+***PROS***
+- LastYr YProfits Doubled and maintained in Mar2024
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2024, Sales have increased by 32.5% while the Profit QoQ_growth is at 28.5%
+
+Yearly 
+ 31-Mar-2024 #Result
+82.60cr, QoQ 32.50% SALES;
+14.30cr, QoQ 26.60% OPERATING PROFIT;
+8.30cr, QoQ 28.50% NET PROFIT;
+OPM %: 17.30% vs 18.1%
+NPM %: 10.10% vs 10.4%
+

@@ -1,0 +1,38 @@
+CODE	NAME
+519506 
+
+SECTOR : FMCG
+INDUSTRY : Aquaculture
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |      0.0     
+ SQoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan    |      nan     
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
+ YNPM%:  |   inf    |   inf    |   inf    |   inf    |   inf    |              
+YPROFIT: |   0.8    |   0.4    |   0.3    |   0.3    |   0.4    |      3.8     
+ PQoQ%:  |  -78.5   |  -49.4   |  -22.0   |   6.2    |   29.4   |     950.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |   inf    |   inf    |   inf    |   inf    |   inf   
+ QPFT:  |   0.1    |   0.1    |   0.0    |   0.0    |   3.8   
+ PQoQ%: |   0.0    |   8.3    |  -69.2   |   0.0    |  9275.0 
+
+***PROS***
+A DEBT-Free Company for the last 2 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QPROFIT is about 950% of YProfit
+
+
+Yearly 
+ 31-Mar-2024 #Result
+-0.20cr, QoQ 0.00% & YoY -0.00% OPERATING PROFIT;
+0.40cr, QoQ 29.40% & YoY -50.00% NET PROFIT;
+OPM %: 0.00% vs 0.0%
+NPM %: inf% vs inf%
+

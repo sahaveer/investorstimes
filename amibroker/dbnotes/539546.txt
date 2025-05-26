@@ -1,0 +1,28 @@
+CODE	NAME
+539546 
+
+SECTOR : Trading
+INDUSTRY : Trading
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 64% YSales
+- Last 3QPROFIT is about 97% of YProfit
+- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2024 #Result
+21.10cr, QoQ 14.00% SALES;
+0.80cr, QoQ 5.50% OPERATING PROFIT;
+3.10cr, QoQ 24.80% NET PROFIT;
+OPM %: 3.70% vs 4.0%
+NPM %: 14.60% vs 13.3%
+

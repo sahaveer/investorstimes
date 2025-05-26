@@ -1,0 +1,41 @@
+CODE	NAME
+509438 
+
+SECTOR : Hotels & Restaurants
+INDUSTRY : Hotels
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   24.2   |   49.8   |   93.3   |  120.6   |  135.5  
+ SQoQ%:  |  -61.9   |  105.6   |   87.3   |   29.2   |   12.4  
+ YOPM%:  |   1.7    |   29.3   |   38.8   |   42.6   |   43.8  
+ YNPM%:  |   0.0    |   11.3   |   25.1   |   29.9   |   31.9  
+YPROFIT: |   -5.2   |   5.6    |   23.4   |   36.0   |   43.2  
+ PQoQ%:  |  -149.3  |  -208.0  |  313.8   |   54.1   |   20.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   35.6   |   23.0   |   24.5   |   38.9   |   49.1  
+ QoQ%:  |   5.9    |  -35.4   |   6.4    |   58.8   |   26.4  
+ QOPM%: |   44.5   |   38.4   |   41.2   |   48.1   |   44.2  
+ QNPM%: |   32.6   |   28.0   |   29.4   |   34.9   |   32.7  
+ QPFT:  |   11.6   |   6.4    |   7.2    |   13.6   |   16.0  
+ PQoQ%: |   2.6    |  -44.5   |   12.0   |   88.3   |   18.4  
+
+***PROS***
+A DEBT-Free Company for the last 2 yrs
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 24.4%
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+135.50cr, QoQ 12.40% & YoY 459.92% SALES;
+59.30cr, QoQ 15.50% & YoY 14725.00% OPERATING PROFIT;
+43.20cr, QoQ 20.00% & YoY -930.77% NET PROFIT;
+OPM %: 43.80% vs 42.6%
+NPM %: 31.90% vs 29.9%
+

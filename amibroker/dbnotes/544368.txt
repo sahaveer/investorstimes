@@ -1,0 +1,11 @@
+CODE	NAME
+544368 
+
+SECTOR : Edible Oil
+INDUSTRY : Solvent Extraction
+
+***CONS***
+
+
+
+***PROS***

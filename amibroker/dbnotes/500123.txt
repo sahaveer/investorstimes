@@ -1,0 +1,39 @@
+CODE	NAME
+500123 
+
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+
+***CONS***
+ YPNL:   | Dec-2020 | Dec-2021 | Dec-2022 | Dec-2023 | Dec-2024
+---------+----------+----------+----------+----------+---------
+YSALES:  |  383.1   |  522.1   |  644.7   |  679.9   |  748.5  
+ SQoQ%:  |   -2.8   |   36.3   |   23.5   |   5.5    |   10.1  
+ YOPM%:  |   18.4   |   15.0   |   17.1   |   21.1   |   19.3  
+ YNPM%:  |   16.1   |   12.8   |   15.2   |   20.2   |   18.6  
+YPROFIT: |   61.8   |   66.9   |   97.8   |  137.3   |  139.6  
+ PQoQ%:  |   24.6   |   8.3    |   46.2   |   40.4   |   1.6   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  176.6   |  191.4   |  183.6   |  197.0   |  206.1  
+ QoQ%:  |   1.6    |   8.4    |   -4.1   |   7.3    |   4.7   
+ QOPM%: |   21.3   |   20.2   |   18.1   |   17.7   |   19.6  
+ QNPM%: |   20.9   |   21.9   |   16.9   |   15.1   |   15.9  
+ QPFT:  |   36.9   |   41.8   |   31.1   |   29.7   |   32.9  
+ PQoQ%: |   -0.2   |   13.4   |  -25.8   |   -4.3   |   10.5  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Dec2024 is at 18.2%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- YMargins improvised by more than 15% since Dec2022 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Dec-2024 #Result
+748.50cr, QoQ 10.10% & YoY 95.38% SALES;
+144.40cr, QoQ 0.90% & YoY 105.41% OPERATING PROFIT;
+139.60cr, QoQ 1.60% & YoY 125.89% NET PROFIT;
+OPM %: 19.30% vs 21.1%
+NPM %: 18.60% vs 20.2%
+

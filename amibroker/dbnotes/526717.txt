@@ -1,0 +1,19 @@
+CODE	NAME
+526717 
+
+SECTOR : Packaging
+INDUSTRY : Packaging
+YSD YPD 2023
+LYPD PM 2024
+
+***CONS***
+- NEGATIVE YProfit : -1.2
+
+
+
+
+
+***PROS***
+- Last 3QSALES is about 116% YSales
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2024

@@ -1,0 +1,41 @@
+CODE	NAME
+523550 
+
+SECTOR : Diversified
+INDUSTRY : Diversified - Medium / Small
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   28.4   |   42.1   |   43.5   |   33.2   |   42.6   |      33.7    
+ SQoQ%:  |  -35.8   |   48.1   |   3.2    |  -23.5   |   28.1   |      79.1    
+ YOPM%:  |   10.4   |   7.7    |   11.0   |   11.7   |   11.2   |              
+ YNPM%:  |   1.8    |   4.1    |   1.6    |   3.1    |   2.8    |              
+YPROFIT: |   0.5    |   1.7    |   0.7    |   1.0    |   1.2    |      1.1     
+ PQoQ%:  |  400.0   |  244.0   |  -59.3   |   45.7   |   15.7   |      91.7    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   12.0   |   13.8   |   11.4   |   11.4   |   10.9  
+ QoQ%:  |   31.0   |   15.1   |  -17.5   |   0.4    |   -4.8  
+ QOPM%: |   10.2   |   10.1   |   11.6   |   12.8   |   8.6   
+ QNPM%: |   3.8    |   2.0    |   3.5    |   4.0    |   1.8   
+ QPFT:  |   0.5    |   0.3    |   0.4    |   0.5    |   0.2   
+ PQoQ%: |  318.2   |  -39.1   |   42.9   |   15.0   |  -56.5  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 92% of YProfit
+
+YSALES in Mar-2024 is at 42.6 showing a QoQ_growth of 28.1%. The YNETPROFIT grew by 15.7% to 1.2
+
+Yearly 
+ 31-Mar-2024 #Result
+42.60cr, QoQ 28.10% & YoY 50.00% SALES;
+4.80cr, QoQ 22.60% & YoY 60.00% OPERATING PROFIT;
+1.20cr, QoQ 15.70% & YoY 140.00% NET PROFIT;
+OPM %: 11.20% vs 11.7%
+NPM %: 2.80% vs 3.1%
+

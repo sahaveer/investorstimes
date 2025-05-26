@@ -1,0 +1,22 @@
+CODE	NAME
+543905 
+
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2024 #Result
+77.60cr, QoQ -65.10% & YoY -44.05% SALES;
+4.00cr, QoQ -66.40% & YoY -20.00% OPERATING PROFIT;
+2.10cr, QoQ -76.30% & YoY -41.67% NET PROFIT;
+OPM %: 5.20% vs 5.4%
+NPM %: 2.70% vs 4.0%
+

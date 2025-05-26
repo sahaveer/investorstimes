@@ -1,0 +1,40 @@
+CODES
+533317	OMKARCHEM	
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+EXPANSION 2015
+BestQ Dec 2016
+
+***CONS***
+ YPNL:   | Mar-2012 | Mar-2013 | Mar-2014 | Mar-2015 | Mar-2016 | QSUM:Dec-2016
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  166.9   |  211.7   |  240.3   |  265.1   |  413.4   |     367.8    
+ SQoQ%:  |   56.4   |   26.8   |   13.5   |   10.3   |   55.9   |      89.0    
+ YOPM%:  |   19.9   |   19.0   |   17.9   |   19.7   |   19.6   |              
+ YNPM%:  |   9.6    |   9.7    |   5.6    |   9.2    |   7.4    |              
+YPROFIT: |   16.0   |   20.6   |   13.6   |   24.3   |   30.6   |      33.1    
+ PQoQ%:  |   57.2   |   28.5   |  -34.0   |   79.1   |   26.1   |     108.2    
+ QPNL:  | Dec-2015 | Mar-2016 | Jun-2016 | Sep-2016 | Dec-2016
+--------+----------+----------+----------+----------+---------
+QSALES: |  108.3   |  113.3   |  112.7   |  129.4   |  125.7  
+ QoQ%:  |   7.0    |   4.6    |   -0.6   |   14.8   |   -2.9  
+ QOPM%: |   16.2   |   24.6   |   20.6   |   19.5   |   19.7  
+ QNPM%: |   8.7    |   3.6    |   9.7    |   8.9    |   8.4   
+ QPFT:  |   9.4    |   4.0    |   11.0   |   11.6   |   10.5  
+ PQoQ%: |   4.3    |  -57.1   |  172.2   |   5.4    |   -9.1  
+
+***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2015, so got to check SALES too
+- Last 3QSALES is about 89% YSales
+- Last 3QPROFIT is about 108% of YProfit
+
+YSALES in Mar-2016 is at 413.4 showing a QoQ_growth of 55.9%. The YNETPROFIT grew by 26.1% to 30.6
+
+Yearly 
+ 31-Mar-2016 #Result
+413.40cr, QoQ 55.90% & YoY 147.69% SALES;
+80.80cr, QoQ 55.00% & YoY 143.37% OPERATING PROFIT;
+30.60cr, QoQ 26.10% & YoY 91.25% NET PROFIT;
+OPM %: 19.60% vs 19.7%
+NPM %: 7.40% vs 9.2%
+

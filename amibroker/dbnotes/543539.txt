@@ -1,0 +1,25 @@
+CODE	NAME
+543539 
+
+SECTOR : Construction
+INDUSTRY : Construction
+YSD YPD 2024
+
+***CONS***
+
+
+
+***PROS***
+- YProfits and YSales DOUBLED in Mar2024
+
+
+YSALES in Mar-2024 is at 20.9 showing a QoQ_growth of inf%. The YNETPROFIT grew by 2755.6% to 2.6
+
+Yearly 
+ 31-Mar-2024 #Result
+20.90cr, QoQ inf% & YoY 703.85% SALES;
+0.50cr, QoQ -128.40% & YoY 0.00% OPERATING PROFIT;
+2.60cr, QoQ 2755.60% & YoY 1200.00% NET PROFIT;
+OPM %: 2.20% vs 0.0%
+NPM %: 12.30% vs inf%
+

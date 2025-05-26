@@ -1,0 +1,37 @@
+CODE	NAME
+514358 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   34.0   |   35.0   |   5.2    |   10.2   |   13.1  
+ SQoQ%:  |   -8.8   |   2.8    |  -85.0   |   94.1   |   28.7  
+ YOPM%:  |   4.4    |   1.1    |   40.8   |   89.6   |   14.4  
+ YNPM%:  |   0.2    |   6.0    |   25.7   |   78.5   |   9.1   
+YPROFIT: |   0.1    |   2.1    |   1.4    |   8.0    |   1.2   
+ PQoQ%:  |  -50.0   |  2537.5  |  -36.0   |  492.6   |  -85.1  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   2.5    |   4.5    |   3.4    |   1.4    |   3.8   
+ QoQ%:  |   50.0   |   79.8   |  -25.8   |  -58.6   |  175.5  
+ QOPM%: |  183.3   |   45.5   |   17.3   |  326.6   |   0.0   
+ QNPM%: |  148.0   |   43.7   |   12.8   |  320.9   |   0.0   
+ QPFT:  |   3.7    |   2.0    |   0.4    |   4.5    |   -5.7  
+ PQoQ%: |   52.9   |  -46.9   |  -78.3   |  937.2   |  -227.4 
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+
+
+Yearly 
+ 31-Mar-2025 #Result
+13.10cr, QoQ 28.70% & YoY -61.47% SALES;
+1.90cr, QoQ -79.30% & YoY 26.67% OPERATING PROFIT;
+1.20cr, QoQ -85.10% & YoY 1100.00% NET PROFIT;
+OPM %: 14.40% vs 89.6%
+NPM %: 9.10% vs 78.5%
+

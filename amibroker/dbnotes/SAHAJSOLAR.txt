@@ -1,0 +1,28 @@
+CODES
+SAHAJSOLAR	
+SECTOR : Capital Goods - Electrical Equipment
+INDUSTRY : Electric Equipment
+YSD YPD 2023
+LYPD PM 2025
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 17.7%
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 307.1 showing a QoQ_growth of 71.2%. The YNETPROFIT grew by 110.4% to 25.8
+
+Yearly 
+ 31-Mar-2025 #Result
+307.10cr, QoQ 71.20% & YoY 456.34% SALES;
+38.80cr, QoQ 73.00% & YoY 1237.93% OPERATING PROFIT;
+25.80cr, QoQ 110.40% & YoY 5060.00% NET PROFIT;
+OPM %: 12.60% vs 12.5%
+NPM %: 8.40% vs 6.8%
+

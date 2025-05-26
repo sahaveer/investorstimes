@@ -1,0 +1,24 @@
+CODES
+541152	GOYALALUM	
+SECTOR : Trading
+INDUSTRY : Trading
+BestQ Dec 2024
+
+***CONS***
+
+
+
+
+
+***PROS***
+- Last 3QSALES is about 89% YSales
+- Last 3QPROFIT is about 81% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+68.40cr, QoQ 3.70% SALES;
+3.30cr, QoQ -3.80% OPERATING PROFIT;
+2.60cr, QoQ 18.00% NET PROFIT;
+OPM %: 4.80% vs 5.2%
+NPM %: 3.70% vs 3.3%
+

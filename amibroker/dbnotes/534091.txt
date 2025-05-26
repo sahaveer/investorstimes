@@ -1,0 +1,39 @@
+CODES
+534091	MCX	
+SECTOR : Financial Services
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  390.6   |  366.8   |  513.5   |  683.6   |  1112.7 
+ SQoQ%:  |   -1.8   |   -6.1   |   40.0   |   33.1   |   62.8  
+ YOPM%:  |   47.4   |   43.9   |   28.2   |   9.2    |   59.8  
+ YNPM%:  |   57.7   |   39.1   |   29.0   |   12.2   |   50.3  
+YPROFIT: |  225.2   |  143.4   |  149.0   |   83.1   |  560.0  
+ PQoQ%:  |   -4.8   |  -36.3   |   3.8    |  -44.2   |  573.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  181.1   |  234.4   |  285.6   |  301.4   |  291.3  
+ QoQ%:  |   -5.4   |   29.4   |   21.9   |   5.5    |   -3.3  
+ QOPM%: |   56.3   |   56.6   |   62.8   |   64.1   |   55.0  
+ QNPM%: |   48.5   |   47.3   |   53.8   |   53.1   |   46.5  
+ QPFT:  |   87.9   |  110.9   |  153.6   |  160.0   |  135.5  
+ PQoQ%: | -1742.4  |   26.2   |   38.5   |   4.2    |  -15.4  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+
+
+YSALES in Mar-2025 is at 1112.7 showing a QoQ_growth of 62.8%. The YNETPROFIT grew by 573.9% to 560.0
+
+Yearly 
+ 31-Mar-2025 #Result
+1112.70cr, QoQ 62.80% & YoY 184.87% SALES;
+665.30cr, QoQ 959.60% & YoY 259.43% OPERATING PROFIT;
+560.00cr, QoQ 573.90% & YoY 148.67% NET PROFIT;
+OPM %: 59.80% vs 9.2%
+NPM %: 50.30% vs 12.2%
+

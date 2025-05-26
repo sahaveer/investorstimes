@@ -1,0 +1,35 @@
+CODES
+500288	MOREPENLAB	
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1112.4  |  1449.3  |  1338.9  |  1537.6  |  1554.5 
+ SQoQ%:  |   40.5   |   30.3   |   -7.6   |   14.8   |   1.1   
+ YOPM%:  |   10.1   |   8.9    |   5.8    |   10.5   |   9.9   
+ YNPM%:  |   8.5    |   7.0    |   3.5    |   7.2    |   6.5   
+YPROFIT: |   94.2   |  101.1   |   46.2   |  110.9   |  101.6  
+ PQoQ%:  |  191.5   |   7.2    |  -54.2   |  139.9   |   -8.4  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  392.6   |  385.6   |  383.7   |  403.2   |  381.9  
+ QoQ%:  |   -0.5   |   -1.8   |   -0.5   |   5.1    |   -5.3  
+ QOPM%: |   14.3   |   12.6   |   11.2   |   7.8    |   7.9   
+ QNPM%: |   10.2   |   9.1    |   8.3    |   5.6    |   3.1   
+ QPFT:  |   40.0   |   35.0   |   31.9   |   22.7   |   11.9  
+ PQoQ%: |   13.5   |  -12.3   |   -8.9   |  -28.9   |  -47.5  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2025 #Result
+1554.50cr, QoQ 1.10% & YoY 39.74% SALES;
+153.40cr, QoQ -5.20% & YoY 36.48% OPERATING PROFIT;
+101.60cr, QoQ -8.40% & YoY 7.86% NET PROFIT;
+OPM %: 9.90% vs 10.5%
+NPM %: 6.50% vs 7.2%
+

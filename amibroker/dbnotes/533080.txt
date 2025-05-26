@@ -1,0 +1,39 @@
+CODES
+533080	MOLDTKPAC	
+SECTOR : Packaging
+INDUSTRY : Packaging
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2018 | Mar-2019 | Mar-2020 | Mar-2021 | Mar-2022
+---------+----------+----------+----------+----------+---------
+YSALES:  |  346.2   |  405.0   |  438.2   |  478.9   |  631.5  
+ SQoQ%:  |   15.0   |   17.0   |   8.2    |   9.3    |   31.9  
+ YOPM%:  |   17.9   |   17.4   |   17.6   |   19.8   |   19.1  
+ YNPM%:  |   8.0    |   7.9    |   8.5    |   10.0   |   10.1  
+YPROFIT: |   27.8   |   31.9   |   37.4   |   48.0   |   63.6  
+ PQoQ%:  |   15.2   |   14.7   |   17.3   |   28.1   |   32.7  
+ QPNL:  | Mar-2021 | Jun-2021 | Sep-2021 | Dec-2021 | Mar-2022
+--------+----------+----------+----------+----------+---------
+QSALES: |  161.0   |  133.7   |  159.5   |  160.3   |  177.9  
+ QoQ%:  |   20.6   |  -17.0   |   19.3   |   0.5    |   11.0  
+ QOPM%: |   19.9   |   18.9   |   20.1   |   19.7   |   17.9  
+ QNPM%: |   11.2   |   9.0    |   11.0   |   10.4   |   9.7   
+ QPFT:  |   18.0   |   12.1   |   17.6   |   16.7   |   17.3  
+ PQoQ%: |   20.8   |  -33.1   |   45.6   |   -5.3   |   4.0   
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2022 is at 15.2%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+YSALES in Mar-2022 is at 631.5 showing a QoQ_growth of 31.9%. The YNETPROFIT grew by 32.7% to 63.6
+
+Yearly 
+ 31-Mar-2022 #Result
+631.50cr, QoQ 31.90% & YoY 82.41% SALES;
+120.80cr, QoQ 27.40% & YoY 95.15% OPERATING PROFIT;
+63.60cr, QoQ 32.70% & YoY 128.78% NET PROFIT;
+OPM %: 19.10% vs 19.8%
+NPM %: 10.10% vs 10.0%
+

@@ -1,0 +1,21 @@
+CODES
+KOTYARK	
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2025 #Result
+283.80cr, QoQ 4.70% & YoY 335.28% SALES;
+42.10cr, QoQ -6.70% & YoY 1351.72% OPERATING PROFIT;
+14.10cr, QoQ -36.60% & YoY 1310.00% NET PROFIT;
+OPM %: 14.90% vs 16.7%
+NPM %: 5.00% vs 8.2%
+

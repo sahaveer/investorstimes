@@ -1,0 +1,37 @@
+CODES
+544131	GPTHEALTH	
+SECTOR : Healthcare
+INDUSTRY : Healthcare
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  242.8   |  337.4   |  361.0   |  400.2   |  407.1  
+ SQoQ%:  |   14.6   |   39.0   |   7.0    |   10.8   |   1.7   
+ YOPM%:  |   20.2   |   21.9   |   20.6   |   22.0   |   20.5  
+ YNPM%:  |   8.7    |   12.3   |   10.8   |   11.9   |   12.3  
+YPROFIT: |   21.1   |   41.7   |   39.0   |   47.8   |   49.9  
+ PQoQ%:  |   92.4   |   97.5   |   -6.4   |   22.5   |   4.5   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   99.4   |   97.8   |  105.7   |  102.2   |  101.4  
+ QoQ%:  |   2.9    |   -1.6   |   8.0    |   -3.3   |   -0.8  
+ QOPM%: |   23.3   |   18.4   |   22.2   |   20.8   |   20.4  
+ QNPM%: |   12.9   |   10.2   |   14.0   |   12.0   |   12.7  
+ QPFT:  |   12.8   |   10.0   |   14.8   |   12.2   |   12.9  
+ PQoQ%: |   11.8   |  -22.3   |   48.8   |  -17.3   |   5.2   
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 21.9%
+
+Yearly 
+ 31-Mar-2025 #Result
+407.10cr, QoQ 1.70% & YoY 67.67% SALES;
+83.40cr, QoQ -5.30% & YoY 70.20% OPERATING PROFIT;
+49.90cr, QoQ 4.50% & YoY 136.49% NET PROFIT;
+OPM %: 20.50% vs 22.0%
+NPM %: 12.30% vs 11.9%
+

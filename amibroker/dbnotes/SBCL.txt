@@ -1,0 +1,40 @@
+CODES
+513097	SBCL	
+SECTOR : Non Ferrous Metals
+INDUSTRY : Mining / Minerals / Metals
+BestQ Dec 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  187.2   |  203.7   |  324.0   |  470.4   |  508.9   |     375.9    
+ SQoQ%:  |   -3.2   |   8.8    |   59.0   |   45.2   |   8.2    |      73.9    
+ YOPM%:  |   11.1   |   17.7   |   22.7   |   23.2   |   20.9   |              
+ YNPM%:  |   7.2    |   12.5   |   17.0   |   16.8   |   16.6   |              
+YPROFIT: |   13.4   |   25.5   |   55.1   |   79.1   |   84.3   |      55.9    
+ PQoQ%:  |  -45.4   |   89.5   |  116.2   |   43.5   |   6.5    |      66.3    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  126.2   |  127.8   |  126.0   |  126.6   |  123.3  
+ QoQ%:  |   -1.2   |   1.2    |   -1.4   |   0.5    |   -2.7  
+ QOPM%: |   20.0   |   17.0   |   18.8   |   21.3   |   19.9  
+ QNPM%: |   13.4   |   20.1   |   14.1   |   15.7   |   14.8  
+ QPFT:  |   17.0   |   25.7   |   17.8   |   19.9   |   18.2  
+ PQoQ%: |  -16.6   |   51.4   |  -30.6   |   11.9   |   -8.5  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 18.6%
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 66% of YProfit
+- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2024 #Result
+508.90cr, QoQ 8.20% & YoY 171.85% SALES;
+106.30cr, QoQ -2.50% & YoY 411.06% OPERATING PROFIT;
+84.30cr, QoQ 6.50% & YoY 529.10% NET PROFIT;
+OPM %: 20.90% vs 23.2%
+NPM %: 16.60% vs 16.8%
+

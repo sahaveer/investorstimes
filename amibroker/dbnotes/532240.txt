@@ -1,0 +1,38 @@
+CODES
+532240	INDNIPPON	
+SECTOR : Auto Ancillaries
+INDUSTRY : Auto Ancillaries
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  478.8   |  481.2   |  566.3   |  656.2   |  724.1   |     611.1    
+ SQoQ%:  |   -8.8   |   0.5    |   17.7   |   15.9   |   10.3   |      84.4    
+ YOPM%:  |   11.5   |   9.4    |   8.8    |   8.1    |   9.2    |              
+ YNPM%:  |   11.3   |   8.2    |   8.9    |   7.3    |   8.2    |              
+YPROFIT: |   54.3   |   39.6   |   50.2   |   48.2   |   59.3   |      55.3    
+ PQoQ%:  |   -7.2   |  -27.1   |   26.8   |   -4.0   |   23.0   |      93.3    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  178.9   |  195.7   |  186.6   |  209.8   |  214.7  
+ QoQ%:  |   -5.7   |   9.4    |   -4.7   |   12.5   |   2.3   
+ QOPM%: |   8.5    |   11.0   |   9.0    |   11.3   |   12.0  
+ QNPM%: |   6.8    |   10.4   |   9.7    |   10.1   |   7.4   
+ QPFT:  |   12.1   |   20.4   |   18.1   |   21.2   |   16.0  
+ PQoQ%: |  -31.1   |   69.0   |  -11.2   |   16.6   |  -24.6  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 93% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+724.10cr, QoQ 10.30% & YoY 51.23% SALES;
+66.40cr, QoQ 25.50% & YoY 20.95% OPERATING PROFIT;
+59.30cr, QoQ 23.00% & YoY 9.21% NET PROFIT;
+OPM %: 9.20% vs 8.1%
+NPM %: 8.20% vs 7.3%
+

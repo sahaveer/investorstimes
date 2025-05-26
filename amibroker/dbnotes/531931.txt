@@ -1,0 +1,31 @@
+CODE	NAME
+531931 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+EXPANSION 2023
+PRODUCT DEMAND
+
+***CONS***
+- NEGATIVE YProfit : -12.9
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  210.8   |  101.3   |   18.4   |   16.0   |   17.3   |      0.4     
+ SQoQ%:  |   5.3    |  -51.9   |  -81.9   |  -13.2   |   8.6    |      2.3     
+ YOPM%:  |   20.2   |   9.0    |   87.7   |   40.4   |   0.0    |              
+ YNPM%:  |   14.5   |   4.7    |   58.9   |   15.9   |   0.0    |              
+YPROFIT: |   30.5   |   4.7    |   10.8   |   2.5    |  -12.9   |      5.7     
+ PQoQ%:  |   0.8    |  -84.5   |  128.5   |  -76.5   |  -608.3  |     -44.2    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.1    |   0.0    |   0.1    |   0.1    |   0.2   
+ QoQ%:  |  -45.0   |  -54.5   |   60.0   |   25.0   |  120.0  
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |  618.2   |   0.0    |  2300.0  |  1600.0  |  1040.9 
+ QPFT:  |   0.7    |  -15.4   |   1.8    |   1.6    |   2.3   
+ PQoQ%: |  -25.3   | -2366.2  |  -111.9  |  -13.0   |   43.1  
+
+***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
+- PRODUCT DEMAND is rising since 3 years
+

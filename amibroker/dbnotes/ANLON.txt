@@ -1,0 +1,24 @@
+CODES
+ANLON	
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+EXPANSION 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
+
+YSALES in Mar-2025 is at 50.2 showing a QoQ_growth of 43.4%. The YNETPROFIT grew by 43.6% to 6.5
+
+Yearly 
+ 31-Mar-2025 #Result
+50.20cr, QoQ 43.40% & YoY 248.61% SALES;
+9.60cr, QoQ 52.50% & YoY 638.46% OPERATING PROFIT;
+6.50cr, QoQ 43.60% & YoY 828.57% NET PROFIT;
+OPM %: 19.20% vs 18.0%
+NPM %: 12.90% vs 12.9%
+

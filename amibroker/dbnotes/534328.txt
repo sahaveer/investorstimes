@@ -1,0 +1,32 @@
+CODES
+534328	HEXATRADEX	
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+YSD YPD 2024
+YSD YPD 2023
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.2    |   0.4    |   0.4    |   1.1    |  133.2   |      3.1     
+ SQoQ%:  |  283.3   |   69.6   |   10.3   |  146.5   | 12468.9  |      2.3     
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   97.5   |              
+ YNPM%:  |   0.0    |  2441.0  |   0.0    |   0.0    |   69.3   |              
+YPROFIT: |  -19.9   |   9.5    |  -25.0   |  -25.6   |   92.3   |     -21.3    
+ PQoQ%:  |  -142.3  |  -147.8  |  -363.1  |   2.2    |  -460.4  |     -23.1    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   40.3   |   -3.6   |   0.0    |   3.1    |   0.0   
+ QoQ%:  |  946.2   |  -109.0  |  -100.0  |   inf    |  -100.0 
+ QOPM%: |   98.1   |   0.0    |   0.0    |   77.1   |   0.0   
+ QNPM%: |   73.0   |   0.0    |   0.0    |   0.0    |   inf   
+ QPFT:  |   29.4   |   -1.5   |   -1.9   |  -45.6   |   26.2  
+ PQoQ%: |  1784.0  |  -105.0  |   27.2   |  2336.9  |  -157.5 
+
+***PROS***
+A DEBT-Free Company
+- YProfit Turned POSITIVE this year Mar-2024 : 92.3
+- YProfits and YSales DOUBLED in Mar2024
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2024

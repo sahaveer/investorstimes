@@ -1,0 +1,45 @@
+CODE	NAME
+539594 
+
+SECTOR : FMCG
+INDUSTRY : Food - Processing - Indian
+BestQ Dec 2024
+LYPD PM 2024
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2016 | Mar-2017 | Mar-2018 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  120.8   |  257.7   |  490.5   |  650.2   |  1287.9  |     1047.3   
+ SQoQ%:  |  4035.3  |  113.4   |   90.3   |   32.6   |   98.1   |      81.3    
+ YOPM%:  |   2.1    |   2.8    |   2.8    |   12.7   |   27.9   |              
+ YNPM%:  |   0.3    |   0.5    |   1.2    |   7.7    |   26.9   |              
+YPROFIT: |   0.4    |   1.2    |   5.8    |   49.9   |  346.0   |     250.9    
+ PQoQ%:  |  925.0   |  185.4   |  394.9   |  762.2   |  593.2   |      72.5    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  330.5   |  337.6   |  382.7   |  341.9   |  322.7  
+ QoQ%:  |   3.8    |   2.1    |   13.4   |  -10.7   |   -5.6  
+ QOPM%: |   29.2   |   28.7   |   19.0   |   31.7   |   23.0  
+ QNPM%: |   28.2   |   27.9   |   18.6   |   31.2   |   22.6  
+ QPFT:  |   93.0   |   94.2   |   71.3   |  106.6   |   73.0  
+ PQoQ%: |   6.4    |   1.2    |  -24.3   |   49.5   |  -31.5  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 58.7%
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 73% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2024
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 98.1% while the Profit QoQ_growth is much better than Sales itself at 593.2%
+
+Yearly 
+ 31-Mar-2024 #Result
+1287.90cr, QoQ 98.10% & YoY 966.14% SALES;
+359.10cr, QoQ 335.00% & YoY 14264.00% OPERATING PROFIT;
+346.00cr, QoQ 593.20% & YoY 86400.00% NET PROFIT;
+OPM %: 27.90% vs 12.7%
+NPM %: 26.90% vs 7.7%
+

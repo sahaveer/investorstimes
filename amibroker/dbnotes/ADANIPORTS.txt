@@ -1,0 +1,37 @@
+CODES
+532921	ADANIPORTS	
+SECTOR : Marine Port & Services
+INDUSTRY : Miscellaneous
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  | 12549.6  | 17118.8  | 20851.9  | 26710.6  | 31078.6 
+ SQoQ%:  |   5.7    |   36.4   |   21.8   |   28.1   |   16.4  
+ YOPM%:  |   69.2   |   55.7   |   52.5   |   58.4   |   61.2  
+ YNPM%:  |   39.8   |   28.5   |   25.5   |   30.4   |   35.7  
+YPROFIT: |  4994.3  |  4886.0  |  5308.8  |  8110.6  | 11092.3 
+ PQoQ%:  |   32.7   |   -2.2   |   8.7    |   52.8   |   36.8  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  6896.5  |  7559.6  |  7067.0  |  7963.6  |  8488.4 
+ QoQ%:  |   -0.3   |   9.6    |   -6.5   |   12.7   |   6.6   
+ QOPM%: |   58.1   |   62.7   |   59.9   |   60.3   |   59.0  
+ QNPM%: |   29.6   |   41.2   |   34.6   |   31.6   |   35.5  
+ QPFT:  |  2039.7  |  3112.8  |  2445.0  |  2520.3  |  3014.2 
+ PQoQ%: |   -7.6   |   52.6   |  -21.5   |   3.1    |   19.6  
+
+***PROS***
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 16.4% while the Profit QoQ_growth is much better than Sales itself at 36.8%
+
+Yearly 
+ 31-Mar-2025 #Result
+31078.60cr, QoQ 16.40% & YoY 147.65% SALES;
+19024.60cr, QoQ 22.00% & YoY 118.98% OPERATING PROFIT;
+11092.30cr, QoQ 36.80% & YoY 122.10% NET PROFIT;
+OPM %: 61.20% vs 58.4%
+NPM %: 35.70% vs 30.4%
+

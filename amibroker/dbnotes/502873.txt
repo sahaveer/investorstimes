@@ -1,0 +1,26 @@
+CODE	NAME
+502873 
+
+SECTOR : Textiles
+INDUSTRY : Textiles - Cotton/Blended
+LYPD PM 2025
+
+***CONS***
+
+
+
+
+
+***PROS***
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 128.1 showing a QoQ_growth of 36.9%. The YNETPROFIT grew by 182.4% to 2.6
+
+Yearly 
+ 31-Mar-2025 #Result
+128.10cr, QoQ 36.90% SALES;
+12.50cr, QoQ 198.80% OPERATING PROFIT;
+2.60cr, QoQ 182.40% NET PROFIT;
+OPM %: 9.70% vs 4.5%
+NPM %: 2.00% vs 1.0%
+

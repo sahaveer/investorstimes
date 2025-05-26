@@ -1,0 +1,40 @@
+CODES
+532321	ZYDUSLIFE	
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  | 14403.5  | 15109.9  | 17237.4  | 19547.4  | 23241.5 
+ SQoQ%:  |   1.1    |   4.9    |   14.1   |   13.4   |   18.9  
+ YOPM%:  |   23.5   |   22.1   |   22.4   |   27.5   |   30.4  
+ YNPM%:  |   14.8   |   29.7   |   11.4   |   19.7   |   19.5  
+YPROFIT: |  2133.6  |  4487.3  |  1960.3  |  3859.5  |  4525.5 
+ PQoQ%:  |   81.3   |  110.3   |  -56.3   |   96.9   |   17.3  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  5533.8  |  6207.5  |  5237.0  |  5269.1  |  6527.9 
+ QoQ%:  |   22.8   |   12.2   |  -15.6   |   0.6    |   23.9  
+ QOPM%: |   29.5   |   33.6   |   27.9   |   26.3   |   32.6  
+ QNPM%: |   21.4   |   22.9   |   17.4   |   19.4   |   17.9  
+ QPFT:  |  1182.3  |  1419.9  |  911.2   |  1023.5  |  1170.9 
+ PQoQ%: |   49.7   |   20.1   |  -35.8   |   12.3   |   14.4  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 24.3%
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+YSALES in Mar-2025 is at 23241.5 showing a QoQ_growth of 18.9%. The YNETPROFIT grew by 17.3% to 4525.5
+
+Yearly 
+ 31-Mar-2025 #Result
+23241.50cr, QoQ 18.90% & YoY 61.36% SALES;
+7058.50cr, QoQ 31.10% & YoY 108.17% OPERATING PROFIT;
+4525.50cr, QoQ 17.30% & YoY 112.11% NET PROFIT;
+OPM %: 30.40% vs 27.5%
+NPM %: 19.50% vs 19.7%
+

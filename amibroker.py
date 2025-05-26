@@ -35,102 +35,79 @@ import create_database
 #             except Exception as KeyError:
 #                 st.error(f"Error writing to file {key}.txt: {KeyError}")
 
+
+import re
+
+def format_financial_text(raw_text: str) -> str:
+    lines = [line.strip() for line in raw_text.strip().split('\n')]
+    table = []
+
+    # Split lines using regex that handles multiple tabs or spaces
+    for line in lines:
+        parts = re.split(r'[\t ]{2,}', line)
+        # Ensure the label and values are separated
+        label_and_values = []
+        for part in parts:
+            subparts = part.strip().split('\t')
+            label_and_values.extend([p for p in subparts if p])
+        table.append(label_and_values)
+
+    # Transpose to calculate max width for each column
+    col_widths = [max(len(row[i]) for row in table if i < len(row)) for i in range(len(table[0]))]
+
+    output = []
+    for row in table:
+        formatted_row = " | ".join(
+            row[i].center(col_widths[i]) if i < len(row) else " " * col_widths[i]
+            for i in range(len(col_widths))
+        )
+        output.append(formatted_row)
+
+    # Add divider after header
+    divider = "-+-".join("-" * w for w in col_widths)
+    output.insert(1, divider)
+
+    return "\n".join(output)
+
+
+
+# def format_financial_text1(raw_text: str) -> str:
+#     lines = [line.strip() for line in raw_text.strip().split('\n')]
+#     headers = lines[0].split('\t')
+#     data_rows = [line.split('\t') for line in lines[1:]]
+
+#     # Clean up and align
+#     headers = [col.strip(': ') for col in headers]
+#     rows = []
+#     for row in data_rows:
+#         row = [cell.strip() for cell in row if cell.strip()]
+#         rows.append(row)
+
+#     # Format into a single string
+#     col_width = 10
+#     output = []
+
+#     header_line = "Metric".ljust(col_width) + "| " + " | ".join(h.center(col_width) for h in headers[1:])
+#     divider = "-" * len(header_line)
+#     output.append(header_line)
+#     output.append(divider)
+
+#     for row in rows:
+#         row_line = row[0].ljust(col_width) + "| " + " | ".join(cell.center(col_width) for cell in row[1:])
+#         output.append(row_line)
+
+#     return "\n".join(output)
+
 def ami_notes_from_database1():
     for document in create_database.comp_metadata_col.find():
-        # st.success(document)
-        key = document['_id']
+        st.success(f"Trying to save notes for {document['code_names']}")
+        sentence = amibroker_notes_insights(metadata=document)
         #create and write a text file        
-        try:
-            for each1 in document['code_names']:
-                metadata = each1
-                with open(f"./amibroker/dbnotes/{document[each1]}.txt", 'w') as f:
-                    code_names = metadata['code_names']
-                    sentence = ""
-                    if len(metadata['code_names']) == 1 and metadata['code_names'][0].isdigit():
-                        sentence += f"CODE\tNAME\n"
-                        sentence += f"{metadata['code_names'][0]} \n" #{st.session_state.bsecodenum_codename[int(metadata['code_names'][0])]}"
-                    else:
-                        sentence += f"CODES\n"
-                        for each in metadata['code_names']: sentence += f"{each}\t"
-                    # for each in metadata['code_names']: sentence += f"{each}\t"
-                    sentence += "\n"
-                    for each in metadata['metadata']['tags'] : sentence += f"{each}\n"
-                    if 'cons' in metadata['metadata'].keys():
-                        sentence += "\n***CONS***\n"
-                        for each in metadata['metadata']['cons']: sentence += f"{each}\n"
-                    if 'YPNL_Statement' in metadata['metadata'].keys(): 
-                        sentence += "\n***YEARLY***" + metadata['metadata']['YPNL_Statement'] + "\n"
-                    if 'QPNL_Statement' in metadata['metadata'].keys():     
-                        sentence += "\n***QUARTERLY***" + metadata['metadata']['QPNL_Statement'] + "\n"
-                    if 'pros' in metadata['metadata'].keys():
-                        sentence += "\n***PROS***\n"
-                        for each in metadata['metadata']['pros']: sentence += f"{each}\n"
-                    if 'QPNL_tweet' in metadata['metadata'].keys():
-                        sentence += f"\n{metadata['metadata']['QPNL_tweet']}\n"
-                    if 'YPNL_tweet' in metadata['metadata'].keys():
-                        sentence += f"\n{metadata['metadata']['YPNL_tweet']}\n"
-                    message = sentence
-                    f.write(message)
-                    # if "comp_metadata" in document.keys():
-                    #     # f.write(f"Code Names: ")
-                    #     #how to read key and value in a dict?
-                    #     for eachkey,eachval in document['comp_metadata']['code_names'].items():
-                    #         f.write(f"{eachkey}:{eachval}\n")
-                    #     f.write(f"{document['comp_metadata']['comp_fullname']}\n")
-                    #     f.write(f"SECTOR : {document['comp_metadata']['sector']}; \nINDUSTRY : {document['comp_metadata']['industry']}\n")
-                    # if "CONSOLIDATED" in document.keys() or "STANDALONE" in document.keys():
-                    #     if "CONSOLIDATED" in document.keys():
-                    #         # reqd_data = document['CONSOLIDATED']['metadata']
-                    #         f.write(f"Both Standalone and Consolidated data are available.\nCONSOLIDATED DATA:\n")
-                    #         if 'metadata' in document['CONSOLIDATED'].keys(): 
-                    #             if 'tags' in document['CONSOLIDATED']['metadata'].keys():
-                    #                 if len(document['CONSOLIDATED']['metadata']['tags'])>=1:
-                    #                     f.write(f"TAGS:\n")
-                    #                     for each in document['CONSOLIDATED']['metadata']['tags']:
-                    #                         f.write(f"{each}\n")
-                    #             if 'pros' in document['CONSOLIDATED']['metadata'].keys():
-                    #                 if len(document['CONSOLIDATED']['metadata']['pros'])>0:
-                    #                     f.write(f"PROS:\n")
-                    #                     for each in document['CONSOLIDATED']['metadata']['pros']:
-                    #                         f.write(f"{each}\n")
-                    #             if 'cons' in document['CONSOLIDATED']['metadata'].keys():
-                    #                 if len(document['CONSOLIDATED']['metadata']['cons'])>0:
-                    #                     f.write(f"CONS:\n")
-                    #                     for each in document['CONSOLIDATED']['metadata']['cons']:
-                    #                         f.write(f"{each}\n")
-                    #             if 'YPNL_Statement' in document['CONSOLIDATED']['metadata'].keys():
-                    #                 f.write(f"{document['CONSOLIDATED']['metadata']['YPNL_Statement']}\n")
-                    #             if 'QPNL_Statement' in document['CONSOLIDATED']['metadata'].keys():
-                    #                 f.write(f"{document['CONSOLIDATED']['metadata']['QPNL_Statement']}\n")
-                            
-                    #     elif "STANDALONE" in document.keys():
-                    #         f.write(f"STANDALONE DATA:\n")
-                    #         if 'metadata' in document['STANDALONE'].keys(): 
-                    #             if 'tags' in document['STANDALONE']['metadata'].keys():
-                    #                 if len(document['STANDALONE']['metadata']['tags'])>0:
-                    #                     f.write(f"TAGS:\n")
-                    #                     for each in document['STANDALONE']['metadata']['tags']:
-                    #                         f.write(f"{each}\n")
-                    #             if 'pros' in document['STANDALONE']['metadata'].keys():
-                    #                 if len(document['STANDALONE']['metadata']['pros'])>0:
-                    #                     f.write(f"PROS:\n")
-                    #                     for each in document['STANDALONE']['metadata']['pros']:
-                    #                         f.write(f"{each}\n")
-
-                    #             if 'cons' in document['STANDALONE']['metadata'].keys():
-                    #                 if len(document['STANDALONE']['metadata']['cons'])>0:
-                    #                     f.write(f"CONS:\n")
-                    #                     for each in document['STANDALONE']['metadata']['cons']:
-                    #                         f.write(f"{each}\n")
-                    #             if 'YPNL_Statement' in document['STANDALONE']['metadata'].keys():
-                    #                 f.write(f"{document['STANDALONE']['metadata']['YPNL_Statement']}\n")
-                    #             if 'QPNL_Statement' in document['STANDALONE']['metadata'].keys():
-                    #                 f.write(f"{document['STANDALONE']['metadata']['QPNL_Statement']}\n")
-
-        except Exception as KeyError:
-            st.error(f"Error writing to file {key}.txt: {KeyError}")
-
-def amibroker_notes_insights( metadata):
+        for each1 in document['code_names']:
+            with open(f"./amibroker/dbnotes/{each1}.txt", 'w') as f:
+                f.write(sentence)
+    
+def amibroker_notes_insights(metadata):
     # st.success(f"In amibroker_notes_insights FUNC, the Metadata is \n{metadata}")
     code_names = metadata['code_names']
     sentence = ""
@@ -140,23 +117,30 @@ def amibroker_notes_insights( metadata):
     else:
         sentence += f"CODES\n"
         for each in metadata['code_names']: sentence += f"{each}\t"
-    sentence += f"\nSECTOR : {metadata['comp_metadata']['sector']}\nINDUSTRY : {metadata['comp_metadata']['industry']}"
+    if 'comp_metadata' in metadata.keys():
+        sentence += f"\nSECTOR : {metadata['comp_metadata']['sector']}\nINDUSTRY : {metadata['comp_metadata']['industry']}"
     sentence += "\n"
-    for each in metadata['metadata']['tags'] : sentence += f"{each}\n"
-    if 'cons' in metadata['metadata'].keys():
-        sentence += "\n***CONS***\n"
-        for each in metadata['metadata']['cons']: sentence += f"{each}\n"
-    if 'YPNL_Statement' in metadata['metadata'].keys(): 
-        sentence += "\n***YEARLY***" + metadata['metadata']['YPNL_Statement'] + "\n"
-    if 'QPNL_Statement' in metadata['metadata'].keys():     
-        sentence += "\n***QUARTERLY***" + metadata['metadata']['QPNL_Statement'] + "\n"
-    if 'pros' in metadata['metadata'].keys():
-        sentence += "\n***PROS***\n"
-        for each in metadata['metadata']['pros']: sentence += f"{each}\n"
-    if 'QPNL_tweet' in metadata['metadata'].keys():
-        sentence += f"\n{metadata['metadata']['QPNL_tweet']}\n"
-    if 'YPNL_tweet' in metadata['metadata'].keys():
-        sentence += f"\n{metadata['metadata']['YPNL_tweet']}\n"
+    if 'metadata' in metadata.keys():
+        if 'tags' in metadata['metadata'].keys():
+            for each in metadata['metadata']['tags'] : sentence += f"{each}\n"        
+        if 'cons' in metadata['metadata'].keys():
+            sentence += "\n***CONS***\n"
+            for each in metadata['metadata']['cons']: sentence += f"{each}\n"
+        if 'YPNL_Statement' in metadata['metadata'].keys(): 
+            # sentence += "\n***YEARLY***" + metadata['metadata']['YPNL_Statement'] + "\n"
+            sentence += format_financial_text(raw_text=metadata['metadata']['YPNL_Statement'])
+            sentence += "\n"
+        if 'QPNL_Statement' in metadata['metadata'].keys():     
+            # sentence += "\n***QUARTERLY***" + metadata['metadata']['QPNL_Statement'] + "\n"
+            sentence += format_financial_text(raw_text=metadata['metadata']['QPNL_Statement'])
+            sentence += "\n"
+        if 'pros' in metadata['metadata'].keys():
+            sentence += "\n***PROS***\n"
+            for each in metadata['metadata']['pros']: sentence += f"{each}\n"
+        if 'QPNL_tweet' in metadata['metadata'].keys():
+            sentence += f"\n{metadata['metadata']['QPNL_tweet']}\n"
+        if 'YPNL_tweet' in metadata['metadata'].keys():
+            sentence += f"\n{metadata['metadata']['YPNL_tweet']}\n"
     message = sentence
     # print(message)
     # st.info(f"RECEIVED in amibroker.py {code_names}")

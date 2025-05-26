@@ -1,0 +1,14 @@
+CODE	NAME
+526125 
+
+SECTOR : Trading
+INDUSTRY : Trading
+
+***CONS***
+- NEGATIVE YProfit : -3.1
+
+
+
+
+
+***PROS***

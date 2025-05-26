@@ -1,0 +1,26 @@
+CODE	NAME
+538351 
+
+SECTOR : Trading
+INDUSTRY : Trading
+BestQ Dec 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+
+
+***PROS***
+- Last 3QSALES is about 87% YSales
+- Double QSales and QProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+8.50cr, QoQ -65.00% SALES;
+-0.80cr, QoQ -82.10% OPERATING PROFIT;
+0.20cr, QoQ -87.20% NET PROFIT;
+OPM %: 0.00% vs 0.0%
+NPM %: 2.10% vs 5.8%
+

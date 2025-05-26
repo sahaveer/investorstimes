@@ -1,0 +1,38 @@
+CODES
+543449	WEL	
+SECTOR : 
+INDUSTRY : 
+PRODUCT DEMAND
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  305.5   |  398.2   |  402.3   |  569.9   |  894.5  
+ SQoQ%:  |   2.8    |   30.4   |   1.0    |   41.6   |   57.0  
+ YOPM%:  |   3.8    |   4.5    |   4.3    |   4.3    |   4.3   
+ YNPM%:  |   1.5    |   1.8    |   1.6    |   1.8    |   1.9   
+YPROFIT: |   4.7    |   7.3    |   6.3    |   10.2   |   16.6  
+ PQoQ%:  |   5.6    |   55.2   |  -13.6   |   61.5   |   63.2  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  259.3   |  231.4   |  129.6   |  221.5   |  312.0  
+ QoQ%:  |   97.7   |  -10.8   |  -44.0   |   71.0   |   40.9  
+ QOPM%: |   5.3    |   2.7    |   2.7    |   5.2    |   5.6   
+ QNPM%: |   2.5    |   0.8    |   0.4    |   2.3    |   2.9   
+ QPFT:  |   6.5    |   1.8    |   0.5    |   5.1    |   9.2   
+ PQoQ%: |  118.4   |  -72.7   |  -71.3   |  898.0   |   80.6  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 57.0% while the Profit QoQ_growth is much better than Sales itself at 63.2%
+
+Yearly 
+ 31-Mar-2025 #Result
+894.50cr, QoQ 57.00% & YoY 192.80% SALES;
+38.80cr, QoQ 57.20% & YoY 237.39% OPERATING PROFIT;
+16.60cr, QoQ 63.20% & YoY 253.19% NET PROFIT;
+OPM %: 4.30% vs 4.3%
+NPM %: 1.90% vs 1.8%
+

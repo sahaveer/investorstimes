@@ -1,0 +1,27 @@
+CODES
+538836	MONTECARLO	
+SECTOR : Textiles
+INDUSTRY : Textiles - Products
+BestQ Dec 2024
+BestQ Dec 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+
+
+***PROS***
+- Last 3QSALES is about 84% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 153% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+1061.90cr, QoQ -5.00% SALES;
+144.30cr, QoQ -34.20% OPERATING PROFIT;
+59.90cr, QoQ -54.80% NET PROFIT;
+OPM %: 13.60% vs 19.6%
+NPM %: 5.60% vs 11.9%
+

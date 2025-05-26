@@ -1,0 +1,14 @@
+CODE	NAME
+523638 
+
+SECTOR : Auto Ancillaries
+INDUSTRY : Auto Ancillaries
+
+***CONS***
+- NEGATIVE YProfit : -3.2
+
+
+
+
+
+***PROS***

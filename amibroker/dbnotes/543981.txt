@@ -1,0 +1,36 @@
+CODES
+543981	RRKABEL	
+SECTOR : Cables
+INDUSTRY : Cables - Power
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  2723.9  |  4385.9  |  5599.2  |  6594.6  |  7618.2 
+ SQoQ%:  |   9.9    |   61.0   |   27.7   |   17.8   |   15.5  
+ YOPM%:  |   8.5    |   6.9    |   5.8    |   7.0    |   6.4   
+ YNPM%:  |   5.0    |   4.9    |   3.4    |   4.5    |   4.1   
+YPROFIT: |  135.4   |  213.9   |  189.9   |  298.1   |  311.6  
+ PQoQ%:  |   10.6   |   58.0   |  -11.3   |   57.0   |   4.5   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  1754.1  |  1808.1  |  1810.1  |  1782.2  |  2217.8 
+ QoQ%:  |   7.4    |   3.1    |   0.1    |   -1.5   |   24.4  
+ QOPM%: |   6.6    |   5.3    |   4.7    |   6.2    |   8.8   
+ QNPM%: |   4.5    |   3.6    |   2.7    |   3.8    |   5.8   
+ QPFT:  |   78.7   |   64.4   |   49.5   |   68.6   |  129.1  
+ PQoQ%: |   10.9   |  -18.2   |  -23.1   |   38.4   |   88.3  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 16.1%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+
+Yearly 
+ 31-Mar-2025 #Result
+7618.20cr, QoQ 15.50% & YoY 179.68% SALES;
+485.60cr, QoQ 5.10% & YoY 109.13% OPERATING PROFIT;
+311.60cr, QoQ 4.50% & YoY 130.13% NET PROFIT;
+OPM %: 6.40% vs 7.0%
+NPM %: 4.10% vs 4.5%
+

@@ -1,0 +1,41 @@
+CODES
+500033	FORCEMOT	
+SECTOR : Automobile
+INDUSTRY : Automobiles - LCVs / HCVs
+LYPD PM 2025
+YS15 YPD 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1988.2  |  3240.4  |  5029.0  |  6992.1  |  8071.7 
+ SQoQ%:  |  -35.5   |   63.0   |   55.2   |   39.0   |   15.4  
+ YOPM%:  |   1.2    |   1.6    |   6.2    |   12.8   |   13.5  
+ YNPM%:  |   0.0    |   0.0    |   2.7    |   5.6    |   9.9   
+YPROFIT: |  -123.6  |  -91.1   |  133.6   |  388.1   |  800.7  
+ PQoQ%:  |  -346.4  |  -26.3   |  -246.7  |  190.4   |  106.3  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  2011.2  |  1884.9  |  1941.3  |  1889.5  |  2356.0 
+ QoQ%:  |   18.9   |   -6.3   |   3.0    |   -2.7   |   24.7  
+ QOPM%: |   13.9   |   13.0   |   14.3   |   12.3   |   14.0  
+ QNPM%: |   7.0    |   6.1    |   7.0    |   6.1    |   18.5  
+ QPFT:  |  140.3   |  115.7   |  135.0   |  115.3   |  434.7  
+ PQoQ%: |   64.2   |  -17.5   |   16.7   |  -14.6   |  277.0  
+
+***PROS***
+A DEBT-Free Company
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
+As on Mar2025, Sales have increased by 15.4% while the Profit QoQ_growth is much better than Sales itself at 106.3%
+
+Yearly 
+ 31-Mar-2025 #Result
+8071.70cr, QoQ 15.40% & YoY 305.98% SALES;
+1092.70cr, QoQ 21.90% & YoY 4378.28% OPERATING PROFIT;
+800.70cr, QoQ 106.30% & YoY -747.82% NET PROFIT;
+OPM %: 13.50% vs 12.8%
+NPM %: 9.90% vs 5.6%
+

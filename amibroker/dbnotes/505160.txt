@@ -1,0 +1,38 @@
+CODES
+505160	TALBROAUTO	
+SECTOR : Auto Ancillaries
+INDUSTRY : Auto Ancillaries
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  385.3   |  444.2   |  577.2   |  647.2   |  778.3   |     621.3    
+ SQoQ%:  |  -20.2   |   15.3   |   30.0   |   12.1   |   20.3   |      79.8    
+ YOPM%:  |   9.5    |   12.5   |   12.6   |   13.2   |   14.7   |              
+ YNPM%:  |   3.2    |   8.8    |   7.8    |   8.6    |   14.1   |              
+YPROFIT: |   12.2   |   39.1   |   44.9   |   55.6   |  110.0   |      67.8    
+ PQoQ%:  |  -53.8   |  220.7   |   14.7   |   23.8   |   97.9   |      61.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  198.7   |  202.7   |  204.4   |  215.4   |  201.5  
+ QoQ%:  |   2.4    |   2.0    |   0.8    |   5.4    |   -6.5  
+ QOPM%: |   15.3   |   15.1   |   14.5   |   15.1   |   16.2  
+ QNPM%: |   11.4   |   24.6   |   10.1   |   10.9   |   11.8  
+ QPFT:  |   22.8   |   49.8   |   20.6   |   23.4   |   23.8  
+ PQoQ%: |   13.6   |  118.9   |  -58.6   |   13.6   |   1.8   
+
+***PROS***
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 62% of YProfit
+
+YSALES in Mar-2024 is at 778.3 showing a QoQ_growth of 20.3%. The YNETPROFIT grew by 97.9% to 110.0
+
+Yearly 
+ 31-Mar-2024 #Result
+778.30cr, QoQ 20.30% & YoY 102.00% SALES;
+114.70cr, QoQ 34.10% & YoY 214.25% OPERATING PROFIT;
+110.00cr, QoQ 97.90% & YoY 801.64% NET PROFIT;
+OPM %: 14.70% vs 13.2%
+NPM %: 14.10% vs 8.6%
+

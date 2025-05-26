@@ -1,0 +1,38 @@
+CODES
+532543	GULFPETRO	
+SECTOR : 
+INDUSTRY : 
+BestQ Dec 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  495.2   |  609.8   |  717.5   |  790.4   |  655.2   |     426.9    
+ SQoQ%:  |  -18.4   |   23.1   |   17.7   |   10.2   |  -17.1   |      65.2    
+ YOPM%:  |   5.7    |   4.4    |   4.2    |   4.9    |   6.1    |              
+ YNPM%:  |   3.1    |   2.9    |   2.6    |   3.2    |   4.2    |              
+YPROFIT: |   15.6   |   17.7   |   18.9   |   25.2   |   27.7   |      17.7    
+ PQoQ%:  |   -4.2   |   13.9   |   6.9    |   33.0   |   10.0   |      63.9    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  155.0   |  160.8   |  165.9   |  125.1   |  135.9  
+ QoQ%:  |   -4.3   |   3.8    |   3.2    |  -24.6   |   8.6   
+ QOPM%: |   6.3    |   6.4    |   5.7    |   6.1    |   6.8   
+ QNPM%: |   4.2    |   4.4    |   3.7    |   3.9    |   4.9   
+ QPFT:  |   6.5    |   7.1    |   6.2    |   4.8    |   6.7   
+ PQoQ%: |  -32.1   |   9.6    |  -12.7   |  -21.6   |   37.5  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 65% YSales
+- Last 3QPROFIT is about 64% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+655.20cr, QoQ -17.10% & YoY 32.31% SALES;
+40.20cr, QoQ 3.70% & YoY 43.06% OPERATING PROFIT;
+27.70cr, QoQ 10.00% & YoY 77.56% NET PROFIT;
+OPM %: 6.10% vs 4.9%
+NPM %: 4.20% vs 3.2%
+

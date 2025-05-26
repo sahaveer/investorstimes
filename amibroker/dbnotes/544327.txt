@@ -1,0 +1,11 @@
+CODE	NAME
+544327 
+
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+
+***CONS***
+
+
+
+***PROS***

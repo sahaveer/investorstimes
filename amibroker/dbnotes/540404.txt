@@ -1,0 +1,24 @@
+CODE	NAME
+540404 
+
+SECTOR : Trading
+INDUSTRY : Trading
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 37.0% while the Profit QoQ_growth is at 30.5%
+
+Yearly 
+ 31-Mar-2025 #Result
+195.80cr, QoQ 37.00% & YoY 234.13% SALES;
+11.90cr, QoQ 26.40% & YoY 197.50% OPERATING PROFIT;
+8.90cr, QoQ 30.50% & YoY 286.96% NET PROFIT;
+OPM %: 6.10% vs 6.6%
+NPM %: 4.50% vs 4.8%
+

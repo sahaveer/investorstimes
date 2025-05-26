@@ -1,0 +1,34 @@
+CODE	NAME
+526407 
+
+SECTOR : Realty
+INDUSTRY : Construction
+PRODUCT DEMAND
+BestQ Dec 2024
+YSD YPD 2024
+YSD YPD 2022
+
+***CONS***
+ YPNL:   | Mar-2016 | Mar-2017 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   12.9   |   49.7   |  198.4   |   75.6   |  239.7   |      50.5    
+ SQoQ%:  |   -7.7   |  285.0   |  299.2   |  -61.9   |  217.0   |      21.1    
+ YOPM%:  |   9.6    |   3.5    |   21.0   |   4.0    |   13.7   |              
+ YNPM%:  |   13.5   |   4.2    |   12.0   |   0.0    |   5.7    |              
+YPROFIT: |   1.7    |   2.1    |   23.8   |   -0.5   |   13.6   |      12.6    
+ PQoQ%:  |  -24.0   |   19.0   |  1049.3  |  -102.3  | -2627.8  |      92.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   59.0   |   83.5   |   37.0   |   5.2    |   8.3   
+ QoQ%:  |   -4.5   |   41.5   |  -55.8   |  -86.0   |   60.9  
+ QOPM%: |   12.0   |   23.5   |   67.7   |  110.7   |   0.0   
+ QNPM%: |   2.4    |   12.8   |   33.2   |   25.8   |   0.0   
+ QPFT:  |   1.4    |   10.7   |   12.3   |   1.3    |   -1.0  
+ PQoQ%: |  259.0   |  665.7   |   14.4   |  -89.2   |  -177.4 
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QPROFIT is about 93% of YProfit
+- YProfit Turned POSITIVE this year Mar-2024 : 13.6
+- YProfits and YSales DOUBLED in Mar2024
+- YProfits and YSales DOUBLED in Mar2022

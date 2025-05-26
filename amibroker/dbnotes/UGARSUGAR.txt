@@ -1,0 +1,39 @@
+CODES
+530363	UGARSUGAR	
+SECTOR : Sugar
+INDUSTRY : Sugar
+LYPD PM 2023
+YS15 YPD 2023
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2019 | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | QSUM:Sep-2023
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  750.2   |  870.4   |  955.5   |  1137.5  |  1794.2  |     422.2    
+ SQoQ%:  |   nan    |   16.0   |   9.8    |   19.0   |   57.7   |      23.5    
+ YOPM%:  |   6.6    |   7.8    |   7.1    |   8.7    |   11.6   |              
+ YNPM%:  |   0.6    |   1.6    |   1.8    |   3.8    |   5.7    |              
+YPROFIT: |   4.4    |   13.8   |   17.0   |   43.3   |  103.0   |     -42.3    
+ PQoQ%:  |   nan    |  216.6   |   23.8   |  154.1   |  137.8   |     -41.1    
+ QPNL:  | Sep-2022 | Dec-2022 | Mar-2023 | Jun-2023 | Sep-2023
+--------+----------+----------+----------+----------+---------
+QSALES: |  256.3   |  593.9   |  608.5   |  188.1   |  234.1  
+ QoQ%:  |  -23.6   |  131.7   |   2.5    |  -69.1   |   24.5  
+ QOPM%: |   1.3    |   12.7   |   17.3   |   3.3    |   0.0   
+ QNPM%: |   0.0    |   7.7    |   10.7   |   0.0    |   0.0   
+ QPFT:  |  -13.5   |   45.5   |   65.3   |   -9.1   |  -33.2  
+ PQoQ%: |  -334.8  |  -437.8  |   43.3   |  -114.0  |  263.2  
+
+***PROS***
+- LastYr YProfits Doubled and maintained in Mar2023
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
+As on Mar2023, Sales have increased by 57.7% while the Profit QoQ_growth is much better than Sales itself at 137.8%
+
+Yearly 
+ 31-Mar-2023 #Result
+1794.20cr, QoQ 57.70% & YoY 139.16% SALES;
+208.50cr, QoQ 110.20% & YoY 318.67% OPERATING PROFIT;
+103.00cr, QoQ 137.80% & YoY 2240.91% NET PROFIT;
+OPM %: 11.60% vs 8.7%
+NPM %: 5.70% vs 3.8%
+

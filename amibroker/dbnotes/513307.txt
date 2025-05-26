@@ -1,0 +1,41 @@
+CODE	NAME
+513307 
+
+SECTOR : Non Ferrous Metals
+INDUSTRY : Aluminium and Aluminium Products
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   31.3   |   26.1   |   29.6   |   25.6   |   25.8   |      16.9    
+ SQoQ%:  |   2.6    |  -16.8   |   13.4   |  -13.2   |   0.7    |      65.5    
+ YOPM%:  |   3.7    |   3.8    |   5.9    |   2.7    |   3.0    |              
+ YNPM%:  |   1.5    |   1.5    |   3.1    |   0.7    |   0.9    |              
+YPROFIT: |   0.5    |   0.4    |   0.9    |   0.2    |   0.2    |      0.3     
+ PQoQ%:  |   4.5    |  -17.4   |  142.1   |  -81.5   |   29.4   |     150.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   6.5    |   6.1    |   6.4    |   5.5    |   5.0   
+ QoQ%:  |   8.3    |   -6.1   |   4.4    |  -14.7   |   -8.6  
+ QOPM%: |   2.6    |   4.2    |   8.0    |   0.4    |   1.8   
+ QNPM%: |   0.5    |   1.6    |   5.2    |   0.2    |   0.6   
+ QPFT:  |   0.0    |   0.1    |   0.3    |   0.0    |   0.0   
+ PQoQ%: |  -72.7   |  233.3   |  230.0   |  -97.0   |  200.0  
+
+***PROS***
+A DEBT-Free Company
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 66% YSales
+- Last 3QPROFIT is about 150% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+25.80cr, QoQ 0.70% & YoY -17.57% SALES;
+0.80cr, QoQ 10.00% & YoY -33.33% OPERATING PROFIT;
+0.20cr, QoQ 29.40% & YoY -60.00% NET PROFIT;
+OPM %: 3.00% vs 2.7%
+NPM %: 0.90% vs 0.7%
+

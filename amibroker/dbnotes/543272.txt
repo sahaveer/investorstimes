@@ -1,0 +1,40 @@
+CODES
+543272	EASEMYTRIP	
+SECTOR : E-Commerce/App based Aggregator
+INDUSTRY : Travel Agencies
+BestQ Dec 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  141.4   |  138.5   |  235.4   |  448.8   |  590.6   |     447.9    
+ SQoQ%:  |   nan    |   -2.0   |   69.9   |   90.7   |   31.6   |      75.8    
+ YOPM%:  |   7.2    |   56.3   |   56.5   |   39.2   |   35.5   |              
+ YNPM%:  |   23.3   |   44.1   |   45.0   |   29.9   |   17.5   |              
+YPROFIT: |   33.0   |   61.0   |  105.9   |  134.2   |  103.1   |      92.0    
+ PQoQ%:  |   nan    |   85.0   |   73.6   |   26.7   |  -23.2   |      89.2    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  160.8   |  164.0   |  152.6   |  144.7   |  150.6  
+ QoQ%:  |   13.5   |   2.0    |   -7.0   |   -5.2   |   4.1   
+ QOPM%: |   37.9   |   30.0   |   30.8   |   25.6   |   31.7  
+ QNPM%: |   28.4   |   0.0    |   21.3   |   17.9   |   22.3  
+ QPFT:  |   45.7   |  -15.8   |   32.5   |   25.9   |   33.6  
+ PQoQ%: |   -3.2   |  -134.5  |  -306.2  |  -20.4   |   30.0  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 28.0%
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 89% of YProfit
+
+
+Yearly 
+ 31-Mar-2024 #Result
+590.60cr, QoQ 31.60% & YoY 317.68% SALES;
+209.80cr, QoQ 19.30% & YoY 1956.86% OPERATING PROFIT;
+103.10cr, QoQ -23.20% & YoY 212.42% NET PROFIT;
+OPM %: 35.50% vs 39.2%
+NPM %: 17.50% vs 29.9%
+

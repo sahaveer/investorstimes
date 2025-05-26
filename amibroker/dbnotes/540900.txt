@@ -1,0 +1,39 @@
+CODES
+540900	NEWGEN	
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Medium / Small
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  672.6   |  779.0   |  974.0   |  1243.8  |  1486.9 
+ SQoQ%:  |   1.8    |   15.8   |   25.0   |   27.7   |   19.5  
+ YOPM%:  |   28.6   |   25.0   |   21.8   |   23.2   |   25.3  
+ YNPM%:  |   18.8   |   21.1   |   18.2   |   20.2   |   21.2  
+YPROFIT: |  126.5   |  164.2   |  177.0   |  251.6   |  315.2  
+ PQoQ%:  |   73.9   |   29.8   |   7.8    |   42.1   |   25.3  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  375.3   |  314.7   |  361.2   |  381.1   |  429.9  
+ QoQ%:  |   15.9   |  -16.1   |   14.8   |   5.5    |   12.8  
+ QOPM%: |   32.7   |   15.1   |   23.0   |   28.4   |   31.9  
+ QNPM%: |   28.1   |   15.1   |   19.5   |   23.4   |   25.2  
+ QPFT:  |  105.3   |   47.6   |   70.3   |   89.0   |  108.3  
+ PQoQ%: |   54.0   |  -54.8   |   47.8   |   26.5   |   21.7  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 24.2%
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 19.5% while the Profit QoQ_growth is much better than Sales itself at 25.3%
+
+Yearly 
+ 31-Mar-2025 #Result
+1486.90cr, QoQ 19.50% & YoY 121.07% SALES;
+376.20cr, QoQ 30.50% & YoY 95.73% OPERATING PROFIT;
+315.20cr, QoQ 25.30% & YoY 149.17% NET PROFIT;
+OPM %: 25.30% vs 23.2%
+NPM %: 21.20% vs 20.2%
+

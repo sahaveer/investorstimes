@@ -1,0 +1,31 @@
+CODE	NAME
+514060 
+
+SECTOR : Trading
+INDUSTRY : Trading
+BestQ Dec 2024
+YSD YPD 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.0    |   0.0    |   0.0    |   0.0    |   23.8   |      45.5    
+ SQoQ%:  |   nan    |   nan    |   nan    |   nan    |   inf    |     191.2    
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   7.3    |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   9.2    |              
+YPROFIT: |   -0.1   |   -0.1   |   -0.1   |   -0.2   |   2.2    |      1.7     
+ PQoQ%:  |   71.4   |   16.7   |  -21.4   |   54.5   | -1388.2  |      77.3    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   11.0   |   12.5   |   15.1   |   20.2   |   10.2  
+ QoQ%:  |  2570.7  |   14.0   |   20.8   |   34.3   |  -49.6  
+ QOPM%: |   3.5    |   10.0   |   4.0    |   4.3    |   1.5   
+ QNPM%: |   3.5    |   10.0   |   4.0    |   4.3    |   1.5   
+ QPFT:  |   0.4    |   1.2    |   0.6    |   0.9    |   0.2   
+ PQoQ%: |   15.2   |  228.9   |  -52.0   |   45.0   |  -82.8  
+
+***PROS***
+- Last 3QSALES is about 191% YSales
+- Last 3QPROFIT is about 77% of YProfit
+- YProfit Turned POSITIVE this year Mar-2024 : 2.2
+- YProfits and YSales DOUBLED in Mar2024

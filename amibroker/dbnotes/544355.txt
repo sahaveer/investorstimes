@@ -1,0 +1,21 @@
+CODES
+544355	JUBLCPL	
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+
+***CONS***
+
+
+
+
+
+***PROS***
+
+Quarterly 
+31-Dec-2024 #Result
+397.50cr, QoQ -2.30% SALES;
+34.80cr, QoQ -16.10% OPERATING PROFIT;
+21.30cr, QoQ -13.60% NET PROFIT;
+OPM %: 8.80% vs 10.2%
+NPM %: 5.40% vs 6.1%
+

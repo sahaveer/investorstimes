@@ -1,0 +1,36 @@
+CODES
+521194	SILINV	
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   28.4   |   49.0   |   43.8   |   51.0   |   54.8  
+ SQoQ%:  |  -26.7   |   72.3   |  -10.6   |   16.3   |   7.6   
+ YOPM%:  |   78.3   |   86.1   |   84.7   |   78.9   |   78.3  
+ YNPM%:  |   71.4   |   67.4   |   64.1   |   57.7   |   56.4  
+YPROFIT: |   20.3   |   33.0   |   28.1   |   29.4   |   30.9  
+ PQoQ%:  |  -42.3   |   62.6   |  -14.9   |   4.8    |   5.1   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   5.6    |   7.2    |   24.7   |   22.4   |   0.6   
+ QoQ%:  |  -73.5   |   27.5   |  246.0   |   -9.7   |  -97.4  
+ QOPM%: |   39.6   |   69.9   |   88.4   |   80.5   |   0.0   
+ QNPM%: |   35.7   |   48.7   |   66.0   |   61.8   |   0.0   
+ QPFT:  |   2.0    |   3.5    |   16.3   |   13.8   |   -2.7  
+ PQoQ%: |  -82.1   |   74.0   |  369.3   |  -15.4   |  -119.5 
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+54.80cr, QoQ 7.60% & YoY 92.96% SALES;
+42.90cr, QoQ 6.80% & YoY 92.38% OPERATING PROFIT;
+30.90cr, QoQ 5.10% & YoY 52.22% NET PROFIT;
+OPM %: 78.30% vs 78.9%
+NPM %: 56.40% vs 57.7%
+

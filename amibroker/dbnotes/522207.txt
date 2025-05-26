@@ -1,0 +1,31 @@
+CODE	NAME
+522207 
+
+SECTOR : Auto Ancillaries
+INDUSTRY : Auto Ancillaries
+PRODUCT DEMAND
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  206.6   |  136.5   |  206.0   |  149.6   |   86.0   |      48.6    
+ SQoQ%:  |  -22.2   |  -33.9   |   50.9   |  -27.4   |  -42.5   |      56.5    
+ YOPM%:  |   2.0    |   9.8    |   7.5    |   5.7    |   0.0    |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   8.3    |              
+YPROFIT: |   -3.3   |   -5.8   |   -2.7   |   -3.3   |   7.1    |      -4.4    
+ PQoQ%:  |  -214.5  |   73.8   |  -53.0   |   21.8   |  -316.1  |     -62.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   17.9   |   19.0   |   17.9   |   16.3   |   14.4  
+ QoQ%:  |  -18.3   |   6.0    |   -5.8   |   -8.7   |  -11.9  
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   7.6   
+ QNPM%: |   0.0    |   67.1   |   8.2    |   0.0    |   0.0   
+ QPFT:  |   -6.4   |   12.7   |   1.5    |   -2.8   |   -3.1  
+ PQoQ%: |  -332.6  |  -300.5  |  -88.5   |  -293.2  |   10.6  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 57% YSales
+- YProfit Turned POSITIVE this year Mar-2024 : 7.1
+- LastYr YProfits Doubled and maintained in Mar2024

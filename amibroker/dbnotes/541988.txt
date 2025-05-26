@@ -1,0 +1,35 @@
+CODES
+541988	AAVAS	
+SECTOR : Finance
+INDUSTRY : Finance - Housing
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024
+---------+----------+----------+----------+----------+---------
+YSALES:  |  902.6   |  1103.4  |  1304.4  |  1608.8  |  2017.9 
+ SQoQ%:  |   27.1   |   22.2   |   18.2   |   23.3   |   25.4  
+ YOPM%:  |   75.0   |   75.2   |   73.0   |   72.5   |   73.5  
+ YNPM%:  |   27.6   |   26.2   |   27.2   |   26.7   |   24.3  
+YPROFIT: |  249.0   |  288.9   |  355.2   |  429.6   |  490.7  
+ PQoQ%:  |   41.5   |   16.0   |   22.9   |   21.0   |   14.2  
+ QPNL:  | Mar-2023 | Jun-2023 | Sep-2023 | Dec-2023 | Mar-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  449.7   |  467.0   |  496.8   |  508.1   |  546.0  
+ QoQ%:  |   9.3    |   3.8    |   6.4    |   2.3    |   7.5   
+ QOPM%: |   73.7   |   71.7   |   74.0   |   73.6   |   74.6  
+ QNPM%: |   28.2   |   23.5   |   24.5   |   23.0   |   26.1  
+ QPFT:  |  126.8   |  109.8   |  121.7   |  116.7   |  142.5  
+ PQoQ%: |   18.4   |  -13.4   |   10.8   |   -4.1   |   22.1  
+
+***PROS***
+- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2024 #Result
+2017.90cr, QoQ 25.40% & YoY 123.57% SALES;
+1483.60cr, QoQ 27.20% & YoY 119.21% OPERATING PROFIT;
+490.70cr, QoQ 14.20% & YoY 97.07% NET PROFIT;
+OPM %: 73.50% vs 72.5%
+NPM %: 24.30% vs 26.7%
+

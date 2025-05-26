@@ -1,0 +1,37 @@
+CODES
+532313	MAHLIFE	
+SECTOR : Construction
+INDUSTRY : Construction
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  166.2   |  393.6   |  606.6   |  212.1   |  372.3  
+ SQoQ%:  |  -72.8   |  136.7   |   54.1   |  -65.0   |   75.5  
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ YNPM%:  |   0.0    |   39.3   |   16.7   |   46.3   |   16.5  
+YPROFIT: |  -71.7   |  154.5   |  101.4   |   98.2   |   61.3  
+ PQoQ%:  |  -62.9   |  -315.3  |  -34.4   |   -3.1   |  -37.6  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   14.3   |  188.1   |   7.6    |  167.3   |   9.2   
+ QoQ%:  |  -82.6   |  1216.6  |  -96.0   |  2098.2  |  -94.5  
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |  500.3   |   6.8    |   0.0    |   0.0    |  920.8  
+ QPFT:  |   71.5   |   12.7   |  -14.0   |  -22.5   |   85.1  
+ PQoQ%: |   43.1   |  -82.2   |  -210.2  |   60.4   |  -478.3 
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+
+Yearly 
+ 31-Mar-2025 #Result
+372.30cr, QoQ 75.50% & YoY 124.01% SALES;
+-169.90cr, QoQ -0.70% & YoY 81.71% OPERATING PROFIT;
+61.30cr, QoQ -37.60% & YoY -185.50% NET PROFIT;
+OPM %: 0.00% vs 0.0%
+NPM %: 16.50% vs 46.3%
+

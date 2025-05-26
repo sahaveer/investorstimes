@@ -1,0 +1,42 @@
+CODE	NAME
+517246 
+
+SECTOR : Consumer Durables
+INDUSTRY : Electronics - Components
+PRODUCT DEMAND
+BestQ Dec 2024
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   47.4   |   44.4   |   28.5   |   28.6   |   32.3   |      34.3    
+ SQoQ%:  |   14.5   |   -6.2   |  -35.8   |   0.4    |   12.6   |     106.2    
+ YOPM%:  |   0.0    |   2.6    |   6.0    |   10.7   |   13.9   |              
+ YNPM%:  |   0.0    |   1.3    |   3.1    |   8.0    |   11.7   |              
+YPROFIT: |   -1.0   |   0.6    |   0.9    |   2.3    |   3.8    |      2.8     
+ PQoQ%:  |  -575.0  |  -162.1  |   50.8   |  158.4   |   63.5   |      73.7    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   6.2    |   7.7    |   9.6    |   11.3   |   13.4  
+ QoQ%:  |  -20.3   |   25.0   |   25.1   |   17.4   |   18.5  
+ QOPM%: |   11.9   |   8.7    |   13.8   |   12.8   |   16.3  
+ QNPM%: |   7.5    |   14.5   |   9.0    |   8.1    |   7.4   
+ QPFT:  |   0.5    |   1.1    |   0.9    |   0.9    |   1.0   
+ PQoQ%: |  -51.1   |  143.5   |  -22.3   |   5.7    |   7.6   
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 106% YSales
+- Last 3QPROFIT is about 74% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2024
+
+Yearly 
+ 31-Mar-2024 #Result
+32.30cr, QoQ 12.60% & YoY -31.86% SALES;
+4.50cr, QoQ 46.70% & YoY -1225.00% OPERATING PROFIT;
+3.80cr, QoQ 63.50% & YoY -480.00% NET PROFIT;
+OPM %: 13.90% vs 10.7%
+NPM %: 11.70% vs 8.0%
+

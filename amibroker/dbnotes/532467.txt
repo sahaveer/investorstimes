@@ -1,0 +1,44 @@
+CODE	NAME
+532467 
+
+SECTOR : Infrastructure Developers & Operators
+INDUSTRY : Construction
+PRODUCT DEMAND
+YSD YPD 2024
+YSD YPD 2014
+
+***CONS***
+ YPNL:   | Mar-2012 | Mar-2013 | Mar-2014 | Mar-2015 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   1.8    |   0.0    |   0.3    |   0.2    |  544.6   |     388.3    
+ SQoQ%:  |   inf    |  -100.0  |   inf    |  -32.1   | 286510.5 |      71.3    
+ YOPM%:  |   0.0    |   0.0    |   64.3   |   26.3   |   15.4   |              
+ YNPM%:  |   0.0    |   inf    |   21.4   |   63.2   |   11.7   |              
+YPROFIT: |   -0.6   |   0.0    |   0.1    |   0.1    |   63.8   |      23.2    
+ PQoQ%:  |  -67.4   |  -103.6  |  200.0   |  100.0   | 53041.7  |      36.4    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   80.6   |  463.9   |   70.3   |  153.1   |  164.9  
+ QoQ%:  |   nan    |  475.4   |  -84.9   |  117.9   |   7.7   
+ QOPM%: |   15.1   |   15.4   |   21.8   |   11.9   |   6.1   
+ QNPM%: |   12.2   |   11.6   |   13.5   |   7.2    |   1.6   
+ QPFT:  |   9.8    |   53.9   |   9.5    |   11.0   |   2.7   
+ PQoQ%: |   nan    |  448.7   |  -82.5   |   16.5   |  -75.3  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 71% YSales
+- YProfits and YSales DOUBLED in Mar2024
+- YProfits and YSales DOUBLED in Mar2014
+
+
+YSALES in Mar-2024 is at 544.6 showing a QoQ_growth of 286510.5%. The YNETPROFIT grew by 53041.7% to 63.8
+
+Yearly 
+ 31-Mar-2024 #Result
+544.60cr, QoQ 286510.50% & YoY 30155.56% SALES;
+83.60cr, QoQ 167080.00% & YoY -83700.00% OPERATING PROFIT;
+63.80cr, QoQ 53041.70% & YoY -10733.33% NET PROFIT;
+OPM %: 15.40% vs 26.3%
+NPM %: 11.70% vs 63.2%
+

@@ -1,0 +1,37 @@
+CODES
+532702	GSPL	
+SECTOR : Gas Distribution
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  | 11535.4  | 17990.8  | 18116.6  | 17294.8  | 17370.1 
+ SQoQ%:  |   -5.8   |   56.0   |   0.7    |   -4.5   |   0.4   
+ YOPM%:  |   31.0   |   19.5   |   20.3   |   19.7   |   15.1  
+ YNPM%:  |   13.9   |   9.1    |   9.1    |   9.6    |   6.4   
+YPROFIT: |  1606.8  |  1638.3  |  1641.5  |  1659.5  |  1111.1 
+ PQoQ%:  |   -7.1   |   2.0    |   0.2    |   1.1    |  -33.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  4532.2  |  4727.0  |  3992.1  |  4360.5  |  4290.5 
+ QoQ%:  |   3.3    |   4.3    |  -15.5   |   9.2    |   -1.6  
+ QOPM%: |   21.2   |   17.4   |   17.2   |   12.7   |   13.2  
+ QNPM%: |   10.5   |   7.9    |   7.1    |   5.4    |   5.1   
+ QPFT:  |  475.0   |  375.0   |  281.7   |  234.1   |  220.3  
+ PQoQ%: |   20.3   |  -21.1   |  -24.9   |  -16.9   |   -5.9  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+Yearly 
+ 31-Mar-2025 #Result
+17370.10cr, QoQ 0.40% & YoY 50.58% SALES;
+2630.40cr, QoQ -22.80% & YoY -26.41% OPERATING PROFIT;
+1111.10cr, QoQ -33.00% & YoY -30.85% NET PROFIT;
+OPM %: 15.10% vs 19.7%
+NPM %: 6.40% vs 9.6%
+

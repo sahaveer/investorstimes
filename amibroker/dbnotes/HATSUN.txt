@@ -1,0 +1,27 @@
+CODES
+531531	HATSUN	
+SECTOR : FMCG
+INDUSTRY : Food - Processing - Indian
+PRODUCT DEMAND
+YSD YPD 2024
+LYPD PM 2025
+
+***CONS***
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
+
+Yearly 
+ 31-Mar-2025 #Result
+8699.80cr, QoQ 8.90% SALES;
+1010.10cr, QoQ 12.40% OPERATING PROFIT;
+278.80cr, QoQ 4.30% NET PROFIT;
+OPM %: 11.60% vs 11.3%
+NPM %: 3.20% vs 3.3%
+

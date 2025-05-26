@@ -1,0 +1,10 @@
+CODES
+PSRAJ	
+SECTOR : Steel
+INDUSTRY : Steel - Medium / Small
+
+***CONS***
+
+
+
+***PROS***

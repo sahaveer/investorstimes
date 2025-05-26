@@ -1,0 +1,43 @@
+CODE	NAME
+532315 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+PRODUCT DEMAND
+BestQ Dec 2024
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.3    |   13.9   |   63.4   |   69.0   |   41.0   |      34.6    
+ SQoQ%:  |  -48.0   |  5234.6  |  356.7   |   8.9    |  -40.5   |      84.4    
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.4    |   0.9    |              
+ YNPM%:  |   50.0   |   10.4   |   1.1    |   0.3    |   0.7    |              
+YPROFIT: |   0.1    |   1.4    |   0.7    |   0.2    |   0.3    |      0.7     
+ PQoQ%:  |  -55.2   |  1007.7  |  -53.5   |  -68.7   |   28.6   |     233.3    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   27.4   |   1.2    |   31.6   |   1.0    |   2.0   
+ QoQ%:  |  281.7   |  -95.7   |  2596.6  |  -97.0   |  103.1  
+ QOPM%: |   1.8    |   0.0    |   4.1    |   0.0    |   0.0   
+ QNPM%: |   1.9    |   0.0    |   2.7    |   0.0    |   0.0   
+ QPFT:  |   0.5    |   -0.5   |   0.9    |   -0.2   |   -0.0  
+ PQoQ%: |  140.9   |  -192.5  |  -275.5  |  -125.6  |  -86.4  
+
+***PROS***
+A DEBT-Free Company for the last 2 yrs
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 84% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 233% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+41.00cr, QoQ -40.50% & YoY 13566.67% SALES;
+0.40cr, QoQ 37.00% & YoY -117.39% OPERATING PROFIT;
+0.30cr, QoQ 28.60% & YoY 200.00% NET PROFIT;
+OPM %: 0.90% vs 0.4%
+NPM %: 0.70% vs 0.3%
+

@@ -1,0 +1,43 @@
+CODES
+507514	SDBL	
+SECTOR : Alcoholic Beverages
+INDUSTRY : Breweries & Distilleries
+BestQ Dec 2024
+YSD YPD 2023
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  459.9   |  287.6   |  365.2   |  806.7   |  1280.7  |     1103.9   
+ SQoQ%:  |   16.9   |  -37.5   |   27.0   |  120.9   |   58.8   |      86.2    
+ YOPM%:  |   9.6    |   0.0    |   5.4    |   12.7   |   11.7   |              
+ YNPM%:  |   3.3    |   0.0    |   0.0    |   7.5    |   6.8    |              
+YPROFIT: |   15.0   |  -38.1   |   -9.8   |   60.3   |   86.5   |      80.8    
+ PQoQ%:  |  -23.9   |  -353.5  |  -74.2   |  -712.8  |   43.4   |      93.4    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  266.3   |  381.6   |  513.1   |  289.7   |  301.1  
+ QoQ%:  |   7.5    |   43.3   |   34.5   |  -43.5   |   3.9   
+ QOPM%: |   12.0   |   11.0   |   12.5   |   11.7   |   12.1  
+ QNPM%: |   6.8    |   5.2    |   7.9    |   6.5    |   7.1   
+ QPFT:  |   18.0   |   20.0   |   40.6   |   18.7   |   21.5  
+ PQoQ%: |   21.1   |   11.1   |  102.9   |  -53.9   |   15.0  
+
+***PROS***
+- Last 3QSALES is about 86% YSales
+- Last 3QPROFIT is about 93% of YProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2024
+
+YSALES in Mar-2024 is at 1280.7 showing a QoQ_growth of 58.8%. The YNETPROFIT grew by 43.4% to 86.5
+
+Yearly 
+ 31-Mar-2024 #Result
+1280.70cr, QoQ 58.80% & YoY 178.47% SALES;
+149.50cr, QoQ 46.40% & YoY 237.47% OPERATING PROFIT;
+86.50cr, QoQ 43.40% & YoY 476.67% NET PROFIT;
+OPM %: 11.70% vs 12.7%
+NPM %: 6.80% vs 7.5%
+

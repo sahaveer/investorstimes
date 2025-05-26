@@ -1,0 +1,36 @@
+CODES
+541179	ISEC	
+SECTOR : Stock/ Commodity Brokers
+INDUSTRY : Finance & Investments
+PRODUCT DEMAND
+
+***CONS***
+  YPNL   |   :    | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+--------+----------+----------+----------+----------+---------
+YSALES:  | 2586.2 |  3435.0  |  3421.5  |  5049.2  |  6331.7  |         
+ SQoQ%:  |  50.3  |   32.8   |   -0.4   |   47.6   |   25.4   |         
+ YOPM%:  |  61.6  |   63.6   |   61.6   |   66.8   |   70.4   |         
+ YNPM%:  |  41.3  |   40.3   |   32.7   |   33.6   |   30.7   |         
+YPROFIT: | 1067.7 |  1382.6  |  1117.6  |  1696.7  |  1941.4  |         
+ PQoQ%:  |  97.0  |   29.5   |  -19.2   |   51.8   |   14.4   |         
+  QPNL  |   :    | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+--------+----------+----------+----------+----------+---------
+QSALES: | 1543.2 |  1640.7  |  1706.6  |  1586.0  |  1398.4  |         
+ QoQ%:  |  16.7  |   6.3    |   4.0    |   -7.1   |  -11.8   |         
+ QOPM%: |  69.9  |   69.2   |   68.4   |   73.7   |   70.5   |         
+ QNPM%: |  34.8  |   32.1   |   31.0   |   31.8   |   27.2   |         
+ QPFT:  | 536.5  |  526.9   |  529.0   |  504.5   |  381.0   |         
+ PQoQ%: |  15.2  |   -1.8   |   0.4    |   -4.6   |  -24.5   |         
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+6331.70cr, QoQ 25.40% & YoY 144.83% SALES;
+4457.80cr, QoQ 32.20% & YoY 179.85% OPERATING PROFIT;
+1941.40cr, QoQ 14.40% & YoY 81.83% NET PROFIT;
+OPM %: 70.40% vs 66.8%
+NPM %: 30.70% vs 33.6%
+

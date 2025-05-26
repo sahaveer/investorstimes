@@ -1,0 +1,39 @@
+CODES
+532899	KSCL	
+SECTOR : FMCG
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1033.2  |  967.6   |  1067.9  |  1146.1  |  1205.0 
+ SQoQ%:  |   11.2   |   -6.3   |   10.4   |   7.3    |   5.1   
+ YOPM%:  |   28.8   |   20.9   |   23.6   |   24.9   |   24.1  
+ YNPM%:  |   30.1   |   22.0   |   25.4   |   26.1   |   23.3  
+YPROFIT: |  310.5   |  212.4   |  271.7   |  298.7   |  281.3  
+ PQoQ%:  |   19.9   |  -31.6   |   27.9   |   9.9    |   -5.8  
+ QPNL:  | Mar-2024 |  Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+-----------+----------+----------+---------
+QSALES: |   98.4   |   803.2   |  137.4   |  174.0   |   90.2  
+ QoQ%:  |  -31.0   |   716.7   |  -82.9   |   26.6   |  -48.1  
+ QOPM%: |   0.0    |    36.8   |   0.0    |   8.1    |   0.0   
+ QNPM%: |   0.0    |    36.0   |   0.0    |   8.9    |   0.0   
+ QPFT:  |   -0.3   |   289.5   |   -0.7   |   15.4   |  -22.9  
+ PQoQ%: |  -102.3  | -107318.5 |  -100.2  | -2404.5  |  -248.6 
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 29.6%
+
+
+Yearly 
+ 31-Mar-2025 #Result
+1205.00cr, QoQ 5.10% & YoY 16.63% SALES;
+290.90cr, QoQ 1.80% & YoY -2.38% OPERATING PROFIT;
+281.30cr, QoQ -5.80% & YoY -9.40% NET PROFIT;
+OPM %: 24.10% vs 24.9%
+NPM %: 23.30% vs 26.1%
+

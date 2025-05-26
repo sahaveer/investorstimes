@@ -1,0 +1,40 @@
+CODES
+543064	COHANCE	
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  833.8   |  1009.7  |  1320.2  |  1340.3  |  1051.4  |     795.6    
+ SQoQ%:  |  120.7   |   21.1   |   30.8   |   1.5    |  -21.6   |      75.7    
+ YOPM%:  |   46.1   |   43.9   |   44.1   |   42.8   |   38.6   |              
+ YNPM%:  |   38.0   |   35.9   |   34.4   |   30.7   |   28.6   |              
+YPROFIT: |  317.0   |  362.3   |  453.8   |  411.3   |  300.3   |     225.9    
+ PQoQ%:  |  190.1   |   14.3   |   25.2   |   -9.4   |  -27.0   |      75.2    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  219.8   |  252.9   |  230.7   |  257.7   |  307.2  
+ QoQ%:  |   -4.9   |   15.1   |   -8.8   |   11.7   |   19.2  
+ QOPM%: |   30.1   |   29.0   |   34.6   |   40.4   |   38.3  
+ QNPM%: |   21.3   |   21.1   |   26.3   |   31.9   |   27.0  
+ QPFT:  |   46.8   |   53.4   |   60.8   |   82.2   |   82.9  
+ PQoQ%: |  -41.2   |   14.2   |   13.9   |   35.3   |   0.8   
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 23.8%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 75% of YProfit
+
+
+Yearly 
+ 31-Mar-2024 #Result
+1051.40cr, QoQ -21.60% & YoY 26.10% SALES;
+405.90cr, QoQ -29.30% & YoY 5.48% OPERATING PROFIT;
+300.30cr, QoQ -27.00% & YoY -5.27% NET PROFIT;
+OPM %: 38.60% vs 42.8%
+NPM %: 28.60% vs 30.7%
+

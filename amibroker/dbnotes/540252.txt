@@ -1,0 +1,39 @@
+CODE	NAME
+540252 
+
+SECTOR : Diamond, Gems and Jewellery
+INDUSTRY : Diamond Cutting / Jewellery
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   20.0   |   20.5   |   18.7   |   18.7   |   19.3   |      17.1    
+ SQoQ%:  |   28.7   |   2.8    |   -8.7   |   -0.3   |   3.5    |      88.6    
+ YOPM%:  |   2.0    |   10.2   |   14.6   |   11.8   |   16.2   |              
+ YNPM%:  |   5.5    |   14.3   |   21.3   |   9.6    |   12.7   |              
+YPROFIT: |   1.1    |   2.9    |   4.0    |   1.8    |   2.5    |      2.4     
+ PQoQ%:  |  251.6   |  168.8   |   36.2   |  -55.1   |   37.4   |      96.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   5.7    |   5.8    |   8.2    |   5.2    |   3.7   
+ QoQ%:  |   67.6   |   1.2    |   42.1   |  -36.2   |  -28.8  
+ QOPM%: |   7.9    |   33.9   |   10.6   |   5.6    |   16.4  
+ QNPM%: |   7.6    |   17.0   |   12.4   |   13.6   |   19.4  
+ QPFT:  |   0.4    |   1.0    |   1.0    |   0.7    |   0.7   
+ PQoQ%: |  -15.7   |  127.9   |   3.1    |  -29.7   |   1.4   
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- Last 3QSALES is about 89% YSales
+- Last 3QPROFIT is about 96% of YProfit
+
+
+Yearly 
+ 31-Mar-2024 #Result
+19.30cr, QoQ 3.50% & YoY -3.50% SALES;
+3.10cr, QoQ 42.30% & YoY 675.00% OPERATING PROFIT;
+2.50cr, QoQ 37.40% & YoY 127.27% NET PROFIT;
+OPM %: 16.20% vs 11.8%
+NPM %: 12.70% vs 9.6%
+

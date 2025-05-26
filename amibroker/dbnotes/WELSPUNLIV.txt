@@ -1,0 +1,39 @@
+CODES
+514162	WELSPUNLIV	
+SECTOR : Textiles
+INDUSTRY : Textiles - Products
+BestQ Dec 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  6741.1  |  7340.2  |  9311.5  |  8093.8  |  9679.2  |     7899.2   
+ SQoQ%:  |   3.3    |   8.9    |   26.9   |  -13.1   |   19.6   |      81.6    
+ YOPM%:  |   18.0   |   18.4   |   14.6   |   9.3    |   14.1   |              
+ YNPM%:  |   7.5    |   7.4    |   6.5    |   2.5    |   7.0    |              
+YPROFIT: |  507.4   |  539.7   |  601.2   |  198.8   |  681.1   |     507.3    
+ PQoQ%:  |  141.8   |   6.4    |   11.4   |  -66.9   |  242.6   |      74.5    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  2410.9  |  2575.2  |  2536.5  |  2873.1  |  2489.6 
+ QoQ%:  |   -3.9   |   6.8    |   -1.5   |   13.3   |  -13.3  
+ QOPM%: |   14.1   |   13.9   |   13.5   |   12.4   |   11.3  
+ QNPM%: |   7.3    |   5.7    |   7.3    |   7.0    |   4.9   
+ QPFT:  |  176.8   |  146.0   |  185.5   |  201.0   |  120.8  
+ PQoQ%: |  -10.1   |  -17.4   |   27.1   |   8.3    |  -39.9  
+
+***PROS***
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 74% of YProfit
+
+YSALES in Mar-2024 is at 9679.2 showing a QoQ_growth of 19.6%. The YNETPROFIT grew by 242.6% to 681.1
+
+Yearly 
+ 31-Mar-2024 #Result
+9679.20cr, QoQ 19.60% & YoY 43.58% SALES;
+1368.90cr, QoQ 81.90% & YoY 12.69% OPERATING PROFIT;
+681.10cr, QoQ 242.60% & YoY 34.23% NET PROFIT;
+OPM %: 14.10% vs 9.3%
+NPM %: 7.00% vs 2.5%
+

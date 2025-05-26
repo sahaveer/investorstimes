@@ -1,0 +1,37 @@
+CODES
+540797	SHALBY	
+SECTOR : Healthcare
+INDUSTRY : Healthcare
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  486.8   |  430.9   |  699.0   |  804.9   |  933.8   |     822.0    
+ SQoQ%:  |   5.3    |  -11.5   |   62.2   |   15.2   |   16.0   |      88.0    
+ YOPM%:  |   17.0   |   20.6   |   17.4   |   17.2   |   19.1   |              
+ YNPM%:  |   5.7    |   9.8    |   7.7    |   8.4    |   9.0    |              
+YPROFIT: |   27.6   |   42.4   |   54.1   |   67.7   |   84.1   |      17.3    
+ PQoQ%:  |  -12.9   |   53.7   |   27.7   |   25.1   |   24.2   |      20.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  216.0   |  244.2   |  278.9   |  267.5   |  275.6  
+ QoQ%:  |   -9.2   |   13.0   |   14.2   |   -4.1   |   3.0   
+ QOPM%: |   19.6   |   15.9   |   16.2   |   12.2   |   12.3  
+ QNPM%: |   8.8    |   6.8    |   5.6    |   1.3    |   0.0   
+ QPFT:  |   19.1   |   16.6   |   15.7   |   3.4    |   -1.8  
+ PQoQ%: |  -30.9   |  -13.0   |   -5.7   |  -78.4   |  -153.4 
+
+***PROS***
+- Last 3QSALES is about 88% YSales
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 16.0% while the Profit QoQ_growth is much better than Sales itself at 24.2%
+
+Yearly 
+ 31-Mar-2024 #Result
+933.80cr, QoQ 16.00% & YoY 91.82% SALES;
+178.70cr, QoQ 29.30% & YoY 115.82% OPERATING PROFIT;
+84.10cr, QoQ 24.20% & YoY 204.71% NET PROFIT;
+OPM %: 19.10% vs 17.2%
+NPM %: 9.00% vs 8.4%
+

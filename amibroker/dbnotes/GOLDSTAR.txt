@@ -1,0 +1,20 @@
+CODES
+GOLDSTAR	
+SECTOR : Auto Ancillaries
+INDUSTRY : Auto Ancillaries
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2025 #Result
+48.40cr, QoQ -3.60% & YoY 14.96% SALES;
+4.60cr, QoQ -32.20% & YoY 360.00% OPERATING PROFIT;
+2.30cr, QoQ -43.70% & YoY 2200.00% NET PROFIT;
+OPM %: 9.50% vs 13.5%
+NPM %: 4.70% vs 8.1%
+

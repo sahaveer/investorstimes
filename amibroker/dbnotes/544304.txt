@@ -1,0 +1,26 @@
+CODE	NAME
+544304 
+
+SECTOR : Hotels & Restaurants
+INDUSTRY : Hotels
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+YSALES in Mar-2024 is at 17.5 showing a QoQ_growth of 57.6%. The YNETPROFIT grew by 697.8% to 3.6
+
+Yearly 
+ 31-Mar-2024 #Result
+17.50cr, QoQ 57.60% SALES;
+6.10cr, QoQ 289.20% OPERATING PROFIT;
+3.60cr, QoQ 697.80% NET PROFIT;
+OPM %: 34.90% vs 14.1%
+NPM %: 20.50% vs 4.1%
+

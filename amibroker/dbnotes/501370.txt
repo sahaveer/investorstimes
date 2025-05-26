@@ -1,0 +1,14 @@
+CODE	NAME
+501370 
+
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+
+***CONS***
+- NEGATIVE YProfit : -3.5
+
+
+
+
+
+***PROS***

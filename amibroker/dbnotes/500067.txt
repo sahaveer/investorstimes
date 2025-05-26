@@ -1,0 +1,39 @@
+CODES
+500067	BLUESTARCO	
+SECTOR : Consumer Durables
+INDUSTRY : Air-conditioners
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  4263.6  |  6064.1  |  7977.3  |  9685.4  | 11967.6 
+ SQoQ%:  |  -20.5   |   42.2   |   31.6   |   21.4   |   23.6  
+ YOPM%:  |   5.6    |   5.7    |   6.3    |   6.9    |   7.3   
+ YNPM%:  |   2.4    |   2.8    |   5.0    |   4.3    |   4.9   
+YPROFIT: |  100.4   |  167.7   |  400.5   |  415.0   |  591.2  
+ PQoQ%:  |  -29.9   |   67.1   |  138.8   |   3.6    |   42.5  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  3327.8  |  2865.4  |  2276.0  |  2807.4  |  4019.0 
+ QoQ%:  |   48.5   |  -13.9   |  -20.6   |   23.3   |   43.2  
+ QOPM%: |   7.3    |   8.3    |   6.5    |   7.4    |   6.9   
+ QNPM%: |   4.8    |   5.9    |   4.2    |   4.7    |   4.8   
+ QPFT:  |  160.5   |  168.8   |   96.2   |  132.6   |  193.6  
+ PQoQ%: |   59.9   |   5.2    |  -43.0   |   37.8   |   46.1  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 18.8%
+
+YSALES in Mar-2025 is at 11967.6 showing a QoQ_growth of 23.6%. The YNETPROFIT grew by 42.5% to 591.2
+
+Yearly 
+ 31-Mar-2025 #Result
+11967.60cr, QoQ 23.60% & YoY 180.69% SALES;
+874.60cr, QoQ 30.80% & YoY 264.72% OPERATING PROFIT;
+591.20cr, QoQ 42.50% & YoY 488.84% NET PROFIT;
+OPM %: 7.30% vs 6.9%
+NPM %: 4.90% vs 4.3%
+

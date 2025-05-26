@@ -1,0 +1,26 @@
+CODES
+ATCENERGY	
+SECTOR : Dry cells
+INDUSTRY : Dry Cells
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 25.7%
+
+
+YSALES in Mar-2024 is at 51.2 showing a QoQ_growth of 54.5%. The YNETPROFIT grew by 40.3% to 10.9
+
+Yearly 
+ 31-Mar-2024 #Result
+51.20cr, QoQ 54.50% SALES;
+15.20cr, QoQ 32.00% OPERATING PROFIT;
+10.90cr, QoQ 40.30% NET PROFIT;
+OPM %: 29.60% vs 34.7%
+NPM %: 21.30% vs 23.4%
+

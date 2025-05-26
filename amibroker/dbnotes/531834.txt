@@ -1,0 +1,29 @@
+CODE	NAME
+531834 
+
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+YSD YPD 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.0    |   0.1    |   0.1    |   0.0    |   0.1    |      0.0     
+ SQoQ%:  |  -100.0  |   inf    |  -14.3   |  -16.7   |   40.0   |      0.0     
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |  171.4   |              
+YPROFIT: |   -0.2   |   -0.6   |   -0.0   |   -0.2   |   0.1    |      -0.0    
+ PQoQ%:  |  -194.7  |  244.4   |  -96.8   |  750.0   |  -170.6  |      -0.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QoQ%:  |  -60.0   |  -100.0  |   nan    |   nan    |   nan   
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |   0.0    |   inf    |   0.0    |   0.0    |   0.0   
+ QPFT:  |   -0.0   |   0.1    |   -0.0   |   -0.0   |   -0.0  
+ PQoQ%: |  -133.3  |  -700.0  |  -150.0  |  -33.3   |   0.0   
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.2
+- YProfit Turned POSITIVE this year Mar-2024 : 0.1
+- YProfits and YSales DOUBLED in Mar2024

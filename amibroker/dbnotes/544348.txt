@@ -1,0 +1,22 @@
+CODE	NAME
+544348 
+
+SECTOR : Logistics
+INDUSTRY : Miscellaneous
+
+***CONS***
+
+
+
+***PROS***
+
+YSALES in Mar-2024 is at 64.4 showing a QoQ_growth of 59.9%. The YNETPROFIT grew by 367.5% to 3.6
+
+Yearly 
+ 31-Mar-2024 #Result
+64.40cr, QoQ 59.90% SALES;
+6.50cr, QoQ 366.90% OPERATING PROFIT;
+3.60cr, QoQ 367.50% NET PROFIT;
+OPM %: 10.10% vs 3.4%
+NPM %: 5.60% vs 1.9%
+

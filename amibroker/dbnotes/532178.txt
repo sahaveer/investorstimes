@@ -1,0 +1,43 @@
+CODES
+532178	ENGINERSIN	
+SECTOR : Infrastructure Developers & Operators
+INDUSTRY : Engineering - Turnkey Services
+PRODUCT DEMAND
+BestQ Dec 2024
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  3236.5  |  3144.2  |  2912.8  |  3330.1  |  3280.9  |     2077.3   
+ SQoQ%:  |   30.7   |   -2.9   |   -7.4   |   14.3   |   -1.5   |      63.3    
+ YOPM%:  |   14.1   |   11.2   |   11.9   |   9.3    |   9.1    |              
+ YNPM%:  |   13.1   |   7.9    |   4.8    |   10.4   |   13.6   |              
+YPROFIT: |  423.8   |  248.9   |  139.5   |  346.3   |  445.3   |     299.9    
+ PQoQ%:  |   15.0   |  -41.3   |  -43.9   |  148.2   |   28.6   |      67.3    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  867.6   |  805.1   |  623.8   |  688.9   |  764.6  
+ QoQ%:  |   9.9    |   -7.2   |  -22.5   |   10.4   |   11.0  
+ QOPM%: |   5.8    |   9.6    |   8.2    |   9.1    |   12.8  
+ QNPM%: |   7.3    |   14.3   |   14.7   |   14.5   |   14.2  
+ QPFT:  |   63.4   |  115.5   |   91.6   |   99.6   |  108.7  
+ PQoQ%: |  -50.3   |   82.4   |  -20.7   |   8.8    |   9.1   
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 16.9%
+- Last 3QSALES is about 63% YSales
+- Last 3QPROFIT is about 67% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2024
+
+Yearly 
+ 31-Mar-2024 #Result
+3280.90cr, QoQ -1.50% & YoY 1.37% SALES;
+299.10cr, QoQ -3.50% & YoY -34.32% OPERATING PROFIT;
+445.30cr, QoQ 28.60% & YoY 5.07% NET PROFIT;
+OPM %: 9.10% vs 9.3%
+NPM %: 13.60% vs 10.4%
+

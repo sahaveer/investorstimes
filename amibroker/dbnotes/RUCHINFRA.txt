@@ -1,0 +1,39 @@
+CODES
+509020	RUCHINFRA	
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   86.1   |   62.2   |   69.4   |   64.3   |   63.8   |      44.1    
+ SQoQ%:  |   15.0   |  -27.8   |   11.6   |   -7.3   |   -0.7   |      69.1    
+ YOPM%:  |   24.9   |   39.4   |   0.0    |   38.3   |   33.0   |              
+ YNPM%:  |   0.0    |   0.0    |   53.6   |   2.0    |   22.0   |              
+YPROFIT: |   -6.2   |   -5.3   |   37.2   |   1.3    |   14.0   |      0.7     
+ PQoQ%:  |  -60.0   |  -14.8   |  -801.3  |  -96.6   |  1012.7  |      5.0     
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   14.7   |   17.0   |   15.8   |   14.9   |   13.4  
+ QoQ%:  |   -5.6   |   15.5   |   -7.0   |   -5.4   |  -10.4  
+ QOPM%: |   35.2   |   19.4   |   47.4   |   30.9   |   31.7  
+ QNPM%: |   4.6    |   0.0    |   13.9   |   0.0    |   0.0   
+ QPFT:  |   0.7    |   -0.8   |   2.2    |   -0.4   |   -1.1  
+ PQoQ%: |  -92.7   |  -211.9  |  -393.3  |  -117.3  |  194.7  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 69% YSales
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+
+Yearly 
+ 31-Mar-2024 #Result
+63.80cr, QoQ -0.70% & YoY -25.90% SALES;
+21.00cr, QoQ -14.50% & YoY -2.33% OPERATING PROFIT;
+14.00cr, QoQ 1012.70% & YoY -325.81% NET PROFIT;
+OPM %: 33.00% vs 38.3%
+NPM %: 22.00% vs 2.0%
+

@@ -1,0 +1,40 @@
+CODE	NAME
+530899 
+
+SECTOR : Realty
+INDUSTRY : Construction
+YSD YPD 2016
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2010 | Mar-2011 | Mar-2012 | Mar-2016 | Mar-2017
+---------+----------+----------+----------+----------+---------
+YSALES:  |   2.6    |   0.1    |   0.1    |   31.5   |   23.7  
+ SQoQ%:  |  231.2   |  -95.5   |   0.0    | 26166.7  |  -24.8  
+ YOPM%:  |   73.2   |   0.0    |   0.0    |   0.0    |   0.0   
+ YNPM%:  |   35.5   |   0.0    |   0.0    |   1.6    |   1.9   
+YPROFIT: |   0.9    |   -0.8   |   -0.4   |   0.5    |   0.4   
+ PQoQ%:  |  840.0   |  -181.9  |  -44.2   |  -214.0  |  -10.2  
+ QPNL:  | Mar-2016 | Jun-2016 | Sep-2016 | Dec-2016 | Mar-2017
+--------+----------+----------+----------+----------+---------
+QSALES: |   10.1   |   11.0   |   5.8    |   6.1    |   0.9   
+ QoQ%:  |   nan    |   8.0    |  -47.5   |   6.1    |  -85.4  
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |   0.5    |   1.5    |   1.9    |   2.3    |   3.4   
+ QPFT:  |   0.0    |   0.2    |   0.1    |   0.1    |   0.0   
+ PQoQ%: |   nan    |  220.0   |  -31.2   |   27.3   |  -78.6  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.1
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2016
+
+Yearly 
+ 31-Mar-2017 #Result
+23.70cr, QoQ -24.80% & YoY 811.54% SALES;
+-0.30cr, QoQ 0.00% & YoY -115.79% OPERATING PROFIT;
+0.40cr, QoQ -10.20% & YoY -55.56% NET PROFIT;
+OPM %: 0.00% vs 0.0%
+NPM %: 1.90% vs 1.6%
+

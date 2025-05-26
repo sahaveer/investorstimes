@@ -1,0 +1,39 @@
+CODE	NAME
+513642 
+
+SECTOR : Plastic products
+INDUSTRY : Plastics Products
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   22.9   |   48.3   |   72.9   |   82.6   |  127.9   |      67.2    
+ SQoQ%:  |   -6.0   |  111.0   |   50.9   |   13.4   |   54.8   |      52.5    
+ YOPM%:  |   6.1    |   8.1    |   5.6    |   6.2    |   4.5    |              
+ YNPM%:  |   0.4    |   1.4    |   1.3    |   1.4    |   1.2    |              
+YPROFIT: |   0.1    |   0.7    |   0.9    |   1.2    |   1.6    |      -2.1    
+ PQoQ%:  |  -80.9   |  633.3   |   39.4   |   28.3   |   32.2   |     -131.2   
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   38.6   |   37.3   |   42.2   |   13.9   |   11.1  
+ QoQ%:  |   25.0   |   -3.5   |   13.3   |  -67.2   |  -19.9  
+ QOPM%: |   3.8    |   3.8    |   0.7    |   1.1    |   1.4   
+ QNPM%: |   1.7    |   0.0    |   0.0    |   0.0    |   0.0   
+ QPFT:  |   0.7    |   -0.1   |   -0.5   |   -0.8   |   -0.8  
+ PQoQ%: |   34.0   |  -110.4  |  657.1   |   52.8   |   -6.2  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 53% YSales
+
+YSALES in Mar-2024 is at 127.9 showing a QoQ_growth of 54.8%. The YNETPROFIT grew by 32.2% to 1.6
+
+Yearly 
+ 31-Mar-2024 #Result
+127.90cr, QoQ 54.80% & YoY 458.52% SALES;
+5.80cr, QoQ 13.10% & YoY 314.29% OPERATING PROFIT;
+1.60cr, QoQ 32.20% & YoY 1500.00% NET PROFIT;
+OPM %: 4.50% vs 6.2%
+NPM %: 1.20% vs 1.4%
+

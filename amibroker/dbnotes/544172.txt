@@ -1,0 +1,38 @@
+CODES
+544172	INDGN	
+SECTOR : Healthcare
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  966.3   |  1664.6  |  2306.1  |  2589.6  |  2839.3 
+ SQoQ%:  |   50.3   |   72.3   |   38.5   |   12.3   |   9.6   
+ YOPM%:  |   23.8   |   17.2   |   17.2   |   19.5   |   18.8  
+ YNPM%:  |   15.5   |   9.9    |   11.5   |   13.0   |   14.3  
+YPROFIT: |  149.4   |  164.8   |  266.1   |  336.7   |  406.7  
+ PQoQ%:  | -2471.6  |   10.3   |   61.5   |   26.5   |   20.8  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  673.0   |  676.5   |  686.8   |  720.4   |  755.6  
+ QoQ%:  |   -0.1   |   0.5    |   1.5    |   4.9    |   4.9   
+ QOPM%: |   20.6   |   19.1   |   18.4   |   18.3   |   19.5  
+ QNPM%: |   14.1   |   13.0   |   13.4   |   15.2   |   15.6  
+ QPFT:  |   94.8   |   87.7   |   91.7   |  109.7   |  117.6  
+ PQoQ%: |   -4.0   |   -7.5   |   4.6    |   19.6   |   7.2   
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 22.6%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+Yearly 
+ 31-Mar-2025 #Result
+2839.30cr, QoQ 9.60% & YoY 193.83% SALES;
+534.30cr, QoQ 5.70% & YoY 132.00% OPERATING PROFIT;
+406.70cr, QoQ 20.80% & YoY 172.22% NET PROFIT;
+OPM %: 18.80% vs 19.5%
+NPM %: 14.30% vs 13.0%
+

@@ -1,0 +1,21 @@
+CODES
+SPPPOLY	
+SECTOR : Packaging
+INDUSTRY : Packaging
+
+***CONS***
+
+
+
+***PROS***
+
+YSALES in Mar-2024 is at 91.8 showing a QoQ_growth of 38.9%. The YNETPROFIT grew by 83.3% to 1.0
+
+Yearly 
+ 31-Mar-2024 #Result
+91.80cr, QoQ 38.90% & YoY 56.92% SALES;
+6.20cr, QoQ 131.50% & YoY 181.82% OPERATING PROFIT;
+1.00cr, QoQ 83.30% & YoY 66.67% NET PROFIT;
+OPM %: 6.70% vs 4.0%
+NPM %: 1.10% vs 0.8%
+

@@ -1,0 +1,21 @@
+CODE	NAME
+544036 
+
+SECTOR : Chemicals
+INDUSTRY : Dyes And Pigments
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2024 #Result
+50.20cr, QoQ 8.30% SALES;
+8.60cr, QoQ 10.10% OPERATING PROFIT;
+6.60cr, QoQ 7.80% NET PROFIT;
+OPM %: 17.10% vs 16.9%
+NPM %: 13.20% vs 13.3%
+

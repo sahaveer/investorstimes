@@ -1,0 +1,36 @@
+CODE	NAME
+511756 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ SQoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ YNPM%:  |   0.0    |   0.0    |   inf    |   inf    |   inf   
+YPROFIT: |   -0.1   |   -0.2   |   14.6   |   1.4    |   0.6   
+ PQoQ%:  |  -175.0  |   58.3   | -7784.2  |  -90.1   |  -60.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |   inf    |   inf    |   inf    |   inf    |   inf   
+ QPFT:  |   0.2    |   0.2    |   0.1    |   0.1    |   0.1   
+ PQoQ%: |  -72.5   |  -12.0   |  -36.4   |   -7.1   |  -15.4  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+
+Yearly 
+ 31-Mar-2025 #Result
+-0.60cr, QoQ -12.50% & YoY 20.00% OPERATING PROFIT;
+0.60cr, QoQ -60.00% & YoY -700.00% NET PROFIT;
+OPM %: 0.00% vs 0.0%
+NPM %: inf% vs inf%
+

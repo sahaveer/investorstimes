@@ -1,0 +1,22 @@
+CODE	NAME
+541445 
+
+SECTOR : Power Generation & Distribution
+INDUSTRY : Power Generation And Supply
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+
+Yearly 
+ 31-Mar-2025 #Result
+27.60cr, QoQ 7.20% & YoY 14.05% SALES;
+7.30cr, QoQ -59.00% & YoY -66.05% OPERATING PROFIT;
+1.20cr, QoQ -72.30% & YoY -63.64% NET PROFIT;
+OPM %: 26.40% vs 69.2%
+NPM %: 4.40% vs 17.1%
+

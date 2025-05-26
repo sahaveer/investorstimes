@@ -1,0 +1,42 @@
+CODES
+532708	GVKPIL	
+SECTOR : Infrastructure Developers & Operators
+INDUSTRY : Engineering - Turnkey Services
+BestQ Dec 2024
+YSD YPD 2022
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  3846.9  |  310.3   |  858.3   |  2120.4  |  1080.1  |     758.1    
+ SQoQ%:  |   -6.1   |  -91.9   |  176.6   |  147.1   |  -49.1   |      70.2    
+ YOPM%:  |   17.0   |   27.2   |   34.0   |   62.0   |   85.7   |              
+ YNPM%:  |   0.0    |   0.0    |  308.2   |  115.0   |   1.9    |              
+YPROFIT: | -1493.4  |  -764.3  |  2645.4  |  2438.9  |   20.4   |     696.7    
+ PQoQ%:  |  310.9   |  -48.8   |  -446.1  |   -7.8   |  -99.2   |     3415.2   
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  134.6   |   68.7   |  224.0   |  390.9   |  143.2  
+ QoQ%:  |  -64.5   |  -49.0   |  226.0   |   74.5   |  -63.4  
+ QOPM%: |   72.6   |   44.8   |   79.5   |   92.4   |   80.4  
+ QNPM%: |   0.0    |   0.0    |   0.0    |  184.7   |   0.0   
+ QPFT:  |  -59.3   |  -100.9  |  -11.2   |  722.0   |  -14.1  
+ PQoQ%: |  -195.8  |   70.1   |  -88.9   | -6575.7  |  -102.0 
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 33.1%
+- Last 3QSALES is about 70% YSales
+- Last 3QPROFIT is about 3415% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2022
+
+
+Yearly 
+ 31-Mar-2024 #Result
+1080.10cr, QoQ -49.10% & YoY -71.92% SALES;
+925.90cr, QoQ -29.60% & YoY 41.25% OPERATING PROFIT;
+20.40cr, QoQ -99.20% & YoY -101.37% NET PROFIT;
+OPM %: 85.70% vs 62.0%
+NPM %: 1.90% vs 115.0%
+

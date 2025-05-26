@@ -1,0 +1,42 @@
+CODE	NAME
+509945 
+
+SECTOR : Diversified
+INDUSTRY : Diversified - Medium / Small
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   4.7    |   5.3    |   5.4    |   2.9    |   2.2    |      4.4     
+ SQoQ%:  |   79.7   |   13.6   |   1.1    |  -45.8   |  -23.3   |     200.0    
+ YOPM%:  |   30.5   |   39.4   |   39.3   |   61.0   |   73.7   |              
+ YNPM%:  |  156.7   |  126.8   |  173.8   |  428.4   |  807.1   |              
+YPROFIT: |   7.4    |   6.8    |   9.4    |   12.5   |   18.1   |      15.2    
+ PQoQ%:  |  162.5   |   -8.0   |   38.6   |   33.5   |   44.5   |      84.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   1.1    |   1.1    |   1.1    |   2.0    |   1.3   
+ QoQ%:  |  -49.5   |   0.0    |   0.9    |   89.8   |  -36.1  
+ QOPM%: |   85.0   |   85.0   |   85.2   |   93.7   |   80.2  
+ QNPM%: |  478.5   |  564.5   |  477.8   |  302.4   |  290.1  
+ QPFT:  |   5.1    |   6.0    |   5.2    |   6.2    |   3.8   
+ PQoQ%: |   15.1   |   18.0   |  -14.6   |   20.2   |  -38.7  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  increasing for the last 3yrs
+- Last 3QSALES is about 200% YSales
+- Last 3QPROFIT is about 84% of YProfit
+- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2024 #Result
+2.20cr, QoQ -23.30% & YoY -53.19% SALES;
+1.60cr, QoQ -7.30% & YoY 14.29% OPERATING PROFIT;
+18.10cr, QoQ 44.50% & YoY 144.59% NET PROFIT;
+OPM %: 73.70% vs 61.0%
+NPM %: 807.10% vs 428.4%
+

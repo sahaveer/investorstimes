@@ -1,0 +1,36 @@
+CODE	NAME
+540132 
+
+SECTOR : Trading
+INDUSTRY : Trading
+PRODUCT DEMAND
+BestQ Dec 2024
+YSD YPD 2024
+YSD YPD 2023
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.6    |   0.0    |   0.0    |   1.1    |   5.6    |      0.0     
+ SQoQ%:  |  -68.6   |  -100.0  |   inf    | 10800.0  |  411.0   |      0.0     
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
+ YNPM%:  |   0.0    |   inf    |   0.0    |   0.0    |   5.9    |              
+YPROFIT: |   -0.3   |   0.1    |   -0.2   |   -0.3   |   0.3    |      0.4     
+ PQoQ%:  |  -86.1   |  -120.7  |  -366.7  |   68.8   |  -222.2  |     133.3    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |   inf    |   inf    |   inf    |   inf    |   inf   
+ QPFT:  |   0.1    |   0.0    |   0.1    |   0.1    |   0.2   
+ PQoQ%: |   0.0    |  -80.0   |  450.0   |   18.2   |   30.8  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QPROFIT is about 133% of YProfit
+- YProfit Turned POSITIVE this year Mar-2024 : 0.3
+- YProfits and YSales DOUBLED in Mar2024
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2024

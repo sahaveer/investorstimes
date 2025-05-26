@@ -1,0 +1,40 @@
+CODES
+542774	MUFIN	
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   1.7    |   22.8   |   15.3   |   34.5   |   98.0   |     120.4    
+ SQoQ%:  |  -49.9   |  1251.5  |  -33.1   |  125.7   |  184.2   |     122.9    
+ YOPM%:  |   0.0    |  100.4   |   84.2   |   53.7   |   69.9   |              
+ YNPM%:  |   0.0    |   87.0   |   71.2   |   23.5   |   16.4   |              
+YPROFIT: |   -6.1   |   19.9   |   10.9   |   8.1    |   16.1   |      16.4    
+ PQoQ%:  |  -323.4  |  -425.7  |  -45.2   |  -25.4   |   97.8   |     101.9    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   27.1   |   32.2   |   37.0   |   40.3   |   43.1  
+ QoQ%:  |   28.1   |   19.0   |   14.9   |   8.9    |   6.8   
+ QOPM%: |   72.6   |   71.1   |   72.9   |   77.3   |   74.8  
+ QNPM%: |   16.8   |   12.6   |   12.5   |   14.2   |   14.1  
+ QPFT:  |   4.6    |   4.0    |   4.6    |   5.7    |   6.1   
+ PQoQ%: |   13.5   |  -11.0   |   14.1   |   23.6   |   6.1   
+
+***PROS***
+- Last 3QSALES is about 123% YSales
+- Last 3QPROFIT is about 102% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+
+YSALES in Mar-2024 is at 98.0 showing a QoQ_growth of 184.2%. The YNETPROFIT grew by 97.8% to 16.1
+
+Yearly 
+ 31-Mar-2024 #Result
+98.00cr, QoQ 184.20% & YoY 5664.71% SALES;
+68.50cr, QoQ 270.50% & YoY -1153.85% OPERATING PROFIT;
+16.10cr, QoQ 97.80% & YoY -363.93% NET PROFIT;
+OPM %: 69.90% vs 53.7%
+NPM %: 16.40% vs 23.5%
+

@@ -1,0 +1,36 @@
+CODES
+505533	WESTLIFE	
+SECTOR : Quick Service Restaurant
+INDUSTRY : Hotels
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  986.0   |  1576.5  |  2278.2  |  2391.8  |  2491.2 
+ SQoQ%:  |  -36.3   |   59.9   |   44.5   |   5.0    |   4.2   
+ YOPM%:  |   6.2    |   12.5   |   16.8   |   15.8   |   12.8  
+ YNPM%:  |   0.0    |   0.0    |   4.9    |   2.9    |   0.5   
+YPROFIT: |  -99.4   |   -1.7   |  111.6   |   69.2   |   12.2  
+ PQoQ%:  |  1252.7  |  -98.3   | -6781.4  |  -38.0   |  -82.4  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  562.3   |  616.3   |  618.0   |  653.7   |  603.1  
+ QoQ%:  |   -6.3   |   9.6    |   0.3    |   5.8    |   -7.7  
+ QOPM%: |   13.3   |   12.8   |   12.3   |   13.5   |   12.8  
+ QNPM%: |   0.1    |   0.5    |   0.1    |   1.1    |   0.3   
+ QPFT:  |   0.8    |   3.2    |   0.4    |   7.0    |   1.5   
+ PQoQ%: |  -95.6   |  327.6   |  -88.9   |  1847.2  |  -78.3  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+2491.20cr, QoQ 4.20% & YoY 152.66% SALES;
+319.80cr, QoQ -15.20% & YoY 424.26% OPERATING PROFIT;
+12.20cr, QoQ -82.40% & YoY -112.27% NET PROFIT;
+OPM %: 12.80% vs 15.8%
+NPM %: 0.50% vs 2.9%
+

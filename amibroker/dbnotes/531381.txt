@@ -1,0 +1,46 @@
+CODE	NAME
+531381 
+
+SECTOR : Realty
+INDUSTRY : Construction
+PRODUCT DEMAND
+BestQ Dec 2024
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   46.8   |   56.5   |   82.8   |   64.3   |  124.1   |     139.0    
+ SQoQ%:  |  -41.4   |   20.6   |   46.6   |  -22.4   |   93.1   |     112.0    
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   21.0   |   20.2   |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   15.5   |   10.9   |              
+YPROFIT: |   -6.7   |  -10.0   |   -1.0   |   10.0   |   13.5   |      31.3    
+ PQoQ%:  |  168.5   |   49.1   |  -90.0   | -1097.0  |   35.4   |     231.9    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   32.5   |   45.4   |   38.7   |   48.3   |   52.0  
+ QoQ%:  |  254.8   |   39.8   |  -14.9   |   24.8   |   7.7   
+ QOPM%: |   39.7   |   8.9    |   37.0   |   32.8   |   33.9  
+ QNPM%: |   27.9   |   2.0    |   24.6   |   21.9   |   21.5  
+ QPFT:  |   9.1    |   0.9    |   9.5    |   10.6   |   11.2  
+ PQoQ%: |  681.9   |  -90.1   |  956.7   |   11.0   |   5.8   
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 112% YSales
+- Last 3QPROFIT is about 232% of YProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2024
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
+
+YSALES in Mar-2024 is at 124.1 showing a QoQ_growth of 93.1%. The YNETPROFIT grew by 35.4% to 13.5
+
+Yearly 
+ 31-Mar-2024 #Result
+124.10cr, QoQ 93.10% & YoY 165.17% SALES;
+25.10cr, QoQ 85.80% & YoY -237.16% OPERATING PROFIT;
+13.50cr, QoQ 35.40% & YoY -301.49% NET PROFIT;
+OPM %: 20.20% vs 21.0%
+NPM %: 10.90% vs 15.5%
+

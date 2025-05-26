@@ -1,0 +1,32 @@
+CODE	NAME
+505250 
+
+SECTOR : Realty
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+
+***CONS***
+- NEGATIVE YProfit : -4.4
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   3.8    |   4.6    |   0.0    |   2.5    |   3.0    |      2.5     
+ SQoQ%:  |  -19.5   |   19.0   |  -100.0  |   inf    |   17.9   |      83.3    
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   46.2   |   44.3   |              
+ YNPM%:  |   0.0    |   1.8    |   inf    |   0.0    |   0.0    |              
+YPROFIT: |   -3.4   |   0.1    |   16.5   |   -3.1   |   -4.4   |      0.6     
+ PQoQ%:  |  -18.3   |  -102.4  | 20500.0  |  -118.9  |   41.8   |     -13.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.5    |   0.6    |   0.7    |   0.9    |   0.9   
+ QoQ%:  |  -41.6   |   19.2   |   17.7   |   19.2   |   5.7   
+ QOPM%: |   5.8    |   30.6   |   46.6   |   28.7   |   26.1  
+ QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |  151.1  
+ QPFT:  |   -0.6   |   -3.4   |   -0.4   |   -0.4   |   1.4   
+ PQoQ%: |  346.2   |  489.7   |  -89.5   |   2.8    |  -475.7 
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 83% YSales
+
+
+YSALES in Mar-2024 is at 3.0 showing a QoQ_growth of 17.9%. The YNETPROFIT grew by 41.8% to -4.4

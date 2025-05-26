@@ -1,0 +1,39 @@
+CODES
+533001	SOMICONVEY	
+SECTOR : 
+INDUSTRY : 
+BestQ Dec 2024
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   46.3   |   46.8   |   57.2   |   93.7   |  102.1   |      76.9    
+ SQoQ%:  |  -23.7   |   1.2    |   22.0   |   63.9   |   8.9    |      75.3    
+ YOPM%:  |   15.6   |   14.5   |   11.2   |   8.3    |   8.6    |              
+ YNPM%:  |   5.3    |   3.8    |   3.0    |   3.7    |   4.5    |              
+YPROFIT: |   2.4    |   1.8    |   1.7    |   3.5    |   4.6    |      4.6     
+ PQoQ%:  |   56.8   |  -27.6   |   -2.3   |  101.7   |   31.1   |     100.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   18.8   |   38.4   |   15.2   |   34.1   |   27.6  
+ QoQ%:  |  -33.4   |  104.9   |  -60.4   |  123.8   |  -18.9  
+ QOPM%: |   8.8    |   8.6    |   10.3   |   11.2   |   10.1  
+ QNPM%: |   4.1    |   4.9    |   4.9    |   6.9    |   5.4   
+ QPFT:  |   0.8    |   1.9    |   0.7    |   2.4    |   1.5   
+ PQoQ%: |  -41.1   |  147.4   |  -60.6   |  218.9   |  -37.3  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 100% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2024
+
+Yearly 
+ 31-Mar-2024 #Result
+102.10cr, QoQ 8.90% & YoY 120.52% SALES;
+8.80cr, QoQ 12.20% & YoY 22.22% OPERATING PROFIT;
+4.60cr, QoQ 31.10% & YoY 91.67% NET PROFIT;
+OPM %: 8.60% vs 8.3%
+NPM %: 4.50% vs 3.7%
+

@@ -1,0 +1,37 @@
+CODES
+531092	OMINFRAL	
+SECTOR : Infrastructure Developers & Operators
+INDUSTRY : Engineering - Turnkey Services
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  187.1   |  235.6   |  313.0   |  799.2   |  1113.8  |     540.7    
+ SQoQ%:  |  -12.1   |   26.0   |   32.8   |  155.3   |   39.4   |      48.5    
+ YOPM%:  |   7.5    |   18.6   |   13.9   |   4.7    |   7.1    |              
+ YNPM%:  |   8.1    |   3.8    |   8.5    |   1.6    |   4.2    |              
+YPROFIT: |   15.2   |   8.9    |   26.5   |   12.9   |   47.3   |      21.0    
+ PQoQ%:  |   -3.9   |  -41.6   |  197.8   |  -51.4   |  267.3   |      44.4    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  271.5   |  295.7   |  169.5   |  238.4   |  132.8  
+ QoQ%:  |   -3.0   |   8.9    |  -42.7   |   40.7   |  -44.3  
+ QOPM%: |   0.8    |   8.7    |   10.2   |   7.3    |   1.4   
+ QNPM%: |   2.3    |   1.0    |   7.4    |   1.6    |   3.5   
+ QPFT:  |   6.1    |   3.0    |   12.5   |   3.9    |   4.6   
+ PQoQ%: |  -74.1   |  -50.5   |  312.2   |  -68.6   |   18.1  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+YSALES in Mar-2024 is at 1113.8 showing a QoQ_growth of 39.4%. The YNETPROFIT grew by 267.3% to 47.3
+
+Yearly 
+ 31-Mar-2024 #Result
+1113.80cr, QoQ 39.40% & YoY 495.30% SALES;
+78.60cr, QoQ 109.40% & YoY 465.47% OPERATING PROFIT;
+47.30cr, QoQ 267.30% & YoY 211.18% NET PROFIT;
+OPM %: 7.10% vs 4.7%
+NPM %: 4.20% vs 1.6%
+

@@ -1,0 +1,38 @@
+CODES
+532326	INTENTECH	
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Medium / Small
+EXPANSION 2024
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   72.0   |   83.0   |   90.6   |  114.5   |  149.8  
+ SQoQ%:  |   4.9    |   15.2   |   9.2    |   26.4   |   30.8  
+ YOPM%:  |   29.7   |   29.8   |   19.2   |   18.1   |   14.4  
+ YNPM%:  |   25.1   |   23.0   |   15.2   |   13.7   |   10.9  
+YPROFIT: |   18.1   |   19.1   |   13.8   |   15.6   |   16.3  
+ PQoQ%:  |   4.0    |   5.5    |  -27.9   |   13.7   |   4.3   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   31.1   |   39.4   |   41.8   |   33.3   |   35.3  
+ QoQ%:  |   14.7   |   26.4   |   6.3    |  -20.5   |   6.2   
+ QOPM%: |   12.2   |   19.3   |   16.3   |   10.5   |   10.6  
+ QNPM%: |   9.6    |   14.0   |   12.0   |   9.3    |   7.7   
+ QPFT:  |   3.0    |   5.5    |   5.0    |   3.1    |   2.7   
+ PQoQ%: |  -30.2   |   83.3   |   -8.9   |  -38.3   |  -12.0  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.2
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+149.80cr, QoQ 30.80% & YoY 108.06% SALES;
+21.60cr, QoQ 4.20% & YoY 0.93% OPERATING PROFIT;
+16.30cr, QoQ 4.30% & YoY -9.94% NET PROFIT;
+OPM %: 14.40% vs 18.1%
+NPM %: 10.90% vs 13.7%
+

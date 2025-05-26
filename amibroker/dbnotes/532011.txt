@@ -1,0 +1,42 @@
+CODE	NAME
+532011 
+
+SECTOR : Entertainment
+INDUSTRY : Entertainment / Electronic Media Software
+PRODUCT DEMAND
+BestQ Dec 2024
+YSD YPD 2022
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   44.3   |   3.0    |   24.5   |   46.5   |   58.1   |      11.5    
+ SQoQ%:  |   34.2   |  -93.3   |  722.8   |   89.6   |   24.9   |      19.8    
+ YOPM%:  |   54.5   |   24.2   |   12.9   |   7.8    |   20.1   |              
+ YNPM%:  |   56.9   |   20.8   |   11.4   |   6.2    |   13.9   |              
+YPROFIT: |   25.2   |   0.6    |   2.8    |   2.9    |   8.1    |      5.4     
+ PQoQ%:  | 17928.6  |  -97.5   |  351.6   |   2.5    |  181.9   |      66.7    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   20.2   |   7.5    |   9.4    |   1.0    |   1.1   
+ QoQ%:  |   38.1   |  -62.8   |   24.6   |  -89.0   |   7.8   
+ QOPM%: |   4.3    |  108.2   |   75.3   |   33.0   |   0.0   
+ QNPM%: |   3.4    |   74.1   |   60.8   |   19.4   |   0.0   
+ QPFT:  |   0.7    |   5.6    |   5.7    |   0.2    |   -0.5  
+ PQoQ%: |  112.5   |  719.1   |   2.3    |  -96.5   |  -330.0 
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QPROFIT is about 67% of YProfit
+- YProfits and YSales DOUBLED in Mar2022
+
+YSALES in Mar-2024 is at 58.1 showing a QoQ_growth of 24.9%. The YNETPROFIT grew by 181.9% to 8.1
+
+Yearly 
+ 31-Mar-2024 #Result
+58.10cr, QoQ 24.90% & YoY 31.15% SALES;
+11.70cr, QoQ 223.50% & YoY -51.65% OPERATING PROFIT;
+8.10cr, QoQ 181.90% & YoY -67.86% NET PROFIT;
+OPM %: 20.10% vs 7.8%
+NPM %: 13.90% vs 6.2%
+

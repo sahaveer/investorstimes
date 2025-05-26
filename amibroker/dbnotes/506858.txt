@@ -1,0 +1,40 @@
+CODE	NAME
+506858 
+
+SECTOR : Plastic products
+INDUSTRY : Plastics Products
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2018 | Mar-2019 | Mar-2020 | Mar-2021 | Mar-2022
+---------+----------+----------+----------+----------+---------
+YSALES:  |   19.0   |   22.3   |   20.3   |   19.3   |   30.0  
+ SQoQ%:  |   7.4    |   17.6   |   -9.2   |   -4.6   |   55.2  
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   2.6   
+ YNPM%:  |   0.0    |  109.9   |   10.1   |   28.2   |   3.3   
+YPROFIT: |   -0.5   |   24.5   |   2.0    |   5.5    |   1.0   
+ PQoQ%:  |  -148.0  | -5321.3  |  -91.7   |  167.6   |  -82.1  
+ QPNL:  | Jun-2021 | Sep-2021 | Dec-2021 | Mar-2022 | Jun-2022
+--------+----------+----------+----------+----------+---------
+QSALES: |   7.2    |   9.6    |   7.8    |   5.6    |   4.8   
+ QoQ%:  |   11.5   |   33.4   |  -18.7   |  -28.5   |  -13.7  
+ QOPM%: |   2.4    |   7.7    |   2.6    |   0.0    |   0.0   
+ QNPM%: |   6.4    |   3.8    |   6.4    |   0.0    |   5.4   
+ QPFT:  |   0.5    |   0.4    |   0.5    |   -0.3   |   0.3   
+ PQoQ%: | -2400.0  |  -21.7   |   38.9   |  -168.0  |  -176.5 
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.1
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+
+Yearly 
+ 31-Mar-2022 #Result
+30.00cr, QoQ 55.20% & YoY 57.89% SALES;
+0.80cr, QoQ -166.90% & YoY -124.24% OPERATING PROFIT;
+1.00cr, QoQ -82.10% & YoY -300.00% NET PROFIT;
+OPM %: 2.60% vs 0.0%
+NPM %: 3.30% vs 28.2%
+

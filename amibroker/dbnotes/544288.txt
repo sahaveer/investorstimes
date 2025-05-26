@@ -1,0 +1,18 @@
+CODES
+544288	BLACKBUCK	
+SECTOR : Logistics
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+LYPD PM 2024
+
+***CONS***
+- NEGATIVE YProfit : -194.0
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 103% YSales
+- LastYr YProfits Doubled and maintained in Mar2024

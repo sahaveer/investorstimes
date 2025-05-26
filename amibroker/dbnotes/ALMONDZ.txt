@@ -1,0 +1,37 @@
+CODES
+531400	ALMONDZ	
+SECTOR : Stock/ Commodity Brokers
+INDUSTRY : Finance & Investments
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   60.9   |   62.7   |   69.1   |   76.2   |  116.5   |      96.8    
+ SQoQ%:  |  -18.4   |   3.0    |   10.2   |   10.3   |   52.8   |      83.1    
+ YOPM%:  |   4.3    |   13.8   |   14.1   |   12.3   |   13.7   |              
+ YNPM%:  |   7.4    |   29.5   |   26.8   |   20.7   |   29.2   |              
+YPROFIT: |   4.5    |   18.5   |   18.5   |   15.8   |   34.1   |      11.1    
+ PQoQ%:  |  -29.5   |  308.6   |   0.4    |  -14.9   |  115.9   |      32.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   30.1   |   45.4   |   29.6   |   34.0   |   33.2  
+ QoQ%:  |   29.8   |   50.7   |  -34.7   |   14.7   |   -2.3  
+ QOPM%: |   12.4   |   10.0   |   12.5   |   11.3   |   12.0  
+ QNPM%: |   65.8   |   13.2   |   20.5   |   7.8    |   7.3   
+ QPFT:  |   19.8   |   6.0    |   6.1    |   2.6    |   2.4   
+ PQoQ%: |  342.9   |  -69.8   |   1.5    |  -56.5   |   -8.3  
+
+***PROS***
+- Last 3QSALES is about 83% YSales
+
+
+YSALES in Mar-2024 is at 116.5 showing a QoQ_growth of 52.8%. The YNETPROFIT grew by 115.9% to 34.1
+
+Yearly 
+ 31-Mar-2024 #Result
+116.50cr, QoQ 52.80% & YoY 91.30% SALES;
+16.00cr, QoQ 70.00% & YoY 515.38% OPERATING PROFIT;
+34.10cr, QoQ 115.90% & YoY 657.78% NET PROFIT;
+OPM %: 13.70% vs 12.3%
+NPM %: 29.20% vs 20.7%
+

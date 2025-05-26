@@ -1,0 +1,21 @@
+CODE	NAME
+544151 
+
+SECTOR : FMCG
+INDUSTRY : Food - Processing - Indian
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2025 #Result
+157.20cr, QoQ 17.50% & YoY 156.86% SALES;
+11.30cr, QoQ -7.00% & YoY -665.00% OPERATING PROFIT;
+6.10cr, QoQ -1.80% & YoY -252.50% NET PROFIT;
+OPM %: 7.20% vs 9.1%
+NPM %: 3.90% vs 4.6%
+

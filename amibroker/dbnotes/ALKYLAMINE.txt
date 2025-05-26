@@ -1,0 +1,41 @@
+CODES
+506767	ALKYLAMINE	
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+PRODUCT DEMAND
+YS15 YPD 2020
+
+***CONS***
+ YPNL:   | Mar-2016 | Mar-2017 | Mar-2018 | Mar-2019 | Mar-2020
+---------+----------+----------+----------+----------+---------
+YSALES:  |  483.6   |  500.6   |  616.2   |  846.4   |  992.9  
+ SQoQ%:  |   1.5    |   3.5    |   23.1   |   37.4   |   17.3  
+ YOPM%:  |   18.8   |   19.0   |   19.1   |   19.4   |   25.9  
+ YNPM%:  |   10.3   |   10.4   |   10.7   |   10.2   |   20.3  
+YPROFIT: |   50.0   |   51.8   |   66.0   |   86.1   |  201.3  
+ PQoQ%:  |   10.9   |   3.6    |   27.4   |   30.5   |  133.8  
+ QPNL:  | Mar-2019 | Jun-2019 | Sep-2019 | Dec-2019 | Mar-2020
+--------+----------+----------+----------+----------+---------
+QSALES: |  237.4   |  266.2   |  235.0   |  256.9   |  234.8  
+ QoQ%:  |   11.7   |   12.1   |  -11.7   |   9.3    |   -8.6  
+ QOPM%: |   16.2   |   22.2   |   24.6   |   28.2   |   28.8  
+ QNPM%: |   8.0    |   13.8   |   23.4   |   23.5   |   21.0  
+ QPFT:  |   18.9   |   36.7   |   54.9   |   60.4   |   49.2  
+ PQoQ%: |  -14.9   |   93.8   |   49.8   |   10.0   |  -18.5  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2020 is at 32.1%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
+As on Mar2020, Sales have increased by 17.3% while the Profit QoQ_growth is much better than Sales itself at 133.8%
+
+Yearly 
+ 31-Mar-2020 #Result
+992.90cr, QoQ 17.30% & YoY 105.31% SALES;
+257.10cr, QoQ 56.40% & YoY 182.53% OPERATING PROFIT;
+201.30cr, QoQ 133.80% & YoY 302.60% NET PROFIT;
+OPM %: 25.90% vs 19.4%
+NPM %: 20.30% vs 10.2%
+

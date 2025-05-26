@@ -1,0 +1,35 @@
+CODES
+523648	PLASTIBLEN	
+SECTOR : 
+INDUSTRY : 
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  555.2   |  699.1   |  751.1   |  780.6   |  780.4  
+ SQoQ%:  |   -5.4   |   25.9   |   7.4    |   3.9    |   -0.0  
+ YOPM%:  |   12.4   |   8.9    |   6.6    |   7.0    |   6.7   
+ YNPM%:  |   6.7    |   5.2    |   3.6    |   4.4    |   4.3   
+YPROFIT: |   37.4   |   36.7   |   26.8   |   34.5   |   33.4  
+ PQoQ%:  |   0.5    |   -1.7   |  -26.8   |   28.6   |   -3.2  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  198.9   |  211.6   |  185.4   |  184.4   |  199.2  
+ QoQ%:  |   0.9    |   6.4    |  -12.4   |   -0.5   |   8.0   
+ QOPM%: |   7.9    |   7.7    |   5.3    |   6.2    |   7.3   
+ QNPM%: |   5.4    |   5.1    |   3.4    |   3.6    |   4.8   
+ QPFT:  |   10.7   |   10.8   |   6.3    |   6.7    |   9.6   
+ PQoQ%: |   62.5   |   1.0    |  -41.8   |   6.3    |   42.6  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+Yearly 
+ 31-Mar-2025 #Result
+780.40cr, QoQ -0.00% & YoY 40.56% SALES;
+52.00cr, QoQ -5.10% & YoY -24.20% OPERATING PROFIT;
+33.40cr, QoQ -3.20% & YoY -10.70% NET PROFIT;
+OPM %: 6.70% vs 7.0%
+NPM %: 4.30% vs 4.4%
+

@@ -1,0 +1,13 @@
+CODES
+542729	DCMNVL	
+SECTOR : Textiles
+INDUSTRY : Textiles - Cotton/Blended
+
+***CONS***
+- NEGATIVE YProfit : -3.3
+
+
+
+
+
+***PROS***

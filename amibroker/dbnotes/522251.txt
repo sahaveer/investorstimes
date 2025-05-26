@@ -1,0 +1,23 @@
+CODE	NAME
+522251 
+
+SECTOR : Capital Goods-Non Electrical Equipment
+INDUSTRY : Engineering
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2017 #Result
+35.50cr, QoQ 13.40% & YoY 6.93% SALES;
+4.90cr, QoQ 28.30% & YoY 6.52% OPERATING PROFIT;
+1.80cr, QoQ 75.00% & YoY -18.18% NET PROFIT;
+OPM %: 13.90% vs 12.3%
+NPM %: 4.90% vs 3.2%
+

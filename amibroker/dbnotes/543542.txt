@@ -1,0 +1,29 @@
+CODE	NAME
+543542 
+
+SECTOR : Realty
+INDUSTRY : Construction
+PRODUCT DEMAND
+YSD YPD 2024
+YSD YPD 2022
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2024
+- YProfits and YSales DOUBLED in Mar2022
+
+
+YSALES in Mar-2024 is at 52.6 showing a QoQ_growth of 246.5%. The YNETPROFIT grew by 1191.0% to 10.1
+
+Yearly 
+ 31-Mar-2024 #Result
+52.60cr, QoQ 246.50% & YoY 10420.00% SALES;
+14.00cr, QoQ 1182.60% & YoY -inf% OPERATING PROFIT;
+10.10cr, QoQ 1191.00% & YoY inf% NET PROFIT;
+OPM %: 26.60% vs 7.2%
+NPM %: 19.10% vs 5.1%
+

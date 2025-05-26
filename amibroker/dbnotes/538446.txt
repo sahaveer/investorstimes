@@ -1,0 +1,40 @@
+CODE	NAME
+538446 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+EXPANSION 2023
+BestQ Dec 2024
+YSD YPD 2024
+YSD YPD 2023
+YSD YPD 2022
+LYPD PM 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   4.1    |   11.0   |   22.6   |   50.4   |  127.8   |     146.8    
+ SQoQ%:  |  107.0   |  166.5   |  105.8   |  123.1   |  153.4   |     114.9    
+ YOPM%:  |   0.0    |   5.2    |   19.4   |   27.0   |   44.3   |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   7.2    |              
+YPROFIT: |   -3.6   |   -3.0   |   -3.7   |   -6.8   |   9.1    |      6.5     
+ PQoQ%:  | -1643.5  |  -16.3   |   25.3   |   82.8   |  -234.4  |      71.4    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   33.4   |   42.3   |   45.6   |   49.5   |   51.7  
+ QoQ%:  |   17.6   |   26.5   |   7.9    |   8.5    |   4.5   
+ QOPM%: |   42.4   |   44.6   |   46.1   |   39.4   |   34.7  
+ QNPM%: |   6.0    |   9.7    |   9.4    |   4.1    |   0.4   
+ QPFT:  |   2.0    |   4.1    |   4.3    |   2.0    |   0.2   
+ PQoQ%: |   46.7   |  105.0   |   4.4    |  -52.8   |  -90.1  
+
+***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
+- Last 3QSALES is about 115% YSales
+- Last 3QPROFIT is about 71% of YProfit
+- YProfit Turned POSITIVE this year Mar-2024 : 9.1
+- YProfits and YSales DOUBLED in Mar2024
+- YProfits and YSales DOUBLED in Mar2023
+- YProfits and YSales DOUBLED in Mar2022
+- LastYr YProfits Doubled and maintained in Mar2024

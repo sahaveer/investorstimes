@@ -1,0 +1,14 @@
+CODE	NAME
+534733 
+
+SECTOR : Trading
+INDUSTRY : Trading
+
+***CONS***
+- NEGATIVE YProfit : -6.6
+
+
+
+
+
+***PROS***

@@ -1,0 +1,18 @@
+CODES
+543297	IWEL	
+SECTOR : Power Generation & Distribution
+INDUSTRY : Power Generation And Supply
+PRODUCT DEMAND
+YSD YPD 2024
+
+***CONS***
+- NEGATIVE YProfit : -67.5
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 131% YSales
+- YProfits and YSales DOUBLED in Mar2024

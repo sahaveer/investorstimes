@@ -1,0 +1,19 @@
+CODES
+NMSTEEL	
+SECTOR : Steel
+INDUSTRY : Steel - Medium / Small
+
+***CONS***
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2024 #Result
+300.00cr, QoQ -15.40% SALES;
+7.40cr, QoQ 1.50% OPERATING PROFIT;
+4.30cr, QoQ -28.80% NET PROFIT;
+OPM %: 2.50% vs 2.0%
+NPM %: 1.40% vs 1.7%
+

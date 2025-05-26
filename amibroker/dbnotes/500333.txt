@@ -1,0 +1,41 @@
+CODES
+500333	PIXTRANS	
+SECTOR : Plantation & Plantation Products
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  380.3   |  449.3   |  486.3   |  493.1   |  589.4  
+ SQoQ%:  |   24.9   |   18.1   |   8.2    |   1.4    |   19.5  
+ YOPM%:  |   29.6   |   25.7   |   21.5   |   24.4   |   27.5  
+ YNPM%:  |   17.1   |   15.3   |   13.3   |   16.8   |   19.2  
+YPROFIT: |   64.9   |   68.8   |   64.8   |   83.0   |  112.9  
+ PQoQ%:  |  114.6   |   6.1    |   -5.8   |   28.0   |   36.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  129.0   |  129.0   |  159.1   |  139.5   |  161.9  
+ QoQ%:  |   0.8    |   0.0    |   23.4   |  -12.3   |   16.1  
+ QOPM%: |   23.8   |   26.0   |   31.7   |   24.1   |   20.1  
+ QNPM%: |   18.9   |   21.3   |   25.5   |   15.9   |   14.0  
+ QPFT:  |   24.4   |   27.4   |   40.5   |   22.2   |   22.6  
+ PQoQ%: |   10.9   |   12.4   |   47.7   |  -45.1   |   1.8   
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 19.7%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+YSALES in Mar-2025 is at 589.4 showing a QoQ_growth of 19.5%. The YNETPROFIT grew by 36.0% to 112.9
+
+Yearly 
+ 31-Mar-2025 #Result
+589.40cr, QoQ 19.50% & YoY 54.98% SALES;
+162.10cr, QoQ 34.50% & YoY 43.96% OPERATING PROFIT;
+112.90cr, QoQ 36.00% & YoY 73.96% NET PROFIT;
+OPM %: 27.50% vs 24.4%
+NPM %: 19.20% vs 16.8%
+

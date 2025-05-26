@@ -1,0 +1,31 @@
+CODES
+SAJHOTELS	
+SECTOR : Hotels & Restaurants
+INDUSTRY : Hotels
+
+***CONS***
+
+
+
+
+
+***PROS***
+
+
+Quarterly 
+31-Dec-2024 #Result
+4.80cr, QoQ 15.90% SALES;
+1.60cr, QoQ -27.20% OPERATING PROFIT;
+1.20cr, QoQ -20.10% NET PROFIT;
+OPM %: 33.80% vs 53.8%
+NPM %: 24.70% vs 35.8%
+
+
+Yearly 
+ 31-Mar-2024 #Result
+14.30cr, QoQ 12.20% SALES;
+6.50cr, QoQ 102.50% OPERATING PROFIT;
+3.40cr, QoQ -0.90% NET PROFIT;
+OPM %: 45.70% vs 25.3%
+NPM %: 24.20% vs 27.4%
+

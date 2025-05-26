@@ -1,0 +1,16 @@
+CODE	NAME
+540694 
+
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -10.1
+
+
+
+
+
+***PROS***
+- Last 3QSALES is about 52% YSales

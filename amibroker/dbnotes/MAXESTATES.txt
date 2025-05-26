@@ -1,0 +1,15 @@
+CODES
+544008	MAXESTATES	
+SECTOR : Realty
+INDUSTRY : Construction
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+
+
+***PROS***
+- YProfit Turned POSITIVE this year Mar-2025 : 40.8
+

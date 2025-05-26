@@ -1,0 +1,20 @@
+CODE	NAME
+544236 
+
+SECTOR : Trading
+INDUSTRY : Trading
+
+***CONS***
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2024 #Result
+18.50cr, QoQ -1.80% SALES;
+2.80cr, QoQ 193.70% OPERATING PROFIT;
+2.00cr, QoQ 364.30% NET PROFIT;
+OPM %: 15.20% vs 5.1%
+NPM %: 10.50% vs 2.2%
+

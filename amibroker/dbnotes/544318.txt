@@ -1,0 +1,40 @@
+CODES
+544318	MAMATA	
+SECTOR : Engineering
+INDUSTRY : Engineering
+BestQ Dec 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  114.1   |  148.5   |  192.2   |  200.9   |  236.6   |     143.8    
+ SQoQ%:  |   nan    |   30.1   |   29.5   |   4.5    |   17.8   |      60.8    
+ YOPM%:  |   1.1    |   16.4   |   15.6   |   11.9   |   19.9   |              
+ YNPM%:  |   0.9    |   9.9    |   11.3   |   11.2   |   15.3   |              
+YPROFIT: |   1.0    |   14.7   |   21.7   |   22.5   |   36.1   |      13.6    
+ PQoQ%:  |   nan    |  1331.1  |   47.2   |   3.7    |   60.5   |      37.7    
+ QPNL:  | Sep-2023 | Dec-2023 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   45.1   |   51.4   |   27.6   |   42.8   |   73.4  
+ QoQ%:  |   nan    |   13.9   |  -46.3   |   54.9   |   71.6  
+ QOPM%: |   39.6   |   24.9   |   0.0    |   12.2   |   17.3  
+ QNPM%: |   4.3    |   16.1   |   0.8    |   10.9   |   11.9  
+ QPFT:  |   1.9    |   8.3    |   0.2    |   4.6    |   8.8   
+ PQoQ%: |   nan    |  326.8   |  -97.3   |  2013.6  |   88.6  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 61% YSales
+- Double QSales and QProfit
+
+YSALES in Mar-2024 is at 236.6 showing a QoQ_growth of 17.8%. The YNETPROFIT grew by 60.5% to 36.1
+
+Yearly 
+ 31-Mar-2024 #Result
+236.60cr, QoQ 17.80% & YoY 107.36% SALES;
+47.20cr, QoQ 98.00% & YoY 3530.77% OPERATING PROFIT;
+36.10cr, QoQ 60.50% & YoY 3510.00% NET PROFIT;
+OPM %: 19.90% vs 11.9%
+NPM %: 15.30% vs 11.2%
+

@@ -1,0 +1,35 @@
+CODES
+543334	NUVOCO	
+SECTOR : Cement
+INDUSTRY : Cement - North India
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  5805.4  |  7342.4  |  8581.5  |  8939.2  |  8724.7 
+ SQoQ%:  |  -14.5   |   26.5   |   16.9   |   4.2    |   -2.4  
+ YOPM%:  |   19.3   |   14.1   |   9.5    |   12.3   |   11.5  
+ YNPM%:  |   0.4    |   0.8    |   1.1    |   1.7    |   0.5   
+YPROFIT: |   22.8   |   55.2   |   90.2   |  153.0   |   40.5  
+ PQoQ%:  |  -90.9   |  142.1   |   63.5   |   69.7   |  -73.5  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  2493.0  |  2202.0  |  1971.5  |  2017.5  |  2533.6 
+ QoQ%:  |   24.9   |  -11.7   |  -10.5   |   2.3    |   25.6  
+ QOPM%: |   13.8   |   12.4   |   8.4    |   9.0    |   15.0  
+ QNPM%: |   3.4    |   1.0    |   0.0    |   0.0    |   4.6   
+ QPFT:  |   84.5   |   21.7   |  -52.6   |  -44.2   |  115.5  
+ PQoQ%: |  177.6   |  -74.3   |  -342.5  |  -16.0   |  -361.7 
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+Yearly 
+ 31-Mar-2025 #Result
+8724.70cr, QoQ -2.40% & YoY 50.29% SALES;
+1001.20cr, QoQ -9.00% & YoY -10.63% OPERATING PROFIT;
+40.50cr, QoQ -73.50% & YoY 77.63% NET PROFIT;
+OPM %: 11.50% vs 12.3%
+NPM %: 0.50% vs 1.7%
+

@@ -1,0 +1,23 @@
+CODES
+IPSL	
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 27.7% while the Profit QoQ_growth is at 25.5%
+
+Yearly 
+ 31-Mar-2025 #Result
+262.80cr, QoQ 27.70% & YoY 121.21% SALES;
+8.30cr, QoQ 4.70% & YoY 107.50% OPERATING PROFIT;
+4.90cr, QoQ 25.50% & YoY 206.25% NET PROFIT;
+OPM %: 3.20% vs 3.8%
+NPM %: 1.90% vs 1.9%
+

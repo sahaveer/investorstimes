@@ -1,0 +1,41 @@
+CODE	NAME
+538890 
+
+SECTOR : Trading
+INDUSTRY : Trading
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024
+---------+----------+----------+----------+----------+---------
+YSALES:  |   52.9   |   57.6   |   73.1   |  103.7   |   92.4  
+ SQoQ%:  |   94.0   |   8.8    |   27.1   |   41.7   |  -10.9  
+ YOPM%:  |   7.1    |   20.0   |   23.8   |   18.7   |   21.1  
+ YNPM%:  |   4.1    |   14.0   |   18.2   |   16.1   |   16.7  
+YPROFIT: |   2.2    |   8.0    |   13.3   |   16.6   |   15.4  
+ PQoQ%:  |  342.9   |  270.0   |   65.8   |   25.0   |   -7.3  
+ QPNL:  | Mar-2020 | Jun-2020 | Sep-2020 | Dec-2020 | Mar-2021
+--------+----------+----------+----------+----------+---------
+QSALES: |   19.8   |   6.4    |   13.5   |   18.0   |   19.6  
+ QoQ%:  |   11.6   |  -67.4   |  109.5   |   34.0   |   8.8   
+ QOPM%: |   11.2   |   7.2    |   12.7   |   24.5   |   25.1  
+ QNPM%: |   8.6    |   2.6    |   10.8   |   22.8   |   11.7  
+ QPFT:  |   1.7    |   0.2    |   1.4    |   4.1    |   2.3   
+ PQoQ%: |   34.9   |  -90.0   |  752.9   |  183.4   |  -44.0  
+
+***PROS***
+A DEBT-Free Company
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 16.8%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+
+
+Yearly 
+ 31-Mar-2024 #Result
+92.40cr, QoQ -10.90% & YoY 74.67% SALES;
+19.50cr, QoQ 0.90% & YoY 413.16% OPERATING PROFIT;
+15.40cr, QoQ -7.30% & YoY 600.00% NET PROFIT;
+OPM %: 21.10% vs 18.7%
+NPM %: 16.70% vs 16.1%
+

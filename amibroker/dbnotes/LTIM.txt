@@ -1,0 +1,37 @@
+CODES
+540005	LTIM	
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Large
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  | 12369.8  | 26108.7  | 33183.0  | 35517.0  | 38008.1 
+ SQoQ%:  |   13.7   |  111.1   |   27.1   |   7.0    |   7.0   
+ YOPM%:  |   22.0   |   20.1   |   18.4   |   18.0   |   17.1  
+ YNPM%:  |   15.7   |   15.1   |   13.3   |   12.9   |   12.1  
+YPROFIT: |  1936.1  |  3948.3  |  4408.3  |  4582.1  |  4598.7 
+ PQoQ%:  |   27.4   |  103.9   |   11.7   |   3.9    |   0.4   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  8892.9  |  9142.6  |  9432.9  |  9660.9  |  9771.7 
+ QoQ%:  |   -1.4   |   2.8    |   3.2    |   2.4    |   1.1   
+ QOPM%: |   17.3   |   17.6   |   18.0   |   16.5   |   16.3  
+ QNPM%: |   12.4   |   12.4   |   13.3   |   11.2   |   11.5  
+ QPFT:  |  1099.9  |  1133.8  |  1251.0  |  1085.4  |  1128.5 
+ PQoQ%: |   -5.9   |   3.1    |   10.3   |  -13.2   |   4.0   
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 27.1%
+
+Yearly 
+ 31-Mar-2025 #Result
+38008.10cr, QoQ 7.00% & YoY 207.27% SALES;
+6494.90cr, QoQ 1.70% & YoY 138.34% OPERATING PROFIT;
+4598.70cr, QoQ 0.40% & YoY 137.52% NET PROFIT;
+OPM %: 17.10% vs 18.0%
+NPM %: 12.10% vs 12.9%
+

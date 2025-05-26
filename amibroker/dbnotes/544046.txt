@@ -1,0 +1,38 @@
+CODES
+544046	INOXINDIA	
+SECTOR : Packaging
+INDUSTRY : Packaging
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  594.7   |  782.7   |  965.9   |  1131.2  |  1306.0 
+ SQoQ%:  |   -8.4   |   31.6   |   23.4   |   17.1   |   15.5  
+ YOPM%:  |   22.9   |   21.4   |   21.3   |   22.3   |   21.8  
+ YNPM%:  |   16.4   |   16.7   |   16.0   |   17.3   |   17.3  
+YPROFIT: |   97.5   |  130.5   |  154.7   |  196.0   |  226.0  
+ PQoQ%:  |   0.2    |   33.9   |   18.6   |   26.7   |   15.3  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  276.5   |  296.4   |  306.6   |  333.6   |  369.4  
+ QoQ%:  |   -4.9   |   7.2    |   3.4    |   8.8    |   10.7  
+ QOPM%: |   19.3   |   23.7   |   20.8   |   20.7   |   22.0  
+ QNPM%: |   15.9   |   17.8   |   16.1   |   17.5   |   17.7  
+ QPFT:  |   44.1   |   52.6   |   49.5   |   58.4   |   65.5  
+ PQoQ%: |   -9.3   |   19.4   |   -6.0   |   18.0   |   12.2  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 28.8%
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 15.5% while the Profit QoQ_growth is at 15.3%
+
+Yearly 
+ 31-Mar-2025 #Result
+1306.00cr, QoQ 15.50% & YoY 119.61% SALES;
+284.10cr, QoQ 12.80% & YoY 108.59% OPERATING PROFIT;
+226.00cr, QoQ 15.30% & YoY 131.79% NET PROFIT;
+OPM %: 21.80% vs 22.3%
+NPM %: 17.30% vs 17.3%
+

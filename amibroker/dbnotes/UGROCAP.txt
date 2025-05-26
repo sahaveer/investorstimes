@@ -1,0 +1,39 @@
+CODES
+511742	UGROCAP	
+SECTOR : 
+INDUSTRY : 
+YSD YPD 2023
+LYPD PM 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  153.3   |  312.1   |  683.8   |  1081.7  |  1395.9 
+ SQoQ%:  |   45.8   |  103.5   |  119.1   |   58.2   |   29.0  
+ YOPM%:  |   44.6   |   54.4   |   57.7   |   60.7   |   59.6  
+ YNPM%:  |   18.7   |   4.7    |   5.8    |   11.0   |   10.3  
+YPROFIT: |   28.7   |   14.6   |   39.8   |  119.3   |  143.9  
+ PQoQ%:  |   47.2   |  -49.4   |  173.4   |  200.0   |   20.6  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  322.4   |  291.4   |  330.2   |  371.1   |  403.2  
+ QoQ%:  |   20.4   |   -9.6   |   13.3   |   12.4   |   8.6   
+ QOPM%: |   57.7   |   61.3   |   57.9   |   59.0   |   60.1  
+ QNPM%: |   10.1   |   10.4   |   10.8   |   10.1   |   10.1  
+ QPFT:  |   32.7   |   30.4   |   35.5   |   37.5   |   40.6  
+ PQoQ%: |   0.5    |   -7.1   |   17.0   |   5.6    |   8.1   
+
+***PROS***
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 29.0% while the Profit QoQ_growth is at 20.6%
+
+Yearly 
+ 31-Mar-2025 #Result
+1395.90cr, QoQ 29.00% & YoY 810.57% SALES;
+831.30cr, QoQ 26.50% & YoY 1115.35% OPERATING PROFIT;
+143.90cr, QoQ 20.60% & YoY 401.39% NET PROFIT;
+OPM %: 59.60% vs 60.7%
+NPM %: 10.30% vs 11.0%
+

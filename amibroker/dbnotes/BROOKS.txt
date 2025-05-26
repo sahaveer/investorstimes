@@ -1,0 +1,17 @@
+CODES
+533543	BROOKS	
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+LYPD PM 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -19.6
+
+
+
+
+
+***PROS***
+- Last 3QSALES is about 97% YSales
+- LastYr YProfits Doubled and maintained in Mar2024

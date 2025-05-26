@@ -1,0 +1,48 @@
+CODE	NAME
+540492 
+
+SECTOR : Trading
+INDUSTRY : Trading
+EXPANSION 2023
+EXPANSION 2024
+PRODUCT DEMAND
+BestQ Dec 2024
+YS15 YPD 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   10.4   |   18.5   |   16.2   |   20.0   |   29.8   |      59.5    
+ SQoQ%:  |  -25.6   |   78.4   |  -12.7   |   23.6   |   48.9   |     199.7    
+ YOPM%:  |   0.0    |   1.0    |   1.1    |   2.0    |   6.5    |              
+ YNPM%:  |   0.0    |   0.9    |   1.9    |   3.1    |   6.0    |              
+YPROFIT: |   -0.2   |   0.2    |   0.3    |   0.6    |   1.8    |      7.4     
+ PQoQ%:  |  -383.3  |  -194.1  |   93.8   |   96.8   |  193.4   |     411.1    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   5.3    |   11.6   |   17.2   |   24.4   |   17.9  
+ QoQ%:  |  -41.2   |  117.4   |   48.0   |   42.4   |  -26.9  
+ QOPM%: |   10.1   |   0.0    |   22.2   |   18.0   |   8.4   
+ QNPM%: |   8.6    |   0.0    |   16.6   |   13.3   |   7.6   
+ QPFT:  |   0.5    |   -0.2   |   2.8    |   3.2    |   1.4   
+ PQoQ%: |  -62.3   |  -143.5  | -1525.0  |   14.0   |  -58.2  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 200% YSales
+- Last 3QPROFIT is about 411% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
+As on Mar2024, Sales have increased by 48.9% while the Profit QoQ_growth is much better than Sales itself at 193.4%
+
+Yearly 
+ 31-Mar-2024 #Result
+29.80cr, QoQ 48.90% & YoY 186.54% SALES;
+1.90cr, QoQ 397.40% & YoY -2000.00% OPERATING PROFIT;
+1.80cr, QoQ 193.40% & YoY -1000.00% NET PROFIT;
+OPM %: 6.50% vs 2.0%
+NPM %: 6.00% vs 3.1%
+

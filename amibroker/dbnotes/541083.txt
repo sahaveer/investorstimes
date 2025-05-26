@@ -1,0 +1,24 @@
+CODE	NAME
+541083 
+
+SECTOR : Consumer Durables
+INDUSTRY : Domestic Appliances
+EXPANSION 2023
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2024 #Result
+92.40cr, QoQ 19.60% & YoY 500.00% SALES;
+8.10cr, QoQ -19.60% & YoY -307.69% OPERATING PROFIT;
+1.00cr, QoQ -67.60% & YoY -123.26% NET PROFIT;
+OPM %: 8.70% vs 13.0%
+NPM %: 1.10% vs 4.2%
+

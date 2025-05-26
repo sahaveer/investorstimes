@@ -1,0 +1,16 @@
+CODES
+541161	KBCGLOBAL	
+SECTOR : Realty
+INDUSTRY : Construction
+PRODUCT DEMAND
+
+***CONS***
+- NEGATIVE YProfit : -36.6
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+

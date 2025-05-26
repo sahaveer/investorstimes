@@ -1,0 +1,35 @@
+CODE	NAME
+530141 
+
+SECTOR : Realty
+INDUSTRY : Construction
+PRODUCT DEMAND
+YSD YPD 2024
+YSD YPD 2023
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.8    |   0.1    |   0.0    |   0.1    |   0.6    |      0.0     
+ SQoQ%:  |  -44.6   |  -90.2   |  -62.5   |  133.3   |  700.0   |      0.0     
+ YOPM%:  |   8.5    |   0.0    |   0.0    |   0.0    |   23.2   |              
+ YNPM%:  |   7.3    |   0.0    |   0.0    |   0.0    |   25.0   |              
+YPROFIT: |   0.1    |   -0.1   |   -0.2   |   -0.2   |   0.1    |      -0.1    
+ PQoQ%:  |   20.0   |  -233.3  |  100.0   |   -6.2   |  -193.3  |     -100.0   
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QoQ%:  |  -100.0  |   nan    |   nan    |   nan    |   nan   
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QPFT:  |   -0.0   |   -0.0   |   -0.0   |   -0.0   |   -0.1  
+ PQoQ%: |  -108.7  |  -50.0   |   0.0    |   0.0    |  500.0  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- YProfit Turned POSITIVE this year Mar-2024 : 0.1
+- YProfits and YSales DOUBLED in Mar2024
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2024

@@ -1,0 +1,39 @@
+CODES
+539841	LANCER	
+SECTOR : Logistics
+INDUSTRY : Miscellaneous
+BestQ Dec 2024
+YSD YPD 2022
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  265.3   |  312.6   |  641.5   |  837.2   |  633.4   |     578.5    
+ SQoQ%:  |   nan    |   17.9   |  105.2   |   30.5   |  -24.3   |      91.3    
+ YOPM%:  |   8.5    |   7.9    |   7.8    |   10.7   |   13.9   |              
+ YNPM%:  |   3.0    |   3.1    |   4.5    |   6.4    |   9.2    |              
+YPROFIT: |   8.0    |   9.7    |   29.0   |   53.7   |   58.4   |      31.3    
+ PQoQ%:  |   nan    |   21.2   |  198.1   |   85.6   |   8.6    |      53.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  150.6   |  152.3   |  172.4   |  202.1   |  204.0  
+ QoQ%:  |   -9.5   |   1.1    |   13.2   |   17.2   |   0.9   
+ QOPM%: |   20.2   |   3.5    |   9.2    |   9.4    |   4.7   
+ QNPM%: |   9.3    |   10.5   |   7.0    |   7.3    |   2.1   
+ QPFT:  |   14.0   |   16.0   |   12.1   |   14.8   |   4.4   
+ PQoQ%: |   -1.1   |   13.8   |  -24.6   |   22.6   |  -70.5  
+
+***PROS***
+- Last 3QSALES is about 91% YSales
+- Last 3QPROFIT is about 54% of YProfit
+- YProfits and YSales DOUBLED in Mar2022
+
+Yearly 
+ 31-Mar-2024 #Result
+633.40cr, QoQ -24.30% & YoY 138.75% SALES;
+88.30cr, QoQ -1.70% & YoY 292.44% OPERATING PROFIT;
+58.40cr, QoQ 8.60% & YoY 630.00% NET PROFIT;
+OPM %: 13.90% vs 10.7%
+NPM %: 9.20% vs 6.4%
+

@@ -1,0 +1,23 @@
+CODES
+DOLLEX	
+SECTOR : Sugar
+INDUSTRY : Sugar
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2024, Sales have increased by 22.7% while the Profit QoQ_growth is at 15.1%
+
+Yearly 
+ 31-Mar-2024 #Result
+135.50cr, QoQ 22.70% & YoY 435.57% SALES;
+14.00cr, QoQ 9.00% & YoY 218.18% OPERATING PROFIT;
+7.00cr, QoQ 15.10% & YoY 1066.67% NET PROFIT;
+OPM %: 10.30% vs 11.6%
+NPM %: 5.20% vs 5.5%
+

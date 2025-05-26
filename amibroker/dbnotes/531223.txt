@@ -1,0 +1,38 @@
+CODE	NAME
+531223 
+
+SECTOR : Textiles
+INDUSTRY : Textiles - Processing
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  325.2   |  265.8   |  304.7   |  329.9   |  254.2   |     161.2    
+ SQoQ%:  |   5.9    |  -18.3   |   14.6   |   8.3    |  -22.9   |      63.4    
+ YOPM%:  |   4.8    |   3.8    |   3.4    |   3.6    |   3.7    |              
+ YNPM%:  |   1.1    |   1.1    |   1.3    |   1.1    |   1.7    |              
+YPROFIT: |   3.6    |   2.9    |   4.0    |   3.5    |   4.3    |      3.0     
+ PQoQ%:  |   19.0   |  -18.5   |   37.5   |  -13.0   |   22.4   |      69.8    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   59.7   |   63.9   |   44.0   |   53.1   |   64.1  
+ QoQ%:  |  -17.4   |   7.2    |  -31.1   |   20.5   |   20.7  
+ QOPM%: |   5.0    |   2.6    |   4.7    |   4.9    |   4.6   
+ QNPM%: |   1.6    |   2.6    |   1.2    |   2.0    |   2.2   
+ QPFT:  |   1.0    |   1.7    |   0.5    |   1.1    |   1.4   
+ PQoQ%: |   5.6    |   77.9   |  -68.6   |  100.0   |   32.1  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 63% YSales
+- Last 3QPROFIT is about 70% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+254.20cr, QoQ -22.90% & YoY -21.83% SALES;
+9.40cr, QoQ -20.90% & YoY -40.13% OPERATING PROFIT;
+4.30cr, QoQ 22.40% & YoY 19.44% NET PROFIT;
+OPM %: 3.70% vs 3.6%
+NPM %: 1.70% vs 1.1%
+

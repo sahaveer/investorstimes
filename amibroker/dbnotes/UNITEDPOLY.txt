@@ -1,0 +1,12 @@
+CODES
+UNITEDPOLY	
+SECTOR : Textiles
+INDUSTRY : Textiles - Products
+
+***CONS***
+
+
+
+
+
+***PROS***

@@ -1,0 +1,35 @@
+CODES
+530393	DBSTOCKBRO	
+SECTOR : Stock/ Commodity Brokers
+INDUSTRY : Finance & Investments
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   18.1   |   29.4   |   29.3   |   48.2   |   42.1  
+ SQoQ%:  |   71.3   |   62.5   |   -0.2   |   64.6   |  -12.8  
+ YOPM%:  |   30.3   |   41.6   |   35.7   |   33.3   |   25.1  
+ YNPM%:  |   1.7    |   29.4   |   21.8   |   18.8   |   13.8  
+YPROFIT: |   0.3    |   8.6    |   6.4    |   9.0    |   5.8   
+ PQoQ%:  |  -88.3   |  2687.1  |  -26.2   |   41.8   |  -36.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   14.7   |   12.8   |   12.4   |   9.2    |   7.8   
+ QoQ%:  |   11.2   |  -13.3   |   -3.1   |  -26.0   |  -15.0  
+ QOPM%: |   25.8   |   29.1   |   22.8   |   17.7   |   30.8  
+ QNPM%: |   13.9   |   15.4   |   11.7   |   11.3   |   17.2  
+ QPFT:  |   2.0    |   2.0    |   1.4    |   1.0    |   1.3   
+ PQoQ%: |  -36.1   |   -4.4   |  -26.0   |  -29.0   |   30.1  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+
+
+Yearly 
+ 31-Mar-2025 #Result
+42.10cr, QoQ -12.80% & YoY 132.60% SALES;
+10.60cr, QoQ -34.30% & YoY 92.73% OPERATING PROFIT;
+5.80cr, QoQ -36.00% & YoY 1833.33% NET PROFIT;
+OPM %: 25.10% vs 33.3%
+NPM %: 13.80% vs 18.8%
+

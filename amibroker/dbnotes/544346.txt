@@ -1,0 +1,22 @@
+CODE	NAME
+544346 
+
+SECTOR : Realty
+INDUSTRY : Construction
+
+***CONS***
+
+
+
+
+
+***PROS***
+
+Quarterly 
+31-Dec-2024 #Result
+9.90cr, QoQ -55.80% SALES;
+6.20cr, QoQ -45.00% OPERATING PROFIT;
+0.10cr, QoQ -98.20% NET PROFIT;
+OPM %: 62.10% vs 50.0%
+NPM %: 0.90% vs 22.4%
+

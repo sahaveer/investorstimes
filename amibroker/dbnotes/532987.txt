@@ -1,0 +1,38 @@
+CODES
+532987	RBL	
+SECTOR : 
+INDUSTRY : 
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  471.0   |  423.9   |  505.6   |  598.8   |  660.8   |     518.8    
+ SQoQ%:  |   -8.4   |  -10.0   |   19.3   |   18.4   |   10.4   |      78.5    
+ YOPM%:  |   12.9   |   14.4   |   8.7    |   9.4    |   11.4   |              
+ YNPM%:  |   7.3    |   7.5    |   5.4    |   5.6    |   6.1    |              
+YPROFIT: |   34.3   |   31.8   |   27.1   |   33.5   |   40.3   |      29.4    
+ PQoQ%:  |   -6.0   |   -7.4   |  -14.9   |   23.6   |   20.4   |      73.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  164.2   |  186.2   |  159.9   |  173.6   |  185.3  
+ QoQ%:  |   3.9    |   13.4   |  -14.1   |   8.6    |   6.7   
+ QOPM%: |   11.0   |   15.1   |   10.9   |   11.1   |   10.0  
+ QNPM%: |   6.2    |   8.3    |   5.5    |   6.4    |   5.1   
+ QPFT:  |   10.1   |   15.4   |   8.8    |   11.1   |   9.5   
+ PQoQ%: |   5.5    |   52.1   |  -42.6   |   25.3   |  -14.4  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.6
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 73% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+660.80cr, QoQ 10.40% & YoY 40.30% SALES;
+75.40cr, QoQ 33.70% & YoY 24.42% OPERATING PROFIT;
+40.30cr, QoQ 20.40% & YoY 17.49% NET PROFIT;
+OPM %: 11.40% vs 9.4%
+NPM %: 6.10% vs 5.6%
+

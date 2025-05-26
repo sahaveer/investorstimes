@@ -1,0 +1,22 @@
+CODE	NAME
+544259 
+
+SECTOR : Construction
+INDUSTRY : Construction
+LYPD PM 2024
+
+***CONS***
+
+
+
+***PROS***
+- LastYr YProfits Doubled and maintained in Mar2024
+
+Yearly 
+ 31-Mar-2024 #Result
+51.80cr, QoQ 10.00% SALES;
+7.00cr, QoQ 322.30% OPERATING PROFIT;
+3.50cr, QoQ 190.00% NET PROFIT;
+OPM %: 13.50% vs 3.5%
+NPM %: 6.70% vs 2.5%
+

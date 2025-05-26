@@ -1,0 +1,22 @@
+CODES
+534615	NECCLTD	
+SECTOR : Logistics
+INDUSTRY : Miscellaneous
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2017 #Result
+548.00cr, QoQ 1.80% SALES;
+19.50cr, QoQ -4.80% OPERATING PROFIT;
+5.60cr, QoQ -0.70% NET PROFIT;
+OPM %: 3.60% vs 3.8%
+NPM %: 1.00% vs 1.0%
+

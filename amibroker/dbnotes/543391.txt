@@ -1,0 +1,16 @@
+CODE	NAME
+543391 
+
+SECTOR : Construction
+INDUSTRY : Construction
+EXPANSION 2017
+EXPANSION 2018
+YSD YPD 2024
+
+***CONS***
+
+
+
+***PROS***
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
+- YProfits and YSales DOUBLED in Mar2024

@@ -1,0 +1,18 @@
+CODE	NAME
+519003 
+
+SECTOR : Edible Oil
+INDUSTRY : Solvent Extraction
+EXPANSION 2023
+
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -1.4
+
+
+
+
+
+***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
+- Last 3QSALES is about 118% YSales

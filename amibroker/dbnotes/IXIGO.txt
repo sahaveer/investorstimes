@@ -1,0 +1,36 @@
+CODES
+544192	IXIGO	
+SECTOR : E-Commerce/App based Aggregator
+INDUSTRY : Travel Agencies
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  135.6   |  379.6   |  501.2   |  655.9   |  914.2  
+ SQoQ%:  |   21.5   |  180.0   |   32.1   |   30.8   |   39.4  
+ YOPM%:  |   2.4    |   0.0    |   5.7    |   5.8    |   7.9   
+ YNPM%:  |   5.6    |   0.0    |   4.3    |   11.6   |   6.6   
+YPROFIT: |   7.5    |  -24.4   |   21.6   |   75.8   |   60.2  
+ PQoQ%:  |  -128.3  |  -423.8  |  -188.8  |  250.3   |  -20.6  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  164.8   |  181.9   |  206.5   |  241.8   |  284.1  
+ QoQ%:  |   -3.3   |   10.3   |   13.5   |   17.1   |   17.5  
+ QOPM%: |   7.6    |   8.1    |   7.8    |   8.1    |   7.6   
+ QNPM%: |   5.5    |   8.2    |   6.3    |   6.4    |   5.9   
+ QPFT:  |   9.0    |   14.9   |   13.1   |   15.5   |   16.7  
+ PQoQ%: |  -70.1   |   65.1   |  -11.9   |   18.6   |   7.7   
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+914.20cr, QoQ 39.40% & YoY 574.19% SALES;
+71.80cr, QoQ 89.10% & YoY 2075.76% OPERATING PROFIT;
+60.20cr, QoQ -20.60% & YoY 702.67% NET PROFIT;
+OPM %: 7.90% vs 5.8%
+NPM %: 6.60% vs 11.6%
+

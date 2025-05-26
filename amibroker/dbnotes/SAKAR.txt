@@ -1,0 +1,36 @@
+CODES
+SAKAR	
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   94.7   |  128.2   |  133.4   |  153.3   |  177.6  
+ SQoQ%:  |   14.2   |   35.3   |   4.0    |   15.0   |   15.8  
+ YOPM%:  |   24.0   |   23.0   |   24.9   |   25.0   |   28.0  
+ YNPM%:  |   11.3   |   11.9   |   9.6    |   7.6    |   9.9   
+YPROFIT: |   10.7   |   15.2   |   12.8   |   11.7   |   17.5  
+ PQoQ%:  |   11.0   |   42.7   |  -16.3   |   -8.5   |   50.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   43.1   |   41.2   |   42.8   |   43.4   |   50.2  
+ QoQ%:  |   15.7   |   -4.4   |   4.0    |   1.5    |   15.7  
+ QOPM%: |   25.5   |   26.0   |   26.9   |   27.1   |   31.3  
+ QNPM%: |   7.2    |   5.9    |   11.2   |   10.4   |   11.5  
+ QPFT:  |   3.1    |   2.4    |   4.8    |   4.5    |   5.8   
+ PQoQ%: |   50.7   |  -22.8   |   99.2   |   -5.6   |   27.2  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+YSALES in Mar-2025 is at 177.6 showing a QoQ_growth of 15.8%. The YNETPROFIT grew by 50.0% to 17.5
+
+Yearly 
+ 31-Mar-2025 #Result
+177.60cr, QoQ 15.80% & YoY 87.54% SALES;
+49.70cr, QoQ 29.50% & YoY 118.94% OPERATING PROFIT;
+17.50cr, QoQ 50.00% & YoY 63.55% NET PROFIT;
+OPM %: 28.00% vs 25.0%
+NPM %: 9.90% vs 7.6%
+

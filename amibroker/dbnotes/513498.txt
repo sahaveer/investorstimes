@@ -1,0 +1,43 @@
+CODE	NAME
+513498 
+
+SECTOR : Mining & Mineral products
+INDUSTRY : Mining / Minerals / Metals
+BestQ Dec 2024
+YSD YPD 2023
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   1.6    |   2.0    |   2.3    |   8.6    |   9.5    |      11.6    
+ SQoQ%:  |  -64.0   |   26.4   |   16.4   |  266.2   |   10.5   |     122.1    
+ YOPM%:  |   0.0    |   2.0    |   26.5   |   56.6   |   45.0   |              
+ YNPM%:  |   0.0    |   0.0    |   17.1   |   41.2   |   35.2   |              
+YPROFIT: |   -0.2   |   -0.1   |   0.4    |   3.5    |   3.3    |      3.3     
+ PQoQ%:  |  -116.8  |  -60.9   |  -544.4  |  782.5   |   -5.7   |     100.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   2.9    |   2.6    |   6.0    |   3.9    |   1.7   
+ QoQ%:  |   12.5   |   -8.0   |  124.5   |  -33.9   |  -55.7  
+ QOPM%: |   50.7   |   36.6   |   39.5   |   35.1   |   21.8  
+ QNPM%: |   41.0   |   28.7   |   29.9   |   29.0   |   20.1  
+ QPFT:  |   1.2    |   0.8    |   1.8    |   1.1    |   0.4   
+ PQoQ%: |   29.7   |  -35.6   |  134.2   |  -36.0   |  -69.3  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 25.4%
+- Last 3QSALES is about 122% YSales
+- Last 3QPROFIT is about 100% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2023
+
+
+Yearly 
+ 31-Mar-2024 #Result
+9.50cr, QoQ 10.50% & YoY 493.75% SALES;
+4.30cr, QoQ -12.20% & YoY -2250.00% OPERATING PROFIT;
+3.30cr, QoQ -5.70% & YoY -1750.00% NET PROFIT;
+OPM %: 45.00% vs 56.6%
+NPM %: 35.20% vs 41.2%
+

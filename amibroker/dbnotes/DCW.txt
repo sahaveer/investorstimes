@@ -1,0 +1,36 @@
+CODES
+500117	DCW	
+SECTOR : Petrochemicals
+INDUSTRY : Petrochemicals
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1464.3  |  2454.7  |  2633.8  |  1871.6  |  2000.3 
+ SQoQ%:  |   14.6   |   67.6   |   7.3    |  -28.9   |   6.9   
+ YOPM%:  |   14.3   |   13.4   |   16.3   |   9.4    |   9.7   
+ YNPM%:  |   0.3    |   4.4    |   7.3    |   0.8    |   1.5   
+YPROFIT: |   3.8    |  107.5   |  192.0   |   15.7   |   30.3  
+ PQoQ%:  |  -114.2  |  2736.7  |   78.6   |  -91.8   |   93.4  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  621.7   |  499.5   |  488.7   |  474.2   |  537.9  
+ QoQ%:  |   56.3   |  -19.7   |   -2.2   |   -3.0   |   13.4  
+ QOPM%: |   10.2   |   9.0    |   7.2    |   12.0   |   10.4  
+ QNPM%: |   2.5    |   1.3    |   0.0    |   2.8    |   2.1   
+ QPFT:  |   15.3   |   6.7    |   -1.2   |   13.4   |   11.4  
+ PQoQ%: |  -224.4  |  -56.1   |  -118.6  | -1173.6  |  -15.2  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+Yearly 
+ 31-Mar-2025 #Result
+2000.30cr, QoQ 6.90% & YoY 36.60% SALES;
+193.40cr, QoQ 9.60% & YoY -7.64% OPERATING PROFIT;
+30.30cr, QoQ 93.40% & YoY 697.37% NET PROFIT;
+OPM %: 9.70% vs 9.4%
+NPM %: 1.50% vs 0.8%
+

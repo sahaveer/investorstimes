@@ -1,0 +1,30 @@
+CODE	NAME
+538881 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   1.0    |   0.9    |   1.1    |   0.9    |   1.4    |      1.2     
+ SQoQ%:  |  -23.6   |   -6.2   |   16.5   |  -14.2   |   50.5   |      85.7    
+ YOPM%:  |   0.0    |   44.0   |   26.4   |   41.8   |   67.2   |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   2.2    |   24.8   |              
+YPROFIT: |   -0.7   |   -0.1   |   -0.3   |   0.0    |   0.3    |      0.0     
+ PQoQ%:  |  245.0   |  -89.9   |  285.7   |  -107.4  |  1600.0  |      0.0     
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.4    |   0.5    |   0.4    |   0.4    |   0.4   
+ QoQ%:  |   32.1   |   29.7   |  -22.9   |   0.0    |   2.7   
+ QOPM%: |   64.9   |   87.5   |   59.5   |   59.5   |   63.2  
+ QNPM%: |   10.8   |   41.7   |   8.1    |   10.8   |   7.9   
+ QPFT:  |   0.0    |   0.2    |   0.0    |   0.0    |   0.0   
+ PQoQ%: |  -55.6   |  400.0   |  -85.0   |   33.3   |  -25.0  
+
+***PROS***
+- Last 3QSALES is about 86% YSales
+- LastYr YProfits Doubled and maintained in Mar2024
+
+YSALES in Mar-2024 is at 1.4 showing a QoQ_growth of 50.5%. The YNETPROFIT grew by 1600.0% to 0.3

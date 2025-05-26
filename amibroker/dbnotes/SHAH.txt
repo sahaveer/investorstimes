@@ -1,0 +1,42 @@
+CODES
+533275	SHAH	
+SECTOR : Steel
+INDUSTRY : Steel - Medium / Small
+YSD YPD 2024
+LYPD PM 2025
+YS15 YPD 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   12.6   |   20.0   |   39.9   |   96.8   |  176.2  
+ SQoQ%:  |  -80.6   |   59.3   |   99.0   |  142.7   |   82.0  
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   3.7    |   6.3   
+ YNPM%:  |   0.0    |   0.0    |   4.1    |   4.4    |   18.5  
+YPROFIT: |  -74.4   |   -5.6   |   1.6    |   4.3    |   32.6  
+ PQoQ%:  |  443.2   |  -92.4   |  -129.3  |  158.2   |  665.3  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   46.3   |   46.3   |   48.5   |   39.9   |   41.5  
+ QoQ%:  |  258.5   |   0.0    |   4.9    |  -17.9   |   4.0   
+ QOPM%: |   4.7    |   7.5    |   5.6    |   5.8    |   6.4   
+ QNPM%: |   3.2    |   50.4   |   5.0    |   7.5    |   9.2   
+ QPFT:  |   1.5    |   23.3   |   2.4    |   3.0    |   3.8   
+ PQoQ%: |   92.2   |  1477.0  |  -89.5   |   22.4   |   27.0  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
+As on Mar2025, Sales have increased by 82.0% while the Profit QoQ_growth is much better than Sales itself at 665.3%
+
+Yearly 
+ 31-Mar-2025 #Result
+176.20cr, QoQ 82.00% & YoY 1298.41% SALES;
+11.20cr, QoQ 211.10% & YoY -113.68% OPERATING PROFIT;
+32.60cr, QoQ 665.30% & YoY -143.82% NET PROFIT;
+OPM %: 6.30% vs 3.7%
+NPM %: 18.50% vs 4.4%
+

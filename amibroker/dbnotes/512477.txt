@@ -1,0 +1,41 @@
+CODE	NAME
+512477 
+
+SECTOR : Textiles
+INDUSTRY : Textiles - Processing
+PRODUCT DEMAND
+BestQ Dec 2024
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   56.8   |   48.5   |   57.4   |   74.0   |   88.8   |      74.0    
+ SQoQ%:  |   22.4   |  -14.5   |   18.2   |   28.9   |   20.0   |      83.3    
+ YOPM%:  |   2.5    |   7.5    |   0.6    |   7.0    |   6.6    |              
+ YNPM%:  |   0.8    |   4.2    |   0.7    |   4.3    |   3.8    |              
+YPROFIT: |   0.4    |   2.1    |   0.4    |   3.2    |   3.3    |      2.7     
+ PQoQ%:  |  -56.1   |  379.1   |  -80.1   |  670.7   |   5.4    |      81.8    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   23.8   |   21.5   |   22.9   |   28.5   |   22.6  
+ QoQ%:  |   0.5    |  -10.0   |   6.6    |   24.4   |  -20.7  
+ QOPM%: |   7.4    |   10.9   |   3.4    |   6.5    |   6.1   
+ QNPM%: |   5.2    |   6.3    |   1.7    |   4.3    |   4.8   
+ QPFT:  |   1.2    |   1.4    |   0.4    |   1.2    |   1.1   
+ PQoQ%: |  264.7   |   9.7    |  -70.6   |  205.0   |  -11.5  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 82% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2024
+
+Yearly 
+ 31-Mar-2024 #Result
+88.80cr, QoQ 20.00% & YoY 56.34% SALES;
+5.90cr, QoQ 14.60% & YoY 321.43% OPERATING PROFIT;
+3.30cr, QoQ 5.40% & YoY 725.00% NET PROFIT;
+OPM %: 6.60% vs 7.0%
+NPM %: 3.80% vs 4.3%
+

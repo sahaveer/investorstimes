@@ -1,0 +1,42 @@
+CODES
+532624	JINDALPHOT	
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.1    |   0.4    |   0.2    |   7.9    |   20.3   |      1.9     
+ SQoQ%:  |  -80.9   |  184.6   |  -51.4   |  4272.2  |  158.2   |      9.4     
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   93.6   |   97.8   |              
+ YNPM%:  |   0.0    |   0.0    | 352061.1 |  2124.0  |  1306.8  |              
+YPROFIT: |   -3.4   |   -4.5   |  633.7   |  167.2   |  265.6   |     196.7    
+ PQoQ%:  |   16.4   |   31.2   | -14308.7 |  -73.6   |   58.9   |      74.1    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.4    |   19.0   |   0.6    |   0.8    |   0.5   
+ QoQ%:  |   -4.4   |  4314.0  |  -96.7   |   28.6   |  -40.7  
+ QOPM%: |   79.1   |   99.5   |   84.1   |   90.1   |   72.9  
+ QNPM%: | 20941.9  |  506.6   |  7527.0  | 15393.8  |  5127.1 
+ QPFT:  |   90.0   |   96.2   |   47.4   |  124.7   |   24.6  
+ PQoQ%: |   96.5   |   6.8    |  -50.7   |  162.9   |  -80.3  
+
+***PROS***
+A DEBT-Free Company
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 47.2%
+- Last 3QPROFIT is about 74% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+
+YSALES in Mar-2024 is at 20.3 showing a QoQ_growth of 158.2%. The YNETPROFIT grew by 58.9% to 265.6
+
+Yearly 
+ 31-Mar-2024 #Result
+20.30cr, QoQ 158.20% & YoY 20200.00% SALES;
+19.90cr, QoQ 169.70% & YoY -5075.00% OPERATING PROFIT;
+265.60cr, QoQ 58.90% & YoY -7911.76% NET PROFIT;
+OPM %: 97.80% vs 93.6%
+NPM %: 1306.80% vs 2124.0%
+

@@ -1,0 +1,36 @@
+CODES
+534680	SRGHFL	
+SECTOR : 
+INDUSTRY : 
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   76.6   |   80.4   |   93.5   |  126.6   |  151.5  
+ SQoQ%:  |   5.5    |   4.9    |   16.3   |   35.4   |   19.7  
+ YOPM%:  |   73.9   |   72.4   |   65.6   |   65.3   |   63.2  
+ YNPM%:  |   24.6   |   25.3   |   18.2   |   16.6   |   16.1  
+YPROFIT: |   18.8   |   20.3   |   17.1   |   21.1   |   24.4  
+ PQoQ%:  |   4.8    |   7.9    |  -16.0   |   23.4   |   15.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   36.2   |   33.8   |   36.1   |   38.9   |   42.8  
+ QoQ%:  |   13.9   |   -6.6   |   6.8    |   8.0    |   9.8   
+ QOPM%: |   62.5   |   65.8   |   66.8   |   61.9   |   59.3  
+ QNPM%: |   16.8   |   17.4   |   18.3   |   14.7   |   14.5  
+ QPFT:  |   6.1    |   5.9    |   6.6    |   5.7    |   6.2   
+ PQoQ%: |   14.5   |   -3.8   |   12.6   |  -13.0   |   7.8   
+
+***PROS***
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 19.7% while the Profit QoQ_growth is at 15.9%
+
+Yearly 
+ 31-Mar-2025 #Result
+151.50cr, QoQ 19.70% & YoY 97.78% SALES;
+95.70cr, QoQ 15.80% & YoY 69.08% OPERATING PROFIT;
+24.40cr, QoQ 15.90% & YoY 29.79% NET PROFIT;
+OPM %: 63.20% vs 65.3%
+NPM %: 16.10% vs 16.6%
+

@@ -1,0 +1,27 @@
+CODES
+BOHRAIND	
+SECTOR : Fertilizers
+INDUSTRY : Fertilizers
+LYPD PM 2024
+
+***CONS***
+- NEGATIVE YProfit : -2.6
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  -13.3   |   0.0    |   0.0    |   0.0    |   0.0    |      0.0     
+ SQoQ%:  |  -116.2  |  -100.0  |   nan    |   nan    |   nan    |      nan     
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
+YPROFIT: |  -51.8   |   -2.8   |   -2.6   |   -2.9   |   -2.6   |      -1.7    
+ PQoQ%:  |   28.7   |  -94.7   |   -4.7   |   12.2   |  -12.2   |      65.4    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QPFT:  |   -0.6   |   -0.8   |   -0.6   |   -0.7   |   -0.4  
+ PQoQ%: |   12.5   |   22.2   |  -24.7   |   17.2   |  -36.8  
+
+***PROS***
+- LastYr YProfits Doubled and maintained in Mar2024

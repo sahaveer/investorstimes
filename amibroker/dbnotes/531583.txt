@@ -1,0 +1,14 @@
+CODE	NAME
+531583 
+
+SECTOR : Realty
+INDUSTRY : Construction
+
+***CONS***
+- NEGATIVE YProfit : -0.8
+
+
+
+
+
+***PROS***

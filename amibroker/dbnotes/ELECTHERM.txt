@@ -1,0 +1,32 @@
+CODES
+526608	ELECTHERM	
+SECTOR : Steel
+INDUSTRY : Steel - Medium / Small
+PRODUCT DEMAND
+BestQ Dec 2024
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  3211.9  |  2518.1  |  2831.3  |  3074.0  |  4271.5  |     2954.3   
+ SQoQ%:  |  -20.5   |  -21.6   |   12.4   |   8.6    |   39.0   |      69.2    
+ YOPM%:  |   4.0    |   8.7    |   3.1    |   4.4    |   9.8    |              
+ YNPM%:  |   0.8    |   2.0    |   0.0    |   0.0    |   7.4    |              
+YPROFIT: |   24.1   |   49.5   |  -40.4   |  -11.8   |  317.3   |     256.6    
+ PQoQ%:  |  -83.0   |  105.4   |  -181.6  |  -70.7   | -2784.7  |      80.9    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  1137.3  |  1217.6  |  1059.4  |  813.7   |  1081.2 
+ QoQ%:  |   15.4   |   7.1    |  -13.0   |  -23.2   |   32.9  
+ QOPM%: |   11.1   |   10.7   |   12.5   |   8.3    |   9.9   
+ QNPM%: |   9.4    |   8.5    |   10.3   |   7.3    |   8.2   
+ QPFT:  |  107.1   |  104.0   |  108.8   |   59.5   |   88.3  
+ PQoQ%: |   58.6   |   -2.8   |   4.6    |  -45.4   |   48.5  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 69% YSales
+- Last 3QPROFIT is about 81% of YProfit
+- YProfit Turned POSITIVE this year Mar-2024 : 317.3
+- LastYr YProfits Doubled and maintained in Mar2024

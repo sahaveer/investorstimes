@@ -1,0 +1,37 @@
+CODES
+533098	NHPC	
+SECTOR : Power Generation & Distribution
+INDUSTRY : Power Generation And Supply
+EXPANSION 2024
+EXPANSION 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  9647.9  |  9144.2  | 10607.4  |  9632.2  | 10379.9 
+ SQoQ%:  |   -3.6   |   -5.2   |   16.0   |   -9.2   |   7.8   
+ YOPM%:  |   54.7   |   43.9   |   58.3   |   49.9   |   53.2  
+ YNPM%:  |   33.9   |   38.5   |   36.8   |   37.6   |   29.0  
+YPROFIT: |  3271.8  |  3523.6  |  3903.3  |  3624.4  |  3006.7 
+ PQoQ%:  |   13.4   |   7.7    |   10.8   |   -7.1   |  -17.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  1886.9  |  2694.2  |  3051.9  |  2286.8  |  2347.0 
+ QoQ%:  |   -8.2   |   42.8   |   13.3   |  -25.1   |   2.6   
+ QOPM%: |   61.0   |   59.7   |   58.9   |   44.7   |   46.5  
+ QNPM%: |   28.8   |   38.2   |   29.5   |   10.1   |   36.4  
+ QPFT:  |  543.9   |  1028.6  |  900.0   |  231.2   |  853.6  
+ PQoQ%: |   11.7   |   89.1   |  -12.5   |  -74.3   |  269.2  
+
+***PROS***
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
+
+
+Yearly 
+ 31-Mar-2025 #Result
+10379.90cr, QoQ 7.80% & YoY 7.59% SALES;
+5519.90cr, QoQ 14.80% & YoY 4.61% OPERATING PROFIT;
+3006.70cr, QoQ -17.00% & YoY -8.10% NET PROFIT;
+OPM %: 53.20% vs 49.9%
+NPM %: 29.00% vs 37.6%
+

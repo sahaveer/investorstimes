@@ -1,0 +1,39 @@
+CODES
+532234	NATIONALUM	
+SECTOR : Non Ferrous Metals
+INDUSTRY : Aluminium and Aluminium Products
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  8955.8  | 14214.6  | 14256.8  | 13149.2  | 16787.6 
+ SQoQ%:  |   5.7    |   58.7   |   0.3    |   -7.8   |   27.7  
+ YOPM%:  |   19.9   |   32.0   |   16.4   |   21.3   |   44.7  
+ YNPM%:  |   14.5   |   20.8   |   10.1   |   15.1   |   31.4  
+YPROFIT: |  1299.4  |  2951.4  |  1434.7  |  1988.5  |  5267.9 
+ PQoQ%:  |  853.8   |  127.1   |  -51.4   |   38.6   |  164.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  3579.0  |  2856.1  |  4001.5  |  4662.2  |  5267.8 
+ QoQ%:  |   6.9    |  -20.2   |   40.1   |   16.5   |   13.0  
+ QOPM%: |   30.4   |   32.3   |   38.3   |   49.6   |   52.1  
+ QNPM%: |   27.8   |   20.6   |   26.1   |   33.6   |   39.2  
+ QPFT:  |  996.7   |  588.4   |  1046.0  |  1566.3  |  2067.2 
+ PQoQ%: |  111.8   |  -41.0   |   77.8   |   49.7   |   32.0  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+YSALES in Mar-2025 is at 16787.6 showing a QoQ_growth of 27.7%. The YNETPROFIT grew by 164.9% to 5267.9
+
+Yearly 
+ 31-Mar-2025 #Result
+16787.60cr, QoQ 27.70% & YoY 87.45% SALES;
+7507.90cr, QoQ 168.00% & YoY 321.34% OPERATING PROFIT;
+5267.90cr, QoQ 164.90% & YoY 305.41% NET PROFIT;
+OPM %: 44.70% vs 21.3%
+NPM %: 31.40% vs 15.1%
+

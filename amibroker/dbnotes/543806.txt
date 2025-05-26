@@ -1,0 +1,23 @@
+CODE	NAME
+543806 
+
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+YSD YPD 2022
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+- YProfits and YSales DOUBLED in Mar2022
+
+Yearly 
+ 31-Mar-2024 #Result
+28.50cr, QoQ 0.70% & YoY 243.37% SALES;
+3.20cr, QoQ 25.80% & YoY 700.00% OPERATING PROFIT;
+1.90cr, QoQ 10.40% & YoY 1800.00% NET PROFIT;
+OPM %: 11.10% vs 8.9%
+NPM %: 6.70% vs 6.1%
+

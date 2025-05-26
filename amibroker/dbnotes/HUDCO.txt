@@ -1,0 +1,36 @@
+CODES
+540530	HUDCO	
+SECTOR : Finance
+INDUSTRY : Finance - Housing
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  7267.2  |  6986.4  |  7082.0  |  7828.9  | 10311.3 
+ SQoQ%:  |   -4.0   |   -3.9   |   1.4    |   10.5   |   31.7  
+ YOPM%:  |   96.2   |   98.4   |   96.1   |   98.3   |  100.4  
+ YNPM%:  |   21.7   |   24.6   |   24.0   |   27.0   |   26.3  
+YPROFIT: |  1578.5  |  1716.4  |  1701.4  |  2116.7  |  2709.1 
+ PQoQ%:  |   -7.6   |   8.7    |   -0.9   |   24.4   |   28.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  2065.2  |  2188.4  |  2517.7  |  2760.2  |  2845.0 
+ QoQ%:  |   2.6    |   6.0    |   15.1   |   9.6    |   3.1   
+ QOPM%: |   99.6   |   97.9   |  105.5   |   97.3   |  101.0  
+ QNPM%: |   33.9   |   25.5   |   27.4   |   26.6   |   25.6  
+ QPFT:  |  700.2   |  557.8   |  688.6   |  735.0   |  727.7  
+ PQoQ%: |   34.8   |  -20.3   |   23.5   |   6.7    |   -1.0  
+
+***PROS***
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+YSALES in Mar-2025 is at 10311.3 showing a QoQ_growth of 31.7%. The YNETPROFIT grew by 28.0% to 2709.1
+
+Yearly 
+ 31-Mar-2025 #Result
+10311.30cr, QoQ 31.70% & YoY 41.89% SALES;
+10357.70cr, QoQ 34.60% & YoY 48.18% OPERATING PROFIT;
+2709.10cr, QoQ 28.00% & YoY 71.62% NET PROFIT;
+OPM %: 100.40% vs 98.3%
+NPM %: 26.30% vs 27.0%
+

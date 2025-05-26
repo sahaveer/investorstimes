@@ -1,0 +1,38 @@
+CODES
+532927	ECLERX	
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Medium / Small
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1564.5  |  2160.4  |  2647.9  |  2925.5  |  3365.9 
+ SQoQ%:  |   8.8    |   38.1   |   22.6   |   10.5   |   15.1  
+ YOPM%:  |   28.7   |   30.6   |   27.3   |   26.5   |   24.0  
+ YNPM%:  |   18.1   |   19.3   |   18.5   |   17.5   |   16.1  
+YPROFIT: |  282.6   |  417.4   |  488.8   |  511.5   |  541.1  
+ PQoQ%:  |   35.2   |   47.7   |   17.1   |   4.6    |   5.8   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  766.5   |  781.9   |  831.8   |  853.8   |  898.3  
+ QoQ%:  |   1.8    |   2.0    |   6.4    |   2.6    |   5.2   
+ QOPM%: |   25.5   |   21.3   |   25.9   |   24.3   |   24.3  
+ QNPM%: |   17.0   |   14.3   |   16.9   |   16.1   |   16.9  
+ QPFT:  |  130.5   |  111.6   |  140.2   |  137.1   |  152.2  
+ PQoQ%: |   -5.8   |  -14.5   |   25.7   |   -2.3   |   11.0  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 20.8%
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+3365.90cr, QoQ 15.10% & YoY 115.14% SALES;
+808.10cr, QoQ 4.20% & YoY 79.78% OPERATING PROFIT;
+541.10cr, QoQ 5.80% & YoY 91.47% NET PROFIT;
+OPM %: 24.00% vs 26.5%
+NPM %: 16.10% vs 17.5%
+

@@ -1,0 +1,32 @@
+CODE	NAME
+539132 
+
+SECTOR : FMCG
+INDUSTRY : Food - Processing - Indian
+PRODUCT DEMAND
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+- NEGATIVE YProfit : -33.0
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.0    |   0.0    |   0.0    |   7.7    |   16.5   |      53.7    
+ SQoQ%:  |   nan    |   nan    |   nan    |   inf    |  115.4   |     325.5    
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
+YPROFIT: |   -0.1   |   -0.2   |   -0.2   |   -8.9   |  -33.0   |     -14.3    
+ PQoQ%:  | -1400.0  |   23.1   |   25.0   |  4370.0  |  269.7   |      43.3    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   5.9    |   2.7    |   0.7    |   4.2    |   48.8  
+ QoQ%:  |   56.1   |  -54.1   |  -73.5   |  477.8   |  1072.1 
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QPFT:  |   -7.9   |  -11.2   |   -4.6   |   -6.0   |   -3.7  
+ PQoQ%: |   8.8    |   41.0   |  -58.4   |   29.0   |  -38.0  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 325% YSales
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 115.4% while the Profit QoQ_growth is much better than Sales itself at 269.7%

@@ -1,0 +1,39 @@
+CODES
+532808	PGIL	
+SECTOR : Readymade Garments/ Apparells
+INDUSTRY : Textiles - Products
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1490.9  |  2713.5  |  3158.4  |  3436.2  |  4506.3 
+ SQoQ%:  |  -11.5   |   82.0   |   16.4   |   8.8    |   31.1  
+ YOPM%:  |   4.5    |   5.9    |   8.7    |   9.5    |   9.0   
+ YNPM%:  |   1.2    |   2.5    |   4.7    |   5.1    |   5.5   
+YPROFIT: |   17.3   |   68.2   |  149.2   |  174.8   |  248.3  
+ PQoQ%:  |  -19.9   |  294.6   |  119.0   |   17.1   |   42.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  877.4   |  1052.8  |  1201.9  |  1022.5  |  1229.0 
+ QoQ%:  |   24.6   |   20.0   |   14.2   |  -14.9   |   20.2  
+ QOPM%: |   9.3    |   9.3    |   8.0    |   8.9    |   9.5   
+ QNPM%: |   5.9    |   6.2    |   4.9    |   5.5    |   5.6   
+ QPFT:  |   51.4   |   65.4   |   58.5   |   56.3   |   68.2  
+ PQoQ%: |   43.6   |   27.3   |  -10.5   |   -3.8   |   21.3  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 15.7%
+
+YSALES in Mar-2025 is at 4506.3 showing a QoQ_growth of 31.1%. The YNETPROFIT grew by 42.0% to 248.3
+
+Yearly 
+ 31-Mar-2025 #Result
+4506.30cr, QoQ 31.10% & YoY 202.25% SALES;
+403.60cr, QoQ 24.20% & YoY 504.19% OPERATING PROFIT;
+248.30cr, QoQ 42.00% & YoY 1335.26% NET PROFIT;
+OPM %: 9.00% vs 9.5%
+NPM %: 5.50% vs 5.1%
+

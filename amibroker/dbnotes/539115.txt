@@ -1,0 +1,19 @@
+CODE	NAME
+539115 
+
+SECTOR : Textiles
+INDUSTRY : Textiles - Products
+YSD YPD 2024
+
+***CONS***
+- NEGATIVE YProfit : -3.2
+
+
+
+
+
+***PROS***
+- Last 3QSALES is about 182% YSales
+- YProfits and YSales DOUBLED in Mar2024
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2024, Sales have increased by 120.9% while the Profit QoQ_growth is at 69.3%

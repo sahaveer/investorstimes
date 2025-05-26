@@ -1,0 +1,36 @@
+CODES
+530879	CIFL	
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  318.4   |  532.1   |  655.5   |  683.7   |  614.5  
+ SQoQ%:  |   77.6   |   67.1   |   23.2   |   4.3    |  -10.1  
+ YOPM%:  |   16.9   |   10.6   |   3.4    |   17.8   |   20.4  
+ YNPM%:  |   3.0    |   0.0    |   0.0    |   1.7    |   0.3   
+YPROFIT: |   9.6    |   -2.8   |  -41.6   |   11.6   |   1.6   
+ PQoQ%:  |  -44.3   |  -128.9  |  1400.7  |  -128.0  |  -86.7  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  167.4   |  159.4   |  165.9   |  152.9   |  139.3  
+ QoQ%:  |   1.4    |   -4.8   |   4.1    |   -7.8   |   -8.9  
+ QOPM%: |   16.4   |   15.9   |   20.8   |   22.6   |   22.2  
+ QNPM%: |   0.5    |   0.0    |   1.8    |   0.5    |   0.0   
+ QPFT:  |   0.8    |   -1.6   |   3.1    |   0.7    |   -0.6  
+ PQoQ%: |  182.8   |  -296.3  |  -290.1  |  -77.5   |  -185.5 
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+614.50cr, QoQ -10.10% & YoY 93.00% SALES;
+125.60cr, QoQ 2.90% & YoY 133.89% OPERATING PROFIT;
+1.60cr, QoQ -86.70% & YoY -83.33% NET PROFIT;
+OPM %: 20.40% vs 17.8%
+NPM %: 0.30% vs 1.7%
+

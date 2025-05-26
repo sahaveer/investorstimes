@@ -1,0 +1,21 @@
+CODES
+KCK	
+SECTOR : FMCG
+INDUSTRY : Food - Processing - Indian
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2024 #Result
+74.90cr, QoQ -19.40% & YoY 45.44% SALES;
+5.30cr, QoQ 39.30% & YoY 960.00% OPERATING PROFIT;
+1.60cr, QoQ 22.10% & YoY 433.33% NET PROFIT;
+OPM %: 7.10% vs 4.1%
+NPM %: 2.10% vs 1.4%
+

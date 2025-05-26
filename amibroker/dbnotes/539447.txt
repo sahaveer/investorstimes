@@ -1,0 +1,36 @@
+CODES
+539447	BEARDSELL	
+SECTOR : Plastic products
+INDUSTRY : Plastics Products
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  132.2   |  186.1   |  232.0   |  245.0   |  268.4  
+ SQoQ%:  |  -17.7   |   40.7   |   24.6   |   5.6    |   9.6   
+ YOPM%:  |   8.5    |   6.8    |   7.8    |   8.6    |   8.5   
+ YNPM%:  |   0.0    |   1.5    |   3.7    |   3.4    |   3.7   
+YPROFIT: |   -0.4   |   2.8    |   8.5    |   8.2    |   9.8   
+ PQoQ%:  |  -148.8  |  -802.5  |  202.1   |   -3.1   |   19.4  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   67.9   |   59.6   |   68.5   |   64.8   |   75.4  
+ QoQ%:  |   13.6   |  -12.1   |   14.8   |   -5.4   |   16.4  
+ QOPM%: |   6.5    |   9.5    |   9.5    |   9.0    |   6.3   
+ QNPM%: |   1.4    |   3.8    |   4.6    |   3.9    |   2.5   
+ QPFT:  |   1.0    |   2.3    |   3.2    |   2.5    |   1.9   
+ PQoQ%: |  -47.5   |  140.0   |   38.6   |  -20.3   |  -25.8  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+268.40cr, QoQ 9.60% & YoY 103.03% SALES;
+22.70cr, QoQ 7.90% & YoY 102.68% OPERATING PROFIT;
+9.80cr, QoQ 19.40% & YoY -2550.00% NET PROFIT;
+OPM %: 8.50% vs 8.6%
+NPM %: 3.70% vs 3.4%
+

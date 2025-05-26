@@ -1,0 +1,13 @@
+CODE	NAME
+512099 
+
+SECTOR : Trading
+INDUSTRY : Trading
+
+***CONS***
+
+
+
+
+
+***PROS***

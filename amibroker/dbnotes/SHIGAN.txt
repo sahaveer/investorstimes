@@ -1,0 +1,22 @@
+CODES
+SHIGAN	
+SECTOR : Auto Ancillaries
+INDUSTRY : Auto Ancillaries
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+YSALES in Mar-2025 is at 210.6 showing a QoQ_growth of 38.6%. The YNETPROFIT grew by 57.8% to 8.5
+
+Yearly 
+ 31-Mar-2025 #Result
+210.60cr, QoQ 38.60% & YoY 120.06% SALES;
+20.00cr, QoQ 55.10% & YoY 198.51% OPERATING PROFIT;
+8.50cr, QoQ 57.80% & YoY 129.73% NET PROFIT;
+OPM %: 9.50% vs 8.5%
+NPM %: 4.00% vs 3.5%
+

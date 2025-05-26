@@ -1,0 +1,36 @@
+CODES
+504741	INDIANHUME	
+SECTOR : 
+INDUSTRY : 
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1241.4  |  1520.4  |  1542.9  |  1388.6  |  1491.2 
+ SQoQ%:  |  -23.5   |   22.5   |   1.5    |  -10.0   |   7.4   
+ YOPM%:  |   10.1   |   10.3   |   9.3    |   13.1   |   12.5  
+ YNPM%:  |   3.4    |   3.8    |   3.6    |   5.6    |   37.4  
+YPROFIT: |   42.0   |   57.8   |   55.7   |   77.6   |  558.0  
+ PQoQ%:  |  -42.8   |   37.6   |   -3.6   |   39.4   |  618.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  404.3   |  364.1   |  354.4   |  380.6   |  392.1  
+ QoQ%:  |   26.9   |   -9.9   |   -2.7   |   7.4    |   3.0   
+ QOPM%: |   18.3   |   16.0   |   9.8    |   9.8    |   14.3  
+ QNPM%: |   10.8   |   8.6    |   3.7    |   3.8    |  127.3  
+ QPFT:  |   43.7   |   31.2   |   13.3   |   14.4   |  499.3  
+ PQoQ%: |  188.4   |  -28.6   |  -57.4   |   8.4    |  3374.4 
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+Yearly 
+ 31-Mar-2025 #Result
+1491.20cr, QoQ 7.40% & YoY 20.12% SALES;
+186.20cr, QoQ 2.10% & YoY 48.60% OPERATING PROFIT;
+558.00cr, QoQ 618.90% & YoY 1228.57% NET PROFIT;
+OPM %: 12.50% vs 13.1%
+NPM %: 37.40% vs 5.6%
+

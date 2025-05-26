@@ -1,0 +1,21 @@
+CODES
+ASHALOG	
+SECTOR : Logistics
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2024 #Result
+145.10cr, QoQ -15.40% SALES;
+14.90cr, QoQ 4.30% OPERATING PROFIT;
+7.00cr, QoQ -3.20% NET PROFIT;
+OPM %: 10.30% vs 8.3%
+NPM %: 4.90% vs 4.2%
+

@@ -1,0 +1,24 @@
+CODE	NAME
+544002 
+
+SECTOR : Trading
+INDUSTRY : Trading
+LYPD PM 2025
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- LastYr YProfits Doubled and maintained in Mar2025
+
+Yearly 
+ 31-Mar-2025 #Result
+287.50cr, QoQ 44.90% & YoY 97.05% SALES;
+1.20cr, QoQ 18.80% & YoY -7.69% OPERATING PROFIT;
+0.80cr, QoQ 8.60% & YoY -900.00% NET PROFIT;
+OPM %: 0.40% vs 0.5%
+NPM %: 0.30% vs 0.4%
+

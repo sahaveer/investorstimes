@@ -1,0 +1,11 @@
+CODE	NAME
+544347 
+
+SECTOR : Dry cells
+INDUSTRY : Dry Cells
+
+***CONS***
+
+
+
+***PROS***

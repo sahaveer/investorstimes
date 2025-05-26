@@ -1,0 +1,22 @@
+CODES
+544386	SPECTRUM	
+SECTOR : Capital Goods - Electrical Equipment
+INDUSTRY : Electric Equipment
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+YSALES in Mar-2024 is at 322.1 showing a QoQ_growth of 27.1%. The YNETPROFIT grew by 131.1% to 19.5
+
+Yearly 
+ 31-Mar-2024 #Result
+322.10cr, QoQ 27.10% & YoY 128.12% SALES;
+38.30cr, QoQ 65.90% & YoY 160.54% OPERATING PROFIT;
+19.50cr, QoQ 131.10% & YoY 314.89% NET PROFIT;
+OPM %: 11.90% vs 9.1%
+NPM %: 6.00% vs 3.3%
+

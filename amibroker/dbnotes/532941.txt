@@ -1,0 +1,40 @@
+CODES
+532941	CORDSCABLE	
+SECTOR : 
+INDUSTRY : 
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  420.9   |  323.4   |  438.0   |  526.2   |  627.7   |     561.4    
+ SQoQ%:  |   1.0    |  -23.2   |   35.4   |   20.2   |   19.3   |      89.4    
+ YOPM%:  |   9.9    |   10.7   |   8.7    |   7.5    |   6.6    |              
+ YNPM%:  |   2.5    |   1.3    |   1.5    |   1.4    |   1.6    |              
+YPROFIT: |   10.7   |   4.4    |   6.4    |   7.2    |   10.1   |      10.2    
+ PQoQ%:  |   45.2   |  -59.1   |   46.1   |   13.3   |   39.5   |     101.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  167.9   |  179.2   |  173.0   |  183.0   |  205.4  
+ QoQ%:  |   15.6   |   6.7    |   -3.5   |   5.8    |   12.3  
+ QOPM%: |   6.2    |   6.7    |   6.0    |   6.2    |   6.3   
+ QNPM%: |   1.8    |   1.8    |   1.7    |   1.4    |   2.3   
+ QPFT:  |   3.0    |   3.2    |   2.9    |   2.6    |   4.7   
+ PQoQ%: |   44.6   |   9.5    |  -10.8   |   -8.7   |   77.9  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 89% YSales
+- Last 3QPROFIT is about 101% of YProfit
+
+YSALES in Mar-2024 is at 627.7 showing a QoQ_growth of 19.3%. The YNETPROFIT grew by 39.5% to 10.1
+
+Yearly 
+ 31-Mar-2024 #Result
+627.70cr, QoQ 19.30% & YoY 49.13% SALES;
+41.30cr, QoQ 4.50% & YoY -1.20% OPERATING PROFIT;
+10.10cr, QoQ 39.50% & YoY -5.61% NET PROFIT;
+OPM %: 6.60% vs 7.5%
+NPM %: 1.60% vs 1.4%
+

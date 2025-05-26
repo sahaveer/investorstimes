@@ -1,0 +1,36 @@
+CODES
+500109	MRPL	
+SECTOR : Refineries
+INDUSTRY : Refineries
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  | 31959.0  | 69757.8  | 109026.0 | 90406.7  | 94681.6 
+ SQoQ%:  |  -36.4   |  118.3   |   56.3   |  -17.1   |   4.7   
+ YOPM%:  |   2.2    |   7.1    |   6.0    |   8.7    |   2.4   
+ YNPM%:  |   0.0    |   4.2    |   2.4    |   4.0    |   0.1   
+YPROFIT: |  -765.0  |  2958.2  |  2655.4  |  3597.1  |   56.2  
+ PQoQ%:  |  -77.2   |  -486.7  |  -10.2   |   35.5   |  -98.4  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: | 25328.7  | 23247.0  | 24967.9  | 21870.9  | 24595.9 
+ QoQ%:  |   2.7    |   -8.2   |   7.4    |  -12.4   |   12.5  
+ QOPM%: |   9.2    |   2.6    |   0.0    |   4.7    |   4.6   
+ QNPM%: |   4.5    |   0.3    |   0.0    |   1.4    |   1.5   
+ QPFT:  |  1138.5  |   73.2   |  -696.9  |  309.3   |  370.6  
+ PQoQ%: |  190.4   |  -93.6   | -1051.8  |  -144.4  |   19.8  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+94681.60cr, QoQ 4.70% & YoY 196.26% SALES;
+2292.80cr, QoQ -70.80% & YoY 224.07% OPERATING PROFIT;
+56.20cr, QoQ -98.40% & YoY -107.35% NET PROFIT;
+OPM %: 2.40% vs 8.7%
+NPM %: 0.10% vs 4.0%
+

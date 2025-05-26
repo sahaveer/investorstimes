@@ -1,0 +1,40 @@
+CODES
+532719	BLKASHYAP	
+SECTOR : Construction
+INDUSTRY : Construction
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  819.7   |  762.3   |  1157.5  |  1110.0  |  1244.5  |     859.5    
+ SQoQ%:  |   6.6    |   -7.0   |   51.9   |   -4.1   |   12.1   |      69.1    
+ YOPM%:  |   2.6    |   8.3    |   7.8    |   8.8    |   8.9    |              
+ YNPM%:  |   0.0    |   0.0    |   3.8    |   2.0    |   4.2    |              
+YPROFIT: |  -62.8   |  -58.4   |   44.0   |   22.1   |   52.5   |      30.7    
+ PQoQ%:  |  903.0   |   -7.0   |  -175.2  |  -49.6   |  137.3   |      58.5    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  324.0   |  341.2   |  350.3   |  267.3   |  241.9  
+ QoQ%:  |   -0.8   |   5.3    |   2.7    |  -23.7   |   -9.5  
+ QOPM%: |   7.3    |   9.7    |   9.1    |   7.5    |   2.6   
+ QNPM%: |   2.1    |   6.9    |   5.8    |   3.5    |   0.5   
+ QPFT:  |   6.9    |   23.7   |   20.2   |   9.4    |   1.1   
+ PQoQ%: |  -42.4   |  242.4   |  -14.4   |  -53.7   |  -88.1  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 69% YSales
+- Last 3QPROFIT is about 58% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2024 #Result
+1244.50cr, QoQ 12.10% & YoY 51.82% SALES;
+110.40cr, QoQ 12.80% & YoY 423.22% OPERATING PROFIT;
+52.50cr, QoQ 137.30% & YoY -183.60% NET PROFIT;
+OPM %: 8.90% vs 8.8%
+NPM %: 4.20% vs 2.0%
+

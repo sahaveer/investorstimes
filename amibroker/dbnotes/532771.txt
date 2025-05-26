@@ -1,0 +1,39 @@
+CODES
+532771	JHS	
+SECTOR : FMCG
+INDUSTRY : Personal Care - Indian
+PRODUCT DEMAND
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  139.1   |  100.8   |   86.2   |   84.8   |   70.8   |      66.9    
+ SQoQ%:  |   12.2   |  -27.6   |  -14.4   |   -1.7   |  -16.5   |      94.5    
+ YOPM%:  |   1.2    |   2.0    |   0.0    |   0.0    |   0.0    |              
+ YNPM%:  |   0.0    |   1.2    |   0.0    |   4.8    |   21.8   |              
+YPROFIT: |   -2.0   |   1.2    |   -4.0   |   4.0    |   15.5   |     -12.7    
+ PQoQ%:  |  191.2   |  -160.6  |  -437.5  |  -200.0  |  281.7   |     -81.9    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   14.3   |   21.7   |   24.5   |   19.7   |   22.7  
+ QoQ%:  |  -24.5   |   51.5   |   13.0   |  -19.6   |   15.1  
+ QOPM%: |   0.0    |   3.9    |   8.0    |   0.0    |   1.1   
+ QNPM%: |   0.1    |   0.0    |   0.0    |   0.0    |   0.0   
+ QPFT:  |   0.0    |   -0.8   |   -0.6   |  -10.3   |   -1.8  
+ PQoQ%: |  -101.4  | -7600.0  |  -16.0   |  1538.1  |  -82.2  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 94% YSales
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2024
+
+Yearly 
+ 31-Mar-2024 #Result
+70.80cr, QoQ -16.50% & YoY -49.10% SALES;
+-0.90cr, QoQ -89.70% & YoY -152.94% OPERATING PROFIT;
+15.50cr, QoQ 281.70% & YoY -875.00% NET PROFIT;
+OPM %: 0.00% vs 0.0%
+NPM %: 21.80% vs 4.8%
+

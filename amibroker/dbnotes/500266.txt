@@ -1,0 +1,38 @@
+CODES
+500266	MAHSCOOTER	
+SECTOR : 
+INDUSTRY : 
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   30.4   |  194.1   |  216.4   |  222.5   |  183.3  
+ SQoQ%:  |  -85.6   |  538.2   |   11.5   |   2.8    |  -17.6  
+ YOPM%:  |   35.2   |   89.6   |   89.5   |   91.3   |   93.7  
+ YNPM%:  |   29.0   |   73.5   |   90.3   |   89.6   |  116.9  
+YPROFIT: |   8.8    |  142.7   |  195.3   |  199.3   |  214.4  
+ PQoQ%:  |  -95.1   |  1519.9  |   36.8   |   2.1    |   7.5   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   5.2    |   7.7    |  163.2   |   5.8    |   6.6   
+ QoQ%:  |  -18.7   |   49.0   |  2013.6  |  -96.5   |   14.9  
+ QOPM%: |   13.3   |   25.6   |   98.6   |   70.6   |   71.4  
+ QNPM%: |   1.9    |  107.0   |   92.6   |   57.0   |  776.4  
+ QPFT:  |   0.1    |   8.3    |  151.2   |   3.3    |   51.6  
+ PQoQ%: |  -90.0   |  8160.0  |  1730.0  |  -97.8   |  1464.5 
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+183.30cr, QoQ -17.60% & YoY 502.96% SALES;
+171.80cr, QoQ -15.50% & YoY 1505.61% OPERATING PROFIT;
+214.40cr, QoQ 7.50% & YoY 2336.36% NET PROFIT;
+OPM %: 93.70% vs 91.3%
+NPM %: 116.90% vs 89.6%
+

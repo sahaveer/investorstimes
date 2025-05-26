@@ -1,0 +1,38 @@
+CODES
+503310	SWANENERGY	
+SECTOR : Diversified
+INDUSTRY : Diversified - Medium / Small
+PRODUCT DEMAND
+BestQ Dec 2024
+BestQ Dec 2024
+YSD YPD 2024
+YSD YPD 2023
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  340.8   |  320.5   |  487.2   |  1438.1  |  5017.2  |     4082.1   
+ SQoQ%:  |  -61.8   |   -6.0   |   52.0   |  195.2   |  248.9   |      81.4    
+ YOPM%:  |   15.3   |   21.2   |   14.1   |   16.1   |   17.3   |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   6.0    |              
+YPROFIT: |   -4.8   |  -68.6   |  -157.9  |  -35.9   |  301.2   |     773.0    
+ PQoQ%:  |   -9.0   |  1320.5  |  130.1   |  -77.3   |  -938.9  |     256.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  1591.7  |  1397.9  |  1141.7  |  1032.2  |  1908.2 
+ QoQ%:  |   30.1   |  -12.2   |  -18.3   |   -9.6   |   84.9  
+ QOPM%: |   16.1   |   8.4    |   33.4   |   11.6   |   0.0   
+ QNPM%: |   7.2    |   1.9    |   12.2   |   5.0    |   30.5  
+ QPFT:  |  115.1   |   26.6   |  138.9   |   51.3   |  582.8  
+ PQoQ%: |   36.1   |  -76.9   |  422.5   |  -63.1   |  1036.5 
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 81% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 257% of YProfit
+- YProfit Turned POSITIVE this year Mar-2024 : 301.2
+- YProfits and YSales DOUBLED in Mar2024
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2024

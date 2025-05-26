@@ -1,0 +1,42 @@
+CODE	NAME
+531512 
+
+SECTOR : Realty
+INDUSTRY : Construction
+EXPANSION 2023
+EXPANSION 2024
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   11.3   |   9.9    |   11.3   |   11.3   |   9.1    |      10.1    
+ SQoQ%:  |  -44.8   |  -12.7   |   15.0   |   -0.4   |  -19.7   |     111.0    
+ YOPM%:  |   6.5    |   12.1   |   7.8    |   13.1   |   19.6   |              
+ YNPM%:  |   3.9    |   7.3    |   5.2    |   7.7    |   2.0    |              
+YPROFIT: |   0.4    |   0.7    |   0.6    |   0.9    |   0.2    |      1.6     
+ PQoQ%:  |  -29.0   |   63.6   |  -18.1   |   47.5   |  -79.3   |     800.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   1.2    |   5.0    |   3.3    |   3.1    |   3.7   
+ QoQ%:  |  -37.2   |  304.0   |  -35.4   |   -5.8   |   21.8  
+ QOPM%: |   50.4   |   0.2    |   32.8   |   35.2   |   26.5  
+ QNPM%: |   14.4   |   0.0    |   17.2   |   17.6   |   12.6  
+ QPFT:  |   0.2    |   -0.7   |   0.6    |   0.5    |   0.5   
+ PQoQ%: |   5.9    |  -477.8  |  -182.4  |   -3.6   |  -13.0  
+
+***PROS***
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 111% YSales
+- Last 3QPROFIT is about 800% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+9.10cr, QoQ -19.70% & YoY -19.47% SALES;
+1.80cr, QoQ 20.30% & YoY 157.14% OPERATING PROFIT;
+0.20cr, QoQ -79.30% & YoY -50.00% NET PROFIT;
+OPM %: 19.60% vs 13.1%
+NPM %: 2.00% vs 7.7%
+

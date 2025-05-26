@@ -1,0 +1,12 @@
+CODES
+505790	SCHAEFFLER	
+SECTOR : Bearings
+INDUSTRY : Bearings
+
+***CONS***
+
+
+
+
+
+***PROS***

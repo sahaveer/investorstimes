@@ -1,0 +1,40 @@
+CODES
+532878	ALPA	
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   85.4   |   97.3   |  112.0   |   92.8   |  108.5   |      72.5    
+ SQoQ%:  |   10.9   |   14.0   |   15.1   |  -17.1   |   16.9   |      66.8    
+ YOPM%:  |   6.9    |   7.9    |   9.5    |   8.7    |   7.9    |              
+ YNPM%:  |   2.2    |   7.5    |   12.6   |   13.6   |   15.5   |              
+YPROFIT: |   1.8    |   7.2    |   14.1   |   12.6   |   16.8   |      21.7    
+ PQoQ%:  |   83.2   |  291.9   |   94.3   |  -10.7   |   33.4   |     129.2    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   27.3   |   23.6   |   21.4   |   24.9   |   26.2  
+ QoQ%:  |  -15.7   |  -13.5   |   -9.2   |   16.3   |   4.9   
+ QOPM%: |   8.9    |   14.9   |   2.5    |   13.3   |   2.8   
+ QNPM%: |   16.5   |   15.0   |   23.8   |   30.8   |   34.0  
+ QPFT:  |   4.5    |   3.6    |   5.1    |   7.7    |   8.9   
+ PQoQ%: |  -22.1   |  -21.3   |   43.7   |   50.8   |   15.7  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 67% YSales
+- Last 3QPROFIT is about 129% of YProfit
+
+YSALES in Mar-2024 is at 108.5 showing a QoQ_growth of 16.9%. The YNETPROFIT grew by 33.4% to 16.8
+
+Yearly 
+ 31-Mar-2024 #Result
+108.50cr, QoQ 16.90% & YoY 27.05% SALES;
+8.60cr, QoQ 6.60% & YoY 48.28% OPERATING PROFIT;
+16.80cr, QoQ 33.40% & YoY 833.33% NET PROFIT;
+OPM %: 7.90% vs 8.7%
+NPM %: 15.50% vs 13.6%
+

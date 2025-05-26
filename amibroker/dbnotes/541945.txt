@@ -1,0 +1,21 @@
+CODE	NAME
+541945 
+
+SECTOR : Capital Goods-Non Electrical Equipment
+INDUSTRY : Engineering
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2025 #Result
+10.80cr, QoQ -34.80% & YoY -62.24% SALES;
+2.20cr, QoQ 68.50% & YoY 22.22% OPERATING PROFIT;
+1.00cr, QoQ 630.80% & YoY 900.00% NET PROFIT;
+OPM %: 20.30% vs 7.9%
+NPM %: 8.80% vs 0.8%
+

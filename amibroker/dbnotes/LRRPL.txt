@@ -1,0 +1,20 @@
+CODES
+LRRPL	
+SECTOR : Plantation & Plantation Products
+INDUSTRY : Miscellaneous
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2024 #Result
+14.80cr, QoQ 68.60% & YoY 208.33% SALES;
+1.70cr, QoQ 51.30% & YoY 54.55% OPERATING PROFIT;
+0.40cr, QoQ -55.40% & YoY 0.00% NET PROFIT;
+OPM %: 11.80% vs 13.1%
+NPM %: 2.50% vs 9.5%
+

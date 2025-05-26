@@ -1,0 +1,27 @@
+CODE	NAME
+531307 
+
+SECTOR : Realty
+INDUSTRY : Construction
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 87% YSales
+- Last 3QPROFIT is about 83% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+95.20cr, QoQ -38.40% SALES;
+6.00cr, QoQ -67.10% OPERATING PROFIT;
+5.80cr, QoQ -58.10% NET PROFIT;
+OPM %: 6.30% vs 11.8%
+NPM %: 6.10% vs 8.9%
+

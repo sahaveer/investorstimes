@@ -1,0 +1,33 @@
+CODES
+532895	NAGREEKCAP	
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+PRODUCT DEMAND
+BestQ Dec 2024
+YSD YPD 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   88.4   |   10.9   |   15.6   |   21.8   |   62.9   |      41.2    
+ SQoQ%:  |  -44.5   |  -87.7   |   42.8   |   40.4   |  187.9   |      65.5    
+ YOPM%:  |   0.0    |   55.0   |   81.0   |   43.6   |   52.9   |              
+ YNPM%:  |   0.0    |   1.7    |   23.1   |   0.0    |   21.2   |              
+YPROFIT: |  -64.7   |   0.2    |   3.6    |  -36.4   |   13.3   |      11.0    
+ PQoQ%:  |   33.3   |  -100.3  |  1894.4  | -1114.5  |  -136.6  |      82.7    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   15.2   |   24.4   |   22.1   |   14.8   |   4.3   
+ QoQ%:  |   56.4   |   60.8   |   -9.5   |  -33.1   |  -70.7  
+ QOPM%: |   71.2   |   59.8   |   32.9   |   45.8   |  114.5  
+ QNPM%: |   43.2   |   13.6   |   19.8   |   27.4   |   60.5  
+ QPFT:  |   6.6    |   3.3    |   4.4    |   4.0    |   2.6   
+ PQoQ%: |  208.0   |  -49.5   |   32.0   |   -7.3   |  -35.3  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 66% YSales
+- Last 3QPROFIT is about 83% of YProfit
+- YProfit Turned POSITIVE this year Mar-2024 : 13.3
+- YProfits and YSales DOUBLED in Mar2024
+

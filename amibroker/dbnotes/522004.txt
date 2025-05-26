@@ -1,0 +1,39 @@
+CODE	NAME
+522004 
+
+SECTOR : Capital Goods-Non Electrical Equipment
+INDUSTRY : Engineering
+BestQ Dec 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  195.3   |  152.0   |  196.6   |  253.8   |  286.4   |     221.2    
+ SQoQ%:  |  -21.6   |  -22.2   |   29.3   |   29.1   |   12.8   |      77.2    
+ YOPM%:  |   0.0    |   2.4    |   3.9    |   6.3    |   5.8    |              
+ YNPM%:  |   0.0    |   5.3    |   0.0    |   4.2    |   3.2    |              
+YPROFIT: |  -15.9   |   8.1    |   -4.7   |   10.6   |   9.2    |      7.4     
+ PQoQ%:  |  -223.2  |  -151.2  |  -157.9  |  -324.2  |  -13.3   |      80.4    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   78.0   |   75.1   |   73.4   |   75.3   |   72.5  
+ QoQ%:  |   11.7   |   -3.7   |   -2.3   |   2.5    |   -3.7  
+ QOPM%: |   8.0    |   3.6    |   5.7    |   6.2    |   4.0   
+ QNPM%: |   4.7    |   1.5    |   3.8    |   5.3    |   0.9   
+ QPFT:  |   3.7    |   1.1    |   2.8    |   4.0    |   0.6   
+ PQoQ%: |   52.1   |  -69.3   |  149.6   |   41.5   |  -84.5  
+
+***PROS***
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 80% of YProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2024 #Result
+286.40cr, QoQ 12.80% & YoY 46.65% SALES;
+16.70cr, QoQ 5.00% & YoY -345.59% OPERATING PROFIT;
+9.20cr, QoQ -13.30% & YoY -157.86% NET PROFIT;
+OPM %: 5.80% vs 6.3%
+NPM %: 3.20% vs 4.2%
+

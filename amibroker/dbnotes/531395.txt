@@ -1,0 +1,41 @@
+CODE	NAME
+531395 
+
+SECTOR : Trading
+INDUSTRY : Trading
+YSD YPD 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   0.0    |   0.0    |   0.0    |   0.0    |   14.2  
+ SQoQ%:  |   inf    |  -100.0  |   nan    |   nan    |   inf   
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   14.9  
+ YNPM%:  |   0.0    |   inf    |   inf    |   inf    |   74.5  
+YPROFIT: |   -0.1   |   0.2    |   2.4    |   1.6    |   10.6  
+ PQoQ%:  |   16.7   |  -342.9  |  1288.2  |  -30.1   |  542.4  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.0    |   0.0    |   0.0    |   1.1    |   13.1  
+ QoQ%:  |   nan    |   nan    |   nan    |   inf    |  1081.1 
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   17.5  
+ QNPM%: |   0.0    |   0.0    |   inf    |  751.4   |   17.2  
+ QPFT:  |   -0.4   |   -0.0   |   3.2    |   8.3    |   2.3   
+ PQoQ%: |  -116.1  |  -97.3   | -32500.0 |  157.4   |  -72.9  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.5
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2025
+
+
+YSALES in Mar-2025 is at 14.2 showing a QoQ_growth of inf%. The YNETPROFIT grew by 542.4% to 10.6
+
+Yearly 
+ 31-Mar-2025 #Result
+14.20cr, QoQ inf% & YoY inf% SALES;
+2.10cr, QoQ -229.30% & YoY -2200.00% OPERATING PROFIT;
+10.60cr, QoQ 542.40% & YoY -10700.00% NET PROFIT;
+OPM %: 14.90% vs 0.0%
+NPM %: 74.50% vs inf%
+

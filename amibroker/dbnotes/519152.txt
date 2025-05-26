@@ -1,0 +1,40 @@
+CODE	NAME
+519152 
+
+SECTOR : Trading
+INDUSTRY : Trading
+BestQ Dec 2024
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  591.5   |  340.2   |  547.5   |  930.1   |  999.1   |     895.4    
+ SQoQ%:  |   3.2    |  -42.5   |   61.0   |   69.9   |   7.4    |      89.6    
+ YOPM%:  |   2.4    |   4.6    |   2.3    |   1.0    |   1.4    |              
+ YNPM%:  |   0.0    |   0.2    |   0.4    |   0.7    |   0.8    |              
+YPROFIT: |   -0.8   |   0.8    |   2.2    |   6.2    |   7.5    |      14.5    
+ PQoQ%:  | -1022.2  |  -202.4  |  158.8   |  180.0   |   21.9   |     193.3    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  132.0   |  188.4   |  513.1   |  246.0   |  136.3  
+ QoQ%:  |  -45.9   |   42.8   |  172.3   |  -52.1   |  -44.6  
+ QOPM%: |   0.0    |   0.0    |   8.3    |   3.4    |   0.0   
+ QNPM%: |   1.7    |   0.0    |   5.6    |   1.6    |   0.0   
+ QPFT:  |   2.2    |   -8.7   |   29.0   |   3.8    |  -18.3  
+ PQoQ%: |  -36.9   |  -492.3  |  -432.6  |  -86.8   |  -578.1 
+
+***PROS***
+- Last 3QSALES is about 90% YSales
+- Last 3QPROFIT is about 193% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2024
+
+Yearly 
+ 31-Mar-2024 #Result
+999.10cr, QoQ 7.40% & YoY 68.91% SALES;
+14.10cr, QoQ 57.60% & YoY 1.44% OPERATING PROFIT;
+7.50cr, QoQ 21.90% & YoY -1037.50% NET PROFIT;
+OPM %: 1.40% vs 1.0%
+NPM %: 0.80% vs 0.7%
+

@@ -1,0 +1,21 @@
+CODE	NAME
+543828 
+
+SECTOR : Trading
+INDUSTRY : Trading
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2025 #Result
+502.50cr, QoQ 7.90% & YoY 159.82% SALES;
+38.50cr, QoQ 70.30% & YoY 427.40% OPERATING PROFIT;
+15.90cr, QoQ 39.80% & YoY 488.89% NET PROFIT;
+OPM %: 7.70% vs 4.9%
+NPM %: 3.20% vs 2.4%
+

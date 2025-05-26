@@ -1,0 +1,42 @@
+CODE	NAME
+500028 
+
+SECTOR : Engineering
+INDUSTRY : Engineering
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   37.7   |   33.8   |   32.5   |   47.8   |   61.5   |      52.8    
+ SQoQ%:  |   -7.6   |  -10.4   |   -3.9   |   47.1   |   28.7   |      85.9    
+ YOPM%:  |   9.7    |   10.6   |   9.3    |   10.2   |   12.1   |              
+ YNPM%:  |   6.5    |   20.4   |   24.6   |   10.6   |   10.5   |              
+YPROFIT: |   2.4    |   6.9    |   8.0    |   5.1    |   6.5    |      4.9     
+ PQoQ%:  |  -167.3  |  182.0   |   15.8   |  -36.5   |   27.2   |      75.4    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   11.7   |   19.2   |   19.8   |   17.3   |   15.7  
+ QoQ%:  |  -29.7   |   63.7   |   3.3    |  -12.9   |   -9.3  
+ QOPM%: |   12.5   |   9.3    |   9.3    |   10.1   |   11.9  
+ QNPM%: |   10.4   |   7.9    |   8.1    |   9.0    |   10.7  
+ QPFT:  |   1.2    |   1.5    |   1.6    |   1.6    |   1.7   
+ PQoQ%: |  -27.8   |   24.6   |   5.3    |   -2.5   |   7.1   
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 86% YSales
+- Last 3QPROFIT is about 75% of YProfit
+
+
+YSALES in Mar-2024 is at 61.5 showing a QoQ_growth of 28.7%. The YNETPROFIT grew by 27.2% to 6.5
+
+Yearly 
+ 31-Mar-2024 #Result
+61.50cr, QoQ 28.70% & YoY 63.13% SALES;
+7.50cr, QoQ 53.50% & YoY 102.70% OPERATING PROFIT;
+6.50cr, QoQ 27.20% & YoY 170.83% NET PROFIT;
+OPM %: 12.10% vs 10.2%
+NPM %: 10.50% vs 10.6%
+

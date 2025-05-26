@@ -1,0 +1,41 @@
+CODE	NAME
+530175 
+
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Medium / Small
+BestQ Dec 2010
+
+***CONS***
+ YPNL:   | Mar-2006 | Mar-2007 | Mar-2008 | Mar-2009 | Mar-2010 | QSUM:Dec-2010
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   1.3    |   1.6    |   2.1    |   4.0    |   3.4    |      4.9     
+ SQoQ%:  |   nan    |   21.5   |   32.9   |   88.1   |  -13.4   |     144.1    
+ YOPM%:  |   0.0    |   0.0    |   13.8   |   35.9   |   13.2   |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   29.4   |   7.9    |              
+YPROFIT: |   -0.8   |   -1.3   |   -0.1   |   1.2    |   0.3    |      1.7     
+ PQoQ%:  |   nan    |   75.0   |  -95.5   | -2033.3  |  -76.7   |     566.7    
+ QPNL:  | Dec-2009 | Mar-2010 | Jun-2010 | Sep-2010 | Dec-2010
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.4    |   0.6    |   2.6    |   1.4    |   0.9   
+ QoQ%:  |  -77.1   |   60.5   |  324.6   |  -46.7   |  -37.0  
+ QOPM%: |   0.0    |   0.0    |   59.5   |   30.4   |   5.7   
+ QNPM%: |   0.0    |   0.0    |   58.7   |   18.1   |   3.4   
+ QPFT:  |   -0.4   |   -0.3   |   1.5    |   0.2    |   0.0   
+ PQoQ%: |  -146.9  |  -31.6   |  -684.6  |  -83.6   |  -88.0  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2010 is at 49.2%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.1
+- Last 3QSALES is about 144% YSales
+- Last 3QPROFIT is about 567% of YProfit
+
+
+Yearly 
+ 31-Mar-2010 #Result
+3.40cr, QoQ -13.40% & YoY 161.54% SALES;
+0.50cr, QoQ -68.30% & YoY -171.43% OPERATING PROFIT;
+0.30cr, QoQ -76.70% & YoY -137.50% NET PROFIT;
+OPM %: 13.20% vs 35.9%
+NPM %: 7.90% vs 29.4%
+

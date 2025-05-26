@@ -1,0 +1,37 @@
+CODES
+539150	PNCINFRA	
+SECTOR : Infrastructure Developers & Operators
+INDUSTRY : Construction
+BestQ Dec 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  5602.6  |  5787.6  |  7208.0  |  7956.1  |  8649.9  |     5064.5   
+ SQoQ%:  |   48.4   |   3.3    |   24.5   |   10.4   |   8.7    |      58.5    
+ YOPM%:  |   23.7   |   24.6   |   21.3   |   20.1   |   23.2   |              
+ YNPM%:  |   9.8    |   8.6    |   8.0    |   8.3    |   10.5   |              
+YPROFIT: |  549.9   |  497.4   |  580.2   |  658.4   |  909.4   |     740.1    
+ PQoQ%:  |   56.5   |   -9.5   |   16.6   |   13.5   |   38.1   |      81.4    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  2046.6  |  2600.2  |  2167.5  |  1427.0  |  1470.0 
+ QoQ%:  |   7.1    |   27.0   |  -16.6   |  -34.2   |   3.0   
+ QOPM%: |   21.1   |   28.3   |   44.7   |   25.0   |   25.8  
+ QNPM%: |   9.0    |   15.2   |   26.5   |   5.8    |   5.5   
+ QPFT:  |  185.0   |  395.9   |  575.2   |   83.5   |   81.4  
+ PQoQ%: |   25.1   |  114.0   |   45.3   |  -85.5   |   -2.5  
+
+***PROS***
+- Last 3QSALES is about 59% YSales
+- Last 3QPROFIT is about 81% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+8649.90cr, QoQ 8.70% & YoY 54.39% SALES;
+2004.50cr, QoQ 25.30% & YoY 50.99% OPERATING PROFIT;
+909.40cr, QoQ 38.10% & YoY 65.38% NET PROFIT;
+OPM %: 23.20% vs 20.1%
+NPM %: 10.50% vs 8.3%
+

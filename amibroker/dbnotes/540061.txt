@@ -1,0 +1,38 @@
+CODES
+540061	BIGBLOC	
+SECTOR : Cement - Products
+INDUSTRY : Cement Products
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  118.8   |  103.0   |  175.2   |  200.1   |  243.2   |     160.1    
+ SQoQ%:  |   18.7   |  -13.3   |   70.2   |   14.2   |   21.5   |      65.8    
+ YOPM%:  |   8.7    |   11.8   |   15.5   |   25.3   |   23.1   |              
+ YNPM%:  |   2.1    |   2.4    |   9.2    |   15.1   |   12.7   |              
+YPROFIT: |   2.5    |   2.5    |   16.1   |   30.3   |   30.9   |      8.7     
+ PQoQ%:  |  -275.7  |   0.4    |  551.0   |   88.5   |   1.9    |      28.2    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   61.5   |   68.0   |   51.6   |   51.7   |   56.8  
+ QoQ%:  |   4.4    |   10.5   |  -24.1   |   0.2    |   10.0  
+ QOPM%: |   26.2   |   18.5   |   18.7   |   14.8   |   10.8  
+ QNPM%: |   14.1   |   12.7   |   8.5    |   4.1    |   3.8   
+ QPFT:  |   8.7    |   8.7    |   4.4    |   2.1    |   2.2   
+ PQoQ%: |   14.6   |   0.0    |  -49.3   |  -51.5   |   2.3   
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 15.6%
+- Last 3QSALES is about 66% YSales
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
+
+Yearly 
+ 31-Mar-2024 #Result
+243.20cr, QoQ 21.50% & YoY 104.71% SALES;
+56.20cr, QoQ 11.10% & YoY 440.38% OPERATING PROFIT;
+30.90cr, QoQ 1.90% & YoY 1136.00% NET PROFIT;
+OPM %: 23.10% vs 25.3%
+NPM %: 12.70% vs 15.1%
+

@@ -1,0 +1,15 @@
+CODES
+532989	BAFNAPH	
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Formulations
+PRODUCT DEMAND
+
+***CONS***
+- NEGATIVE YProfit : -24.7
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years

@@ -178,7 +178,7 @@ def save_screener1(codes,force):
             i+=1
             print(f"Trying to get details of {code} in saves_screener1 Func")
             #lets search for code in create_database.comp_metadata_col database by countdocuments
-            # last_quarter_announced = ""
+            last_quarter_announced = ""
             st.success(f'We have {create_database.comp_metadata_col.count_documents({"code_names": code})} documents saved in DB')
             
             if create_database.comp_metadata_col.count_documents({"code_names": code}):
@@ -199,7 +199,7 @@ def save_screener1(codes,force):
                         screenerpage.search_screener1(driver,code)
                     # st.success(last_quarter_announced)
                     # st.success(type(last_quarter_announced))
-                    if (last_quarter_announced != recent_quarter_txt ) and (datetime.datetime.now() - doc_is['timestamp']).days>5:
+                    if (last_quarter_announced != recent_quarter_txt ):# and (datetime.datetime.now() - doc_is['timestamp']).days>5:
                         screenerpage.search_screener1(driver,code)
                     else:
                         st.success(f"We already got LATEST RESULTS for {code} : {last_quarter_announced}")
@@ -1056,11 +1056,11 @@ st.markdown(hide_st_style,unsafe_allow_html=True)
 
 tick_force = st.checkbox(label="Force Download",value=False)
 if st.button("Download ALL stocks again:"):
-    try:
-        save_screener1(st.session_state.listed_stocks,True)
-    except Exception as e:
-        st.error("You are running on Server, Only Sahaveer has access")
-        st.error(e)
+    
+    save_screener1(st.session_state.listed_stocks,True)
+    # except Exception as e:
+    #     st.error("You are running on Server, Only Sahaveer has access")
+    #     st.error(e)
 
 if st.button(f'Get Latest Results from this watchlist'):
     try:
@@ -1237,50 +1237,6 @@ if st.button('Save all data in DB as notes:'):
 # holdings_list = st.session_state.user_data['holdings_list']
 # watch_list = st.session_state.user_data['watch_list']
 # favourite_list = st.session_state.user_data['favourite_list']
-
-
-
-# def get_code(query):
-    #need to make sure this is from Database
-    # if 'bsenames_list' not in st.session_state or 'bsecodes_list' not in st.session_state:  # if 'bse_ISIN' not in st.session_state or 'bse_ycode' not in st.session_state
-    #     bse_data = pd.read_csv('./Select.csv', header=0, index_col=False)
-    #     bse_data.columns = bse_data.columns.str.replace(' ', '_')
-    #     st.session_state.bse_ISIN = bse_data["ISIN_No"].tolist()
-    #     st.session_state.bse_ycode = bse_data["Security_Id"].tolist()
-    #     st.session_state.bsenames_list = bse_data["Security_Name"].tolist()
-    #     st.session_state.bsecodes_list = bse_data["Security_Code"].tolist()
-
-    # if 'nsecode_list' not in st.session_state or 'nseISIN_list' not in st.session_state:
-    #     nse_data = pd.read_csv('./cm21JUN2024bhav.csv')
-    #     nse_data.columns = nse_data.columns.str.replace(' ', '_')
-    #     st.session_state.nseISIN_list = nse_data["ISIN"].tolist()
-    #     st.session_state.nsecode_list = nse_data["SYMBOL"].tolist()
-
-    # query = query.strip()
-    # # TEMPORARY CONVERTING THIS TO CODE NUMBER
-    # company_code = None
-    # code_name = None
-    # if query.isdigit():
-    #     company_code = (query)
-    #     if int(company_code) in st.session_state.bsecodenum_codename.keys():
-    #         code_name = st.session_state.bsecodenum_codename[int(company_code)]
-    #     else:
-    #         code_name = query              
-
-    # else:
-    #     if query in st.session_state.nsecode_list:
-    #         company_code = query
-    #         code_name = query
-    #     else:
-    #         if query in st.session_state.bsecodename_codenum.keys():
-    #             company_code = str(st.session_state.bsecodename_codenum[query])
-    #             code_name = query
-    #         else:
-    #             company_code = str(query)
-    #             code_name = query
-                
-    # #st.info(company_code)
-    # return company_code, code_name
 
 
 # to GET LIST OF STOCKS IN WATCHLIST and MAKE WATCHLISTS AS PER TAGS and show them as DROPDOWN LIST

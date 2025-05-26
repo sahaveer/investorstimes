@@ -1,0 +1,37 @@
+CODES
+544060	RBZJEWEL	
+SECTOR : 
+INDUSTRY : 
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  107.0   |  252.1   |  287.9   |  327.4   |  530.2  
+ SQoQ%:  |  -41.1   |  135.6   |   14.2   |   13.7   |   61.9  
+ YOPM%:  |   19.1   |   10.6   |   13.1   |   11.8   |   12.1  
+ YNPM%:  |   9.1    |   5.7    |   7.8    |   6.6    |   7.3   
+YPROFIT: |   9.8    |   14.4   |   22.3   |   21.6   |   38.8  
+ PQoQ%:  |  210.5   |   47.8   |   55.0   |   -3.4   |   79.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   86.2   |   82.4   |  116.6   |  193.8   |  137.3  
+ QoQ%:  |  -25.6   |   -4.3   |   41.4   |   66.2   |  -29.2  
+ QOPM%: |   5.4    |   17.3   |   12.0   |   11.2   |   10.6  
+ QNPM%: |   3.1    |   11.0   |   6.9    |   6.8    |   6.2   
+ QPFT:  |   2.7    |   9.1    |   8.1    |   13.1   |   8.6   
+ PQoQ%: |  -60.3   |  237.5   |  -11.1   |   62.2   |  -34.5  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+YSALES in Mar-2025 is at 530.2 showing a QoQ_growth of 61.9%. The YNETPROFIT grew by 79.9% to 38.8
+
+Yearly 
+ 31-Mar-2025 #Result
+530.20cr, QoQ 61.90% & YoY 395.51% SALES;
+64.30cr, QoQ 67.00% & YoY 215.20% OPERATING PROFIT;
+38.80cr, QoQ 79.90% & YoY 295.92% NET PROFIT;
+OPM %: 12.10% vs 11.8%
+NPM %: 7.30% vs 6.6%
+

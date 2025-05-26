@@ -1,0 +1,41 @@
+CODE	NAME
+539016 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+LYPD PM 2024
+
+***CONS***
+  YPNL   |   :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+-------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  6.9  |   2.8    |   3.0    |   3.0    |   3.2    |   2.3    |              
+ SQoQ%:  | -26.3 |  -59.5   |   6.5    |   1.4    |   5.7    |   71.9   |              
+ YOPM%:  |  22.4 |   72.3   |   0.0    |   81.7   |   88.0   |          |              
+ YNPM%:  |  16.9 |   34.9   |   0.0    |   61.7   |   79.2   |          |              
+YPROFIT: |  1.2  |   1.0    |   -2.8   |   1.8    |   2.5    |   1.0    |              
+ PQoQ%:  |  58.9 |  -16.4   |  -387.6  |  -166.3  |   35.7   |   40.0   |              
+  QPNL  |   :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+-------+----------+----------+----------+----------+---------
+QSALES: |  0.8  |   0.7    |   0.7    |   0.8    |   0.8    |         
+ QoQ%:  |  -4.7 |   -8.6   |   -6.8   |   10.1   |   1.3    |         
+ QOPM%: |  86.4 |   94.6   |   79.7   |   72.4   |   85.7   |         
+ QNPM%: |  61.7 |  131.1   |   44.9   |   44.7   |   53.2   |         
+ QPFT:  |  0.5  |   1.0    |   0.3    |   0.3    |   0.4    |         
+ PQoQ%: | -10.7 |   94.0   |  -68.0   |   9.7    |   20.6   |         
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 72% YSales
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2024
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
+
+Yearly 
+ 31-Mar-2024 #Result
+3.20cr, QoQ 5.70% & YoY -53.62% SALES;
+2.80cr, QoQ 13.90% & YoY 86.67% OPERATING PROFIT;
+2.50cr, QoQ 35.70% & YoY 108.33% NET PROFIT;
+OPM %: 88.00% vs 81.7%
+NPM %: 79.20% vs 61.7%
+

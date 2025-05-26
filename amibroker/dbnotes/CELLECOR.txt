@@ -1,0 +1,24 @@
+CODES
+CELLECOR	
+SECTOR : Retail
+INDUSTRY : Trading
+YSD YPD 2023
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+- YProfits and YSales DOUBLED in Mar2023
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 105.0% while the Profit QoQ_growth is at 92.0%
+
+Yearly 
+ 31-Mar-2025 #Result
+1026.00cr, QoQ 105.00% & YoY inf% SALES;
+54.30cr, QoQ 83.40% & YoY -inf% OPERATING PROFIT;
+30.90cr, QoQ 92.00% & YoY -inf% NET PROFIT;
+OPM %: 5.30% vs 5.9%
+NPM %: 3.00% vs 3.2%
+

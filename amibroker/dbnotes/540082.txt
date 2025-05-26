@@ -1,0 +1,22 @@
+CODE	NAME
+540082 
+
+SECTOR : Steel
+INDUSTRY : Steel - Medium / Small
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2024 #Result
+327.50cr, QoQ 8.30% & YoY 12.62% SALES;
+18.80cr, QoQ 9.60% & YoY 8.05% OPERATING PROFIT;
+4.80cr, QoQ 41.20% & YoY 54.84% NET PROFIT;
+OPM %: 5.70% vs 5.7%
+NPM %: 1.50% vs 1.1%
+

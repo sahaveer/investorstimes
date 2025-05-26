@@ -1,0 +1,13 @@
+CODES
+590068	KHAITANLTD	
+SECTOR : Trading
+INDUSTRY : Trading
+
+***CONS***
+- NEGATIVE YProfit : -3.3
+
+
+
+
+
+***PROS***

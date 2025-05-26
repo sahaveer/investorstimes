@@ -1,0 +1,38 @@
+CODES
+505710	GRAUWEIL	
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  617.9   |  605.4   |  768.3   |  981.1   |  1068.2  |     793.6    
+ SQoQ%:  |   3.0    |   -2.0   |   26.9   |   27.7   |   8.9    |      74.3    
+ YOPM%:  |   15.7   |   16.6   |   14.8   |   15.9   |   17.9   |              
+ YNPM%:  |   12.3   |   11.4   |   10.3   |   11.5   |   13.7   |              
+YPROFIT: |   75.8   |   68.8   |   78.8   |  113.0   |  146.3   |     131.4    
+ PQoQ%:  |   18.7   |   -9.3   |   14.5   |   43.4   |   29.5   |      89.8    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  285.0   |  333.1   |  264.1   |  254.7   |  274.8  
+ QoQ%:  |   13.8   |   16.9   |  -20.7   |   -3.6   |   7.9   
+ QOPM%: |   19.1   |   11.8   |   24.2   |   16.8   |   19.0  
+ QNPM%: |   15.0   |   8.8    |   19.2   |   14.8   |   15.7  
+ QPFT:  |   42.8   |   29.2   |   50.7   |   37.6   |   43.1  
+ PQoQ%: |   14.1   |  -31.8   |   73.8   |  -25.8   |   14.7  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 90% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+1068.20cr, QoQ 8.90% & YoY 72.88% SALES;
+191.10cr, QoQ 22.50% & YoY 96.40% OPERATING PROFIT;
+146.30cr, QoQ 29.50% & YoY 93.01% NET PROFIT;
+OPM %: 17.90% vs 15.9%
+NPM %: 13.70% vs 11.5%
+

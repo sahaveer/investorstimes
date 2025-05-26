@@ -1,0 +1,27 @@
+CODES
+544167	JNKINDIA	
+SECTOR : Capital Goods-Non Electrical Equipment
+INDUSTRY : Engineering
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+
+
+
+
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 26.2%
+- Last 3QSALES is about 59% YSales
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 17.9% while the Profit QoQ_growth is much better than Sales itself at 34.5%
+
+Yearly 
+ 31-Mar-2024 #Result
+480.20cr, QoQ 17.90% SALES;
+99.30cr, QoQ 43.00% OPERATING PROFIT;
+62.60cr, QoQ 34.50% NET PROFIT;
+OPM %: 20.70% vs 17.1%
+NPM %: 13.00% vs 11.4%
+

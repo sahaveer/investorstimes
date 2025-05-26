@@ -1,0 +1,27 @@
+CODE	NAME
+544269 
+
+SECTOR : Trading
+INDUSTRY : Trading
+PRODUCT DEMAND
+LYPD PM 2024
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- LastYr YProfits Doubled and maintained in Mar2024
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2024, Sales have increased by 119.6% while the Profit QoQ_growth is at 80.3%
+
+Yearly 
+ 31-Mar-2024 #Result
+44.00cr, QoQ 119.60% & YoY 3566.67% SALES;
+3.30cr, QoQ 46.20% & YoY inf% OPERATING PROFIT;
+2.10cr, QoQ 80.30% & YoY -1150.00% NET PROFIT;
+OPM %: 7.50% vs 11.2%
+NPM %: 4.80% vs 5.8%
+

@@ -1,0 +1,16 @@
+CODE	NAME
+539227 
+
+SECTOR : Engineering
+INDUSTRY : Engineering
+
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -5.1
+
+
+
+
+
+***PROS***
+- Last 2QSALES is about 51% YSales

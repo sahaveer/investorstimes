@@ -1,0 +1,37 @@
+CODES
+507785	TAINWALCHM	
+SECTOR : 
+INDUSTRY : 
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   6.5    |   7.7    |   12.8   |   18.0   |   16.4  
+ SQoQ%:  |  -38.8   |   19.3   |   66.2   |   40.5   |   -8.9  
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   7.7   
+ YNPM%:  |   0.0    |   4.8    |   25.6   |   26.7   |   30.0  
+YPROFIT: |   -0.3   |   0.4    |   3.3    |   4.8    |   4.9   
+ PQoQ%:  |  -107.4  |  -215.6  |  786.5   |   46.6   |   2.3   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.8    |   1.6    |   5.0    |   4.6    |   5.3   
+ QoQ%:  |  -82.0   |   96.2   |  220.6   |   -7.6   |   15.7  
+ QOPM%: |   0.0    |   18.1   |   0.0    |   12.4   |   10.4  
+ QNPM%: |   0.0    |   51.0   |   68.8   |   3.5    |   10.4  
+ QPFT:  |   -0.4   |   0.8    |   3.4    |   0.2    |   0.6   
+ PQoQ%: |  -263.0  |  -279.5  |  332.9   |  -95.3   |  243.8  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+16.40cr, QoQ -8.90% & YoY 152.31% SALES;
+1.30cr, QoQ -652.20% & YoY -154.17% OPERATING PROFIT;
+4.90cr, QoQ 2.30% & YoY -1733.33% NET PROFIT;
+OPM %: 7.70% vs 0.0%
+NPM %: 30.00% vs 26.7%
+

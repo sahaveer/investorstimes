@@ -1,0 +1,24 @@
+CODES
+OBSCP	
+SECTOR : Auto Ancillaries
+INDUSTRY : Auto Ancillaries
+LYPD PM 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+
+
+
+***PROS***
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 24.6% while the Profit QoQ_growth is much better than Sales itself at 37.3%
+
+Yearly 
+ 31-Mar-2025 #Result
+142.80cr, QoQ 24.60% SALES;
+25.40cr, QoQ 22.20% OPERATING PROFIT;
+16.80cr, QoQ 37.30% NET PROFIT;
+OPM %: 17.80% vs 18.1%
+NPM %: 11.70% vs 10.7%
+

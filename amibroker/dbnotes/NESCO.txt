@@ -1,0 +1,37 @@
+CODES
+505355	NESCO	
+SECTOR : Realty
+INDUSTRY : Construction
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  291.1   |  337.4   |  546.0   |  678.2   |  732.0  
+ SQoQ%:  |  -32.6   |   15.9   |   61.8   |   24.2   |   7.9   
+ YOPM%:  |   63.8   |   65.3   |   67.3   |   62.9   |   59.8  
+ YNPM%:  |   59.2   |   56.1   |   53.2   |   53.5   |   51.3  
+YPROFIT: |  172.5   |  189.2   |  290.6   |  362.8   |  375.2  
+ PQoQ%:  |  -26.3   |   9.7    |   53.6   |   24.8   |   3.4   
+ QPNL:  | Sep-2023 | Dec-2023 | Mar-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  174.8   |  177.8   |  189.0   |  206.5   |  192.0  
+ QoQ%:  |   28.0   |   1.7    |   6.3    |   9.3    |   -7.0  
+ QOPM%: |   62.3   |   64.0   |   62.1   |   60.7   |   55.6  
+ QNPM%: |   50.2   |   52.7   |   55.6   |   53.2   |   46.1  
+ QPFT:  |   87.8   |   93.8   |  105.1   |  109.9   |   88.6  
+ PQoQ%: |   15.4   |   6.8    |   12.1   |   4.6    |  -19.4  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 36.9%
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+732.00cr, QoQ 7.90% & YoY 151.46% SALES;
+437.80cr, QoQ 2.70% & YoY 135.76% OPERATING PROFIT;
+375.20cr, QoQ 3.40% & YoY 117.51% NET PROFIT;
+OPM %: 59.80% vs 62.9%
+NPM %: 51.30% vs 53.5%
+

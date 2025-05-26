@@ -1,0 +1,33 @@
+CODE	NAME
+526443 
+
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Medium / Small
+BestQ Dec 2024
+BestQ Dec 2024
+YSD YPD 2024
+
+***CONS***
+  YPNL   |    :    | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.1   |   0.1    |   0.0    |   0.0    |   2.4    |   22.0   |              
+ SQoQ%:  |   0.0   |   0.0    |  -100.0  |   nan    |   inf    |  916.7   |              
+ YOPM%:  |   0.0   |   0.0    |   0.0    |   0.0    |   9.9    |          |              
+ YNPM%:  |   0.0   |   0.0    |   0.0    |   0.0    |   7.0    |          |              
+YPROFIT: |   -0.3  |   -0.1   |   -0.2   |   -0.5   |   0.2    |   2.3    |              
+ PQoQ%:  | -3000.0 |  -75.9   |  114.3   |  246.7   |  -132.7  |  1150.0  |              
+  QPNL  |   :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+-------+----------+----------+----------+----------+---------
+QSALES: |  0.8  |   1.0    |   1.1    |   3.6    |   17.3   |         
+ QoQ%:  | 125.0 |   18.5   |   12.5   |  235.2   |  377.6   |         
+ QOPM%: |  17.3 |   0.0    |   23.1   |   8.0    |   13.6   |         
+ QNPM%: |  12.3 |   0.0    |   16.7   |   5.8    |   11.1   |         
+ QPFT:  |  0.1  |   -0.1   |   0.2    |   0.2    |   1.9    |         
+ PQoQ%: |  25.0 |  -220.0  |  -250.0  |   16.7   |  814.3   |         
+
+***PROS***
+- Last 3QSALES is about 917% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 1150% of YProfit
+- YProfit Turned POSITIVE this year Mar-2024 : 0.2
+- YProfits and YSales DOUBLED in Mar2024

@@ -1,0 +1,15 @@
+CODE	NAME
+531472 
+
+SECTOR : Cables
+INDUSTRY : Cables - Power
+
+***CONS***
+- NEGATIVE YProfit : -0.1
+
+
+
+
+
+***PROS***
+- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2024 is at 57.9%. The QPROFIT QoQ_growth by -70.7%

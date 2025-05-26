@@ -1,0 +1,42 @@
+CODE	NAME
+523586 
+
+SECTOR : Chemicals
+INDUSTRY : Dyes And Pigments
+PRODUCT DEMAND
+BestQ Dec 2022
+
+***CONS***
+ YPNL:   | Mar-2018 | Mar-2019 | Mar-2020 | Mar-2021 | Mar-2022 | QSUM:Dec-2022
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  112.3   |  115.3   |   91.5   |   88.9   |  119.6   |     112.9    
+ SQoQ%:  |   -1.9   |   2.7    |  -20.6   |   -2.9   |   34.6   |      94.4    
+ YOPM%:  |   24.2   |   20.3   |   13.6   |   17.3   |   21.3   |              
+ YNPM%:  |   21.4   |   17.3   |   13.0   |   14.9   |   17.3   |              
+YPROFIT: |   24.0   |   19.9   |   11.9   |   13.3   |   20.7   |      19.3    
+ PQoQ%:  |   5.2    |  -17.1   |  -40.4   |   11.7   |   56.4   |      93.2    
+ QPNL:  | Dec-2021 | Mar-2022 | Jun-2022 | Sep-2022 | Dec-2022
+--------+----------+----------+----------+----------+---------
+QSALES: |   31.9   |   33.8   |   34.9   |   38.3   |   39.7  
+ QoQ%:  |   -4.3   |   5.8    |   3.3    |   9.7    |   3.7   
+ QOPM%: |   21.6   |   21.7   |   19.4   |   22.8   |   20.5  
+ QNPM%: |   15.5   |   23.3   |   16.3   |   15.6   |   19.1  
+ QPFT:  |   5.0    |   7.8    |   5.7    |   6.0    |   7.6   
+ PQoQ%: |  -11.3   |   58.3   |  -27.4   |   5.1    |   26.4  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 94% YSales
+- Last 3QPROFIT is about 93% of YProfit
+
+YSALES in Mar-2022 is at 119.6 showing a QoQ_growth of 34.6%. The YNETPROFIT grew by 56.4% to 20.7
+
+Yearly 
+ 31-Mar-2022 #Result
+119.60cr, QoQ 34.60% & YoY 6.50% SALES;
+25.40cr, QoQ 65.70% & YoY -6.27% OPERATING PROFIT;
+20.70cr, QoQ 56.40% & YoY -13.75% NET PROFIT;
+OPM %: 21.30% vs 17.3%
+NPM %: 17.30% vs 14.9%
+

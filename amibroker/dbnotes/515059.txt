@@ -1,0 +1,39 @@
+CODE	NAME
+515059 
+
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2009 | Mar-2010 | Mar-2011 | Mar-2012 | Mar-2013
+---------+----------+----------+----------+----------+---------
+YSALES:  |   12.2   |   0.9    |   1.0    |   1.0    |   0.8   
+ SQoQ%:  |   40.9   |  -92.4   |   8.6    |   -2.0   |  -15.2  
+ YOPM%:  |   0.0    |   0.0    |   1.0    |   9.1    |   33.3  
+ YNPM%:  |   0.0    |   11.8   |   44.6   |   87.9   |   88.1  
+YPROFIT: |   -1.4   |   0.1    |   0.4    |   0.9    |   0.7   
+ PQoQ%:  | -1161.5  |  -108.0  |  309.1   |   93.3   |  -14.9  
+ QPNL:  | Jun-2012 | Sep-2012 | Dec-2012 | Mar-2013 | Jun-2013
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.2    |   0.2    |   0.2    |   0.3    |   0.2   
+ QoQ%:  |  -14.8   |   4.3    |   -4.2   |   13.0   |   -7.7  
+ QOPM%: |   52.2   |   45.8   |   34.8   |   30.8   |   37.5  
+ QNPM%: |   60.9   |   62.5   |   87.0   |   92.3   |   62.5  
+ QPFT:  |   0.1    |   0.2    |   0.2    |   0.2    |   0.2   
+ PQoQ%: |  -39.1   |   7.1    |   33.3   |   20.0   |  -37.5  
+
+***PROS***
+A DEBT-Free Company
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+
+Yearly 
+ 31-Mar-2013 #Result
+0.80cr, QoQ -15.20% & YoY -93.44% SALES;
+0.30cr, QoQ 211.10% & YoY -116.67% OPERATING PROFIT;
+0.70cr, QoQ -14.90% & YoY -150.00% NET PROFIT;
+OPM %: 33.30% vs 9.1%
+NPM %: 88.10% vs 87.9%
+

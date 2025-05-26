@@ -1,0 +1,14 @@
+CODE	NAME
+531592 
+
+SECTOR : Trading
+INDUSTRY : Trading
+
+***CONS***
+- NEGATIVE YProfit : -0.1
+
+
+
+
+
+***PROS***

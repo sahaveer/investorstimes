@@ -1,0 +1,20 @@
+CODES
+EMMIL	
+SECTOR : Capital Goods-Non Electrical Equipment
+INDUSTRY : Engineering
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2025 #Result
+150.50cr, QoQ 19.20% & YoY 216.18% SALES;
+21.30cr, QoQ 9.90% & YoY 373.33% OPERATING PROFIT;
+12.60cr, QoQ 14.60% & YoY 1160.00% NET PROFIT;
+OPM %: 14.10% vs 15.3%
+NPM %: 8.40% vs 8.7%
+

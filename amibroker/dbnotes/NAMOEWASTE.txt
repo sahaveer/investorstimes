@@ -1,0 +1,24 @@
+CODES
+NAMOEWASTE	
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+YS15 YPD 2024
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
+As on Mar2024, Sales have increased by 29.2% while the Profit QoQ_growth is much better than Sales itself at 195.5%
+
+Yearly 
+ 31-Mar-2024 #Result
+75.50cr, QoQ 29.20% SALES;
+9.90cr, QoQ 152.20% OPERATING PROFIT;
+7.20cr, QoQ 195.50% NET PROFIT;
+OPM %: 13.10% vs 6.7%
+NPM %: 9.50% vs 4.1%
+

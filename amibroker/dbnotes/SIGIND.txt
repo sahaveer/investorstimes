@@ -1,0 +1,40 @@
+CODES
+512131	SIGIND	
+SECTOR : 
+INDUSTRY : 
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  882.8   |  827.0   |  877.3   |  1017.7  |  1213.0  |     814.2    
+ SQoQ%:  |   -9.5   |   -6.3   |   6.1    |   16.0   |   19.2   |      67.1    
+ YOPM%:  |   7.6    |   7.6    |   7.0    |   6.8    |   6.9    |              
+ YNPM%:  |   1.3    |   1.7    |   0.9    |   1.3    |   1.3    |              
+YPROFIT: |   11.8   |   14.0   |   8.2    |   13.0   |   15.4   |      8.2     
+ PQoQ%:  |  -14.1   |   18.3   |  -40.9   |   58.4   |   18.4   |      53.2    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  311.3   |  344.1   |  252.6   |  257.6   |  304.0  
+ QoQ%:  |   15.8   |   10.5   |  -26.6   |   2.0    |   18.0  
+ QOPM%: |   8.0    |   6.2    |   5.7    |   8.1    |   7.3   
+ QNPM%: |   1.7    |   1.0    |   0.2    |   1.2    |   1.5   
+ QPFT:  |   5.4    |   3.4    |   0.5    |   3.2    |   4.5   
+ PQoQ%: |   58.4   |  -36.3   |  -85.8   |  557.1   |   40.4  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 67% YSales
+- Last 3QPROFIT is about 53% of YProfit
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2024, Sales have increased by 19.2% while the Profit QoQ_growth is at 18.4%
+
+Yearly 
+ 31-Mar-2024 #Result
+1213.00cr, QoQ 19.20% & YoY 37.40% SALES;
+84.10cr, QoQ 21.10% & YoY 25.15% OPERATING PROFIT;
+15.40cr, QoQ 18.40% & YoY 30.51% NET PROFIT;
+OPM %: 6.90% vs 6.8%
+NPM %: 1.30% vs 1.3%
+

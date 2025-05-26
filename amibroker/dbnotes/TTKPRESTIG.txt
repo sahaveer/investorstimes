@@ -1,0 +1,38 @@
+CODES
+517506	TTKPRESTIG	
+SECTOR : Consumer Durables
+INDUSTRY : Domestic Appliances
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  2073.0  |  2194.2  |  2722.4  |  2777.1  |  2678.0  |     2065.2   
+ SQoQ%:  |   -1.6   |   5.8    |   24.1   |   2.0    |   -3.6   |      77.1    
+ YOPM%:  |   12.8   |   14.7   |   15.7   |   13.0   |   11.4   |              
+ YNPM%:  |   9.0    |   10.8   |   11.2   |   9.2    |   8.5    |              
+YPROFIT: |  185.6   |  236.8   |  304.8   |  254.2   |  228.5   |     153.1    
+ PQoQ%:  |   -3.5   |   27.6   |   28.7   |  -16.6   |  -10.1   |      67.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  738.4   |  622.6   |  587.9   |  750.1   |  727.2  
+ QoQ%:  |   1.2    |  -15.7   |   -5.6   |   27.6   |   -3.0  
+ QOPM%: |   11.5   |   12.4   |   9.3    |   9.7    |   10.9  
+ QNPM%: |   8.5    |   9.4    |   7.1    |   7.0    |   8.0   
+ QPFT:  |   62.5   |   58.7   |   41.8   |   52.9   |   58.4  
+ PQoQ%: |   5.4    |   -6.0   |  -28.9   |   26.6   |   10.6  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 67% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+2678.00cr, QoQ -3.60% & YoY 29.18% SALES;
+304.70cr, QoQ -15.50% & YoY 14.42% OPERATING PROFIT;
+228.50cr, QoQ -10.10% & YoY 23.11% NET PROFIT;
+OPM %: 11.40% vs 13.0%
+NPM %: 8.50% vs 9.2%
+

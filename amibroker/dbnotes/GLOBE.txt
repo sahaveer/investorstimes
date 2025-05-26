@@ -1,0 +1,12 @@
+CODES
+GLOBE	
+SECTOR : Textiles
+INDUSTRY : Textiles - Products
+
+***CONS***
+
+
+
+
+
+***PROS***

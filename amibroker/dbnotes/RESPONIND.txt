@@ -1,0 +1,39 @@
+CODES
+505509	RESPONIND	
+SECTOR : Plastic products
+INDUSTRY : Plastics Products
+PRODUCT DEMAND
+LYPD PM 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  755.7   |  1103.4  |  973.7   |  1087.0  |  1417.9 
+ SQoQ%:  |   41.8   |   46.0   |  -11.8   |   11.6   |   30.4  
+ YOPM%:  |   16.9   |   9.9    |   11.3   |   22.4   |   20.8  
+ YNPM%:  |   5.3    |   0.0    |   2.5    |   14.8   |   14.0  
+YPROFIT: |   40.3   |   0.1    |   24.4   |  161.3   |  198.9  
+ PQoQ%:  |   66.8   |  -99.8   | 34742.9  |  561.2   |   23.3  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  288.2   |  319.9   |  349.5   |  367.8   |  380.7  
+ QoQ%:  |   7.8    |   11.0   |   9.3    |   5.2    |   3.5   
+ QOPM%: |   23.2   |   22.3   |   20.7   |   19.7   |   20.7  
+ QNPM%: |   15.9   |   15.1   |   14.1   |   12.8   |   14.3  
+ QPFT:  |   45.9   |   48.4   |   49.3   |   47.0   |   54.2  
+ PQoQ%: |   2.6    |   5.5    |   1.9    |   -4.7   |   15.5  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 1417.9 showing a QoQ_growth of 30.4%. The YNETPROFIT grew by 23.3% to 198.9
+
+Yearly 
+ 31-Mar-2025 #Result
+1417.90cr, QoQ 30.40% & YoY 87.63% SALES;
+295.00cr, QoQ 21.10% & YoY 131.37% OPERATING PROFIT;
+198.90cr, QoQ 23.30% & YoY 393.55% NET PROFIT;
+OPM %: 20.80% vs 22.4%
+NPM %: 14.00% vs 14.8%
+

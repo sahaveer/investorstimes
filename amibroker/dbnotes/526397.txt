@@ -1,0 +1,37 @@
+CODES
+526397	ALPHAGEO	
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  267.5   |  143.1   |  154.9   |   66.0   |   98.7   |      55.2    
+ SQoQ%:  |  -34.0   |  -46.5   |   8.2    |  -57.4   |   49.6   |      55.9    
+ YOPM%:  |   7.2    |   11.0   |   21.5   |   10.4   |   13.1   |              
+ YNPM%:  |   0.0    |   4.5    |   7.9    |   19.7   |   0.4    |              
+YPROFIT: |   -8.8   |   6.4    |   12.2   |   13.0   |   0.4    |      -2.2    
+ PQoQ%:  |  -119.3  |  -173.5  |   89.0   |   6.6    |  -97.1   |     -550.0   
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   39.2   |   51.9   |   25.3   |   18.7   |   11.2  
+ QoQ%:  |  1541.8  |   32.2   |  -51.3   |  -26.0   |  -40.3  
+ QOPM%: |   9.1    |   28.4   |   11.5   |   8.1    |   0.0   
+ QNPM%: |   10.1   |   7.7    |   14.8   |   9.5    |   0.0   
+ QPFT:  |   4.0    |   4.0    |   3.8    |   1.8    |   -7.8  
+ PQoQ%: |  -191.9  |   0.3    |   -5.5   |  -52.8   |  -543.5 
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- Last 3QSALES is about 56% YSales
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+
+Yearly 
+ 31-Mar-2024 #Result
+98.70cr, QoQ 49.60% & YoY -63.10% SALES;
+12.90cr, QoQ 88.60% & YoY -33.16% OPERATING PROFIT;
+0.40cr, QoQ -97.10% & YoY -104.55% NET PROFIT;
+OPM %: 13.10% vs 10.4%
+NPM %: 0.40% vs 19.7%
+

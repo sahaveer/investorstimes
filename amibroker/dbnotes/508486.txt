@@ -1,0 +1,42 @@
+CODE	NAME
+508486 
+
+SECTOR : Consumer Durables
+INDUSTRY : Domestic Appliances
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  673.9   |  768.5   |  958.0   |  1005.8  |  1024.2  |     809.0    
+ SQoQ%:  |   3.2    |   14.0   |   24.7   |   5.0    |   1.8    |      79.0    
+ YOPM%:  |   15.4   |   14.4   |   12.5   |   13.5   |   14.7   |              
+ YNPM%:  |   10.8   |   10.5   |   8.8    |   9.4    |   10.7   |              
+YPROFIT: |   72.5   |   80.6   |   83.9   |   94.8   |  109.8   |      80.3    
+ PQoQ%:  |   33.7   |   11.2   |   4.0    |   13.0   |   15.9   |      73.1    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  272.4   |  276.8   |  227.5   |  295.8   |  285.7  
+ QoQ%:  |   0.3    |   1.6    |  -17.8   |   30.0   |   -3.4  
+ QOPM%: |   9.9    |   16.6   |   14.6   |   15.4   |   10.0  
+ QNPM%: |   7.2    |   12.3   |   11.0   |   11.5   |   7.4   
+ QPFT:  |   19.7   |   34.1   |   25.0   |   34.1   |   21.2  
+ PQoQ%: |  -44.0   |   73.2   |  -26.6   |   36.0   |  -37.8  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 29.4%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 73% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+1024.20cr, QoQ 1.80% & YoY 51.98% SALES;
+150.20cr, QoQ 11.00% & YoY 44.56% OPERATING PROFIT;
+109.80cr, QoQ 15.90% & YoY 51.45% NET PROFIT;
+OPM %: 14.70% vs 13.5%
+NPM %: 10.70% vs 9.4%
+

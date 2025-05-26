@@ -1,0 +1,37 @@
+CODES
+532928	TARIL	
+SECTOR : Capital Goods - Electrical Equipment
+INDUSTRY : Electric Equipment
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  742.0   |  1158.3  |  1395.6  |  1291.0  |  2016.9 
+ SQoQ%:  |   5.9    |   56.1   |   20.5   |   -7.5   |   56.2  
+ YOPM%:  |   9.2    |   6.4    |   8.7    |   10.4   |   16.2  
+ YNPM%:  |   1.0    |   1.2    |   2.9    |   3.4    |   10.6  
+YPROFIT: |   7.1    |   14.0   |   40.7   |   44.5   |  214.3  
+ PQoQ%:  |  1665.0  |   98.2   |  191.2   |   9.2    |  381.5  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  512.7   |  322.0   |  461.5   |  559.4   |  676.5  
+ QoQ%:  |   38.8   |  -37.2   |   43.3   |   21.2   |   20.9  
+ QOPM%: |   14.0   |   13.1   |   15.0   |   15.2   |   19.4  
+ QNPM%: |   7.8    |   6.2    |   9.8    |   9.8    |   13.9  
+ QPFT:  |   39.9   |   20.1   |   45.2   |   54.8   |   94.2  
+ PQoQ%: |  156.5   |  -49.7   |  125.2   |   21.0   |   72.0  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+YSALES in Mar-2025 is at 2016.9 showing a QoQ_growth of 56.2%. The YNETPROFIT grew by 381.5% to 214.3
+
+Yearly 
+ 31-Mar-2025 #Result
+2016.90cr, QoQ 56.20% & YoY 171.82% SALES;
+327.50cr, QoQ 144.20% & YoY 377.41% OPERATING PROFIT;
+214.30cr, QoQ 381.50% & YoY 2918.31% NET PROFIT;
+OPM %: 16.20% vs 10.4%
+NPM %: 10.60% vs 3.4%
+

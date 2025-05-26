@@ -1,0 +1,28 @@
+CODE	NAME
+544387 
+
+SECTOR : Infrastructure Developers & Operators
+INDUSTRY : Construction
+PRODUCT DEMAND
+YSD YPD 2025
+LYPD PM 2025
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2025
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 59.4 showing a QoQ_growth of 102.3%. The YNETPROFIT grew by 161.8% to 9.1
+
+Yearly 
+ 31-Mar-2025 #Result
+59.40cr, QoQ 102.30% SALES;
+13.30cr, QoQ 136.90% OPERATING PROFIT;
+9.10cr, QoQ 161.80% NET PROFIT;
+OPM %: 22.40% vs 19.2%
+NPM %: 15.20% vs 11.8%
+

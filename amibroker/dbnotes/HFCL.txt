@@ -1,0 +1,35 @@
+CODES
+500183	HFCL	
+SECTOR : Telecomm Equipment & Infra Services
+INDUSTRY : Engineering - Turnkey Services
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  4423.0  |  4727.1  |  4743.3  |  4465.0  |  4064.5 
+ SQoQ%:  |   15.2   |   6.9    |   0.3    |   -5.9   |   -9.0  
+ YOPM%:  |   12.4   |   13.8   |   13.0   |   13.0   |   11.0  
+ YNPM%:  |   5.4    |   6.6    |   6.3    |   7.4    |   4.4   
+YPROFIT: |  239.0   |  313.1   |  301.0   |  329.8   |  177.4  
+ PQoQ%:  |   5.2    |   31.0   |   -3.9   |   9.6    |  -46.2  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  1326.1  |  1158.2  |  1093.6  |  1012.0  |  800.7  
+ QoQ%:  |   28.5   |  -12.7   |   -5.6   |   -7.5   |  -20.9  
+ QOPM%: |   14.8   |   15.1   |   14.5   |   15.0   |   0.0   
+ QNPM%: |   8.3    |   9.6    |   6.8    |   7.3    |   0.0   
+ QPFT:  |  110.1   |  111.3   |   73.9   |   73.6   |  -81.4  
+ PQoQ%: |   33.8   |   1.1    |  -33.6   |   -0.3   |  -210.6 
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2025 #Result
+4064.50cr, QoQ -9.00% & YoY -8.11% SALES;
+449.00cr, QoQ -22.80% & YoY -18.30% OPERATING PROFIT;
+177.40cr, QoQ -46.20% & YoY -25.77% NET PROFIT;
+OPM %: 11.00% vs 13.0%
+NPM %: 4.40% vs 7.4%
+

@@ -1,0 +1,37 @@
+CODES
+520119	ASAL	
+SECTOR : 
+INDUSTRY : 
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  339.1   |  607.6   |  828.2   |  880.3   |  775.3  
+ SQoQ%:  |   -6.4   |   79.2   |   36.3   |   6.3    |  -11.9  
+ YOPM%:  |   0.0    |   2.6    |   3.9    |   5.8    |   6.2   
+ YNPM%:  |   0.0    |   8.6    |   1.0    |   2.3    |   2.2   
+YPROFIT: |  -29.7   |   52.3   |   8.3    |   20.2   |   16.8  
+ PQoQ%:  |   74.6   |  -276.1  |  -84.1   |  142.1   |  -16.8  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  232.5   |  192.0   |  197.1   |  198.2   |  188.1  
+ QoQ%:  |   7.4    |  -17.4   |   2.7    |   0.5    |   -5.1  
+ QOPM%: |   6.8    |   6.4    |   5.8    |   5.8    |   7.0   
+ QNPM%: |   3.3    |   2.1    |   2.2    |   1.8    |   2.6   
+ QPFT:  |   7.6    |   4.0    |   4.3    |   3.6    |   4.9   
+ PQoQ%: |   60.8   |  -47.6   |   7.3    |  -16.6   |   38.4  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 18.3%
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+775.30cr, QoQ -11.90% & YoY 128.63% SALES;
+48.40cr, QoQ -4.80% & YoY inf% OPERATING PROFIT;
+16.80cr, QoQ -16.80% & YoY -156.57% NET PROFIT;
+OPM %: 6.20% vs 5.8%
+NPM %: 2.20% vs 2.3%
+

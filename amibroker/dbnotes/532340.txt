@@ -1,0 +1,32 @@
+CODE	NAME
+532340 
+
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Medium / Small
+PRODUCT DEMAND
+YSD YPD 2023
+LYPD PM 2024
+
+***CONS***
+- NEGATIVE YProfit : -0.1
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.0    |   0.0    |   0.0    |   0.1    |   0.1    |      0.0     
+ SQoQ%:  |  -100.0  |   nan    |   nan    |   inf    |   0.0    |      0.0     
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
+YPROFIT: |   -0.2   |   -0.2   |   -0.2   |   -0.2   |   -0.1   |      -0.1    
+ PQoQ%:  |  112.5   |   -5.9   |   6.2    |  -11.8   |  -33.3   |     100.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QoQ%:  |   inf    |  -80.0   |  -100.0  |   inf    |   66.7  
+ QOPM%: |   40.0   |   0.0    |   0.0    |   0.0    |   20.0  
+ QNPM%: |   40.0   |   0.0    |   0.0    |   0.0    |   20.0  
+ QPFT:  |   0.0    |   -0.0   |   -0.1   |   0.0    |   0.0   
+ PQoQ%: |  -128.6  |  -250.0  |  133.3   |  -100.0  |   inf   
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2024

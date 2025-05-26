@@ -1,0 +1,21 @@
+CODES
+ABCOTS	
+SECTOR : Textiles
+INDUSTRY : Textiles - Cotton/Blended
+
+***CONS***
+
+
+
+
+
+***PROS***
+
+Quarterly 
+31-Dec-2024 #Result
+59.20cr, QoQ -27.20% SALES;
+8.90cr, QoQ 40.50% OPERATING PROFIT;
+4.10cr, QoQ 131.20% NET PROFIT;
+OPM %: 15.00% vs 7.8%
+NPM %: 6.90% vs 2.2%
+

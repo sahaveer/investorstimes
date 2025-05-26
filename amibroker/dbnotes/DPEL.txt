@@ -1,0 +1,26 @@
+CODES
+DPEL	
+SECTOR : Non Ferrous Metals
+INDUSTRY : Mining / Minerals / Metals
+PRODUCT DEMAND
+LYPD PM 2024
+YS15 YPD 2024
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- LastYr YProfits Doubled and maintained in Mar2024
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
+As on Mar2024, Sales have increased by 47.5% while the Profit QoQ_growth is much better than Sales itself at 124.9%
+
+Yearly 
+ 31-Mar-2024 #Result
+222.10cr, QoQ 47.50% SALES;
+14.40cr, QoQ 42.40% OPERATING PROFIT;
+6.40cr, QoQ 124.90% NET PROFIT;
+OPM %: 6.50% vs 6.7%
+NPM %: 2.90% vs 1.9%
+

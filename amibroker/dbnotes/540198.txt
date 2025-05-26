@@ -1,0 +1,26 @@
+CODE	NAME
+540198 
+
+SECTOR : Trading
+INDUSTRY : Trading
+BestQ Dec 2024
+
+***CONS***
+
+
+
+
+
+***PROS***
+- Last 3QSALES is about 112% YSales
+- Last 3QPROFIT is about 117% of YProfit
+- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2024 #Result
+2.40cr, QoQ -2.90% SALES;
+1.40cr, QoQ 19.80% OPERATING PROFIT;
+1.20cr, QoQ 3.60% NET PROFIT;
+OPM %: 60.90% vs 49.4%
+NPM %: 48.70% vs 45.7%
+

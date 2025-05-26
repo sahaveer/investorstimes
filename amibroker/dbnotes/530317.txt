@@ -1,0 +1,38 @@
+CODE	NAME
+530317 
+
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs
+BestQ Dec 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   95.7   |  122.7   |  161.1   |  159.6   |  156.7   |      87.9    
+ SQoQ%:  |   14.6   |   28.2   |   31.3   |   -0.9   |   -1.8   |      56.1    
+ YOPM%:  |   6.3    |   8.0    |   7.0    |   6.2    |   8.5    |              
+ YNPM%:  |   2.1    |   3.4    |   3.3    |   2.4    |   3.5    |              
+YPROFIT: |   2.0    |   4.1    |   5.2    |   3.8    |   5.6    |      3.5     
+ PQoQ%:  |   65.3   |  106.5   |   27.1   |  -27.8   |   46.4   |      62.5    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   43.1   |   38.6   |   32.2   |   26.1   |   29.6  
+ QoQ%:  |   9.0    |  -10.4   |  -16.6   |  -19.0   |   13.3  
+ QOPM%: |   8.2    |   11.6   |   10.0   |   11.1   |   8.7   
+ QNPM%: |   2.8    |   6.9    |   5.1    |   4.2    |   2.6   
+ QPFT:  |   1.2    |   2.7    |   1.6    |   1.1    |   0.8   
+ PQoQ%: |   41.9   |  118.0   |  -38.7   |  -33.1   |  -29.4  
+
+***PROS***
+- Last 3QSALES is about 56% YSales
+- Last 3QPROFIT is about 62% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+156.70cr, QoQ -1.80% & YoY 63.74% SALES;
+13.30cr, QoQ 34.00% & YoY 121.67% OPERATING PROFIT;
+5.60cr, QoQ 46.40% & YoY 180.00% NET PROFIT;
+OPM %: 8.50% vs 6.2%
+NPM %: 3.50% vs 2.4%
+

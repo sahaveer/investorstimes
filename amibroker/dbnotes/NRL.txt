@@ -1,0 +1,12 @@
+CODES
+NRL	
+SECTOR : Trading
+INDUSTRY : Trading
+
+***CONS***
+
+
+
+
+
+***PROS***

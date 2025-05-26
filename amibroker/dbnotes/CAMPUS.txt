@@ -1,0 +1,37 @@
+CODES
+543523	CAMPUS	
+SECTOR : Leather
+INDUSTRY : Leather / Leather Products
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2018 | Mar-2019 | Mar-2020 | Mar-2021 | Mar-2022
+---------+----------+----------+----------+----------+---------
+YSALES:  |  508.2   |  594.9   |  732.0   |  711.3   |  1194.2 
+ SQoQ%:  | 26093.3  |   17.1   |   23.1   |   -2.8   |   67.9  
+ YOPM%:  |   15.1   |   16.8   |   18.6   |   16.3   |   20.3  
+ YNPM%:  |   1.4    |   6.5    |   8.4    |   3.8    |   9.1   
+YPROFIT: |   7.2    |   38.4   |   61.6   |   26.9   |  108.5  
+ PQoQ%:  |  -721.6  |  432.7   |   60.4   |  -56.4   |  303.9  
+ QPNL:  | Mar-2021 | Jun-2021 | Dec-2021 | Mar-2022 | Jun-2022
+--------+----------+----------+----------+----------+---------
+QSALES: |  275.1   |  135.3   |  433.6   |  352.3   |  337.7  
+ QoQ%:  |   nan    |  -50.8   |  220.4   |  -18.7   |   -4.2  
+ QOPM%: |   23.6   |   11.0   |   21.4   |   22.3   |   18.3  
+ QNPM%: |   3.6    |   1.5    |   12.6   |   11.2   |   8.5   
+ QPFT:  |   10.0   |   2.0    |   54.7   |   39.6   |   28.7  
+ PQoQ%: |   nan    |  -80.2   |  2663.6  |  -27.6   |  -27.6  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+YSALES in Mar-2022 is at 1194.2 showing a QoQ_growth of 67.9%. The YNETPROFIT grew by 303.9% to 108.5
+
+Yearly 
+ 31-Mar-2022 #Result
+1194.20cr, QoQ 67.90% & YoY 134.99% SALES;
+242.40cr, QoQ 109.00% & YoY 215.63% OPERATING PROFIT;
+108.50cr, QoQ 303.90% & YoY 1406.94% NET PROFIT;
+OPM %: 20.30% vs 16.3%
+NPM %: 9.10% vs 3.8%
+

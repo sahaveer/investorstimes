@@ -1,0 +1,14 @@
+CODE	NAME
+526025 
+
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+
+***CONS***
+- NEGATIVE YProfit : -12.6
+
+
+
+
+
+***PROS***

@@ -1,0 +1,47 @@
+CODES
+544277	WAAREEENER	
+SECTOR : Capital Goods - Electrical Equipment
+INDUSTRY : Electric Equipment
+EXPANSION 2024
+EXPANSION 2025
+PRODUCT DEMAND
+YSD YPD 2023
+LYPD PM 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1952.8  |  2854.3  |  6750.9  | 11397.6  | 14444.5 
+ SQoQ%:  |   -2.2   |   46.2   |  136.5   |   68.8   |   26.7  
+ YOPM%:  |   4.3    |   3.7    |   12.4   |   13.8   |   18.8  
+ YNPM%:  |   2.5    |   2.7    |   7.2    |   10.9   |   12.9  
+YPROFIT: |   49.2   |   75.6   |  482.8   |  1237.2  |  1867.4 
+ PQoQ%:  |   18.0   |   53.7   |  538.2   |  156.3   |   50.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  2935.8  |  3408.9  |  3574.4  |  3457.3  |  4003.9 
+ QoQ%:  |   83.9   |   16.1   |   4.9    |   -3.3   |   15.8  
+ QOPM%: |   14.2   |   16.2   |   14.7   |   20.9   |   23.0  
+ QNPM%: |   15.7   |   11.6   |   10.1   |   14.3   |   15.5  
+ QPFT:  |  461.5   |  394.1   |  361.6   |  492.7   |  618.9  
+ PQoQ%: |  270.6   |  -14.6   |   -8.2   |   36.2   |   25.6  
+
+***PROS***
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 19.3%
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 26.7% while the Profit QoQ_growth is much better than Sales itself at 50.9%
+
+Yearly 
+ 31-Mar-2025 #Result
+14444.50cr, QoQ 26.70% & YoY 639.68% SALES;
+2721.60cr, QoQ 72.80% & YoY 3109.43% OPERATING PROFIT;
+1867.40cr, QoQ 50.90% & YoY 3695.53% NET PROFIT;
+OPM %: 18.80% vs 13.8%
+NPM %: 12.90% vs 10.9%
+

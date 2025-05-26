@@ -1,0 +1,39 @@
+CODE	NAME
+504084 
+
+SECTOR : Capital Goods - Electrical Equipment
+INDUSTRY : Electric Equipment
+PRODUCT DEMAND
+YSD YPD 2024
+LYPD PM 2024
+
+***CONS***
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2024
+
+YSALES in Mar-2024 is at 48.8 showing a QoQ_growth of 111.4%. The YNETPROFIT grew by 184.2% to 4.5
+
+Quarterly 
+31-Dec-2024 #Result
+11.90cr, QoQ -11.00% SALES;
+1.60cr, QoQ -23.30% OPERATING PROFIT;
+0.90cr, QoQ -38.60% NET PROFIT;
+OPM %: 13.90% vs 16.1%
+NPM %: 7.90% vs 11.5%
+
+
+Yearly 
+ 31-Mar-2024 #Result
+48.80cr, QoQ 111.40% & YoY 97.57% SALES;
+6.80cr, QoQ 4420.00% & YoY 655.56% OPERATING PROFIT;
+4.50cr, QoQ 184.20% & YoY 1025.00% NET PROFIT;
+OPM %: 13.90% vs 0.6%
+NPM %: 9.20% vs 6.8%
+

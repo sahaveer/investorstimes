@@ -1,0 +1,45 @@
+CODE	NAME
+526237 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+BestQ Dec 2024
+YSD YPD 2022
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   1.2    |   5.8    |   16.7   |   11.9   |   23.0   |      32.9    
+ SQoQ%:  |  -138.5  |  400.9   |  187.3   |  -28.5   |   92.9   |     143.0    
+ YOPM%:  |   76.7   |   94.8   |   91.0   |   80.6   |   98.2   |              
+ YNPM%:  |   0.0    |   25.1   |   50.0   |   55.2   |   43.2   |              
+YPROFIT: |   -0.1   |   1.5    |   8.4    |   6.6    |   10.0   |      19.8    
+ PQoQ%:  |  -95.6   | -1560.0  |  471.9   |  -21.2   |   51.2   |     198.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   4.6    |   10.9   |   5.9    |   12.5   |   14.5  
+ QoQ%:  |   16.0   |  139.3   |  -46.0   |  111.9   |   15.9  
+ QOPM%: |   98.7   |   98.4   |   85.9   |   99.0   |   99.6  
+ QNPM%: |   40.4   |   44.1   |   85.1   |   44.1   |   64.2  
+ QPFT:  |   1.8    |   4.8    |   5.0    |   5.5    |   9.3   
+ PQoQ%: |   -7.1   |  161.4   |   4.2    |   9.8    |   68.7  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 186.9%
+- Last 3QSALES is about 143% YSales
+- Last 3QPROFIT is about 198% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2022
+
+
+YSALES in Mar-2024 is at 23.0 showing a QoQ_growth of 92.9%. The YNETPROFIT grew by 51.2% to 10.0
+
+Yearly 
+ 31-Mar-2024 #Result
+23.00cr, QoQ 92.90% & YoY 1816.67% SALES;
+22.60cr, QoQ 135.10% & YoY 2411.11% OPERATING PROFIT;
+10.00cr, QoQ 51.20% & YoY -10100.00% NET PROFIT;
+OPM %: 98.20% vs 80.6%
+NPM %: 43.20% vs 55.2%
+

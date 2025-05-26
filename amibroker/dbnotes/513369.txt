@@ -1,0 +1,39 @@
+CODE	NAME
+513369 
+
+SECTOR : Castings, Forgings & Fastners
+INDUSTRY : Castings & Forgings
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   50.9   |   40.4   |   67.0   |   80.6   |   83.4   |      63.5    
+ SQoQ%:  |   -7.7   |  -20.5   |   65.6   |   20.4   |   3.4    |      76.1    
+ YOPM%:  |   14.6   |   15.8   |   9.9    |   5.0    |   8.2    |              
+ YNPM%:  |   9.0    |   8.9    |   5.6    |   2.0    |   4.8    |              
+YPROFIT: |   4.6    |   3.6    |   3.8    |   1.6    |   4.0    |      4.2     
+ PQoQ%:  |  119.7   |  -21.7   |   5.0    |  -56.4   |  143.3   |     105.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   23.0   |   23.5   |   24.9   |   20.2   |   18.4  
+ QoQ%:  |   24.5   |   2.1    |   5.8    |  -18.5   |   -9.0  
+ QOPM%: |   9.4    |   10.7   |   10.7   |   10.0   |   12.0  
+ QNPM%: |   6.4    |   4.4    |   7.0    |   6.1    |   6.6   
+ QPFT:  |   1.5    |   1.0    |   1.8    |   1.2    |   1.2   
+ PQoQ%: |  345.5   |  -29.3   |   68.3   |  -29.7   |   -1.6  
+
+***PROS***
+A DEBT-Free Company for the last 2 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  have increased this year
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 105% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+83.40cr, QoQ 3.40% & YoY 63.85% SALES;
+6.90cr, QoQ 71.90% & YoY -6.76% OPERATING PROFIT;
+4.00cr, QoQ 143.30% & YoY -13.04% NET PROFIT;
+OPM %: 8.20% vs 5.0%
+NPM %: 4.80% vs 2.0%
+

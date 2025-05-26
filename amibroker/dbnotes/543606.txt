@@ -1,0 +1,24 @@
+CODE	NAME
+543606 
+
+SECTOR : Auto Ancillaries
+INDUSTRY : Auto Ancillaries
+YSD YPD 2024
+YSD YPD 2023
+
+***CONS***
+
+
+
+***PROS***
+- YProfits and YSales DOUBLED in Mar2024
+- YProfits and YSales DOUBLED in Mar2023
+
+Yearly 
+ 31-Mar-2025 #Result
+15.40cr, QoQ 53.30% & YoY 2466.67% SALES;
+2.00cr, QoQ -12.70% & YoY 900.00% OPERATING PROFIT;
+0.90cr, QoQ -15.90% & YoY inf% NET PROFIT;
+OPM %: 13.00% vs 22.9%
+NPM %: 5.90% vs 10.7%
+

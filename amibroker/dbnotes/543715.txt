@@ -1,0 +1,15 @@
+CODES
+543715	IEL	
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+
+***CONS***
+- NEGATIVE YProfit : -136.6
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years

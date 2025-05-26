@@ -1,0 +1,37 @@
+CODES
+532310	SHREERAMA	
+SECTOR : 
+INDUSTRY : 
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  135.8   |  150.3   |  196.3   |  177.7   |  207.8  
+ SQoQ%:  |   3.8    |   10.7   |   30.6   |   -9.5   |   17.0  
+ YOPM%:  |   8.8    |   1.3    |   7.4    |   8.5    |   15.1  
+ YNPM%:  |   2.5    |   0.0    |   2.6    |   5.6    |   24.7  
+YPROFIT: |   3.4    |   -4.9   |   5.0    |   10.0   |   51.4  
+ PQoQ%:  |  -83.7   |  -243.4  |  -202.4  |   97.6   |  415.6  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   46.6   |   43.0   |   52.8   |   52.9   |   59.2  
+ QoQ%:  |   7.2    |   -7.8   |   22.8   |   0.2    |   11.8  
+ QOPM%: |   9.9    |   12.4   |   13.9   |   14.4   |   18.2  
+ QNPM%: |   7.2    |   9.8    |   10.0   |   9.9    |   61.9  
+ QPFT:  |   3.4    |   4.2    |   5.3    |   5.3    |   36.6  
+ PQoQ%: |   58.8   |   25.4   |   26.0   |   -0.6   |  595.8  
+
+***PROS***
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+YSALES in Mar-2025 is at 207.8 showing a QoQ_growth of 17.0%. The YNETPROFIT grew by 415.6% to 51.4
+
+Yearly 
+ 31-Mar-2025 #Result
+207.80cr, QoQ 17.00% & YoY 53.02% SALES;
+31.30cr, QoQ 106.80% & YoY 163.03% OPERATING PROFIT;
+51.40cr, QoQ 415.60% & YoY 1411.76% NET PROFIT;
+OPM %: 15.10% vs 8.5%
+NPM %: 24.70% vs 5.6%
+

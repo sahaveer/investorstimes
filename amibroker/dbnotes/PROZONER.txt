@@ -1,0 +1,39 @@
+CODES
+534675	PROZONER	
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+YSD YPD 2022
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   85.0   |   44.9   |   93.4   |  173.2   |  184.5   |     125.9    
+ SQoQ%:  |  -28.1   |  -47.2   |  108.2   |   85.4   |   6.5    |      68.2    
+ YOPM%:  |   57.0   |   42.6   |   41.8   |   32.0   |   29.7   |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   14.6   |   2.5    |              
+YPROFIT: |   -1.5   |  -27.7   |   -3.5   |   25.3   |   4.5    |      -5.1    
+ PQoQ%:  |  -162.0  |  1722.4  |  -87.3   |  -821.1  |  -82.1   |     -113.3   
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   41.4   |   51.6   |   32.2   |   48.9   |   44.8  
+ QoQ%:  |   8.9    |   24.6   |  -37.6   |   51.8   |   -8.2  
+ QOPM%: |   35.4   |   11.8   |   21.7   |   30.0   |   38.8  
+ QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   1.8   
+ QPFT:  |   -0.5   |   -5.3   |   -4.6   |   -1.3   |   0.8   
+ PQoQ%: |  -136.0  |  954.0   |  -13.1   |  -71.0   |  -160.2 
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 68% YSales
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2022
+
+Yearly 
+ 31-Mar-2024 #Result
+184.50cr, QoQ 6.50% & YoY 117.06% SALES;
+54.80cr, QoQ -1.30% & YoY 13.22% OPERATING PROFIT;
+4.50cr, QoQ -82.10% & YoY -400.00% NET PROFIT;
+OPM %: 29.70% vs 32.0%
+NPM %: 2.50% vs 14.6%
+

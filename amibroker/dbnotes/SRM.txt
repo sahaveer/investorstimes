@@ -1,0 +1,37 @@
+CODES
+544158	SRM	
+SECTOR : Infrastructure Developers & Operators
+INDUSTRY : Construction
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  160.1   |  263.6   |  300.3   |  342.4   |  528.1  
+ SQoQ%:  |   nan    |   64.7   |   13.9   |   14.0   |   54.2  
+ YOPM%:  |   10.3   |   11.4   |   12.8   |   12.2   |   15.4  
+ YNPM%:  |   5.2    |   6.7    |   6.2    |   7.9    |   10.4  
+YPROFIT: |   8.3    |   17.6   |   18.8   |   27.0   |   55.0  
+ PQoQ%:  |   nan    |  112.5   |   6.7    |   43.8   |  103.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  107.9   |   54.9   |   95.2   |  150.4   |  227.6  
+ QoQ%:  |   24.4   |  -49.1   |   73.6   |   57.9   |   51.3  
+ QOPM%: |   11.8   |   17.9   |   15.9   |   14.9   |   14.9  
+ QNPM%: |   5.7    |   8.7    |   10.9   |   10.6   |   10.6  
+ QPFT:  |   6.2    |   4.8    |   10.4   |   16.0   |   24.1  
+ PQoQ%: |   58.2   |  -22.7   |  117.0   |   54.6   |   50.5  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+YSALES in Mar-2025 is at 528.1 showing a QoQ_growth of 54.2%. The YNETPROFIT grew by 103.9% to 55.0
+
+Yearly 
+ 31-Mar-2025 #Result
+528.10cr, QoQ 54.20% & YoY 229.86% SALES;
+81.40cr, QoQ 95.50% & YoY 390.36% OPERATING PROFIT;
+55.00cr, QoQ 103.90% & YoY 562.65% NET PROFIT;
+OPM %: 15.40% vs 12.2%
+NPM %: 10.40% vs 7.9%
+

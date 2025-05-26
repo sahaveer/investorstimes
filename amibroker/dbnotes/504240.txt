@@ -1,0 +1,39 @@
+CODE	NAME
+504240 
+
+SECTOR : Cables
+INDUSTRY : Cables - Power
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  125.7   |  123.2   |  159.1   |  272.1   |  400.9   |     507.0    
+ SQoQ%:  |   76.7   |   -2.1   |   29.2   |   71.0   |   47.3   |     126.5    
+ YOPM%:  |   9.6    |   7.8    |   7.3    |   6.7    |   7.2    |              
+ YNPM%:  |   4.7    |   0.5    |   0.5    |   0.2    |   3.7    |              
+YPROFIT: |   5.9    |   0.6    |   0.8    |   0.6    |   14.7   |      14.9    
+ PQoQ%:  |  -88.3   |  -89.5   |   24.2   |  -24.7   |  2427.6  |     101.4    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  109.7   |  131.8   |  143.5   |  174.9   |  188.6  
+ QoQ%:  |   22.0   |   20.2   |   8.9    |   21.9   |   7.8   
+ QOPM%: |   7.4    |   6.0    |   6.7    |   5.7    |   6.0   
+ QNPM%: |   3.4    |   4.8    |   2.1    |   4.9    |   1.8   
+ QPFT:  |   3.7    |   6.3    |   3.0    |   8.5    |   3.4   
+ PQoQ%: |   12.3   |   68.7   |  -52.1   |  181.1   |  -60.4  
+
+***PROS***
+- Last 3QSALES is about 126% YSales
+- Last 3QPROFIT is about 101% of YProfit
+
+YSALES in Mar-2024 is at 400.9 showing a QoQ_growth of 47.3%. The YNETPROFIT grew by 2427.6% to 14.7
+
+Yearly 
+ 31-Mar-2024 #Result
+400.90cr, QoQ 47.30% & YoY 218.93% SALES;
+28.70cr, QoQ 57.70% & YoY 137.19% OPERATING PROFIT;
+14.70cr, QoQ 2427.60% & YoY 149.15% NET PROFIT;
+OPM %: 7.20% vs 6.7%
+NPM %: 3.70% vs 0.2%
+

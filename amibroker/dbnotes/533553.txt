@@ -1,0 +1,38 @@
+CODES
+533553	TDPOWERSYS	
+SECTOR : Capital Goods - Electrical Equipment
+INDUSTRY : Electric Equipment
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  593.6   |  797.4   |  872.3   |  1000.5  |  1278.8 
+ SQoQ%:  |   15.3   |   34.3   |   9.4    |   14.7   |   27.8  
+ YOPM%:  |   11.9   |   12.2   |   15.3   |   17.1   |   18.0  
+ YNPM%:  |   7.6    |   8.8    |   11.1   |   11.8   |   13.7  
+YPROFIT: |   45.2   |   70.5   |   96.8   |  118.4   |  174.6  
+ PQoQ%:  |   51.0   |   56.0   |   37.3   |   22.2   |   47.5  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  263.9   |  273.8   |  306.4   |  350.3   |  348.2  
+ QoQ%:  |   8.8    |   3.7    |   11.9   |   14.3   |   -0.6  
+ QOPM%: |   15.9   |   17.7   |   18.1   |   17.5   |   18.8  
+ QNPM%: |   11.0   |   12.9   |   13.5   |   12.8   |   15.2  
+ QPFT:  |   29.0   |   35.4   |   41.3   |   44.9   |   53.0  
+ PQoQ%: |   -2.9   |   21.8   |   16.7   |   8.9    |   18.0  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 18.0%
+
+YSALES in Mar-2025 is at 1278.8 showing a QoQ_growth of 27.8%. The YNETPROFIT grew by 47.5% to 174.6
+
+Yearly 
+ 31-Mar-2025 #Result
+1278.80cr, QoQ 27.80% & YoY 115.43% SALES;
+230.80cr, QoQ 34.90% & YoY 225.99% OPERATING PROFIT;
+174.60cr, QoQ 47.50% & YoY 286.28% NET PROFIT;
+OPM %: 18.00% vs 17.1%
+NPM %: 13.70% vs 11.8%
+

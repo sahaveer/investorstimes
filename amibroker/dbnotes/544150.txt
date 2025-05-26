@@ -1,0 +1,28 @@
+CODE	NAME
+544150 
+
+SECTOR : Engineering
+INDUSTRY : Engineering
+YSD YPD 2024
+LYPD PM 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+- YProfits and YSales DOUBLED in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 99.0% while the Profit QoQ_growth is much better than Sales itself at 107.7%
+
+Yearly 
+ 31-Mar-2025 #Result
+694.60cr, QoQ 99.00% & YoY 1699.48% SALES;
+107.90cr, QoQ 108.70% & YoY 1898.15% OPERATING PROFIT;
+73.50cr, QoQ 107.70% & YoY 4493.75% NET PROFIT;
+OPM %: 15.50% vs 14.8%
+NPM %: 10.60% vs 10.1%
+

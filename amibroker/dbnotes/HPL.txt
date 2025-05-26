@@ -1,0 +1,38 @@
+CODES
+540136	HPL	
+SECTOR : Capital Goods - Electrical Equipment
+INDUSTRY : Electric Equipment
+PRODUCT DEMAND
+YS15 YPD 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  875.1   |  1014.0  |  1262.2  |  1460.9  |  1700.2 
+ SQoQ%:  |  -10.4   |   15.9   |   24.5   |   15.7   |   16.4  
+ YOPM%:  |   13.6   |   12.3   |   12.4   |   13.2   |   15.0  
+ YNPM%:  |   1.1    |   0.8    |   2.4    |   3.0    |   5.5   
+YPROFIT: |   10.0   |   7.8    |   30.2   |   43.6   |   93.8  
+ PQoQ%:  |  -54.2   |  -22.0   |  288.4   |   44.3   |  115.3  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  424.1   |  392.9   |  422.3   |  392.5   |  492.5  
+ QoQ%:  |   16.0   |   -7.4   |   7.5    |   -7.1   |   25.5  
+ QOPM%: |   13.0   |   14.3   |   14.3   |   14.2   |   16.7  
+ QNPM%: |   3.2    |   4.3    |   5.1    |   4.6    |   7.5   
+ QPFT:  |   13.7   |   17.0   |   21.5   |   18.1   |   37.1  
+ PQoQ%: |   14.8   |   24.1   |   26.4   |  -16.0   |  105.4  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
+As on Mar2025, Sales have increased by 16.4% while the Profit QoQ_growth is much better than Sales itself at 115.3%
+
+Yearly 
+ 31-Mar-2025 #Result
+1700.20cr, QoQ 16.40% & YoY 94.29% SALES;
+254.60cr, QoQ 32.00% & YoY 113.95% OPERATING PROFIT;
+93.80cr, QoQ 115.30% & YoY 838.00% NET PROFIT;
+OPM %: 15.00% vs 13.2%
+NPM %: 5.50% vs 3.0%
+

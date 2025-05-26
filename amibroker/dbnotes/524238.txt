@@ -1,0 +1,34 @@
+CODE	NAME
+524238 
+
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Formulations
+BestQ Dec 2024
+YSD YPD 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.0    |   0.0    |   0.0    |   0.2    |   5.8    |      14.8    
+ SQoQ%:  |   nan    |   inf    |  100.0   |  750.0   |  3305.9  |     255.2    
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.9    |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   23.5   |   1.4    |              
+YPROFIT: |   0.0    |   -0.1   |   0.0    |   0.0    |   0.1    |      0.9     
+ PQoQ%:  |  -100.0  |   -inf   |  -100.0  |   inf    |  100.0   |     900.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.2    |   5.4    |   3.0    |   8.6    |   3.2   
+ QoQ%:  |   inf    |  2363.6  |  -43.7   |  182.3   |  -63.4  
+ QOPM%: |   0.0    |   0.9    |   5.6    |   6.3    |   8.9   
+ QNPM%: |   0.0    |   0.7    |   3.9    |   7.1    |   6.7   
+ QPFT:  |   0.0    |   0.0    |   0.1    |   0.6    |   0.2   
+ PQoQ%: |  -100.0  |   inf    |  200.0   |  408.3   |  -65.6  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 255% YSales
+- Last 3QPROFIT is about 900% of YProfit
+- YProfits and YSales DOUBLED in Mar2024
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2024, Sales have increased by 3305.9% while the Profit QoQ_growth is at 100.0%

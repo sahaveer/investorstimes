@@ -1,0 +1,43 @@
+CODES
+500262	HYBRIDFIN	
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+PRODUCT DEMAND
+LYPD PM 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   3.4    |   4.3    |   3.5    |   5.1    |   6.4   
+ SQoQ%:  |   3.7    |   28.4   |  -19.1   |   46.3   |   26.1  
+ YOPM%:  |   29.9   |   37.9   |   30.7   |   44.4   |   53.0  
+ YNPM%:  |   11.9   |   37.9   |   14.7   |   38.1   |   59.8  
+YPROFIT: |   0.4    |   1.6    |   0.5    |   1.9    |   3.8   
+ PQoQ%:  |  -33.3   |  307.5   |  -68.7   |  280.4   |   97.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   2.0    |   1.4    |   1.8    |   1.3    |   2.0   
+ QoQ%:  |   90.6   |  -31.2   |   28.8   |  -28.5   |   53.1  
+ QOPM%: |   55.9   |   47.5   |   63.7   |   39.8   |   55.6  
+ QNPM%: |   43.6   |   96.4   |   62.0   |   25.0   |   54.6  
+ QPFT:  |   0.9    |   1.3    |   1.1    |   0.3    |   1.1   
+ PQoQ%: |  175.0   |   52.3   |  -17.2   |  -71.2   |  234.4  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 19.9%
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 26.1% while the Profit QoQ_growth is much better than Sales itself at 97.9%
+
+Yearly 
+ 31-Mar-2025 #Result
+6.40cr, QoQ 26.10% & YoY 88.24% SALES;
+3.40cr, QoQ 50.40% & YoY 240.00% OPERATING PROFIT;
+3.80cr, QoQ 97.90% & YoY 850.00% NET PROFIT;
+OPM %: 53.00% vs 44.4%
+NPM %: 59.80% vs 38.1%
+

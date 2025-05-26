@@ -1,0 +1,23 @@
+CODES
+CMNL	
+SECTOR : Steel
+INDUSTRY : Steel - Sponge Iron
+EXPANSION 2024
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2024 #Result
+188.90cr, QoQ -17.00% & YoY 225.69% SALES;
+18.20cr, QoQ -30.30% & YoY inf% OPERATING PROFIT;
+12.50cr, QoQ -26.80% & YoY 237.84% NET PROFIT;
+OPM %: 9.60% vs 11.5%
+NPM %: 6.60% vs 7.5%
+

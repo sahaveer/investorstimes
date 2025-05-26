@@ -1,0 +1,38 @@
+CODES
+500092	CRISIL	
+SECTOR : Credit Rating Agencies
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Dec-2020 | Dec-2021 | Dec-2022 | Dec-2023 | Dec-2024
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1981.8  |  2300.7  |  2768.7  |  3139.5  |  3259.8 
+ SQoQ%:  |   14.4   |   16.1   |   20.3   |   13.4   |   3.8   
+ YOPM%:  |   25.8   |   26.5   |   26.4   |   28.1   |   27.9  
+ YNPM%:  |   17.9   |   20.2   |   20.4   |   21.0   |   21.0  
+YPROFIT: |  354.7   |  465.8   |  564.4   |  658.4   |  684.1  
+ PQoQ%:  |   3.1    |   31.3   |   21.2   |   16.7   |   3.9   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  737.7   |  797.4   |  811.8   |  912.9   |  813.2  
+ QoQ%:  |  -19.6   |   8.1    |   1.8    |   12.4   |  -10.9  
+ QOPM%: |   26.0   |   25.9   |   27.6   |   31.4   |   28.5  
+ QNPM%: |   18.7   |   18.8   |   21.1   |   24.6   |   19.7  
+ QPFT:  |  137.7   |  150.1   |  171.6   |  224.7   |  159.8  
+ PQoQ%: |  -34.5   |   9.0    |   14.3   |   31.0   |  -28.9  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Dec2024 is at 45.8%
+- YMargins improvised by more than 15% since Dec2022 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Dec-2024 #Result
+3259.80cr, QoQ 3.80% & YoY 64.49% SALES;
+910.80cr, QoQ 3.30% & YoY 78.38% OPERATING PROFIT;
+684.10cr, QoQ 3.90% & YoY 92.87% NET PROFIT;
+OPM %: 27.90% vs 28.1%
+NPM %: 21.00% vs 21.0%
+

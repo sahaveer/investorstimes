@@ -1,0 +1,37 @@
+CODES
+534748	STEELXIND	
+SECTOR : Steel
+INDUSTRY : Steel - Medium / Small
+LYPD PM 2025
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  898.4   |  1099.5  |  1375.4  |  1085.7  |  1144.0 
+ SQoQ%:  |   15.1   |   22.4   |   25.1   |  -21.1   |   5.4   
+ YOPM%:  |   14.9   |   9.6    |   7.0    |   8.9    |   10.9  
+ YNPM%:  |   15.6   |   10.6   |   0.0    |   1.0    |   2.3   
+YPROFIT: |  140.0   |  116.5   |  -58.8   |   10.9   |   25.9  
+ PQoQ%:  |  117.7   |  -16.8   |  -150.5  |  -118.5  |  138.1  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  312.2   |  263.6   |  261.1   |  327.5   |  291.4  
+ QoQ%:  |   21.8   |  -15.5   |   -1.0   |   25.5   |  -11.0  
+ QOPM%: |   10.8   |   9.4    |   10.3   |   12.0   |   11.3  
+ QNPM%: |   6.3    |   1.0    |   1.0    |   4.8    |   1.6   
+ QPFT:  |   19.8   |   2.6    |   2.7    |   15.9   |   4.8   
+ PQoQ%: |  9304.8  |  -86.9   |   5.4    |  483.1   |  -70.0  
+
+***PROS***
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+Yearly 
+ 31-Mar-2025 #Result
+1144.00cr, QoQ 5.40% & YoY 27.34% SALES;
+124.30cr, QoQ 29.00% & YoY -7.31% OPERATING PROFIT;
+25.90cr, QoQ 138.10% & YoY -81.50% NET PROFIT;
+OPM %: 10.90% vs 8.9%
+NPM %: 2.30% vs 1.0%
+

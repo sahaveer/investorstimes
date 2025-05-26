@@ -1,0 +1,42 @@
+CODE	NAME
+526847 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+BestQ Dec 2024
+YSD YPD 2022
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   8.2    |   1.6    |   3.3    |   4.4    |   4.4    |      1.0     
+ SQoQ%:  |  195.3   |  -80.7   |  106.3   |   36.2   |   -0.9   |      22.7    
+ YOPM%:  |   0.0    |   0.0    |   15.6   |   65.1   |   75.7   |              
+ YNPM%:  |   0.0    |   0.0    |  141.7   |  377.7   |   51.4   |              
+YPROFIT: |   -3.7   |   -0.3   |   4.6    |   16.8   |   2.3    |      1.6     
+ PQoQ%:  |  -148.8  |  -91.6   | -1590.3  |  263.0   |  -86.5   |      69.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.3    |   0.9    |   0.4    |   0.3    |   0.3   
+ QoQ%:  |   47.8   |  152.9   |  -59.3   |  -20.0   |   21.4  
+ QOPM%: |   35.3   |   67.4   |   34.3   |   17.9   |   32.4  
+ QNPM%: |  167.6   |  104.7   |  171.4   |  182.1   |  138.2  
+ QPFT:  |   0.6    |   0.9    |   0.6    |   0.5    |   0.5   
+ PQoQ%: |   14.0   |   57.9   |  -33.3   |  -15.0   |   -7.8  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QPROFIT is about 70% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2022
+
+
+Yearly 
+ 31-Mar-2024 #Result
+4.40cr, QoQ -0.90% & YoY -46.34% SALES;
+3.30cr, QoQ 15.20% & YoY -257.14% OPERATING PROFIT;
+2.30cr, QoQ -86.50% & YoY -162.16% NET PROFIT;
+OPM %: 75.70% vs 65.1%
+NPM %: 51.40% vs 377.7%
+

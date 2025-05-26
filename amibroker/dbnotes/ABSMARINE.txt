@@ -1,0 +1,23 @@
+CODES
+ABSMARINE	
+SECTOR : Shipping
+INDUSTRY : Shipping
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+YSALES in Mar-2024 is at 118.1 showing a QoQ_growth of 24.1%. The YNETPROFIT grew by 143.2% to 19.5
+
+Yearly 
+ 31-Mar-2024 #Result
+118.10cr, QoQ 24.10% & YoY 56.22% SALES;
+30.60cr, QoQ 96.70% & YoY 178.18% OPERATING PROFIT;
+19.50cr, QoQ 143.20% & YoY 186.76% NET PROFIT;
+OPM %: 25.90% vs 16.4%
+NPM %: 16.50% vs 8.4%
+

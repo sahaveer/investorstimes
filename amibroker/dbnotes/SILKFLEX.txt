@@ -1,0 +1,25 @@
+CODES
+SILKFLEX	
+SECTOR : Trading
+INDUSTRY : Trading
+LYPD PM 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 34.5% while the Profit QoQ_growth is much better than Sales itself at 78.1%
+
+Yearly 
+ 31-Mar-2025 #Result
+80.20cr, QoQ 34.50% & YoY 287.44% SALES;
+11.80cr, QoQ 68.10% & YoY 883.33% OPERATING PROFIT;
+7.00cr, QoQ 78.10% & YoY 1650.00% NET PROFIT;
+OPM %: 14.70% vs 11.7%
+NPM %: 8.70% vs 6.6%
+

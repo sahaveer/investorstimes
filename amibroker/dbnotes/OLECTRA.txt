@@ -1,0 +1,40 @@
+CODES
+532439	OLECTRA	
+SECTOR : Automobile
+INDUSTRY : Automobiles - LCVs / HCVs
+PRODUCT DEMAND
+BestQ Dec 2024
+YSD YPD 2022
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  200.5   |  281.4   |  593.3   |  1090.8  |  1154.1  |     1353.0   
+ SQoQ%:  |   17.9   |   40.3   |  110.8   |   83.9   |   5.8    |     117.2    
+ YOPM%:  |   2.5    |   7.2    |   14.3   |   13.0   |   14.4   |              
+ YNPM%:  |   6.7    |   2.9    |   6.0    |   6.0    |   6.7    |              
+YPROFIT: |   13.5   |   8.1    |   35.4   |   65.6   |   76.8   |     117.9    
+ PQoQ%:  |  -185.6  |  -40.3   |  337.5   |   85.5   |   17.1   |     153.5    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  342.1   |  288.8   |  313.9   |  523.7   |  515.4  
+ QoQ%:  |   11.4   |  -15.6   |   8.7    |   66.8   |   -1.6  
+ QOPM%: |   14.3   |   11.9   |   14.0   |   15.5   |   15.3  
+ QNPM%: |   7.9    |   4.7    |   7.6    |   9.1    |   9.0   
+ QPFT:  |   27.0   |   13.7   |   24.0   |   47.6   |   46.3  
+ PQoQ%: |   49.4   |  -49.2   |   75.1   |   98.2   |   -2.6  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 117% YSales
+- Last 3QPROFIT is about 154% of YProfit
+- YProfits and YSales DOUBLED in Mar2022
+
+Yearly 
+ 31-Mar-2024 #Result
+1154.10cr, QoQ 5.80% & YoY 475.61% SALES;
+165.90cr, QoQ 17.40% & YoY 3218.00% OPERATING PROFIT;
+76.80cr, QoQ 17.10% & YoY 468.89% NET PROFIT;
+OPM %: 14.40% vs 13.0%
+NPM %: 6.70% vs 6.0%
+

@@ -1,0 +1,43 @@
+CODES
+541233	LEMONTREE	
+SECTOR : Hotels & Restaurants
+INDUSTRY : Hotels
+BestQ Dec 2024
+YSD YPD 2023
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  669.4   |  251.7   |  402.2   |  875.0   |  1071.1  |     907.6    
+ SQoQ%:  |   21.8   |  -62.4   |   59.8   |  117.5   |   22.4   |      84.7    
+ YOPM%:  |   36.0   |   22.8   |   29.5   |   51.2   |   48.8   |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   13.1   |   13.9   |              
+YPROFIT: |   -9.5   |  -127.1  |  -87.4   |  114.6   |  148.5   |     111.9    
+ PQoQ%:  |  -118.0  |  1232.0  |  -31.2   |  -231.0  |   29.6   |      75.4    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  290.2   |  327.3   |  268.0   |  284.4   |  355.2  
+ QoQ%:  |   27.7   |   12.8   |  -18.1   |   6.1    |   24.9  
+ QOPM%: |   48.7   |   52.3   |   42.9   |   46.0   |   51.9  
+ QNPM%: |   12.2   |   20.5   |   7.4    |   10.4   |   17.6  
+ QPFT:  |   35.4   |   67.0   |   19.8   |   29.6   |   62.5  
+ PQoQ%: |   56.3   |   89.2   |  -70.4   |   49.6   |  110.8  
+
+***PROS***
+- Last 3QSALES is about 85% YSales
+- Last 3QPROFIT is about 75% of YProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2024
+
+YSALES in Mar-2024 is at 1071.1 showing a QoQ_growth of 22.4%. The YNETPROFIT grew by 29.6% to 148.5
+
+Yearly 
+ 31-Mar-2024 #Result
+1071.10cr, QoQ 22.40% & YoY 60.01% SALES;
+523.20cr, QoQ 16.90% & YoY 117.28% OPERATING PROFIT;
+148.50cr, QoQ 29.60% & YoY -1663.16% NET PROFIT;
+OPM %: 48.80% vs 51.2%
+NPM %: 13.90% vs 13.1%
+

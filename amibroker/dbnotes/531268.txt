@@ -1,0 +1,39 @@
+CODE	NAME
+531268 
+
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Medium / Small
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   13.9   |   14.9   |   19.9   |   19.8   |   20.3   |      16.6    
+ SQoQ%:  |   30.4   |   7.5    |   33.6   |   -0.7   |   2.8    |      81.8    
+ YOPM%:  |   3.2    |   10.1   |   15.5   |   10.4   |   6.0    |              
+ YNPM%:  |   6.6    |   12.6   |   13.4   |   12.0   |   9.1    |              
+YPROFIT: |   0.9    |   1.9    |   2.7    |   2.4    |   1.8    |      2.0     
+ PQoQ%:  |  355.0   |  106.6   |   42.0   |  -10.9   |  -22.3   |     111.1    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   4.6    |   6.3    |   5.0    |   6.2    |   5.4   
+ QoQ%:  |   -9.6   |   34.9   |  -19.6   |   23.7   |  -13.2  
+ QOPM%: |   15.7   |   7.0    |   16.5   |   5.0    |   6.9   
+ QNPM%: |   18.3   |   8.6    |   22.3   |   5.0    |   12.0  
+ QPFT:  |   0.8    |   0.5    |   1.1    |   0.3    |   0.6   
+ PQoQ%: |  150.0   |  -36.5   |  107.4   |  -72.3   |  109.7  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 111% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+20.30cr, QoQ 2.80% & YoY 46.04% SALES;
+1.20cr, QoQ -40.50% & YoY 200.00% OPERATING PROFIT;
+1.80cr, QoQ -22.30% & YoY 100.00% NET PROFIT;
+OPM %: 6.00% vs 10.4%
+NPM %: 9.10% vs 12.0%
+

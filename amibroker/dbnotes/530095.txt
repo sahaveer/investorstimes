@@ -1,0 +1,32 @@
+CODE	NAME
+530095 
+
+SECTOR : Trading
+INDUSTRY : Trading
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  114.5   |   24.0   |   19.3   |   17.1   |   4.6    |     205.8    
+ SQoQ%:  |  249.6   |  -79.1   |  -19.5   |  -11.6   |  -73.0   |     4473.9   
+ YOPM%:  |   0.5    |   0.0    |   0.0    |   0.0    |   0.0    |              
+ YNPM%:  |   0.4    |   0.0    |   1.8    |   0.0    |   11.7   |              
+YPROFIT: |   0.5    |   -0.2   |   0.3    |   -0.1   |   0.5    |      2.0     
+ PQoQ%:  |  -128.9  |  -147.9  |  -247.8  |  -129.4  |  -640.0  |     400.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.0    |   1.7    |   0.0    |   82.9   |  122.9  
+ QoQ%:  |  -100.0  |   inf    |  -100.0  |   inf    |   48.2  
+ QOPM%: |   0.0    |   0.0    |   0.0    |   1.5    |   0.5   
+ QNPM%: |   0.0    |   42.4   |   inf    |   1.0    |   0.6   
+ QPFT:  |   -0.0   |   0.7    |   0.4    |   0.8    |   0.8   
+ PQoQ%: |  -150.0  | -3700.0  |  -51.4   |  134.3   |   -7.3  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 4474% YSales
+- Last 3QPROFIT is about 400% of YProfit
+- YProfit Turned POSITIVE this year Mar-2024 : 0.5

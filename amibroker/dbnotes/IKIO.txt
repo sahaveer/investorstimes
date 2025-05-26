@@ -1,0 +1,37 @@
+CODES
+543923	IKIO	
+SECTOR : Capital Goods - Electrical Equipment
+INDUSTRY : Electric Equipment
+EXPANSION 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  213.0   |  331.8   |  358.8   |  438.0   |  485.9  
+ SQoQ%:  |   -3.2   |   55.8   |   8.1    |   22.1   |   10.9  
+ YOPM%:  |   22.6   |   23.3   |   21.6   |   21.2   |   12.3  
+ YNPM%:  |   13.5   |   15.2   |   13.9   |   13.8   |   6.4   
+YPROFIT: |   28.8   |   50.5   |   50.0   |   60.6   |   30.9  
+ PQoQ%:  |   34.6   |   75.4   |   -1.0   |   21.0   |  -49.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   94.8   |  127.0   |  125.0   |  121.5   |  112.3  
+ QoQ%:  |  -18.9   |   34.0   |   -1.6   |   -2.8   |   -7.6  
+ QOPM%: |   17.9   |   13.2   |   17.8   |   12.2   |   5.5   
+ QNPM%: |   10.0   |   9.8    |   10.4   |   6.5    |   0.0   
+ QPFT:  |   9.5    |   12.4   |   13.0   |   7.9    |   -2.3  
+ PQoQ%: |  -49.8   |   30.1   |   4.8    |  -39.3   |  -129.7 
+
+***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+
+Yearly 
+ 31-Mar-2025 #Result
+485.90cr, QoQ 10.90% & YoY 128.12% SALES;
+60.00cr, QoQ -35.50% & YoY 24.74% OPERATING PROFIT;
+30.90cr, QoQ -49.00% & YoY 7.29% NET PROFIT;
+OPM %: 12.30% vs 21.2%
+NPM %: 6.40% vs 13.8%
+

@@ -1,0 +1,15 @@
+CODE	NAME
+526935 
+
+SECTOR : Realty
+INDUSTRY : Construction
+
+***CONS***
+- NEGATIVE YProfit : -0.2
+
+
+
+
+
+***PROS***
+

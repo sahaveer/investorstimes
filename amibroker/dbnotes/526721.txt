@@ -1,0 +1,47 @@
+CODE	NAME
+526721 
+
+SECTOR : Entertainment
+INDUSTRY : Recreation / Amusement Parks
+BestQ Dec 2024
+YSD YPD 2023
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   55.1   |   17.5   |   31.3   |   76.6   |   79.3   |      57.4    
+ SQoQ%:  |   -0.6   |  -68.2   |   78.9   |  144.5   |   3.5    |      72.4    
+ YOPM%:  |   19.2   |   0.0    |   18.6   |   38.6   |   34.4   |              
+ YNPM%:  |   13.5   |   0.0    |   15.5   |   29.4   |   31.2   |              
+YPROFIT: |   7.5    |   -3.5   |   4.9    |   22.5   |   24.8   |      19.1    
+ PQoQ%:  |  -20.2   |  -147.2  |  -238.4  |  362.8   |   9.8    |      77.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   17.6   |   18.3   |   24.7   |   13.8   |   18.9  
+ QoQ%:  |   5.2    |   4.3    |   35.0   |  -44.3   |   37.3  
+ QOPM%: |   25.9   |   24.5   |   39.9   |   20.3   |   27.0  
+ QNPM%: |   24.0   |   27.0   |   35.5   |   39.5   |   25.7  
+ QPFT:  |   4.2    |   4.9    |   8.8    |   5.4    |   4.9   
+ PQoQ%: |  -11.6   |   17.3   |   77.9   |  -38.1   |  -10.7  
+
+***PROS***
+A DEBT-Free Company for the last 2 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 33.9%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 72% YSales
+- Last 3QPROFIT is about 77% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2024
+- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2024 #Result
+79.30cr, QoQ 3.50% & YoY 43.92% SALES;
+27.30cr, QoQ -7.90% & YoY 157.55% OPERATING PROFIT;
+24.80cr, QoQ 9.80% & YoY 230.67% NET PROFIT;
+OPM %: 34.40% vs 38.6%
+NPM %: 31.20% vs 29.4%
+

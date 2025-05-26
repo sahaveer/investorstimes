@@ -1,0 +1,43 @@
+CODE	NAME
+509546 
+
+SECTOR : Hotels & Restaurants
+INDUSTRY : Hotels
+BestQ Dec 2024
+YSD YPD 2022
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   39.5   |   22.9   |   48.3   |   65.5   |   54.1   |      41.7    
+ SQoQ%:  |  -16.8   |  -42.2   |  111.3   |   35.4   |  -17.3   |      77.1    
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   16.1   |   12.3   |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   9.1    |   5.6    |              
+YPROFIT: |   -8.8   |  -15.2   |   -6.5   |   6.0    |   3.0    |      9.6     
+ PQoQ%:  |  366.7   |   72.9   |  -57.4   |  -191.5  |  -49.4   |     320.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   16.4   |   16.8   |   11.1   |   12.6   |   18.0  
+ QoQ%:  |   70.5   |   2.9    |  -33.9   |   13.3   |   42.7  
+ QOPM%: |   34.7   |   10.4   |   1.6    |   7.2    |   21.1  
+ QNPM%: |   24.8   |   6.0    |   0.0    |   70.7   |   7.8   
+ QPFT:  |   4.0    |   1.0    |   -0.7   |   8.9    |   1.4   
+ PQoQ%: |  -276.1  |  -75.1   |  -169.3  | -1372.9  |  -84.2  
+
+***PROS***
+A DEBT-Free Company for the last 2 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 320% of YProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2022
+
+Yearly 
+ 31-Mar-2024 #Result
+54.10cr, QoQ -17.30% & YoY 36.96% SALES;
+6.70cr, QoQ -36.40% & YoY -245.65% OPERATING PROFIT;
+3.00cr, QoQ -49.40% & YoY -134.09% NET PROFIT;
+OPM %: 12.30% vs 16.1%
+NPM %: 5.60% vs 9.1%
+

@@ -1,0 +1,40 @@
+CODES
+531599	FDC	
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  1341.4  |  1330.8  |  1525.0  |  1783.8  |  1942.9  |     1616.2   
+ SQoQ%:  |   23.2   |   -0.8   |   14.6   |   17.0   |   8.9    |      83.2    
+ YOPM%:  |   22.6   |   25.1   |   16.6   |   14.1   |   17.4   |              
+ YNPM%:  |   17.9   |   22.6   |   14.2   |   10.9   |   15.7   |              
+YPROFIT: |  239.9   |  301.4   |  216.4   |  194.0   |  305.2   |     228.0    
+ PQoQ%:  |   41.3   |   25.6   |  -28.2   |  -10.3   |   57.3   |      74.7    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  458.2   |  462.0   |  638.3   |  513.8   |  464.1  
+ QoQ%:  |   -5.8   |   0.8    |   38.1   |  -19.5   |   -9.7  
+ QOPM%: |   18.3   |   12.2   |   23.0   |   13.7   |   10.1  
+ QNPM%: |   17.3   |   10.0   |   18.7   |   14.0   |   8.0   
+ QPFT:  |   79.2   |   46.3   |  119.0   |   72.0   |   37.0  
+ PQoQ%: |   13.5   |  -41.6   |  157.2   |  -39.5   |  -48.6  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 75% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+1942.90cr, QoQ 8.90% & YoY 44.84% SALES;
+338.50cr, QoQ 34.90% & YoY 11.46% OPERATING PROFIT;
+305.20cr, QoQ 57.30% & YoY 27.22% NET PROFIT;
+OPM %: 17.40% vs 14.1%
+NPM %: 15.70% vs 10.9%
+

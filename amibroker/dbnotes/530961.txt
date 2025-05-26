@@ -1,0 +1,39 @@
+CODES
+530961	VIKASECO	
+SECTOR : Diversified
+INDUSTRY : Diversified - Medium / Small
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2012 | Mar-2013 | Mar-2014 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  164.8   |  252.0   |  250.0   |  396.8   |  258.6   |     275.1    
+ SQoQ%:  |   43.3   |   53.0   |   -0.8   |   58.7   |  -34.8   |     106.4    
+ YOPM%:  |   7.3    |   4.2    |   5.3    |   5.5    |   6.3    |              
+ YNPM%:  |   5.5    |   1.5    |   1.4    |   2.4    |   2.6    |              
+YPROFIT: |   9.0    |   3.7    |   3.6    |   9.5    |   6.8    |      12.6    
+ PQoQ%:  |   41.8   |  -59.2   |   -1.6   |  164.0   |  -28.1   |     185.3    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   68.5   |   71.7   |  101.1   |   89.2   |   84.8  
+ QoQ%:  |   12.7   |   4.8    |   40.9   |  -11.7   |   -5.0  
+ QOPM%: |   5.4    |   3.7    |   2.1    |   5.4    |   1.6   
+ QNPM%: |   1.8    |   3.2    |   10.3   |   3.2    |   0.0   
+ QPFT:  |   1.2    |   2.3    |   10.4   |   2.8    |   -0.6  
+ PQoQ%: |  -30.5   |   87.0   |  351.3   |  -72.5   |  -119.3 
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 106% YSales
+- Last 3QPROFIT is about 185% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+258.60cr, QoQ -34.80% & YoY 56.92% SALES;
+16.40cr, QoQ -25.40% & YoY 36.67% OPERATING PROFIT;
+6.80cr, QoQ -28.10% & YoY -24.44% NET PROFIT;
+OPM %: 6.30% vs 5.5%
+NPM %: 2.60% vs 2.4%
+

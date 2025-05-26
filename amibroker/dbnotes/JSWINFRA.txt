@@ -1,0 +1,38 @@
+CODES
+543994	JSWINFRA	
+SECTOR : Marine Port & Services
+INDUSTRY : Miscellaneous
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  1603.6  |  2273.1  |  3194.7  |  3762.9  |  4476.1 
+ SQoQ%:  |   40.3   |   41.7   |   40.5   |   17.8   |   19.0  
+ YOPM%:  |   50.9   |   48.8   |   50.8   |   52.3   |   50.5  
+ YNPM%:  |   18.2   |   14.4   |   23.2   |   30.7   |   33.6  
+YPROFIT: |  291.4   |  328.0   |  739.8   |  1155.9  |  1503.1 
+ PQoQ%:  |   53.0   |   12.6   |  125.6   |   56.2   |   30.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  1096.4  |  1009.8  |  1001.4  |  1181.8  |  1283.2 
+ QoQ%:  |   16.6   |   -7.9   |   -0.8   |   18.0   |   8.6   
+ QOPM%: |   53.0   |   51.0   |   52.0   |   49.6   |   49.9  
+ QNPM%: |   30.1   |   29.0   |   37.1   |   27.9   |   39.7  
+ QPFT:  |  330.0   |  292.4   |  371.5   |  329.8   |  509.4  
+ PQoQ%: |   31.7   |  -11.4   |   27.0   |  -11.2   |   54.5  
+
+***PROS***
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 19.0% while the Profit QoQ_growth is much better than Sales itself at 30.0%
+
+Yearly 
+ 31-Mar-2025 #Result
+4476.10cr, QoQ 19.00% & YoY 179.13% SALES;
+2262.20cr, QoQ 15.00% & YoY 177.09% OPERATING PROFIT;
+1503.10cr, QoQ 30.00% & YoY 415.82% NET PROFIT;
+OPM %: 50.50% vs 52.3%
+NPM %: 33.60% vs 30.7%
+

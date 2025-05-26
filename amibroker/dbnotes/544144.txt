@@ -1,0 +1,37 @@
+CODES
+544144	PVSL	
+SECTOR : Retail
+INDUSTRY : Trading
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  3171.6  |  2893.5  |  3465.9  |  4875.0  |  5615.5  |     4168.9   
+ SQoQ%:  |  -18.7   |   -8.8   |   19.8   |   40.7   |   15.2   |      74.2    
+ YOPM%:  |   3.4    |   5.2    |   4.7    |   4.5    |   4.6    |              
+ YNPM%:  |   0.4    |   1.1    |   1.0    |   1.3    |   1.4    |              
+YPROFIT: |   12.5   |   32.5   |   33.7   |   64.1   |   76.1   |      3.2     
+ PQoQ%:  |  -41.6   |  159.9   |   3.7    |   90.3   |   18.7   |      4.2     
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  1416.8  |  1363.7  |  1291.4  |  1512.8  |  1364.7 
+ QoQ%:  |  -13.0   |   -3.7   |   -5.3   |   17.1   |   -9.8  
+ QOPM%: |   4.3    |   4.6    |   3.5    |   3.5    |   2.2   
+ QNPM%: |   1.1    |   1.5    |   0.4    |   0.5    |   0.0   
+ QPFT:  |   15.9   |   20.1   |   5.4    |   7.6    |   -9.8  
+ PQoQ%: |  -50.7   |   26.3   |  -72.9   |   38.9   |  -228.9 
+
+***PROS***
+- Last 3QSALES is about 74% YSales
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 15.2% while the Profit QoQ_growth is much better than Sales itself at 18.7%
+
+Yearly 
+ 31-Mar-2024 #Result
+5615.50cr, QoQ 15.20% & YoY 77.06% SALES;
+258.60cr, QoQ 16.70% & YoY 140.11% OPERATING PROFIT;
+76.10cr, QoQ 18.70% & YoY 508.80% NET PROFIT;
+OPM %: 4.60% vs 4.5%
+NPM %: 1.40% vs 1.3%
+

@@ -1,0 +1,38 @@
+CODES
+540393	SMLT	
+SECTOR : 
+INDUSTRY : 
+YSD YPD 2022
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  214.2   |  221.7   |  457.3   |  408.4   |  305.2   |     130.3    
+ SQoQ%:  |   13.2   |   3.5    |  106.3   |  -10.7   |  -25.3   |      42.7    
+ YOPM%:  |   5.3    |   7.1    |   8.3    |   9.8    |   6.5    |              
+ YNPM%:  |   2.2    |   3.6    |   6.0    |   7.3    |   4.5    |              
+YPROFIT: |   4.6    |   8.0    |   27.5   |   29.8   |   13.8   |      3.4     
+ PQoQ%:  |  -19.8   |   72.9   |  243.9   |   8.3    |  -53.5   |      24.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   75.3   |   70.6   |   40.6   |   45.7   |   44.0  
+ QoQ%:  |   -2.7   |   -6.2   |  -42.5   |   12.6   |   -3.8  
+ QOPM%: |   3.3    |   3.8    |   4.0    |   4.2    |   4.7   
+ QNPM%: |   2.3    |   2.4    |   3.4    |   1.8    |   2.8   
+ QPFT:  |   1.7    |   1.7    |   1.4    |   0.8    |   1.2   
+ PQoQ%: |  -68.6   |   0.0    |  -19.1   |  -40.7   |   47.0  
+
+***PROS***
+A DEBT-Free Company for the last 2 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- YProfits and YSales DOUBLED in Mar2022
+
+Yearly 
+ 31-Mar-2024 #Result
+305.20cr, QoQ -25.30% & YoY 42.48% SALES;
+19.80cr, QoQ -50.50% & YoY 75.22% OPERATING PROFIT;
+13.80cr, QoQ -53.50% & YoY 200.00% NET PROFIT;
+OPM %: 6.50% vs 9.8%
+NPM %: 4.50% vs 7.3%
+

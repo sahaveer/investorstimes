@@ -1,0 +1,37 @@
+CODES
+500472	SKFINDIA	
+SECTOR : Bearings
+INDUSTRY : Bearings
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  2670.7  |  3665.9  |  4304.9  |  4570.1  |  4919.9 
+ SQoQ%:  |   nan    |   37.3   |   17.4   |   6.2    |   7.7   
+ YOPM%:  |   15.7   |   15.1   |   17.4   |   15.7   |   14.7  
+ YNPM%:  |   11.1   |   10.8   |   12.2   |   12.1   |   11.5  
+YPROFIT: |  297.7   |  395.0   |  524.9   |  551.8   |  565.9  
+ PQoQ%:  |   nan    |   32.7   |   32.9   |   5.1    |   2.6   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  1203.4  |  1206.2  |  1244.2  |  1256.1  |  1213.4 
+ QoQ%:  |   10.2   |   0.2    |   3.2    |   1.0    |   -3.4  
+ QOPM%: |   17.7   |   16.0   |   9.9    |   9.6    |   23.5  
+ QNPM%: |   14.6   |   13.2   |   7.6    |   8.7    |   16.8  
+ QPFT:  |  175.2   |  158.9   |   94.2   |  109.5   |  203.3  
+ PQoQ%: |   32.6   |   -9.3   |  -40.7   |   16.3   |   85.6  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 17.4%
+
+Yearly 
+ 31-Mar-2025 #Result
+4919.90cr, QoQ 7.70% & YoY 84.22% SALES;
+723.30cr, QoQ 0.80% & YoY 72.21% OPERATING PROFIT;
+565.90cr, QoQ 2.60% & YoY 90.09% NET PROFIT;
+OPM %: 14.70% vs 15.7%
+NPM %: 11.50% vs 12.1%
+

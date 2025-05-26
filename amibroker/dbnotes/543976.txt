@@ -1,0 +1,45 @@
+CODE	NAME
+543976 
+
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Medium / Small
+PRODUCT DEMAND
+YSD YPD 2024
+LYPD PM 2025
+
+***CONS***
+ YPNL:   | Mar-2016 | Mar-2018 | Mar-2019 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   0.1    |   1.8    |   1.9    |   17.3   |   14.8  
+ SQoQ%:  |   inf    |  1844.4  |   9.1    |  804.2   |  -14.4  
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   41.8   |   66.6  
+ YNPM%:  |  2122.2  |   8.6    |  145.0   |   37.0   |   65.0  
+YPROFIT: |   1.9    |   0.2    |   2.8    |   6.4    |   9.6   
+ PQoQ%:  |  461.8   |  -92.1   |  1746.7  |  130.7   |   50.4  
+ QPNL:  | Dec-2023 | Mar-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   4.2    |   4.0    |   3.5    |   5.2    |   3.1   
+ QoQ%:  |   nan    |   -5.3   |  -10.6   |   46.0   |  -40.6  
+ QOPM%: |   51.9   |   58.6   |   69.5   |   72.7   |   59.9  
+ QNPM%: |   46.4   |   46.5   |   73.2   |   62.1   |   69.7  
+ QPFT:  |   1.9    |   1.8    |   2.6    |   3.2    |   2.1   
+ PQoQ%: |   nan    |   -5.2   |   40.8   |   23.9   |  -33.3  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 17.4%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.2
+- YProfits and YSales DOUBLED in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2019 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+14.80cr, QoQ -14.40% & YoY 14700.00% SALES;
+9.80cr, QoQ 36.40% & YoY -5000.00% OPERATING PROFIT;
+9.60cr, QoQ 50.40% & YoY 405.26% NET PROFIT;
+OPM %: 66.60% vs 41.8%
+NPM %: 65.00% vs 37.0%
+

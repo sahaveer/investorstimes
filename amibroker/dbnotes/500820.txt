@@ -1,0 +1,38 @@
+CODES
+500820	ASIANPAINT	
+SECTOR : Paints/Varnish
+INDUSTRY : Paints / Varnishes
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  | 21712.8  | 29101.3  | 34488.6  | 35494.7  | 33905.6 
+ SQoQ%:  |   7.4    |   34.0   |   18.5   |   2.9    |   -4.5  
+ YOPM%:  |   22.4   |   16.5   |   18.2   |   21.4   |   17.7  
+ YNPM%:  |   14.5   |   10.4   |   11.9   |   15.4   |   10.8  
+YPROFIT: |  3139.3  |  3030.6  |  4106.4  |  5460.2  |  3667.2 
+ PQoQ%:  |   16.0   |   -3.5   |   35.5   |   33.0   |  -32.8  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  8730.8  |  8969.7  |  8027.5  |  8549.4  |  8358.9 
+ QoQ%:  |   -4.1   |   2.7    |  -10.5   |   6.5    |   -2.2  
+ QOPM%: |   19.4   |   18.9   |   15.4   |   19.1   |   17.2  
+ QNPM%: |   14.4   |   13.0   |   8.7    |   13.0   |   8.3   
+ QPFT:  |  1256.7  |  1170.0  |  694.6   |  1110.5  |  692.1  
+ PQoQ%: |  -13.2   |   -6.9   |  -40.6   |   59.9   |  -37.7  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 22.8%
+
+
+Yearly 
+ 31-Mar-2025 #Result
+33905.60cr, QoQ -4.50% & YoY 56.15% SALES;
+6006.20cr, QoQ -20.80% & YoY 23.70% OPERATING PROFIT;
+3667.20cr, QoQ -32.80% & YoY 16.82% NET PROFIT;
+OPM %: 17.70% vs 21.4%
+NPM %: 10.80% vs 15.4%
+

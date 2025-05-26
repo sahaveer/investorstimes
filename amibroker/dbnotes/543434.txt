@@ -1,0 +1,41 @@
+CODES
+543434	SUPRIYA	
+SECTOR : 
+INDUSTRY : 
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  311.6   |  391.2   |  530.0   |  460.9   |  570.4   |     512.3    
+ SQoQ%:  |   12.2   |   25.5   |   35.5   |  -13.0   |   23.7   |      89.8    
+ YOPM%:  |   31.6   |   44.3   |   40.4   |   28.0   |   30.9   |              
+ YNPM%:  |   23.5   |   31.6   |   28.6   |   19.5   |   20.9   |              
+YPROFIT: |   73.4   |  123.6   |  151.8   |   89.9   |  119.1   |     137.6    
+ PQoQ%:  |   86.1   |   68.5   |   22.8   |  -40.8   |   32.6   |     115.5    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  140.1   |  158.2   |  160.6   |  166.1   |  185.6  
+ QoQ%:  |   -0.0   |   12.9   |   1.5    |   3.4    |   11.8  
+ QOPM%: |   29.6   |   35.1   |   38.9   |   39.0   |   35.5  
+ QNPM%: |   21.3   |   23.3   |   27.8   |   27.8   |   25.2  
+ QPFT:  |   29.8   |   36.9   |   44.6   |   46.2   |   46.8  
+ PQoQ%: |   24.7   |   24.0   |   20.9   |   3.4    |   1.4   
+
+***PROS***
+A DEBT-Free Company
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 90% YSales
+- Last 3QPROFIT is about 116% of YProfit
+
+
+YSALES in Mar-2024 is at 570.4 showing a QoQ_growth of 23.7%. The YNETPROFIT grew by 32.6% to 119.1
+
+Yearly 
+ 31-Mar-2024 #Result
+570.40cr, QoQ 23.70% & YoY 83.06% SALES;
+176.00cr, QoQ 36.60% & YoY 78.86% OPERATING PROFIT;
+119.10cr, QoQ 32.60% & YoY 62.26% NET PROFIT;
+OPM %: 30.90% vs 28.0%
+NPM %: 20.90% vs 19.5%
+

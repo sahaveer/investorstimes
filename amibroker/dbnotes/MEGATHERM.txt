@@ -1,0 +1,21 @@
+CODES
+MEGATHERM	
+SECTOR : Engineering
+INDUSTRY : Engineering
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+Yearly 
+ 31-Mar-2025 #Result
+320.50cr, QoQ 4.70% & YoY 194.04% SALES;
+35.70cr, QoQ -0.90% & YoY 170.45% OPERATING PROFIT;
+21.30cr, QoQ 2.80% & YoY 587.10% NET PROFIT;
+OPM %: 11.10% vs 11.8%
+NPM %: 6.60% vs 6.8%
+

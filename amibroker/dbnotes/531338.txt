@@ -1,0 +1,38 @@
+CODE	NAME
+531338 
+
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   12.4   |   13.2   |   18.6   |   15.5   |   15.5   |      9.1     
+ SQoQ%:  |   4.4    |   5.9    |   41.1   |  -16.6   |   0.0    |      58.7    
+ YOPM%:  |   5.7    |   3.8    |   4.5    |   4.3    |   6.8    |              
+ YNPM%:  |   2.1    |   0.0    |   3.9    |   4.1    |   4.7    |              
+YPROFIT: |   0.3    |   -0.1   |   0.7    |   0.6    |   0.7    |      0.1     
+ PQoQ%:  |   18.2   |  -150.0  |  -661.5  |  -13.7   |   15.9   |      14.3    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   4.2    |   4.0    |   3.3    |   3.6    |   2.2   
+ QoQ%:  |   19.0   |   -5.9   |  -17.5   |   8.5    |  -39.7  
+ QOPM%: |   10.6   |   2.2    |   5.5    |   0.0    |   0.9   
+ QNPM%: |   11.1   |   0.0    |   4.8    |   1.1    |   0.0   
+ QPFT:  |   0.5    |   -0.2   |   0.2    |   0.0    |   -0.1  
+ PQoQ%: |  104.3   |  -153.2  |  -164.0  |  -75.0   |  -275.0 
+
+***PROS***
+A DEBT-Free Company for the last 2 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 59% YSales
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2024 #Result
+15.50cr, QoQ 0.00% & YoY 25.00% SALES;
+1.00cr, QoQ 56.70% & YoY 42.86% OPERATING PROFIT;
+0.70cr, QoQ 15.90% & YoY 133.33% NET PROFIT;
+OPM %: 6.80% vs 4.3%
+NPM %: 4.70% vs 4.1%
+

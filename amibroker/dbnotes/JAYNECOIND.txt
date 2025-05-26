@@ -1,0 +1,37 @@
+CODES
+522285	JAYNECOIND	
+SECTOR : Steel
+INDUSTRY : Steel - Large
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  3675.9  |  5911.1  |  6296.8  |  5886.6  |  5999.7 
+ SQoQ%:  |   1.8    |   60.8   |   6.5    |   -6.5   |   1.9   
+ YOPM%:  |   16.6   |   22.0   |   12.4   |   17.5   |   15.7  
+ YNPM%:  |   0.0    |   38.0   |   3.6    |   3.6    |   1.9   
+YPROFIT: |  -558.3  |  2247.3  |  226.9   |  210.0   |  112.7  
+ PQoQ%:  |  -62.9   |  -502.5  |  -89.9   |   -7.4   |  -46.3  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  1411.4  |  1437.6  |  1230.1  |  1656.8  |  1675.3 
+ QoQ%:  |   -9.3   |   1.9    |  -14.4   |   34.7   |   1.1   
+ QOPM%: |   16.5   |   11.5   |   13.8   |   15.9   |   20.4  
+ QNPM%: |   0.1    |   0.0    |   0.0    |   4.6    |   6.1   
+ QPFT:  |   2.0    |  -31.7   |  -34.2   |   76.9   |  101.6  
+ PQoQ%: |  -97.7   | -1660.6  |   8.0    |  -324.9  |   32.1  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+5999.70cr, QoQ 1.90% & YoY 63.22% SALES;
+939.70cr, QoQ -8.60% & YoY 53.97% OPERATING PROFIT;
+112.70cr, QoQ -46.30% & YoY -120.19% NET PROFIT;
+OPM %: 15.70% vs 17.5%
+NPM %: 1.90% vs 3.6%
+

@@ -1,0 +1,32 @@
+CODE	NAME
+541358 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+YSD YPD 2024
+
+***CONS***
+- NEGATIVE YProfit : -1.1
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   1.4    |   1.2    |   2.2    |   9.2    |   29.8   |      75.9    
+ SQoQ%:  |   12.1   |  -15.1   |   89.8   |  308.5   |  225.7   |     254.7    
+ YOPM%:  |   0.0    |   45.8   |   54.0   |   11.3   |   9.7    |              
+ YNPM%:  |   0.0    |   41.5   |   46.9   |   0.0    |   0.0    |              
+YPROFIT: |   0.0    |   0.5    |   1.0    |   -0.6   |   -1.1   |      12.7    
+ PQoQ%:  |  -100.0  |   inf    |  114.3   |  -152.4  |  107.3   |    -1154.5   
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   8.0    |   9.0    |   15.0   |   23.7   |   37.2  
+ QoQ%:  |   -8.9   |   12.7   |   67.2   |   58.3   |   56.8  
+ QOPM%: |   0.0    |   10.7   |   27.9   |   35.3   |   28.1  
+ QNPM%: |   0.0    |   0.0    |   11.1   |   20.6   |   16.5  
+ QPFT:  |   -1.1   |   -0.2   |   1.7    |   4.9    |   6.1   
+ PQoQ%: |  -255.1  |  -77.6   |  -791.7  |  194.6   |   25.6  
+
+***PROS***
+- Last 3QSALES is about 255% YSales
+- YProfits and YSales DOUBLED in Mar2024
+
+
+YSALES in Mar-2024 is at 29.8 showing a QoQ_growth of 225.7%. The YNETPROFIT grew by 107.3% to -1.1

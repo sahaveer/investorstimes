@@ -1,0 +1,32 @@
+CODE	NAME
+519214 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+PRODUCT DEMAND
+YSD YPD 2023
+LYPD PM 2024
+
+***CONS***
+- NEGATIVE YProfit : -4.7
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   6.7    |   2.9    |   0.5    |   3.6    |   2.1    |      0.0     
+ SQoQ%:  |  -83.1   |  -56.5   |  -83.8   |  670.2   |  -41.4   |      0.0     
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
+YPROFIT: |  -23.2   |  -19.6   |  -20.4   |  -18.5   |   -4.7   |      0.6     
+ PQoQ%:  |  -52.1   |  -15.4   |   4.2    |   -9.5   |  -74.5   |     -12.8    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.1    |   0.0    |   0.0    |   0.0    |   0.0   
+ QoQ%:  |  -90.0   |  -100.0  |   nan    |   nan    |   nan   
+ QOPM%: |   9.1    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |   45.5   |   inf    |   inf    |   inf    |   0.0   
+ QPFT:  |   0.0    |   0.7    |   0.6    |   0.1    |   -0.1  
+ PQoQ%: |  -103.3  |  1220.0  |  -10.6   |  -81.4   |  -163.6 
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2024

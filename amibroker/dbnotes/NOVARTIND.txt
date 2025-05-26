@@ -1,0 +1,38 @@
+CODES
+500672	NOVARTIND	
+SECTOR : 
+INDUSTRY : 
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  381.4   |  399.9   |  378.7   |  335.1   |  356.3  
+ SQoQ%:  |  -13.0   |   4.9    |   -5.3   |  -11.5   |   6.3   
+ YOPM%:  |   7.0    |   6.8    |   17.2   |   19.5   |   25.7  
+ YNPM%:  |   5.5    |   0.0    |   27.3   |   25.4   |   28.3  
+YPROFIT: |   20.9   |   -3.7   |  103.4   |   85.2   |  100.9  
+ PQoQ%:  |  107.3   |  -117.8  | -2878.5  |  -17.6   |   18.4  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   81.2   |   92.3   |   87.1   |   93.0   |   83.9  
+ QoQ%:  |   -4.0   |   13.7   |   -5.6   |   6.8    |   -9.8  
+ QOPM%: |   13.8   |   26.0   |   20.6   |   27.5   |   28.5  
+ QNPM%: |   18.1   |   27.9   |   23.4   |   27.4   |   34.9  
+ QPFT:  |   14.7   |   25.7   |   20.4   |   25.4   |   29.3  
+ PQoQ%: |  -44.7   |   75.3   |  -20.7   |   24.7   |   15.1  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+
+Yearly 
+ 31-Mar-2025 #Result
+356.30cr, QoQ 6.30% & YoY -6.58% SALES;
+91.40cr, QoQ 40.10% & YoY 241.04% OPERATING PROFIT;
+100.90cr, QoQ 18.40% & YoY 382.78% NET PROFIT;
+OPM %: 25.70% vs 19.5%
+NPM %: 28.30% vs 25.4%
+

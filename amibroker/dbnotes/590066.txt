@@ -1,0 +1,40 @@
+CODES
+590066	KCP	
+SECTOR : Cement
+INDUSTRY : Cement - South India
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  1423.6  |  1692.5  |  2108.3  |  2253.6  |  2846.7  |     1894.2   
+ SQoQ%:  |  -14.3   |   18.9   |   24.6   |   6.9    |   26.3   |      66.5    
+ YOPM%:  |   13.5   |   21.5   |   17.8   |   7.7    |   12.5   |              
+ YNPM%:  |   1.9    |   9.6    |   8.9    |   1.9    |   6.6    |              
+YPROFIT: |   27.1   |  163.0   |  188.1   |   41.7   |  188.6   |     109.5    
+ PQoQ%:  |  -67.0   |  500.8   |   15.4   |  -77.8   |  351.7   |      58.1    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  777.1   |  625.0   |  691.0   |  602.5   |  600.7  
+ QoQ%:  |   10.9   |  -19.6   |   10.6   |  -12.8   |   -0.3  
+ QOPM%: |   12.7   |   18.3   |   9.7    |   18.8   |   8.1   
+ QNPM%: |   9.0    |   8.9    |   4.7    |   10.2   |   2.7   
+ QPFT:  |   70.1   |   55.6   |   32.1   |   61.4   |   16.0  
+ PQoQ%: |  115.1   |  -20.7   |  -42.2   |   90.9   |  -73.9  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 67% YSales
+- Last 3QPROFIT is about 58% of YProfit
+
+YSALES in Mar-2024 is at 2846.7 showing a QoQ_growth of 26.3%. The YNETPROFIT grew by 351.7% to 188.6
+
+Yearly 
+ 31-Mar-2024 #Result
+2846.70cr, QoQ 26.30% & YoY 99.96% SALES;
+355.60cr, QoQ 103.80% & YoY 85.30% OPERATING PROFIT;
+188.60cr, QoQ 351.70% & YoY 595.94% NET PROFIT;
+OPM %: 12.50% vs 7.7%
+NPM %: 6.60% vs 1.9%
+

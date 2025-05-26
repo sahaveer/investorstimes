@@ -1,0 +1,30 @@
+CODES
+500160	GTL	
+SECTOR : Telecomm-Service
+INDUSTRY : Telecommunications - Service Provider
+BestQ Dec 2021
+LYPD PM 2021
+
+***CONS***
+ YPNL:   | Mar-2017 | Mar-2018 | Mar-2019 | Mar-2020 | Mar-2021 | QSUM:Dec-2021
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  1221.1  |  995.5   |  219.0   |  215.4   |  221.0   |     146.5    
+ SQoQ%:  |  -27.5   |  -18.5   |  -78.0   |   -1.7   |   2.6    |      66.3    
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   26.1   |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   20.7   |              
+YPROFIT: |  -993.9  |  -454.5  |  -415.1  |  -30.0   |   45.8   |     782.9    
+ PQoQ%:  |  -65.3   |  -54.3   |   -8.7   |  -92.8   |  -252.4  |     1709.4   
+ QPNL:  | Dec-2020 | Mar-2021 | Jun-2021 | Sep-2021 | Dec-2021
+--------+----------+----------+----------+----------+---------
+QSALES: |   69.2   |   51.7   |   48.1   |   48.7   |   49.7  
+ QoQ%:  |   31.9   |  -25.3   |   -6.9   |   1.2    |   2.1   
+ QOPM%: |   22.4   |   11.8   |   0.0    |   16.3   |   16.0  
+ QNPM%: |   27.9   |   19.5   |   0.0    |  732.0   |  909.4  
+ QPFT:  |   19.3   |   10.1   |  -25.6   |  356.4   |  452.1  
+ PQoQ%: |  -28.4   |  -47.6   |  -353.4  | -1492.8  |   26.8  
+
+***PROS***
+- Last 3QSALES is about 66% YSales
+- Last 3QPROFIT is about 1709% of YProfit
+- YProfit Turned POSITIVE this year Mar-2021 : 45.8
+- LastYr YProfits Doubled and maintained in Mar2021

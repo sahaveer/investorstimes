@@ -1,0 +1,21 @@
+CODES
+ARHAM	
+SECTOR : Consumer Durables
+INDUSTRY : Electronics - Consumer
+
+***CONS***
+
+
+
+***PROS***
+
+YSALES in Mar-2025 is at 65.2 showing a QoQ_growth of 19.1%. The YNETPROFIT grew by 22.4% to 6.0
+
+Yearly 
+ 31-Mar-2025 #Result
+65.20cr, QoQ 19.10% & YoY 185.96% SALES;
+11.10cr, QoQ 30.10% & YoY 192.11% OPERATING PROFIT;
+6.00cr, QoQ 22.40% & YoY 200.00% NET PROFIT;
+OPM %: 17.00% vs 15.5%
+NPM %: 9.10% vs 8.9%
+

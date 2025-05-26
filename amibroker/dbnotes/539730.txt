@@ -1,0 +1,40 @@
+CODE	NAME
+539730 
+
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Formulations
+BestQ Dec 2024
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  112.8   |  133.9   |  222.2   |  274.7   |  348.2   |     288.9    
+ SQoQ%:  |   16.2   |   18.7   |   65.9   |   23.6   |   26.8   |      83.0    
+ YOPM%:  |   7.4    |   6.1    |   6.2    |   10.1   |   10.9   |              
+ YNPM%:  |   1.7    |   1.5    |   2.9    |   3.9    |   4.5    |              
+YPROFIT: |   1.9    |   2.0    |   6.3    |   10.8   |   15.6   |      13.7    
+ PQoQ%:  |  -57.4   |   5.8    |  215.4   |   70.5   |   44.5   |      87.8    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   87.0   |  118.0   |   78.8   |  107.4   |  102.7  
+ QoQ%:  |   6.1    |   35.7   |  -33.2   |   36.2   |   -4.3  
+ QOPM%: |   12.1   |   9.5    |   13.3   |   13.0   |   12.9  
+ QNPM%: |   4.9    |   4.3    |   5.2    |   4.0    |   5.2   
+ QPFT:  |   4.2    |   5.1    |   4.1    |   4.3    |   5.3   
+ PQoQ%: |   7.1    |   19.9   |  -18.4   |   3.4    |   24.8  
+
+***PROS***
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 88% of YProfit
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 26.8% while the Profit QoQ_growth is much better than Sales itself at 44.5%
+
+Yearly 
+ 31-Mar-2024 #Result
+348.20cr, QoQ 26.80% & YoY 208.69% SALES;
+38.00cr, QoQ 36.70% & YoY 357.83% OPERATING PROFIT;
+15.60cr, QoQ 44.50% & YoY 721.05% NET PROFIT;
+OPM %: 10.90% vs 10.1%
+NPM %: 4.50% vs 3.9%
+

@@ -1,0 +1,31 @@
+CODE	NAME
+516032 
+
+SECTOR : Trading
+INDUSTRY : Trading
+EXPANSION 2024
+EXPANSION 2025
+YSD YPD 2023
+
+***CONS***
+- NEGATIVE YProfit : -2.6
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   0.0    |   0.0    |   2.6    |   5.4    |   3.9   
+ SQoQ%:  |  -80.0   |  -100.0  |   inf    |  112.9   |  -28.6  
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   0.9    |   0.0   
+YPROFIT: |   -0.1   |   -0.1   |   0.0    |   0.0    |   -2.6  
+ PQoQ%:  |   50.0   |   11.1   |  -100.0  |   inf    | -5320.0 
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   2.3    |   2.0    |   0.6    |   1.0    |   0.3   
+ QoQ%:  |   53.9   |  -14.1   |  -71.1   |   67.2   |  -66.0  
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |   0.0    |   0.0    |   0.0    |   4.1    |   0.0   
+ QPFT:  |   -0.2   |   -0.2   |   -0.5   |   0.0    |   -1.9  
+ PQoQ%: |  -176.0  |   26.3   |  108.3   |  -108.0  | -4950.0 
+
+***PROS***
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
+- YProfits and YSales DOUBLED in Mar2023

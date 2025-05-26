@@ -1,0 +1,34 @@
+CODE	NAME
+503349 
+
+SECTOR : Realty
+INDUSTRY : Construction
+BestQ Dec 2023
+YSD YPD 2023
+
+***CONS***
+ YPNL:   | Mar-2019 | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | QSUM:Dec-2023
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   19.0   |   0.0    |   17.9   |   0.0    |   24.4   |      17.0    
+ SQoQ%:  |  117.1   |  -100.0  |   inf    |  -100.0  |   inf    |      69.7    
+ YOPM%:  |   12.8   |   0.0    |   7.3    |   0.0    |   6.3    |              
+ YNPM%:  |   12.8   |   inf    |   15.6   |   0.0    |   9.6    |              
+YPROFIT: |   2.4    |   3.2    |   2.8    |   -1.5   |   2.3    |      2.0     
+ PQoQ%:  |  176.1   |   33.3   |  -14.2   |  -155.4  |  -251.9  |      87.0    
+ QPNL:  | Dec-2022 | Mar-2023 | Jun-2023 | Sep-2023 | Dec-2023
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.0    |   24.4   |   17.0   |   0.0    |   0.0   
+ QoQ%:  |   nan    |   inf    |  -30.4   |  -100.0  |   nan   
+ QOPM%: |   0.0    |   12.9   |   14.3   |   0.0    |   0.0   
+ QNPM%: |   0.0    |   11.4   |   12.5   |   inf    |   0.0   
+ QPFT:  |   -0.3   |   2.8    |   2.1    |   0.0    |   -0.1  
+ PQoQ%: |  -268.8  | -1129.6  |  -23.4   |  -98.6   |  -333.3 
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 70% YSales
+- Last 3QPROFIT is about 87% of YProfit
+- YProfit Turned POSITIVE this year Mar-2023 : 2.3
+- YProfits and YSales DOUBLED in Mar2023
+

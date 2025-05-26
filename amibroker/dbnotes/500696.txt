@@ -1,0 +1,36 @@
+CODES
+500696	HINDUNILVR	
+SECTOR : FMCG
+INDUSTRY : Personal Care - Multinational
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  | 47028.0  | 52446.0  | 60580.0  | 61896.0  | 63121.0 
+ SQoQ%:  |   18.2   |   11.5   |   15.5   |   2.2    |   2.0   
+ YOPM%:  |   24.7   |   24.5   |   23.4   |   23.7   |   23.5  
+ YNPM%:  |   17.0   |   16.9   |   16.7   |   16.6   |   16.9  
+YPROFIT: |  7995.0  |  8879.0  | 10120.0  | 10277.0  | 10649.0 
+ PQoQ%:  |   18.5   |   11.1   |   14.0   |   1.6    |   3.6   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: | 15210.0  | 15707.0  | 15926.0  | 15818.0  | 15670.0 
+ QoQ%:  |   -2.3   |   3.3    |   1.4    |   -0.7   |   -0.9  
+ QOPM%: |   23.2   |   23.8   |   23.8   |   23.4   |   23.1  
+ QNPM%: |   16.8   |   16.6   |   16.3   |   18.9   |   15.7  
+ QPFT:  |  2558.0  |  2610.0  |  2591.0  |  2984.0  |  2464.0 
+ PQoQ%: |   2.0    |   2.0    |   -0.7   |   15.2   |  -17.4  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 21.1%
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+63121.00cr, QoQ 2.00% & YoY 34.22% SALES;
+14843.00cr, QoQ 1.30% & YoY 27.67% OPERATING PROFIT;
+10649.00cr, QoQ 3.60% & YoY 33.20% NET PROFIT;
+OPM %: 23.50% vs 23.7%
+NPM %: 16.90% vs 16.6%
+

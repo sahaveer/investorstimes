@@ -1,0 +1,32 @@
+CODES
+SSFL	
+SECTOR : FMCG
+INDUSTRY : Food - Processing - Indian
+PRODUCT DEMAND
+YSD YPD 2024
+YSD YPD 2023
+LYPD PM 2024
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 20.7%
+- YProfits and YSales DOUBLED in Mar2024
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2024
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 118.5% while the Profit QoQ_growth is much better than Sales itself at 127.5%
+
+Yearly 
+ 31-Mar-2024 #Result
+78.20cr, QoQ 118.50% & YoY 39000.00% SALES;
+12.80cr, QoQ 120.00% & YoY -inf% OPERATING PROFIT;
+7.00cr, QoQ 127.50% & YoY -7100.00% NET PROFIT;
+OPM %: 16.30% vs 16.2%
+NPM %: 9.00% vs 8.6%
+

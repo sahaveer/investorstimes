@@ -1,0 +1,42 @@
+CODES
+533206	SJVN	
+SECTOR : Power Generation & Distribution
+INDUSTRY : Power Generation And Supply
+EXPANSION 2023
+EXPANSION 2024
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  2702.8  |  2485.4  |  2417.0  |  2938.4  |  2579.4  |     2567.6   
+ SQoQ%:  |   2.2    |   -8.0   |   -2.8   |   21.6   |  -12.2   |      99.5    
+ YOPM%:  |   78.2   |   75.1   |   74.2   |   77.4   |   71.4   |              
+ YNPM%:  |   58.0   |   66.2   |   41.0   |   46.3   |   35.3   |              
+YPROFIT: |  1566.8  |  1645.7  |  989.8   |  1359.3  |  911.4   |     947.2    
+ PQoQ%:  |   15.0   |   5.0    |  -39.9   |   37.3   |  -32.9   |     103.9    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  543.3   |  482.9   |  870.4   |  1026.2  |  671.0  
+ QoQ%:  |  -38.1   |  -11.1   |   80.2   |   17.9   |  -34.6  
+ QOPM%: |   67.8   |   46.9   |   74.3   |   80.7   |   68.1  
+ QNPM%: |   25.6   |   12.6   |   41.0   |   43.0   |   22.2  
+ QPFT:  |  139.0   |   61.1   |  357.1   |  441.1   |  149.0  
+ PQoQ%: |  -68.4   |  -56.0   |  484.6   |   23.5   |  -66.2  
+
+***PROS***
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 100% YSales
+- Last 3QPROFIT is about 104% of YProfit
+
+
+Yearly 
+ 31-Mar-2024 #Result
+2579.40cr, QoQ -12.20% & YoY -4.57% SALES;
+1842.70cr, QoQ -18.90% & YoY -12.76% OPERATING PROFIT;
+911.40cr, QoQ -32.90% & YoY -41.83% NET PROFIT;
+OPM %: 71.40% vs 77.4%
+NPM %: 35.30% vs 46.3%
+

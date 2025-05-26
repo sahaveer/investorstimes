@@ -1,0 +1,47 @@
+CODES
+534618	WAAREERTL	
+SECTOR : Power Infrastructure
+INDUSTRY : Engineering - Turnkey Services
+PRODUCT DEMAND
+YSD YPD 2024
+YSD YPD 2023
+LYPD PM 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   13.0   |  161.5   |  351.0   |  876.4   |  1597.8 
+ SQoQ%:  |  128.5   |  1144.2  |  117.3   |  149.7   |   82.3  
+ YOPM%:  |   53.9   |   14.6   |   23.9   |   23.7   |   19.5  
+ YNPM%:  |   0.0    |   5.5    |   15.8   |   16.9   |   14.3  
+YPROFIT: |   -2.4   |   8.9    |   55.4   |  148.1   |  229.2  
+ PQoQ%:  |  -25.5   |  -475.1  |  523.4   |  167.3   |   54.7  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  273.3   |  236.4   |  524.5   |  360.4   |  476.6  
+ QoQ%:  |  -15.7   |  -13.5   |  121.9   |  -31.3   |   32.3  
+ QOPM%: |   27.5   |   17.4   |   13.6   |   20.0   |   26.5  
+ QNPM%: |   18.8   |   12.0   |   10.2   |   14.8   |   19.7  
+ QPFT:  |   51.3   |   28.3   |   53.5   |   53.5   |   93.8  
+ PQoQ%: |  -20.1   |  -44.9   |   89.2   |   -0.1   |   75.3  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 62.2%
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2024
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 82.3% while the Profit QoQ_growth is at 54.7%
+
+Yearly 
+ 31-Mar-2025 #Result
+1597.80cr, QoQ 82.30% & YoY 12190.77% SALES;
+310.90cr, QoQ 49.90% & YoY 4341.43% OPERATING PROFIT;
+229.20cr, QoQ 54.70% & YoY -9650.00% NET PROFIT;
+OPM %: 19.50% vs 23.7%
+NPM %: 14.30% vs 16.9%
+

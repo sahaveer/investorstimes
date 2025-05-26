@@ -1,0 +1,43 @@
+CODES
+504341	RELTD	
+SECTOR : Capital Goods - Electrical Equipment
+INDUSTRY : Electric Equipment
+PRODUCT DEMAND
+BestQ Dec 2024
+BestQ Dec 2024
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  352.8   |  113.9   |   72.9   |   58.8   |   60.6   |      46.6    
+ SQoQ%:  |  116.1   |  -67.7   |  -36.0   |  -19.4   |   3.2    |      76.9    
+ YOPM%:  |   6.6    |   0.0    |   0.0    |   2.7    |   16.0   |              
+ YNPM%:  |   0.2    |   0.0    |   0.0    |   7.2    |   17.9   |              
+YPROFIT: |   0.6    |  -10.0   |  -181.1  |   4.2    |   10.8   |      14.2    
+ PQoQ%:  |  -90.9   | -1706.5  |  1718.6  |  -102.3  |  156.9   |     131.5    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   4.0    |   15.8   |   3.5    |   4.1    |   39.0  
+ QoQ%:  |  -69.2   |  290.6   |  -77.8   |   16.0   |  858.7  
+ QOPM%: |   0.0    |   32.2   |   0.0    |   0.0    |   13.8  
+ QNPM%: |   2.2    |   38.0   |  172.9   |   52.6   |   15.2  
+ QPFT:  |   0.1    |   6.0    |   6.1    |   2.1    |   6.0   
+ PQoQ%: |  -88.5   |  6577.8  |   1.0    |  -64.7   |  178.0  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 77% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 131% of YProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2024
+
+Yearly 
+ 31-Mar-2024 #Result
+60.60cr, QoQ 3.20% & YoY -82.82% SALES;
+9.70cr, QoQ 511.30% & YoY -58.19% OPERATING PROFIT;
+10.80cr, QoQ 156.90% & YoY 1700.00% NET PROFIT;
+OPM %: 16.00% vs 2.7%
+NPM %: 17.90% vs 7.2%
+

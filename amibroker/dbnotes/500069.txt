@@ -1,0 +1,45 @@
+CODE	NAME
+500069 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+PRODUCT DEMAND
+YSD YPD 2021
+
+***CONS***
+ YPNL:   | Mar-2017 | Mar-2018 | Mar-2019 | Mar-2020 | Mar-2021 | QSUM:Dec-2020
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   14.7   |   12.5   |   17.0   |   18.6   |   45.9   |      25.1    
+ SQoQ%:  |   69.2   |  -14.6   |   35.9   |   9.0    |  147.4   |      54.7    
+ YOPM%:  |   77.4   |   29.0   |   75.3   |   51.4   |   45.3   |              
+ YNPM%:  |   64.2   |   26.4   |   72.9   |   35.1   |   34.8   |              
+YPROFIT: |   9.4    |   3.3    |   12.4   |   6.5    |   16.0   |      7.8     
+ PQoQ%:  |   49.8   |  -64.9   |  275.2   |  -47.6   |  145.6   |      48.8    
+ QPNL:  | Dec-2019 | Mar-2020 | Jun-2020 | Sep-2020 | Dec-2020
+--------+----------+----------+----------+----------+---------
+QSALES: |   2.3    |   10.1   |   5.6    |   13.2   |   6.3   
+ QoQ%:  |   26.5   |  339.7   |  -44.9   |  137.5   |  -52.0  
+ QOPM%: |   50.2   |   81.1   |   21.8   |   38.8   |   15.6  
+ QNPM%: |   40.6   |   76.7   |   25.6   |   36.6   |   24.5  
+ QPFT:  |   0.9    |   7.7    |   1.4    |   4.8    |   1.6   
+ PQoQ%: |  -188.6  |  730.1   |  -81.6   |  240.1   |  -67.9  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2021 is at 21.5%
+- Last 3QSALES is about 55% YSales
+- YProfits and YSales DOUBLED in Mar2021
+
+
+YSALES in Mar-2021 is at 45.9 showing a QoQ_growth of 147.4%. The YNETPROFIT grew by 145.6% to 16.0
+
+Yearly 
+ 31-Mar-2021 #Result
+45.90cr, QoQ 147.40% & YoY 212.24% SALES;
+20.80cr, QoQ 117.90% & YoY 82.46% OPERATING PROFIT;
+16.00cr, QoQ 145.60% & YoY 70.21% NET PROFIT;
+OPM %: 45.30% vs 51.4%
+NPM %: 34.80% vs 35.1%
+

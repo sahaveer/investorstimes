@@ -1,0 +1,41 @@
+CODES
+530377	NILAINFRA	
+SECTOR : Construction
+INDUSTRY : Construction
+PRODUCT DEMAND
+LYPD PM 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   96.8   |   83.3   |  115.1   |  184.6   |  246.9  
+ SQoQ%:  |  -60.2   |  -14.0   |   38.1   |   60.4   |   33.7  
+ YOPM%:  |   10.0   |   9.0    |   2.4    |   6.1    |   9.0   
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   6.1    |   8.3   
+YPROFIT: |   -0.6   |   -2.0   |   -0.4   |   11.2   |   20.5  
+ PQoQ%:  |  -103.9  |  204.6   |  -77.3   | -2600.0  |   82.2  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   86.8   |   41.3   |   39.8   |   52.3   |  113.4  
+ QoQ%:  |  152.8   |  -52.4   |   -3.6   |   31.5   |  116.7  
+ QOPM%: |   5.9    |   10.2   |   13.6   |   10.3   |   6.3   
+ QNPM%: |   6.1    |   12.1   |   13.2   |   9.4    |   4.7   
+ QPFT:  |   5.3    |   5.0    |   5.2    |   4.9    |   5.4   
+ PQoQ%: |   66.0   |   -6.4   |   5.0    |   -6.3   |   9.2   
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 246.9 showing a QoQ_growth of 33.7%. The YNETPROFIT grew by 82.2% to 20.5
+
+Yearly 
+ 31-Mar-2025 #Result
+246.90cr, QoQ 33.70% & YoY 155.06% SALES;
+22.10cr, QoQ 96.00% & YoY 127.84% OPERATING PROFIT;
+20.50cr, QoQ 82.20% & YoY -3516.67% NET PROFIT;
+OPM %: 9.00% vs 6.1%
+NPM %: 8.30% vs 6.1%
+

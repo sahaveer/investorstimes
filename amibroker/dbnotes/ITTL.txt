@@ -1,0 +1,16 @@
+CODES
+ITTL	
+SECTOR : Tyres
+INDUSTRY : Tyres
+PRODUCT DEMAND
+YSD YPD 2024
+LYPD PM 2024
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2024

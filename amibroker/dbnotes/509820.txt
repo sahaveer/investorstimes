@@ -1,0 +1,27 @@
+CODES
+509820	HUHTAMAKI	
+SECTOR : Packaging
+INDUSTRY : Packaging
+BestQ Dec 2016
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+
+
+***PROS***
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 65% of YProfit
+
+YSALES in Dec-2015 is at 2037.4 showing a QoQ_growth of 66.3%. The YNETPROFIT grew by 15.5% to 76.9
+
+Yearly 
+ 31-Dec-2015 #Result
+2037.40cr, QoQ 66.30% SALES;
+235.10cr, QoQ 96.20% OPERATING PROFIT;
+76.90cr, QoQ 15.50% NET PROFIT;
+OPM %: 11.50% vs 9.8%
+NPM %: 3.80% vs 5.4%
+

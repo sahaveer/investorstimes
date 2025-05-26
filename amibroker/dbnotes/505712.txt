@@ -1,0 +1,22 @@
+CODE	NAME
+505712 
+
+SECTOR : Auto Ancillaries
+INDUSTRY : Auto Ancillaries
+
+***CONS***
+
+
+
+
+
+***PROS***
+
+Quarterly 
+31-Dec-2024 #Result
+87.90cr, QoQ -15.20% SALES;
+9.30cr, QoQ 1.40% OPERATING PROFIT;
+1.40cr, QoQ -36.00% NET PROFIT;
+OPM %: 10.60% vs 8.9%
+NPM %: 1.50% vs 2.0%
+

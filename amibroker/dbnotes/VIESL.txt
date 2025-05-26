@@ -1,0 +1,10 @@
+CODES
+VIESL	
+SECTOR : Trading
+INDUSTRY : Trading
+
+***CONS***
+
+
+
+***PROS***

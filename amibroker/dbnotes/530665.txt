@@ -1,0 +1,39 @@
+CODE	NAME
+530665 
+
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Formulations
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   12.0   |   13.7   |   22.4   |   13.1   |   14.5   |      7.9     
+ SQoQ%:  |   21.9   |   14.7   |   62.7   |  -41.3   |   10.2   |      54.5    
+ YOPM%:  |   4.6    |   2.6    |   2.0    |   0.2    |   1.6    |              
+ YNPM%:  |   4.8    |   3.2    |   1.4    |   0.6    |   1.4    |              
+YPROFIT: |   0.6    |   0.4    |   0.3    |   0.1    |   0.2    |      0.0     
+ PQoQ%:  |  307.1   |  -22.8   |  -29.5   |  -74.2   |  150.0   |      0.0     
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   3.9    |   3.1    |   2.6    |   3.0    |   2.3   
+ QoQ%:  |   11.5   |  -21.1   |  -16.3   |   17.9   |  -23.8  
+ QOPM%: |   2.6    |   0.0    |   4.7    |   4.6    |   0.0   
+ QNPM%: |   2.6    |   0.0    |   6.2    |   3.0    |   0.0   
+ QPFT:  |   0.1    |   -0.3   |   0.2    |   0.1    |   -0.3  
+ PQoQ%: |  -16.7   |  -390.0  |  -155.2  |  -43.8   |  -422.2 
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 54% YSales
+
+Yearly 
+ 31-Mar-2024 #Result
+14.50cr, QoQ 10.20% & YoY 20.83% SALES;
+0.20cr, QoQ 666.70% & YoY -66.67% OPERATING PROFIT;
+0.20cr, QoQ 150.00% & YoY -66.67% NET PROFIT;
+OPM %: 1.60% vs 0.2%
+NPM %: 1.40% vs 0.6%
+

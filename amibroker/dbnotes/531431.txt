@@ -1,0 +1,42 @@
+CODES
+531431	SHAKTIPUMP	
+SECTOR : Capital Goods-Non Electrical Equipment
+INDUSTRY : Pumps
+PRODUCT DEMAND
+LYPD PM 2025
+YS15 YPD 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  929.7   |  1178.5  |  967.7   |  1370.7  |  2516.2 
+ SQoQ%:  |  142.8   |   26.8   |  -17.9   |   41.7   |   83.6  
+ YOPM%:  |   15.3   |   9.4    |   6.9    |   16.4   |   24.0  
+ YNPM%:  |   8.1    |   5.5    |   2.5    |   10.3   |   16.2  
+YPROFIT: |   75.6   |   64.8   |   24.1   |  141.7   |  408.4  
+ PQoQ%:  |  -636.9  |  -14.2   |  -62.8   |  487.3   |  188.2  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  609.3   |  567.6   |  634.6   |  648.8   |  665.3  
+ QoQ%:  |   22.9   |   -6.8   |   11.8   |   2.2    |   2.6   
+ QOPM%: |   21.5   |   23.9   |   23.4   |   23.8   |   24.6  
+ QNPM%: |   14.7   |   16.3   |   16.0   |   16.0   |   16.6  
+ QPFT:  |   89.7   |   92.7   |  101.4   |  104.0   |  110.2  
+ PQoQ%: |   98.4   |   3.3    |   9.5    |   2.6    |   5.9   
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 33.6%
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
+As on Mar2025, Sales have increased by 83.6% while the Profit QoQ_growth is much better than Sales itself at 188.2%
+
+Yearly 
+ 31-Mar-2025 #Result
+2516.20cr, QoQ 83.60% & YoY 170.65% SALES;
+602.90cr, QoQ 168.20% & YoY 324.28% OPERATING PROFIT;
+408.40cr, QoQ 188.20% & YoY 440.21% NET PROFIT;
+OPM %: 24.00% vs 16.4%
+NPM %: 16.20% vs 10.3%
+

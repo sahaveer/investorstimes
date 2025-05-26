@@ -1,0 +1,36 @@
+CODE	NAME
+540693 
+
+SECTOR : Plastic products
+INDUSTRY : Plastics Products
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   28.3   |   50.0   |   68.5   |   85.7   |  116.2  
+ SQoQ%:  |   nan    |   76.8   |   37.0   |   25.2   |   35.6  
+ YOPM%:  |   7.9    |   8.0    |   13.1   |   12.7   |   9.8   
+ YNPM%:  |   4.7    |   5.3    |   9.9    |   9.3    |   7.5   
+YPROFIT: |   1.3    |   2.6    |   6.8    |   8.0    |   8.7   
+ PQoQ%:  |   nan    |   97.8   |  155.8   |   18.0   |   9.3   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   23.3   |   23.1   |   22.6   |   35.0   |   35.5  
+ QoQ%:  |   -4.1   |   -1.1   |   -1.9   |   54.8   |   1.3   
+ QOPM%: |   20.2   |   16.9   |   6.0    |   14.2   |   3.4   
+ QNPM%: |   13.1   |   11.4   |   8.1    |   5.4    |   6.7   
+ QPFT:  |   3.1    |   2.6    |   1.8    |   1.9    |   2.4   
+ PQoQ%: |  100.0   |  -14.4   |  -29.8   |   3.3    |   25.3  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2025 #Result
+116.20cr, QoQ 35.60% & YoY 310.60% SALES;
+11.40cr, QoQ 4.70% & YoY 418.18% OPERATING PROFIT;
+8.70cr, QoQ 9.30% & YoY 569.23% NET PROFIT;
+OPM %: 9.80% vs 12.7%
+NPM %: 7.50% vs 9.3%
+

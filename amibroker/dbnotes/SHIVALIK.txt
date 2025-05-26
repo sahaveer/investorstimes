@@ -1,0 +1,38 @@
+CODES
+539148	SHIVALIK	
+SECTOR : Agro Chemicals
+INDUSTRY : Pesticides / Agrochemicals - Indian
+BestQ Dec 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   60.8   |   84.9   |   99.3   |   93.6   |   93.7   |     109.5    
+ SQoQ%:  |   26.8   |   39.7   |   17.0   |   -5.8   |   0.1    |     116.9    
+ YOPM%:  |   15.6   |   22.1   |   23.4   |   20.4   |   18.3   |              
+ YNPM%:  |   14.4   |   14.9   |   19.5   |   16.1   |   9.2    |              
+YPROFIT: |   8.8    |   12.7   |   19.4   |   15.1   |   8.6    |      10.6    
+ PQoQ%:  |   -1.8   |   44.9   |   52.7   |  -22.0   |  -42.8   |     123.3    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   23.7   |   23.9   |   31.6   |   37.7   |   40.2  
+ QoQ%:  |   0.9    |   0.8    |   32.0   |   19.4   |   6.5   
+ QOPM%: |   16.7   |   14.8   |   18.8   |   17.1   |   16.5  
+ QNPM%: |   9.7    |   10.7   |   9.7    |   9.2    |   10.0  
+ QPFT:  |   2.3    |   2.6    |   3.1    |   3.5    |   4.0   
+ PQoQ%: |   97.4   |   10.8   |   19.9   |   12.7   |   16.2  
+
+***PROS***
+- Last 3QSALES is about 117% YSales
+- Last 3QPROFIT is about 123% of YProfit
+
+
+Yearly 
+ 31-Mar-2024 #Result
+93.70cr, QoQ 0.10% & YoY 54.11% SALES;
+17.10cr, QoQ -10.30% & YoY 80.00% OPERATING PROFIT;
+8.60cr, QoQ -42.80% & YoY -2.27% NET PROFIT;
+OPM %: 18.30% vs 20.4%
+NPM %: 9.20% vs 16.1%
+

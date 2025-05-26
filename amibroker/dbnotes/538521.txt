@@ -1,0 +1,46 @@
+CODE	NAME
+538521 
+
+SECTOR : Construction
+INDUSTRY : Construction
+PRODUCT DEMAND
+BestQ Dec 2024
+YSD YPD 2024
+LYPD PM 2024
+
+***CONS***
+  YPNL   |   :    | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+--------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  5.9   |   1.9    |   1.2    |   2.4    |   5.0    |   3.0    |              
+ SQoQ%:  |  -8.9  |  -67.4   |  -36.6   |  102.5   |  103.3   |   60.0   |              
+ YOPM%:  |  5.3   |   0.0    |   0.0    |   3.7    |   14.1   |          |              
+ YNPM%:  |  0.0   |   0.0    |   0.0    |   2.4    |   9.8    |          |              
+YPROFIT: |  -0.6  |   -3.3   |   -0.2   |   0.1    |   0.5    |   0.2    |              
+ PQoQ%:  | -324.0 |  492.9   |  -93.1   |  -126.1  |  716.7   |   40.0   |              
+  QPNL  |   :    | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+--------+----------+----------+----------+----------+---------
+QSALES: |  2.5   |   1.9    |   0.6    |   0.7    |   1.7    |         
+ QoQ%:  | 837.0  |  -24.5   |  -67.5   |   9.7    |  152.9   |         
+ QOPM%: |  11.9  |   17.8   |   4.8    |   5.9    |   2.3    |         
+ QNPM%: |  8.7   |   13.1   |   1.6    |   4.4    |   11.0   |         
+ QPFT:  |  0.2   |   0.2    |   0.0    |   0.0    |   0.2    |         
+ PQoQ%: | 2100.0 |   13.6   |  -96.0   |  200.0   |  533.3   |         
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 60% YSales
+- Double QSales and QProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2024
+
+YSALES in Mar-2024 is at 5.0 showing a QoQ_growth of 103.3%. The YNETPROFIT grew by 716.7% to 0.5
+
+Yearly 
+ 31-Mar-2024 #Result
+5.00cr, QoQ 103.30% & YoY -15.25% SALES;
+0.70cr, QoQ 677.80% & YoY 133.33% OPERATING PROFIT;
+0.50cr, QoQ 716.70% & YoY -183.33% NET PROFIT;
+OPM %: 14.10% vs 3.7%
+NPM %: 9.80% vs 2.4%
+

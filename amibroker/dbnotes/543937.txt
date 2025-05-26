@@ -1,0 +1,27 @@
+CODE	NAME
+543937 
+
+SECTOR : Capital Goods-Non Electrical Equipment
+INDUSTRY : Engineering
+PRODUCT DEMAND
+YSD YPD 2023
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- YProfits and YSales DOUBLED in Mar2023
+
+YSALES in Mar-2025 is at 62.4 showing a QoQ_growth of 31.2%. The YNETPROFIT grew by 24.7% to 2.9
+
+Yearly 
+ 31-Mar-2025 #Result
+62.40cr, QoQ 31.20% & YoY 1850.00% SALES;
+3.10cr, QoQ 15.40% & YoY 1450.00% OPERATING PROFIT;
+2.90cr, QoQ 24.70% & YoY 2800.00% NET PROFIT;
+OPM %: 5.10% vs 5.7%
+NPM %: 4.70% vs 4.9%
+

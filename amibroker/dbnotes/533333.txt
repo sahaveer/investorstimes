@@ -1,0 +1,40 @@
+CODES
+533333	FCL	
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  218.5   |  368.2   |  517.0   |  569.0   |  533.3  
+ SQoQ%:  |   11.3   |   68.5   |   40.4   |   10.1   |   -6.3  
+ YOPM%:  |   18.6   |   19.3   |   21.8   |   26.1   |   23.9  
+ YNPM%:  |   19.5   |   15.0   |   17.1   |   21.1   |   20.3  
+YPROFIT: |   42.6   |   55.2   |   88.3   |  119.8   |  108.2  
+ PQoQ%:  |  225.6   |   29.5   |   60.1   |   35.7   |   -9.7  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  153.0   |  141.9   |  145.7   |  125.9   |  119.8  
+ QoQ%:  |   10.5   |   -7.3   |   2.7    |  -13.6   |   -4.9  
+ QOPM%: |   25.0   |   24.8   |   25.0   |   27.2   |   17.8  
+ QNPM%: |   19.7   |   20.3   |   21.9   |   21.9   |   16.7  
+ QPFT:  |   30.1   |   28.8   |   31.8   |   27.6   |   20.0  
+ PQoQ%: |   -7.8   |   -4.5   |   10.8   |  -13.2   |  -27.7  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 22.6%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+
+
+Yearly 
+ 31-Mar-2025 #Result
+533.30cr, QoQ -6.30% & YoY 144.07% SALES;
+127.20cr, QoQ -14.30% & YoY 213.30% OPERATING PROFIT;
+108.20cr, QoQ -9.70% & YoY 153.99% NET PROFIT;
+OPM %: 23.90% vs 26.1%
+NPM %: 20.30% vs 21.1%
+

@@ -1,0 +1,39 @@
+CODE	NAME
+533285 
+
+SECTOR : Realty
+INDUSTRY : Construction
+EXPANSION 2024
+LYPD PM 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024
+---------+----------+----------+----------+----------+---------
+YSALES:  |   45.0   |   57.4   |   69.8   |  128.6   |  110.3  
+ SQoQ%:  |   19.7   |   27.7   |   21.5   |   84.2   |  -14.2  
+ YOPM%:  |   21.7   |   8.5    |   9.5    |   15.3   |   34.8  
+ YNPM%:  |   13.2   |   7.0    |   7.3    |   13.1   |   17.8  
+YPROFIT: |   5.9    |   4.0    |   5.1    |   16.9   |   19.7  
+ PQoQ%:  |   85.0   |  -32.7   |   27.5   |  231.0   |   16.5  
+ QPNL:  | Mar-2023 | Jun-2023 | Sep-2023 | Dec-2023 | Mar-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   67.3   |   10.5   |   22.7   |   16.2   |   60.9  
+ QoQ%:  |  109.2   |  -84.3   |  115.6   |  -28.6   |  275.4  
+ QOPM%: |   12.2   |   72.9   |   26.5   |   47.1   |   28.0  
+ QNPM%: |   11.6   |   30.2   |   11.6   |   14.9   |   19.1  
+ QPFT:  |   7.8    |   3.2    |   2.6    |   2.4    |   11.6  
+ PQoQ%: |  103.4   |  -59.1   |  -17.0   |   -8.7   |  381.3  
+
+***PROS***
+EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+- LastYr YProfits Doubled and maintained in Mar2024
+
+Yearly 
+ 31-Mar-2024 #Result
+110.30cr, QoQ -14.20% & YoY 145.11% SALES;
+38.40cr, QoQ 95.40% & YoY 291.84% OPERATING PROFIT;
+19.70cr, QoQ 16.50% & YoY 233.90% NET PROFIT;
+OPM %: 34.80% vs 15.3%
+NPM %: 17.80% vs 13.1%
+

@@ -1,0 +1,39 @@
+CODES
+500420	TORNTPHARM	
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Formulations
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  8004.6  |  8508.0  |  9620.2  | 10727.8  | 11516.0 
+ SQoQ%:  |   0.8    |   6.3    |   13.1   |   11.5   |   7.3   
+ YOPM%:  |   31.0   |   28.6   |   29.5   |   31.4   |   32.3  
+ YNPM%:  |   15.6   |   9.1    |   12.9   |   15.4   |   16.6  
+YPROFIT: |  1251.9  |  777.2   |  1245.2  |  1656.4  |  1911.0 
+ PQoQ%:  |   22.2   |  -37.9   |   60.2   |   33.0   |   15.4  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  2745.0  |  2859.0  |  2889.0  |  2809.0  |  2959.0 
+ QoQ%:  |   0.5    |   4.2    |   1.0    |   -2.8   |   5.3   
+ QOPM%: |   32.2   |   31.6   |   32.5   |   32.5   |   32.6  
+ QNPM%: |   16.4   |   16.0   |   15.7   |   17.9   |   16.8  
+ QPFT:  |  449.0   |  457.0   |  453.0   |  503.0   |  498.0  
+ PQoQ%: |   1.4    |   1.8    |   -0.9   |   11.0   |   -1.0  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 21.1%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+Yearly 
+ 31-Mar-2025 #Result
+11516.00cr, QoQ 7.30% & YoY 43.87% SALES;
+3721.00cr, QoQ 10.50% & YoY 50.03% OPERATING PROFIT;
+1911.00cr, QoQ 15.40% & YoY 52.65% NET PROFIT;
+OPM %: 32.30% vs 31.4%
+NPM %: 16.60% vs 15.4%
+

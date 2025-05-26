@@ -1,0 +1,38 @@
+CODES
+538666	SHARDACROP	
+SECTOR : Agro Chemicals
+INDUSTRY : Pesticides / Agrochemicals - Indian
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  2395.6  |  3579.8  |  4045.2  |  3163.0  |  4319.8 
+ SQoQ%:  |   19.6   |   49.4   |   13.0   |  -21.8   |   36.6  
+ YOPM%:  |   18.8   |   19.4   |   16.3   |   9.6    |   13.8  
+ YNPM%:  |   9.6    |   9.8    |   8.5    |   1.0    |   7.0   
+YPROFIT: |  229.2   |  349.2   |  342.0   |   31.9   |  304.4  
+ PQoQ%:  |   39.2   |   52.4   |   -2.1   |  -90.7   |  854.8  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  1312.0  |  785.1   |  776.9   |  929.3   |  1828.5 
+ QoQ%:  |  107.5   |  -40.2   |   -1.0   |   19.6   |   96.8  
+ QOPM%: |   19.4   |   9.8    |   11.5   |   12.3   |   16.6  
+ QNPM%: |   10.9   |   3.5    |   5.5    |   3.4    |   11.1  
+ QPFT:  |  143.5   |   27.2   |   42.4   |   31.2   |  203.6  
+ PQoQ%: |  2992.0  |  -81.0   |   55.6   |  -26.6   |  553.5  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+
+YSALES in Mar-2025 is at 4319.8 showing a QoQ_growth of 36.6%. The YNETPROFIT grew by 854.8% to 304.4
+
+Yearly 
+ 31-Mar-2025 #Result
+4319.80cr, QoQ 36.60% & YoY 80.32% SALES;
+595.60cr, QoQ 96.30% & YoY 32.30% OPERATING PROFIT;
+304.40cr, QoQ 854.80% & YoY 32.81% NET PROFIT;
+OPM %: 13.80% vs 9.6%
+NPM %: 7.00% vs 1.0%
+

@@ -1,0 +1,27 @@
+CODE	NAME
+508980 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+EXPANSION 2014
+EXPANSION 2015
+
+***CONS***
+
+
+
+
+
+***PROS***
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
+- Last 3QSALES is about 59% YSales
+
+
+Yearly 
+ 31-Mar-2015 #Result
+2.90cr, QoQ -1.70% SALES;
+1.50cr, QoQ -13.10% OPERATING PROFIT;
+1.00cr, QoQ -3.90% NET PROFIT;
+OPM %: 51.70% vs 58.5%
+NPM %: 33.30% vs 34.1%
+

@@ -1,0 +1,28 @@
+CODES
+500402	SPMLINFRA	
+SECTOR : Infrastructure Developers & Operators
+INDUSTRY : Construction
+PRODUCT DEMAND
+
+***CONS***
+- NEGATIVE YProfit : -7.0
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  1706.5  |  682.8   |  951.8   |  883.1   |  1319.0  |     581.7    
+ SQoQ%:  |  -15.2   |  -60.0   |   39.4   |   -7.2   |   49.4   |      44.1    
+ YOPM%:  |   4.5    |   0.0    |   0.0    |   3.3    |   1.4    |              
+ YNPM%:  |   0.4    |   0.0    |   0.0    |   0.0    |   0.0    |              
+YPROFIT: |   6.6    |  -117.2  |   0.3    |   0.4    |   -7.0   |      35.9    
+ PQoQ%:  |  -83.4   | -1878.6  |  -100.3  |   21.9   | -1887.2  |     -512.9   
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  252.2   |  461.2   |  206.8   |  188.6   |  186.3  
+ QoQ%:  |   -0.7   |   82.8   |  -55.2   |   -8.8   |   -1.2  
+ QOPM%: |   0.0    |   3.8    |   5.6    |   6.8    |   4.3   
+ QNPM%: |   0.4    |   0.0    |   6.3    |   6.9    |   5.3   
+ QPFT:  |   1.1    |   -8.9   |   12.9   |   13.1   |   9.9   
+ PQoQ%: |  226.5   |  -899.1  |  -245.8  |   1.0    |  -23.9  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs

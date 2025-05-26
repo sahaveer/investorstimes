@@ -1,0 +1,18 @@
+CODES
+543514	VERANDA	
+SECTOR : Education
+INDUSTRY : Miscellaneous
+YSD YPD 2024
+YSD YPD 2023
+
+***CONS***
+- NEGATIVE YProfit : -79.7
+
+
+
+
+
+***PROS***
+- Last 3QSALES is about 99% YSales
+- YProfits and YSales DOUBLED in Mar2024
+- YProfits and YSales DOUBLED in Mar2023

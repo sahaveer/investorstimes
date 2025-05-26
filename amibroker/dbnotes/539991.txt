@@ -1,0 +1,32 @@
+CODE	NAME
+539991 
+
+SECTOR : Trading
+INDUSTRY : Trading
+BestQ Dec 2024
+YSD YPD 2023
+LYPD PM 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+
+
+***PROS***
+- Last 3QSALES is about 103% YSales
+- Last 3QPROFIT is about 56% of YProfit
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2024
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2024, Sales have increased by 44.2% while the Profit QoQ_growth is at 20.8%
+
+Yearly 
+ 31-Mar-2024 #Result
+175.90cr, QoQ 44.20% SALES;
+24.50cr, QoQ 18.00% OPERATING PROFIT;
+8.60cr, QoQ 20.80% NET PROFIT;
+OPM %: 13.90% vs 17.0%
+NPM %: 4.90% vs 5.8%
+

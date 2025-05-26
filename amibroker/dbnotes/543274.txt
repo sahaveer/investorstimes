@@ -1,0 +1,12 @@
+CODE	NAME
+543274 
+
+SECTOR : Trading
+INDUSTRY : Trading
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***

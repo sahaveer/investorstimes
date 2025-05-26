@@ -1,0 +1,41 @@
+CODES
+CDSL	
+SECTOR : Financial Services
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  343.7   |  551.3   |  555.1   |  812.3   |  1082.2 
+ SQoQ%:  |   52.7   |   60.4   |   0.7    |   46.3   |   33.2  
+ YOPM%:  |   61.6   |   66.3   |   57.5   |   60.1   |   57.7  
+ YNPM%:  |   58.3   |   56.4   |   49.7   |   51.6   |   48.7  
+YPROFIT: |  200.3   |  311.2   |  275.9   |  419.1   |  526.6  
+ PQoQ%:  |   88.7   |   55.3   |  -11.3   |   51.9   |   25.7  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  240.8   |  257.4   |  322.3   |  278.1   |  224.4  
+ QoQ%:  |   12.3   |   6.9    |   25.2   |  -13.7   |  -19.3  
+ QOPM%: |   61.4   |   60.0   |   62.0   |   57.8   |   48.7  
+ QNPM%: |   53.7   |   52.1   |   50.3   |   46.8   |   44.7  
+ QPFT:  |  129.3   |  134.2   |  162.0   |  130.1   |  100.3  
+ PQoQ%: |   20.3   |   3.8    |   20.7   |  -19.7   |  -22.9  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 100.5%
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 33.2% while the Profit QoQ_growth is at 25.7%
+
+Yearly 
+ 31-Mar-2025 #Result
+1082.20cr, QoQ 33.20% & YoY 214.87% SALES;
+624.30cr, QoQ 27.80% & YoY 194.76% OPERATING PROFIT;
+526.60cr, QoQ 25.70% & YoY 162.91% NET PROFIT;
+OPM %: 57.70% vs 60.1%
+NPM %: 48.70% vs 51.6%
+

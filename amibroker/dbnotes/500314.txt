@@ -1,0 +1,35 @@
+CODES
+500314	ORIENTHOT	
+SECTOR : Hotels & Restaurants
+INDUSTRY : Hotels
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  115.9   |  219.4   |  394.5   |  393.2   |  439.7  
+ SQoQ%:  |  -60.2   |   89.3   |   79.8   |   -0.3   |   11.8  
+ YOPM%:  |   0.0    |   10.7   |   28.5   |   25.0   |   25.0  
+ YNPM%:  |   0.0    |   0.0    |   13.8   |   12.6   |   8.9   
+YPROFIT: |  -71.3   |  -20.2   |   54.3   |   49.6   |   39.2  
+ PQoQ%:  |  763.0   |  -71.6   |  -368.0  |   -8.5   |  -21.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  107.5   |   82.0   |  103.3   |  121.9   |  132.5  
+ QoQ%:  |   5.3    |  -23.7   |   26.0   |   18.0   |   8.7   
+ QOPM%: |   24.9   |   14.3   |   24.0   |   28.4   |   29.4  
+ QNPM%: |   18.0   |   0.0    |   5.5    |   12.7   |   14.6  
+ QPFT:  |   19.3   |   -1.4   |   5.7    |   15.4   |   19.4  
+ PQoQ%: |   4.1    |  -107.0  |  -523.0  |  170.4   |   25.7  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+439.70cr, QoQ 11.80% & YoY 279.38% SALES;
+110.10cr, QoQ 12.00% & YoY -444.06% OPERATING PROFIT;
+39.20cr, QoQ -21.00% & YoY -154.98% NET PROFIT;
+OPM %: 25.00% vs 25.0%
+NPM %: 8.90% vs 12.6%
+

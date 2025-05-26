@@ -1,0 +1,39 @@
+CODE	NAME
+541503 
+
+SECTOR : Printing & Stationery
+INDUSTRY : Printing & Stationery
+BestQ Dec 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   48.4   |   56.0   |   69.4   |   66.2   |   55.8   |      42.7    
+ SQoQ%:  |   26.6   |   15.7   |   23.9   |   -4.7   |  -15.7   |      76.5    
+ YOPM%:  |   16.7   |   14.7   |   12.1   |   13.3   |   14.0   |              
+ YNPM%:  |   6.0    |   4.2    |   3.8    |   3.4    |   3.5    |              
+YPROFIT: |   2.9    |   2.3    |   2.6    |   2.2    |   2.0    |      1.5     
+ PQoQ%:  |   35.0   |  -19.4   |   13.3   |  -15.2   |  -12.5   |      75.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   12.9   |   14.7   |   15.6   |   14.7   |   12.4  
+ QoQ%:  |   -1.4   |   14.1   |   5.8    |   -5.8   |  -15.4  
+ QOPM%: |   9.8    |   17.2   |   18.5   |   13.7   |   8.8   
+ QNPM%: |   0.0    |   7.8    |   7.3    |   4.2    |   0.0   
+ QPFT:  |   -0.1   |   1.2    |   1.1    |   0.6    |   -0.2  
+ PQoQ%: |  -168.4  |  -984.6  |   -1.7   |  -45.1   |  -129.0 
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 75% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+55.80cr, QoQ -15.70% & YoY 15.29% SALES;
+7.80cr, QoQ -11.30% & YoY -3.70% OPERATING PROFIT;
+2.00cr, QoQ -12.50% & YoY -31.03% NET PROFIT;
+OPM %: 14.00% vs 13.3%
+NPM %: 3.50% vs 3.4%
+

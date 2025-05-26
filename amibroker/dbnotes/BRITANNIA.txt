@@ -1,0 +1,37 @@
+CODES
+500825	BRITANNIA	
+SECTOR : FMCG
+INDUSTRY : Food - Processing - MNC
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  | 13136.1  | 14136.3  | 16300.6  | 16769.3  | 17942.7 
+ SQoQ%:  |   13.2   |   7.6    |   15.3   |   2.9    |   7.0   
+ YOPM%:  |   19.1   |   15.6   |   17.4   |   18.9   |   17.7  
+ YNPM%:  |   14.2   |   10.8   |   14.2   |   12.8   |   12.1  
+YPROFIT: |  1863.9  |  1524.8  |  2321.8  |  2139.8  |  2178.7 
+ PQoQ%:  |   32.9   |  -18.2   |   52.3   |   -7.8   |   1.8   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  4069.4  |  4250.3  |  4667.6  |  4592.6  |  4432.2 
+ QoQ%:  |   -4.4   |   4.4    |   9.8    |   -1.6   |   -3.5  
+ QOPM%: |   19.3   |   17.7   |   16.7   |   18.4   |   18.1  
+ QNPM%: |   13.2   |   11.9   |   11.4   |   12.7   |   12.6  
+ QPFT:  |  538.3   |  505.6   |  531.4   |  581.7   |  560.0  
+ PQoQ%: |   -3.3   |   -6.1   |   5.1    |   9.5    |   -3.7  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 79.9%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+
+Yearly 
+ 31-Mar-2025 #Result
+17942.70cr, QoQ 7.00% & YoY 36.59% SALES;
+3176.40cr, QoQ 0.30% & YoY 26.59% OPERATING PROFIT;
+2178.70cr, QoQ 1.80% & YoY 16.89% NET PROFIT;
+OPM %: 17.70% vs 18.9%
+NPM %: 12.10% vs 12.8%
+

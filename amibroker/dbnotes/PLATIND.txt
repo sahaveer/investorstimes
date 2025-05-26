@@ -1,0 +1,37 @@
+CODES
+544134	PLATIND	
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+EXPANSION 2025
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   89.3   |  188.2   |  231.5   |  264.4   |  392.3  
+ SQoQ%:  |   nan    |  110.8   |   23.0   |   14.2   |   48.4  
+ YOPM%:  |   8.5    |   13.5   |   23.3   |   23.2   |   14.7  
+ YNPM%:  |   5.4    |   9.4    |   16.4   |   16.5   |   12.7  
+YPROFIT: |   4.8    |   17.8   |   37.9   |   43.7   |   49.8  
+ PQoQ%:  |   nan    |  268.3   |  113.6   |   15.4   |   13.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   80.4   |  102.7   |   99.6   |   93.5   |   96.5  
+ QoQ%:  |   31.2   |   27.8   |   -2.9   |   -6.2   |   3.3   
+ QOPM%: |   18.8   |   19.9   |   15.1   |   15.0   |   8.5   
+ QNPM%: |   13.2   |   17.1   |   14.3   |   12.5   |   6.6   
+ QPFT:  |   10.6   |   17.5   |   14.3   |   11.6   |   6.4   
+ PQoQ%: |   5.7    |   65.0   |  -18.6   |  -18.4   |  -45.3  
+
+***PROS***
+EXPANSION ??- EXPANSION underway in Mar-2025, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+392.30cr, QoQ 48.40% & YoY 339.31% SALES;
+57.80cr, QoQ -5.70% & YoY 660.53% OPERATING PROFIT;
+49.80cr, QoQ 13.90% & YoY 937.50% NET PROFIT;
+OPM %: 14.70% vs 23.2%
+NPM %: 12.70% vs 16.5%
+

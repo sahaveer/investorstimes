@@ -1,0 +1,45 @@
+CODE	NAME
+530249 
+
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+YSD YPD 2025
+LYPD PM 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   2.1    |   2.6    |   1.0    |   0.8    |   1.9   
+ SQoQ%:  |   36.5   |   22.5   |  -62.8   |  -17.5   |  138.7  
+ YOPM%:  |   58.2   |   0.0    |   0.0    |   85.0   |   89.0  
+ YNPM%:  |   58.2   |   0.0    |   0.0    |   65.0   |   66.5  
+YPROFIT: |   1.2    |   -0.9   |   -0.7   |   0.5    |   1.3   
+ PQoQ%:  |  -261.0  |  -172.6  |  -24.4   |  -176.5  |  144.2  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.3    |   0.1    |   1.0    |   0.8    |   0.0   
+ QoQ%:  |   39.1   |  -68.8   |  950.0   |  -28.6   |  -100.0 
+ QOPM%: |   93.8   |   30.0   |   95.2   |   97.3   |   0.0   
+ QNPM%: |   84.4   |   30.0   |   95.2   |   97.3   |   0.0   
+ QPFT:  |   0.3    |   0.0    |   1.0    |   0.7    |   -0.5  
+ PQoQ%: |   42.1   |  -88.9   |  3233.3  |  -27.0   |  -165.8 
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 40.7%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2025
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+YSALES in Mar-2025 is at 1.9 showing a QoQ_growth of 138.7%. The YNETPROFIT grew by 144.2% to 1.3
+
+Yearly 
+ 31-Mar-2025 #Result
+1.90cr, QoQ 138.70% & YoY -9.52% SALES;
+1.70cr, QoQ 150.00% & YoY 41.67% OPERATING PROFIT;
+1.30cr, QoQ 144.20% & YoY 8.33% NET PROFIT;
+OPM %: 89.00% vs 85.0%
+NPM %: 66.50% vs 65.0%
+

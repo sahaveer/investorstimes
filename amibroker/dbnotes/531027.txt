@@ -1,0 +1,43 @@
+CODE	NAME
+531027 
+
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+PRODUCT DEMAND
+LYPD PM 2024
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   0.3    |   0.2    |   0.2    |   0.4    |   0.8    |      0.0     
+ SQoQ%:  |  -23.3   |  -45.5   |   22.2   |   59.1   |  128.6   |      0.0     
+ YOPM%:  |   36.4   |   11.1   |   9.1    |   28.6   |   61.3   |              
+ YNPM%:  |   24.2   |   5.6    |   9.1    |   20.0   |   46.2   |              
+YPROFIT: |   0.1    |   0.0    |   0.0    |   0.1    |   0.4    |      -0.1    
+ PQoQ%:  |   14.3   |  -87.5   |  100.0   |  250.0   |  428.6   |     -25.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QoQ%:  |   inf    |  -100.0  |   nan    |   nan    |   nan   
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |  750.0   |   inf    |   inf    |   inf    |   0.0   
+ QPFT:  |   0.2    |   0.1    |   0.2    |   0.1    |   -0.4  
+ PQoQ%: |   7.1    |  -53.3   |  242.9   |  -58.3   |  -550.0 
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- LastYr YProfits Doubled and maintained in Mar2024
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 128.6% while the Profit QoQ_growth is much better than Sales itself at 428.6%
+
+Yearly 
+ 31-Mar-2024 #Result
+0.80cr, QoQ 128.60% & YoY 166.67% SALES;
+0.50cr, QoQ 390.00% & YoY 400.00% OPERATING PROFIT;
+0.40cr, QoQ 428.60% & YoY 300.00% NET PROFIT;
+OPM %: 61.30% vs 28.6%
+NPM %: 46.20% vs 20.0%
+

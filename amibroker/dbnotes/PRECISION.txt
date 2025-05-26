@@ -1,0 +1,19 @@
+CODES
+PRECISION	
+SECTOR : Auto Ancillaries
+INDUSTRY : Auto Ancillaries
+
+***CONS***
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2025 #Result
+127.10cr, QoQ -35.10% & YoY 158.33% SALES;
+0.30cr, QoQ -96.10% & YoY -81.25% OPERATING PROFIT;
+0.80cr, QoQ -88.30% & YoY -46.67% NET PROFIT;
+OPM %: 0.20% vs 4.0%
+NPM %: 0.60% vs 3.5%
+

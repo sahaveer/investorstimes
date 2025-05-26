@@ -1,0 +1,21 @@
+CODE	NAME
+544372 
+
+SECTOR : Trading
+INDUSTRY : Trading
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2024 #Result
+185.80cr, QoQ -9.10% SALES;
+5.80cr, QoQ -12.30% OPERATING PROFIT;
+4.40cr, QoQ 0.20% NET PROFIT;
+OPM %: 3.10% vs 3.3%
+NPM %: 2.40% vs 2.1%
+

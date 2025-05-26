@@ -1,0 +1,13 @@
+CODES
+544278	OCCLLTD	
+SECTOR : 
+INDUSTRY : 
+
+***CONS***
+- NEGATIVE YProfit : -0.1
+
+
+
+
+
+***PROS***

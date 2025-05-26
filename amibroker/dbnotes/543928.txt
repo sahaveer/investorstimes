@@ -1,0 +1,11 @@
+CODE	NAME
+543928 
+
+SECTOR : Steel
+INDUSTRY : Steel - Medium / Small
+
+***CONS***
+
+
+
+***PROS***

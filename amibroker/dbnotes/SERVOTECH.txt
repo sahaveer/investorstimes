@@ -1,0 +1,37 @@
+CODES
+SERVOTECH	
+SECTOR : Capital Goods - Electrical Equipment
+INDUSTRY : Electric Equipment
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   87.0   |  143.7   |  278.4   |  353.2   |  674.4  
+ SQoQ%:  |   nan    |   65.1   |   93.8   |   26.9   |   90.9  
+ YOPM%:  |   5.6    |   6.3    |   6.7    |   5.9    |   8.2   
+ YNPM%:  |   1.1    |   2.8    |   4.0    |   3.3    |   4.9   
+YPROFIT: |   0.9    |   4.0    |   11.0   |   11.8   |   32.7  
+ PQoQ%:  |   nan    |  339.1   |  173.3   |   6.5    |  178.4  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  136.2   |  112.2   |  199.7   |  216.3   |  146.3  
+ QoQ%:  |  161.8   |  -17.6   |   78.0   |   8.3    |  -32.4  
+ QOPM%: |   4.1    |   7.4    |   9.5    |   7.5    |   8.3   
+ QNPM%: |   2.5    |   4.0    |   5.7    |   4.2    |   5.3   
+ QPFT:  |   3.4    |   4.5    |   11.3   |   9.2    |   7.8   
+ PQoQ%: |  209.0   |   30.6   |  152.5   |  -19.0   |  -15.0  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+YSALES in Mar-2025 is at 674.4 showing a QoQ_growth of 90.9%. The YNETPROFIT grew by 178.4% to 32.7
+
+Yearly 
+ 31-Mar-2025 #Result
+674.40cr, QoQ 90.90% & YoY 675.17% SALES;
+55.60cr, QoQ 167.30% & YoY 1058.33% OPERATING PROFIT;
+32.70cr, QoQ 178.40% & YoY 3533.33% NET PROFIT;
+OPM %: 8.20% vs 5.9%
+NPM %: 4.90% vs 3.3%
+

@@ -1,0 +1,38 @@
+CODES
+513377	MMTC	
+SECTOR : Trading
+INDUSTRY : Trading
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  | 26303.9  | 29999.5  | 11795.2  |  3527.4  |   3.4    |      2.4     
+ SQoQ%:  |  -10.6   |   14.0   |  -60.7   |  -70.1   |  -99.9   |      70.6    
+ YOPM%:  |   0.0    |   0.0    |   3.9    |   0.0    |   0.0    |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   44.3   |  5702.7  |              
+YPROFIT: |  -291.8  |  -789.3  |  -258.2  |  1562.3  |  192.2   |      84.4    
+ PQoQ%:  |  -368.3  |  170.5   |  -67.3   |  -705.0  |  -87.7   |      43.9    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.7    |   0.6    |   0.6    |   1.6    |   0.2   
+ QoQ%:  |  -100.3  |  -12.3   |   1.6    |  140.0   |  -84.0  
+ QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
+ QNPM%: |  7631.5  | 10903.1  |  5029.2  |  3080.1  |  1464.0 
+ QPFT:  |   55.7   |   69.8   |   32.7   |   48.0   |   3.7   
+ PQoQ%: |   7.1    |   25.3   |  -53.2   |   47.0   |  -92.4  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 71% YSales
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+
+
+Yearly 
+ 31-Mar-2024 #Result
+3.40cr, QoQ -99.90% & YoY -99.99% SALES;
+-161.80cr, QoQ 51.20% & YoY 22.39% OPERATING PROFIT;
+192.20cr, QoQ -87.70% & YoY -165.87% NET PROFIT;
+OPM %: 0.00% vs 0.0%
+NPM %: 5702.70% vs 44.3%
+

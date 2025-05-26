@@ -1,0 +1,21 @@
+CODES
+FOCE	
+SECTOR : Retail
+INDUSTRY : Trading
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2024 #Result
+16.50cr, QoQ 14.00% & YoY -69.67% SALES;
+1.30cr, QoQ 81.40% & YoY -40.91% OPERATING PROFIT;
+0.50cr, QoQ 172.20% & YoY -68.75% NET PROFIT;
+OPM %: 7.70% vs 4.8%
+NPM %: 3.00% vs 1.2%
+

@@ -1,0 +1,37 @@
+CODES
+505854	TRF	
+SECTOR : Capital Goods-Non Electrical Equipment
+INDUSTRY : Engineering
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  114.0   |  127.1   |  177.1   |  140.0   |  120.7  
+ SQoQ%:  |  -38.6   |   11.6   |   39.3   |  -21.0   |  -13.7  
+ YOPM%:  |   0.0    |   0.0    |   33.0   |   25.5   |   24.4  
+ YNPM%:  |   0.0    |   0.0    |   50.0   |   24.7   |   21.4  
+YPROFIT: |  -93.1   |  -23.0   |   88.6   |   34.6   |   25.8  
+ PQoQ%:  |  -49.7   |  -75.3   |  -484.5  |  -60.9   |  -25.5  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   38.0   |   37.6   |   32.7   |   23.3   |   27.1  
+ QoQ%:  |   32.1   |   -1.0   |  -13.1   |  -28.7   |   16.3  
+ QOPM%: |   14.0   |   13.7   |   20.7   |   49.4   |   23.0  
+ QNPM%: |   16.6   |   13.3   |   18.4   |   48.3   |   13.0  
+ QPFT:  |   6.3    |   5.0    |   6.0    |   11.3   |   3.5   
+ PQoQ%: |  420.7   |  -20.8   |   20.6   |   87.2   |  -68.8  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+
+Yearly 
+ 31-Mar-2025 #Result
+120.70cr, QoQ -13.70% & YoY 5.88% SALES;
+29.50cr, QoQ -17.40% & YoY -178.88% OPERATING PROFIT;
+25.80cr, QoQ -25.50% & YoY -127.71% NET PROFIT;
+OPM %: 24.40% vs 25.5%
+NPM %: 21.40% vs 24.7%
+

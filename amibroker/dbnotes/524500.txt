@@ -1,0 +1,36 @@
+CODES
+524500	KILITCH	
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Formulations
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   68.4   |  114.2   |  139.6   |  154.4   |  198.3  
+ SQoQ%:  |   28.3   |   67.0   |   22.2   |   10.6   |   28.5  
+ YOPM%:  |   7.8    |   9.2    |   12.7   |   15.7   |   15.9  
+ YNPM%:  |   5.4    |   6.5    |   7.5    |   9.5    |   13.5  
+YPROFIT: |   3.7    |   7.4    |   10.4   |   14.6   |   26.7  
+ PQoQ%:  |  336.9   |  100.8   |   41.8   |   39.7   |   82.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   44.8   |   33.4   |   47.5   |   56.2   |   61.2  
+ QoQ%:  |   41.0   |  -25.4   |   41.9   |   18.3   |   9.0   
+ QOPM%: |   15.8   |   5.0    |   12.9   |   15.5   |   23.8  
+ QNPM%: |   8.0    |   4.0    |   18.2   |   10.6   |   17.0  
+ QPFT:  |   3.6    |   1.3    |   8.6    |   6.0    |   10.4  
+ PQoQ%: |   23.4   |  -62.7   |  543.3   |  -30.9   |   74.5  
+
+***PROS***
+
+YSALES in Mar-2025 is at 198.3 showing a QoQ_growth of 28.5%. The YNETPROFIT grew by 82.9% to 26.7
+
+Yearly 
+ 31-Mar-2025 #Result
+198.30cr, QoQ 28.50% & YoY 189.91% SALES;
+31.50cr, QoQ 29.70% & YoY 494.34% OPERATING PROFIT;
+26.70cr, QoQ 82.90% & YoY 621.62% NET PROFIT;
+OPM %: 15.90% vs 15.7%
+NPM %: 13.50% vs 9.5%
+

@@ -1,0 +1,20 @@
+CODES
+UNILEX	
+SECTOR : Chemicals
+INDUSTRY : Dyes And Pigments
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2024 #Result
+143.80cr, QoQ 3.50% & YoY 76.88% SALES;
+4.40cr, QoQ 51.40% & YoY 528.57% OPERATING PROFIT;
+6.20cr, QoQ 24.10% & YoY 181.82% NET PROFIT;
+OPM %: 3.10% vs 2.1%
+NPM %: 4.30% vs 3.6%
+

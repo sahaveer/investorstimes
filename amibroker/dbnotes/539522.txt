@@ -1,0 +1,40 @@
+CODE	NAME
+539522 
+
+SECTOR : Realty
+INDUSTRY : Construction
+BestQ Dec 2024
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   17.9   |   13.3   |   21.5   |   20.9   |   19.6   |      22.0    
+ SQoQ%:  |  103.6   |  -25.6   |   62.1   |   -2.9   |   -6.5   |     112.2    
+ YOPM%:  |   0.0    |   2.3    |   2.9    |   6.2    |   5.6    |              
+ YNPM%:  |   0.0    |   10.8   |   5.0    |   4.3    |   5.1    |              
+YPROFIT: |   -1.3   |   1.4    |   1.1    |   0.9    |   1.0    |      1.6     
+ PQoQ%:  | -2014.3  |  -207.5  |  -25.0   |  -15.7   |   9.9    |     160.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   5.9    |   3.5    |   1.3    |   1.1    |   19.6  
+ QoQ%:  |   5.9    |  -40.9   |  -64.1   |  -11.9   |  1670.3 
+ QOPM%: |   1.7    |   0.0    |   0.0    |   0.0    |   12.2  
+ QNPM%: |   2.9    |   1.1    |   0.0    |   1.8    |   9.3   
+ QPFT:  |   0.2    |   0.0    |   -0.2   |   0.0    |   1.8   
+ PQoQ%: |  -73.0   |  -76.5   |  -725.0  |  -108.0  |  9000.0 
+
+***PROS***
+- Last 3QSALES is about 112% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 160% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2024 #Result
+19.60cr, QoQ -6.50% & YoY 9.50% SALES;
+1.10cr, QoQ -15.40% & YoY -200.00% OPERATING PROFIT;
+1.00cr, QoQ 9.90% & YoY -176.92% NET PROFIT;
+OPM %: 5.60% vs 6.2%
+NPM %: 5.10% vs 4.3%
+

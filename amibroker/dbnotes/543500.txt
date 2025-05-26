@@ -1,0 +1,22 @@
+CODE	NAME
+543500 
+
+SECTOR : Trading
+INDUSTRY : Trading
+
+***CONS***
+
+
+
+***PROS***
+A DEBT-Free Company
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+
+Yearly 
+ 31-Mar-2025 #Result
+11.80cr, QoQ 190.40% & YoY 18.00% SALES;
+-2.20cr, QoQ 36.00% & YoY -344.44% OPERATING PROFIT;
+0.10cr, QoQ -80.00% & YoY -85.71% NET PROFIT;
+OPM %: 0.00% vs 0.0%
+NPM %: 0.80% vs 11.1%
+

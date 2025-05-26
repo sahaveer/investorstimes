@@ -1,0 +1,40 @@
+CODES
+THEJO	
+SECTOR : Engineering
+INDUSTRY : Engineering
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  303.5   |  326.7   |  424.2   |  473.8   |  558.6   |     399.5    
+ SQoQ%:  |   32.7   |   7.6    |   29.8   |   11.7   |   17.9   |      71.5    
+ YOPM%:  |   16.2   |   15.4   |   16.3   |   12.6   |   18.0   |              
+ YNPM%:  |   8.3    |   8.1    |   8.9    |   6.8    |   10.0   |              
+YPROFIT: |   25.1   |   26.4   |   37.6   |   32.4   |   55.6   |      34.7    
+ PQoQ%:  |   88.2   |   5.2    |   42.3   |  -13.8   |   71.6   |      62.4    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  149.9   |  140.8   |  130.5   |  133.4   |  135.6  
+ QoQ%:  |   11.8   |   -6.0   |   -7.3   |   2.2    |   1.6   
+ QOPM%: |   19.4   |   18.1   |   14.1   |   12.6   |   17.8  
+ QNPM%: |   11.6   |   8.9    |   7.4    |   8.9    |   9.7   
+ QPFT:  |   17.3   |   12.5   |   9.6    |   11.9   |   13.2  
+ PQoQ%: |   32.0   |  -28.0   |  -23.1   |   24.1   |   10.5  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 21.5%
+- Last 3QSALES is about 72% YSales
+- Last 3QPROFIT is about 62% of YProfit
+
+YSALES in Mar-2024 is at 558.6 showing a QoQ_growth of 17.9%. The YNETPROFIT grew by 71.6% to 55.6
+
+Yearly 
+ 31-Mar-2024 #Result
+558.60cr, QoQ 17.90% & YoY 84.05% SALES;
+100.30cr, QoQ 67.80% & YoY 103.86% OPERATING PROFIT;
+55.60cr, QoQ 71.60% & YoY 121.51% NET PROFIT;
+OPM %: 18.00% vs 12.6%
+NPM %: 10.00% vs 6.8%
+

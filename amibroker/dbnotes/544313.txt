@@ -1,0 +1,26 @@
+CODE	NAME
+544313 
+
+SECTOR : Construction
+INDUSTRY : Construction
+PRODUCT DEMAND
+YSD YPD 2024
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2024
+
+YSALES in Mar-2024 is at 36.2 showing a QoQ_growth of 208.8%. The YNETPROFIT grew by 466.1% to 3.2
+
+Yearly 
+ 31-Mar-2024 #Result
+36.20cr, QoQ 208.80% SALES;
+5.10cr, QoQ 366.10% OPERATING PROFIT;
+3.20cr, QoQ 466.10% NET PROFIT;
+OPM %: 14.00% vs 9.3%
+NPM %: 8.80% vs 4.8%
+

@@ -1,0 +1,42 @@
+CODE	NAME
+532329 
+
+SECTOR : Electronics
+INDUSTRY : Electronics - Components
+PRODUCT DEMAND
+LYPD PM 2022
+
+***CONS***
+ YPNL:   | Mar-2018 | Mar-2019 | Mar-2020 | Mar-2021 | Mar-2022 | QSUM:Sep-2022
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   19.6   |   54.7   |   54.8   |   98.9   |  121.6   |      75.4    
+ SQoQ%:  |   50.4   |  179.4   |   0.3    |   80.3   |   23.0   |      62.0    
+ YOPM%:  |   7.6    |   0.0    |   0.0    |   6.2    |   5.0    |              
+ YNPM%:  |   7.4    |   0.0    |   0.0    |   0.3    |   3.4    |              
+YPROFIT: |   1.4    |   -0.5   |   -4.5   |   0.3    |   4.1    |      1.9     
+ PQoQ%:  |  -191.7  |  -134.0  |  824.5   |  -106.8  |  1222.6  |      46.3    
+ QPNL:  | Sep-2021 | Dec-2021 | Mar-2022 | Jun-2022 | Sep-2022
+--------+----------+----------+----------+----------+---------
+QSALES: |   30.5   |   28.7   |   33.8   |   37.4   |   38.0  
+ QoQ%:  |   6.8    |   -5.9   |   17.5   |   10.7   |   1.7   
+ QOPM%: |   7.9    |   3.5    |   4.1    |   6.6    |   8.9   
+ QNPM%: |   4.7    |   0.0    |   10.0   |   2.2    |   2.9   
+ QPFT:  |   1.4    |   -0.2   |   3.4    |   0.8    |   1.1   
+ PQoQ%: |  -404.3  |  -116.8  | -1508.3  |  -75.4   |   33.7  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- Last 2QSALES is about 62% YSales
+- LastYr YProfits Doubled and maintained in Mar2022
+
+YSALES in Mar-2022 is at 121.6 showing a QoQ_growth of 23.0%. The YNETPROFIT grew by 1222.6% to 4.1
+
+Yearly 
+ 31-Mar-2022 #Result
+121.60cr, QoQ 23.00% & YoY 520.41% SALES;
+6.10cr, QoQ 0.20% & YoY 306.67% OPERATING PROFIT;
+4.10cr, QoQ 1222.60% & YoY 192.86% NET PROFIT;
+OPM %: 5.00% vs 6.2%
+NPM %: 3.40% vs 0.3%
+

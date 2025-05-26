@@ -1,0 +1,12 @@
+CODES
+539957	MGL	
+SECTOR : Gas Distribution
+INDUSTRY : Miscellaneous
+
+***CONS***
+
+
+
+
+
+***PROS***

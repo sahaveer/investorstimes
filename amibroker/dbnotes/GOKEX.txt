@@ -1,0 +1,37 @@
+CODES
+532630	GOKEX	
+SECTOR : Readymade Garments/ Apparells
+INDUSTRY : Textiles - Products
+BestQ Dec 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  1371.0  |  1210.7  |  1790.3  |  2222.2  |  2378.9  |     2848.9   
+ SQoQ%:  |   16.7   |  -11.7   |   47.9   |   24.1   |   7.1    |     119.8    
+ YOPM%:  |   6.3    |   8.4    |   11.5   |   12.2   |   10.7   |              
+ YNPM%:  |   2.2    |   2.2    |   6.5    |   7.8    |   5.5    |              
+YPROFIT: |   30.4   |   26.5   |  117.1   |  173.0   |  131.0   |     105.7    
+ PQoQ%:  |   18.8   |  -12.8   |  342.0   |   47.7   |  -24.3   |      80.7    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  551.6   |  812.4   |  932.1   |  929.0   |  987.8  
+ QoQ%:  |   10.3   |   47.3   |   14.7   |   -0.3   |   6.3   
+ QOPM%: |   11.3   |   10.4   |   8.0    |   7.5    |   10.5  
+ QNPM%: |   5.5    |   5.5    |   2.9    |   3.0    |   5.1   
+ QPFT:  |   30.4   |   44.3   |   27.2   |   28.2   |   50.3  
+ PQoQ%: |   28.3   |   45.6   |  -38.6   |   3.6    |   78.8  
+
+***PROS***
+- Last 3QSALES is about 120% YSales
+- Last 3QPROFIT is about 81% of YProfit
+
+Yearly 
+ 31-Mar-2024 #Result
+2378.90cr, QoQ 7.10% & YoY 73.52% SALES;
+254.00cr, QoQ -6.20% & YoY 196.04% OPERATING PROFIT;
+131.00cr, QoQ -24.30% & YoY 330.92% NET PROFIT;
+OPM %: 10.70% vs 12.2%
+NPM %: 5.50% vs 7.8%
+

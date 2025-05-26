@@ -1,0 +1,36 @@
+CODES
+531147	ALICON	
+SECTOR : Castings, Forgings & Fastners
+INDUSTRY : Castings & Forgings
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  848.6   |  1078.0  |  1401.2  |  1559.4  |  1720.4 
+ SQoQ%:  |  -11.3   |   27.0   |   30.0   |   11.3   |   10.3  
+ YOPM%:  |   9.8    |   10.4   |   11.0   |   12.5   |   11.3  
+ YNPM%:  |   0.0    |   2.2    |   3.7    |   3.9    |   2.7   
+YPROFIT: |   -1.9   |   24.2   |   51.4   |   61.4   |   46.1  
+ PQoQ%:  |  -111.3  | -1352.8  |  112.7   |   19.4   |  -24.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  419.3   |  440.0   |  463.8   |  392.1   |  424.5  
+ QoQ%:  |   3.5    |   4.9    |   5.4    |  -15.5   |   8.3   
+ QOPM%: |   13.7   |   13.1   |   12.1   |   8.7    |   11.0  
+ QNPM%: |   4.9    |   4.3    |   3.6    |   0.2    |   2.2   
+ QPFT:  |   20.5   |   19.0   |   16.8   |   0.8    |   9.4   
+ PQoQ%: |   22.7   |   -7.3   |  -11.7   |  -95.4   |  1109.0 
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+1720.40cr, QoQ 10.30% & YoY 102.73% SALES;
+194.50cr, QoQ -0.40% & YoY 134.06% OPERATING PROFIT;
+46.10cr, QoQ -24.90% & YoY -2526.32% NET PROFIT;
+OPM %: 11.30% vs 12.5%
+NPM %: 2.70% vs 3.9%
+

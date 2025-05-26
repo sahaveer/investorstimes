@@ -1,0 +1,36 @@
+CODES
+543335	APTUS	
+SECTOR : Finance
+INDUSTRY : Finance - Housing
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  639.6   |  814.7   |  1093.4  |  1365.2  |  1750.4 
+ SQoQ%:  |   27.8   |   27.4   |   34.2   |   24.9   |   28.2  
+ YOPM%:  |   84.3   |   82.3   |   82.1   |   83.5   |   84.5  
+ YNPM%:  |   41.7   |   45.4   |   46.0   |   44.8   |   42.9  
+YPROFIT: |  266.9   |  370.1   |  503.0   |  611.9   |  751.2  
+ PQoQ%:  |   26.5   |   38.7   |   35.9   |   21.6   |   22.8  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  374.5   |  394.9   |  421.4   |  450.0   |  484.0  
+ QoQ%:  |   6.6    |   5.4    |   6.7    |   6.8    |   7.6   
+ QOPM%: |   83.6   |   84.7   |   83.9   |   85.1   |   84.5  
+ QNPM%: |   43.8   |   43.5   |   43.2   |   42.3   |   42.8  
+ QPFT:  |  164.0   |  171.8   |  182.0   |  190.5   |  207.0  
+ PQoQ%: |   4.1    |   4.7    |   6.0    |   4.7    |   8.7   
+
+***PROS***
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 28.2% while the Profit QoQ_growth is at 22.8%
+
+Yearly 
+ 31-Mar-2025 #Result
+1750.40cr, QoQ 28.20% & YoY 173.67% SALES;
+1479.40cr, QoQ 29.80% & YoY 174.47% OPERATING PROFIT;
+751.20cr, QoQ 22.80% & YoY 181.45% NET PROFIT;
+OPM %: 84.50% vs 83.5%
+NPM %: 42.90% vs 44.8%
+

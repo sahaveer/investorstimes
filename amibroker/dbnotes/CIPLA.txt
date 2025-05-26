@@ -1,0 +1,39 @@
+CODES
+500087	CIPLA	
+SECTOR : Pharmaceuticals
+INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  | 19159.6  | 21763.3  | 22753.1  | 25774.1  | 27547.6 
+ SQoQ%:  |   11.8   |   13.6   |   4.5    |   13.3   |   6.9   
+ YOPM%:  |   22.2   |   20.9   |   22.1   |   24.4   |   25.9  
+ YNPM%:  |   12.6   |   11.6   |   12.3   |   16.0   |   19.1  
+YPROFIT: |  2404.9  |  2516.8  |  2801.9  |  4121.6  |  5272.5 
+ PQoQ%:  |   55.5   |   4.7    |   11.3   |   47.1   |   27.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  6163.2  |  6693.9  |  7051.0  |  7073.0  |  6729.7 
+ QoQ%:  |   -6.7   |   8.6    |   5.3    |   0.3    |   -4.9  
+ QOPM%: |   21.4   |   25.6   |   26.7   |   28.1   |   22.8  
+ QNPM%: |   15.2   |   17.6   |   18.5   |   22.2   |   18.2  
+ QPFT:  |  939.0   |  1177.6  |  1302.5  |  1570.5  |  1221.8 
+ PQoQ%: |  -11.1   |   25.4   |   10.6   |   20.6   |  -22.2  
+
+***PROS***
+A DEBT-Free Company for the last 2 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 20.0%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+Yearly 
+ 31-Mar-2025 #Result
+27547.60cr, QoQ 6.90% & YoY 43.78% SALES;
+7127.90cr, QoQ 13.30% & YoY 67.62% OPERATING PROFIT;
+5272.50cr, QoQ 27.90% & YoY 119.24% NET PROFIT;
+OPM %: 25.90% vs 24.4%
+NPM %: 19.10% vs 16.0%
+

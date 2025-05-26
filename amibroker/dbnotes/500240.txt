@@ -1,0 +1,23 @@
+CODE	NAME
+500240 
+
+SECTOR : Auto Ancillaries
+INDUSTRY : Auto Ancillaries
+
+***CONS***
+- NO PRODUCT DEMAND
+
+
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2025 #Result
+142.40cr, QoQ -0.50% SALES;
+5.00cr, QoQ -30.90% OPERATING PROFIT;
+6.40cr, QoQ 28.90% NET PROFIT;
+OPM %: 3.50% vs 5.1%
+NPM %: 4.50% vs 3.5%
+

@@ -1,0 +1,27 @@
+CODE	NAME
+544025 
+
+SECTOR : Engineering
+INDUSTRY : Engineering
+PRODUCT DEMAND
+LYPD PM 2024
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- LastYr YProfits Doubled and maintained in Mar2024
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 15.2% while the Profit QoQ_growth is much better than Sales itself at 100.0%
+
+Yearly 
+ 31-Mar-2024 #Result
+24.70cr, QoQ 15.20% & YoY 37.22% SALES;
+3.40cr, QoQ 34.90% & YoY 325.00% OPERATING PROFIT;
+2.00cr, QoQ 100.00% & YoY inf% NET PROFIT;
+OPM %: 13.90% vs 11.9%
+NPM %: 8.20% vs 4.8%
+

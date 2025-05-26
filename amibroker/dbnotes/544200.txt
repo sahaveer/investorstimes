@@ -1,0 +1,36 @@
+CODES
+544200	AFIL	
+SECTOR : 
+INDUSTRY : 
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   86.7   |   67.5   |   69.5   |   72.8   |  102.7  
+ SQoQ%:  |  -13.5   |  -22.2   |   3.0    |   4.8    |   41.0  
+ YOPM%:  |   78.2   |   64.0   |   68.1   |   71.2   |   77.1  
+ YNPM%:  |   18.8   |   6.1    |   20.9   |   25.4   |   32.4  
+YPROFIT: |   16.3   |   4.1    |   14.5   |   18.5   |   33.2  
+ PQoQ%:  |  -14.5   |  -74.7   |  252.4   |   27.6   |   79.3  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   20.0   |   21.3   |   24.0   |   28.1   |   29.3  
+ QoQ%:  |   0.9    |   6.4    |   12.6   |   16.9   |   4.2   
+ QOPM%: |   81.5   |   81.7   |   74.1   |   74.1   |   79.0  
+ QNPM%: |   31.3   |   40.4   |   33.9   |   31.8   |   25.8  
+ QPFT:  |   6.3    |   8.6    |   8.1    |   8.9    |   7.6   
+ PQoQ%: |   12.1   |   37.1   |   -5.5   |   9.7    |  -15.5  
+
+***PROS***
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+YSALES in Mar-2025 is at 102.7 showing a QoQ_growth of 41.0%. The YNETPROFIT grew by 79.3% to 33.2
+
+Yearly 
+ 31-Mar-2025 #Result
+102.70cr, QoQ 41.00% & YoY 18.45% SALES;
+79.20cr, QoQ 52.60% & YoY 16.81% OPERATING PROFIT;
+33.20cr, QoQ 79.30% & YoY 103.68% NET PROFIT;
+OPM %: 77.10% vs 71.2%
+NPM %: 32.40% vs 25.4%
+

@@ -1,0 +1,39 @@
+CODES
+532466	OFSS	
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Medium / Small
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  4983.9  |  5221.5  |  5698.3  |  6373.0  |  6846.8 
+ SQoQ%:  |   2.5    |   4.8    |   9.1    |   11.8   |   7.4   
+ YOPM%:  |   49.5   |   47.9   |   43.4   |   43.7   |   44.9  
+ YNPM%:  |   35.4   |   36.2   |   31.7   |   34.8   |   34.8  
+YPROFIT: |  1761.9  |  1888.8  |  1806.1  |  2219.4  |  2379.6 
+ PQoQ%:  |   20.5   |   7.2    |   -4.4   |   22.9   |   7.2   
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  1642.4  |  1741.4  |  1673.9  |  1715.2  |  1716.3 
+ QoQ%:  |   -9.9   |   6.0    |   -3.9   |   2.5    |   0.1   
+ QOPM%: |   44.7   |   48.6   |   44.8   |   41.6   |   44.6  
+ QNPM%: |   34.1   |   35.4   |   34.5   |   31.6   |   37.5  
+ QPFT:  |  560.1   |  616.7   |  577.7   |  541.3   |  643.9  
+ PQoQ%: |  -24.4   |   10.1   |   -6.3   |   -6.3   |   19.0  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 24.7%
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+6846.80cr, QoQ 7.40% & YoY 37.38% SALES;
+3076.30cr, QoQ 10.60% & YoY 24.62% OPERATING PROFIT;
+2379.60cr, QoQ 7.20% & YoY 35.06% NET PROFIT;
+OPM %: 44.90% vs 43.7%
+NPM %: 34.80% vs 34.8%
+

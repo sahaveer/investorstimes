@@ -1,0 +1,42 @@
+CODES
+506820	ASTRAZEN	
+SECTOR : 
+INDUSTRY : 
+PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  831.8   |  813.6   |  805.6   |  1003.0  |  1295.5  |     1235.8   
+ SQoQ%:  |   14.2   |   -2.2   |   -1.0   |   24.5   |   29.2   |      95.4    
+ YOPM%:  |   14.5   |   16.7   |   10.7   |   16.5   |   14.2   |              
+ YNPM%:  |   8.7    |   11.5   |   7.6    |   9.9    |   12.5   |              
+YPROFIT: |   72.2   |   93.3   |   61.6   |   99.3   |  161.5   |      57.4    
+ PQoQ%:  |   32.6   |   29.2   |  -34.0   |   61.2   |   62.7   |      35.5    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  305.8   |  383.2   |  387.5   |  408.0   |  440.3  
+ QoQ%:  |   -1.7   |   25.3   |   1.1    |   5.3    |   7.9   
+ QOPM%: |   4.9    |   12.9   |   9.8    |   12.9   |   17.5  
+ QNPM%: |   5.2    |   10.3   |   0.0    |   9.4    |   7.0   
+ QPFT:  |   15.8   |   39.5   |  -11.8   |   38.4   |   30.8  
+ PQoQ%: |  -69.8   |  149.9   |  -129.9  |  -426.0  |  -19.7  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 15.6%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 95% YSales
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2024, Sales have increased by 29.2% while the Profit QoQ_growth is much better than Sales itself at 62.7%
+
+Yearly 
+ 31-Mar-2024 #Result
+1295.50cr, QoQ 29.20% & YoY 55.75% SALES;
+184.50cr, QoQ 11.70% & YoY 52.86% OPERATING PROFIT;
+161.50cr, QoQ 62.70% & YoY 123.68% NET PROFIT;
+OPM %: 14.20% vs 16.5%
+NPM %: 12.50% vs 9.9%
+

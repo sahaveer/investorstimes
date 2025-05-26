@@ -1,0 +1,32 @@
+CODES
+544129	JUNIPER	
+SECTOR : Hotels & Restaurants
+INDUSTRY : Hotels
+BestQ Dec 2024
+YSD YPD 2023
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  538.9   |  166.4   |  308.7   |  666.8   |  817.7   |     666.7    
+ SQoQ%:  |   nan    |  -69.1   |   85.6   |  116.0   |   22.6   |      81.5    
+ YOPM%:  |   31.6   |   0.0    |   21.5   |   40.8   |   38.0   |              
+ YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   2.9    |              
+YPROFIT: |  -78.8   |  -199.5  |  -188.0  |   -1.5   |   23.8   |      16.4    
+ PQoQ%:  |   nan    |  153.3   |   -5.7   |  -99.2   | -1686.7  |      68.9    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  236.3   |  245.3   |  199.7   |  214.5   |  252.5  
+ QoQ%:  |   40.3   |   3.8    |  -18.6   |   7.4    |   17.7  
+ QOPM%: |   40.9   |   37.1   |   31.4   |   30.0   |   36.8  
+ QNPM%: |   1.5    |   19.1   |   5.8    |   0.0    |   12.9  
+ QPFT:  |   3.5    |   46.8   |   11.7   |  -27.8   |   32.5  
+ PQoQ%: |  -122.6  |  1220.6  |  -75.0   |  -338.4  |  -216.8 
+
+***PROS***
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 69% of YProfit
+- YProfit Turned POSITIVE this year Mar-2024 : 23.8
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2024

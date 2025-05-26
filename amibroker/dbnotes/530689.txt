@@ -1,0 +1,42 @@
+CODE	NAME
+530689 
+
+SECTOR : Trading
+INDUSTRY : Trading
+PRODUCT DEMAND
+BestQ Dec 2024
+YSD YPD 2022
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   84.3   |   63.2   |  328.9   |  453.8   |  404.3   |     235.9    
+ SQoQ%:  |  -42.6   |  -24.9   |  420.0   |   38.0   |  -10.9   |      58.3    
+ YOPM%:  |   0.0    |   0.0    |   0.0    |   5.5    |   2.4    |              
+ YNPM%:  |   0.0    |   0.0    |   0.7    |   3.5    |   1.0    |              
+YPROFIT: |   -1.9   |   -6.7   |   2.4    |   15.7   |   3.9    |      3.3     
+ PQoQ%:  |  -21.5   |  253.7   |  -136.0  |  550.0   |  -75.3   |      84.6    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   93.3   |  120.3   |   72.8   |   83.9   |   79.2  
+ QoQ%:  |   -5.9   |   29.0   |  -39.4   |   15.2   |   -5.6  
+ QOPM%: |   2.7    |   0.0    |   3.1    |   2.4    |   4.7   
+ QNPM%: |   1.5    |   0.0    |   1.1    |   1.1    |   2.0   
+ QPFT:  |   1.4    |   -0.8   |   0.8    |   0.9    |   1.6   
+ PQoQ%: |  -30.4   |  -154.2  |  -206.5  |   12.2   |   68.5  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 58% YSales
+- Last 3QPROFIT is about 85% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2022
+
+Yearly 
+ 31-Mar-2024 #Result
+404.30cr, QoQ -10.90% & YoY 379.60% SALES;
+9.50cr, QoQ -62.00% & YoY -963.64% OPERATING PROFIT;
+3.90cr, QoQ -75.30% & YoY -305.26% NET PROFIT;
+OPM %: 2.40% vs 5.5%
+NPM %: 1.00% vs 3.5%
+

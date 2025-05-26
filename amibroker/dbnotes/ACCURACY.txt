@@ -1,0 +1,38 @@
+CODES
+ACCURACY	
+SECTOR : Logistics
+INDUSTRY : Miscellaneous
+BestQ Dec 2024
+YSD YPD 2022
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  348.1   |  374.6   |  823.9   |  877.2   |  708.2   |     709.6    
+ SQoQ%:  |   2.8    |   7.6    |  119.9   |   6.5    |  -19.3   |     100.2    
+ YOPM%:  |   8.1    |   8.0    |   5.8    |   4.0    |   3.5    |              
+ YNPM%:  |   1.2    |   2.4    |   2.2    |   0.9    |   0.1    |              
+YPROFIT: |   4.1    |   8.8    |   18.1   |   8.2    |   0.5    |      3.9     
+ PQoQ%:  |  -48.9   |  114.8   |  104.5   |  -54.6   |  -93.9   |     780.0    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  187.5   |  171.4   |  202.2   |  253.2   |  254.2  
+ QoQ%:  |   -9.6   |   -8.6   |   18.0   |   25.2   |   0.4   
+ QOPM%: |   2.4    |   8.4    |   4.4    |   2.6    |   2.9   
+ QNPM%: |   0.0    |   5.4    |   1.2    |   0.2    |   0.4   
+ QPFT:  |   -2.9   |   9.2    |   2.5    |   0.4    |   1.0   
+ PQoQ%: |   38.9   |  -417.6  |  -73.0   |  -82.3   |  120.5  
+
+***PROS***
+- Last 3QSALES is about 100% YSales
+- Last 3QPROFIT is about 780% of YProfit
+- YProfits and YSales DOUBLED in Mar2022
+
+Yearly 
+ 31-Mar-2024 #Result
+708.20cr, QoQ -19.30% & YoY 103.45% SALES;
+24.50cr, QoQ -30.70% & YoY -13.73% OPERATING PROFIT;
+0.50cr, QoQ -93.90% & YoY -87.80% NET PROFIT;
+OPM %: 3.50% vs 4.0%
+NPM %: 0.10% vs 0.9%
+

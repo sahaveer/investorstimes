@@ -1,0 +1,25 @@
+CODE	NAME
+544287 
+
+SECTOR : Miscellaneous
+INDUSTRY : Miscellaneous
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+
+Yearly 
+ 31-Mar-2024 #Result
+20.80cr, QoQ 19.20% SALES;
+9.30cr, QoQ -582.30% OPERATING PROFIT;
+3.90cr, QoQ -45.20% NET PROFIT;
+OPM %: 44.50% vs 0.0%
+NPM %: 18.50% vs 40.3%
+

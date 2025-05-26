@@ -1,0 +1,27 @@
+CODES
+526227	FILATEX	
+SECTOR : Textiles
+INDUSTRY : Textiles - Manmade
+PRODUCT DEMAND
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+
+
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 47.9% while the Profit QoQ_growth is much better than Sales itself at 57.5%
+
+Yearly 
+ 31-Mar-2025 #Result
+4252.20cr, QoQ 47.90% & YoY 232.67% SALES;
+254.20cr, QoQ 17.30% & YoY 190.51% OPERATING PROFIT;
+133.90cr, QoQ 57.50% & YoY 411.07% NET PROFIT;
+OPM %: 6.00% vs 7.5%
+NPM %: 3.10% vs 3.0%
+

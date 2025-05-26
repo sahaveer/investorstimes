@@ -1,0 +1,32 @@
+CODE	NAME
+504093 
+
+SECTOR : Dry cells
+INDUSTRY : Dry Cells
+PRODUCT DEMAND
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  203.5   |  232.4   |  241.5   |  253.3   |  292.4   |     205.0    
+ SQoQ%:  |   -1.9   |   14.2   |   3.9    |   4.9    |   15.4   |      70.1    
+ YOPM%:  |   2.6    |   6.0    |   5.2    |   0.0    |   5.7    |              
+ YNPM%:  |   1.5    |   4.4    |   3.9    |   0.0    |   4.0    |              
+YPROFIT: |   3.2    |   10.3   |   9.4    |  -10.6   |   11.6   |      10.5    
+ PQoQ%:  |  -31.7   |  227.6   |   -9.0   |  -213.3  |  -209.4  |      90.5    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   74.7   |   72.5   |   63.0   |   68.6   |   73.4  
+ QoQ%:  |   9.3    |   -3.0   |  -13.1   |   9.0    |   6.9   
+ QOPM%: |   8.6    |   1.8    |   8.5    |   8.0    |   6.2   
+ QNPM%: |   6.0    |   1.5    |   6.6    |   5.9    |   3.3   
+ QPFT:  |   4.5    |   1.1    |   4.1    |   4.0    |   2.4   
+ PQoQ%: |   30.6   |  -76.3   |  286.9   |   -2.4   |  -40.1  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 70% YSales
+- Last 3QPROFIT is about 91% of YProfit
+- YProfit Turned POSITIVE this year Mar-2024 : 11.6

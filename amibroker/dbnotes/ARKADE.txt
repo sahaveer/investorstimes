@@ -1,0 +1,40 @@
+CODES
+544261	ARKADE	
+SECTOR : Realty
+INDUSTRY : Construction
+YSD YPD 2024
+LYPD PM 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  105.7   |  224.8   |  220.2   |  634.6   |  683.1  
+ SQoQ%:  |   nan    |  112.7   |   -2.1   |  188.3   |   7.6   
+ YOPM%:  |   24.3   |   24.2   |   27.4   |   26.4   |   30.2  
+ YNPM%:  |   20.1   |   22.4   |   23.1   |   19.4   |   23.0  
+YPROFIT: |   21.2   |   50.5   |   50.8   |  122.8   |  156.9  
+ PQoQ%:  |   nan    |  138.2   |   0.6    |  141.9   |   27.8  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  122.9   |  125.4   |  201.6   |  224.6   |  131.4  
+ QoQ%:  |  -48.6   |   2.0    |   60.8   |   11.4   |  -41.5  
+ QOPM%: |   22.0   |   33.5   |   29.1   |   27.1   |   33.7  
+ QNPM%: |   16.0   |   24.1   |   21.5   |   22.3   |   25.3  
+ QPFT:  |   19.6   |   30.2   |   43.4   |   50.1   |   33.3  
+ PQoQ%: |  -59.9   |   54.0   |   43.5   |   15.5   |  -33.6  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 17.1%
+- YProfits and YSales DOUBLED in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+683.10cr, QoQ 7.60% & YoY 546.26% SALES;
+206.10cr, QoQ 22.90% & YoY 705.08% OPERATING PROFIT;
+156.90cr, QoQ 27.80% & YoY 640.09% NET PROFIT;
+OPM %: 30.20% vs 26.4%
+NPM %: 23.00% vs 19.4%
+

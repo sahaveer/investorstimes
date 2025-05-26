@@ -1,0 +1,37 @@
+CODES
+541167	YASHO	
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+EXPANSION 2024
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  359.4   |  612.7   |  671.6   |  593.6   |  668.5  
+ SQoQ%:  |   nan    |   70.4   |   9.6    |  -11.6   |   12.6  
+ YOPM%:  |   13.6   |   15.2   |   17.1   |   16.8   |   16.4  
+ YNPM%:  |   6.0    |   8.5    |   10.1   |   9.8    |   0.9   
+YPROFIT: |   21.5   |   52.3   |   67.9   |   57.9   |   6.1   
+ PQoQ%:  |   nan    |  143.4   |   29.8   |  -14.6   |  -89.5  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  172.0   |  172.9   |  163.9   |  148.9   |  182.8  
+ QoQ%:  |   32.5   |   0.5    |   -5.2   |   -9.1   |   22.8  
+ QOPM%: |   18.1   |   12.6   |   17.1   |   18.1   |   18.0  
+ QNPM%: |   10.4   |   0.0    |   2.7    |   0.0    |   2.8   
+ QPFT:  |   17.9   |   -2.5   |   4.4    |   -0.8   |   5.0   
+ PQoQ%: |   32.5   |  -113.7  |  -277.2  |  -118.8  |  -713.4 
+
+***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2025 #Result
+668.50cr, QoQ 12.60% & YoY 86.00% SALES;
+109.50cr, QoQ 9.70% & YoY 123.47% OPERATING PROFIT;
+6.10cr, QoQ -89.50% & YoY -71.63% NET PROFIT;
+OPM %: 16.40% vs 16.8%
+NPM %: 0.90% vs 9.8%
+

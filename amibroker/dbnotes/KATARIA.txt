@@ -1,0 +1,21 @@
+CODES
+KATARIA	
+SECTOR : Steel
+INDUSTRY : Steel - Medium / Small
+PRODUCT DEMAND
+
+***CONS***
+
+
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+Yearly 
+ 31-Mar-2024 #Result
+339.10cr, QoQ 2.30% SALES;
+27.10cr, QoQ 35.30% OPERATING PROFIT;
+10.00cr, QoQ 28.80% NET PROFIT;
+OPM %: 8.00% vs 6.0%
+NPM %: 3.00% vs 2.3%
+

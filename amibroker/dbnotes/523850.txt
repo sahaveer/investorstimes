@@ -1,0 +1,40 @@
+CODE	NAME
+523850 
+
+SECTOR : Engineering
+INDUSTRY : Engineering
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  153.4   |  144.0   |  180.2   |  223.3   |  178.6  
+ SQoQ%:  |   53.9   |   -6.1   |   25.1   |   24.0   |  -20.0  
+ YOPM%:  |   18.9   |   11.8   |   12.7   |   19.7   |   13.3  
+ YNPM%:  |   13.9   |   9.6    |   9.6    |   14.4   |   10.1  
+YPROFIT: |   21.3   |   13.8   |   17.3   |   32.1   |   18.0  
+ PQoQ%:  |   95.5   |  -35.0   |   25.1   |   85.7   |  -43.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   52.2   |   44.7   |   55.8   |   40.4   |   37.6  
+ QoQ%:  |   -3.0   |  -14.3   |   24.9   |  -27.6   |   -6.9  
+ QOPM%: |   14.8   |   12.3   |   15.9   |   12.3   |   12.0  
+ QNPM%: |   10.2   |   9.2    |   10.6   |   8.1    |   12.7  
+ QPFT:  |   5.3    |   4.1    |   5.9    |   3.3    |   4.8   
+ PQoQ%: |  -44.6   |  -22.6   |   43.6   |  -44.7   |   46.0  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 21.7%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+
+Yearly 
+ 31-Mar-2025 #Result
+178.60cr, QoQ -20.00% & YoY 16.43% SALES;
+23.80cr, QoQ -45.90% & YoY -17.93% OPERATING PROFIT;
+18.00cr, QoQ -43.90% & YoY -15.49% NET PROFIT;
+OPM %: 13.30% vs 19.7%
+NPM %: 10.10% vs 14.4%
+

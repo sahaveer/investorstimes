@@ -1,0 +1,40 @@
+CODES
+509496	ITDCEM	
+SECTOR : Infrastructure Developers & Operators
+INDUSTRY : Construction
+LYPD PM 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  2727.7  |  3809.0  |  5090.9  |  7717.9  |  9096.9 
+ SQoQ%:  |   -4.6   |   39.6   |   33.7   |   51.6   |   17.9  
+ YOPM%:  |   7.8    |   7.7    |   7.9    |   9.7    |   9.5   
+ YNPM%:  |   0.6    |   1.8    |   2.4    |   3.5    |   4.1   
+YPROFIT: |   15.8   |   68.8   |  124.2   |  273.7   |  372.8  
+ PQoQ%:  |  -63.5   |  336.6   |   80.6   |  120.3   |   36.2  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  2257.7  |  2381.5  |  1990.9  |  2244.9  |  2479.7 
+ QoQ%:  |   11.9   |   5.5    |  -16.4   |   12.8   |   10.5  
+ QOPM%: |   9.8    |   9.3    |   9.1    |   9.2    |   10.4  
+ QNPM%: |   4.0    |   4.2    |   3.6    |   3.9    |   4.6   
+ QPFT:  |   89.5   |  100.2   |   72.0   |   87.0   |  113.6  
+ PQoQ%: |   14.2   |   11.9   |  -28.1   |   20.8   |   30.5  
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 20.0%
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 17.9% while the Profit QoQ_growth is much better than Sales itself at 36.2%
+
+Yearly 
+ 31-Mar-2025 #Result
+9096.90cr, QoQ 17.90% & YoY 233.50% SALES;
+867.80cr, QoQ 16.50% & YoY 307.61% OPERATING PROFIT;
+372.80cr, QoQ 36.20% & YoY 2259.49% NET PROFIT;
+OPM %: 9.50% vs 9.7%
+NPM %: 4.10% vs 3.5%
+

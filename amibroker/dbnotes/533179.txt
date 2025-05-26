@@ -1,0 +1,41 @@
+CODES
+533179	PERSISTENT	
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Large
+PRODUCT DEMAND
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  4187.9  |  5710.8  |  8350.6  |  9821.6  | 11938.7 
+ SQoQ%:  |   17.4   |   36.4   |   46.2   |   17.6   |   21.6  
+ YOPM%:  |   16.3   |   16.8   |   18.2   |   17.1   |   17.2  
+ YNPM%:  |   10.8   |   12.1   |   11.0   |   11.1   |   11.7  
+YPROFIT: |  450.7   |  690.4   |  921.1   |  1093.5  |  1400.2 
+ PQoQ%:  |   32.4   |   53.2   |   33.4   |   18.7   |   28.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  2590.5  |  2737.2  |  2897.2  |  3062.3  |  3242.1 
+ QoQ%:  |   3.7    |   5.7    |   5.8    |   5.7    |   5.9   
+ QOPM%: |   17.5   |   16.6   |   16.6   |   17.6   |   18.0  
+ QNPM%: |   12.2   |   11.2   |   11.2   |   12.2   |   12.2  
+ QPFT:  |  315.3   |  306.4   |  325.0   |  373.0   |  395.8  
+ PQoQ%: |   10.2   |   -2.8   |   6.1    |   14.8   |   6.1   
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 23.5%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 21.6% while the Profit QoQ_growth is much better than Sales itself at 28.0%
+
+Yearly 
+ 31-Mar-2025 #Result
+11938.70cr, QoQ 21.60% & YoY 185.08% SALES;
+2058.20cr, QoQ 22.80% & YoY 201.35% OPERATING PROFIT;
+1400.20cr, QoQ 28.00% & YoY 210.67% NET PROFIT;
+OPM %: 17.20% vs 17.1%
+NPM %: 11.70% vs 11.1%
+

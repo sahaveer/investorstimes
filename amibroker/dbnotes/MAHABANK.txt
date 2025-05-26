@@ -1,0 +1,37 @@
+CODES
+532525	MAHABANK	
+SECTOR : Banks
+INDUSTRY : Banks - Public Sector
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  | 11868.6  | 13019.3  | 15898.6  | 20494.8  | 24947.6 
+ SQoQ%:  |   3.2    |   9.7    |   22.1   |   28.9   |   21.7  
+ YOPM%:  |   42.8   |   44.1   |   60.3   |   59.8   |   62.3  
+ YNPM%:  |   4.8    |   8.9    |   16.4   |   19.9   |   22.2  
+YPROFIT: |  571.5   |  1153.4  |  2605.0  |  4071.8  |  5541.8 
+ PQoQ%:  |   43.3   |  101.8   |  125.8   |   56.3   |   36.1  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  5466.7  |  5874.7  |  6017.4  |  6324.7  |  6730.8 
+ QoQ%:  |   5.7    |   7.5    |   2.4    |   5.1    |   6.4   
+ QOPM%: |   57.2   |   60.0   |   63.1   |   64.1   |   62.0  
+ QNPM%: |   22.5   |   22.0   |   22.1   |   22.3   |   22.3  
+ QPFT:  |  1229.9  |  1295.1  |  1332.8  |  1411.6  |  1502.3 
+ PQoQ%: |   18.4   |   5.3    |   2.9    |   5.9    |   6.4   
+
+***PROS***
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 21.7% while the Profit QoQ_growth is much better than Sales itself at 36.1%
+
+Yearly 
+ 31-Mar-2025 #Result
+24947.60cr, QoQ 21.70% & YoY 110.20% SALES;
+15549.50cr, QoQ 26.90% & YoY 206.04% OPERATING PROFIT;
+5541.80cr, QoQ 36.10% & YoY 869.69% NET PROFIT;
+OPM %: 62.30% vs 59.8%
+NPM %: 22.20% vs 19.9%
+

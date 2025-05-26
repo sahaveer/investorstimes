@@ -1,0 +1,42 @@
+CODE	NAME
+539011 
+
+SECTOR : Trading
+INDUSTRY : Trading
+BestQ Dec 2024
+YSD YPD 2022
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |   8.0    |   46.4   |   95.9   |  138.9   |  136.4   |     166.8    
+ SQoQ%:  |   15.7   |  483.2   |  106.5   |   44.9   |   -1.8   |     122.3    
+ YOPM%:  |   52.1   |   13.0   |   27.4   |   0.7    |   0.0    |              
+ YNPM%:  |   40.2   |   10.9   |   26.4   |   2.4    |   2.0    |              
+YPROFIT: |   3.2    |   5.1    |   25.3   |   3.3    |   2.8    |      3.8     
+ PQoQ%:  | 31900.0  |   58.1   |  400.0   |  -87.0   |  -15.2   |     135.7    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   20.6   |   21.7   |   74.1   |   70.4   |   22.3  
+ QoQ%:  |  305.3   |   5.8    |  240.8   |   -4.9   |  -68.4  
+ QOPM%: |   4.9    |   6.6    |   3.5    |   2.2    |   7.9   
+ QNPM%: |   3.6    |   4.9    |   2.3    |   1.4    |   5.0   
+ QPFT:  |   0.7    |   1.1    |   1.7    |   1.0    |   1.1   
+ PQoQ%: |  -54.6   |   43.2   |   64.2   |  -44.3   |   15.5  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 122% YSales
+- Last 3QPROFIT is about 136% of YProfit
+- YProfits and YSales DOUBLED in Mar2022
+
+
+Yearly 
+ 31-Mar-2024 #Result
+136.40cr, QoQ -1.80% & YoY 1605.00% SALES;
+-0.60cr, QoQ -164.00% & YoY -114.29% OPERATING PROFIT;
+2.80cr, QoQ -15.20% & YoY -12.50% NET PROFIT;
+OPM %: 0.00% vs 0.7%
+NPM %: 2.00% vs 2.4%
+

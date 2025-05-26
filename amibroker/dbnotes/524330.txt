@@ -1,0 +1,37 @@
+CODES
+524330	JAYAGROGN	
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+BestQ Dec 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  2507.6  |  1638.8  |  2589.3  |  2777.6  |  2150.0  |     1894.1   
+ SQoQ%:  |   2.8    |  -34.6   |   58.0   |   7.3    |  -22.6   |      88.1    
+ YOPM%:  |   0.0    |   5.9    |   5.9    |   3.5    |   4.5    |              
+ YNPM%:  |   0.0    |   2.9    |   3.4    |   1.8    |   2.5    |              
+YPROFIT: |  -32.2   |   48.0   |   88.6   |   49.4   |   52.8   |      43.5    
+ PQoQ%:  |  -157.6  |  -249.2  |   84.6   |  -44.3   |   6.9    |      82.4    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |  428.9   |  626.0   |  716.3   |  598.0   |  579.8  
+ QoQ%:  |  -20.6   |   46.0   |   14.4   |  -16.5   |   -3.1  
+ QOPM%: |   4.2    |   5.0    |   4.3    |   4.7    |   4.6   
+ QNPM%: |   2.2    |   2.7    |   2.2    |   2.3    |   2.4   
+ QPFT:  |   9.5    |   16.8   |   15.6   |   13.7   |   14.2  
+ PQoQ%: |  -39.8   |   77.2   |   -7.4   |  -11.9   |   3.3   
+
+***PROS***
+- Last 3QSALES is about 88% YSales
+- Last 3QPROFIT is about 82% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+Yearly 
+ 31-Mar-2024 #Result
+2150.00cr, QoQ -22.60% & YoY -14.26% SALES;
+97.30cr, QoQ 0.20% & YoY -910.83% OPERATING PROFIT;
+52.80cr, QoQ 6.90% & YoY -263.98% NET PROFIT;
+OPM %: 4.50% vs 3.5%
+NPM %: 2.50% vs 1.8%
+

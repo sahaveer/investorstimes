@@ -1,0 +1,34 @@
+CODES
+517500	ROTO	
+SECTOR : Capital Goods-Non Electrical Equipment
+INDUSTRY : Pumps
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  126.5   |  175.6   |  225.8   |  274.5   |  297.9  
+ SQoQ%:  |   -4.3   |   38.8   |   28.6   |   21.6   |   8.5   
+ YOPM%:  |   22.0   |   25.8   |   24.1   |   24.1   |   21.3  
+ YNPM%:  |   14.5   |   17.2   |   14.6   |   14.3   |   11.2  
+YPROFIT: |   18.3   |   30.2   |   33.0   |   39.2   |   33.4  
+ PQoQ%:  |   57.7   |   64.5   |   9.5    |   18.6   |  -14.8  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   81.9   |   57.6   |   84.6   |   72.7   |   83.0  
+ QoQ%:  |   44.7   |  -29.7   |   46.8   |  -14.1   |   14.3  
+ QOPM%: |   25.6   |   20.9   |   22.9   |   15.5   |   24.9  
+ QNPM%: |   15.4   |   9.6    |   13.5   |   5.4    |   15.0  
+ QPFT:  |   12.6   |   5.5    |   11.4   |   4.0    |   12.4  
+ PQoQ%: |  101.9   |  -56.2   |  106.1   |  -65.3   |  214.1  
+
+***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+Yearly 
+ 31-Mar-2025 #Result
+297.90cr, QoQ 8.50% & YoY 135.49% SALES;
+63.40cr, QoQ -4.30% & YoY 128.06% OPERATING PROFIT;
+33.40cr, QoQ -14.80% & YoY 82.51% NET PROFIT;
+OPM %: 21.30% vs 24.1%
+NPM %: 11.20% vs 14.3%
+

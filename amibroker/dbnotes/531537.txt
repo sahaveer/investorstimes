@@ -1,0 +1,14 @@
+CODE	NAME
+531537 
+
+SECTOR : Construction
+INDUSTRY : Construction
+
+***CONS***
+- NEGATIVE YProfit : -1.9
+
+
+
+
+
+***PROS***

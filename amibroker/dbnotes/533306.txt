@@ -1,0 +1,38 @@
+CODES
+533306	SUMMITSEC	
+SECTOR : Finance
+INDUSTRY : Finance & Investments
+YSD YPD 2024
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   29.0   |   74.2   |   50.5   |  102.2   |  119.0  
+ SQoQ%:  |  -64.6   |  156.0   |  -31.9   |  102.3   |   16.4  
+ YOPM%:  |   89.4   |   94.8   |   93.0   |   96.2   |   96.0  
+ YNPM%:  |   63.2   |   68.5   |   73.3   |   74.1   |   57.6  
+YPROFIT: |   18.3   |   50.8   |   37.1   |   75.7   |   68.6  
+ PQoQ%:  |  -74.6   |  177.8   |  -27.1   |  104.3   |   -9.4  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   19.7   |   20.8   |  106.7   |   1.0    |   9.8   
+ QoQ%:  |   10.0   |   6.0    |  411.9   |  -99.1   |  881.0  
+ QOPM%: |   94.2   |   96.0   |   98.7   |   0.0    |   0.0   
+ QNPM%: |   73.2   |   14.1   |   70.4   |   0.0    |   0.0   
+ QPFT:  |   14.4   |   2.9    |   75.2   |   -4.9   |   -4.6  
+ PQoQ%: |   -1.7   |  -79.6   |  2456.1  |  -106.5  |   -4.5  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- YProfits and YSales DOUBLED in Mar2024
+
+
+Yearly 
+ 31-Mar-2025 #Result
+119.00cr, QoQ 16.40% & YoY 310.34% SALES;
+114.30cr, QoQ 16.20% & YoY 341.31% OPERATING PROFIT;
+68.60cr, QoQ -9.40% & YoY 274.86% NET PROFIT;
+OPM %: 96.00% vs 96.2%
+NPM %: 57.60% vs 74.1%
+

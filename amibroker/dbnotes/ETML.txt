@@ -1,0 +1,19 @@
+CODES
+ETML	
+SECTOR : Tyres
+INDUSTRY : Tyres
+
+***CONS***
+
+
+
+***PROS***
+
+Yearly 
+ 31-Mar-2024 #Result
+153.90cr, QoQ 2.00% & YoY 116.76% SALES;
+28.20cr, QoQ 34.10% & YoY 190.72% OPERATING PROFIT;
+12.80cr, QoQ 80.00% & YoY 12700.00% NET PROFIT;
+OPM %: 18.30% vs 13.9%
+NPM %: 8.30% vs 4.7%
+

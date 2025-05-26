@@ -1,0 +1,36 @@
+CODES
+511559	TIMESGTY	
+SECTOR : 
+INDUSTRY : 
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   8.7    |   2.7    |   2.0    |   3.2    |   3.5   
+ SQoQ%:  |  270.3   |  -68.9   |  -27.9   |   65.3   |   9.0   
+ YOPM%:  |   92.8   |   74.6   |   54.1   |   72.5   |   74.8  
+ YNPM%:  |   74.9   |   57.7   |   48.0   |   55.2   |   66.6  
+YPROFIT: |   6.6    |   1.6    |   0.9    |   1.8    |   2.4   
+ PQoQ%:  |  392.5   |  -76.0   |  -40.1   |   90.4   |   31.3  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   0.8    |   0.8    |   0.9    |   0.8    |   1.0   
+ QoQ%:  |   2.5    |   2.4    |   1.2    |   -1.2   |   15.3  
+ QOPM%: |   65.1   |   78.8   |   68.6   |   81.2   |   70.4  
+ QNPM%: |   47.0   |   65.9   |   58.1   |   68.2   |   73.5  
+ QPFT:  |   0.4    |   0.6    |   0.5    |   0.6    |   0.7   
+ PQoQ%: |  -20.4   |   43.6   |  -10.7   |   16.0   |   24.1  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+3.50cr, QoQ 9.00% & YoY -59.77% SALES;
+2.60cr, QoQ 12.30% & YoY -67.90% OPERATING PROFIT;
+2.40cr, QoQ 31.30% & YoY -63.64% NET PROFIT;
+OPM %: 74.80% vs 72.5%
+NPM %: 66.60% vs 55.2%
+

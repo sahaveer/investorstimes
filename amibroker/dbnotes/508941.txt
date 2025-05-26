@@ -1,0 +1,38 @@
+CODE	NAME
+508941 
+
+SECTOR : Capital Goods-Non Electrical Equipment
+INDUSTRY : Electrodes - Graphites
+
+***CONS***
+- NO PRODUCT DEMAND
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |   48.9   |   50.0   |   50.1   |   51.3   |   54.0  
+ SQoQ%:  |   8.7    |   2.2    |   0.3    |   2.4    |   5.2   
+ YOPM%:  |   37.9   |   29.5   |   21.6   |   29.9   |   31.2  
+ YNPM%:  |   38.6   |   30.7   |   25.6   |   36.2   |   38.6  
+YPROFIT: |   18.9   |   15.4   |   12.8   |   18.6   |   20.8  
+ PQoQ%:  |   11.5   |  -18.8   |  -16.4   |   44.9   |   12.0  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |   12.5   |   14.8   |   13.3   |   13.2   |   12.7  
+ QoQ%:  |   -4.1   |   18.3   |  -10.0   |   -0.3   |   -4.2  
+ QOPM%: |   30.1   |   35.7   |   29.6   |   29.3   |   29.6  
+ QNPM%: |   37.2   |   40.6   |   37.5   |   37.7   |   38.5  
+ QPFT:  |   4.6    |   6.0    |   5.0    |   5.0    |   4.9   
+ PQoQ%: |   -3.3   |   28.8   |  -16.9   |   0.2    |   -2.2  
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+Yearly 
+ 31-Mar-2025 #Result
+54.00cr, QoQ 5.20% & YoY 10.43% SALES;
+16.80cr, QoQ 9.80% & YoY -9.19% OPERATING PROFIT;
+20.80cr, QoQ 12.00% & YoY 10.05% NET PROFIT;
+OPM %: 31.20% vs 29.9%
+NPM %: 38.60% vs 36.2%
+

@@ -1,0 +1,42 @@
+CODES
+513517	STEELCAS	
+SECTOR : 
+INDUSTRY : 
+BestQ Dec 2024
+LYPD PM 2024
+
+***CONS***
+ YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
+---------+----------+----------+----------+----------+----------+--------------
+YSALES:  |  200.6   |  157.7   |  302.0   |  476.8   |  409.8   |     255.4    
+ SQoQ%:  |  -36.9   |  -21.4   |   91.5   |   57.9   |  -14.1   |      62.3    
+ YOPM%:  |   18.8   |   20.1   |   21.2   |   24.0   |   28.7   |              
+ YNPM%:  |   4.0    |   7.6    |   11.0   |   14.8   |   18.3   |              
+YPROFIT: |   8.0    |   12.0   |   33.3   |   70.5   |   75.0   |      45.4    
+ PQoQ%:  |  -68.1   |   50.6   |  176.8   |  112.0   |   6.4    |      60.5    
+ QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
+--------+----------+----------+----------+----------+---------
+QSALES: |   90.3   |   98.4   |   77.7   |   75.9   |  101.8  
+ QoQ%:  |  -11.1   |   9.0    |  -21.1   |   -2.3   |   34.1  
+ QOPM%: |   30.3   |   29.3   |   25.7   |   25.8   |   27.8  
+ QNPM%: |   19.3   |   19.0   |   16.6   |   17.5   |   18.9  
+ QPFT:  |   17.4   |   18.7   |   12.9   |   13.3   |   19.2  
+ PQoQ%: |   -6.3   |   7.4    |  -30.9   |   2.8    |   44.5  
+
+***PROS***
+A DEBT-Free Company
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2024 is at 29.6%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 62% YSales
+- Last 3QPROFIT is about 61% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2024
+
+Yearly 
+ 31-Mar-2024 #Result
+409.80cr, QoQ -14.10% & YoY 104.29% SALES;
+117.40cr, QoQ 2.70% & YoY 212.23% OPERATING PROFIT;
+75.00cr, QoQ 6.40% & YoY 837.50% NET PROFIT;
+OPM %: 28.70% vs 24.0%
+NPM %: 18.30% vs 14.8%
+

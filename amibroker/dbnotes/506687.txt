@@ -1,0 +1,37 @@
+CODE	NAME
+506687 
+
+SECTOR : Chemicals
+INDUSTRY : Chemicals
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
+---------+----------+----------+----------+----------+---------
+YSALES:  |  339.4   |  599.1   |  826.9   |  579.6   |  649.8  
+ SQoQ%:  |  -40.0   |   76.5   |   38.0   |  -29.9   |   12.1  
+ YOPM%:  |   13.9   |   16.8   |   18.2   |   14.2   |   14.6  
+ YNPM%:  |   6.9    |   10.9   |   10.1   |   6.7    |   7.5   
+YPROFIT: |   23.3   |   65.4   |   83.5   |   38.6   |   48.7  
+ PQoQ%:  |  -68.0   |  180.6   |   27.6   |  -53.8   |   26.4  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  148.2   |  151.9   |  162.7   |  170.0   |  165.3  
+ QoQ%:  |   -0.1   |   2.5    |   7.1    |   4.5    |   -2.8  
+ QOPM%: |   12.7   |   10.5   |   13.8   |   14.1   |   19.5  
+ QNPM%: |   3.8    |   6.1    |   5.9    |   6.3    |   11.6  
+ QPFT:  |   5.6    |   9.3    |   9.6    |   10.6   |   19.2  
+ PQoQ%: |  -59.9   |   64.7   |   2.8    |   11.5   |   80.8  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+
+Yearly 
+ 31-Mar-2025 #Result
+649.80cr, QoQ 12.10% & YoY 91.46% SALES;
+94.70cr, QoQ 15.00% & YoY 100.64% OPERATING PROFIT;
+48.70cr, QoQ 26.40% & YoY 109.01% NET PROFIT;
+OPM %: 14.60% vs 14.2%
+NPM %: 7.50% vs 6.7%
+

@@ -1,0 +1,38 @@
+CODES
+532268	ACCELYA	
+SECTOR : IT - Software
+INDUSTRY : Computers - Software - Medium / Small
+PRODUCT DEMAND
+
+***CONS***
+ YPNL:   | Jun-2020 | Jun-2021 | Jun-2022 | Jun-2023 | Jun-2024
+---------+----------+----------+----------+----------+---------
+YSALES:  |  412.0   |  290.4   |  368.4   |  469.4   |  511.1  
+ SQoQ%:  |   -4.8   |  -29.5   |   26.9   |   27.4   |   8.9   
+ YOPM%:  |   37.0   |   29.5   |   36.4   |   39.5   |   37.7  
+ YNPM%:  |   21.1   |   14.5   |   20.7   |   27.0   |   18.4  
+YPROFIT: |   86.8   |   42.2   |   76.2   |  126.7   |   93.8  
+ PQoQ%:  |  -18.4   |  -51.4   |   80.5   |   66.3   |  -25.9  
+ QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
+--------+----------+----------+----------+----------+---------
+QSALES: |  131.0   |  128.1   |  127.1   |  133.2   |  136.8  
+ QoQ%:  |   5.0    |   -2.2   |   -0.8   |   4.8    |   2.7   
+ QOPM%: |   38.4   |   37.2   |   38.2   |   36.2   |   34.0  
+ QNPM%: |   0.2    |   24.3   |   25.5   |   24.3   |   22.1  
+ QPFT:  |   0.2    |   31.2   |   32.5   |   32.4   |   30.2  
+ PQoQ%: |  -99.4   | 15495.0  |   4.1    |   -0.3   |   -6.5  
+
+***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Jun2024 is at 48.5%
+
+
+Yearly 
+ 30-Jun-2024 #Result
+511.10cr, QoQ 8.90% & YoY 24.05% SALES;
+192.50cr, QoQ 3.80% & YoY 26.23% OPERATING PROFIT;
+93.80cr, QoQ -25.90% & YoY 8.06% NET PROFIT;
+OPM %: 37.70% vs 39.5%
+NPM %: 18.40% vs 27.0%
+

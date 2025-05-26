@@ -1,0 +1,14 @@
+CODE	NAME
+530921 
+
+SECTOR : Plastic products
+INDUSTRY : Plastics Products
+
+***CONS***
+- NEGATIVE YProfit : -10.0
+
+
+
+
+
+***PROS***
