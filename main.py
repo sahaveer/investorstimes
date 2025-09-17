@@ -197,7 +197,7 @@ def save_screener1(codes,force):
                             last_quarter_announced = listed_dict_keys[-1]
                     else:
                         screenerpage.search_screener1(driver,code)
-                    # st.success(last_quarter_announced)
+                    st.success(f"last announced quarter is {last_quarter_announced} and the latest quarter fed by user in recent_quarter_txt is {recent_quarter_txt}")
                     # st.success(type(last_quarter_announced))
                     if (last_quarter_announced != recent_quarter_txt ):# and (datetime.datetime.now() - doc_is['timestamp']).days>5:
                         screenerpage.search_screener1(driver,code)
@@ -362,583 +362,588 @@ if selected:
                              icons=['house', '📈 '], menu_icon="cast", default_index=0, orientation="horizontal")
 
     metadata = {}
+    company_code = []
+    comp_Name = ""
     # st.success(selected)
     try:
         company_code, comp_Name = nse_bse_search.get_code_name(selected)
     except Exception as TypeError:
         save_screener1([selected],True)
-        company_code, comp_Name = nse_bse_search.get_code_name(selected)
+        try:
+            company_code, comp_Name = nse_bse_search.get_code_name(selected)
+        except Exception as TypeError:
+            st.error(f"Failed with error")
 
 
-                                                                                                                            #SHOWUP SCREENER SITE
-    nse_screener_address = "https://www.screener.in/company/" + str(company_code)
-    with st.sidebar:
-        st.markdown(f"[***NSE SCREENER***]({nse_screener_address})", unsafe_allow_html=True)
-        
-    if selected.isdigit():
-        bse_screener_address = "https://www.screener.in/company/" + str(selected)
+    if len(company_code)>=1:                                                                                                                      #SHOWUP SCREENER SITE
+        nse_screener_address = "https://www.screener.in/company/" + str(company_code)
         with st.sidebar:
-            st.markdown(f"[***BSE SCREENER***]({bse_screener_address})", unsafe_allow_html=True)
-        
-                                                                                                                         # ADD TO FAVOURITE TXT FILE
-                                                                                                                        # GIVE A FAVOURITE BUTTON
-    # with col4:
-    #     if st.button("+FAVOURITE"):
-    #         with open('./watchlist/favourite.txt', 'w') as file:
-    #             file.write(selected)
+            st.markdown(f"[***NSE SCREENER***]({nse_screener_address})", unsafe_allow_html=True)
+            
+        if selected.isdigit():
+            bse_screener_address = "https://www.screener.in/company/" + str(selected)
+            with st.sidebar:
+                st.markdown(f"[***BSE SCREENER***]({bse_screener_address})", unsafe_allow_html=True)
+            
+                                                                                                                            # ADD TO FAVOURITE TXT FILE
+                                                                                                                            # GIVE A FAVOURITE BUTTON
+        # with col4:
+        #     if st.button("+FAVOURITE"):
+        #         with open('./watchlist/favourite.txt', 'w') as file:
+        #             file.write(selected)
 
-    coltw1, coltw2 = st.columns([2, 2])
-                                                                                                                        # TICKER INFORADING VIEW SITE
-    ticker_symbol_info = str('''<!-- TradingView Widget BEGIN -->
-                                        <div class="tradingview-widget-container">
-                                          <div class="tradingview-widget-container__widget"></div>
-                                          <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
-                                          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
-                                          {
-                                          "symbol": "xyx",
-                                          "width": "100%",
-                                          "locale": "en",
-                                          "colorTheme": "dark",
-                                          "isTransparent": true
-                                        }
-                                          </script>
-                                        </div>
-                                        <!-- TradingView Widget END -->''')
-    with coltw1:
-        components.html(ticker_symbol_info.replace("xyx", company_code), height=200)
-                                                                                                                            # FUNDA CHART TAB
-    if funda_tech == "Funda_Chart":
-        with st.sidebar:
-            #color_key = st.selectbox("Bar Color", color_dict.keys())
-            color_key = 'blue3'
-        # tree_folder = comp_Name[0].upper()
-        if company_code.isdigit():
-            tree_folder = company_code[0]
-        else:
-            tree_folder = company_code[0].upper()
+        coltw1, coltw2 = st.columns([2, 2])
+                                                                                                                            # TICKER INFORADING VIEW SITE
+        ticker_symbol_info = str('''<!-- TradingView Widget BEGIN -->
+                                            <div class="tradingview-widget-container">
+                                            <div class="tradingview-widget-container__widget"></div>
+                                            <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
+                                            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
+                                            {
+                                            "symbol": "xyx",
+                                            "width": "100%",
+                                            "locale": "en",
+                                            "colorTheme": "dark",
+                                            "isTransparent": true
+                                            }
+                                            </script>
+                                            </div>
+                                            <!-- TradingView Widget END -->''')
+        with coltw1:
+            components.html(ticker_symbol_info.replace("xyx", company_code), height=200)
+                                                                                                                                # FUNDA CHART TAB
+        if funda_tech == "Funda_Chart":
+            with st.sidebar:
+                #color_key = st.selectbox("Bar Color", color_dict.keys())
+                color_key = 'blue3'
+            # tree_folder = comp_Name[0].upper()
+            if company_code.isdigit():
+                tree_folder = company_code[0]
+            else:
+                tree_folder = company_code[0].upper()
 
-        with coltw2:
-            subcoltw2_1, subcoltw2_2 = st.columns([1, 1])
-            with subcoltw2_1:
-                chat_name = st.text_input(label="👉 ChatID", value="itimesAlgo_D")
-        
-        # # if Quarterly data not available but YEARLY DATA AVAILABLE
-        # if not os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{company_code} Yearly.pkl'):
-        #     st.info("ONLY YEARLY DATA AVAILABLE FOR THIS SCRIPT")
-        #     df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{company_code} Yearly.pkl')
-        #     # st.info(f"Reading ./pickl/{tree_folder}/{comp_Name} Yearly.pkl")
-        #     try:
-        #         df_comp.columns = pd.to_datetime(df_comp,'%d-%m-%Y')
-        #     except Exception as AttributeError:
-        #         pass
-        #     # st.dataframe(df_comp)
-        #     pnl, balancesht,cashflow = fundamentals.develop_yearly(df_comp)
-        #     # st.error("Yearly DATA not in order")
-        #     metadata = fundamentals.analyse_Y_df(pnl,balancesht)
-        #     metadata['code_names'] = nse_bse_search.process_code(company_code)
-        #     metadata['Code'] = metadata['code_names'][-1]
-        #     variables.metadata[company_code] = metadata
-        
-        # # if Quarterly data available and YEARLY DATA AVAILABLE
-        # elif os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{company_code} Yearly.pkl'):
-        #     df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{company_code} Yearly.pkl')
-        #     # st.info(f"PKL FILE EXISTS, thus Reading './pickl/{tree_folder}/{comp_Name} Yearly.pkl'   ")
-        #     #st.dataframe(df_comp)
-        #     try:
-        #         df_comp.columns = pd.to_datetime(df_comp,'%d-%m-%Y')
-        #         #df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
-        #     except Exception as AttributeError:
-        #         pass
-        #     # st.dataframe(df_comp)
-        #     # st.text("**********************")
-        #     pnl, balancesht,cashflow = fundamentals.develop_yearly(df_comp)
-
-        #     qtr_pnl = pd.read_pickle(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl')
-        #     # pnl, balancesht, qtr_pnl = fundamentals.develop_data(qtr_pnl, df_comp)
-        #     try:
-        #         qtr_pnl.columns = pd.to_datetime(qtr_pnl.columns, format='%d-%m-%Y')
-        #         # qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
-        #     except Exception as AttributeError:
-        #         pass
-        #     qtr_pnl = fundamentals.develop_quarterly(qtr_pnl)
-        #     metadata = fundamentals.analyse_df(pnl,balancesht,qtr_pnl)
-
-        #     metadata['code_names'] = nse_bse_search.process_code(company_code)
-        #     metadata['Code'] = metadata['code_names'][-1]
-        #     variables.metadata[company_code] = metadata
-
-        # if no Pickle available : then lets get the latest results
-        # else:
-            # save_screener1([company_code])
-            # metadata = variables.metadata[company_code]
-            # if not os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{company_code} Yearly.pkl'):  # if Quarterly data not available
+            with coltw2:
+                subcoltw2_1, subcoltw2_2 = st.columns([1, 1])
+                with subcoltw2_1:
+                    chat_name = st.text_input(label="👉 ChatID", value="itimesAlgo_D")
+            
+            # # if Quarterly data not available but YEARLY DATA AVAILABLE
+            # if not os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{company_code} Yearly.pkl'):
+            #     st.info("ONLY YEARLY DATA AVAILABLE FOR THIS SCRIPT")
             #     df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{company_code} Yearly.pkl')
-            #     st.info(f"ONLY YEARLY DATA AVAILABLE, thus Reading ./pickl/{tree_folder}/{company_code} Yearly.pkl")
+            #     # st.info(f"Reading ./pickl/{tree_folder}/{comp_Name} Yearly.pkl")
             #     try:
-            #         df_comp.columns = pd.to_datetime(df_comp, '%d-%m-%Y')
+            #         df_comp.columns = pd.to_datetime(df_comp,'%d-%m-%Y')
             #     except Exception as AttributeError:
             #         pass
             #     # st.dataframe(df_comp)
             #     pnl, balancesht,cashflow = fundamentals.develop_yearly(df_comp)
+            #     # st.error("Yearly DATA not in order")
             #     metadata = fundamentals.analyse_Y_df(pnl,balancesht)
             #     metadata['code_names'] = nse_bse_search.process_code(company_code)
             #     metadata['Code'] = metadata['code_names'][-1]
             #     variables.metadata[company_code] = metadata
-
+            
+            # # if Quarterly data available and YEARLY DATA AVAILABLE
             # elif os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{company_code} Yearly.pkl'):
-            #     st.info(f"PKL FILE EXISTS, thus Reading './pickl/{tree_folder}/{company_code} Yearly.pkl' and './pickl/{tree_folder}/{company_code} Quarterly.pkl'   ")
             #     df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{company_code} Yearly.pkl')
             #     # st.info(f"PKL FILE EXISTS, thus Reading './pickl/{tree_folder}/{comp_Name} Yearly.pkl'   ")
-            #     # st.dataframe(df_comp)
+            #     #st.dataframe(df_comp)
             #     try:
-            #         df_comp.columns = pd.to_datetime(df_comp, '%d-%m-%Y')
-            #         # df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
+            #         df_comp.columns = pd.to_datetime(df_comp,'%d-%m-%Y')
+            #         #df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
             #     except Exception as AttributeError:
             #         pass
+            #     # st.dataframe(df_comp)
+            #     # st.text("**********************")
             #     pnl, balancesht,cashflow = fundamentals.develop_yearly(df_comp)
 
             #     qtr_pnl = pd.read_pickle(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl')
-                
+            #     # pnl, balancesht, qtr_pnl = fundamentals.develop_data(qtr_pnl, df_comp)
             #     try:
             #         qtr_pnl.columns = pd.to_datetime(qtr_pnl.columns, format='%d-%m-%Y')
             #         # qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
             #     except Exception as AttributeError:
             #         pass
-
             #     qtr_pnl = fundamentals.develop_quarterly(qtr_pnl)
-            #     metadata = fundamentals.analyse_df(pnl, balancesht, qtr_pnl)
+            #     metadata = fundamentals.analyse_df(pnl,balancesht,qtr_pnl)
+
             #     metadata['code_names'] = nse_bse_search.process_code(company_code)
             #     metadata['Code'] = metadata['code_names'][-1]
             #     variables.metadata[company_code] = metadata
 
-        #print random number 
-        
-        # already_tried = "FALSE"
-        # if st.checkbox("FORCE DOWNLOAD FROM SCREENER", value=False):
-        #     save_screener1([company_code])            
-        #     already_tried = "TRUE"
-        if create_database.comp_metadata_col.count_documents({"code_names":company_code}):
-            reqd_obj = create_database.comp_metadata_col.find_one({"code_names":company_code})
-            variables.metadata[company_code] = reqd_obj
-        metadata = variables.metadata[company_code]
+            # if no Pickle available : then lets get the latest results
+            # else:
+                # save_screener1([company_code])
+                # metadata = variables.metadata[company_code]
+                # if not os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{company_code} Yearly.pkl'):  # if Quarterly data not available
+                #     df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{company_code} Yearly.pkl')
+                #     st.info(f"ONLY YEARLY DATA AVAILABLE, thus Reading ./pickl/{tree_folder}/{company_code} Yearly.pkl")
+                #     try:
+                #         df_comp.columns = pd.to_datetime(df_comp, '%d-%m-%Y')
+                #     except Exception as AttributeError:
+                #         pass
+                #     # st.dataframe(df_comp)
+                #     pnl, balancesht,cashflow = fundamentals.develop_yearly(df_comp)
+                #     metadata = fundamentals.analyse_Y_df(pnl,balancesht)
+                #     metadata['code_names'] = nse_bse_search.process_code(company_code)
+                #     metadata['Code'] = metadata['code_names'][-1]
+                #     variables.metadata[company_code] = metadata
 
+                # elif os.path.exists(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl') and os.path.exists(f'./pickl/{tree_folder}/{company_code} Yearly.pkl'):
+                #     st.info(f"PKL FILE EXISTS, thus Reading './pickl/{tree_folder}/{company_code} Yearly.pkl' and './pickl/{tree_folder}/{company_code} Quarterly.pkl'   ")
+                #     df_comp = pd.read_pickle(f'./pickl/{tree_folder}/{company_code} Yearly.pkl')
+                #     # st.info(f"PKL FILE EXISTS, thus Reading './pickl/{tree_folder}/{comp_Name} Yearly.pkl'   ")
+                #     # st.dataframe(df_comp)
+                #     try:
+                #         df_comp.columns = pd.to_datetime(df_comp, '%d-%m-%Y')
+                #         # df_comp.columns = df_comp.columns.strftime('%d-%m-%Y')
+                #     except Exception as AttributeError:
+                #         pass
+                #     pnl, balancesht,cashflow = fundamentals.develop_yearly(df_comp)
 
-        if 'CONSOLIDATED' in metadata.keys() and 'STANDALONE' in metadata.keys():
-            cons_std = option_menu("", ["CONSOLIDATED","STANDALONE"],
-                        icons=['📈 ', '📈 '], menu_icon="cast", default_index=0, orientation="horizontal")
+                #     qtr_pnl = pd.read_pickle(f'./pickl/{tree_folder}/{company_code} Quarterly.pkl')
+                    
+                #     try:
+                #         qtr_pnl.columns = pd.to_datetime(qtr_pnl.columns, format='%d-%m-%Y')
+                #         # qtr_pnl.columns = qtr_pnl.columns.strftime('%d-%m-%Y')
+                #     except Exception as AttributeError:
+                #         pass
 
-        if 'CONSOLIDATED' in metadata.keys() or 'STANDALONE' in metadata.keys():
-            # IMPROVISE : lets give 2 tabs here to select amongst CONSOL and STANDLONE
-            if 'CONSOLIDATED' in metadata.keys():
-                df_comp_dict = metadata['CONSOLIDATED']['YEARLY'] #get df from metadata of fdatabase
-                # df_comp = pd.DataFrame.from_dict(df_comp_dict, orient='index').transpose()
-                df_comp = pd.concat({sec: pd.DataFrame.from_dict(items, orient='index') for sec, items in df_comp_dict.items()})
-                # Optional: Name the index
-                df_comp.index.set_names(['Section', 'Item'], inplace=True)
-                df_comp.columns = pd.to_datetime(df_comp.columns)
-                # st.success("Seems like we got a DF from DB")
-                # st.dataframe(df_comp)
-                pnl, balancesht,cashflow = fundamentals.develop_yearly(df_comp)
+                #     qtr_pnl = fundamentals.develop_quarterly(qtr_pnl)
+                #     metadata = fundamentals.analyse_df(pnl, balancesht, qtr_pnl)
+                #     metadata['code_names'] = nse_bse_search.process_code(company_code)
+                #     metadata['Code'] = metadata['code_names'][-1]
+                #     variables.metadata[company_code] = metadata
 
-                qtr_pnl_dict = metadata['CONSOLIDATED']['QUARTERLY']#get dataframe from DB
-                qtr_pnl = pd.DataFrame.from_dict(qtr_pnl_dict, orient='index').transpose()
-                # st.dataframe(qtr_pnl)
-                qtr_pnl = fundamentals.develop_quarterly(qtr_pnl)        
-            else:
-                df_comp_dict = metadata['STANDALONE']['YEARLY'] #get df from metadata of fdatabase
-                # df_comp = pd.DataFrame.from_dict(df_comp_dict, orient='index').transpose()
-                df_comp = pd.concat({sec: pd.DataFrame.from_dict(items, orient='index') for sec, items in df_comp_dict.items()})
-                # Optional: Name the index
-                df_comp.index.set_names(['Section', 'Item'], inplace=True)
-                df_comp.columns = pd.to_datetime(df_comp.columns)
-                # st.dataframe(df_comp)
-                pnl, balancesht,cashflow = fundamentals.develop_yearly(df_comp)
-                qtr_pnl_dict = metadata['STANDALONE']['QUARTERLY']#get dataframe from DB
-                qtr_pnl = pd.DataFrame.from_dict(qtr_pnl_dict, orient='index').transpose()
-                # st.dataframe(qtr_pnl)
-                qtr_pnl = fundamentals.develop_quarterly(qtr_pnl)        
-
-        proscons_col1, proscons_col2 = st.columns([1,1])
-        with proscons_col1:
-            st.text("SECTOR:")
-            st.subheader(f"{metadata['comp_metadata']['sector']}")
-            st.title("PROS")
-            for each in metadata['metadata']['pros']:
-                st.success(each)
-
-
-        with proscons_col2:
-            st.text("INDUSTRY:")
-            st.subheader(f"{metadata['comp_metadata']['industry']}")
-            st.title("CONS")
-            for each in metadata['metadata']['cons']:
-                st.error(each)
+            #print random number 
             
-        options = st.multiselect("TAGS",["Favourite"]+metadata['metadata']['tags'],metadata['metadata']['tags'])
-        
+            # already_tried = "FALSE"
+            # if st.checkbox("FORCE DOWNLOAD FROM SCREENER", value=False):
+            #     save_screener1([company_code])            
+            #     already_tried = "TRUE"
+            if create_database.comp_metadata_col.count_documents({"code_names":company_code}):
+                reqd_obj = create_database.comp_metadata_col.find_one({"code_names":company_code})
+                variables.metadata[company_code] = reqd_obj
+            metadata = variables.metadata[company_code]
 
-        with st.sidebar:  # with col2:
-            sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_menu)
-            # st.title(comp_Name)
+
+            if 'CONSOLIDATED' in metadata.keys() and 'STANDALONE' in metadata.keys():
+                cons_std = option_menu("", ["CONSOLIDATED","STANDALONE"],
+                            icons=['📈 ', '📈 '], menu_icon="cast", default_index=0, orientation="horizontal")
+
+            if 'CONSOLIDATED' in metadata.keys() or 'STANDALONE' in metadata.keys():
+                # IMPROVISE : lets give 2 tabs here to select amongst CONSOL and STANDLONE
+                if 'CONSOLIDATED' in metadata.keys():
+                    df_comp_dict = metadata['CONSOLIDATED']['YEARLY'] #get df from metadata of fdatabase
+                    # df_comp = pd.DataFrame.from_dict(df_comp_dict, orient='index').transpose()
+                    df_comp = pd.concat({sec: pd.DataFrame.from_dict(items, orient='index') for sec, items in df_comp_dict.items()})
+                    # Optional: Name the index
+                    df_comp.index.set_names(['Section', 'Item'], inplace=True)
+                    df_comp.columns = pd.to_datetime(df_comp.columns)
+                    # st.success("Seems like we got a DF from DB")
+                    # st.dataframe(df_comp)
+                    pnl, balancesht,cashflow = fundamentals.develop_yearly(df_comp)
+
+                    qtr_pnl_dict = metadata['CONSOLIDATED']['QUARTERLY']#get dataframe from DB
+                    qtr_pnl = pd.DataFrame.from_dict(qtr_pnl_dict, orient='index').transpose()
+                    # st.dataframe(qtr_pnl)
+                    qtr_pnl = fundamentals.develop_quarterly(qtr_pnl)        
+                else:
+                    df_comp_dict = metadata['STANDALONE']['YEARLY'] #get df from metadata of fdatabase
+                    # df_comp = pd.DataFrame.from_dict(df_comp_dict, orient='index').transpose()
+                    df_comp = pd.concat({sec: pd.DataFrame.from_dict(items, orient='index') for sec, items in df_comp_dict.items()})
+                    # Optional: Name the index
+                    df_comp.index.set_names(['Section', 'Item'], inplace=True)
+                    df_comp.columns = pd.to_datetime(df_comp.columns)
+                    # st.dataframe(df_comp)
+                    pnl, balancesht,cashflow = fundamentals.develop_yearly(df_comp)
+                    qtr_pnl_dict = metadata['STANDALONE']['QUARTERLY']#get dataframe from DB
+                    qtr_pnl = pd.DataFrame.from_dict(qtr_pnl_dict, orient='index').transpose()
+                    # st.dataframe(qtr_pnl)
+                    qtr_pnl = fundamentals.develop_quarterly(qtr_pnl)        
+
+            proscons_col1, proscons_col2 = st.columns([1,1])
+            with proscons_col1:
+                st.text("SECTOR:")
+                st.subheader(f"{metadata['comp_metadata']['sector']}")
+                st.title("PROS")
+                for each in metadata['metadata']['pros']:
+                    st.success(each)
 
 
-        sentence = amibroker.amibroker_notes_insights(metadata=metadata)
-        
-
-        with coltw2:
-            textarea_is = st.text_area(label="👉 INSIGHTS", value=sentence, height=180, key="InsightsYQ")
-
-            # file_like = io.StringIO(sentence)
-            # Provide a download button
-            # st.download_button(
-            #     label=f"📥 Download {company_code}",
-            #     data=file_like,
-            #     file_name=f"{company_code}.txt",
-            #     mime="text/plain"
-            # )
-        with subcoltw2_2:            
-            if st.button('Send Telegram'):
-                # bot.send_message(chat_id=chat_id, text=sentence)
-                # URL encode the message
-                message_txt_encoded = urllib.parse.quote(textarea_is)
-                # Construct the Telegram API URL
-                group_address = f'https://api.telegram.org/bot1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI/sendMessage?chat_id=@{chat_name}&text={message_txt_encoded}'
-
-                # Send the message
-                resp = requests.get(group_address)
-
-        # with col2_header:
-            # pnl, balancesht,cashflow = fundamentals.develop_yearly()
+            with proscons_col2:
+                st.text("INDUSTRY:")
+                st.subheader(f"{metadata['comp_metadata']['industry']}")
+                st.title("CONS")
+                for each in metadata['metadata']['cons']:
+                    st.error(each)
                 
-            # if st.button("Read Data from Database"):
-            #     yr_cons,yr_std,qtr_cons,qtr_std = screenerpage.read_database_to_get_df(id_value=metadata['code_names'][-1])
-            #     if not yr_cons.eq(0).all().all() and not yr_cons.empty:
-            #         st.dataframe(yr_cons)
-            #     if not qtr_cons.eq(0).all().all() and not qtr_cons.empty:
-            #         st.dataframe(qtr_cons)
-            #     if not yr_std.eq(0).all().all() and not yr_std.empty:
-            #         st.dataframe(yr_std)
-            #     if not qtr_std.eq(0).all().all() and not qtr_std.empty:
-            #         st.dataframe(qtr_std)
+            options = st.multiselect("TAGS",["Favourite"]+metadata['metadata']['tags'],metadata['metadata']['tags'])
+            
+
+            with st.sidebar:  # with col2:
+                sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_menu)
+                # st.title(comp_Name)
 
 
-        #sub_choose = option_menu("", fundamentals.funda_menu,default_index=3,orientation="horizontal")
-        if sub_choose == "PROFIT&LOSS":            # YEARLY PNL
-            Ykeydata,YSales, YOtherIncome,YExpenses,YOperatingProfit,YNetProfit,Ytable = st.tabs(['Key Data','SALES','OTHER INCOME','EXPENSES','OPERATING PROFIT','NET PROFIT','Y DATA'])
+            sentence = amibroker.amibroker_notes_insights(metadata=metadata)
+            
 
-            with Ytable:
-                # THE FOLLOWIGN CODE CALCULATES THE GROWTH OR DEGROWTH
-                st.dataframe(pnl.style.format(formatter="{:.1f}"))
-            with Ykeydata:
-                plotlyfigures.group_2_bars(pnl,"SALES","OTHER INCOME",comp_Name, "Yearly")
-                plotlyfigures.group_2_bars(pnl,"PROFIT BEFORE TAX","NET PROFIT",comp_Name, "Yearly")
-                #plotlyfigures.group_3_bars(pnl, "SALES", "PROFIT BEFORE TAX","NET PROFIT",comp_Name, "Yearly")
-                plotlyfigures.both_lines(pnl, "OPM %", "NPM %", color_dict['red1']['hash'], color_dict['green1']['hash'], comp_Name, "Yearly")
-                plotlyfigures.bar_line(pnl, 'OPERATING PROFIT','OPM %', color_dict[color_key]['hash'], comp_Name, "Yearly")
-                plotlyfigures.bar_line(pnl,'NET PROFIT','NPM %',color_dict[color_key]['hash'],comp_Name, "Yearly")
+            with coltw2:
+                textarea_is = st.text_area(label="👉 INSIGHTS", value=sentence, height=180, key="InsightsYQ")
 
-            with YSales:
-                plotlyfigures.qoq_growth(pnl, 'SALES', color_dict[color_key]['hash'], comp_Name, "Yearly")
-            with YOtherIncome:
-                plotlyfigures.go_bar(pnl, 'OTHER INCOME', color_dict[color_key]['hash'], comp_Name,"Yearly")
-            with YExpenses:
-                plotlyfigures.go_bar(pnl, 'EXPENSES', color_dict[color_key]['hash'], comp_Name,"Yearly")
-            with YOperatingProfit:
-                plotlyfigures.qoq_growth(pnl, 'OPERATING PROFIT', color_dict[color_key]['hash'], comp_Name, "Yearly")
-            with YNetProfit:
-                plotlyfigures.qoq_growth(pnl,'NET PROFIT',color_dict[color_key]['hash'],comp_Name, "Yearly")
+                # file_like = io.StringIO(sentence)
+                # Provide a download button
+                # st.download_button(
+                #     label=f"📥 Download {company_code}",
+                #     data=file_like,
+                #     file_name=f"{company_code}.txt",
+                #     mime="text/plain"
+                # )
+            with subcoltw2_2:            
+                if st.button('Send Telegram'):
+                    # bot.send_message(chat_id=chat_id, text=sentence)
+                    # URL encode the message
+                    message_txt_encoded = urllib.parse.quote(textarea_is)
+                    # Construct the Telegram API URL
+                    group_address = f'https://api.telegram.org/bot1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI/sendMessage?chat_id=@{chat_name}&text={message_txt_encoded}'
 
-        if sub_choose == 'QTR PnL':                #QUARTERLY PNL
+                    # Send the message
+                    resp = requests.get(group_address)
 
-            Qkeydata, QSales, QOtherIncome, QExpenses, QOperatingProfit, QNetProfit, Qtable = st.tabs(
-                ['Key Data', 'SALES', 'OTHER INCOME', 'EXPENSES', 'OPERATING PROFIT', 'NET PROFIT', 'Q DATA'])
-            with Qtable:
-                st.dataframe(qtr_pnl)
-                # Replace the first row with NaN for the QoQ columns
-                #df.loc[0, ['SALES_QoQ', 'NET PROFIT_QoQ', 'OPERATING PROFIT_QoQ']] = np.nan
-                #df = df.transpose()
-                #st.dataframe(qtr_pnl.style.format(formatter="{:.1f}"))
+            # with col2_header:
+                # pnl, balancesht,cashflow = fundamentals.develop_yearly()
+                    
+                # if st.button("Read Data from Database"):
+                #     yr_cons,yr_std,qtr_cons,qtr_std = screenerpage.read_database_to_get_df(id_value=metadata['code_names'][-1])
+                #     if not yr_cons.eq(0).all().all() and not yr_cons.empty:
+                #         st.dataframe(yr_cons)
+                #     if not qtr_cons.eq(0).all().all() and not qtr_cons.empty:
+                #         st.dataframe(qtr_cons)
+                #     if not yr_std.eq(0).all().all() and not yr_std.empty:
+                #         st.dataframe(yr_std)
+                #     if not qtr_std.eq(0).all().all() and not qtr_std.empty:
+                #         st.dataframe(qtr_std)
 
-            with Qkeydata:
-                plotlyfigures.group_2_bars(qtr_pnl, "SALES", "OTHER INCOME",comp_Name, "Quarterly")
-                plotlyfigures.group_2_bars(qtr_pnl,"PROFIT BEFORE TAX","NET PROFIT",comp_Name, "Quarterly")
-                #plotlyfigures.group_3_bars(qtr_pnl, "SALES",  "PROFIT BEFORE TAX","NET PROFIT",comp_Name, "Quarterly")
-                plotlyfigures.both_lines(qtr_pnl, "OPM %", "NPM %", color_dict['red1']['hash'], color_dict['green1']['hash'],comp_Name, "Quarterly")
-                plotlyfigures.bar_line(qtr_pnl, 'OPERATING PROFIT','OPM %', color_dict[color_key]['hash'], comp_Name, "Quarterly")
-                plotlyfigures.bar_line(qtr_pnl,'NET PROFIT','NPM %',color_dict[color_key]['hash'],comp_Name, "Quarterly")
 
-            with QSales:
-                plotlyfigures.qoq_growth(qtr_pnl,"SALES", color_dict[color_key]['hash'],comp_Name, "Quarterly")
-            with QOtherIncome:
-                plotlyfigures.go_bar(qtr_pnl, 'OTHER INCOME', color_dict[color_key]['hash'], comp_Name, "Quarterly")
-            with QExpenses:
-                plotlyfigures.go_bar(qtr_pnl, 'EXPENSES', color_dict[color_key]['hash'], comp_Name, "Quarterly")
-            with QOperatingProfit:
-                plotlyfigures.qoq_growth(qtr_pnl, 'OPERATING PROFIT', color_dict[color_key]['hash'], comp_Name, "Quarterly")
-            with QNetProfit:
-                plotlyfigures.qoq_growth(qtr_pnl,'NET PROFIT',color_dict[color_key]['hash'],comp_Name, "Quarterly")
+            #sub_choose = option_menu("", fundamentals.funda_menu,default_index=3,orientation="horizontal")
+            if sub_choose == "PROFIT&LOSS":            # YEARLY PNL
+                Ykeydata,YSales, YOtherIncome,YExpenses,YOperatingProfit,YNetProfit,Ytable = st.tabs(['Key Data','SALES','OTHER INCOME','EXPENSES','OPERATING PROFIT','NET PROFIT','Y DATA'])
 
-        if sub_choose == 'BALANCE SHEET':        #YEARLY BALANCE SHEET
-            BSKeyData, BSReserves, BSBorrowings, BSOtherAssets, BSOtherLiabilities, BSReceivables, BSInventory, BSCWIP, BStable = st.tabs(['KeyData','Reserves','Borrowings','OtherAssets','OtherLiabilities','Receivables','Inventory','CWIP','BS DATA'])
-            with BSKeyData:
-                plotlyfigures.bar_line(balancesht,"RESERVES","BORROWINGS",color_dict[color_key]['hash'],comp_Name, "Yearly")
-                plotlyfigures.bar_line(balancesht,"RECEIVABLES","INVENTORY",color_dict[color_key]['hash'],comp_Name, "Yearly")
-                plotlyfigures.bar_line(balancesht, "DEBTOR DAYS", "INVENTORY TURNOVER",color_dict[color_key]['hash'], comp_Name, "Yearly")
-                plotlyfigures.bar_line(balancesht, "NET BLOCK", "CAPITAL WORK IN PROGRESS",color_dict[color_key]['hash'], comp_Name, "Yearly")
-                #plotlyfigures.bar_line(balancesht, "NET BLOCK", "INVESTMENTS", color_dict[color_key]['hash'], comp_Name,"Yearly")
-                #plotlyfigures.both_lines(balancesht, "ROCE", "ROE", color_dict[color_key]['hash'], color_line,comp_Name, "Yearly")
+                with Ytable:
+                    # THE FOLLOWIGN CODE CALCULATES THE GROWTH OR DEGROWTH
+                    st.dataframe(pnl.style.format(formatter="{:.1f}"))
+                with Ykeydata:
+                    plotlyfigures.group_2_bars(pnl,"SALES","OTHER INCOME",comp_Name, "Yearly")
+                    plotlyfigures.group_2_bars(pnl,"PROFIT BEFORE TAX","NET PROFIT",comp_Name, "Yearly")
+                    #plotlyfigures.group_3_bars(pnl, "SALES", "PROFIT BEFORE TAX","NET PROFIT",comp_Name, "Yearly")
+                    plotlyfigures.both_lines(pnl, "OPM %", "NPM %", color_dict['red1']['hash'], color_dict['green1']['hash'], comp_Name, "Yearly")
+                    plotlyfigures.bar_line(pnl, 'OPERATING PROFIT','OPM %', color_dict[color_key]['hash'], comp_Name, "Yearly")
+                    plotlyfigures.bar_line(pnl,'NET PROFIT','NPM %',color_dict[color_key]['hash'],comp_Name, "Yearly")
 
-            with BStable:
-                st.dataframe(balancesht.style.format(formatter="{:.1f}"))
-            with BSCWIP:
-                plotlyfigures.go_bar(balancesht, "CAPITAL WORK IN PROGRESS", color_dict[color_key]['hash'],comp_Name, "Yearly")
-            with BSInventory:
-                plotlyfigures.go_bar(balancesht, "INVENTORY", color_dict[color_key]['hash'],comp_Name, "Yearly")
-            with BSReserves:
-                plotlyfigures.qoq_growth(balancesht, "RESERVES", color_dict[color_key]['hash'],comp_Name, "Yearly")
-            with BSBorrowings:
-                plotlyfigures.qoq_growth(balancesht, "BORROWINGS", color_dict[color_key]['hash'],comp_Name, "Yearly")
-            with BSReceivables:
-                plotlyfigures.qoq_growth(balancesht, "RECEIVABLES", color_dict[color_key]['hash'],comp_Name, "Yearly")
-            with BSOtherAssets:
-                plotlyfigures.qoq_growth(balancesht, "OTHER ASSETS", color_dict[color_key]['hash'],comp_Name, "Yearly")
-            with BSOtherLiabilities:
-                plotlyfigures.qoq_growth(balancesht, "OTHER LIABILITIES", color_dict[color_key]['hash'],comp_Name, "Yearly")
+                with YSales:
+                    plotlyfigures.qoq_growth(pnl, 'SALES', color_dict[color_key]['hash'], comp_Name, "Yearly")
+                with YOtherIncome:
+                    plotlyfigures.go_bar(pnl, 'OTHER INCOME', color_dict[color_key]['hash'], comp_Name,"Yearly")
+                with YExpenses:
+                    plotlyfigures.go_bar(pnl, 'EXPENSES', color_dict[color_key]['hash'], comp_Name,"Yearly")
+                with YOperatingProfit:
+                    plotlyfigures.qoq_growth(pnl, 'OPERATING PROFIT', color_dict[color_key]['hash'], comp_Name, "Yearly")
+                with YNetProfit:
+                    plotlyfigures.qoq_growth(pnl,'NET PROFIT',color_dict[color_key]['hash'],comp_Name, "Yearly")
 
-        if sub_choose == 'CASH FLOW':        # YEARLY CASH FLOWS
-            CF, CFop, CFinv, CFfin, NetCF, CFTab = st.tabs(["KeyData","Operating Cash","Investing Cash","Financing Cash","Net Cash Flow","Table"])
-            with CFTab:
-                st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
-            with CF:
-                plotlyfigures.go_group_bar(df_comp.loc[sub_choose], "cash_flows", color_dict[color_key]['hash'],"Yearly")
-            with CFop:
-                plotlyfigures.qoq_growth(df_comp.loc[sub_choose], "CASH FROM OPERATING ACTIVITY", color_dict[color_key]['hash'],comp_Name,"Yearly")
-            with CFfin:
-                plotlyfigures.go_bar(df_comp.loc[sub_choose], "CASH FROM FINANCING ACTIVITY", color_dict[color_key]['hash'], comp_Name,"Yearly")
-            with CFinv:
-                plotlyfigures.go_bar(df_comp.loc[sub_choose], "CASH FROM INVESTING ACTIVITY", color_dict[color_key]['hash'],comp_Name,"Yearly")
-            with NetCF:
-                plotlyfigures.go_bar(df_comp.loc[sub_choose], "NET CASH FLOW", color_dict[color_key]['hash'], comp_Name,"Yearly")
+            if sub_choose == 'QTR PnL':                #QUARTERLY PNL
 
-        if sub_choose == 'Key_Data':
-            key_data = str("""<!-- TradingView Widget BEGIN -->
-                                    <div class="tradingview-widget-container">
-                                      <div class="tradingview-widget-container__widget"></div>
-                                      <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/financials-overview/" rel="noopener" target="_blank"><span class="blue-text">Fundamental Data</span></a> by TradingView</div>
-                                      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-financials.js" async>
-                                      {
-                                      "colorTheme": "dark",
-                                      "isTransparent": false,
-                                      "largeChartUrl": "",
-                                      "displayMode": "regular",
-                                      "width": "100%",
-                                      "height": 880,
-                                      "symbol": "xx",
-                                      "locale": "en"
-                                      }
-                                      </script>
-                                    </div>
-                                    <!-- TradingView Widget END -->
-                                """)
+                Qkeydata, QSales, QOtherIncome, QExpenses, QOperatingProfit, QNetProfit, Qtable = st.tabs(
+                    ['Key Data', 'SALES', 'OTHER INCOME', 'EXPENSES', 'OPERATING PROFIT', 'NET PROFIT', 'Q DATA'])
+                with Qtable:
+                    st.dataframe(qtr_pnl)
+                    # Replace the first row with NaN for the QoQ columns
+                    #df.loc[0, ['SALES_QoQ', 'NET PROFIT_QoQ', 'OPERATING PROFIT_QoQ']] = np.nan
+                    #df = df.transpose()
+                    #st.dataframe(qtr_pnl.style.format(formatter="{:.1f}"))
 
-            comp_profile = str("""
-                                    <!-- TradingView Widget BEGIN -->
-                                    <div class="tradingview-widget-container">
-                                      <div class="tradingview-widget-container__widget"></div>
-                                      <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text"> Profile</span></a> by TradingView</div>
-                                      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-profile.js" async>
-                                      {
-                                      "width": "100%",
-                                      "height": 880,
-                                      "colorTheme": "dark",
-                                      "isTransparent": false,
-                                      "symbol": "xxyy",
-                                      "locale": "en"
-                                    }
-                                      </script>
-                                    </div>
-                                    <!-- TradingView Widget END -->
+                with Qkeydata:
+                    plotlyfigures.group_2_bars(qtr_pnl, "SALES", "OTHER INCOME",comp_Name, "Quarterly")
+                    plotlyfigures.group_2_bars(qtr_pnl,"PROFIT BEFORE TAX","NET PROFIT",comp_Name, "Quarterly")
+                    #plotlyfigures.group_3_bars(qtr_pnl, "SALES",  "PROFIT BEFORE TAX","NET PROFIT",comp_Name, "Quarterly")
+                    plotlyfigures.both_lines(qtr_pnl, "OPM %", "NPM %", color_dict['red1']['hash'], color_dict['green1']['hash'],comp_Name, "Quarterly")
+                    plotlyfigures.bar_line(qtr_pnl, 'OPERATING PROFIT','OPM %', color_dict[color_key]['hash'], comp_Name, "Quarterly")
+                    plotlyfigures.bar_line(qtr_pnl,'NET PROFIT','NPM %',color_dict[color_key]['hash'],comp_Name, "Quarterly")
+
+                with QSales:
+                    plotlyfigures.qoq_growth(qtr_pnl,"SALES", color_dict[color_key]['hash'],comp_Name, "Quarterly")
+                with QOtherIncome:
+                    plotlyfigures.go_bar(qtr_pnl, 'OTHER INCOME', color_dict[color_key]['hash'], comp_Name, "Quarterly")
+                with QExpenses:
+                    plotlyfigures.go_bar(qtr_pnl, 'EXPENSES', color_dict[color_key]['hash'], comp_Name, "Quarterly")
+                with QOperatingProfit:
+                    plotlyfigures.qoq_growth(qtr_pnl, 'OPERATING PROFIT', color_dict[color_key]['hash'], comp_Name, "Quarterly")
+                with QNetProfit:
+                    plotlyfigures.qoq_growth(qtr_pnl,'NET PROFIT',color_dict[color_key]['hash'],comp_Name, "Quarterly")
+
+            if sub_choose == 'BALANCE SHEET':        #YEARLY BALANCE SHEET
+                BSKeyData, BSReserves, BSBorrowings, BSOtherAssets, BSOtherLiabilities, BSReceivables, BSInventory, BSCWIP, BStable = st.tabs(['KeyData','Reserves','Borrowings','OtherAssets','OtherLiabilities','Receivables','Inventory','CWIP','BS DATA'])
+                with BSKeyData:
+                    plotlyfigures.bar_line(balancesht,"RESERVES","BORROWINGS",color_dict[color_key]['hash'],comp_Name, "Yearly")
+                    plotlyfigures.bar_line(balancesht,"RECEIVABLES","INVENTORY",color_dict[color_key]['hash'],comp_Name, "Yearly")
+                    plotlyfigures.bar_line(balancesht, "DEBTOR DAYS", "INVENTORY TURNOVER",color_dict[color_key]['hash'], comp_Name, "Yearly")
+                    plotlyfigures.bar_line(balancesht, "NET BLOCK", "CAPITAL WORK IN PROGRESS",color_dict[color_key]['hash'], comp_Name, "Yearly")
+                    #plotlyfigures.bar_line(balancesht, "NET BLOCK", "INVESTMENTS", color_dict[color_key]['hash'], comp_Name,"Yearly")
+                    #plotlyfigures.both_lines(balancesht, "ROCE", "ROE", color_dict[color_key]['hash'], color_line,comp_Name, "Yearly")
+
+                with BStable:
+                    st.dataframe(balancesht.style.format(formatter="{:.1f}"))
+                with BSCWIP:
+                    plotlyfigures.go_bar(balancesht, "CAPITAL WORK IN PROGRESS", color_dict[color_key]['hash'],comp_Name, "Yearly")
+                with BSInventory:
+                    plotlyfigures.go_bar(balancesht, "INVENTORY", color_dict[color_key]['hash'],comp_Name, "Yearly")
+                with BSReserves:
+                    plotlyfigures.qoq_growth(balancesht, "RESERVES", color_dict[color_key]['hash'],comp_Name, "Yearly")
+                with BSBorrowings:
+                    plotlyfigures.qoq_growth(balancesht, "BORROWINGS", color_dict[color_key]['hash'],comp_Name, "Yearly")
+                with BSReceivables:
+                    plotlyfigures.qoq_growth(balancesht, "RECEIVABLES", color_dict[color_key]['hash'],comp_Name, "Yearly")
+                with BSOtherAssets:
+                    plotlyfigures.qoq_growth(balancesht, "OTHER ASSETS", color_dict[color_key]['hash'],comp_Name, "Yearly")
+                with BSOtherLiabilities:
+                    plotlyfigures.qoq_growth(balancesht, "OTHER LIABILITIES", color_dict[color_key]['hash'],comp_Name, "Yearly")
+
+            if sub_choose == 'CASH FLOW':        # YEARLY CASH FLOWS
+                CF, CFop, CFinv, CFfin, NetCF, CFTab = st.tabs(["KeyData","Operating Cash","Investing Cash","Financing Cash","Net Cash Flow","Table"])
+                with CFTab:
+                    st.dataframe(df_comp.loc[sub_choose].style.format(formatter="{:.1f}"))
+                with CF:
+                    plotlyfigures.go_group_bar(df_comp.loc[sub_choose], "cash_flows", color_dict[color_key]['hash'],"Yearly")
+                with CFop:
+                    plotlyfigures.qoq_growth(df_comp.loc[sub_choose], "CASH FROM OPERATING ACTIVITY", color_dict[color_key]['hash'],comp_Name,"Yearly")
+                with CFfin:
+                    plotlyfigures.go_bar(df_comp.loc[sub_choose], "CASH FROM FINANCING ACTIVITY", color_dict[color_key]['hash'], comp_Name,"Yearly")
+                with CFinv:
+                    plotlyfigures.go_bar(df_comp.loc[sub_choose], "CASH FROM INVESTING ACTIVITY", color_dict[color_key]['hash'],comp_Name,"Yearly")
+                with NetCF:
+                    plotlyfigures.go_bar(df_comp.loc[sub_choose], "NET CASH FLOW", color_dict[color_key]['hash'], comp_Name,"Yearly")
+
+            if sub_choose == 'Key_Data':
+                key_data = str("""<!-- TradingView Widget BEGIN -->
+                                        <div class="tradingview-widget-container">
+                                        <div class="tradingview-widget-container__widget"></div>
+                                        <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/financials-overview/" rel="noopener" target="_blank"><span class="blue-text">Fundamental Data</span></a> by TradingView</div>
+                                        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-financials.js" async>
+                                        {
+                                        "colorTheme": "dark",
+                                        "isTransparent": false,
+                                        "largeChartUrl": "",
+                                        "displayMode": "regular",
+                                        "width": "100%",
+                                        "height": 880,
+                                        "symbol": "xx",
+                                        "locale": "en"
+                                        }
+                                        </script>
+                                        </div>
+                                        <!-- TradingView Widget END -->
                                     """)
-            with st.expander(label="TRADINGVIEW DATA"):
-                colx, coly = st.columns([1.5, 1])
-                with colx:
-                    components.html(key_data.replace("xx", company_code), height=1080)
-                with coly:
-                    components.html(comp_profile.replace("xxyy", company_code), height=1080)
-            with st.expander(label='BALANCE SHEET'):
-                st.dataframe(balancesht)
-            with st.expander(label='YEARLY PNL'):
-                st.dataframe(pnl)
-            with st.expander(label='QUARTERLY PNL'):
-                st.dataframe(qtr_pnl)
 
-            keydata_col1, keydata_col2 = st.columns([1,1])
-            with keydata_col1:
-                plotlyfigures.bar_line(balancesht, "DEBTOR DAYS", "INVENTORY TURNOVER", color_dict[color_key]['hash'],comp_Name, "Yearly")
-            with keydata_col2:
-                plotlyfigures.bar_line(balancesht, "NET BLOCK", "CAPITAL WORK IN PROGRESS", color_dict[color_key]['hash'], comp_Name,"Yearly")
-            with keydata_col1:
-                plotlyfigures.bar_line(balancesht, "RESERVES", "BORROWINGS", color_dict[color_key]['hash'], comp_Name,"Yearly")
-            with keydata_col2:
-                plotlyfigures.bar_line(balancesht, "WORKING CAPITAL", "CASH & BANK", color_dict[color_key]['hash'],comp_Name,"Yearly")
+                comp_profile = str("""
+                                        <!-- TradingView Widget BEGIN -->
+                                        <div class="tradingview-widget-container">
+                                        <div class="tradingview-widget-container__widget"></div>
+                                        <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text"> Profile</span></a> by TradingView</div>
+                                        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-profile.js" async>
+                                        {
+                                        "width": "100%",
+                                        "height": 880,
+                                        "colorTheme": "dark",
+                                        "isTransparent": false,
+                                        "symbol": "xxyy",
+                                        "locale": "en"
+                                        }
+                                        </script>
+                                        </div>
+                                        <!-- TradingView Widget END -->
+                                        """)
+                with st.expander(label="TRADINGVIEW DATA"):
+                    colx, coly = st.columns([1.5, 1])
+                    with colx:
+                        components.html(key_data.replace("xx", company_code), height=1080)
+                    with coly:
+                        components.html(comp_profile.replace("xxyy", company_code), height=1080)
+                with st.expander(label='BALANCE SHEET'):
+                    st.dataframe(balancesht)
+                with st.expander(label='YEARLY PNL'):
+                    st.dataframe(pnl)
+                with st.expander(label='QUARTERLY PNL'):
+                    st.dataframe(qtr_pnl)
 
-            with keydata_col1:
-                st.title("QUARTERLY")
-                plotlyfigures.group_2_bars(qtr_pnl, "SALES", "OTHER INCOME", comp_Name, "Quarterly")
+                keydata_col1, keydata_col2 = st.columns([1,1])
+                with keydata_col1:
+                    plotlyfigures.bar_line(balancesht, "DEBTOR DAYS", "INVENTORY TURNOVER", color_dict[color_key]['hash'],comp_Name, "Yearly")
+                with keydata_col2:
+                    plotlyfigures.bar_line(balancesht, "NET BLOCK", "CAPITAL WORK IN PROGRESS", color_dict[color_key]['hash'], comp_Name,"Yearly")
+                with keydata_col1:
+                    plotlyfigures.bar_line(balancesht, "RESERVES", "BORROWINGS", color_dict[color_key]['hash'], comp_Name,"Yearly")
+                with keydata_col2:
+                    plotlyfigures.bar_line(balancesht, "WORKING CAPITAL", "CASH & BANK", color_dict[color_key]['hash'],comp_Name,"Yearly")
 
-            with keydata_col2:
-                st.title("YEARLY")
-                plotlyfigures.group_2_bars(pnl, "SALES", "OTHER INCOME", comp_Name, "Yearly")
+                with keydata_col1:
+                    st.title("QUARTERLY")
+                    plotlyfigures.group_2_bars(qtr_pnl, "SALES", "OTHER INCOME", comp_Name, "Quarterly")
 
-            with keydata_col1:
-                plotlyfigures.both_lines(qtr_pnl, "OPM %", "NPM %", color_dict['red1']['hash'], color_dict['green1']['hash'],
-                                        comp_Name, "Quarterly")
-                plotlyfigures.bar_line(qtr_pnl, 'NET PROFIT', 'NPM %', color_dict[color_key]['hash'], comp_Name, "Quarterly")
+                with keydata_col2:
+                    st.title("YEARLY")
+                    plotlyfigures.group_2_bars(pnl, "SALES", "OTHER INCOME", comp_Name, "Yearly")
 
-            with keydata_col2:
-                plotlyfigures.both_lines(pnl, "OPM %", "NPM %", color_dict['red1']['hash'], color_dict['green1']['hash'],
-                                        comp_Name, "Yearly")
-                plotlyfigures.bar_line(pnl, 'NET PROFIT', 'NPM %', color_dict[color_key]['hash'], comp_Name, "Yearly")
+                with keydata_col1:
+                    plotlyfigures.both_lines(qtr_pnl, "OPM %", "NPM %", color_dict['red1']['hash'], color_dict['green1']['hash'],
+                                            comp_Name, "Quarterly")
+                    plotlyfigures.bar_line(qtr_pnl, 'NET PROFIT', 'NPM %', color_dict[color_key]['hash'], comp_Name, "Quarterly")
 
-            plotlyfigures.go_group_bar(df_comp.loc['CASH FLOW'], "cash_flows", color_dict[color_key]['hash'], "Yearly")
+                with keydata_col2:
+                    plotlyfigures.both_lines(pnl, "OPM %", "NPM %", color_dict['red1']['hash'], color_dict['green1']['hash'],
+                                            comp_Name, "Yearly")
+                    plotlyfigures.bar_line(pnl, 'NET PROFIT', 'NPM %', color_dict[color_key]['hash'], comp_Name, "Yearly")
 
-        # for each in variables.metadata.keys():
-        #     st.info(each)
+                plotlyfigures.go_group_bar(df_comp.loc['CASH FLOW'], "cash_flows", color_dict[color_key]['hash'], "Yearly")
 
-    
-    # if funda_tech == "Funda_Chart":
-    #     with st.sidebar:
-    #         #color_key = st.selectbox("Bar Color", color_dict.keys())
-    #         color_key = 'blue3'
-    #     # tree_folder = comp_Name[0].upper()
-    #     # if company_code[0].isdigit():
-    #     #     tree_folder = company_code[0]
-    #     # else:
-    #     #     tree_folder = company_code[0].upper()
-    #     # SHOW CONSOLIDATED AND STANDALONE
-    #     yr_cons_dict,yr_std_dict,qtr_cons_dict,qtr_std_dict = screenerpage.read_database_to_get_df(id_value=company_code[0])
+            # for each in variables.metadata.keys():
+            #     st.info(each)
 
-    #     sub_chose_dict = {}
-    #     sub_chose_dict["Consolidated"] = {}
-    #     sub_chose_dict["Standalone"] = {}
-
-    #     #check consolidated data
         
-    #     if len(yr_cons_dict)!=0:
-    #         if len(qtr_cons_dict)!=0:
-    #             # both yearly and qtr data available in Consolidated
-    #             consolidated_data_availability = True
-    #             sub_chose_dict["Consolidated"]["Yearly"] = yr_cons_dict
-    #             sub_chose_dict["Consolidated"]["Quarterly"] = qtr_cons_dict
-    #         else:
-    #             #only yearly data is available in Consolidated data
-    #             consolidated_yearly_availablity = True
-                
-    #             sub_chose_dict["Consolidated"]["Yearly"] = qtr_cons_dict
-    #     elif len(qtr_cons)!=0:
-    #         consolidated_quarterly_availability = True
-    #         sub_chose_dict['Consolidated']['Quarterly'] = yr_cons_dict
-        
-    #     #check Standalone data
-    #     if len(yr_std)!=0:
-    #         if len(qtr_std)!=0:
-    #             standalone_data_availability = True
-    #             sub_chose_dict["Standalone"]["Yearly"] = yr_std_dict
-    #             sub_chose_dict["Standalone"]["Quarterly"] = qtr_std_dict
-    #         else:
-    #             standalone_yearly_availablity = True
-    #             sub_chose_dict["Standalone"]["Yearly"] = yr_std_dict
+        # if funda_tech == "Funda_Chart":
+        #     with st.sidebar:
+        #         #color_key = st.selectbox("Bar Color", color_dict.keys())
+        #         color_key = 'blue3'
+        #     # tree_folder = comp_Name[0].upper()
+        #     # if company_code[0].isdigit():
+        #     #     tree_folder = company_code[0]
+        #     # else:
+        #     #     tree_folder = company_code[0].upper()
+        #     # SHOW CONSOLIDATED AND STANDALONE
+        #     yr_cons_dict,yr_std_dict,qtr_cons_dict,qtr_std_dict = screenerpage.read_database_to_get_df(id_value=company_code[0])
 
-    #     elif len(qtr_std)!=0:
-    #         standalone_quarterly_availablity = True
-    #         sub_chose_dict["Standalone"]["Quarterly"] = qtr_std_dict
+        #     sub_chose_dict = {}
+        #     sub_chose_dict["Consolidated"] = {}
+        #     sub_chose_dict["Standalone"] = {}
 
-    #     if consolidated_data_availability==False and standalone_data_availability == False:
-    #         st.error("No data available for this company")
-    #     else:
-    #         # make list of sub_chose_dict keys?
-    #         main_chose = list(sub_chose_dict.keys())
+        #     #check consolidated data
+            
+        #     if len(yr_cons_dict)!=0:
+        #         if len(qtr_cons_dict)!=0:
+        #             # both yearly and qtr data available in Consolidated
+        #             consolidated_data_availability = True
+        #             sub_chose_dict["Consolidated"]["Yearly"] = yr_cons_dict
+        #             sub_chose_dict["Consolidated"]["Quarterly"] = qtr_cons_dict
+        #         else:
+        #             #only yearly data is available in Consolidated data
+        #             consolidated_yearly_availablity = True
+                    
+        #             sub_chose_dict["Consolidated"]["Yearly"] = qtr_cons_dict
+        #     elif len(qtr_cons)!=0:
+        #         consolidated_quarterly_availability = True
+        #         sub_chose_dict['Consolidated']['Quarterly'] = yr_cons_dict
+            
+        #     #check Standalone data
+        #     if len(yr_std)!=0:
+        #         if len(qtr_std)!=0:
+        #             standalone_data_availability = True
+        #             sub_chose_dict["Standalone"]["Yearly"] = yr_std_dict
+        #             sub_chose_dict["Standalone"]["Quarterly"] = qtr_std_dict
+        #         else:
+        #             standalone_yearly_availablity = True
+        #             sub_chose_dict["Standalone"]["Yearly"] = yr_std_dict
+
+        #     elif len(qtr_std)!=0:
+        #         standalone_quarterly_availablity = True
+        #         sub_chose_dict["Standalone"]["Quarterly"] = qtr_std_dict
+
+        #     if consolidated_data_availability==False and standalone_data_availability == False:
+        #         st.error("No data available for this company")
+        #     else:
+        #         # make list of sub_chose_dict keys?
+        #         main_chose = list(sub_chose_dict.keys())
 
 
-    #         sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_menu)
+        #         sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_menu)
 
 
-    if funda_tech == "Tech_Chart":
-        with st.expander(label="IF ERROR / FETCHING APPLE STOCK"):
-            st.write("We are having issues in generating Tech Charts for BSE Codes and some of the NSE codes as well.")
-            st.write("Appreciate using our site. Will fix this asap")
-        tech_widget = str("""<!-- TradingView Widget BEGIN -->
+        if funda_tech == "Tech_Chart":
+            with st.expander(label="IF ERROR / FETCHING APPLE STOCK"):
+                st.write("We are having issues in generating Tech Charts for BSE Codes and some of the NSE codes as well.")
+                st.write("Appreciate using our site. Will fix this asap")
+            tech_widget = str("""<!-- TradingView Widget BEGIN -->
+                <div class="tradingview-widget-container">
+                <div id="analytics-platform-chart-demo"></div>
+                <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Chart</span></a> by TradingView</div>
+                <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+                <script type="text/javascript">
+                new TradingView.widget(
+                {
+                "container_id": "analytics-platform-chart-demo",
+                "width": "100%","height": "680",
+                "symbol": "xxyyzz",
+                "interval": "W",
+                "timezone": "exchange",
+                "theme": "dark",
+                "style": "0",
+                "toolbar_bg": "#f1f3f6",
+                "withdateranges": true,
+                "allow_symbol_change": true,
+                "save_image": false,
+                "details": true,"hotlist": true,"calendar": true,
+                "studies": [
+                    {id:"RSI@tv-basicstudies"},
+                    {id:"MASimple@tv-basicstudies", inputs: {length:21}},
+                    {id:"MASimple@tv-basicstudies", inputs: {length:55}}
+                ],
+                "show_popup_button": true,
+                "popup_width": "1000",
+                "popup_height": "650",
+                "locale": "en"
+                }
+                );
+                </script>
+                </div>
+                <!-- TradingView Widget END -->""")
+            tech1_widget = tech_widget.replace("xxyyzz",company_code)
+            components.html(tech1_widget.replace("xxyyzz",company_code), height = 1080)
+            tech_chart_widget = """<!-- TradingView Widget BEGIN -->
             <div class="tradingview-widget-container">
-              <div id="analytics-platform-chart-demo"></div>
-              <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Chart</span></a> by TradingView</div>
-              <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
-              <script type="text/javascript">
-              new TradingView.widget(
-              {
-              "container_id": "analytics-platform-chart-demo",
-              "width": "100%","height": "680",
-              "symbol": "xxyyzz",
-              "interval": "W",
-              "timezone": "exchange",
-              "theme": "dark",
-              "style": "0",
-              "toolbar_bg": "#f1f3f6",
-              "withdateranges": true,
-              "allow_symbol_change": true,
-              "save_image": false,
-              "details": true,"hotlist": true,"calendar": true,
-              "studies": [
-                {id:"RSI@tv-basicstudies"},
-                {id:"MASimple@tv-basicstudies", inputs: {length:21}},
-                {id:"MASimple@tv-basicstudies", inputs: {length:55}}
-              ],
-              "show_popup_button": true,
-              "popup_width": "1000",
-              "popup_height": "650",
-              "locale": "en"
+            <div id="technical-analysis-chart-demo"></div>
+            <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Chart</span></a> by TradingView</div>
+            <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+            <script type="text/javascript">
+            new TradingView.widget(
+            {
+            "container_id": "technical-analysis-chart-demo",
+            "width": "100%",
+            "height": "680",
+            "symbol": "nifty",
+            "interval": "D",
+            "timezone": "exchange",
+            "theme": "dark",
+            "style": "1",
+            "toolbar_bg": "#f1f3f6",
+            "withdateranges": true,
+            "hide_side_toolbar": false,
+            "allow_symbol_change": true,
+            "save_image": false,
+            "studies": [
+                "RSI@tv-basicstudies",
+                "MASimple@tv-basicstudies",
+                "MASimple@tv-basicstudies"
+            ],
+            "show_popup_button": true,
+            "popup_width": "1000",
+            "popup_height": "650",
+            "locale": "en"
             }
-              );
-              </script>
+            );
+            </script>
             </div>
-            <!-- TradingView Widget END -->""")
-        tech1_widget = tech_widget.replace("xxyyzz",company_code)
-        components.html(tech1_widget.replace("xxyyzz",company_code), height = 1080)
-        tech_chart_widget = """<!-- TradingView Widget BEGIN -->
-        <div class="tradingview-widget-container">
-          <div id="technical-analysis-chart-demo"></div>
-          <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Chart</span></a> by TradingView</div>
-          <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
-          <script type="text/javascript">
-          new TradingView.widget(
-          {
-          "container_id": "technical-analysis-chart-demo",
-          "width": "100%",
-          "height": "680",
-          "symbol": "nifty",
-          "interval": "D",
-          "timezone": "exchange",
-          "theme": "dark",
-          "style": "1",
-          "toolbar_bg": "#f1f3f6",
-          "withdateranges": true,
-          "hide_side_toolbar": false,
-          "allow_symbol_change": true,
-          "save_image": false,
-          "studies": [
-            "RSI@tv-basicstudies",
-            "MASimple@tv-basicstudies",
-            "MASimple@tv-basicstudies"
-          ],
-          "show_popup_button": true,
-          "popup_width": "1000",
-          "popup_height": "650",
-          "locale": "en"
-        }
-          );
-          </script>
-        </div>
-        <!-- TradingView Widget END -->"""
-        # components.html(tech_chart_widget, height=1080)
+            <!-- TradingView Widget END -->"""
+            # components.html(tech_chart_widget, height=1080)
 
 
 
@@ -1055,9 +1060,8 @@ st.markdown(hide_st_style,unsafe_allow_html=True)
 
 
 tick_force = st.checkbox(label="Force Download",value=False)
-if st.button("Download ALL stocks again:"):
-    
-    save_screener1(st.session_state.listed_stocks,True)
+if st.button("Download ALL stocks again:"):    
+    save_screener1(st.session_state.listed_stocks,force=tick_force)
     # except Exception as e:
     #     st.error("You are running on Server, Only Sahaveer has access")
     #     st.error(e)

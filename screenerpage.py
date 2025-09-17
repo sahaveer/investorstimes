@@ -25,8 +25,10 @@ follow_button_path = "/html/body/main/div[3]/div[1]/form/div/button"
 BSE_Code_xpath = "/html/body/main/div[3]/div[2]/a[2]/span"
 NSE_Code_xpath = "/html/body/main/div[3]/div[2]/a[3]/span" 
 comp_fullname_xpath = "/html/body/main/div[3]/div[1]/div/h1" 
-sector_xpath = "/html/body/main/section[3]/div[1]/div[1]/p/a[1]"
-industry_xpath = "/html/body/main/section[3]/div[1]/div[1]/p/a[2]"
+# sector_xpath = "/html/body/main/section[3]/div[1]/div[1]/p/a[1]"
+sector_xpath = "/html/body/main/section[3]/div[1]/div[1]/p[1]/a[3]" #"/html/body/main/section[3]/div[1]/div[1]/p[1]/a[2]"
+# industry_xpath = "/html/body/main/section[3]/div[1]/div[1]/p/a[2]"
+industry_xpath = "/html/body/main/section[3]/div[1]/div[1]/p[1]/a[4]"
 
 # global bsecodenum_codename
 # global bsecodename_codenum
@@ -124,11 +126,9 @@ def scrape(driver):
     if driver.find_elements(by=By.XPATH, value=BSE_Code_xpath):
         bse_elements = driver.find_elements(by=By.XPATH, value=BSE_Code_xpath)
         # Extract the actual text from each WebElement
-
         bse_list = [element.text for element in bse_elements]
-        st.success(bse_list)
         split_bse_list =  bse_list[0].split(': ')
-        comp_dict['code_names']['BSE'] = split_bse_list[1]
+        comp_dict['code_names']['BSE'] = split_bse_list[-1]
         # st.success(f"{comp_dict['comp_codes']['BSE']}")                
 
     #get NSE code    
@@ -136,13 +136,11 @@ def scrape(driver):
         nse_elements = driver.find_elements(by=By.XPATH, value=NSE_Code_xpath)
         # Extract the actual text from each WebElement
         nse_list = [element.text for element in nse_elements]
-
         # Print or use the extracted texts
-        st.success(nse_list)                    
         split_nse_list = nse_list[0].split(': ')
         # comp_dict['codes_dict'][split_nse_list[0]] = split_nse_list[1]
-        comp_dict['code_names']['NSE'] = split_nse_list[1]
-
+        comp_dict['code_names']['NSE'] = split_nse_list[-1]
+    
 
     # get value of comp_fullname_xpath 
     if driver.find_elements(by=By.XPATH, value=comp_fullname_xpath):
@@ -158,6 +156,7 @@ def scrape(driver):
     #finding SECTOR
     if driver.find_elements(by=By.XPATH, value=sector_xpath):
         sector_elements = driver.find_elements(by=By.XPATH, value=sector_xpath)
+        st.success(sector_elements)
         # Extract the actual text from each WebElement
         sector_list = [element.text for element in sector_elements]
         comp_dict['sector'] = sector_list[0]
@@ -166,6 +165,7 @@ def scrape(driver):
     #finding Industry
     if driver.find_elements(by=By.XPATH, value=industry_xpath):
         industry_elements = driver.find_elements(by=By.XPATH, value=industry_xpath)
+        st.success(industry_elements)
         #extract the actual text from each webelement
         industry_list = [element.text for element in industry_elements]
         comp_dict['industry'] = industry_list[0]
@@ -174,7 +174,7 @@ def scrape(driver):
 
     comp_dict['consolidated_available'] = False
     comp_dict['standalone_available'] = False
-
+    st.success(comp_dict)
     return comp_dict 
 
 # lets get all industries and sectors from screener site for stocks already available in database
@@ -227,7 +227,11 @@ def scrape_all_listed(available_in_db:list)->None:
         st.success(comp_dict)
         #lets save these in MONGODB database
         if comp_dict['consolidated_available'] == True or comp_dict["standalone_available"] == True:
-            create_database.insert_list(id_value=comp_dict['industry'],list_data= [code])
+            if 'industry' in comp_dict.keys():
+                create_database.insert_list(id_value=comp_dict['industry'],list_data= [code])
+            if 'sector' in comp_dict.keys():
+                create_database.insert_list(id_value=comp_dict['sector'],list_data= [code])
+
             if 'NSE' in comp_dict['code_names'].keys():
                 search_in_db = comp_dict['code_names']['NSE']
             elif 'NSE - SME' in comp_dict['code_names'].keys():
@@ -440,9 +444,11 @@ def search_screener1(driver,code:str):
             # If there are no values that start with "NSE", take all available values
             if not NSE_ifnot_BSE:
                 NSE_ifnot_BSE = codenames_list
+            if len(NSE_ifnot_BSE)==0:
+                NSE_ifnot_BSE = codenames_list
             # st.error(NSE_ifnot_BSE)
-
-            create_database.insert_list(id_value=comp_dict['industry'],list_data= [NSE_ifnot_BSE[-1]])                                                                                                                                                                
+            if 'industry' in comp_dict.keys():
+                create_database.insert_list(id_value=comp_dict['industry'],list_data= [NSE_ifnot_BSE[-1]])
             # st.success(f"{NSE_ifnot_BSE[-1]} is saved in {comp_dict['industry']}")
             final_dict3["STANDALONE"] = {}
             final_dict3["STANDALONE"]["YEARLY"]=dict_3
@@ -464,7 +470,7 @@ def search_screener1(driver,code:str):
 
             variables.metadata[NSE_ifnot_BSE[-1]] = final_dict3
             create_database.create_doc(col=create_database.comp_metadata_col, id_value=NSE_ifnot_BSE[-1], dict=final_dict3)            
-            st.success(f"Saved entire Metadata in Database as {NSE_ifnot_BSE[-1]} while we have a list of {NSE_ifnot_BSE}")
+            st.success(f"{NSE_ifnot_BSE[-1]} among {codenames_list} is saved as \n{final_dict3}")
 
     else:
         st.error("No STANDALONE Data Available")
@@ -477,13 +483,14 @@ def search_screener1(driver,code:str):
 
             # If there are no values that start with "NSE", take all available values
             if not NSE_ifnot_BSE:
-                NSE_ifnot_BSE = codenames_list[-1]
+                NSE_ifnot_BSE = codenames_list
+                # NSE_ifnot_BSE = codenames_list[-1]
             final_dict3 = {}
             final_dict3['code_names'] = codenames_list
             final_dict3['Code'] = codenames_list[-1]
             final_dict3['comp_metadata'] = comp_dict
             create_database.create_doc(col=create_database.comp_metadata_col, id_value=NSE_ifnot_BSE[-1], dict=final_dict3)
-            st.success(f"{codenames_list[-1]} among {codenames_list} is saved as \n{final_dict3}")
+            st.success(f"{NSE_ifnot_BSE[-1]} among {codenames_list} is saved as \n{final_dict3}")
 
     # Consolidated - 
     driver.get('https://www.screener.in/company/' + code + '/consolidated/')
@@ -575,14 +582,13 @@ def search_screener1(driver,code:str):
                 #lets save in id_value where the dict key starts with NSE
                 # Get values where keys start with "NSE"
                 NSE_ifnot_BSE = [value for key, value in comp_dict['code_names'].items() if key.startswith("NSE")]
-
                 # If there are no values that start with "NSE", take all available values
                 if not NSE_ifnot_BSE:
                     NSE_ifnot_BSE = codenames_list
                 # st.error(NSE_ifnot_BSE)
-
-                create_database.insert_list(id_value=comp_dict['industry'],list_data= [NSE_ifnot_BSE[-1]])                                                                                                                                                                
-                st.success(f"{NSE_ifnot_BSE[-1]} among {codenames_list} is saved in {comp_dict['industry']}")
+                if 'industry' in comp_dict.keys():
+                    create_database.insert_list(id_value=comp_dict['industry'],list_data= [NSE_ifnot_BSE[-1]])                                                                                                                                                                
+                    st.success(f"{NSE_ifnot_BSE[-1]} among {codenames_list} is saved in {comp_dict['industry']}")
                 final_dict1["CONSOLIDATED"] = {}
                 final_dict1["CONSOLIDATED"]["YEARLY"]=dict_1
                 # Saves the company in the INDUSTRY_COL 
@@ -599,11 +605,12 @@ def search_screener1(driver,code:str):
                 final_dict1['comp_metadata'] = comp_dict
                 final_dict1["CONSOLIDATED"]["QUARTERLY"] = dict_2
                 create_database.create_doc(col=create_database.comp_metadata_col, id_value=NSE_ifnot_BSE[-1], dict=final_dict1)
+                st.success(f"{NSE_ifnot_BSE[-1]} among {codenames_list} is saved as \n{final_dict1}")
                 # st.success(f"{NSE_ifnot_BSE[-1]} among {codenames_list} is saved as \n{final_dict1}")
                 variables.metadata[NSE_ifnot_BSE[-1]] = final_dict1
                 # variables.metadata[final_dict1['Code']] = final_dict1
                 # create_database.insert_dict(col=create_database.company_metadata_col, id_value=codenames_list[0], save_within_document="results", dict=final_dict2,task="REPLACE")         
-                st.success(f"Saved entire Metadata in Database as {NSE_ifnot_BSE[-1]}")
+                # st.success(f"Saved entire Metadata in Database as {NSE_ifnot_BSE[-1]}")
             except Exception as e:
                 st.error(f"Error: {e}")
     else:
@@ -617,13 +624,13 @@ def search_screener1(driver,code:str):
             NSE_ifnot_BSE = [value for key, value in comp_dict['code_names'].items() if key.startswith("NSE")]
             # If there are no values that start with "NSE", take all available values
             if not NSE_ifnot_BSE:
-                NSE_ifnot_BSE = codenames_list[-1]
+                NSE_ifnot_BSE = codenames_list
             final_dict1={}
             final_dict1['code_names'] = codenames_list
             final_dict1['Code'] = codenames_list[-1]
             final_dict1['comp_metadata'] = comp_dict            
             create_database.create_doc(col=create_database.comp_metadata_col, id_value=NSE_ifnot_BSE[-1], dict=final_dict1)
-            st.success(f"{codenames_list[-1]} among {codenames_list} is saved as \n{final_dict1}")
+            st.success(f"{NSE_ifnot_BSE[-1]} among {codenames_list} is saved as \n{final_dict1}")
 
 
 def main():

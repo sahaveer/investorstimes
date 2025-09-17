@@ -111,32 +111,34 @@ def amibroker_notes_insights(metadata):
     # st.success(f"In amibroker_notes_insights FUNC, the Metadata is \n{metadata}")
     code_names = metadata['code_names']
     sentence = ""
-    if len(metadata['code_names']) == 1 and metadata['code_names'][0].isdigit():
-        sentence += f"CODE\tNAME\n"
-        sentence += f"{metadata['code_names'][0]} \n" #{st.session_state.bsecodenum_codename[int(metadata['code_names'][0])]}"
-    else:
-        sentence += f"CODES\n"
-        for each in metadata['code_names']: sentence += f"{each}\t"
+    # if len(metadata['code_names']) == 1 and metadata['code_names'][0].isdigit():
+        # sentence += f"CODE\tNAME\n"
+        # sentence += f"{metadata['code_names'][0]} \n" #{st.session_state.bsecodenum_codename[int(metadata['code_names'][0])]}"
+    # else:
+    sentence += f"CODES\t"
+    for each in metadata['code_names']: sentence += f"{each}\t"
+    
     if 'comp_metadata' in metadata.keys():
-        sentence += f"\nSECTOR : {metadata['comp_metadata']['sector']}\nINDUSTRY : {metadata['comp_metadata']['industry']}"
+        sentence += f"\nFULLNAME : {metadata['comp_metadata']['comp_fullname']}\nSECTOR : {metadata['comp_metadata']['sector']}\nINDUSTRY : {metadata['comp_metadata']['industry']}"
     sentence += "\n"
     if 'metadata' in metadata.keys():
         if 'tags' in metadata['metadata'].keys():
             for each in metadata['metadata']['tags'] : sentence += f"{each}\n"        
-        if 'cons' in metadata['metadata'].keys():
-            sentence += "\n***CONS***\n"
-            for each in metadata['metadata']['cons']: sentence += f"{each}\n"
         if 'YPNL_Statement' in metadata['metadata'].keys(): 
-            # sentence += "\n***YEARLY***" + metadata['metadata']['YPNL_Statement'] + "\n"
-            sentence += format_financial_text(raw_text=metadata['metadata']['YPNL_Statement'])
+            sentence += "\n***YEARLY***" + metadata['metadata']['YPNL_Statement'] + "\n"
+            #this gives a gud appealing txt file but not suitable for amibroker NOTES
+            # sentence += format_financial_text(raw_text=metadata['metadata']['YPNL_Statement'])
             sentence += "\n"
         if 'QPNL_Statement' in metadata['metadata'].keys():     
-            # sentence += "\n***QUARTERLY***" + metadata['metadata']['QPNL_Statement'] + "\n"
-            sentence += format_financial_text(raw_text=metadata['metadata']['QPNL_Statement'])
+            sentence += "\n***QUARTERLY***" + metadata['metadata']['QPNL_Statement'] + "\n"
+            # sentence += format_financial_text(raw_text=metadata['metadata']['QPNL_Statement'])
             sentence += "\n"
         if 'pros' in metadata['metadata'].keys():
             sentence += "\n***PROS***\n"
             for each in metadata['metadata']['pros']: sentence += f"{each}\n"
+        if 'cons' in metadata['metadata'].keys():
+            sentence += "\n***CONS***\n"
+            for each in metadata['metadata']['cons']: sentence += f"{each}\n"
         if 'QPNL_tweet' in metadata['metadata'].keys():
             sentence += f"\n{metadata['metadata']['QPNL_tweet']}\n"
         if 'YPNL_tweet' in metadata['metadata'].keys():
