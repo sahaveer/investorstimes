@@ -258,7 +258,6 @@ def write_tags_to_txt(metadata):
     if status_placeholder:
         status_placeholder.empty()
     print("Exiting save_screener1 FUNC")
-)
 
 
 # Parse the URL parameters to get the selected stock
