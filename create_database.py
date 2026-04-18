@@ -95,6 +95,19 @@ def seed_stocks_from_file(file_path):
         stocks = [line.strip() for line in f.readlines()]
     stocks_list_col.update_one({"_id": "all_listed"}, {"$set": {"stocks": stocks}}, upsert=True)
     return stocks
+def save_insights(code, insights):
+    """Save user insights for a stock in CompMetadata."""
+    try:
+        comp_metadata_col.update_one(
+            {"code_names": code.upper()},
+            {"$set": {"metadata.sentence": insights, "metadata.insights_timestamp": datetime.datetime.now()}},
+            upsert=False
+        )
+        return True
+    except Exception as e:
+        print(f"Error saving insights for {code}: {e}")
+        return False
+
 #EODBhavcopy : Bhavcopy : INDEXbhav
 #EODBhavcopy : Bhavcopy : NSEbhav
 

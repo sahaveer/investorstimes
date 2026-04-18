@@ -705,12 +705,33 @@ if selected:
                 sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_menu)
                 # st.title(comp_Name)
 
-
-            sentence = amibroker.amibroker_notes_insights(metadata=metadata)
+            # Fetch manual insights from metadata using the 'sentence' field
+            manual_sentence = metadata.get('metadata', {}).get('sentence', '')
             
-
+            # Automated summary for reference
+            auto_summary = amibroker.amibroker_notes_insights(metadata=metadata)
+            
             with coltw2:
-                textarea_is = st.text_area(label="👉 INSIGHTS", value=sentence, height=180, key="InsightsYQ")
+                st.subheader("📝 Stock Insights")
+                # Use manual sentence as the primary value, fallback to automated if empty
+                display_val = manual_sentence if manual_sentence else auto_summary
+                textarea_is = st.text_area(label="Your Analysis / Notes", value=display_val, height=350, key="InsightsYQ")
+                
+                col_s1, col_s2 = st.columns(2)
+                with col_s1:
+                    if st.button("💾 Save Insights", use_container_width=True):
+                        if create_database.save_insights(selected, textarea_is):
+                            st.success("Insights saved to Cloud!")
+                            if 'all_stock_metadata' in st.session_state and selected in st.session_state.all_stock_metadata:
+                                if 'metadata' not in st.session_state.all_stock_metadata[selected]:
+                                    st.session_state.all_stock_metadata[selected]['metadata'] = {}
+                                st.session_state.all_stock_metadata[selected]['metadata']['sentence'] = textarea_is
+                        else:
+                            st.error("Failed to save insights.")
+                with col_s2:
+                    if st.button("📊 Load Auto Summary", use_container_width=True):
+                        st.session_state["InsightsYQ"] = auto_summary
+                        st.rerun()
 
                 # file_like = io.StringIO(sentence)
                 # Provide a download button
@@ -1185,7 +1206,7 @@ if selected:
 #     st.success(f"We got about {len(variables.metadata.keys())} saved in our Metadata")
 
 st.write("____")
-st.write('made with :green_heart: to Indian Stock Investors')
+st.markdown("<div style='text-align: center; color: #666;'>Made with 💚 for Indian Stock Investors</div>", unsafe_allow_html=True)
 
 #Custom CSS to remove header,footer, hamburger icon
 hide_st_style = """
