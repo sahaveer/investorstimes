@@ -89,7 +89,10 @@ else:
             # Note: We use main.main_status if defined, or just st.empty()
             status_p = st.empty()
             main.save_screener1(unique_codes, force=True, status_placeholder=status_p)
-            st.success("Batch completed!")
+            st.success("Batch completed! Clearing cache...")
+            st.cache_resource.clear()
+            time.sleep(1)
+            st.rerun()
         else:
             st.warning("No symbols found.")
     

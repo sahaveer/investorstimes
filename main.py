@@ -169,7 +169,8 @@ if 'listed_stocks' not in st.session_state:
     st.session_state['listed_stocks'] = stocks
 
 # Initialize metadata in session state
-if 'all_stock_metadata' not in st.session_state:
+if 'all_stock_metadata' not in st.session_state or st.sidebar.button("🔄 Refresh Data Cache"):
+    st.cache_resource.clear() # Clear the @st.cache_resource cache
     with st.spinner("Loading Stock Metadata..."):
         all_meta, latest_q, last_q_text, avail_stocks, not_latest = create_database.get_metadata(recent_quarter_txt, last_quarter_text)
         st.session_state.all_stock_metadata = all_meta
@@ -177,6 +178,9 @@ if 'all_stock_metadata' not in st.session_state:
         st.session_state.last_announced_quarter = last_q_text
         st.session_state.available_stocks = avail_stocks
         st.session_state.not_latest_quarterly = not_latest
+        st.success("Metadata Refreshed!")
+        time.sleep(1)
+        st.rerun()
 
 if 'latest_quarterly_stocks' not in st.session_state or 'last_announced_quarter' not in st.session_state or  'available_pickles' not in st.session_state or 'no_of_stocks_not_latest' not in st.session_state:
     start = time.perf_counter()
@@ -433,15 +437,14 @@ if selected:
     qtr_pnl = pd.DataFrame()
     df_comp = pd.DataFrame()
     
-    metadata = {}
+    metadata = st.session_state.all_stock_metadata.get(selected, {})
     company_code = []
     comp_Name = ""
     st.header(f"{selected}")
     # Display Last Scraped Timestamp from the metadata object
-    if 'all_stock_metadata' in st.session_state and selected in st.session_state.all_stock_metadata:
+    if metadata:
         # Check in both 'metadata' or 'comp_metadata' fields where timestamp might be
-        doc = st.session_state.all_stock_metadata[selected]
-        last_upd = doc.get('timestamp') or doc.get('metadata', {}).get('timestamp')
+        last_upd = metadata.get('timestamp') or metadata.get('metadata', {}).get('timestamp')
         if last_upd:
             if isinstance(last_upd, (datetime.datetime, pd.Timestamp)):
                 st.caption(f"🕒 Data last synced from Screener: **{last_upd.strftime('%d-%b %H:%M')}**")
