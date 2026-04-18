@@ -1,37 +1,34 @@
-CODE	NAME
-508961 
+CODES	508961	
+FULLNAME : Shricon Industries Ltd
+SECTOR : Realty
+INDUSTRY : Real Estate related services
 
-SECTOR : Construction
-INDUSTRY : Construction
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		0.0		0.0		0.6		0.6		3.2
+SQoQ%: 	-100.0		nan		nan		inf		8.8		533.3
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	inf		inf		inf		31.6		0.0
+YPROFIT: 0.0		0.4		1.2		0.2		-0.0		1.8
+PQoQ%: 	-96.4		1750.0		227.0		-85.1		-127.8		-inf
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.2    |   0.0    |   0.0    |   0.0    |   0.6    |      0.2     
- SQoQ%:  |  2100.0  |  -100.0  |   nan    |   nan    |   inf    |      33.3    
- YOPM%:  |   31.8   |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |  254.5   |   inf    |   inf    |   inf    |  152.6   |              
-YPROFIT: |   0.6    |   0.0    |   0.4    |   1.2    |   0.9    |      0.2     
- PQoQ%:  |  -177.8  |  -96.4   |  1750.0  |  227.0   |  -28.1   |      22.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.1    |   0.2    |   0.2    |   0.0    |   0.0   
- QoQ%:  |   40.0   |  242.9   |  -20.8   |  -73.7   |  -40.0  
- QOPM%: |   0.0    |   16.7   |   0.0    |   0.0    |   0.0   
- QNPM%: |  200.0   |   79.2   |  100.0   |   0.0    |   0.0   
- QPFT:  |   0.1    |   0.2    |   0.2    |   -0.0   |   -0.0  
- PQoQ%: |  -12.5   |   35.7   |   0.0    |  -121.1  |  -75.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.3		0.0		1.0		2.2
+QoQ%: 	-40.0		1033.3		-94.1		4700.0		130.2
+QOPM%: 	0.0		8.8		0.0		58.3		62.4
+QNPM%: 	0.0		23.5		0.0		60.4		53.4
+QPFT: 	-0.0		0.1		-0.0		0.6		1.2
+PQoQ%: 	-75.0		-900.0		-162.5		-1260.0		103.4
+
+
 
 ***PROS***
-A DEBT-Free Company
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+A DEBT-Free Company for the last 2 yrs
+- Last 3QSALES is about 533% YSales
 
 
-Yearly 
- 31-Mar-2024 #Result
-0.60cr, QoQ inf% & YoY 200.00% SALES;
--0.00cr, QoQ -76.50% & YoY -100.00% OPERATING PROFIT;
-0.90cr, QoQ -28.10% & YoY 50.00% NET PROFIT;
-OPM %: 0.00% vs 0.0%
-NPM %: 152.60% vs inf%
-
+***CONS***
+- NO PRODUCT DEMAND

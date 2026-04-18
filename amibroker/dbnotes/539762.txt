@@ -1,13 +1,14 @@
-CODE	NAME
-539762 
+CODES	539762	
+FULLNAME : Modern Engineering and Projects Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
 
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

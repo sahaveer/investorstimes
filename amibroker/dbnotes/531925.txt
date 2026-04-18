@@ -1,13 +1,14 @@
-CODE	NAME
-531925 
+CODES	531925	
+FULLNAME : 52 Weeks Entertainment Ltd
+SECTOR : Food Products
+INDUSTRY : Packaged Foods
 
-SECTOR : Entertainment
-INDUSTRY : Entertainment / Electronic Media Software
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

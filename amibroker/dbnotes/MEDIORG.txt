@@ -1,16 +1,17 @@
-CODES
-MEDIORG	
+CODES	MEDIORG	
+FULLNAME : Medicamen Organics Ltd
 SECTOR : Pharmaceuticals
 INDUSTRY : Pharmaceuticals - Indian - Formulations
 LYPD PM 2024
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 - LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

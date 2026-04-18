@@ -1,28 +1,41 @@
-CODES
-542333	RPSGVENT	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	542333	RPSGVENT	
+FULLNAME : RPSG Ventures Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO)
 
-***CONS***
-- NO PRODUCT DEMAND
-- NEGATIVE YProfit : -49.0
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  5599.2  |  6670.1  |  7166.2  |  7950.9  |  9608.4 
- SQoQ%:  |   21.5   |   19.1   |   7.4    |   11.0   |   20.8  
- YOPM%:  |   12.6   |   13.3   |   11.2   |   15.8   |   14.3  
- YNPM%:  |   0.0    |   2.0    |   0.0    |   0.0    |   0.0   
-YPROFIT: |  -95.7   |  131.4   |  -152.7  |  -42.5   |  -49.0  
- PQoQ%:  |   40.8   |  -237.3  |  -216.2  |  -72.2   |   15.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2020.0  |  2516.3  |  2165.7  |  2385.0  |  2541.3 
- QoQ%:  |   9.4    |   24.6   |  -13.9   |   10.1   |   6.5   
- QOPM%: |   10.8   |   21.9   |   10.1   |   11.2   |   13.2  
- QNPM%: |   0.0    |   4.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |  -99.8   |  101.9   |  -77.8   |  -60.0   |  -13.1  
- PQoQ%: |   63.3   |  -202.1  |  -176.4  |  -23.0   |  -78.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 114.0		161.5		161.5		161.5		225.5		169.2
+SQoQ%: 	78.4		41.7		0.0		0.0		39.6		75.0
+YOPM%: 	48.6		47.9		44.8		22.5		16.6
+YNPM%: 	111.7		89.6		47.2		80.1		65.8
+YPROFIT: 127.3		144.7		76.2		129.3		148.4		10.4
+PQoQ%: 	-27.0		13.6		-47.3		69.6		14.7		7.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 70.4		74.4		56.4		56.4		56.4
+QoQ%: 	74.3		5.7		-24.2		-0.0		0.0
+QOPM%: 	12.3		38.2		8.7		0.2		6.2
+QNPM%: 	10.6		180.3		10.3		3.6		4.6
+QPFT: 	7.5		134.1		5.8		2.0		2.6
+PQoQ%: 	456.7		1697.3		-95.7		-65.2		28.9
+
+
 
 ***PROS***
+- Last 3QSALES is about 75% YSales
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 
-YSALES in Mar-2025 is at 9608.4 showing a QoQ_growth of 20.8%. The YNETPROFIT grew by 15.5% to -49.0
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+225.50cr, QoQ 39.60% & YoY 97.81% SALES;
+37.40cr, QoQ 2.70% & YoY -32.49% OPERATING PROFIT;
+148.40cr, QoQ 14.70% & YoY 16.58% NET PROFIT;
+OPM %: 16.60% vs 22.5%
+NPM %: 65.80% vs 80.1%
+

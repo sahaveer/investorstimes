@@ -1,13 +1,12 @@
-CODES
-RAJINDLTD	
+CODES	RAJINDLTD	
+FULLNAME : Rajputana Industries Ltd
 SECTOR : Non Ferrous Metals
 INDUSTRY : Mining / Minerals / Metals
 
-***CONS***
-- NO PRODUCT DEMAND
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
@@ -16,6 +15,9 @@ ROCE in Mar2024 is at 22.5%
 
 YSALES in Mar-2024 is at 326.5 showing a QoQ_growth of 28.2%. The YNETPROFIT grew by 65.5% to 5.1
 - RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2024 is at 4.9%. The QPROFIT QoQ_growth by 25.0%
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Quarterly 
 31-Dec-2024 #Result

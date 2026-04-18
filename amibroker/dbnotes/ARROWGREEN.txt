@@ -1,36 +1,43 @@
-CODES
-516064	ARROWGREEN	
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
+CODES	516064	ARROWGREEN	
+FULLNAME : Arrow Greentech Ltd
+SECTOR : Industrial Products
+INDUSTRY : Packaging
 PRODUCT DEMAND
+BestQ Dec 2025
 YSD YPD 2023
 LYPD PM 2025
 YS15 YPD 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   52.4   |   33.7   |  108.8   |  148.5   |  243.4  
- SQoQ%:  |  137.9   |  -35.7   |  223.0   |   36.5   |   63.9  
- YOPM%:  |   16.6   |   0.0    |   21.8   |   31.3   |   36.3  
- YNPM%:  |   12.2   |   0.0    |   11.3   |   19.9   |   25.9  
-YPROFIT: |   6.4    |   -9.3   |   12.3   |   29.5   |   63.1  
- PQoQ%:  |  -164.4  |  -245.6  |  -231.6  |  140.3   |  113.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   50.6   |   66.1   |   64.8   |   55.1   |   57.3  
- QoQ%:  |  103.2   |   30.6   |   -1.9   |  -15.0   |   4.0   
- QOPM%: |   30.9   |   42.4   |   40.6   |   32.5   |   28.0  
- QNPM%: |   20.0   |   30.5   |   28.8   |   23.3   |   20.0  
- QPFT:  |   10.1   |   20.2   |   18.7   |   12.9   |   11.4  
- PQoQ%: |  106.7   |   98.9   |   -7.4   |  -31.1   |  -11.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 52.4		33.7		108.8		148.5		243.4		158.8
+SQoQ%: 	137.9		-35.7		223.0		36.5		63.9		65.2
+YOPM%: 	16.6		0.0		21.8		31.3		36.4
+YNPM%: 	12.2		0.0		11.3		19.9		25.9
+YPROFIT: 6.4		-9.3		12.3		29.5		63.1		39.9
+PQoQ%: 	-164.4		-245.6		-231.6		140.3		113.9		63.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 55.1		57.3		41.6		61.1		56.1
+QoQ%: 	-15.0		4.0		-27.4		46.8		-8.2
+QOPM%: 	32.5		28.0		34.3		34.0		34.3
+QNPM%: 	23.3		20.0		26.2		25.8		23.7
+QPFT: 	12.9		11.4		10.9		15.7		13.3
+PQoQ%: 	-31.1		-11.0		-4.7		44.4		-15.4
+
+
 
 ***PROS***
 A DEBT-Free Company for the last 2 yrs
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 40.8%
+ROCE in Mar2025 is at 41.3%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 65% YSales
+- Last 3QPROFIT is about 63% of YProfit
 - YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2023
 - LastYr YProfits Doubled and maintained in Mar2025
@@ -38,11 +45,13 @@ ROCE in Mar2025 is at 40.8%
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
 As on Mar2025, Sales have increased by 63.9% while the Profit QoQ_growth is much better than Sales itself at 113.9%
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 243.40cr, QoQ 63.90% & YoY 364.50% SALES;
-88.40cr, QoQ 90.00% & YoY 916.09% OPERATING PROFIT;
+88.60cr, QoQ 90.50% & YoY 918.39% OPERATING PROFIT;
 63.10cr, QoQ 113.90% & YoY 885.94% NET PROFIT;
-OPM %: 36.30% vs 31.3%
+OPM %: 36.40% vs 31.3%
 NPM %: 25.90% vs 19.9%
 

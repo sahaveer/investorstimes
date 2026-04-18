@@ -1,35 +1,44 @@
-CODES
-540025	ADVENZYMES	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+CODES	540025	ADVENZYMES	
+FULLNAME : Advanced Enzyme Technologies Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Biotechnology
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  501.8   |  529.4   |  540.6   |  623.9   |  636.9  
- SQoQ%:  |   13.0   |   5.5    |   2.1    |   15.4   |   2.1   
- YOPM%:  |   46.3   |   38.3   |   29.3   |   33.0   |   30.5  
- YNPM%:  |   29.1   |   22.6   |   19.5   |   21.4   |   20.6  
-YPROFIT: |  145.9   |  119.6   |  105.6   |  133.3   |  131.1  
- PQoQ%:  |   12.9   |  -18.1   |  -11.7   |   26.2   |   -1.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  157.8   |  154.5   |  146.1   |  169.1   |  167.2  
- QoQ%:  |   -1.9   |   -2.1   |   -5.4   |   15.7   |   -1.1  
- QOPM%: |   35.1   |   33.1   |   29.0   |   32.7   |   27.3  
- QNPM%: |   17.9   |   22.1   |   22.5   |   22.3   |   15.8  
- QPFT:  |   28.3   |   34.2   |   32.8   |   37.6   |   26.5  
- PQoQ%: |  -32.2   |   20.6   |   -3.9   |   14.7   |  -29.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 501.8		529.4		540.6		623.9		636.9		542.4
+SQoQ%: 	13.0		5.5		2.1		15.4		2.1		85.2
+YOPM%: 	46.3		38.3		29.3		33.0		30.7
+YNPM%: 	29.1		22.6		19.5		21.4		20.6
+YPROFIT: 146.2		119.6		105.6		133.3		131.1		125.7
+PQoQ%: 	13.1		-18.2		-11.7		26.2		-1.6		95.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 169.1		167.2		185.9		184.5		172.0
+QoQ%: 	15.7		-1.1		11.2		-0.7		-6.8
+QOPM%: 	32.7		27.3		30.4		32.5		28.7
+QNPM%: 	22.3		15.8		21.5		23.5		24.7
+QPFT: 	37.6		26.5		39.9		43.3		42.5
+PQoQ%: 	14.7		-29.7		50.8		8.5		-1.9
+
+
 
 ***PROS***
 A DEBT-Free Company
+- Last 3QSALES is about 85% YSales
+- Last 3QPROFIT is about 96% of YProfit
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 636.90cr, QoQ 2.10% & YoY 26.92% SALES;
-194.40cr, QoQ -5.60% & YoY -16.42% OPERATING PROFIT;
-131.10cr, QoQ -1.60% & YoY -10.14% NET PROFIT;
-OPM %: 30.50% vs 33.0%
+195.50cr, QoQ -5.10% & YoY -15.91% OPERATING PROFIT;
+131.10cr, QoQ -1.60% & YoY -10.33% NET PROFIT;
+OPM %: 30.70% vs 33.0%
 NPM %: 20.60% vs 21.4%
 

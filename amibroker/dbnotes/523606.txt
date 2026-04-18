@@ -1,43 +1,51 @@
-CODE	NAME
-523606 
-
-SECTOR : Aerospace & Defence
-INDUSTRY : Engineering
+CODES	523606	
+FULLNAME : Sika Interplant Systems Ltd
+SECTOR : Aerospace & Defense
+INDUSTRY : Aerospace & Defense
+BestQ Dec 2025
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   79.7   |   98.4   |   60.0   |  106.0   |  147.7  
- SQoQ%:  |   27.0   |   23.5   |  -39.0   |   76.7   |   39.3  
- YOPM%:  |   18.4   |   20.3   |   17.0   |   18.8   |   19.5  
- YNPM%:  |   14.9   |   16.9   |   14.6   |   18.3   |   17.2  
-YPROFIT: |   11.9   |   16.6   |   8.8    |   19.4   |   25.3  
- PQoQ%:  |   68.4   |   39.6   |  -47.0   |  120.3   |   30.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   37.2   |   30.4   |   33.2   |   38.0   |   46.0  
- QoQ%:  |   42.9   |  -18.1   |   9.3    |   14.3   |   21.2  
- QOPM%: |   17.7   |   20.2   |   20.7   |   20.6   |   17.3  
- QNPM%: |   16.3   |   17.4   |   18.6   |   18.8   |   17.2  
- QPFT:  |   6.0    |   5.3    |   6.2    |   7.2    |   7.9   
- PQoQ%: |   27.6   |  -12.7   |   17.2   |   15.5   |   10.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 79.7		98.4		60.0		106.0		147.7		169.9
+SQoQ%: 	27.0		23.5		-39.0		76.7		39.3		115.0
+YOPM%: 	18.4		20.3		17.0		18.8		19.6
+YNPM%: 	14.9		16.9		14.6		18.3		17.2
+YPROFIT: 11.9		16.6		8.8		19.4		25.3		28.8
+PQoQ%: 	68.4		39.6		-47.0		120.3		30.9		113.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 38.0		46.0		68.0		51.6		50.3
+QoQ%: 	14.3		21.2		47.8		-24.2		-2.5
+QOPM%: 	20.6		17.3		18.4		20.6		23.1
+QNPM%: 	18.8		17.2		15.2		17.3		18.9
+QPFT: 	7.2		7.9		10.4		8.9		9.5
+PQoQ%: 	15.5		10.6		30.8		-13.6		6.2
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 23.4%
+ROCE in Mar2025 is at 23.5%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 115% YSales
+- Last 3QPROFIT is about 114% of YProfit
 - LastYr YProfits Doubled and maintained in Mar2025
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2025, Sales have increased by 39.3% while the Profit QoQ_growth is at 30.9%
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 147.70cr, QoQ 39.30% & YoY 85.32% SALES;
-28.80cr, QoQ 44.40% & YoY 97.26% OPERATING PROFIT;
+28.90cr, QoQ 44.90% & YoY 97.95% OPERATING PROFIT;
 25.30cr, QoQ 30.90% & YoY 112.61% NET PROFIT;
-OPM %: 19.50% vs 18.8%
+OPM %: 19.60% vs 18.8%
 NPM %: 17.20% vs 18.3%
 

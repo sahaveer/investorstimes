@@ -1,28 +1,34 @@
-CODES
-539436	COFFEEDAY	
-SECTOR : Quick Service Restaurant
-INDUSTRY : Hotels
-PRODUCT DEMAND
+CODES	539436	COFFEEDAY	
+FULLNAME : Coffee Day Enterprises Ltd
+SECTOR : Leisure Services
+INDUSTRY : Restaurants
+LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -322.5
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  2552.4  |  888.4   |  625.6   |  994.0   |  1091.2  |     809.8    
- SQoQ%:  |  -34.4   |  -65.2   |  -29.6   |   58.9   |   9.8    |      74.2    
- YOPM%:  |   0.0    |   0.0    |   0.1    |   0.0    |   15.2   |              
- YNPM%:  |   73.8   |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |  1883.5  |  -583.9  |  -120.6  |  -379.8  |  -322.5  |     -25.0    
- PQoQ%:  |  1377.2  |  -131.0  |  -79.3   |  214.9   |  -15.1   |      7.8     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  256.9   |  250.6   |  260.1   |  269.3   |  280.4  
- QoQ%:  |   -0.6   |   -2.4   |   3.8    |   3.6    |   4.1   
- QOPM%: |   17.4   |   12.9   |   14.4   |   8.9    |   13.0  
- QNPM%: |   26.9   |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   69.2   |  -302.7  |  -11.4   |   -3.3   |  -10.3  
- PQoQ%: |  -163.2  |  -537.4  |  -96.2   |  -71.3   |  212.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 888.4		625.6		994.0		1091.2		1159.4		835.2
+SQoQ%: 	-68.2		-29.6		58.9		9.8		6.3		72.0
+YOPM%: 	0.0		0.1		0.0		15.2		11.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -583.9		-120.6		-379.8		-322.5		-58.0		71.0
+PQoQ%: 	-131.0		-79.3		214.9		-15.1		-82.0		-122.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 280.4		268.0		269.3		279.5		286.4
+QoQ%: 	4.1		-4.4		0.5		3.8		2.5
+QOPM%: 	13.0		10.5		12.0		11.3		12.2
+QNPM%: 	0.0		0.0		10.5		0.0		19.3
+QPFT: 	-10.3		-33.0		28.2		-12.5		55.3
+PQoQ%: 	212.5		221.2		-185.3		-144.2		-543.8
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 74% YSales
+- Last 3QSALES is about 72% YSales
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -58.0

@@ -1,12 +1,14 @@
-CODES
-543940	JIOFIN	
+CODES	543940	JIOFIN	
+FULLNAME : Jio Financial Services Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Investment Company
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

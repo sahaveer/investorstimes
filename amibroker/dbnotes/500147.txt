@@ -1,29 +1,38 @@
-CODE	NAME
-500147 
+CODES	500147	
+FULLNAME : John Cockerill India Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
+BestQ Dec 2025
+LYPD PM 2025
 
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
-EXPANSION 2024
+***YEARLY***
+YPNL: 	Mar-2023	Dec-2023	Mar-2024	Dec-2024	Dec-2025	QSUM:Dec-2025
+YSALES: 483.7		666.6		388.7		388.7		357.6		281.2
+SQoQ%: 	26.4		37.8		-41.7		0.0		-8.0		78.6
+YOPM%: 	1.9		4.0		0.0		0.0		6.4
+YNPM%: 	2.7		3.2		0.0		0.0		2.9
+YPROFIT: 12.9		21.6		-5.4		-5.4		10.3		11.0
+PQoQ%: 	177.8		67.9		-124.9		0.0		-291.6		106.8
 
-***CONS***
-- NEGATIVE YProfit : -5.4
- YPNL:   | Mar-2022 | Mar-2023 | Dec-2023 | Mar-2024 | Dec-2024
----------+----------+----------+----------+----------+---------
-YSALES:  |  382.8   |  483.7   |  666.6   |  388.7   |  388.7  
- SQoQ%:  |   93.3   |   26.4   |   37.8   |  -41.7   |   0.0   
- YOPM%:  |   3.6    |   1.9    |   4.0    |   0.0    |   0.0   
- YNPM%:  |   1.2    |   2.7    |   3.2    |   0.0    |   0.0   
-YPROFIT: |   4.6    |   12.9   |   21.6   |   -5.4   |   -5.4  
- PQoQ%:  |  -116.0  |  177.8   |   67.9   |  -124.9  |   0.0   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  147.1   |   93.3   |   76.0   |   72.3   |   76.4  
- QoQ%:  |  -42.1   |  -36.6   |  -18.5   |   -4.9   |   5.6   
- QOPM%: |   3.2    |   0.6    |   0.0    |   0.0    |   0.0   
- QNPM%: |   2.5    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   3.6    |   -0.0   |   -7.5   |   -1.5   |   -0.8  
- PQoQ%: |  -64.9   |  -100.8  | 24900.0  |  -80.4   |  -49.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 72.3		76.4		82.1		97.0		102.1
+QoQ%: 	-4.9		5.6		7.5		18.1		5.2
+QOPM%: 	0.0		0.0		2.4		11.7		9.9
+QNPM%: 	0.0		0.0		2.1		9.2		0.4
+QPFT: 	-1.5		-0.8		1.7		8.9		0.4
+PQoQ%: 	-80.4		-49.0		-329.3		418.6		-95.3
+
+
 
 ***PROS***
-A DEBT-Free Company
-EXPANSION ??- EXPANSION underway in Dec-2024, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+A DEBT-Free Company for the last 2 yrs
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 107% of YProfit
+- YProfit Turned POSITIVE this year Dec-2025 : 10.3
+- LastYr YProfits Doubled and maintained in Dec2025
+
+***CONS***
+- NO PRODUCT DEMAND

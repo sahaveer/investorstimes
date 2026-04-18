@@ -1,4 +1,4 @@
-CODES
-544323	CONSUMER	
+CODES	544323	CONSUMER	
+FULLNAME : Mirae Asset Nifty India New Age Consumption ETF
 SECTOR : 
 INDUSTRY : 

@@ -1,34 +1,42 @@
-CODES
-542907	PRINCEPIPE	
-SECTOR : 
-INDUSTRY : 
+CODES	542907	PRINCEPIPE	
+FULLNAME : Prince Pipes & Fittings Ltd
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial
+PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1635.7  |  2071.5  |  2656.8  |  2710.9  |  2568.8  |     1804.3   
- SQoQ%:  |   4.1    |   26.6   |   28.3   |   2.0    |   -5.2   |      70.2    
- YOPM%:  |   14.1   |   17.6   |   15.7   |   9.2    |   12.0   |              
- YNPM%:  |   6.9    |   10.7   |   9.4    |   4.5    |   7.1    |              
-YPROFIT: |  112.5   |  221.8   |  249.4   |  121.4   |  182.5   |      19.0    
- PQoQ%:  |   37.0   |   97.2   |   12.4   |  -51.3   |   50.3   |      10.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  618.6   |  740.1   |  604.5   |  622.1   |  577.7  
- QoQ%:  |   -5.8   |   19.6   |  -18.3   |   2.9    |   -7.1  
- QOPM%: |   12.2   |   12.5   |   9.6    |   7.3    |   0.5   
- QNPM%: |   6.1    |   7.4    |   4.1    |   2.4    |   0.0   
- QPFT:  |   37.6   |   54.6   |   24.7   |   14.7   |  -20.4  
- PQoQ%: |  -46.7   |   45.2   |  -54.9   |  -40.4   |  -238.8 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2071.5		2656.8		2710.9		2568.8		2523.9		1748.3
+SQoQ%: 	26.6		28.3		2.0		-5.2		-1.7		69.3
+YOPM%: 	17.6		15.7		9.2		12.0		6.4
+YNPM%: 	10.7		9.4		4.5		7.1		1.7
+YPROFIT: 221.8		249.4		121.4		182.5		43.1		17.0
+PQoQ%: 	97.2		12.4		-51.3		50.3		-76.4		39.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 577.7		719.6		580.4		594.6		573.3
+QoQ%: 	-7.1		24.6		-19.3		2.4		-3.6
+QOPM%: 	0.8		7.6		6.8		9.2		4.9
+QNPM%: 	0.0		3.4		0.8		2.5		0.0
+QPFT: 	-20.4		24.2		4.8		14.6		-2.4
+PQoQ%: 	-238.8		-218.4		-80.1		203.5		-116.3
+
+
 
 ***PROS***
-- Last 3QSALES is about 70% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 69% YSales
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-2568.80cr, QoQ -5.20% & YoY 57.05% SALES;
-307.40cr, QoQ 22.80% & YoY 33.59% OPERATING PROFIT;
-182.50cr, QoQ 50.30% & YoY 62.22% NET PROFIT;
-OPM %: 12.00% vs 9.2%
-NPM %: 7.10% vs 4.5%
+ 31-Mar-2025 #Result
+2523.90cr, QoQ -1.70% & YoY 21.84% SALES;
+162.20cr, QoQ -47.20% & YoY -55.43% OPERATING PROFIT;
+43.10cr, QoQ -76.40% & YoY -80.57% NET PROFIT;
+OPM %: 6.40% vs 12.0%
+NPM %: 1.70% vs 7.1%
 

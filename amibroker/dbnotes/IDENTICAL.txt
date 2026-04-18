@@ -1,10 +1,11 @@
-CODES
-IDENTICAL	
+CODES	IDENTICAL	
+FULLNAME : Identical Brains Studios Ltd
 SECTOR : Entertainment
 INDUSTRY : Entertainment / Electronic Media Software
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

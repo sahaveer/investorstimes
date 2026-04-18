@@ -1,38 +1,42 @@
-CODE	NAME
-526043 
+CODES	526043	
+FULLNAME : Polymechplast Machines Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
+PRODUCT DEMAND
 
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 60.9		83.4		69.2		59.0		64.9		47.2
+SQoQ%: 	38.7		37.0		-17.0		-14.7		9.9		72.7
+YOPM%: 	6.4		6.6		4.1		3.3		2.6
+YNPM%: 	4.6		4.1		2.2		1.2		1.1
+YPROFIT: 2.8		3.4		1.5		0.7		0.7		0.2
+PQoQ%: 	61.6		24.1		-55.4		-53.2		-2.8		28.6
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   43.9   |   60.9   |   83.4   |   69.2   |   59.0   |      45.7    
- SQoQ%:  |   nan    |   38.7   |   37.0   |  -17.0   |  -14.7   |      77.5    
- YOPM%:  |   6.4    |   6.4    |   6.6    |   4.1    |   3.2    |              
- YNPM%:  |   3.9    |   4.6    |   4.1    |   2.2    |   1.2    |              
-YPROFIT: |   1.7    |   2.8    |   3.4    |   1.5    |   0.7    |      0.5     
- PQoQ%:  |   nan    |   61.6   |   24.1   |  -55.4   |  -53.2   |      71.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   13.3   |   17.8   |   14.3   |   16.4   |   15.0  
- QoQ%:  |  -15.1   |   33.7   |  -19.7   |   14.8   |   -8.4  
- QOPM%: |   3.5    |   4.7    |   0.0    |   5.2    |   3.6   
- QNPM%: |   0.8    |   2.9    |   0.0    |   3.1    |   1.5   
- QPFT:  |   0.1    |   0.5    |   -0.2   |   0.5    |   0.2   
- PQoQ%: |  -84.6   |  420.0   |  -144.2  |  -321.7  |  -56.9  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 15.0		19.2		12.0		15.0		20.2
+QoQ%: 	-8.4		27.7		-37.5		25.0		35.1
+QOPM%: 	3.6		2.1		0.0		1.1		5.4
+QNPM%: 	1.5		1.0		0.0		0.0		3.0
+QPFT: 	0.2		0.2		-0.3		-0.1		0.6
+PQoQ%: 	-56.9		-9.1		-245.0		-69.0		-777.8
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 77% YSales
-- Last 3QPROFIT is about 71% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 73% YSales
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-59.00cr, QoQ -14.70% & YoY 34.40% SALES;
-1.90cr, QoQ -33.10% & YoY -32.14% OPERATING PROFIT;
-0.70cr, QoQ -53.20% & YoY -58.82% NET PROFIT;
-OPM %: 3.20% vs 4.1%
-NPM %: 1.20% vs 2.2%
+ 31-Mar-2025 #Result
+64.90cr, QoQ 9.90% & YoY 6.57% SALES;
+1.70cr, QoQ -12.40% & YoY -56.41% OPERATING PROFIT;
+0.70cr, QoQ -2.80% & YoY -75.00% NET PROFIT;
+OPM %: 2.60% vs 3.3%
+NPM %: 1.10% vs 1.2%
 

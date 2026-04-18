@@ -1,15 +1,17 @@
-CODES
-544142	SCILAL	
-SECTOR : 
-INDUSTRY : 
+CODES	544142	SCILAL	
+FULLNAME : Shipping Corporation of India Land & Assets Ltd
+SECTOR : Finance
+INDUSTRY : Investment Company
 PRODUCT DEMAND
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 
+
+***CONS***

@@ -1,15 +1,16 @@
-CODES
-KALANA	
+CODES	KALANA	
+FULLNAME : Kalana Ispat Ltd
 SECTOR : Steel
 INDUSTRY : Steel - Medium / Small
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

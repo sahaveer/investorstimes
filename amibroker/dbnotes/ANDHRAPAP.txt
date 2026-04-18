@@ -1,35 +1,42 @@
-CODES
-502330	ANDHRAPAP	
-SECTOR : 
-INDUSTRY : 
+CODES	502330	ANDHRAPAP	
+FULLNAME : Andhra Paper Ltd
+SECTOR : Paper, Forest & Jute Products
+INDUSTRY : Paper & Paper Products
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  886.8   |  1380.2  |  2097.7  |  1800.6  |  1541.2 
- SQoQ%:  |  -30.2   |   55.7   |   52.0   |  -14.2   |  -14.4  
- YOPM%:  |   6.9    |   16.2   |   35.2   |   24.0   |   8.7   
- YNPM%:  |   0.0    |   10.1   |   24.9   |   18.9   |   5.8   
-YPROFIT: |   -4.6   |  139.7   |  522.5   |  339.7   |   88.9  
- PQoQ%:  |  -102.2  | -3137.6  |  273.9   |  -35.0   |  -73.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  364.4   |  315.9   |  432.3   |  385.7   |  407.4  
- QoQ%:  |  -23.5   |  -13.3   |   36.8   |  -10.8   |   5.6   
- QOPM%: |   9.7    |   10.7   |   12.1   |   7.3    |   5.0   
- QNPM%: |   10.5   |   8.8    |   9.7    |   3.0    |   1.9   
- QPFT:  |   38.4   |   27.7   |   41.7   |   11.6   |   7.8   
- PQoQ%: |  -53.4   |  -27.9   |   50.7   |  -72.1   |  -32.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 886.8		1380.2		2097.7		1800.6		1541.2		1174.2
+SQoQ%: 	-30.2		55.7		52.0		-14.2		-14.4		76.2
+YOPM%: 	6.9		16.2		35.2		24.0		9.0
+YNPM%: 	0.0		10.1		24.9		18.9		5.8
+YPROFIT: -4.6		139.7		522.5		339.7		88.9		10.8
+PQoQ%: 	-102.2		-3137.6		273.9		-35.0		-73.8		12.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 385.7		407.4		393.4		362.1		418.7
+QoQ%: 	-10.8		5.6		-3.4		-8.0		15.6
+QOPM%: 	7.3		5.0		8.5		0.0		3.7
+QNPM%: 	3.0		1.9		5.4		0.0		2.4
+QPFT: 	11.6		7.8		21.3		-20.3		9.8
+PQoQ%: 	-72.1		-32.6		171.5		-195.1		-148.6
+
+
 
 ***PROS***
+- Last 3QSALES is about 76% YSales
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 1541.20cr, QoQ -14.40% & YoY 73.79% SALES;
-134.60cr, QoQ -68.90% & YoY 120.29% OPERATING PROFIT;
+139.40cr, QoQ -67.70% & YoY 128.15% OPERATING PROFIT;
 88.90cr, QoQ -73.80% & YoY -2032.61% NET PROFIT;
-OPM %: 8.70% vs 24.0%
+OPM %: 9.00% vs 24.0%
 NPM %: 5.80% vs 18.9%
 

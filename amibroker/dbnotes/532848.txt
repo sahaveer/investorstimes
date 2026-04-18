@@ -1,39 +1,46 @@
-CODES
-532848	DELTACORP	
-SECTOR : Miscellaneous
-INDUSTRY : Recreation / Amusement Parks
+CODES	532848	DELTACORP	
+FULLNAME : Delta Corp Ltd
+SECTOR : Leisure Services
+INDUSTRY : Amusement Parks/ Other Recreation
 PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  418.9   |  616.1   |  964.5   |  925.3   |  729.6  
- SQoQ%:  |  -45.8   |   47.1   |   56.5   |   -4.1   |  -21.1  
- YOPM%:  |   5.3    |   22.6   |   38.0   |   33.1   |   25.6  
- YNPM%:  |   0.0    |   10.9   |   27.1   |   26.4   |   34.1  
-YPROFIT: |  -24.1   |   67.0   |  261.4   |  244.2   |  249.0  
- PQoQ%:  |  -113.0  |  -378.0  |  290.2   |   -6.6   |   1.9   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  184.9   |  180.6   |  187.6   |  186.9   |  182.6  
- QoQ%:  |  -12.0   |   -2.3   |   3.9    |   -0.4   |   -2.3  
- QOPM%: |   26.1   |   16.9   |   18.0   |   26.0   |   22.2  
- QNPM%: |   39.2   |   12.0   |   14.4   |   19.1   |   90.1  
- QPFT:  |   72.4   |   21.7   |   27.0   |   35.7   |  164.6  
- PQoQ%: |  110.0   |  -70.1   |   24.4   |   32.4   |  360.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 418.9		616.1		964.5		848.3		729.6		527.3
+SQoQ%: 	-45.8		47.1		56.5		-12.0		-14.0		72.3
+YOPM%: 	5.3		22.6		38.0		37.0		26.6
+YNPM%: 	0.0		10.9		27.1		28.8		34.1
+YPROFIT: -24.1		67.0		261.4		244.2		249.0		68.9
+PQoQ%: 	-113.0		-378.0		290.2		-6.6		1.9		27.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 186.9		182.6		184.2		182.8		160.3
+QoQ%: 	-0.4		-2.3		0.8		-0.8		-12.3
+QOPM%: 	26.0		22.2		21.2		21.7		14.0
+QNPM%: 	19.1		90.1		16.0		13.7		8.9
+QPFT: 	35.7		164.6		29.5		25.1		14.3
+PQoQ%: 	32.4		360.6		-82.1		-14.8		-43.1
+
+
 
 ***PROS***
 A DEBT-Free Company for the last 2 yrs
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 72% YSales
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
-729.60cr, QoQ -21.10% & YoY 74.17% SALES;
-186.50cr, QoQ -39.10% & YoY 743.89% OPERATING PROFIT;
+729.60cr, QoQ -14.00% & YoY 74.17% SALES;
+194.20cr, QoQ -38.20% & YoY 778.73% OPERATING PROFIT;
 249.00cr, QoQ 1.90% & YoY -1133.20% NET PROFIT;
-OPM %: 25.60% vs 33.1%
-NPM %: 34.10% vs 26.4%
+OPM %: 26.60% vs 37.0%
+NPM %: 34.10% vs 28.8%
 

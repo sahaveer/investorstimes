@@ -1,40 +1,51 @@
-CODES
-538268	WONDERLA	
-SECTOR : 
-INDUSTRY : 
+CODES	538268	WONDERLA	
+FULLNAME : Wonderla Holidays Ltd
+SECTOR : Leisure Services
+INDUSTRY : Amusement Parks/ Other Recreation
+BestQ Dec 2025
+BestQ Dec 2025
 YSD YPD 2023
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   38.4   |  128.6   |  429.2   |  483.0   |  458.6  
- SQoQ%:  |  -85.8   |  234.7   |  233.8   |   12.5   |   -5.1  
- YOPM%:  |   0.0    |   17.1   |   49.7   |   47.5   |   32.1  
- YNPM%:  |   0.0    |   0.0    |   34.7   |   32.7   |   23.8  
-YPROFIT: |  -49.9   |   -9.5   |  148.9   |  158.0   |  109.3  
- PQoQ%:  |  -177.1  |  -81.0   | -1670.7  |   6.1    |  -30.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   99.7   |  172.9   |   67.4   |  121.5   |   96.8  
- QoQ%:  |  -19.3   |   73.4   |  -61.0   |   80.3   |  -20.4  
- QOPM%: |   35.5   |   52.9   |   0.0    |   30.6   |   20.4  
- QNPM%: |   22.7   |   36.6   |   21.8   |   16.7   |   11.4  
- QPFT:  |   22.6   |   63.2   |   14.7   |   20.3   |   11.0  
- PQoQ%: |  -39.5   |  179.7   |  -76.7   |   37.9   |  -45.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 38.4		128.6		429.2		483.0		458.6		382.9
+SQoQ%: 	-85.8		234.7		233.8		12.5		-5.1		83.5
+YOPM%: 	0.0		17.1		49.7		47.5		32.4
+YNPM%: 	0.0		0.0		34.7		32.7		23.8
+YPROFIT: -49.9		-9.5		148.9		158.0		109.3		65.3
+PQoQ%: 	-177.1		-81.0		-1670.7		6.1		-30.8		59.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 121.5		96.8		168.2		80.2		134.5
+QoQ%: 	80.3		-20.4		73.8		-52.4		67.8
+QOPM%: 	30.6		20.4		45.6		9.3		29.9
+QNPM%: 	16.7		11.4		31.2		0.0		10.8
+QPFT: 	20.3		11.0		52.6		-1.8		14.5
+PQoQ%: 	37.9		-45.8		377.5		-103.3		-927.4
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 83% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 60% of YProfit
 - YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2023
 
 
+***CONS***
+- NO PRODUCT DEMAND
+
 Yearly 
  31-Mar-2025 #Result
 458.60cr, QoQ -5.10% & YoY 1094.27% SALES;
-147.20cr, QoQ -35.80% & YoY -618.31% OPERATING PROFIT;
+148.60cr, QoQ -35.20% & YoY -623.24% OPERATING PROFIT;
 109.30cr, QoQ -30.80% & YoY -319.04% NET PROFIT;
-OPM %: 32.10% vs 47.5%
+OPM %: 32.40% vs 47.5%
 NPM %: 23.80% vs 32.7%
 

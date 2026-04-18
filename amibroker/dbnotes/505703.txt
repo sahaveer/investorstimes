@@ -1,28 +1,31 @@
-CODE	NAME
-505703 
+CODES	505703	
+FULLNAME : Satani Bearings Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 
-SECTOR : Trading
-INDUSTRY : Trading
-LYPD PM 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.0		0.0		0.0		0.0		0.0		19.0
+SQoQ%: 	-30.5		-98.0		-50.0		-100.0		nan		inf
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -0.3		-0.4		-0.4		-0.2		-0.2		-0.1
+PQoQ%: 	-6.9		51.9		2.4		-57.1		-11.1		50.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		19.0
+QoQ%: 	nan		nan		nan		nan		inf
+QOPM%: 	0.0		0.0		0.0		0.0		0.5
+QNPM%: 	0.0		0.0		0.0		0.0		0.8
+QPFT: 	-0.0		-0.0		-0.3		-0.0		0.2
+PQoQ%: 	25.0		0.0		420.0		-84.6		-475.0
+
+
+
+***PROS***
 
 ***CONS***
 - NEGATIVE YProfit : -0.2
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.4    |   1.0    |   0.0    |   0.0    |   0.0    |      0.0     
- SQoQ%:  |   98.6   |  -30.5   |  -98.0   |  -50.0   |  -100.0  |      nan     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -0.3   |   -0.3   |   -0.4   |   -0.4   |   -0.2   |      -0.0    
- PQoQ%:  |  -42.0   |   -6.9   |   51.9   |   2.4    |  -57.1   |      0.0     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.0   |   -0.0   |   -0.0   |   -0.0   |   -0.0  
- PQoQ%: |   0.0    |   0.0    |  -25.0   |   33.3   |   25.0  
-
-***PROS***
-- LastYr YProfits Doubled and maintained in Mar2024

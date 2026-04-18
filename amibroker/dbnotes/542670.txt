@@ -1,13 +1,34 @@
-CODE	NAME
-542670 
+CODES	542670	AEPL	
+FULLNAME : Artemis Electricals & Projects Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Other Electrical Equipment
+EXPANSION 2024
+EXPANSION 2025
+PRODUCT DEMAND
+BestQ Dec 2025
 
-SECTOR : Capital Goods - Electrical Equipment
-INDUSTRY : Electric Equipment
-
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 55% YSales
+- Last 3QPROFIT is about 74% of YProfit
+
+YSALES in Mar-2025 is at 72.4 showing a QoQ_growth of 74.9%. The YNETPROFIT grew by 93.8% to 7.6
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+72.40cr, QoQ 74.90% SALES;
+11.20cr, QoQ 44.40% OPERATING PROFIT;
+7.60cr, QoQ 93.80% NET PROFIT;
+OPM %: 15.40% vs 18.7%
+NPM %: 10.40% vs 9.4%
+

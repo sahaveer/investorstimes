@@ -1,13 +1,14 @@
-CODE	NAME
-511391 
-
+CODES	511391	
+FULLNAME : Inter Globe Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

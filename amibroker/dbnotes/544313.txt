@@ -1,13 +1,11 @@
-CODE	NAME
-544313 
-
+CODES	544313	
+FULLNAME : Nacdac Infrastructure Ltd
 SECTOR : Construction
 INDUSTRY : Construction
 PRODUCT DEMAND
 YSD YPD 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -15,6 +13,8 @@ YSD YPD 2024
 - YProfits and YSales DOUBLED in Mar2024
 
 YSALES in Mar-2024 is at 36.2 showing a QoQ_growth of 208.8%. The YNETPROFIT grew by 466.1% to 3.2
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

@@ -1,39 +1,45 @@
-CODE	NAME
-532893 
+CODES	532893	
+FULLNAME : VTM Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+LYPD PM 2025
 
-SECTOR : Textiles
-INDUSTRY : Textiles - Processing
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 142.6		193.8		208.7		208.0		344.5		261.9
+SQoQ%: 	-11.2		35.8		7.7		-0.4		65.7		76.0
+YOPM%: 	11.5		11.9		8.2		12.5		19.4
+YNPM%: 	6.9		7.7		4.4		8.8		13.2
+YPROFIT: 9.8		14.9		9.1		18.3		45.4		10.3
+PQoQ%: 	-19.1		52.1		-38.6		100.1		148.1		22.7
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  160.5   |  142.6   |  193.8   |  208.7   |  208.0   |     235.8    
- SQoQ%:  |   0.5    |  -11.2   |   35.8   |   7.7    |   -0.4   |     113.4    
- YOPM%:  |   10.2   |   11.5   |   11.9   |   8.2    |   12.5   |              
- YNPM%:  |   7.5    |   6.9    |   7.7    |   4.4    |   8.8    |              
-YPROFIT: |   12.1   |   9.8    |   14.9   |   9.1    |   18.3   |      33.2    
- PQoQ%:  |   18.4   |  -19.1   |   52.1   |  -38.6   |  100.1   |     181.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   51.0   |   63.8   |   59.1   |   73.2   |  103.5  
- QoQ%:  |   8.0    |   25.0   |   -7.3   |   23.7   |   41.5  
- QOPM%: |   13.4   |   6.5    |   14.0   |   18.3   |   25.9  
- QNPM%: |   9.0    |   5.5    |   8.8    |   13.4   |   17.6  
- QPFT:  |   4.6    |   3.5    |   5.2    |   9.8    |   18.2  
- PQoQ%: |   -8.5   |  -23.6   |   48.6   |   86.8   |   86.3  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 103.5		108.7		72.0		89.9		100.0
+QoQ%: 	41.5		5.0		-33.8		24.9		11.2
+QOPM%: 	25.9		17.0		11.7		5.6		7.0
+QNPM%: 	17.6		11.2		6.4		2.6		3.4
+QPFT: 	18.2		12.2		4.6		2.3		3.4
+PQoQ%: 	86.3		-33.1		-62.2		-49.6		45.7
+
+
 
 ***PROS***
-DEBT-Free Company for the last 3 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 113% YSales
-- Last 3QPROFIT is about 181% of YProfit
+- Last 3QSALES is about 76% YSales
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 344.5 showing a QoQ_growth of 65.7%. The YNETPROFIT grew by 148.1% to 45.4
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-208.00cr, QoQ -0.40% & YoY 29.60% SALES;
-26.00cr, QoQ 51.40% & YoY 58.54% OPERATING PROFIT;
-18.30cr, QoQ 100.10% & YoY 51.24% NET PROFIT;
-OPM %: 12.50% vs 8.2%
-NPM %: 8.80% vs 4.4%
+ 31-Mar-2025 #Result
+344.50cr, QoQ 65.70% & YoY 141.58% SALES;
+66.90cr, QoQ 157.40% & YoY 310.43% OPERATING PROFIT;
+45.40cr, QoQ 148.10% & YoY 363.27% NET PROFIT;
+OPM %: 19.40% vs 12.5%
+NPM %: 13.20% vs 8.8%
 

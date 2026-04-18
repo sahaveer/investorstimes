@@ -1,21 +1,24 @@
-CODES
-FOCE	
-SECTOR : Retail
-INDUSTRY : Trading
-PRODUCT DEMAND
+CODES	FOCE	
+FULLNAME : Foce India Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
+LYPD PM 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 35.8 showing a QoQ_growth of 116.7%. The YNETPROFIT grew by 100.0% to 1.0
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-16.50cr, QoQ 14.00% & YoY -69.67% SALES;
-1.30cr, QoQ 81.40% & YoY -40.91% OPERATING PROFIT;
-0.50cr, QoQ 172.20% & YoY -68.75% NET PROFIT;
-OPM %: 7.70% vs 4.8%
-NPM %: 3.00% vs 1.2%
+ 31-Mar-2025 #Result
+35.80cr, QoQ 116.70% & YoY -53.45% SALES;
+1.50cr, QoQ 16.50% & YoY -44.44% OPERATING PROFIT;
+1.00cr, QoQ 100.00% & YoY -50.00% NET PROFIT;
+OPM %: 4.10% vs 7.7%
+NPM %: 2.70% vs 3.0%
 

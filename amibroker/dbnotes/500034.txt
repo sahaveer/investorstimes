@@ -1,38 +1,47 @@
-CODES
-500034	BAJFINANCE	
+CODES	500034	BAJFINANCE	
+FULLNAME : Bajaj Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 26672.9  | 31640.6  | 41411.2  | 54971.6  | 69683.5 
- SQoQ%:  |   1.1    |   18.6   |   30.9   |   32.7   |   26.8  
- YOPM%:  |   59.4   |   62.5   |   69.3   |   70.7   |   68.4  
- YNPM%:  |   16.6   |   22.2   |   27.8   |   26.3   |   23.9  
-YPROFIT: |  4419.8  |  7028.2  | 11507.7  | 14451.2  | 16637.8 
- PQoQ%:  |  -16.0   |   59.0   |   63.7   |   25.6   |   15.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 14926.2  | 16098.7  | 17091.2  | 18035.1  | 18456.8 
- QoQ%:  |   5.4    |   7.9    |   6.2    |   5.5    |   2.3   
- QOPM%: |   70.4   |   69.2   |   68.8   |   68.4   |   67.3  
- QNPM%: |   25.6   |   24.3   |   23.4   |   23.5   |   24.3  
- QPFT:  |  3824.5  |  3912.0  |  3999.7  |  4246.5  |  4479.6 
- PQoQ%: |   5.1    |   2.3    |   2.2    |   6.2    |   5.5   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 26672.9		31632.5		41411.2		54973.9		69709.4		60916.7
+SQoQ%: 	1.1		18.6		30.9		32.8		26.8		87.4
+YOPM%: 	59.4		62.4		69.3		70.7		68.8
+YNPM%: 	16.6		22.2		27.8		26.3		23.9
+YPROFIT: 4419.8		7028.2		11507.7		14451.2		16637.8		13552.8
+PQoQ%: 	-16.0		59.0		63.7		25.6		15.1		81.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 18035.1		18456.8		19523.9		20178.9		21213.9
+QoQ%: 	5.5		2.3		5.8		3.4		5.1
+QOPM%: 	68.4		67.3		69.3		68.7		62.6
+QNPM%: 	23.5		24.3		24.1		24.2		18.8
+QPFT: 	4246.5		4479.6		4699.6		4875.4		3977.8
+PQoQ%: 	6.2		5.5		4.9		3.7		-18.4
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 87% YSales
+- Last 3QPROFIT is about 81% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2025, Sales have increased by 26.8% while the Profit QoQ_growth is at 15.1%
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
-69683.50cr, QoQ 26.80% & YoY 161.25% SALES;
-47672.30cr, QoQ 22.60% & YoY 201.08% OPERATING PROFIT;
+69709.40cr, QoQ 26.80% & YoY 161.35% SALES;
+47955.20cr, QoQ 23.40% & YoY 202.87% OPERATING PROFIT;
 16637.80cr, QoQ 15.10% & YoY 276.44% NET PROFIT;
-OPM %: 68.40% vs 70.7%
+OPM %: 68.80% vs 70.7%
 NPM %: 23.90% vs 26.3%
 

@@ -1,10 +1,11 @@
-CODES
-IDEALTECHO	
+CODES	IDEALTECHO	
+FULLNAME : Ideal Technoplast Industries Ltd
 SECTOR : Packaging
 INDUSTRY : Packaging
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

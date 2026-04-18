@@ -1,4 +1,4 @@
-CODES
-890211	CALSOFTPP	
+CODES	890211	CALSOFTPP	
+FULLNAME : California Software Company Ltd Partly Paidup
 SECTOR : 
 INDUSTRY : 

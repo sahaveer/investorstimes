@@ -1,46 +1,50 @@
-CODES
-543417	RATEGAIN	
+CODES	543417	RATEGAIN	
+FULLNAME : Rategain Travel Technologies Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+INDUSTRY : Computers - Software & Consulting
 PRODUCT DEMAND
-BestQ Dec 2024
-LYPD PM 2024
-YS15 YPD 2024
+BestQ Dec 2025
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  398.7   |  250.8   |  366.6   |  565.1   |  957.0   |     816.0    
- SQoQ%:  |   52.4   |  -37.1   |   46.2   |   54.2   |   69.3   |      85.3    
- YOPM%:  |   0.0    |   2.9    |   8.8    |   15.3   |   20.0   |              
- YNPM%:  |   0.0    |   0.0    |   2.3    |   12.1   |   15.2   |              
-YPROFIT: |  -20.1   |  -28.6   |   8.4    |   68.4   |  145.4   |     154.1    
- PQoQ%:  |  -282.2  |   42.2   |  -129.5  |  712.4   |  112.6   |     106.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  252.0   |  255.8   |  260.0   |  277.3   |  278.7  
- QoQ%:  |   7.4    |   1.5    |   1.6    |   6.6    |   0.5   
- QOPM%: |   20.3   |   21.2   |   19.1   |   21.7   |   22.1  
- QNPM%: |   16.0   |   19.6   |   17.5   |   18.8   |   20.3  
- QPFT:  |   40.4   |   50.0   |   45.4   |   52.2   |   56.5  
- PQoQ%: |   34.6   |   23.8   |   -9.3   |   15.1   |   8.3   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 250.8		366.6		565.1		957.0		1076.7		1108.0
+SQoQ%: 	-37.1		46.2		54.2		69.3		12.5		102.9
+YOPM%: 	2.9		8.8		15.3		20.0		21.7
+YNPM%: 	0.0		2.3		12.1		15.2		19.4
+YPROFIT: -28.6		8.4		68.4		145.4		208.9		124.3
+PQoQ%: 	42.2		-129.5		712.4		112.6		43.7		59.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 278.7		260.7		272.9		295.1		540.0
+QoQ%: 	0.5		-6.5		4.7		8.1		83.0
+QOPM%: 	22.1		23.2		18.2		18.2		16.1
+QNPM%: 	20.3		21.0		17.2		17.3		4.9
+QPFT: 	56.5		54.8		46.9		51.0		26.4
+PQoQ%: 	8.3		-3.1		-14.4		8.7		-48.1
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 85% YSales
-- Last 3QPROFIT is about 106% of YProfit
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
-- LastYr YProfits Doubled and maintained in Mar2024
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
-As on Mar2024, Sales have increased by 69.3% while the Profit QoQ_growth is much better than Sales itself at 112.6%
+- Last 3QSALES is about 103% YSales
+- Last 3QPROFIT is about 60% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-957.00cr, QoQ 69.30% & YoY 140.03% SALES;
-191.20cr, QoQ 120.70% & YoY -893.36% OPERATING PROFIT;
-145.40cr, QoQ 112.60% & YoY -823.38% NET PROFIT;
-OPM %: 20.00% vs 15.3%
-NPM %: 15.20% vs 12.1%
+ 31-Mar-2025 #Result
+1076.70cr, QoQ 12.50% & YoY 329.31% SALES;
+233.80cr, QoQ 22.30% & YoY 3102.74% OPERATING PROFIT;
+208.90cr, QoQ 43.70% & YoY -830.42% NET PROFIT;
+OPM %: 21.70% vs 20.0%
+NPM %: 19.40% vs 15.2%
 

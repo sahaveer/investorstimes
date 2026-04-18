@@ -1,41 +1,48 @@
-CODES
-543990	SIGNATURE	
+CODES	543990	SIGNATURE	
+FULLNAME : SignatureGlobal India Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
 PRODUCT DEMAND
 YSD YPD 2025
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   82.1   |  901.3   |  1553.6  |  1240.6  |  2498.0 
- SQoQ%:  |  -66.0   |  998.3   |   72.4   |  -20.1   |  101.4  
- YOPM%:  |   0.0    |   0.0    |   0.4    |   0.0    |   1.8   
- YNPM%:  |   0.0    |   0.0    |   0.0    |   1.3    |   4.0   
-YPROFIT: |  -86.0   |  -116.4  |  -63.9   |   16.2   |  101.1  
- PQoQ%:  |   49.1   |   35.3   |  -45.1   |  -125.3  |  524.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  694.4   |  400.6   |  749.3   |  827.7   |  520.4  
- QoQ%:  |  146.4   |  -42.3   |   87.0   |   10.5   |  -37.1  
- QOPM%: |   2.9    |   0.0    |   0.0    |   1.6    |   8.4   
- QNPM%: |   5.9    |   1.7    |   0.5    |   3.5    |   11.7  
- QPFT:  |   41.2   |   6.8    |   4.1    |   29.1   |   61.1  
- PQoQ%: |  1834.7  |  -83.6   |  -39.3   |  608.5   |  109.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 82.1		901.3		1553.6		1240.6		2498.0		1488.6
+SQoQ%: 	-66.0		998.3		72.4		-20.1		101.4		59.6
+YOPM%: 	0.0		0.0		0.4		0.0		1.8
+YNPM%: 	0.0		0.0		0.0		1.3		4.0
+YPROFIT: -86.0		-116.4		-63.9		16.2		101.1		-57.8
+PQoQ%: 	49.1		35.3		-45.1		-125.3		524.7		-57.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 827.7		520.4		865.7		338.5		284.4
+QoQ%: 	10.5		-37.1		66.3		-60.9		-16.0
+QOPM%: 	1.6		8.4		3.8		0.0		0.0
+QNPM%: 	3.5		11.7		4.0		0.0		0.0
+QPFT: 	29.1		61.1		34.4		-46.9		-45.3
+PQoQ%: 	608.5		109.8		-43.7		-236.1		-3.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 60% YSales
 - YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2025
 - LastYr YProfits Doubled and maintained in Mar2025
 
 YSALES in Mar-2025 is at 2498.0 showing a QoQ_growth of 101.4%. The YNETPROFIT grew by 524.7% to 101.1
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 2498.00cr, QoQ 101.40% & YoY 2942.63% SALES;
-44.00cr, QoQ -362.70% & YoY -154.05% OPERATING PROFIT;
+44.20cr, QoQ -260.20% & YoY -154.30% OPERATING PROFIT;
 101.10cr, QoQ 524.70% & YoY -217.56% NET PROFIT;
 OPM %: 1.80% vs 0.0%
 NPM %: 4.00% vs 1.3%

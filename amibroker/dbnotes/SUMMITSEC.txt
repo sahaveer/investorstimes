@@ -1,32 +1,41 @@
-CODES
-533306	SUMMITSEC	
+CODES	533306	SUMMITSEC	
+FULLNAME : Summit Securities Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Investment Company
+BestQ Dec 2025
 YSD YPD 2024
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   29.0   |   74.2   |   50.5   |  102.2   |  119.0  
- SQoQ%:  |  -64.6   |  156.0   |  -31.9   |  102.3   |   16.4  
- YOPM%:  |   89.4   |   94.8   |   93.0   |   96.2   |   96.0  
- YNPM%:  |   63.2   |   68.5   |   73.3   |   74.1   |   57.6  
-YPROFIT: |   18.3   |   50.8   |   37.1   |   75.7   |   68.6  
- PQoQ%:  |  -74.6   |  177.8   |  -27.1   |  104.3   |   -9.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   19.7   |   20.8   |  106.7   |   1.0    |   9.8   
- QoQ%:  |   10.0   |   6.0    |  411.9   |  -99.1   |  881.0  
- QOPM%: |   94.2   |   96.0   |   98.7   |   0.0    |   0.0   
- QNPM%: |   73.2   |   14.1   |   70.4   |   0.0    |   0.0   
- QPFT:  |   14.4   |   2.9    |   75.2   |   -4.9   |   -4.6  
- PQoQ%: |   -1.7   |  -79.6   |  2456.1  |  -106.5  |   -4.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 29.0		74.2		50.5		102.2		119.0		168.8
+SQoQ%: 	-64.6		156.0		-31.9		102.3		16.4		141.8
+YOPM%: 	89.4		94.8		93.0		96.2		96.0
+YNPM%: 	63.2		68.5		73.3		74.1		57.6
+YPROFIT: 18.3		50.8		37.1		75.7		68.6		127.9
+PQoQ%: 	-74.6		177.8		-27.1		104.3		-9.4		186.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1.0		9.8		27.5		119.7		21.6
+QoQ%: 	-99.1		881.0		180.7		334.6		-81.9
+QOPM%: 	0.0		0.0		96.5		99.0		93.9
+QNPM%: 	0.0		0.0		73.3		75.8		78.7
+QPFT: 	-4.9		-4.6		20.2		90.7		17.0
+PQoQ%: 	-106.5		-4.5		-535.1		349.0		-81.2
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 142% YSales
+- Last 3QPROFIT is about 186% of YProfit
 - YProfits and YSales DOUBLED in Mar2024
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

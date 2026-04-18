@@ -1,14 +1,15 @@
-CODE	NAME
-530921 
-
+CODES	530921	
+FULLNAME : Integrated Thermoplastics Ltd
 SECTOR : Plastic products
 INDUSTRY : Plastics Products
 
-***CONS***
-- NEGATIVE YProfit : -10.0
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -10.0

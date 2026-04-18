@@ -1,10 +1,11 @@
-CODES
-TBI	
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
+CODES	TBI	
+FULLNAME : TBI Corn Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Other Agricultural Products
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

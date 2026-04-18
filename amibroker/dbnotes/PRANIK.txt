@@ -1,15 +1,16 @@
-CODES
-PRANIK	
+CODES	PRANIK	
+FULLNAME : Pranik Logistics Ltd
 SECTOR : Logistics
 INDUSTRY : Miscellaneous
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

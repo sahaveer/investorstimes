@@ -1,13 +1,14 @@
-CODE	NAME
-540079 
+CODES	540079	
+FULLNAME : Sprayking Ltd
+SECTOR : Industrial Products
+INDUSTRY : Other Industrial Products
 
-SECTOR : Non Ferrous Metals
-INDUSTRY : Mining / Minerals / Metals
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

@@ -1,28 +1,36 @@
-CODE	NAME
-523672 
+CODES	523672	
+FULLNAME : Flex Foods Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Other Agricultural Products
+PRODUCT DEMAND
 
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 102.2		111.3		116.3		119.4		148.9		135.6
+SQoQ%: 	27.1		8.9		4.5		2.7		24.6		91.1
+YOPM%: 	20.0		17.7		9.5		0.0		0.0
+YNPM%: 	11.7		8.2		0.0		0.0		0.0
+YPROFIT: 12.0		9.1		-10.6		-25.9		-32.5		-29.4
+PQoQ%: 	76.7		-24.0		-216.2		144.6		25.3		90.5
 
-***CONS***
-- NO PRODUCT DEMAND
-- NEGATIVE YProfit : -25.9
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   80.5   |  102.2   |  111.3   |  116.3   |  119.4   |     111.0    
- SQoQ%:  |   -4.7   |   27.1   |   8.9    |   4.5    |   2.7    |      93.0    
- YOPM%:  |   14.5   |   20.0   |   17.7   |   9.5    |   0.0    |              
- YNPM%:  |   8.4    |   11.7   |   8.2    |   0.0    |   0.0    |              
-YPROFIT: |   6.8    |   12.0   |   9.1    |  -10.6   |  -25.9   |     -27.3    
- PQoQ%:  |  -38.4   |   76.7   |  -24.0   |  -216.2  |  144.6   |     105.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   27.9   |   44.4   |   39.7   |   36.7   |   34.6  
- QoQ%:  |   23.1   |   59.3   |  -10.7   |   -7.5   |   -5.7  
- QOPM%: |   0.0    |   14.6   |   4.5    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |  -14.8   |   -1.8   |   -5.5   |  -14.1   |   -7.7  
- PQoQ%: |  115.1   |  -88.2   |  213.1   |  157.7   |  -45.8  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 28.1		45.5		40.5		49.2		45.9
+QoQ%: 	-23.4		62.0		-11.0		21.5		-6.6
+QOPM%: 	0.0		7.1		0.0		0.0		1.2
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-7.7		-5.2		-13.0		-8.5		-7.9
+PQoQ%: 	-45.8		-31.6		147.3		-34.6		-7.3
+
+
 
 ***PROS***
-- Last 3QSALES is about 93% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 91% YSales
+
+YSALES in Mar-2025 is at 148.9 showing a QoQ_growth of 24.6%. The YNETPROFIT grew by 25.3% to -32.5
+
+***CONS***
+- NEGATIVE YProfit : -32.5

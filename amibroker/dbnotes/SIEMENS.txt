@@ -1,34 +1,45 @@
-CODES
-500550	SIEMENS	
-SECTOR : Capital Goods - Electrical Equipment
-INDUSTRY : Electric Equipment
+CODES	500550	SIEMENS	
+FULLNAME : Siemens Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Heavy Electrical Equipment
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Sep-2020 | Sep-2021 | Sep-2022 | Sep-2023 | Sep-2024
----------+----------+----------+----------+----------+---------
-YSALES:  |  9946.5  | 13198.5  | 16137.8  | 19553.8  | 22239.7 
- SQoQ%:  |  -24.0   |   32.7   |   22.3   |   21.2   |   13.7  
- YOPM%:  |   10.1   |   11.0   |   11.5   |   12.7   |   14.0  
- YNPM%:  |   7.7    |   8.2    |   9.6    |   10.0   |   12.2  
-YPROFIT: |  768.6   |  1088.7  |  1542.9  |  1960.9  |  2716.6 
- PQoQ%:  |  -30.1   |   41.6   |   41.7   |   27.1   |   38.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  4152.4  |  5203.5  |  4457.0  |  3587.2  |  4259.0 
- QoQ%:  |   11.9   |   25.3   |  -14.3   |  -19.5   |   18.7  
- QOPM%: |   15.3   |   13.3   |   12.2   |   11.2   |   11.0  
- QNPM%: |   19.3   |   11.1   |   18.6   |   17.1   |   13.7  
- QPFT:  |  802.6   |  577.7   |  830.7   |  614.3   |  582.0  
- PQoQ%: |   58.8   |  -28.0   |   43.8   |  -26.1   |   -5.3  
+***YEARLY***
+YPNL: 	Sep-2021	Sep-2022	Sep-2023	Sep-2024	Sep-2025	QSUM:Dec-2025
+YSALES: 13198.5		16137.8		19553.8		22239.7		17364.2		13077.9
+SQoQ%: 	32.7		22.3		21.2		13.7		-21.9		75.3
+YOPM%: 	11.0		11.5		12.7		14.0		11.6
+YNPM%: 	8.2		9.6		10.0		12.2		12.1
+YPROFIT: 1088.7		1542.9		1960.9		2716.6		2104.2		1185.1
+PQoQ%: 	41.6		41.7		27.1		38.5		-22.5		56.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3360.1		4259.0		4346.8		4900.4		3830.7
+QoQ%: 	-24.6		26.8		2.1		12.7		-21.8
+QOPM%: 	11.5		11.0		12.0		12.4		11.0
+QNPM%: 	18.3		13.7		9.7		9.9		7.2
+QPFT: 	614.3		582.0		422.9		484.9		277.3
+PQoQ%: 	-26.1		-5.3		-27.3		14.7		-42.8
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 56% of YProfit
+
+***CONS***
 
 Yearly 
- 30-Sep-2024 #Result
-22239.70cr, QoQ 13.70% & YoY 123.59% SALES;
-3104.00cr, QoQ 24.80% & YoY 209.56% OPERATING PROFIT;
-2716.60cr, QoQ 38.50% & YoY 253.45% NET PROFIT;
-OPM %: 14.00% vs 12.7%
-NPM %: 12.20% vs 10.0%
+ 30-Sep-2025 #Result
+17364.20cr, QoQ -21.90% & YoY 31.56% SALES;
+2007.00cr, QoQ -35.30% & YoY 38.18% OPERATING PROFIT;
+2104.20cr, QoQ -22.50% & YoY 93.28% NET PROFIT;
+OPM %: 11.60% vs 14.0%
+NPM %: 12.10% vs 12.2%
 

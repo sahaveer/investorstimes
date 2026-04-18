@@ -1,23 +1,24 @@
-CODES
-KEL	
-SECTOR : Capital Goods - Electrical Equipment
-INDUSTRY : Electric Equipment
+CODES	KEL	
+FULLNAME : Kundan Edifice Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Consumer Electronics
 PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 
-YSALES in Mar-2025 is at 98.2 showing a QoQ_growth of 18.3%. The YNETPROFIT grew by 162.0% to 7.9
+YSALES in Mar-2025 is at 96.8 showing a QoQ_growth of 16.5%. The YNETPROFIT grew by 162.0% to 7.9
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-98.20cr, QoQ 18.30% & YoY 554.67% SALES;
-15.30cr, QoQ 99.00% & YoY 800.00% OPERATING PROFIT;
+96.80cr, QoQ 16.50% & YoY 545.33% SALES;
+15.40cr, QoQ 98.30% & YoY 805.88% OPERATING PROFIT;
 7.90cr, QoQ 162.00% & YoY 887.50% NET PROFIT;
-OPM %: 15.60% vs 9.3%
-NPM %: 8.00% vs 3.6%
+OPM %: 15.90% vs 9.4%
+NPM %: 8.10% vs 3.6%
 

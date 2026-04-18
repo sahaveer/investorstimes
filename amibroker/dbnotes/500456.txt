@@ -1,36 +1,45 @@
-CODES
-500456	PASUPTAC	
-SECTOR : 
-INDUSTRY : 
+CODES	500456	PASUPTAC	
+FULLNAME : Pasupati Acrylon Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Petrochemicals
 EXPANSION 2024
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  504.9   |  775.1   |  828.0   |  575.2   |  621.4  
- SQoQ%:  |  -23.9   |   53.5   |   6.8    |  -30.5   |   8.0   
- YOPM%:  |   11.8   |   8.1    |   6.0    |   2.8    |   7.2   
- YNPM%:  |   8.5    |   5.9    |   4.3    |   2.3    |   5.7   
-YPROFIT: |   43.0   |   45.9   |   35.9   |   13.2   |   35.4  
- PQoQ%:  |  229.9   |   6.6    |  -21.8   |  -63.3   |  168.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  176.8   |  154.8   |  124.4   |  173.9   |  168.3  
- QoQ%:  |   13.3   |  -12.4   |  -19.6   |   39.7   |   -3.2  
- QOPM%: |   9.2    |   9.0    |   2.9    |   7.6    |   8.3   
- QNPM%: |   7.1    |   7.3    |   2.2    |   5.8    |   6.7   
- QPFT:  |   12.5   |   11.2   |   2.7    |   10.1   |   11.3  
- PQoQ%: |   37.6   |  -10.1   |  -75.7   |  271.1   |   11.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 504.9		775.1		828.0		575.2		621.4		765.4
+SQoQ%: 	-23.9		53.5		6.8		-30.5		8.0		123.2
+YOPM%: 	11.8		8.1		6.0		2.8		7.2
+YNPM%: 	8.5		5.9		4.3		2.3		5.7
+YPROFIT: 43.0		45.9		35.9		13.2		35.4		43.7
+PQoQ%: 	229.9		6.6		-21.8		-63.3		168.2		123.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 173.9		168.3		216.0		280.2		269.2
+QoQ%: 	39.7		-3.2		28.4		29.7		-3.9
+QOPM%: 	7.6		8.3		2.8		9.7		14.6
+QNPM%: 	5.8		6.7		0.8		5.8		9.5
+QPFT: 	10.1		11.3		1.8		16.2		25.7
+PQoQ%: 	271.1		11.3		-84.5		825.7		58.6
+
+
 
 ***PROS***
 EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 123% YSales
+- Last 3QPROFIT is about 123% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 621.40cr, QoQ 8.00% & YoY 23.07% SALES;
-44.80cr, QoQ 178.90% & YoY -25.08% OPERATING PROFIT;
+44.80cr, QoQ 178.80% & YoY -25.08% OPERATING PROFIT;
 35.40cr, QoQ 168.20% & YoY -17.67% NET PROFIT;
 OPM %: 7.20% vs 2.8%
 NPM %: 5.70% vs 2.3%

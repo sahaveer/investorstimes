@@ -1,34 +1,43 @@
-CODES
-532134	BANKBARODA	
+CODES	532134	BANKBARODA	
+FULLNAME : Bank of Baroda
 SECTOR : Banks
-INDUSTRY : Banks - Public Sector
+INDUSTRY : Public Sector Bank
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 74314.0  | 73385.5  | 94502.6  | 118379.2 | 127944.8
- SQoQ%:  |   -5.8   |   -1.2   |   28.8   |   25.3   |   8.1   
- YOPM%:  |   48.8   |   48.9   |   59.5   |   62.5   |   63.3  
- YNPM%:  |   2.1    |   10.7   |   15.8   |   15.9   |   16.2  
-YPROFIT: |  1547.7  |  7849.7  | 14905.2  | 18767.4  | 20716.3 
- PQoQ%:  |   66.8   |  407.2   |   89.9   |   25.9   |   10.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 31072.2  | 31143.0  | 31886.9  | 32569.8  | 32345.0 
- QoQ%:  |   3.4    |   0.2    |   2.4    |   2.1    |   -0.7  
- QOPM%: |   60.5   |   65.1   |   60.0   |   67.3   |   60.7  
- QNPM%: |   16.5   |   15.2   |   16.8   |   16.0   |   16.8  
- QPFT:  |  5132.4  |  4727.8  |  5355.1  |  5213.7  |  5419.7 
- PQoQ%: |   7.2    |   -7.9   |   13.3   |   -2.6   |   4.0   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 74314.0		73385.5		94502.6		118379.2		127944.8		99784.3
+SQoQ%: 	-5.8		-1.2		28.8		25.3		8.1		78.0
+YOPM%: 	48.8		48.9		59.5		62.5		64.4
+YNPM%: 	2.1		10.7		15.8		15.9		16.2
+YPROFIT: 1547.7		7849.7		14905.2		18767.4		20716.3		14045.7
+PQoQ%: 	66.8		407.2		89.9		25.9		10.4		67.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 32569.8		32819.9		32866.3		33318.2		33599.8
+QoQ%: 	2.1		0.8		0.1		1.4		0.8
+QOPM%: 	67.3		61.3		60.7		65.3		63.1
+QNPM%: 	16.0		16.5		10.6		15.4		16.2
+QPFT: 	5213.7		5419.7		3469.2		5133.6		5442.9
+PQoQ%: 	-2.6		4.0		-36.0		48.0		6.0
+
+
 
 ***PROS***
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 68% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 127944.80cr, QoQ 8.10% & YoY 72.17% SALES;
-80944.50cr, QoQ 9.40% & YoY 123.33% OPERATING PROFIT;
+82411.50cr, QoQ 11.40% & YoY 127.38% OPERATING PROFIT;
 20716.30cr, QoQ 10.40% & YoY 1238.52% NET PROFIT;
-OPM %: 63.30% vs 62.5%
+OPM %: 64.40% vs 62.5%
 NPM %: 16.20% vs 15.9%
 

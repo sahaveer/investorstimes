@@ -1,46 +1,48 @@
-CODE	NAME
-540168 
-
+CODES	540168	
+FULLNAME : Supra Pacific Financial Services Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-PRODUCT DEMAND
-BestQ Dec 2024
+INDUSTRY : Non Banking Financial Company (NBFC)
+BestQ Dec 2025
 YSD YPD 2024
-YSD YPD 2022
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   1.8    |   6.3    |   12.3   |   25.9   |      32.6    
- SQoQ%:  |  -83.3   |  3460.0  |  256.2   |   93.7   |  110.8   |     125.9    
- YOPM%:  |   0.0    |   43.8   |   60.4   |   54.8   |   49.1   |              
- YNPM%:  |   0.0    |   5.6    |   8.0    |   2.1    |   2.6    |              
-YPROFIT: |   -0.1   |   0.1    |   0.5    |   0.3    |   0.7    |      0.4     
- PQoQ%:  |  -169.2  |  -211.1  |  410.0   |  -49.0   |  157.7   |      57.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   7.2    |   8.6    |   9.5    |   11.2   |   11.9  
- QoQ%:  |   21.7   |   19.9   |   10.4   |   18.2   |   5.8   
- QOPM%: |   54.0   |   49.3   |   46.6   |   48.4   |   48.9  
- QNPM%: |   6.3    |   5.3    |   0.8    |   2.6    |   0.4   
- QPFT:  |   0.4    |   0.5    |   0.1    |   0.3    |   0.0   
- PQoQ%: |  136.8   |   2.2    |  -82.6   |  262.5   |  -82.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.8		6.3		12.3		25.9		47.5		64.4
+SQoQ%: 	3460.0		256.2		93.7		110.8		83.5		135.6
+YOPM%: 	43.8		60.4		54.8		49.1		49.9
+YNPM%: 	5.6		8.0		2.1		2.6		2.4
+YPROFIT: 0.1		0.5		0.3		0.7		1.1		5.1
+PQoQ%: 	-211.1		410.0		-49.0		157.7		70.1		463.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 11.9		14.8		18.3		21.8		24.3
+QoQ%: 	5.8		23.9		23.8		19.3		11.7
+QOPM%: 	48.9		52.3		49.7		51.3		54.9
+QNPM%: 	0.4		4.9		6.7		8.1		8.6
+QPFT: 	0.0		0.7		1.2		1.8		2.1
+PQoQ%: 	-82.8		1340.0		70.8		43.9		18.1
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 126% YSales
-- Last 3QPROFIT is about 57% of YProfit
-- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- Last 3QSALES is about 136% YSales
+- Last 3QPROFIT is about 464% of YProfit
 - YProfits and YSales DOUBLED in Mar2024
-- YProfits and YSales DOUBLED in Mar2022
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 83.5% while the Profit QoQ_growth is at 70.1%
 
-YSALES in Mar-2024 is at 25.9 showing a QoQ_growth of 110.8%. The YNETPROFIT grew by 157.7% to 0.7
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-25.90cr, QoQ 110.80% & YoY inf% SALES;
-12.70cr, QoQ 88.70% & YoY -12800.00% OPERATING PROFIT;
-0.70cr, QoQ 157.70% & YoY -800.00% NET PROFIT;
-OPM %: 49.10% vs 54.8%
-NPM %: 2.60% vs 2.1%
+ 31-Mar-2025 #Result
+47.50cr, QoQ 83.50% & YoY 2538.89% SALES;
+23.70cr, QoQ 86.80% & YoY 2862.50% OPERATING PROFIT;
+1.10cr, QoQ 70.10% & YoY 1000.00% NET PROFIT;
+OPM %: 49.90% vs 49.1%
+NPM %: 2.40% vs 2.6%
 

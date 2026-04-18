@@ -1,40 +1,46 @@
-CODES
-513121	ORICONENT	
-SECTOR : Packaging
+CODES	513121	ORICONENT	
+FULLNAME : Oricon Enterprises Ltd
+SECTOR : Industrial Products
 INDUSTRY : Packaging
-PRODUCT DEMAND
-BestQ Dec 2024
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  889.6   |  436.6   |  504.0   |  145.8   |  146.2   |     125.1    
- SQoQ%:  |  -20.5   |  -50.9   |   15.4   |  -71.1   |   0.3    |      85.6    
- YOPM%:  |   10.8   |   3.7    |   5.1    |   0.0    |   0.0    |              
- YNPM%:  |   2.5    |   0.0    |   25.4   |   10.2   |   20.5   |              
-YPROFIT: |   22.6   |   -2.0   |  127.8   |   14.9   |   30.0   |     139.2    
- PQoQ%:  |  -37.9   |  -108.7  | -6618.9  |  -88.4   |  102.0   |     464.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   65.0   |   31.4   |   31.5   |   42.3   |   51.3  
- QoQ%:  |  123.5   |  -51.7   |   0.4    |   34.2   |   21.4  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   1.6    |   42.4   |   23.5   |  304.2   |   6.2   
- QPFT:  |   1.1    |   13.3   |   7.4    |  128.6   |   3.2   
- PQoQ%: |  -85.0   |  1155.7  |  -44.3   |  1635.5  |  -97.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 436.6		504.0		145.8		146.2		172.2		30.8
+SQoQ%: 	-50.9		15.4		-71.1		0.3		17.8		17.9
+YOPM%: 	3.7		5.1		0.0		0.0		0.0
+YNPM%: 	0.0		25.4		10.2		20.5		80.9
+YPROFIT: -2.0		127.8		14.9		30.0		139.2		29.9
+PQoQ%: 	-108.7		-6618.9		-88.4		102.0		363.9		21.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 24.2		47.5		7.8		5.3		17.7
+QoQ%: 	37.7		95.9		-83.6		-32.4		235.7
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	13.2		0.0		158.2		167.1		50.0
+QPFT: 	3.2		-0.0		12.3		8.8		8.8
+PQoQ%: 	-97.5		-100.3		-123200.0		-28.6		0.5
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 86% YSales
-- Last 3QPROFIT is about 464% of YProfit
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+A DEBT-Free Company
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
 
+YSALES in Mar-2025 is at 172.2 showing a QoQ_growth of 17.8%. The YNETPROFIT grew by 363.9% to 139.2
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-146.20cr, QoQ 0.30% & YoY -83.57% SALES;
--31.90cr, QoQ -3.40% & YoY -133.09% OPERATING PROFIT;
-30.00cr, QoQ 102.00% & YoY 32.74% NET PROFIT;
+ 31-Mar-2025 #Result
+172.20cr, QoQ 17.80% & YoY -60.56% SALES;
+-29.50cr, QoQ -7.60% & YoY -282.10% OPERATING PROFIT;
+139.20cr, QoQ 363.90% & YoY -7060.00% NET PROFIT;
 OPM %: 0.00% vs 0.0%
-NPM %: 20.50% vs 10.2%
+NPM %: 80.90% vs 20.5%
 

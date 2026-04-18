@@ -1,14 +1,14 @@
-CODE	NAME
-514197 
+CODES	514197	
+FULLNAME : S & T Corporation Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 
-SECTOR : Realty
-INDUSTRY : Construction
-
-***CONS***
-- NEGATIVE YProfit : -0.2
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

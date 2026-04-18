@@ -1,18 +1,20 @@
-CODES
-544249	BALAJEE	
+CODES	544249	BALAJEE	
+FULLNAME : Shree Tirupati Balajee Agro Trading Co. Ltd
 SECTOR : Packaging
 INDUSTRY : Packaging
 BestQ Dec 2024
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - Last 3QSALES is about 82% YSales
 - Last 3QPROFIT is about 67% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

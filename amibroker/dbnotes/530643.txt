@@ -1,41 +1,49 @@
-CODE	NAME
-530643 
+CODES	530643	
+FULLNAME : Eco Recycling Ltd
+SECTOR : Other Utilities
+INDUSTRY : Waste Management
+LYPD PM 2025
+YS15 YPD 2025
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 12.7		15.3		17.7		28.0		44.0		29.5
+SQoQ%: 	3.9		20.7		16.0		57.9		56.9		67.0
+YOPM%: 	7.7		23.9		22.2		58.8		70.7
+YNPM%: 	35.3		83.0		34.9		63.7		149.9
+YPROFIT: 4.5		12.7		6.2		17.8		65.9		15.5
+PQoQ%: 	302.7		183.9		-51.2		188.0		269.6		23.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 9.9		9.8		9.2		14.4		5.9
+QoQ%: 	-22.9		-1.5		-5.4		56.1		-59.0
+QOPM%: 	66.7		71.2		54.8		49.9		59.6
+QNPM%: 	49.3		21.3		84.4		39.7		33.3
+QPFT: 	4.9		2.1		7.8		5.7		2.0
+PQoQ%: 	-39.1		-57.5		275.0		-26.5		-65.6
+
+
+
+***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 27.0%
+- Last 3QSALES is about 67% YSales
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
+As on Mar2025, Sales have increased by 56.9% while the Profit QoQ_growth is much better than Sales itself at 269.6%
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   12.2   |   12.7   |   15.3   |   17.7   |   28.0   |      34.2    
- SQoQ%:  |   -2.0   |   3.9    |   20.7   |   16.0   |   57.9   |     122.1    
- YOPM%:  |   20.8   |   7.7    |   23.9   |   22.2   |   58.8   |              
- YNPM%:  |   9.1    |   35.3   |   83.0   |   34.9   |   63.7   |              
-YPROFIT: |   1.1    |   4.5    |   12.7   |   6.2    |   17.8   |      21.1    
- PQoQ%:  |   0.9    |  302.7   |  183.9   |  -51.2   |  188.0   |     118.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   7.5    |   8.0    |   11.4   |   12.9   |   9.9   
- QoQ%:  |   5.2    |   7.8    |   41.6   |   12.9   |  -22.9  
- QOPM%: |   70.1   |   45.7   |   71.8   |   71.6   |   66.7  
- QNPM%: |   74.8   |   20.5   |   71.5   |   62.4   |   49.3  
- QPFT:  |   5.6    |   1.6    |   8.2    |   8.0    |   4.9   
- PQoQ%: |   -4.3   |  -70.5   |  393.9   |   -1.5   |  -39.1  
-
-***PROS***
-- Last 3QSALES is about 122% YSales
-- Last 3QPROFIT is about 119% of YProfit
-
-
-YSALES in Mar-2024 is at 28.0 showing a QoQ_growth of 57.9%. The YNETPROFIT grew by 188.0% to 17.8
 
 Yearly 
- 31-Mar-2024 #Result
-28.00cr, QoQ 57.90% & YoY 129.51% SALES;
-16.50cr, QoQ 318.80% & YoY 560.00% OPERATING PROFIT;
-17.80cr, QoQ 188.00% & YoY 1518.18% NET PROFIT;
-OPM %: 58.80% vs 22.2%
-NPM %: 63.70% vs 34.9%
+ 31-Mar-2025 #Result
+44.00cr, QoQ 56.90% & YoY 246.46% SALES;
+31.10cr, QoQ 88.70% & YoY 3010.00% OPERATING PROFIT;
+65.90cr, QoQ 269.60% & YoY 1364.44% NET PROFIT;
+OPM %: 70.70% vs 58.8%
+NPM %: 149.90% vs 63.7%
 

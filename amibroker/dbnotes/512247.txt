@@ -1,41 +1,45 @@
-CODE	NAME
-512247 
-
+CODES	512247	
+FULLNAME : Ashirwad Capital Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Other Financial Services
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.5    |   0.7    |   1.2    |   1.0    |   1.9    |      0.9     
- SQoQ%:  |  -54.5   |   52.2   |   74.3   |  -21.3   |   95.8   |      47.4    
- YOPM%:  |   73.9   |   87.1   |   92.6   |   89.6   |   92.6   |              
- YNPM%:  |   63.0   |   82.9   |   81.1   |   79.2   |   82.4   |              
-YPROFIT: |   0.3    |   0.6    |   1.0    |   0.8    |   1.6    |      0.7     
- PQoQ%:  |  -58.6   |  100.0   |   70.7   |  -23.2   |  103.9   |      43.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.8    |   0.2    |   0.4    |   0.4    |   0.1   
- QoQ%:  |   86.4   |  -81.7   |  146.7   |   10.8   |  -80.5  
- QOPM%: |   95.1   |   80.0   |   86.5   |   90.2   |   62.5  
- QNPM%: |   89.0   |  126.7   |   86.5   |   97.6   |   62.5  
- QPFT:  |   0.7    |   0.2    |   0.3    |   0.4    |   0.0   
- PQoQ%: |   69.8   |  -74.0   |   68.4   |   25.0   |  -87.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.7		1.2		1.0		1.9		1.2		1.2
+SQoQ%: 	52.2		74.3		-21.3		95.8		-34.6		100.0
+YOPM%: 	87.1		92.6		89.6		92.6		87.0
+YNPM%: 	82.9		81.1		79.2		82.4		68.3
+YPROFIT: 0.6		1.0		0.8		1.6		0.8		0.9
+PQoQ%: 	100.0		70.7		-23.2		103.9		-45.8		112.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.1		0.2		0.0		1.1		0.1
+QoQ%: 	-80.5		125.0		-88.9		5550.0		-91.2
+QOPM%: 	62.5		83.3		0.0		89.4		70.0
+QNPM%: 	62.5		38.9		100.0		75.2		80.0
+QPFT: 	0.0		0.1		0.0		0.8		0.1
+PQoQ%: 	-87.5		40.0		-71.4		4150.0		-90.6
+
+
 
 ***PROS***
-DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 58.1%
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+ROCE in Mar2025 is at 310.0%
+- Last 3QSALES is about 100% YSales
+- Last 3QPROFIT is about 112% of YProfit
 
 
-YSALES in Mar-2024 is at 1.9 showing a QoQ_growth of 95.8%. The YNETPROFIT grew by 103.9% to 1.6
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1.90cr, QoQ 95.80% & YoY 280.00% SALES;
-1.70cr, QoQ 102.30% & YoY 466.67% OPERATING PROFIT;
-1.60cr, QoQ 103.90% & YoY 433.33% NET PROFIT;
-OPM %: 92.60% vs 89.6%
-NPM %: 82.40% vs 79.2%
+ 31-Mar-2025 #Result
+1.20cr, QoQ -34.60% & YoY 71.43% SALES;
+1.10cr, QoQ -38.50% & YoY 83.33% OPERATING PROFIT;
+0.80cr, QoQ -45.80% & YoY 33.33% NET PROFIT;
+OPM %: 87.00% vs 92.6%
+NPM %: 68.30% vs 82.4%
 

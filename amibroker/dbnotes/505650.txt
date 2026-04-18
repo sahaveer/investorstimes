@@ -1,33 +1,39 @@
-CODE	NAME
-505650 
-
+CODES	505650	
+FULLNAME : Skyline Millars Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
 YSD YPD 2025
 YSD YPD 2024
 LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -0.3
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   4.2    |   0.0    |   -0.2   |   0.0    |   2.1   
- SQoQ%:  |   12.2   |  -100.0  |   -inf   |  -100.0  |   inf   
- YOPM%:  |   57.1   |   0.0    |   0.0    |   0.0    |   0.0   
- YNPM%:  |   56.4   |   inf    |   0.0    |   0.0    |   0.0   
-YPROFIT: |   2.4    |   0.8    |   -1.8   |   -1.0   |   -0.3  
- PQoQ%:  |  151.6   |  -68.6   |  -345.3  |  -46.2   |  -73.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   2.1   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   inf   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.5   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   9.9   
- QPFT:  |   -0.2   |   -0.2   |   -0.2   |   -0.1   |   0.2   
- PQoQ%: |   0.0    |   -5.3   |   -5.6   |  -29.4   |  -275.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 4.2		0.0		-0.2		0.0		2.1		1.9
+SQoQ%: 	12.2		-100.0		-inf		-100.0		inf		90.5
+YOPM%: 	57.1		0.0		0.0		0.0		0.0
+YNPM%: 	56.4		inf		0.0		0.0		0.0
+YPROFIT: 2.4		0.8		-1.8		-1.0		-0.3		-0.5
+PQoQ%: 	151.6		-68.6		-345.3		-46.2		-73.7		166.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		2.1		0.5		0.7		0.7
+QoQ%: 	nan		inf		-74.6		29.6		-2.9
+QOPM%: 	0.0		0.5		0.0		0.0		0.0
+QNPM%: 	0.0		9.9		0.0		0.0		0.0
+QPFT: 	-0.1		0.2		-0.3		-0.2		-0.0
+PQoQ%: 	-29.4		-275.0		-261.9		-32.4		-87.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
+- Last 3QSALES is about 90% YSales
 - YProfits and YSales DOUBLED in Mar2025
 - YProfits and YSales DOUBLED in Mar2024
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -0.3

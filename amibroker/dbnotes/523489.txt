@@ -1,29 +1,32 @@
-CODE	NAME
-523489 
+CODES	523489	
+FULLNAME : Chennai Meenakshi Multispeciality Hospital Ltd
+SECTOR : Healthcare Services
+INDUSTRY : Healthcare Service Provider
 
-SECTOR : Healthcare
-INDUSTRY : Healthcare
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 19.2		30.9		38.2		37.4		33.8		27.2
+SQoQ%: 	-24.4		61.1		23.8		-2.1		-9.7		80.5
+YOPM%: 	3.3		18.6		7.9		5.1		0.0
+YNPM%: 	0.0		12.9		2.3		0.0		0.0
+YPROFIT: -1.2		4.0		0.9		-0.4		-1.4		-1.0
+PQoQ%: 	-327.3		-418.4		-77.6		-148.3		218.6		71.4
 
-***CONS***
-- NEGATIVE YProfit : -0.4
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   25.3   |   19.2   |   30.9   |   38.2   |   37.4   |      25.7    
- SQoQ%:  |   15.1   |  -24.4   |   61.1   |   23.8   |   -2.1   |      68.7    
- YOPM%:  |   9.7    |   3.3    |   18.6   |   7.9    |   5.1    |              
- YNPM%:  |   2.2    |   0.0    |   12.9   |   2.3    |   0.0    |              
-YPROFIT: |   0.6    |   -1.2   |   4.0    |   0.9    |   -0.4   |      -1.7    
- PQoQ%:  |  1000.0  |  -327.3  |  -418.4  |  -77.6   |  -148.3  |     425.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   10.1   |   9.6    |   8.8    |   8.1    |   8.8   
- QoQ%:  |   5.9    |   -5.2   |   -8.4   |   -7.8   |   9.4   
- QOPM%: |   2.7    |   5.0    |   0.8    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.0   |   -0.4   |   -0.4   |   -0.7   |   -0.6  
- PQoQ%: |  -200.0  |  1000.0  |  -13.6   |   76.3   |   -6.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 8.8		9.2		8.6		9.5		9.1
+QoQ%: 	9.4		3.9		-5.7		9.5		-3.8
+QOPM%: 	0.0		3.7		0.0		3.2		0.0
+QNPM%: 	0.0		3.4		0.0		1.6		0.0
+QPFT: 	-0.6		0.3		-0.7		0.2		-0.5
+PQoQ%: 	-6.0		-149.2		-338.7		-120.3		-460.0
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 69% YSales
+- Last 3QSALES is about 80% YSales
+
+***CONS***
+- NEGATIVE YProfit : -1.4

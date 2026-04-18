@@ -1,37 +1,40 @@
-CODES
-524824	BALPHARMA	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
-PRODUCT DEMAND
+CODES	524824	BALPHARMA	
+FULLNAME : Bal Pharma Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  171.1   |  250.5   |  281.2   |  304.1   |  339.1   |     221.3    
- SQoQ%:  |  -24.0   |   46.4   |   12.2   |   8.2    |   11.5   |      65.3    
- YOPM%:  |   2.9    |   9.8    |   8.5    |   8.3    |   9.4    |              
- YNPM%:  |   0.0    |   1.9    |   2.0    |   0.8    |   2.2    |              
-YPROFIT: |  -12.2   |   4.7    |   5.6    |   2.6    |   7.4    |      1.8     
- PQoQ%:  |  -422.4  |  -138.8  |   18.4   |  -54.2   |  187.5   |      24.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   81.7   |   94.6   |   74.4   |   73.7   |   73.2  
- QoQ%:  |  -11.8   |   15.9   |  -21.4   |   -0.9   |   -0.7  
- QOPM%: |   9.5    |   10.1   |   8.7    |   10.4   |   10.6  
- QNPM%: |   1.1    |   5.8    |   0.3    |   1.4    |   0.7   
- QPFT:  |   0.9    |   5.5    |   0.3    |   1.0    |   0.5   
- PQoQ%: |   -6.3   |  514.6   |  -95.2   |  300.0   |  -53.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 250.5		281.2		304.1		339.1		303.1		227.6
+SQoQ%: 	46.4		12.2		8.2		11.5		-10.6		75.1
+YOPM%: 	9.8		8.5		8.3		9.1		9.8
+YNPM%: 	1.9		2.0		0.8		2.2		2.4
+YPROFIT: 4.7		5.6		2.6		7.4		7.2		2.7
+PQoQ%: 	-138.8		18.4		-54.2		187.5		-2.3		37.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 73.2		81.9		65.9		74.0		87.7
+QoQ%: 	-0.7		11.9		-19.6		12.4		18.5
+QOPM%: 	10.6		9.3		9.2		7.7		10.9
+QNPM%: 	0.7		6.6		0.3		1.0		2.0
+QPFT: 	0.5		5.4		0.2		0.7		1.8
+PQoQ%: 	-53.8		1031.2		-96.3		255.0		150.7
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 65% YSales
-- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- Last 3QSALES is about 75% YSales
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-339.10cr, QoQ 11.50% & YoY 98.19% SALES;
-31.70cr, QoQ 25.60% & YoY 534.00% OPERATING PROFIT;
-7.40cr, QoQ 187.50% & YoY -160.66% NET PROFIT;
-OPM %: 9.40% vs 8.3%
-NPM %: 2.20% vs 0.8%
+ 31-Mar-2025 #Result
+303.10cr, QoQ -10.60% & YoY 21.00% SALES;
+29.80cr, QoQ -3.80% & YoY 21.14% OPERATING PROFIT;
+7.20cr, QoQ -2.30% & YoY 53.19% NET PROFIT;
+OPM %: 9.80% vs 9.1%
+NPM %: 2.40% vs 2.2%
 

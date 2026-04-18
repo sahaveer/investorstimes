@@ -1,16 +1,17 @@
-CODE	NAME
-537985 
-
+CODES	537985	
+FULLNAME : Infronics Systems Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+INDUSTRY : Software Products
 PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -7.1
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+
+***CONS***
+- NEGATIVE YProfit : -7.1

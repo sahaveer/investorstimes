@@ -1,29 +1,36 @@
-CODES
-524324	SEYAIND	
-SECTOR : 
-INDUSTRY : 
-EXPANSION 2023
+CODES	524324	SEYAIND	
+FULLNAME : Seya Industries Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
 EXPANSION 2024
+EXPANSION 2025
+PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -3.4
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  258.2   |   44.0   |   65.6   |   37.1   |   8.1    |      5.2     
- SQoQ%:  |  -37.4   |  -83.0   |   49.2   |  -43.5   |  -78.3   |      64.2    
- YOPM%:  |   26.2   |   0.0    |   14.1   |   0.0    |   46.4   |              
- YNPM%:  |   18.2   |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   47.0   |  -109.6  |   -6.3   |  -24.7   |   -3.4   |      -1.9    
- PQoQ%:  |  -46.9   |  -333.0  |  -94.3   |  293.0   |  -86.0   |      55.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.2    |   1.5    |   2.9    |   2.3    |   0.0   
- QoQ%:  |  -60.8   |   28.3   |   86.4   |  -20.6   |  -100.0 
- QOPM%: |   20.0   |   27.9   |   18.8   |   57.0   |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -1.9   |   -0.4   |   -0.1   |   -0.3   |   -1.5  
- PQoQ%: |  768.2   |  -80.6   |  -70.3   |  190.9   |  359.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 44.0		65.6		37.1		8.1		0.0		0.0
+SQoQ%: 	-83.0		49.2		-43.5		-78.3		-100.0		nan
+YOPM%: 	0.0		14.1		0.0		46.3		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -109.6		-6.3		-24.7		-3.5		-6.3		-2.1
+PQoQ%: 	-333.0		-94.3		293.0		-85.9		81.8		33.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		-5.2		0.0		0.0		0.0
+QoQ%: 	-100.0		-inf		-100.0		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-1.5		-4.4		-0.6		-0.9		-0.6
+PQoQ%: 	359.4		200.0		-85.9		50.0		-33.3
+
+
 
 ***PROS***
 EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
-- Last 3QSALES is about 64% YSales
+- PRODUCT DEMAND is rising since 3 years
+
+***CONS***
+- NEGATIVE YProfit : -6.3

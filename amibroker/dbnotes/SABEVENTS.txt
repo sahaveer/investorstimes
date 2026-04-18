@@ -1,27 +1,36 @@
-CODES
-540081	SABEVENTS	
-SECTOR : 
-INDUSTRY : 
+CODES	540081	SABEVENTS	
+FULLNAME : SAB Events & Governance Now Media Ltd
+SECTOR : Media
+INDUSTRY : Electronic Media
+PRODUCT DEMAND
+LYPD PM 2025
 
-***CONS***
-- NO PRODUCT DEMAND
-- NEGATIVE YProfit : -1.1
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   2.0    |   1.4    |   1.5    |   2.0    |   1.8    |      1.2     
- SQoQ%:  |  -28.6   |  -29.7   |   6.3    |   33.1   |  -11.9   |      66.7    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -1.0   |   -1.5   |   -1.1   |   -1.0   |   -1.1   |      -0.4    
- PQoQ%:  |  -37.6   |   55.1   |  -25.0   |  -13.2   |   10.1   |      36.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.3    |   0.8    |   0.2    |   0.6    |   0.4   
- QoQ%:  |   21.4   |  138.2   |  -81.5   |  286.7   |  -24.1  
- QOPM%: |   0.0    |   24.7   |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   45.5  
- QPFT:  |   -0.4   |   -0.0   |   -0.4   |   -0.2   |   0.2   
- PQoQ%: |   22.9   |  -95.3   |  2000.0  |  -47.6   |  -190.9 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.4		1.5		2.0		1.8		1.7		1.4
+SQoQ%: 	-29.7		6.3		33.1		-11.9		-1.7		82.4
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -1.5		-1.1		-1.0		-1.1		-0.7		-0.2
+PQoQ%: 	55.1		-25.0		-13.2		10.1		-32.1		28.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.4		0.6		0.4		0.6		0.4
+QoQ%: 	-24.1		29.5		-28.1		34.1		-20.0
+QOPM%: 	0.0		0.0		0.0		10.9		0.0
+QNPM%: 	45.5		0.0		0.0		0.0		29.5
+QPFT: 	0.2		-0.3		-0.2		-0.1		0.1
+PQoQ%: 	-190.9		-250.0		-20.0		-41.7		-192.9
+
+
 
 ***PROS***
-- Last 3QSALES is about 67% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 82% YSales
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -0.7

@@ -1,40 +1,42 @@
-CODES
-532714	KEC	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Transmisson Line Towers / Equipment
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	532714	KEC	
+FULLNAME : KEC International Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  | 11965.4  | 13114.2  | 13742.3  | 17281.7  | 19914.2  |    14974.6   
- SQoQ%:  |   8.8    |   9.6    |   4.8    |   25.8   |   15.2   |      75.2    
- YOPM%:  |   11.1   |   9.5    |   7.3    |   5.3    |   6.8    |              
- YNPM%:  |   4.7    |   4.2    |   2.4    |   1.0    |   1.7    |              
-YPROFIT: |  565.5   |  552.7   |  332.1   |  176.0   |  346.8   |     302.6    
- PQoQ%:  |   14.1   |   -2.3   |  -39.9   |  -47.0   |   97.0   |      87.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  5006.7  |  6164.8  |  4511.9  |  5113.3  |  5349.4 
- QoQ%:  |   11.3   |   23.1   |  -26.8   |   13.3   |   4.6   
- QOPM%: |   6.1    |   6.3    |   6.0    |   6.3    |   7.0   
- QNPM%: |   1.9    |   2.5    |   1.9    |   1.7    |   2.4   
- QPFT:  |   96.9   |  151.8   |   87.6   |   85.4   |  129.6  
- PQoQ%: |   73.5   |   56.7   |  -42.3   |   -2.5   |   51.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 13114.2		13742.3		17281.7		19914.2		21846.7		17115.9
+SQoQ%: 	9.6		4.8		25.8		15.2		9.7		78.3
+YOPM%: 	9.5		7.3		5.3		6.8		7.7
+YNPM%: 	4.2		2.4		1.0		1.7		2.6
+YPROFIT: 552.7		332.1		176.0		346.8		570.7		412.9
+PQoQ%: 	-2.3		-39.9		-47.0		97.0		64.6		72.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 5349.4		6872.1		5022.9		6091.6		6001.4
+QoQ%: 	4.6		28.5		-26.9		21.3		-1.5
+QOPM%: 	7.0		7.8		7.0		7.1		7.2
+QNPM%: 	2.4		3.9		2.5		2.6		2.1
+QPFT: 	129.6		268.2		124.6		160.8		127.5
+PQoQ%: 	51.7		107.0		-53.5		29.0		-20.7
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 75% YSales
-- Last 3QPROFIT is about 87% of YProfit
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 72% of YProfit
 
-YSALES in Mar-2024 is at 19914.2 showing a QoQ_growth of 15.2%. The YNETPROFIT grew by 97.0% to 346.8
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-19914.20cr, QoQ 15.20% & YoY 66.43% SALES;
-1352.70cr, QoQ 47.10% & YoY 1.71% OPERATING PROFIT;
-346.80cr, QoQ 97.00% & YoY -38.67% NET PROFIT;
-OPM %: 6.80% vs 5.3%
-NPM %: 1.70% vs 1.0%
+ 31-Mar-2025 #Result
+21846.70cr, QoQ 9.70% & YoY 66.59% SALES;
+1682.60cr, QoQ 23.80% & YoY 35.70% OPERATING PROFIT;
+570.70cr, QoQ 64.60% & YoY 3.26% NET PROFIT;
+OPM %: 7.70% vs 6.8%
+NPM %: 2.60% vs 1.7%
 

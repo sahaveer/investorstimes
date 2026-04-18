@@ -1,27 +1,35 @@
-CODES
-539346	SADBHIN	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
+CODES	539346	SADBHIN	
+FULLNAME : Sadbhav Infrastructure Projects Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
+LYPD PM 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1280.8		962.3		824.7		778.9		704.0		572.9
+SQoQ%: 	-43.6		-24.9		-14.3		-5.6		-9.6		81.4
+YOPM%: 	29.8		19.5		45.9		42.7		61.6
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -278.3		-21.0		-375.1		-543.1		-75.0		-86.6
+PQoQ%: 	-126.9		-92.4		1684.6		44.8		-86.2		115.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 173.9		199.7		186.3		181.1		205.5
+QoQ%: 	6.4		14.9		-6.7		-2.8		13.5
+QOPM%: 	66.9		61.8		69.4		72.6		72.2
+QNPM%: 	0.0		0.0		6.4		5.8		0.0
+QPFT: 	-3.7		-86.0		12.0		10.5		-109.1
+PQoQ%: 	-110.5		2199.5		-113.9		-12.6		-1142.2
+
+
+
+***PROS***
+- Last 3QSALES is about 81% YSales
+- LastYr YProfits Doubled and maintained in Mar2025
 
 ***CONS***
 - NO PRODUCT DEMAND
-- NEGATIVE YProfit : -543.1
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  2270.4  |  1280.8  |  962.3   |  824.7   |  778.9   |     504.2    
- SQoQ%:  |  -36.0   |  -43.6   |  -24.9   |  -14.3   |   -5.6   |      64.7    
- YOPM%:  |   37.7   |   29.8   |   19.5   |   45.9   |   42.7   |              
- YNPM%:  |   45.5   |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |  1033.6  |  -278.3  |  -21.0   |  -375.1  |  -543.1  |      11.1    
- PQoQ%:  |  -521.4  |  -126.9  |  -92.4   |  1684.6  |   44.8   |      -2.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  203.6   |  174.3   |  166.8   |  163.5   |  173.9  
- QoQ%:  |   26.6   |  -14.4   |   -4.3   |   -2.0   |   6.4   
- QOPM%: |   39.4   |   34.6   |   55.8   |   61.6   |   66.9  
- QNPM%: |   0.0    |   0.0    |   0.0    |   21.8   |   0.0   
- QPFT:  |  -124.3  |  -95.4   |  -20.8   |   35.6   |   -3.7  
- PQoQ%: |  -58.6   |  -23.3   |  -78.2   |  -270.8  |  -110.5 
-
-***PROS***
-- Last 3QSALES is about 65% YSales
+- NEGATIVE YProfit : -75.0

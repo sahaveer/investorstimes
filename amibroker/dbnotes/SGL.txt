@@ -1,26 +1,34 @@
-CODES
-532730	SGL	
-SECTOR : Textiles
-INDUSTRY : Textiles - Processing
+CODES	532730	SGL	
+FULLNAME : STL Global Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -2.6
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   92.4   |   72.3   |  120.3   |  100.6   |   86.8   |      82.7    
- SQoQ%:  |  -37.7   |  -21.7   |   66.3   |  -16.3   |  -13.8   |      95.3    
- YOPM%:  |   3.0    |   4.6    |   3.6    |   2.3    |   0.0    |              
- YNPM%:  |   26.9   |   51.7   |   2.9    |   0.2    |   0.0    |              
-YPROFIT: |   24.9   |   37.4   |   3.5    |   0.2    |   -2.6   |      -0.2    
- PQoQ%:  |  -42.6   |   50.3   |  -90.6   |  -93.7   | -1272.7  |      7.7     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   25.6   |   23.4   |   24.8   |   22.8   |   35.1  
- QoQ%:  |   20.3   |   -8.7   |   6.2    |   -8.0   |   53.5  
- QOPM%: |   1.8    |   0.0    |   1.4    |   1.2    |   1.7   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.3   
- QPFT:  |   -0.1   |   -0.8   |   -0.1   |   -0.2   |   0.1   
- PQoQ%: |  -56.2   |  442.9   |  -84.2   |   83.3   |  -154.5 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 72.3		120.3		100.6		86.8		110.2		80.9
+SQoQ%: 	-21.7		66.3		-16.3		-13.8		27.0		73.4
+YOPM%: 	4.6		3.6		2.3		0.0		1.0
+YNPM%: 	51.7		2.9		0.2		0.0		0.0
+YPROFIT: 37.4		3.5		0.2		-2.6		-0.7		0.5
+PQoQ%: 	50.3		-90.6		-93.7		-1272.7		-74.4		-71.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 35.1		27.4		25.1		26.0		29.8
+QoQ%: 	53.5		-21.8		-8.4		3.6		14.3
+QOPM%: 	1.7		0.0		1.1		2.7		2.5
+QNPM%: 	0.3		0.0		0.0		1.1		1.0
+QPFT: 	0.1		-0.4		-0.1		0.3		0.3
+PQoQ%: 	-154.5		-425.0		-74.4		-380.0		10.7
+
+
 
 ***PROS***
-- Last 3QSALES is about 95% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 73% YSales
+
+***CONS***
+- NEGATIVE YProfit : -0.7

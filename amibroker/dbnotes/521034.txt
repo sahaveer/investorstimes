@@ -1,42 +1,47 @@
-CODES
-521034	SOMATEX	
-SECTOR : Trading
-INDUSTRY : Trading
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	521034	SOMATEX	
+FULLNAME : Soma Textiles & Industries Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   25.9   |   12.8   |   14.6   |   5.2    |   5.7    |      5.6     
- SQoQ%:  |  -32.7   |  -50.4   |   13.4   |  -64.3   |   10.2   |      98.2    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |  3181.9  |  368.1   |              
-YPROFIT: |   -5.9   |  -21.5   |  -16.4   |  165.5   |   21.1   |      69.1    
- PQoQ%:  |  -65.6   |  263.7   |  -23.7   | -1107.7  |  -87.3   |     327.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   2.1    |   1.0    |   1.4    |   3.6    |   0.6   
- QoQ%:  |   31.2   |  -50.0   |   35.0   |  161.9   |  -83.8  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   40.8   |  1871.8  |   86.3   |  1872.8  |   0.0   
- QPFT:  |   0.8    |   19.3   |   1.2    |   68.2   |   -0.3  
- PQoQ%: |   44.8   |  2195.2  |  -93.8   |  5580.8  |  -100.5 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 12.8		14.6		5.2		5.7		9.5		30.0
+SQoQ%: 	-50.4		13.4		-64.3		10.2		65.6		315.8
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		3181.9		368.1		729.9
+YPROFIT: -21.5		-16.4		165.5		21.1		69.3		4.9
+PQoQ%: 	263.7		-23.7		-1107.7		-87.3		228.4		7.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.6		3.9		2.0		0.0		28.0
+QoQ%: 	-83.8		555.9		-47.0		-100.0		inf
+QOPM%: 	0.0		0.0		0.0		0.0		1.0
+QNPM%: 	0.0		6.2		177.1		0.0		6.9
+QPFT: 	-0.3		0.2		3.6		-0.6		1.9
+PQoQ%: 	-100.5		-170.6		1412.5		-117.4		-407.9
+
+
 
 ***PROS***
-A DEBT-Free Company
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 98% YSales
-- Last 3QPROFIT is about 327% of YProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+A DEBT-Free Company for the last 2 yrs
+- Last 3QSALES is about 316% YSales
+- Double QSales and QProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 
+
+YSALES in Mar-2025 is at 9.5 showing a QoQ_growth of 65.6%. The YNETPROFIT grew by 228.4% to 69.3
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-5.70cr, QoQ 10.20% & YoY -77.99% SALES;
--3.40cr, QoQ -32.50% & YoY 78.95% OPERATING PROFIT;
-21.10cr, QoQ -87.30% & YoY -457.63% NET PROFIT;
+ 31-Mar-2025 #Result
+9.50cr, QoQ 65.60% & YoY -25.78% SALES;
+-5.80cr, QoQ 72.00% & YoY 9.43% OPERATING PROFIT;
+69.30cr, QoQ 228.40% & YoY -422.33% NET PROFIT;
 OPM %: 0.00% vs 0.0%
-NPM %: 368.10% vs 3181.9%
+NPM %: 729.90% vs 368.1%
 

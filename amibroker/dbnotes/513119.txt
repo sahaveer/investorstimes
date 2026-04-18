@@ -1,29 +1,32 @@
-CODE	NAME
-513119 
-
+CODES	513119	
+FULLNAME : Onix Solar Energy Ltd
 SECTOR : Trading
 INDUSTRY : Trading
 BestQ Dec 2024
 BestQ Dec 2024
 YSD YPD 2022
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.2    |   0.4    |   1.5    |   0.0    |   0.0    |      6.1     
- SQoQ%:  |   50.6   |  -63.8   |  266.7   |  -98.7   |  -50.0   |      inf     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   16.2   | 10450.0  |  2100.0  |              
-YPROFIT: |   -0.3   |   -0.4   |   0.2    |   2.1    |   0.2    |      0.8     
- PQoQ%:  |  -300.0  |   57.7   |  -161.0  |  736.0   |  -90.0   |     400.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.3    |   0.1    |   5.7   
- QoQ%:  |   inf    |  -100.0  |   inf    |  -50.0   |  4307.7 
- QOPM%: |   0.0    |   0.0    |   0.0    |   38.5   |   9.1   
- QNPM%: |   0.0    |   inf    |   15.4   |  115.4   |   11.0  
- QPFT:  |   -0.2   |   0.6    |   0.0    |   0.2    |   0.6   
- PQoQ%: |   42.9   |  -415.0  |  -93.7   |  275.0   |  320.0  
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2022	Mar-2023	Mar-2024	QSUM:Dec-2024
+YSALES: 	1.2		0.4		1.5		0.0		0.0		6.1
+SQoQ%: 	50.6		-63.8		266.7		-98.7		-50.0		inf
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		16.2		10450.0		2100.0
+YPROFIT: 	-0.3		-0.4		0.2		2.1		0.2		0.8
+PQoQ%: 	-300.0		57.7		-161.0		736.0		-90.0		400.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2023		Mar-2024	Jun-2024	Sep-2024		Dec-2024
+QSALES: 	0.0		0.0		0.3		0.1		5.7
+QoQ%: 	inf		-100.0		inf		-50.0		4307.7
+QOPM%: 	0.0		0.0		0.0		38.5		9.1
+QNPM%: 	0.0		inf		15.4		115.4		11.0
+QPFT: 	-0.2		0.6		0.0		0.2		0.6
+PQoQ%: 	42.9		-415.0		-93.7		275.0		320.0
+
+
 
 ***PROS***
 A DEBT-Free Company
@@ -33,6 +36,8 @@ A DEBT-Free Company
 - YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2022
 
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

@@ -1,30 +1,37 @@
-CODE	NAME
-524013 
+CODES	524013	
+FULLNAME : Hindustan Fluoro Carbons Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
+BestQ Sep 2025
 
-SECTOR : Petrochemicals
-INDUSTRY : Petrochemicals
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Sep-2025
+YSALES: 3.7		0.0		0.0		0.0		0.0		0.0
+SQoQ%: 	-88.3		-100.0		nan		nan		nan		nan
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		inf		inf
+YPROFIT: -24.8		-6.1		-5.1		1.2		0.4		0.3
+PQoQ%: 	584.0		-75.3		-16.6		-124.1		-65.9		75.0
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   3.7    |   0.0    |   0.0    |   0.0    |   0.0   
- SQoQ%:  |  -88.3   |  -100.0  |   nan    |   nan    |   nan   
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- YNPM%:  |   0.0    |   0.0    |   0.0    |   inf    |   inf   
-YPROFIT: |  -24.8   |   -6.1   |   -5.1   |   1.2    |   0.4   
- PQoQ%:  |  584.0   |  -75.3   |  -16.6   |  -124.1  |  -65.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   inf    |   inf    |   inf    |   0.0    |   inf   
- QPFT:  |   0.4    |   0.3    |   0.3    |   -0.4   |   0.3   
- PQoQ%: |   14.3   |  -35.0   |   15.4   |  -230.0  |  -166.7 
+
+
+***QUARTERLY***
+QPNL: 	Sep-2024	Dec-2024	Mar-2025	Jun-2025	Sep-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	inf		0.0		inf		inf		0.0
+QPFT: 	0.3		-0.4		0.3		0.3		-0.0
+PQoQ%: 	15.4		-230.0		-166.7		7.7		-110.7
+
+
 
 ***PROS***
 - YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- Last 2QPROFIT is about 75% of YProfit
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

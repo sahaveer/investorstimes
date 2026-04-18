@@ -1,40 +1,46 @@
-CODE	NAME
-526081 
-
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	526081	
+FULLNAME : SC Agrotech Ltd
+SECTOR : Food Products
+INDUSTRY : Dairy Products
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
+BestQ Dec 2025
 
-***CONS***
-  YPNL   |   :    | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+--------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  0.0   |   0.1    |   0.3    |   0.1    |   0.7    |   0.0    |              
- SQoQ%:  | -100.0 |   inf    |   92.9   |  -66.7   |  655.6   |   0.0    |              
- YOPM%:  |  0.0   |   0.0    |   0.0    |   0.0    |   0.0    |          |              
- YNPM%:  |  inf   |   35.7   |   3.7    |  2211.1  |   35.3   |          |              
-YPROFIT: |  0.1   |   0.0    |   0.0    |   2.0    |   0.2    |   0.9    |              
- PQoQ%:  |  20.0  |  -16.7   |  -80.0   | 19800.0  |  -87.9   |  450.0   |              
-  QPNL  |   :    | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+--------+----------+----------+----------+----------+---------
-QSALES: |  0.0   |   0.7    |   0.0    |   0.0    |   0.0    |         
- QoQ%:  | -100.0 |   inf    |  -100.0  |   nan    |   nan    |         
- QOPM%: |  0.0   |   0.0    |   0.0    |   0.0    |   0.0    |         
- QNPM%: |  inf   |   16.2   |   inf    |   0.0    |   inf    |         
- QPFT:  |  0.1   |   0.1    |   0.2    |   -0.2   |   0.9    |         
- PQoQ%: | 1000.0 |   0.0    |   81.8   |  -195.0  |  -594.7  |         
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.1		0.3		0.1		0.7		0.0		44.7
+SQoQ%: 	inf		92.9		-66.7		655.6		-100.0		inf
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	35.7		3.7		2211.1		35.3		inf
+YPROFIT: 0.0		0.0		2.0		0.2		0.2		2.9
+PQoQ%: 	-16.7		-80.0		19800.0		-87.9		-20.8		1450.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		2.1		5.0		37.6
+QoQ%: 	nan		nan		inf		134.6		648.2
+QOPM%: 	0.0		0.0		1.4		5.6		9.9
+QNPM%: 	inf		0.0		0.9		4.2		7.2
+QPFT: 	0.9		-0.8		0.0		0.2		2.7
+PQoQ%: 	-594.7		-179.8		-102.7		950.0		1195.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QPROFIT is about 450% of YProfit
+- Double QSales and QProfit
+- Last 3QPROFIT is about 1450% of YProfit
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-0.70cr, QoQ 655.60% & YoY inf% SALES;
--0.70cr, QoQ -28.30% & YoY -0.00% OPERATING PROFIT;
-0.20cr, QoQ -87.90% & YoY 100.00% NET PROFIT;
+ 31-Mar-2025 #Result
+0.00cr, QoQ -100.00% & YoY -100.00% SALES;
+-1.90cr, QoQ 169.00% & YoY 171.43% OPERATING PROFIT;
+0.20cr, QoQ -20.80% & YoY inf% NET PROFIT;
 OPM %: 0.00% vs 0.0%
-NPM %: 35.30% vs 2211.1%
+NPM %: inf% vs 35.3%
 

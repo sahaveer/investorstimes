@@ -1,26 +1,31 @@
-CODES
-531209	NUCLEUS	
+CODES	531209	NUCLEUS	
+FULLNAME : Nucleus Software Exports Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+INDUSTRY : Software Products
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  513.5   |  497.2   |  634.5   |  826.4   |  832.2  
- SQoQ%:  |   -1.4   |   -3.2   |   27.6   |   30.3   |   0.7   
- YOPM%:  |   25.2   |   7.4    |   24.7   |   26.7   |   20.2  
- YNPM%:  |   23.0   |   8.2    |   20.1   |   23.2   |   19.6  
-YPROFIT: |  118.0   |   40.9   |  127.8   |  191.6   |  163.0  
- PQoQ%:  |   32.5   |  -65.3   |  212.4   |   49.9   |  -14.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  210.3   |  195.4   |  202.2   |  205.7   |  229.0  
- QoQ%:  |   3.0    |   -7.1   |   3.5    |   1.7    |   11.3  
- QOPM%: |   27.7   |   14.8   |   15.7   |   16.1   |   32.5  
- QNPM%: |   24.8   |   15.5   |   16.4   |   17.0   |   28.3  
- QPFT:  |   52.1   |   30.2   |   33.1   |   35.0   |   64.8  
- PQoQ%: |   26.2   |  -42.1   |   9.5    |   5.8    |   85.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 513.5		497.2		634.5		826.4		832.2		651.2
+SQoQ%: 	-1.4		-3.2		27.6		30.3		0.7		78.3
+YOPM%: 	25.2		7.4		24.7		26.7		20.2
+YNPM%: 	23.0		8.2		20.1		23.2		19.6
+YPROFIT: 118.0		40.9		127.8		191.6		163.0		82.2
+PQoQ%: 	32.5		-65.3		212.4		49.9		-14.9		50.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 205.7		229.0		217.7		213.5		220.0
+QoQ%: 	1.7		11.3		-4.9		-1.9		3.1
+QOPM%: 	16.1		32.5		15.6		11.0		15.1
+QNPM%: 	17.0		28.3		16.2		12.3		9.4
+QPFT: 	35.0		64.8		35.2		26.3		20.7
+PQoQ%: 	5.8		85.2		-45.7		-25.3		-21.3
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
@@ -28,12 +33,16 @@ DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 55.6%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 50% of YProfit
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 832.20cr, QoQ 0.70% & YoY 62.06% SALES;
-168.40cr, QoQ -23.60% & YoY 30.14% OPERATING PROFIT;
+168.30cr, QoQ -23.60% & YoY 30.06% OPERATING PROFIT;
 163.00cr, QoQ -14.90% & YoY 38.14% NET PROFIT;
 OPM %: 20.20% vs 26.7%
 NPM %: 19.60% vs 23.2%

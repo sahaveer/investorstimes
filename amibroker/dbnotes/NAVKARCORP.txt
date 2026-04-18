@@ -1,27 +1,45 @@
-CODES
-539332	NAVKARCORP	
-SECTOR : Logistics
-INDUSTRY : Miscellaneous
+CODES	539332	NAVKARCORP	
+FULLNAME : Navkar Corporation Ltd
+SECTOR : Transport Services
+INDUSTRY : Logistics Solution Provider
+PRODUCT DEMAND
+BestQ Dec 2017
 
-***CONS***
-- NO PRODUCT DEMAND
-- NEGATIVE YProfit : -45.3
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  672.4   |  453.1   |  441.5   |  434.9   |  484.5  
- SQoQ%:  |   18.6   |  -32.6   |   -2.6   |   -1.5   |   11.4  
- YOPM%:  |   21.4   |   19.8   |   19.9   |   15.5   |   1.1   
- YNPM%:  |   2.4    |   14.8   |   20.9   |   0.0    |   0.0   
-YPROFIT: |   15.9   |   67.2   |   92.5   |   -1.7   |  -45.3  
- PQoQ%:  |  -64.8   |  322.0   |   37.6   |  -101.8  |  2549.1 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  117.9   |  117.6   |  133.1   |  129.5   |  104.3  
- QoQ%:  |   0.9    |   -0.2   |   13.2   |   -2.7   |  -19.5  
- QOPM%: |   16.4   |   1.8    |   11.1   |   5.7    |   0.0   
- QNPM%: |   6.2    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   7.3    |  -13.1   |   -2.3   |  -11.4   |  -18.5  
- PQoQ%: |  -149.1  |  -280.0  |  -82.4   |  395.7   |   62.5  
+***YEARLY***
+YPNL: 	Mar-2013	Mar-2014	Mar-2015	Mar-2016	Mar-2017	QSUM:Dec-2017
+YSALES: 333.4		349.4		328.8		347.3		370.9		313.1
+SQoQ%: 	24.4		4.8		-5.9		5.6		6.8		84.4
+YOPM%: 	30.5		35.5		36.7		38.5		37.6
+YNPM%: 	17.0		25.8		20.8		24.6		23.1
+YPROFIT: 56.7		90.0		68.4		85.5		85.6		70.0
+PQoQ%: 	20.8		58.7		-24.0		25.0		0.1		81.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2016	Mar-2017	Jun-2017	Sep-2017	Dec-2017
+QSALES: 91.6		99.1		98.8		107.8		106.5
+QoQ%: 	1.7		8.2		-0.2		9.1		-1.2
+QOPM%: 	36.0		35.3		39.5		37.5		35.3
+QNPM%: 	21.2		20.4		22.0		23.0		22.0
+QPFT: 	19.5		20.2		21.7		24.8		23.5
+PQoQ%: 	-13.2		4.0		7.3		14.3		-5.4
+
+
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 82% of YProfit
+- YMargins improvised by more than 15% since Mar2015 and PROFITS been maintaining ever since
+
+***CONS***
+
+Yearly 
+ 31-Mar-2017 #Result
+370.90cr, QoQ 6.80% & YoY 11.25% SALES;
+139.30cr, QoQ 4.10% & YoY 36.84% OPERATING PROFIT;
+85.60cr, QoQ 0.10% & YoY 50.97% NET PROFIT;
+OPM %: 37.60% vs 38.5%
+NPM %: 23.10% vs 24.6%
 

@@ -1,33 +1,42 @@
-CODES
-533158	THANGAMAYL	
-SECTOR : 
-INDUSTRY : 
+CODES	533158	THANGAMAYL	
+FULLNAME : Thangamayil Jewellery Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1818.6  |  2193.1  |  3152.6  |  3826.8  |  4916.3 
- SQoQ%:  |   7.5    |   20.6   |   43.7   |   21.4   |   28.5  
- YOPM%:  |   8.1    |   3.9    |   4.9    |   5.5    |   4.6   
- YNPM%:  |   4.8    |   1.8    |   2.5    |   3.2    |   2.4   
-YPROFIT: |   86.6   |   38.6   |   79.7   |  123.2   |  118.7  
- PQoQ%:  |   89.6   |  -55.5   |  106.8   |   54.6   |   -3.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  982.7   |  1222.1  |  1181.0  |  1132.5  |  1380.7 
- QoQ%:  |   9.7    |   24.4   |   -3.4   |   -4.1   |   21.9  
- QOPM%: |   5.1    |   7.5    |   0.0    |   7.3    |   4.2   
- QNPM%: |   2.9    |   4.6    |   0.0    |   4.3    |   2.3   
- QPFT:  |   28.2   |   56.6   |  -17.4   |   48.2   |   31.4  
- PQoQ%: |   0.9    |  100.3   |  -130.8  |  -376.3  |  -34.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1818.6		2193.1		3152.6		3826.8		4910.6		5674.6
+SQoQ%: 	7.5		20.6		43.7		21.4		28.3		115.6
+YOPM%: 	8.1		3.9		4.9		5.5		4.5
+YNPM%: 	4.8		1.8		2.5		3.2		2.4
+YPROFIT: 86.6		38.6		79.7		123.2		118.7		209.0
+PQoQ%: 	89.6		-55.5		106.8		54.6		-3.7		176.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1132.5		1380.7		1557.9		1710.9		2405.8
+QoQ%: 	-4.1		21.9		12.8		9.8		40.6
+QOPM%: 	7.3		4.2		5.6		6.2		7.2
+QNPM%: 	4.3		2.3		2.9		3.4		4.4
+QPFT: 	48.2		31.4		45.7		58.5		104.8
+PQoQ%: 	-376.2		-34.8		45.6		28.0		79.1
+
+
 
 ***PROS***
+- Last 3QSALES is about 116% YSales
+- Last 3QPROFIT is about 176% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-4916.30cr, QoQ 28.50% & YoY 170.33% SALES;
-224.70cr, QoQ 5.80% & YoY 52.86% OPERATING PROFIT;
+4910.60cr, QoQ 28.30% & YoY 170.02% SALES;
+219.00cr, QoQ 3.10% & YoY 48.98% OPERATING PROFIT;
 118.70cr, QoQ -3.70% & YoY 37.07% NET PROFIT;
-OPM %: 4.60% vs 5.5%
+OPM %: 4.50% vs 5.5%
 NPM %: 2.40% vs 3.2%
 

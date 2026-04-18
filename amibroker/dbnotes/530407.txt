@@ -1,37 +1,45 @@
-CODE	NAME
-530407 
+CODES	530407	
+FULLNAME : Epic Energy Ltd
+SECTOR : Finance
+INDUSTRY : Non Banking Financial Company (NBFC)
+PRODUCT DEMAND
 
-SECTOR : Capital Goods - Electrical Equipment
-INDUSTRY : Electric Equipment
+***YEARLY***
+YPNL: 	Mar-2012	Mar-2013	Mar-2014	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 64.9		49.8		42.8		3.1		4.3		3.0
+SQoQ%: 	3.2		-23.2		-14.1		-92.8		38.3		69.8
+YOPM%: 	10.6		8.3		5.4		15.9		31.9
+YNPM%: 	4.2		2.0		0.6		11.7		30.8
+YPROFIT: 2.7		1.0		0.3		0.4		1.3		0.4
+PQoQ%: 	-26.2		-63.7		-73.5		38.5		263.9		30.8
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2010 | Mar-2011 | Mar-2012 | Mar-2013 | Mar-2014
----------+----------+----------+----------+----------+---------
-YSALES:  |   58.2   |   62.9   |   64.9   |   49.8   |   42.8  
- SQoQ%:  |   7.8    |   8.0    |   3.2    |  -23.2   |  -14.1  
- YOPM%:  |   17.5   |   13.0   |   10.6   |   8.3    |   5.4   
- YNPM%:  |   9.6    |   5.8    |   4.2    |   2.0    |   0.6   
-YPROFIT: |   5.6    |   3.7    |   2.7    |   1.0    |   0.3   
- PQoQ%:  |   -1.6   |  -34.9   |  -26.2   |  -63.7   |  -73.5  
- QPNL:  | Mar-2013 | Jun-2013 | Sep-2013 | Dec-2013 | Mar-2014
---------+----------+----------+----------+----------+---------
-QSALES: |   12.9   |   10.4   |   10.6   |   10.8   |   11.0  
- QoQ%:  |   3.7    |  -19.5   |   1.6    |   2.6    |   2.0   
- QOPM%: |   7.7    |   8.9    |   6.7    |   6.3    |   0.0   
- QNPM%: |   1.6    |   1.3    |   1.7    |   1.7    |   0.0   
- QPFT:  |   0.2    |   0.1    |   0.2    |   0.2    |   -0.2  
- PQoQ%: |   5.3    |  -35.0   |   38.5   |   0.0    |  -227.8 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.6		2.4		1.1		1.0		0.9
+QoQ%: 	-20.3		332.7		-55.5		-2.8		-12.6
+QOPM%: 	38.2		24.4		8.5		27.2		8.9
+QNPM%: 	30.9		26.5		6.6		23.3		6.7
+QPFT: 	0.2		0.6		0.1		0.2		0.1
+PQoQ%: 	-50.0		270.6		-88.9		242.9		-75.0
+
+
 
 ***PROS***
 A DEBT-Free Company
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.1
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 70% YSales
+
+YSALES in Mar-2025 is at 4.3 showing a QoQ_growth of 38.3%. The YNETPROFIT grew by 263.9% to 1.3
+
+***CONS***
 
 Yearly 
- 31-Mar-2014 #Result
-42.80cr, QoQ -14.10% & YoY -26.46% SALES;
-2.30cr, QoQ -44.60% & YoY -77.45% OPERATING PROFIT;
-0.30cr, QoQ -73.50% & YoY -94.64% NET PROFIT;
-OPM %: 5.40% vs 8.3%
-NPM %: 0.60% vs 2.0%
+ 31-Mar-2025 #Result
+4.30cr, QoQ 38.30% & YoY -93.37% SALES;
+1.40cr, QoQ 177.60% & YoY -79.71% OPERATING PROFIT;
+1.30cr, QoQ 263.90% & YoY -51.85% NET PROFIT;
+OPM %: 31.90% vs 15.9%
+NPM %: 30.80% vs 11.7%
 

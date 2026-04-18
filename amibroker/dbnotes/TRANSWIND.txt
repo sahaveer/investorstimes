@@ -1,17 +1,18 @@
-CODES
-TRANSWIND	
+CODES	TRANSWIND	
+FULLNAME : Transwind Infrastructures Ltd
 SECTOR : Engineering
 INDUSTRY : Engineering - Turnkey Services
 YSD YPD 2022
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  have increased this year
 - YProfits and YSales DOUBLED in Mar2022
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

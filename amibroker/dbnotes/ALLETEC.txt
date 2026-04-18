@@ -1,41 +1,50 @@
-CODES
-ALLETEC	
+CODES	ALLETEC	
+FULLNAME : All E Technologies Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+INDUSTRY : Computers - Software & Consulting
 PRODUCT DEMAND
+BestQ Dec 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   61.2   |   70.0   |   87.6   |  116.3   |  140.0  
- SQoQ%:  |   13.9   |   14.5   |   25.2   |   32.7   |   20.4  
- YOPM%:  |   17.0   |   15.6   |   14.0   |   17.2   |   21.9  
- YNPM%:  |   14.2   |   12.3   |   13.2   |   16.9   |   21.5  
-YPROFIT: |   8.7    |   8.6    |   11.6   |   19.7   |   30.2  
- PQoQ%:  |  188.7   |   -0.8   |   34.9   |   69.9   |   53.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   30.4   |   33.1   |   35.9   |   36.0   |   34.9  
- QoQ%:  |   1.2    |   8.9    |   8.4    |   0.2    |   -2.9  
- QOPM%: |   19.0   |   19.7   |   19.5   |   22.0   |   26.3  
- QNPM%: |   18.1   |   18.6   |   18.6   |   20.0   |   28.9  
- QPFT:  |   5.5    |   6.2    |   6.7    |   7.2    |   10.1  
- PQoQ%: |   3.2    |   12.0   |   8.3    |   7.8    |   40.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 61.2		70.0		87.6		116.3		139.9		103.2
+SQoQ%: 	13.9		14.5		25.2		32.7		20.3		73.8
+YOPM%: 	17.0		15.6		14.0		17.2		22.0
+YNPM%: 	14.2		12.3		13.2		16.9		21.5
+YPROFIT: 8.7		8.6		11.6		19.7		30.2		19.9
+PQoQ%: 	188.7		-0.8		34.9		69.9		53.1		65.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 36.0		34.9		34.1		33.4		35.7
+QoQ%: 	0.2		-2.9		-2.5		-2.1		7.0
+QOPM%: 	22.0		26.3		19.2		20.1		19.9
+QNPM%: 	20.0		28.9		18.6		22.1		17.3
+QPFT: 	7.2		10.1		6.3		7.4		6.2
+PQoQ%: 	7.8		40.3		-37.4		16.8		-16.3
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.6
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 66% of YProfit
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2025, Sales have increased by 20.4% while the Profit QoQ_growth is much better than Sales itself at 53.1%
+As on Mar2025, Sales have increased by 20.3% while the Profit QoQ_growth is much better than Sales itself at 53.1%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-140.00cr, QoQ 20.40% & YoY 128.76% SALES;
-30.60cr, QoQ 53.20% & YoY 194.23% OPERATING PROFIT;
+139.90cr, QoQ 20.30% & YoY 128.59% SALES;
+30.80cr, QoQ 53.80% & YoY 196.15% OPERATING PROFIT;
 30.20cr, QoQ 53.10% & YoY 247.13% NET PROFIT;
-OPM %: 21.90% vs 17.2%
+OPM %: 22.00% vs 17.2%
 NPM %: 21.50% vs 16.9%
 

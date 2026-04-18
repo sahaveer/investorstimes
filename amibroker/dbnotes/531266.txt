@@ -1,12 +1,14 @@
-CODES
-531266	VSTTILLERS	
-SECTOR : Automobile
-INDUSTRY : Automobiles - Tractors
+CODES	531266	VSTTILLERS	
+FULLNAME : VST Tillers Tractors Ltd
+SECTOR : Agricultural, Commercial & Construction Vehicles
+INDUSTRY : Tractors
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

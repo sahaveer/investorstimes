@@ -1,30 +1,24 @@
-CODES
-ANNAPURNA	
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
-EXPANSION 2023
-PRODUCT DEMAND
+CODES	ANNAPURNA	
+FULLNAME : Annapurna Swadisht Ltd
+SECTOR : Food Products
+INDUSTRY : Packaged Foods
 YSD YPD 2023
-LYPD PM 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
-- PRODUCT DEMAND is rising since 3 years
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 64.6% while the Profit QoQ_growth is much better than Sales itself at 99.2%
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 42.0% while the Profit QoQ_growth is at 32.1%
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-262.80cr, QoQ 64.60% & YoY 1818.25% SALES;
-28.20cr, QoQ 115.20% & YoY 3425.00% OPERATING PROFIT;
-14.20cr, QoQ 99.20% & YoY 4633.33% NET PROFIT;
-OPM %: 10.70% vs 8.2%
-NPM %: 5.40% vs 4.5%
+ 31-Mar-2025 #Result
+373.20cr, QoQ 42.00% & YoY 1738.42% SALES;
+42.20cr, QoQ 49.70% & YoY 2713.33% OPERATING PROFIT;
+18.80cr, QoQ 32.10% & YoY 3660.00% NET PROFIT;
+OPM %: 11.30% vs 10.7%
+NPM %: 5.00% vs 5.4%
 

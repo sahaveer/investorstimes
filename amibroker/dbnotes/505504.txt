@@ -1,26 +1,31 @@
-CODE	NAME
-505504 
-
+CODES	505504	
+FULLNAME : GHV Infra Projects Ltd
 SECTOR : Infrastructure Developers & Operators
 INDUSTRY : Construction
 
-***CONS***
-- NEGATIVE YProfit : -0.4
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.1    |   0.0    |   0.0    |   0.0    |   0.0    |      19.5    
- SQoQ%:  |   0.0    |  -100.0  |   nan    |   nan    |   nan    |      inf     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   0.0    |   -0.1   |   -0.2   |   -0.2   |   -0.4   |      3.2     
- PQoQ%:  |  -100.0  |   -inf   |   66.7   |  -20.0   |  168.8   |     -800.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   1.0    |   18.5  
- QoQ%:  |   nan    |   nan    |   nan    |   inf    |  1658.1 
- QOPM%: |   0.0    |   0.0    |   0.0    |   37.1   |   20.4  
- QNPM%: |   0.0    |   0.0    |   0.0    |   26.7   |   16.0  
- QPFT:  |   -0.0   |   -0.1   |   -0.1   |   0.3    |   3.0   
- PQoQ%: |  -88.9   |  166.7   |  -12.5   |  -500.0  |  957.1  
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2022	Mar-2023	Mar-2024	QSUM:Dec-2024
+YSALES: 	0.1		0.0		0.0		0.0		0.0		19.5
+SQoQ%: 	0.0		-100.0		nan		nan		nan		inf
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: 	0.0		-0.1		-0.2		-0.2		-0.4		3.2
+PQoQ%: 	-100.0		-inf		66.7		-20.0		168.8		-800.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2023		Mar-2024	Jun-2024	Sep-2024		Dec-2024
+QSALES: 	0.0		0.0		0.0		1.0		18.5
+QoQ%: 	nan		nan		nan		inf		1658.1
+QOPM%: 	0.0		0.0		0.0		37.1		20.4
+QNPM%: 	0.0		0.0		0.0		26.7		16.0
+QPFT: 	-0.0		-0.1		-0.1		0.3		3.0
+PQoQ%: 	-88.9		166.7		-12.5		-500.0		957.1
+
+
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -0.4

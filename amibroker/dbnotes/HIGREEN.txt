@@ -1,22 +1,23 @@
-CODES
-HIGREEN	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
-YSD YPD 2022
+CODES	HIGREEN	
+FULLNAME : Hi-Green Carbon Ltd
+SECTOR : Other Utilities
+INDUSTRY : Waste Management
+PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- YProfits and YSales DOUBLED in Mar2022
+- PRODUCT DEMAND is rising since 3 years
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-70.20cr, QoQ -9.90% & YoY 183.06% SALES;
-17.90cr, QoQ -10.60% & YoY 138.67% OPERATING PROFIT;
-10.30cr, QoQ -16.80% & YoY 281.48% NET PROFIT;
-OPM %: 25.50% vs 25.7%
-NPM %: 14.60% vs 15.8%
+ 31-Mar-2025 #Result
+88.30cr, QoQ 25.70% & YoY 266.39% SALES;
+18.40cr, QoQ 2.70% & YoY 397.30% OPERATING PROFIT;
+10.60cr, QoQ 2.80% & YoY 5200.00% NET PROFIT;
+OPM %: 20.80% vs 25.5%
+NPM %: 12.00% vs 14.6%
 

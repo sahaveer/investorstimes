@@ -1,44 +1,43 @@
-CODE	NAME
-539275 
+CODES	539275	
+FULLNAME : Mangalam Seeds Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Other Agricultural Products
+BestQ Dec 2025
 
-SECTOR : FMCG
-INDUSTRY : Miscellaneous
-PRODUCT DEMAND
-BestQ Dec 2024
-LYPD PM 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 41.2		40.8		65.4		112.4		103.0		96.4
+SQoQ%: 	2.2		-0.8		60.0		71.9		-8.3		93.6
+YOPM%: 	21.5		20.2		24.5		18.3		17.4
+YNPM%: 	14.9		12.7		16.9		11.7		10.0
+YPROFIT: 6.1		5.2		11.1		13.2		10.3		7.0
+PQoQ%: 	63.7		-15.8		114.1		19.1		-21.9		68.0
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   40.3   |   41.2   |   40.8   |   65.4   |  112.4   |      81.6    
- SQoQ%:  |   25.0   |   2.2    |   -0.8   |   60.0   |   71.9   |      72.6    
- YOPM%:  |   13.7   |   21.5   |   20.2   |   24.5   |   18.3   |              
- YNPM%:  |   9.3    |   14.9   |   12.7   |   16.9   |   11.7   |              
-YPROFIT: |   3.8    |   6.1    |   5.2    |   11.1   |   13.2   |      6.8     
- PQoQ%:  |   11.9   |   63.7   |  -15.8   |  114.1   |   19.1   |      51.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   52.3   |   21.4   |   32.2   |   22.0   |   27.4  
- QoQ%:  |  237.1   |  -59.1   |   50.7   |  -31.9   |   24.7  
- QOPM%: |   14.2   |   18.3   |   17.5   |   16.5   |   10.2  
- QNPM%: |   10.0   |   10.3   |   11.9   |   7.5    |   4.9   
- QPFT:  |   5.2    |   2.2    |   3.8    |   1.6    |   1.4   
- PQoQ%: |   79.1   |  -57.9   |   74.5   |  -57.3   |  -17.7  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 27.4		21.6		49.2		18.3		28.9
+QoQ%: 	24.7		-21.0		127.4		-62.8		57.8
+QOPM%: 	10.2		27.2		12.1		22.3		11.2
+QNPM%: 	4.9		15.6		7.9		9.7		4.4
+QPFT: 	1.4		3.4		3.9		1.8		1.3
+PQoQ%: 	-17.7		150.4		14.8		-54.1		-28.1
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 73% YSales
-- Last 3QPROFIT is about 52% of YProfit
-- LastYr YProfits Doubled and maintained in Mar2024
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
-As on Mar2024, Sales have increased by 71.9% while the Profit QoQ_growth is at 19.1%
+- Last 3QSALES is about 94% YSales
+- Last 3QPROFIT is about 68% of YProfit
+
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-112.40cr, QoQ 71.90% & YoY 178.91% SALES;
-20.60cr, QoQ 28.50% & YoY 274.55% OPERATING PROFIT;
-13.20cr, QoQ 19.10% & YoY 247.37% NET PROFIT;
-OPM %: 18.30% vs 24.5%
-NPM %: 11.70% vs 16.9%
+ 31-Mar-2025 #Result
+103.00cr, QoQ -8.30% & YoY 150.00% SALES;
+18.00cr, QoQ -12.80% & YoY 102.25% OPERATING PROFIT;
+10.30cr, QoQ -21.90% & YoY 68.85% NET PROFIT;
+OPM %: 17.40% vs 18.3%
+NPM %: 10.00% vs 11.7%
 

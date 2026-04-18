@@ -1,39 +1,46 @@
-CODE	NAME
-541144 
+CODES	541144	
+FULLNAME : Active Clothing Co Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Garments & Apparels
+BestQ Sep 2025
+LYPD PM 2025
 
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
-BestQ Dec 2024
-LYPD PM 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Sep-2025
+YSALES: 73.1		115.1		200.5		212.4		296.2		147.3
+SQoQ%: 	-50.6		57.3		74.2		5.9		39.5		49.7
+YOPM%: 	14.3		8.1		6.7		9.9		9.3
+YNPM%: 	0.1		0.5		1.1		2.3		2.9
+YPROFIT: 0.1		0.5		2.3		4.9		8.4		4.9
+PQoQ%: 	-93.0		766.7		334.6		115.0		73.9		58.3
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  148.0   |   73.1   |  115.1   |  200.5   |  212.4   |     227.7    
- SQoQ%:  |   -4.2   |  -50.6   |   57.3   |   74.2   |   5.9    |     107.2    
- YOPM%:  |   8.9    |   14.3   |   8.1    |   6.7    |   9.9    |              
- YNPM%:  |   0.6    |   0.1    |   0.5    |   1.1    |   2.3    |              
-YPROFIT: |   0.9    |   0.1    |   0.5    |   2.3    |   4.9    |      6.8     
- PQoQ%:  |  -71.9   |  -93.0   |  766.7   |  334.6   |  115.0   |     138.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   52.9   |   37.9   |   46.4   |   81.4   |   99.9  
- QoQ%:  |  -31.2   |  -28.3   |   22.4   |   75.4   |   22.7  
- QOPM%: |   10.1   |   13.0   |   12.0   |   9.8    |   8.7   
- QNPM%: |   1.8    |   3.5    |   2.6    |   3.0    |   3.1   
- QPFT:  |   1.0    |   1.3    |   1.2    |   2.5    |   3.1   
- PQoQ%: |  -46.4   |   38.1   |   -9.7   |  103.3   |   27.6  
+
+
+***QUARTERLY***
+QPNL: 	Sep-2024	Dec-2024	Mar-2025	Jun-2025	Sep-2025
+QSALES: 81.4		99.9		68.4		64.5		82.8
+QoQ%: 	75.4		22.7		-31.6		-5.7		28.4
+QOPM%: 	9.8		8.7		10.5		10.8		8.4
+QNPM%: 	3.0		3.1		5.3		3.3		3.4
+QPFT: 	2.5		3.1		3.6		2.1		2.8
+PQoQ%: 	103.3		27.6		15.6		-41.3		31.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 107% YSales
-- Last 3QPROFIT is about 139% of YProfit
-- LastYr YProfits Doubled and maintained in Mar2024
+- Last 2QPROFIT is about 58% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 296.2 showing a QoQ_growth of 39.5%. The YNETPROFIT grew by 73.9% to 8.4
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-212.40cr, QoQ 5.90% & YoY 43.51% SALES;
-20.90cr, QoQ 56.00% & YoY 58.33% OPERATING PROFIT;
-4.90cr, QoQ 115.00% & YoY 444.44% NET PROFIT;
-OPM %: 9.90% vs 6.7%
-NPM %: 2.30% vs 1.1%
+ 31-Mar-2025 #Result
+296.20cr, QoQ 39.50% & YoY 305.20% SALES;
+27.50cr, QoQ 31.60% & YoY 164.42% OPERATING PROFIT;
+8.40cr, QoQ 73.90% & YoY 8300.00% NET PROFIT;
+OPM %: 9.30% vs 9.9%
+NPM %: 2.90% vs 2.3%
 

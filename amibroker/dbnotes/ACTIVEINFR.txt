@@ -1,15 +1,16 @@
-CODES
-ACTIVEINFR	
+CODES	ACTIVEINFR	
+FULLNAME : Active Infrastructure Ltd
 SECTOR : Infrastructure Developers & Operators
 INDUSTRY : Construction
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

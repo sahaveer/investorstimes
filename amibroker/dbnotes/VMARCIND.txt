@@ -1,13 +1,11 @@
-CODES
-VMARCIND	
-SECTOR : Cables
-INDUSTRY : Cables - Power
+CODES	VMARCIND	
+FULLNAME : V-Marc India Ltd
+SECTOR : Industrials
+INDUSTRY : Capital Goods
 YSD YPD 2024
 LYPD PM 2025
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,6 +15,9 @@ ROCE in Mar2025 is at 19.2%
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2025, Sales have increased by 61.6% while the Profit QoQ_growth is at 34.4%
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

@@ -1,13 +1,14 @@
-CODE	NAME
-543799 
+CODES	543799	
+FULLNAME : S. V. J. Enterprises Ltd
+SECTOR : Paper, Forest & Jute Products
+INDUSTRY : Paper & Paper Products
 
-SECTOR : Paper
-INDUSTRY : Paper
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

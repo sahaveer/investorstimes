@@ -1,13 +1,14 @@
-CODE	NAME
-512217 
+CODES	512217	
+FULLNAME : Prism Medico & Pharmacy Ltd
+SECTOR : Finance
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

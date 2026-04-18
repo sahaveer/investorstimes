@@ -1,13 +1,11 @@
-CODE	NAME
-543937 
-
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
+CODES	543937	
+FULLNAME : Alphalogic Industries Ltd
+SECTOR : Industrial Products
+INDUSTRY : Other Industrial Products
 PRODUCT DEMAND
 YSD YPD 2023
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,11 +15,13 @@ YSD YPD 2023
 
 YSALES in Mar-2025 is at 62.4 showing a QoQ_growth of 31.2%. The YNETPROFIT grew by 24.7% to 2.9
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 62.40cr, QoQ 31.20% & YoY 1850.00% SALES;
-3.10cr, QoQ 15.40% & YoY 1450.00% OPERATING PROFIT;
+3.10cr, QoQ 12.50% & YoY 1450.00% OPERATING PROFIT;
 2.90cr, QoQ 24.70% & YoY 2800.00% NET PROFIT;
-OPM %: 5.10% vs 5.7%
+OPM %: 5.10% vs 5.9%
 NPM %: 4.70% vs 4.9%
 

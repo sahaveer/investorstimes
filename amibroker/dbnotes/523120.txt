@@ -1,31 +1,34 @@
-CODE	NAME
-523120 
+CODES	523120	
+FULLNAME : Thrive Future Habitats Limited
+SECTOR : Personal Products
+INDUSTRY : Personal Care
+LYPD PM 2025
 
-SECTOR : FMCG
-INDUSTRY : Personal Care - Indian
-PRODUCT DEMAND
-LYPD PM 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 19.3		13.4		12.2		6.7		2.2		0.8
+SQoQ%: 	95.9		-30.5		-9.4		-44.7		-67.6		36.4
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	7.8		0.0		0.0		0.0		0.0
+YPROFIT: 1.5		-6.9		-9.1		-4.6		-2.0		-0.4
+PQoQ%: 	-152.6		-562.0		31.5		-49.8		-56.9		20.0
 
-***CONS***
-- NEGATIVE YProfit : -4.0
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   9.9    |   19.3   |   13.4   |   12.2   |   6.7    |      1.5     
- SQoQ%:  |   35.6   |   95.9   |  -30.5   |   -9.4   |  -44.7   |      22.4    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   7.8    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -2.8   |   1.5    |   -6.9   |   -9.1   |   -4.0   |      -0.3    
- PQoQ%:  |  109.6   |  -152.6  |  -562.0  |   31.5   |  -55.9   |      7.5     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.2    |   0.8    |   0.7    |   0.2    |   0.6   
- QoQ%:  |  -22.1   |  -29.3   |  -18.3   |  -67.2   |  186.4  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |  241.5   |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.1   |   2.0    |   -0.0   |   -0.1   |   -0.2  
- PQoQ%: |  -98.5   | -1514.3  |  -102.0  |  250.0   |   28.6  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.6		0.7		0.3		0.4		0.1
+QoQ%: 	186.4		4.8		-54.5		23.3		-78.4
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		425.0
+QPFT: 	-0.2		-3.0		-0.3		-0.4		0.3
+PQoQ%: 	28.6		1538.9		-90.5		50.0		-181.0
+
+
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
-- PRODUCT DEMAND is rising since 3 years
-- LastYr YProfits Doubled and maintained in Mar2024
+DEBT-Free Company for the last 3 yrs
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -2.0

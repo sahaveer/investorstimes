@@ -1,13 +1,14 @@
-CODE	NAME
-504340 
+CODES	504340	
+FULLNAME : Longspur International Ventures Ltd
+SECTOR : Finance
+INDUSTRY : Other Financial Services
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

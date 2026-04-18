@@ -1,36 +1,45 @@
-CODES
-ONEPOINT	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	ONEPOINT	
+FULLNAME : One Point One Solutions Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO)
 PRODUCT DEMAND
+BestQ Dec 2025
 LYPD PM 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  101.6   |  131.7   |  140.2   |  169.8   |  256.4  
- SQoQ%:  |  -18.7   |   29.6   |   6.5    |   21.0   |   51.0  
- YOPM%:  |   7.8    |   21.4   |   23.6   |   30.2   |   24.2  
- YNPM%:  |   0.0    |   2.6    |   6.3    |   12.6   |   12.9  
-YPROFIT: |  -13.9   |   3.4    |   8.8    |   21.4   |   33.2  
- PQoQ%:  |  -29.1   |  -124.5  |  157.8   |  143.2   |   55.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   52.4   |   61.2   |   62.5   |   65.7   |   67.0  
- QoQ%:  |   25.3   |   16.8   |   2.2    |   5.1    |   2.1   
- QOPM%: |   27.9   |   27.5   |   27.3   |   24.0   |   18.3  
- QNPM%: |   12.7   |   12.4   |   13.4   |   12.8   |   13.0  
- QPFT:  |   6.7    |   7.6    |   8.4    |   8.4    |   8.7   
- PQoQ%: |   11.6   |   14.1   |   10.3   |   0.6    |   3.7   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 101.6		131.7		140.2		169.8		256.4		217.2
+SQoQ%: 	-18.7		29.6		6.5		21.0		51.0		84.7
+YOPM%: 	7.8		21.4		23.6		30.2		24.2
+YNPM%: 	0.0		2.6		6.3		12.6		12.9
+YPROFIT: -13.9		3.4		8.8		21.4		33.2		27.8
+PQoQ%: 	-29.1		-124.5		157.8		143.2		55.1		83.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 65.7		67.0		69.0		70.9		77.3
+QoQ%: 	5.1		2.1		2.9		2.7		9.1
+QOPM%: 	24.0		18.3		21.9		24.0		24.4
+QNPM%: 	12.8		13.0		13.7		13.9		11.2
+QPFT: 	8.4		8.7		9.4		9.8		8.6
+PQoQ%: 	0.6		3.7		8.0		4.3		-12.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 85% YSales
+- Last 3QPROFIT is about 84% of YProfit
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 51.0% while the Profit QoQ_growth is much better than Sales itself at 55.1%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

@@ -1,19 +1,19 @@
-CODE	NAME
-543939 
+CODES	543939	
+FULLNAME : Kaka Industries Ltd
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial
 
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
-
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 197.80cr, QoQ 16.20% & YoY 151.02% SALES;
-26.10cr, QoQ 22.70% & YoY 307.81% OPERATING PROFIT;
+26.10cr, QoQ 22.80% & YoY 307.81% OPERATING PROFIT;
 12.90cr, QoQ -1.10% & YoY 330.00% NET PROFIT;
 OPM %: 13.20% vs 12.5%
 NPM %: 6.50% vs 7.6%

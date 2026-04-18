@@ -1,12 +1,31 @@
-CODES
-522014	UNIDT	
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
+CODES	522014	UNIDT	
+FULLNAME : United Drilling Tools Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
+BestQ Sep 2025
+BestQ Sep 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- Last 2QSALES is about 52% YSales
+- QSales and QProfit doubled
+- Last 2QPROFIT is about 59% of YProfit
+
+YSALES in Mar-2025 is at 168.3 showing a QoQ_growth of 29.5%. The YNETPROFIT grew by 60.2% to 15.0
+
+***CONS***
+- NO PRODUCT DEMAND
+
+Yearly 
+ 31-Mar-2025 #Result
+168.30cr, QoQ 29.50% SALES;
+25.90cr, QoQ 21.10% OPERATING PROFIT;
+15.00cr, QoQ 60.20% NET PROFIT;
+OPM %: 15.40% vs 16.4%
+NPM %: 8.90% vs 7.2%
+

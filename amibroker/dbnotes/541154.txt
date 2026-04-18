@@ -1,40 +1,48 @@
-CODES
-541154	HAL	
-SECTOR : Aerospace & Defence
-INDUSTRY : Engineering
+CODES	541154	HAL	
+FULLNAME : Hindustan Aeronautics Ltd
+SECTOR : Aerospace & Defense
+INDUSTRY : Aerospace & Defense
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 22882.3  | 24620.0  | 26927.5  | 30381.1  | 30981.0 
- SQoQ%:  |   6.7    |   7.6    |   9.4    |   12.8   |   2.0   
- YOPM%:  |   23.4   |   22.0   |   24.8   |   32.1   |   31.0  
- YNPM%:  |   14.2   |   20.6   |   21.6   |   25.1   |   27.0  
-YPROFIT: |  3246.0  |  5080.0  |  5827.7  |  7621.0  |  8364.1 
- PQoQ%:  |   12.6   |   56.5   |   14.7   |   30.8   |   9.8   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 14768.8  |  4347.5  |  5976.3  |  6957.3  | 13699.8 
- QoQ%:  |  143.7   |  -70.6   |   37.5   |   16.4   |   96.9  
- QOPM%: |   40.0   |   22.8   |   27.4   |   24.2   |   38.6  
- QNPM%: |   29.2   |   33.1   |   25.3   |   20.7   |   29.0  
- QPFT:  |  4308.7  |  1437.2  |  1510.5  |  1439.8  |  3976.7 
- PQoQ%: |  241.6   |  -66.6   |   5.1    |   -4.7   |  176.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 22882.3		24620.0		26927.5		30381.1		30981.0		19146.4
+SQoQ%: 	6.7		7.6		9.4		12.8		2.0		61.8
+YOPM%: 	23.4		22.0		24.8		32.1		31.1
+YNPM%: 	14.2		20.6		21.6		25.1		27.0
+YPROFIT: 3246.0		5080.0		5827.7		7621.0		8364.1		4919.6
+PQoQ%: 	12.6		56.5		14.7		30.8		9.8		58.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 6957.3		13699.8		4819.0		6628.6		7698.8
+QoQ%: 	16.4		96.9		-64.8		37.6		16.1
+QOPM%: 	24.2		38.6		26.6		23.5		24.3
+QNPM%: 	20.7		29.0		28.7		25.2		24.2
+QPFT: 	1439.8		3976.7		1383.8		1669.1		1866.7
+PQoQ%: 	-4.7		176.2		-65.2		20.6		11.8
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 17.9%
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+ROCE in Mar2025 is at 19.1%
+- Last 3QSALES is about 62% YSales
+- Last 3QPROFIT is about 59% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 30981.00cr, QoQ 2.00% & YoY 35.39% SALES;
-9608.10cr, QoQ -1.50% & YoY 79.79% OPERATING PROFIT;
+9621.00cr, QoQ -1.30% & YoY 80.03% OPERATING PROFIT;
 8364.10cr, QoQ 9.80% & YoY 157.67% NET PROFIT;
-OPM %: 31.00% vs 32.1%
+OPM %: 31.10% vs 32.1%
 NPM %: 27.00% vs 25.1%
 

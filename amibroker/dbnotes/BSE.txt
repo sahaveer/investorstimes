@@ -1,44 +1,53 @@
-CODES
-BSE	
-SECTOR : Financial Services
-INDUSTRY : Miscellaneous
+CODES	BSE	
+FULLNAME : BSE Ltd
+SECTOR : Capital Markets
+INDUSTRY : Exchange and Data Platform
 PRODUCT DEMAND
+BestQ Dec 2025
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  630.4   |  840.7   |  924.8   |  1592.5  |  3212.0 
- SQoQ%:  |   4.1    |   33.3   |   10.0   |   72.2   |  101.7  
- YOPM%:  |   32.0   |   41.8   |   34.2   |   39.3   |   54.6  
- YNPM%:  |   23.0   |   30.3   |   23.9   |   48.9   |   41.3  
-YPROFIT: |  144.9   |  254.3   |  220.7   |  778.4   |  1325.9 
- PQoQ%:  |   18.5   |   75.5   |  -13.2   |  252.7   |   70.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  539.1   |  670.6   |  813.3   |  825.1   |  917.0  
- QoQ%:  |   26.5   |   24.4   |   21.3   |   1.4    |   11.1  
- QOPM%: |   28.0   |   51.7   |   56.0   |   35.5   |   60.5  
- QNPM%: |   19.9   |   39.5   |   42.6   |   26.6   |   53.9  
- QPFT:  |  107.0   |  265.0   |  346.8   |  219.7   |  494.4  
- PQoQ%: |   -1.1   |  147.6   |   30.8   |  -36.6   |  125.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 630.4		840.7		924.8		1568.2		3212.0		3270.5
+SQoQ%: 	3.5		33.3		10.0		69.6		104.8		101.8
+YOPM%: 	32.0		41.8		38.1		45.4		58.4
+YNPM%: 	23.0		30.3		23.9		49.6		41.3
+YPROFIT: 144.9		254.3		220.7		778.4		1325.9		1699.6
+PQoQ%: 	18.5		75.5		-13.2		252.7		70.3		128.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 768.1		846.6		958.0		1068.4		1244.1
+QoQ%: 	-5.6		10.2		13.1		11.5		16.4
+QOPM%: 	30.7		57.2		65.3		63.7		58.8
+QNPM%: 	28.6		58.4		56.3		52.3		48.4
+QPFT: 	219.7		494.4		539.4		558.4		601.8
+PQoQ%: 	-36.6		125.1		9.1		3.5		7.8
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 78.7%
+ROCE in Mar2025 is at 87.4%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 102% YSales
+- Last 3QPROFIT is about 128% of YProfit
 - LastYr YProfits Doubled and maintained in Mar2025
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
-As on Mar2025, Sales have increased by 101.7% while the Profit QoQ_growth is at 70.3%
+As on Mar2025, Sales have increased by 104.8% while the Profit QoQ_growth is at 70.3%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-3212.00cr, QoQ 101.70% & YoY 409.52% SALES;
-1754.40cr, QoQ 180.30% & YoY 770.24% OPERATING PROFIT;
+3212.00cr, QoQ 104.80% & YoY 409.52% SALES;
+1876.10cr, QoQ 163.70% & YoY 830.61% OPERATING PROFIT;
 1325.90cr, QoQ 70.30% & YoY 815.04% NET PROFIT;
-OPM %: 54.60% vs 39.3%
-NPM %: 41.30% vs 48.9%
+OPM %: 58.40% vs 45.4%
+NPM %: 41.30% vs 49.6%
 

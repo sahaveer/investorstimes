@@ -1,38 +1,49 @@
-CODES
-543374	ABSLAMC	
-SECTOR : Finance
-INDUSTRY : Finance & Investments
+CODES	543374	ABSLAMC	
+FULLNAME : Aditya Birla Sun Life AMC Ltd
+SECTOR : Capital Markets
+INDUSTRY : Asset Management Company
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1201.6  |  1405.2  |  1349.1  |  1635.6  |  1684.8 
- SQoQ%:  |   -2.7   |   16.9   |   -4.0   |   21.2   |   3.0   
- YOPM%:  |   61.2   |   66.3   |   61.4   |   63.8   |   58.7  
- YNPM%:  |   43.8   |   47.9   |   44.2   |   47.7   |   55.2  
-YPROFIT: |  526.3   |  672.8   |  596.4   |  780.4   |  930.6  
- PQoQ%:  |   6.4    |   27.8   |  -11.4   |   30.8   |   19.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  365.6   |  386.6   |  424.2   |  445.1   |  428.8  
- QoQ%:  |   7.1    |   5.8    |   9.7    |   4.9    |   -3.7  
- QOPM%: |   56.0   |   57.0   |   59.0   |   61.6   |   56.9  
- QNPM%: |   57.0   |   61.0   |   57.1   |   50.4   |   53.2  
- QPFT:  |  208.4   |  235.7   |  242.3   |  224.5   |  228.1  
- PQoQ%: |   -0.5   |   13.1   |   2.8    |   -7.4   |   1.6   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1201.6		1405.2		1349.1		1635.6		1982.3		1386.8
+SQoQ%: 	-2.7		16.9		-4.0		21.2		21.2		70.0
+YOPM%: 	61.2		66.3		61.4		63.8		64.9
+YNPM%: 	43.8		47.9		44.2		47.7		46.9
+YPROFIT: 526.3		672.8		596.4		780.4		930.6		787.9
+PQoQ%: 	6.4		27.8		-11.4		30.8		19.3		84.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 445.1		428.8		447.4		461.3		478.1
+QoQ%: 	4.9		-3.7		4.3		3.1		3.6
+QOPM%: 	61.6		56.9		59.5		61.3		60.6
+QNPM%: 	50.4		53.2		61.9		52.3		56.4
+QPFT: 	224.5		228.1		277.1		241.3		269.5
+PQoQ%: 	-7.4		1.6		21.5		-12.9		11.7
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 619.1%
+ROCE in Mar2025 is at 916.2%
+- Last 3QSALES is about 70% YSales
+- Last 3QPROFIT is about 85% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 21.2% while the Profit QoQ_growth is at 19.3%
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
-1684.80cr, QoQ 3.00% & YoY 40.21% SALES;
-989.00cr, QoQ -5.20% & YoY 34.58% OPERATING PROFIT;
+1982.30cr, QoQ 21.20% & YoY 64.97% SALES;
+1286.60cr, QoQ 23.30% & YoY 75.07% OPERATING PROFIT;
 930.60cr, QoQ 19.30% & YoY 76.82% NET PROFIT;
-OPM %: 58.70% vs 63.8%
-NPM %: 55.20% vs 47.7%
+OPM %: 64.90% vs 63.8%
+NPM %: 46.90% vs 47.7%
 

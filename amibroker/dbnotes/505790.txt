@@ -1,12 +1,32 @@
-CODES
-505790	SCHAEFFLER	
-SECTOR : Bearings
-INDUSTRY : Bearings
+CODES	505790	SCHAEFFLER	
+FULLNAME : Schaeffler India Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+DEBT-Free Company for the last 3 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Dec2025 is at 17.5%
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 78% of YProfit
+
+YSALES in Dec-2025 is at 9685.8 showing a QoQ_growth of 17.7%. The YNETPROFIT grew by 22.5% to 1150.4
+
+***CONS***
+- NO PRODUCT DEMAND
+
+Yearly 
+ 31-Dec-2025 #Result
+9685.80cr, QoQ 17.70% SALES;
+1763.00cr, QoQ 21.90% OPERATING PROFIT;
+1150.40cr, QoQ 22.50% NET PROFIT;
+OPM %: 18.20% vs 17.6%
+NPM %: 11.90% vs 11.4%
+

@@ -1,27 +1,32 @@
-CODE	NAME
-511557 
+CODES	511557	
+FULLNAME : Pro Fin Capital Services Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 
-SECTOR : Finance
-INDUSTRY : Finance & Investments
+***YEARLY***
+YPNL: 	Mar-2017	Mar-2018	Mar-2019	Mar-2020	Mar-2021	QSUM:Dec-2019
+YSALES: 26.6		32.2		61.7		34.7		20.2		55.2
+SQoQ%: 	324.2		21.2		91.4		-43.8		-41.7		273.3
+YOPM%: 	4.8		9.0		5.5		45.6		41.2
+YNPM%: 	0.9		3.1		1.9		8.5		0.0
+YPROFIT: 0.2		1.0		1.2		3.0		-7.1		3.1
+PQoQ%: 	500.0		320.8		16.8		150.0		-339.7		-43.7
 
-***CONS***
-- NEGATIVE YProfit : -7.1
- YPNL:   | Mar-2017 | Mar-2018 | Mar-2019 | Mar-2020 | Mar-2021 | QSUM:Dec-2019
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   26.6   |   32.2   |   61.7   |   34.7   |   20.2   |      55.2    
- SQoQ%:  |  324.2   |   21.2   |   91.4   |  -43.8   |  -41.7   |     273.3    
- YOPM%:  |   4.8    |   9.0    |   5.5    |   45.6   |   41.2   |              
- YNPM%:  |   0.9    |   3.1    |   1.9    |   8.5    |   0.0    |              
-YPROFIT: |   0.2    |   1.0    |   1.2    |   3.0    |   -7.1   |      3.1     
- PQoQ%:  |  500.0   |  320.8   |   16.8   |  150.0   |  -339.7  |     -43.7    
- QPNL:  | Dec-2018 | Mar-2019 | Jun-2019 | Sep-2019 | Dec-2019
---------+----------+----------+----------+----------+---------
-QSALES: |   15.2   |   24.2   |   7.1    |   25.9   |   22.2  
- QoQ%:  |   -8.7   |   58.5   |  -70.7   |  265.5   |  -14.1  
- QOPM%: |   1.0    |   0.2    |   18.8   |   10.0   |   6.4   
- QNPM%: |   0.2    |   0.0    |   10.6   |   5.6    |   3.7   
- QPFT:  |   0.0    |   -0.2   |   0.8    |   1.5    |   0.8   
- PQoQ%: |  -96.8   |  -766.7  |  -475.0  |   94.7   |  -43.8  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2018	Mar-2019	Jun-2019	Sep-2019	Dec-2019
+QSALES: 15.2		24.2		7.1		25.9		22.2
+QoQ%: 	-8.7		58.5		-70.7		265.5		-14.1
+QOPM%: 	1.0		0.2		18.8		10.0		6.4
+QNPM%: 	0.2		0.0		10.6		5.6		3.7
+QPFT: 	0.0		-0.2		0.8		1.5		0.8
+PQoQ%: 	-96.8		-766.7		-475.0		94.7		-43.8
+
+
 
 ***PROS***
 - Last 3QSALES is about 273% YSales
+
+***CONS***
+- NEGATIVE YProfit : -7.1

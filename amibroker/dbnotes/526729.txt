@@ -1,42 +1,49 @@
-CODES
-526729	GOLDIAM	
-SECTOR : Diamond, Gems and Jewellery
-INDUSTRY : Diamond Cutting / Jewellery
+CODES	526729	GOLDIAM	
+FULLNAME : Goldiam International Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
 PRODUCT DEMAND
-BestQ Dec 2024
-BestQ Dec 2024
+BestQ Dec 2025
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  364.5   |  406.0   |  687.7   |  533.2   |  602.9   |     582.4    
- SQoQ%:  |  -16.1   |   11.4   |   69.4   |  -22.5   |   13.1   |      96.6    
- YOPM%:  |   12.3   |   19.3   |   18.9   |   19.6   |   19.0   |              
- YNPM%:  |   12.9   |   15.0   |   15.3   |   15.8   |   15.1   |              
-YPROFIT: |   46.9   |   61.0   |  105.2   |   84.4   |   90.8   |      93.8    
- PQoQ%:  |   -5.4   |   30.2   |   72.4   |  -19.7   |   7.6    |     103.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  201.8   |  147.9   |  165.8   |  137.0   |  279.6  
- QoQ%:  |   51.3   |  -26.7   |   12.1   |  -17.4   |  104.1  
- QOPM%: |   20.1   |   16.2   |   18.2   |   22.3   |   22.4  
- QNPM%: |   16.1   |   12.1   |   13.3   |   16.2   |   17.8  
- QPFT:  |   32.5   |   17.8   |   22.0   |   22.1   |   49.7  
- PQoQ%: |   38.8   |  -45.0   |   23.5   |   0.5    |  124.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 406.0		687.7		533.2		602.9		781.0		742.2
+SQoQ%: 	11.4		69.4		-22.5		13.1		29.5		95.0
+YOPM%: 	19.3		18.9		19.6		19.0		20.5
+YNPM%: 	15.0		15.3		15.8		15.1		15.0
+YPROFIT: 61.0		105.2		84.4		90.8		117.0		133.5
+PQoQ%: 	30.2		72.4		-19.7		7.6		28.9		114.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 279.6		198.6		229.7		192.8		319.7
+QoQ%: 	104.1		-29.0		15.7		-16.1		65.8
+QOPM%: 	22.4		18.3		17.9		19.9		22.1
+QNPM%: 	17.8		11.6		14.7		16.3		21.4
+QPFT: 	49.7		23.1		33.7		31.4		68.4
+PQoQ%: 	124.6		-53.5		45.7		-6.9		118.1
+
+
 
 ***PROS***
-DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 97% YSales
+- Last 3QSALES is about 95% YSales
 - Double QSales and QProfit
-- Last 3QPROFIT is about 103% of YProfit
+- Last 3QPROFIT is about 114% of YProfit
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 
+YSALES in Mar-2025 is at 781.0 showing a QoQ_growth of 29.5%. The YNETPROFIT grew by 28.9% to 117.0
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-602.90cr, QoQ 13.10% & YoY 65.40% SALES;
-114.70cr, QoQ 10.00% & YoY 156.03% OPERATING PROFIT;
-90.80cr, QoQ 7.60% & YoY 93.60% NET PROFIT;
-OPM %: 19.00% vs 19.6%
-NPM %: 15.10% vs 15.8%
+ 31-Mar-2025 #Result
+781.00cr, QoQ 29.50% & YoY 92.36% SALES;
+160.30cr, QoQ 39.80% & YoY 104.46% OPERATING PROFIT;
+117.00cr, QoQ 28.90% & YoY 91.80% NET PROFIT;
+OPM %: 20.50% vs 19.0%
+NPM %: 15.00% vs 15.1%
 

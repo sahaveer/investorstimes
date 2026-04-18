@@ -1,30 +1,43 @@
-CODE	NAME
-538881 
-
+CODES	538881	
+FULLNAME : Galada Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-LYPD PM 2024
+INDUSTRY : Non Banking Financial Company (NBFC)
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.0    |   0.9    |   1.1    |   0.9    |   1.4    |      1.2     
- SQoQ%:  |  -23.6   |   -6.2   |   16.5   |  -14.2   |   50.5   |      85.7    
- YOPM%:  |   0.0    |   44.0   |   26.4   |   41.8   |   67.2   |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   2.2    |   24.8   |              
-YPROFIT: |   -0.7   |   -0.1   |   -0.3   |   0.0    |   0.3    |      0.0     
- PQoQ%:  |  245.0   |  -89.9   |  285.7   |  -107.4  |  1600.0  |      0.0     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.4    |   0.5    |   0.4    |   0.4    |   0.4   
- QoQ%:  |   32.1   |   29.7   |  -22.9   |   0.0    |   2.7   
- QOPM%: |   64.9   |   87.5   |   59.5   |   59.5   |   63.2  
- QNPM%: |   10.8   |   41.7   |   8.1    |   10.8   |   7.9   
- QPFT:  |   0.0    |   0.2    |   0.0    |   0.0    |   0.0   
- PQoQ%: |  -55.6   |  400.0   |  -85.0   |   33.3   |  -25.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.9		1.1		0.9		1.4		1.7		1.8
+SQoQ%: 	-6.2		16.5		-14.2		50.5		21.2		105.9
+YOPM%: 	44.0		26.4		41.8		67.2		63.3
+YNPM%: 	0.0		0.0		2.2		24.8		15.1
+YPROFIT: -0.1		-0.3		0.0		0.3		0.2		0.2
+PQoQ%: 	-89.9		285.7		-107.4		1600.0		-26.5		100.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.4		0.5		0.5		0.6		0.7
+QoQ%: 	2.7		42.1		-1.9		17.0		12.9
+QOPM%: 	63.2		68.5		60.4		56.5		61.4
+QNPM%: 	7.9		27.8		7.5		11.3		14.3
+QPFT: 	0.0		0.2		0.0		0.1		0.1
+PQoQ%: 	-25.0		400.0		-73.3		75.0		42.9
+
+
 
 ***PROS***
-- Last 3QSALES is about 86% YSales
-- LastYr YProfits Doubled and maintained in Mar2024
+- Last 3QSALES is about 106% YSales
+- Last 3QPROFIT is about 100% of YProfit
 
-YSALES in Mar-2024 is at 1.4 showing a QoQ_growth of 50.5%. The YNETPROFIT grew by 1600.0% to 0.3
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+1.70cr, QoQ 21.20% & YoY 88.89% SALES;
+1.00cr, QoQ 14.10% & YoY 150.00% OPERATING PROFIT;
+0.20cr, QoQ -26.50% & YoY -300.00% NET PROFIT;
+OPM %: 63.30% vs 67.2%
+NPM %: 15.10% vs 24.8%
+

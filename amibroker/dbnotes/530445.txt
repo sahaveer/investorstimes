@@ -1,27 +1,32 @@
-CODE	NAME
-530445 
+CODES	530445	
+FULLNAME : Sumeru Industries Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		0.1		0.1		0.1		0.0		0.0
+SQoQ%: 	nan		inf		0.0		0.0		-100.0		nan
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	inf		16.7		16.7		0.0		inf
+YPROFIT: 0.0		0.0		0.0		0.0		0.1		0.0
+PQoQ%: 	-75.0		0.0		0.0		-100.0		inf		0.0
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   0.0    |   0.1    |   0.1    |   0.1    |   0.0   
- SQoQ%:  |   nan    |   inf    |   0.0    |   0.0    |  -100.0 
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- YNPM%:  |   inf    |   16.7   |   16.7   |   0.0    |   inf   
-YPROFIT: |   0.0    |   0.0    |   0.0    |   0.0    |   0.1   
- PQoQ%:  |  -75.0   |   0.0    |   0.0    |  -100.0  |   inf   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   inf    |   inf    |   inf   
- QPFT:  |   -0.1   |   -0.0   |   0.0    |   0.0    |   0.0   
- PQoQ%: |  -240.0  |  -85.7   |  -600.0  |  -40.0   |   0.0   
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	inf		inf		0.0		inf		inf
+QPFT: 	0.0		0.0		-0.0		0.0		0.0
+PQoQ%: 	-40.0		0.0		-133.3		-300.0		0.0
+
+
 
 ***PROS***
 A DEBT-Free Company
 
+
+***CONS***

@@ -1,21 +1,22 @@
-CODES
-ALUWIND	
-SECTOR : Construction
-INDUSTRY : Construction
+CODES	ALUWIND	
+FULLNAME : Aluwind Infra-Tech Ltd
+SECTOR : Industrial Products
+INDUSTRY : Aluminium, Copper & Zinc Products
 LYPD PM 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - LastYr YProfits Doubled and maintained in Mar2025
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 109.20cr, QoQ 30.90% & YoY 417.54% SALES;
-12.00cr, QoQ 1.40% & YoY 531.58% OPERATING PROFIT;
+12.00cr, QoQ 1.50% & YoY 531.58% OPERATING PROFIT;
 8.10cr, QoQ 7.70% & YoY 912.50% NET PROFIT;
-OPM %: 11.00% vs 14.2%
+OPM %: 11.00% vs 14.1%
 NPM %: 7.40% vs 9.0%
 

@@ -1,15 +1,16 @@
-CODES
-SECL	
+CODES	SECL	
+FULLNAME : Salasar Exteriors & Contour Ltd
 SECTOR : Infrastructure Developers & Operators
 INDUSTRY : Construction
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

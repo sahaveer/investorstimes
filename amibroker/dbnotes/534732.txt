@@ -1,13 +1,44 @@
-CODE	NAME
-534732 
+CODES	534732	
+FULLNAME : Caspian Corporate Services Ltd
+SECTOR : Finance
+INDUSTRY : Other Financial Services
+PRODUCT DEMAND
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.5		1.4		1.1		1.8		1.9		3.6
+SQoQ%: 	-2.1		208.7		-22.5		65.5		5.5		189.5
+YOPM%: 	45.7		48.6		36.4		26.9		0.5
+YNPM%: 	32.6		35.2		40.9		35.2		39.6
+YPROFIT: 0.2		0.5		0.4		0.6		0.8		-0.1
+PQoQ%: 	-21.1		233.3		-10.0		42.2		18.8		-12.5
 
-***CONS***
 
 
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.3		0.8		0.8		1.0		1.8
+QoQ%: 	-8.3		127.3		5.3		27.8		82.2
+QOPM%: 	0.0		0.0		0.0		0.0		0.5
+QNPM%: 	0.0		80.0		0.0		3.0		0.0
+QPFT: 	-0.0		0.6		0.0		0.0		-0.1
+PQoQ%: 	-300.0		-3100.0		-100.0		inf		-400.0
 
 
 
 ***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 189% YSales
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+1.90cr, QoQ 5.50% & YoY 280.00% SALES;
+0.00cr, QoQ -98.00% & YoY -100.00% OPERATING PROFIT;
+0.80cr, QoQ 18.80% & YoY 300.00% NET PROFIT;
+OPM %: 0.50% vs 26.9%
+NPM %: 39.60% vs 35.2%
+

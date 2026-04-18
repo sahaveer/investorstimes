@@ -1,28 +1,38 @@
-CODE	NAME
-539288 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	539288	
+FULLNAME : AVI Polymers Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
 PRODUCT DEMAND
+BestQ Dec 2025
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   3.9    |   4.9    |   3.8    |   0.6    |   0.1   
- SQoQ%:  |  330.8   |   25.0   |  -22.4   |  -83.2   |  -90.6  
- YOPM%:  |   3.3    |   6.7    |   0.0    |   0.0    |   0.0   
- YNPM%:  |   8.7    |   9.8    |   3.2    |   3.1    |  1366.7 
-YPROFIT: |   0.3    |   0.5    |   0.1    |   0.0    |   0.8   
- PQoQ%:  |  385.7   |   41.2   |  -75.0   |  -83.3   |  4000.0 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |  -96.4   |  150.0   |  -80.0   |  -100.0  |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   40.0   |  400.0   |   inf    |   inf   
- QPFT:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.7   
- PQoQ%: |  -100.0  |   inf    |  100.0   |  -50.0   |  3600.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3.9		4.9		3.8		0.6		0.1		161.8
+SQoQ%: 	330.8		25.0		-22.4		-83.2		-90.6		161800.0
+YOPM%: 	3.3		6.7		0.0		0.0		0.0
+YNPM%: 	8.7		9.8		3.2		3.1		1366.7
+YPROFIT: 0.3		0.5		0.1		0.0		0.8		10.0
+PQoQ%: 	385.7		41.2		-75.0		-83.3		4000.0		1250.0
+
+
+
+***QUARTERLY***
+QPNL: 	Sep-2024	Dec-2024	Mar-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		29.5		132.3
+QoQ%: 	-80.0		-100.0		nan		inf		348.5
+QOPM%: 	0.0		0.0		0.0		9.8		8.1
+QNPM%: 	400.0		inf		inf		7.8		5.3
+QPFT: 	0.0		0.0		0.7		2.3		7.0
+PQoQ%: 	100.0		-50.0		3600.0		209.5		206.6
+
+
 
 ***PROS***
 A DEBT-Free Company
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 161800% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 1250% of YProfit
+
+***CONS***

@@ -1,12 +1,14 @@
-CODES
-506222	STYRENIX	
-SECTOR : Petrochemicals
-INDUSTRY : Petrochemicals
+CODES	506222	STYRENIX	
+FULLNAME : Styrenix Performance Materials Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

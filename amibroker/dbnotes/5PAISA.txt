@@ -1,33 +1,40 @@
-CODES
-540776	5PAISA	
-SECTOR : Stock/ Commodity Brokers
-INDUSTRY : Finance & Investments
+CODES	540776	5PAISA	
+FULLNAME : 5paisa Capital Ltd
+SECTOR : Capital Markets
+INDUSTRY : Stockbroking & Allied
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  194.6   |  297.9   |  338.2   |  394.7   |  359.6  
- SQoQ%:  |   79.7   |   53.1   |   13.5   |   16.7   |   -8.9  
- YOPM%:  |   23.1   |   15.7   |   25.6   |   28.0   |   35.3  
- YNPM%:  |   7.6    |   4.6    |   12.9   |   13.8   |   19.0  
-YPROFIT: |   14.7   |   13.7   |   43.6   |   54.4   |   68.2  
- PQoQ%:  |  -285.9  |   -6.5   |  217.1   |   24.9   |   25.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  112.9   |  102.2   |  100.8   |   85.3   |   71.3  
- QoQ%:  |   12.6   |   -9.4   |   -1.4   |  -15.4   |  -16.4  
- QOPM%: |   18.2   |   36.5   |   38.2   |   35.2   |   29.7  
- QNPM%: |   5.1    |   19.6   |   21.7   |   19.0   |   14.1  
- QPFT:  |   5.8    |   20.1   |   21.9   |   16.2   |   10.1  
- PQoQ%: |  -61.7   |  247.6   |   9.0    |  -26.1   |  -37.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 194.6		297.9		338.2		394.7		359.8		234.2
+SQoQ%: 	79.7		53.1		13.5		16.7		-8.8		65.1
+YOPM%: 	23.1		15.7		25.6		28.0		35.4
+YNPM%: 	7.6		4.6		12.9		13.8		19.0
+YPROFIT: 14.7		13.7		43.6		54.4		68.2		33.4
+PQoQ%: 	-285.9		-6.5		217.1		24.9		25.3		49.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 85.3		71.3		77.7		77.2		79.3
+QoQ%: 	-15.4		-16.4		9.0		-0.7		2.7
+QOPM%: 	35.2		29.7		32.4		29.8		33.9
+QNPM%: 	19.0		14.1		14.9		12.3		15.5
+QPFT: 	16.2		10.1		11.6		9.5		12.3
+PQoQ%: 	-26.1		-37.8		14.7		-17.9		29.7
+
+
 
 ***PROS***
+- Last 3QSALES is about 65% YSales
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-359.60cr, QoQ -8.90% & YoY 84.79% SALES;
-127.00cr, QoQ 14.90% & YoY 182.22% OPERATING PROFIT;
+359.80cr, QoQ -8.80% & YoY 84.89% SALES;
+127.40cr, QoQ 15.30% & YoY 183.11% OPERATING PROFIT;
 68.20cr, QoQ 25.30% & YoY 363.95% NET PROFIT;
-OPM %: 35.30% vs 28.0%
+OPM %: 35.40% vs 28.0%
 NPM %: 19.00% vs 13.8%
 

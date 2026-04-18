@@ -1,31 +1,45 @@
-CODE	NAME
-511710 
-
+CODES	511710	
+FULLNAME : Cubical Financial Services Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 YSD YPD 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.1    |   1.3    |   2.2    |   1.2    |   2.7    |      2.1     
- SQoQ%:  |  -71.1   |   23.6   |   64.9   |  -46.3   |  135.3   |      77.8    
- YOPM%:  |   35.8   |   22.1   |   38.0   |   0.0    |   47.3   |              
- YNPM%:  |   27.4   |   15.3   |   31.0   |   0.0    |   42.5   |              
-YPROFIT: |   0.3    |   0.2    |   0.7    |   -0.3   |   1.2    |      0.4     
- PQoQ%:  |  -32.6   |  -31.0   |  235.0   |  -143.3  |  -500.0  |      33.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.4    |   0.5    |   0.2    |   1.5    |   0.4   
- QoQ%:  |  -77.7   |   29.7   |  -47.9   |  484.0   |  -74.7  
- QOPM%: |   24.3   |  145.8   |   28.0   |   23.3   |   40.5  
- QNPM%: |   35.1   |  135.4   |   20.0   |   17.8   |   32.4  
- QPFT:  |   0.1    |   0.6    |   0.0    |   0.3    |   0.1   
- PQoQ%: |  -230.0  |  400.0   |  -92.3   |  420.0   |  -53.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.3		2.2		1.2		2.7		2.4		1.0
+SQoQ%: 	23.6		64.9		-46.3		135.3		-11.4		41.7
+YOPM%: 	22.1		38.0		0.0		47.3		28.1
+YNPM%: 	15.3		31.0		0.0		42.5		15.7
+YPROFIT: 0.2		0.7		-0.3		1.2		0.4		0.1
+PQoQ%: 	-31.0		235.0		-143.3		-500.0		-67.2		25.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.4		0.3		0.3		0.4		0.3
+QoQ%: 	-74.7		-8.1		-20.6		59.3		-20.9
+QOPM%: 	40.5		38.2		33.3		16.3		8.8
+QNPM%: 	32.4		0.0		25.9		7.0		0.0
+QPFT: 	0.1		-0.1		0.1		0.0		0.0
+PQoQ%: 	-53.8		-150.0		-216.7		-57.1		-100.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- Last 3QSALES is about 78% YSales
-- YProfit Turned POSITIVE this year Mar-2024 : 1.2
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2024
+
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+2.40cr, QoQ -11.40% & YoY 84.62% SALES;
+0.70cr, QoQ -47.30% & YoY 133.33% OPERATING PROFIT;
+0.40cr, QoQ -67.20% & YoY 100.00% NET PROFIT;
+OPM %: 28.10% vs 47.3%
+NPM %: 15.70% vs 42.5%
 

@@ -1,11 +1,11 @@
-CODE	NAME
-544327 
-
+CODES	544327	
+FULLNAME : Technichem Organics Ltd
 SECTOR : Chemicals
 INDUSTRY : Chemicals
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

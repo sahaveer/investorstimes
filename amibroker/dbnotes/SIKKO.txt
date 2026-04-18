@@ -1,12 +1,14 @@
-CODES
-SIKKO	
-SECTOR : Agro Chemicals
-INDUSTRY : Pesticides / Agrochemicals - Indian
+CODES	SIKKO	
+FULLNAME : Sikko Industries Ltd
+SECTOR : Fertilizers & Agrochemicals
+INDUSTRY : Pesticides & Agrochemicals
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

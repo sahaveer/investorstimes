@@ -1,30 +1,47 @@
-CODE	NAME
-512103 
-
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	512103	
+FULLNAME : Nidhi Granites Ltd
+SECTOR : Other Construction Materials
+INDUSTRY : Other Construction Materials
 PRODUCT DEMAND
-BestQ Dec 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+BestQ Dec 2025
+YS15 YPD 2025
 
-***CONS***
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.2		15.9		25.6		38.5		45.3		48.6
+SQoQ%: 	nan		10506.7		61.2		50.2		17.6		107.3
+YOPM%: 	13.3		5.4		4.9		4.1		3.4
+YNPM%: 	46.7		1.9		1.7		1.8		4.2
+YPROFIT: 0.1		0.3		0.4		0.7		1.9		5.7
+PQoQ%: 	nan		328.6		46.7		54.5		182.4		300.0
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 13.4		10.5		19.8		13.2		15.6
+QoQ%: 	10.8		-21.8		89.0		-33.5		18.0
+QOPM%: 	6.7		0.0		16.3		16.1		21.9
+QNPM%: 	7.0		0.0		11.3		9.8		14.2
+QPFT: 	0.9		-0.9		2.2		1.3		2.2
+PQoQ%: 	-14.5		-193.6		-354.5		-42.4		71.3
 
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 89% YSales
-- Last 3QPROFIT is about 400% of YProfit
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 52.5% while the Profit QoQ_growth is much better than Sales itself at 54.5%
+- Last 3QSALES is about 107% YSales
+- Last 3QPROFIT is about 300% of YProfit
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
+As on Mar2025, Sales have increased by 17.6% while the Profit QoQ_growth is much better than Sales itself at 182.4%
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-39.10cr, QoQ 52.50% SALES;
-2.10cr, QoQ 69.80% OPERATING PROFIT;
-0.70cr, QoQ 54.50% NET PROFIT;
-OPM %: 5.50% vs 4.9%
-NPM %: 1.70% vs 1.7%
+ 31-Mar-2025 #Result
+45.30cr, QoQ 17.60% & YoY 22550.00% SALES;
+1.50cr, QoQ -2.60% & YoY inf% OPERATING PROFIT;
+1.90cr, QoQ 182.40% & YoY 1800.00% NET PROFIT;
+OPM %: 3.40% vs 4.1%
+NPM %: 4.20% vs 1.8%
 

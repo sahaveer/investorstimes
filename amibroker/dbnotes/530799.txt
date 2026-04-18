@@ -1,43 +1,49 @@
-CODE	NAME
-530799 
-
-SECTOR : Realty
-INDUSTRY : Construction
+CODES	530799	
+FULLNAME : Anna Infrastructures Ltd
+SECTOR : Finance
+INDUSTRY : Non Banking Financial Company (NBFC)
+BestQ Dec 2025
+BestQ Dec 2025
 YSD YPD 2023
-LYPD PM 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.2    |   1.0    |   0.5    |   1.1    |   1.7    |      0.6     
- SQoQ%:  |   31.8   |  -12.9   |  -50.5   |  126.0   |   48.7   |      35.3    
- YOPM%:  |   31.0   |   44.6   |   8.0    |   30.1   |   42.9   |              
- YNPM%:  |   19.0   |   28.7   |   0.0    |   20.4   |   35.7   |              
-YPROFIT: |   0.2    |   0.3    |   -0.0   |   0.2    |   0.6    |      0.0     
- PQoQ%:  |  -15.4   |   31.8   |  -117.2  |  -560.0  |  160.9   |      0.0     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.1    |   0.2    |   0.1    |   0.3    |   0.2   
- QoQ%:  |  -90.5   |  133.3   |  -47.6   |  172.7   |  -36.7  
- QOPM%: |   11.1   |   14.3   |   0.0    |   0.0    |   10.5  
- QNPM%: |   11.1   |   33.3   |   0.0    |   3.3    |   10.5  
- QPFT:  |   0.0    |   0.1    |   0.0    |   0.0    |   0.0   
- PQoQ%: |  -97.2   |  600.0   |  -100.0  |   inf    |  100.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.0		0.5		1.1		1.7		1.9		1.9
+SQoQ%: 	-12.9		-50.5		126.0		48.7		10.7		100.0
+YOPM%: 	44.6		8.0		30.1		42.9		30.6
+YNPM%: 	28.7		0.0		20.4		35.7		26.3
+YPROFIT: 0.3		-0.0		0.2		0.6		0.5		0.9
+PQoQ%: 	31.8		-117.2		-560.0		160.9		-18.3		180.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.2		1.3		0.1		0.1		1.7
+QoQ%: 	-36.7		568.4		-93.7		-12.5		2371.4
+QOPM%: 	10.5		42.5		0.0		0.0		61.8
+QNPM%: 	10.5		35.4		50.0		0.0		50.3
+QPFT: 	0.0		0.4		0.0		0.0		0.9
+PQoQ%: 	100.0		2150.0		-91.1		-100.0		inf
+
+
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 100% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 180% of YProfit
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
 
-YSALES in Mar-2024 is at 1.7 showing a QoQ_growth of 48.7%. The YNETPROFIT grew by 160.9% to 0.6
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1.70cr, QoQ 48.70% & YoY 41.67% SALES;
-0.70cr, QoQ 111.80% & YoY 75.00% OPERATING PROFIT;
-0.60cr, QoQ 160.90% & YoY 200.00% NET PROFIT;
-OPM %: 42.90% vs 30.1%
-NPM %: 35.70% vs 20.4%
+ 31-Mar-2025 #Result
+1.90cr, QoQ 10.70% & YoY 90.00% SALES;
+0.60cr, QoQ -20.80% & YoY 20.00% OPERATING PROFIT;
+0.50cr, QoQ -18.30% & YoY 66.67% NET PROFIT;
+OPM %: 30.60% vs 42.9%
+NPM %: 26.30% vs 35.7%
 

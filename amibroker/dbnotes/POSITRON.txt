@@ -1,5 +1,5 @@
-CODES
-POSITRON	
+CODES	POSITRON	
+FULLNAME : Positron Energy Ltd
 SECTOR : Gas Distribution
 INDUSTRY : Miscellaneous
 PRODUCT DEMAND
@@ -7,8 +7,7 @@ YSD YPD 2025
 YSD YPD 2024
 LYPD PM 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -20,6 +19,8 @@ ROCE in Mar2025 is at 19.1%
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2025, Sales have increased by 150.0% while the Profit QoQ_growth is at 103.0%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

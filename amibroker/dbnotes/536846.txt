@@ -1,34 +1,33 @@
-CODE	NAME
-536846 
-
-SECTOR : Trading
-INDUSTRY : Trading
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	536846	
+FULLNAME : Yuranus Infrastructure Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
 YSD YPD 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.7    |   0.3    |   0.4    |   0.4    |   73.4   |      23.6    
- SQoQ%:  |   -6.3   |  -60.8   |   24.1   |   11.1   | 18250.0  |      32.2    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   2.6    |              
- YNPM%:  |   9.5    |   13.8   |   11.1   |   10.0   |   2.0    |              
-YPROFIT: |   0.1    |   0.0    |   0.0    |   0.0    |   1.4    |      -0.3    
- PQoQ%:  |   40.0   |  -42.9   |   0.0    |   0.0    |  3525.0  |     -21.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   15.3   |   26.5   |   15.2   |   1.4    |   7.0   
- QoQ%:  |   -1.1   |   73.4   |  -42.7   |  -90.7   |  396.5  
- QOPM%: |   1.5    |   1.5    |   2.4    |   0.0    |   0.0   
- QNPM%: |   1.0    |   1.1    |   2.1    |   0.0    |   0.0   
- QPFT:  |   0.2    |   0.3    |   0.3    |   -0.3   |   -0.3  
- PQoQ%: |  -50.0   |   93.3   |   10.3   |  -203.1  |  -21.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.3		0.4		0.4		73.4		27.5		4.7
+SQoQ%: 	-60.8		24.1		11.1		18250.0		-62.6		17.1
+YOPM%: 	0.0		0.0		0.0		2.6		0.0
+YNPM%: 	13.8		11.1		10.0		2.0		0.0
+YPROFIT: 0.0		0.0		0.0		1.4		-0.4		-0.4
+PQoQ%: 	-42.9		0.0		0.0		3525.0		-130.3		100.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 7.0		3.8		0.0		1.8		2.9
+QoQ%: 	396.5		-46.4		-99.2		5766.7		66.5
+QOPM%: 	0.0		0.0		0.0		0.0		17.4
+QNPM%: 	0.0		0.0		0.0		0.0		8.5
+QPFT: 	-0.3		-0.2		-0.2		-0.4		0.2
+PQoQ%: 	-21.2		-38.5		0.0		150.0		-162.5
+
+
 
 ***PROS***
-A DEBT-Free Company
-- PRODUCT DEMAND is rising since 3 years
-- Double QSales and QProfit
 - YProfits and YSales DOUBLED in Mar2024
 
-YSALES in Mar-2024 is at 73.4 showing a QoQ_growth of 18250.0%. The YNETPROFIT grew by 3525.0% to 1.4
+***CONS***
+- NEGATIVE YProfit : -0.4

@@ -1,45 +1,52 @@
-CODES
-500480	CUMMINSIND	
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engines
-BestQ Dec 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+CODES	500480	CUMMINSIND	
+FULLNAME : Cummins India Ltd
+SECTOR : Industrial Products
+INDUSTRY : Compressors, Pumps & Diesel Engines
+PRODUCT DEMAND
+BestQ Dec 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  5191.4  |  4360.1  |  6170.9  |  7772.1  |  9000.2  |     7920.4   
- SQoQ%:  |   -8.9   |  -16.0   |   41.5   |   25.9   |   15.8   |      88.0    
- YOPM%:  |   11.4   |   13.8   |   14.3   |   16.1   |   19.7   |              
- YNPM%:  |   13.6   |   14.6   |   15.1   |   15.8   |   19.1   |              
-YPROFIT: |  705.6   |  635.0   |  933.7   |  1228.2  |  1720.6  |     1470.5   
- PQoQ%:  |   -5.0   |  -10.0   |   47.0   |   31.5   |   40.1   |      85.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  2541.4  |  2319.0  |  2315.6  |  2508.6  |  3096.2 
- QoQ%:  |   32.3   |   -8.7   |   -0.1   |   8.3    |   23.4  
- QOPM%: |   21.3   |   23.2   |   20.4   |   19.3   |   19.3  
- QNPM%: |   19.6   |   23.2   |   20.0   |   17.9   |   18.0  
- QPFT:  |  498.9   |  538.9   |  462.6   |  449.4   |  558.5  
- PQoQ%: |   51.6   |   8.0    |  -14.2   |   -2.9   |   24.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 4360.1		6170.9		7772.1		9000.2		10390.7		9132.0
+SQoQ%: 	-16.0		41.5		25.9		15.8		15.4		87.9
+YOPM%: 	13.8		14.3		16.1		19.7		20.0
+YNPM%: 	14.6		15.1		15.8		19.1		19.2
+YPROFIT: 635.0		933.7		1228.2		1720.6		1999.9		1712.3
+PQoQ%: 	-10.0		47.0		31.5		40.1		16.2		85.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3096.2		2470.4		2906.8		3170.3		3054.9
+QoQ%: 	23.4		-20.2		17.7		9.1		-3.6
+QOPM%: 	19.3		21.3		21.4		21.9		20.8
+QNPM%: 	18.0		21.4		20.8		19.6		15.9
+QPFT: 	558.5		529.5		603.9		622.3		486.1
+PQoQ%: 	24.3		-5.2		14.1		3.1		-21.9
+
+
 
 ***PROS***
-A DEBT-Free Company
+A DEBT-Free Company for the last 2 yrs
+- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 22.5%
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+ROCE in Mar2025 is at 21.6%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
 - Last 3QSALES is about 88% YSales
-- Last 3QPROFIT is about 85% of YProfit
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+- Last 3QPROFIT is about 86% of YProfit
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 15.8% while the Profit QoQ_growth is much better than Sales itself at 40.1%
+As on Mar2025, Sales have increased by 15.4% while the Profit QoQ_growth is much better than Sales itself at 16.2%
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-9000.20cr, QoQ 15.80% & YoY 73.37% SALES;
-1769.70cr, QoQ 41.80% & YoY 198.28% OPERATING PROFIT;
-1720.60cr, QoQ 40.10% & YoY 143.85% NET PROFIT;
-OPM %: 19.70% vs 16.1%
-NPM %: 19.10% vs 15.8%
+ 31-Mar-2025 #Result
+10390.70cr, QoQ 15.40% & YoY 138.31% SALES;
+2080.00cr, QoQ 17.50% & YoY 245.06% OPERATING PROFIT;
+1999.90cr, QoQ 16.20% & YoY 214.94% NET PROFIT;
+OPM %: 20.00% vs 19.7%
+NPM %: 19.20% vs 19.1%
 

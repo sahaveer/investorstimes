@@ -1,13 +1,14 @@
-CODE	NAME
-531279 
+CODES	531279	
+FULLNAME : Trishakti Industries Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 
-SECTOR : Finance
-INDUSTRY : Finance & Investments
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

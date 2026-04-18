@@ -1,10 +1,14 @@
-CODES
-SKP	
-SECTOR : Bearings
-INDUSTRY : Bearings
+CODES	SKP	
+FULLNAME : SKP Bearing Industries Ltd
+SECTOR : Industrial Products
+INDUSTRY : Abrasives & Bearings
 
-***CONS***
+***YEARLY***
 
+
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

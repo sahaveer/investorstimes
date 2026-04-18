@@ -1,39 +1,43 @@
-CODES
-539042	AGIIL	
+CODES	539042	AGIIL	
+FULLNAME : AGI Infra Ltd
 SECTOR : Realty
-INDUSTRY : Construction
-PRODUCT DEMAND
-BestQ Dec 2024
+INDUSTRY : Residential, Commercial Projects
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   91.0   |  110.2   |  197.4   |  240.0   |  292.3   |     241.6    
- SQoQ%:  |   12.9   |   21.1   |   79.1   |   21.6   |   21.8   |      82.7    
- YOPM%:  |   36.3   |   29.7   |   24.8   |   24.4   |   26.0   |              
- YNPM%:  |   16.5   |   15.3   |   18.4   |   20.0   |   17.8   |              
-YPROFIT: |   15.0   |   16.9   |   36.4   |   48.1   |   52.1   |      50.9    
- PQoQ%:  |   62.2   |   12.4   |  115.2   |   32.1   |   8.3    |      97.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   72.8   |   79.8   |   72.6   |   77.6   |   91.4  
- QoQ%:  |   2.7    |   9.7    |   -9.0   |   6.8    |   17.9  
- QOPM%: |   26.4   |   23.3   |   29.6   |   34.3   |   31.4  
- QNPM%: |   20.5   |   11.7   |   19.8   |   22.5   |   20.9  
- QPFT:  |   14.9   |   9.3    |   14.4   |   17.4   |   19.1  
- PQoQ%: |   3.0    |  -37.4   |   54.3   |   21.1   |   9.2   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 110.2		197.4		240.0		292.3		324.7		264.4
+SQoQ%: 	21.1		79.1		21.6		21.8		11.1		81.4
+YOPM%: 	29.7		24.8		24.4		26.0		28.7
+YNPM%: 	15.3		18.4		20.0		17.8		20.5
+YPROFIT: 16.9		36.4		48.1		52.1		66.7		68.1
+PQoQ%: 	12.4		115.2		32.1		8.3		28.0		102.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 91.4		83.3		91.6		85.3		87.5
+QoQ%: 	17.9		-8.9		10.0		-6.9		2.6
+QOPM%: 	31.4		18.8		33.1		39.4		43.4
+QNPM%: 	20.9		18.9		21.8		25.8		29.8
+QPFT: 	19.1		15.7		20.0		22.0		26.1
+PQoQ%: 	9.2		-17.4		27.1		10.2		18.4
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 83% YSales
-- Last 3QPROFIT is about 98% of YProfit
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 102% of YProfit
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-292.30cr, QoQ 21.80% & YoY 221.21% SALES;
-76.00cr, QoQ 29.80% & YoY 130.30% OPERATING PROFIT;
-52.10cr, QoQ 8.30% & YoY 247.33% NET PROFIT;
-OPM %: 26.00% vs 24.4%
-NPM %: 17.80% vs 20.0%
+ 31-Mar-2025 #Result
+324.70cr, QoQ 11.10% & YoY 194.65% SALES;
+93.20cr, QoQ 22.70% & YoY 185.02% OPERATING PROFIT;
+66.70cr, QoQ 28.00% & YoY 294.67% NET PROFIT;
+OPM %: 28.70% vs 26.0%
+NPM %: 20.50% vs 17.8%
 

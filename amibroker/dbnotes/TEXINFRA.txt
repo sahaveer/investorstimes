@@ -1,29 +1,36 @@
-CODES
-505400	TEXINFRA	
-SECTOR : Realty
-INDUSTRY : Construction
+CODES	505400	TEXINFRA	
+FULLNAME : Texmaco Infrastructure & Holdings Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -7.2
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   14.8   |   19.1   |   16.5   |   16.1   |   15.9  
- SQoQ%:  |  -21.5   |   29.6   |  -13.5   |   -2.7   |   -1.3  
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- YNPM%:  |   75.1   |   0.0    |   18.8   |   33.4   |   0.0   
-YPROFIT: |   11.1   |  -86.2   |   3.1    |   5.4    |   -7.2  
- PQoQ%:  |  -200.9  |  -879.1  |  -103.6  |   73.2   |  -234.3 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   3.4    |   3.8    |   4.8    |   4.0    |   3.3   
- QoQ%:  |  -11.6   |   10.5   |   26.1   |  -16.7   |  -16.3  
- QOPM%: |   0.0    |   0.0    |   0.0    |   1.5    |   0.0   
- QNPM%: |   72.9   |   9.5    |   55.0   |   0.0    |   33.9  
- QPFT:  |   2.5    |   0.4    |   2.6    |  -11.3   |   1.1   
- PQoQ%: |  431.9   |  -85.6   |  630.6   |  -530.8  |  -110.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 14.8		19.1		16.5		16.1		15.9		13.0
+SQoQ%: 	-21.5		29.6		-13.5		-2.7		-1.3		81.8
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	75.1		0.0		18.8		33.4		0.0
+YPROFIT: 11.1		-86.2		3.1		5.4		-7.2		10.4
+PQoQ%: 	-200.9		-879.1		-103.6		73.2		-234.3		-144.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4.0		3.3		4.0		5.2		3.8
+QoQ%: 	-16.7		-16.3		21.6		28.9		-26.8
+QOPM%: 	1.3		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		33.9		83.2		114.0		26.4
+QPFT: 	-11.3		1.1		3.4		6.0		1.0
+PQoQ%: 	-530.8		-110.0		198.2		76.6		-83.0
+
+
 
 ***PROS***
 A DEBT-Free Company for the last 2 yrs
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 82% YSales
 
+
+***CONS***
+- NEGATIVE YProfit : -7.2

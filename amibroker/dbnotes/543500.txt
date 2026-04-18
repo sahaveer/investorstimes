@@ -1,16 +1,16 @@
-CODE	NAME
-543500 
+CODES	543500	
+FULLNAME : Evoq Remedies Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 A DEBT-Free Company
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

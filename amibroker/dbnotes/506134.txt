@@ -1,13 +1,18 @@
-CODE	NAME
-506134 
+CODES	506134	
+FULLNAME : Gourmet Gateway India Ltd
+SECTOR : Leisure Services
+INDUSTRY : Restaurants
+PRODUCT DEMAND
 
-SECTOR : Hotels & Restaurants
-INDUSTRY : Hotels
-
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 87% YSales
+
+***CONS***
+- NEGATIVE YProfit : -2.3

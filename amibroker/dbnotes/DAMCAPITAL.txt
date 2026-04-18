@@ -1,5 +1,5 @@
-CODES
-544316	DAMCAPITAL	
+CODES	544316	DAMCAPITAL	
+FULLNAME : Dam Capital Advisors Ltd
 SECTOR : Finance
 INDUSTRY : Finance & Investments
 PRODUCT DEMAND
@@ -7,10 +7,10 @@ YSD YPD 2024
 LYPD PM 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
@@ -20,6 +20,8 @@ PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 37.5% while the Profit QoQ_growth is much better than Sales itself at 47.2%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

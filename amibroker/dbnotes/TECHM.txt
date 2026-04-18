@@ -1,29 +1,38 @@
-CODES
-532755	TECHM	
+CODES	532755	TECHM	
+FULLNAME : Tech Mahindra Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Large
+INDUSTRY : Computers - Software & Consulting
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 37855.1  | 44646.0  | 53290.2  | 51995.5  | 52988.3 
- SQoQ%:  |   2.7    |   17.9   |   19.4   |   -2.4   |   1.9   
- YOPM%:  |   18.0   |   18.0   |   14.6   |   8.7    |   13.1  
- YNPM%:  |   11.7   |   12.5   |   9.1    |   4.5    |   8.0   
-YPROFIT: |  4428.0  |  5566.1  |  4831.3  |  2357.8  |  4251.5 
- PQoQ%:  |   9.8    |   25.7   |  -13.2   |  -51.2   |   80.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 12871.3  | 13005.5  | 13313.2  | 13285.6  | 13384.0 
- QoQ%:  |   -1.8   |   1.0    |   2.4    |   -0.2   |   0.7   
- QOPM%: |   8.5    |   12.0   |   13.1   |   13.6   |   13.7  
- QNPM%: |   5.1    |   6.5    |   9.4    |   7.4    |   8.7   
- QPFT:  |  661.0   |  851.5   |  1250.1  |  983.2   |  1166.7 
- PQoQ%: |   29.5   |   28.8   |   46.8   |  -21.4   |   18.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 37855.1		44646.0		53290.2		51995.5		52988.3		41739.3
+SQoQ%: 	2.7		17.9		19.4		-2.4		1.9		78.8
+YOPM%: 	18.0		18.0		14.6		8.7		13.1
+YNPM%: 	11.7		12.5		9.1		4.5		8.0
+YPROFIT: 4428.0		5566.1		4831.3		2357.8		4251.5		3457.1
+PQoQ%: 	9.8		25.7		-13.2		-51.2		80.3		81.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 13285.6		13384.0		13351.2		13994.9		14393.2
+QoQ%: 	-0.2		0.7		-0.2		4.8		2.8
+QOPM%: 	13.6		13.7		14.5		15.5		16.4
+QNPM%: 	7.4		8.7		8.5		8.5		7.8
+QPFT: 	983.2		1166.7		1140.6		1194.5		1122.0
+PQoQ%: 	-21.4		18.7		-2.2		4.7		-6.1
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 81% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

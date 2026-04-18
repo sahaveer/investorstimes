@@ -1,34 +1,42 @@
-CODES
-540425	SHANKARA	
-SECTOR : Retail
-INDUSTRY : Trading
+CODES	540425	SHANKARA	
+FULLNAME : Shankara Building Products Ltd
+SECTOR : Retailing
+INDUSTRY : Speciality Retail
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2038.4  |  2418.4  |  4029.7  |  4828.4  |  5696.7 
- SQoQ%:  |  -22.8   |   18.6   |   66.6   |   19.8   |   18.0  
- YOPM%:  |   3.5    |   3.5    |   2.9    |   3.1    |   3.0   
- YNPM%:  |   0.7    |   1.4    |   1.6    |   1.7    |   1.4   
-YPROFIT: |   13.8   |   34.3   |   63.0   |   81.1   |   77.4  
- PQoQ%:  |  -65.3   |  147.8   |   83.7   |   28.7   |   -4.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1376.6  |  1291.0  |  1329.4  |  1437.2  |  1639.2 
- QoQ%:  |   16.9   |   -6.2   |   3.0    |   8.1    |   14.1  
- QOPM%: |   3.1    |   3.2    |   2.8    |   2.8    |   3.1   
- QNPM%: |   1.8    |   1.2    |   1.1    |   1.2    |   1.7   
- QPFT:  |   24.2   |   16.0   |   15.2   |   17.7   |   28.4  
- PQoQ%: |   13.1   |  -33.7   |   -5.2   |   16.3   |   60.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2038.4		2418.4		4029.7		4828.4		5696.7		1023.5
+SQoQ%: 	-22.8		18.6		66.6		19.8		18.0		18.0
+YOPM%: 	3.5		3.5		2.9		3.1		3.0
+YNPM%: 	0.7		1.4		1.6		1.7		1.4
+YPROFIT: 13.8		34.3		63.0		81.1		77.4		-3.6
+PQoQ%: 	-65.3		147.8		83.7		28.7		-4.6		-4.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1437.2		1639.2		323.2		279.9		420.4
+QoQ%: 	326.1		14.1		-80.3		-13.4		50.2
+QOPM%: 	2.8		3.1		1.8		0.0		1.2
+QNPM%: 	1.2		1.7		0.1		0.0		0.3
+QPFT: 	17.7		28.4		0.4		-5.2		1.2
+PQoQ%: 	1957.0		60.8		-98.5		-1328.6		-123.8
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Double QSales and QProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 5696.70cr, QoQ 18.00% & YoY 179.47% SALES;
-168.90cr, QoQ 11.70% & YoY 136.89% OPERATING PROFIT;
+169.00cr, QoQ 11.80% & YoY 137.03% OPERATING PROFIT;
 77.40cr, QoQ -4.60% & YoY 460.87% NET PROFIT;
 OPM %: 3.00% vs 3.1%
 NPM %: 1.40% vs 1.7%

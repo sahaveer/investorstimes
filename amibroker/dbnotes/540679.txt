@@ -1,37 +1,42 @@
-CODES
-540679	SMSLIFE	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
-BestQ Dec 2024
+CODES	540679	SMSLIFE	
+FULLNAME : SMS Lifesciences India Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+BestQ Sep 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Sep-2025
+YSALES: 265.6		350.1		315.6		306.0		344.7		163.9
+SQoQ%: 	1.8		31.8		-9.9		-3.0		12.7		47.5
+YOPM%: 	11.4		9.9		9.1		10.2		13.1
+YNPM%: 	5.1		7.2		3.6		3.0		5.8
+YPROFIT: 13.6		25.3		11.5		9.1		20.1		10.3
+PQoQ%: 	33.2		86.7		-54.7		-20.7		121.2		51.2
+
+
+
+***QUARTERLY***
+QPNL: 	Sep-2024	Dec-2024	Mar-2025	Jun-2025	Sep-2025
+QSALES: 78.5		84.6		89.1		82.5		81.4
+QoQ%: 	-15.2		7.8		5.3		-7.4		-1.4
+QOPM%: 	10.9		15.1		8.3		14.2		16.7
+QNPM%: 	6.0		6.5		3.3		5.0		7.5
+QPFT: 	4.7		5.5		3.0		4.2		6.1
+PQoQ%: 	-33.3		17.1		-45.7		40.1		46.6
+
+
+
+***PROS***
+- Last 2QPROFIT is about 51% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  260.8   |  265.6   |  350.1   |  315.6   |  306.0   |     255.7    
- SQoQ%:  |  -31.0   |   1.8    |   31.8   |   -9.9   |   -3.0   |      83.6    
- YOPM%:  |   9.8    |   11.4   |   9.9    |   9.1    |   10.2   |              
- YNPM%:  |   3.9    |   5.1    |   7.2    |   3.6    |   3.0    |              
-YPROFIT: |   10.2   |   13.6   |   25.3   |   11.5   |   9.1    |      17.2    
- PQoQ%:  |  -43.0   |   33.2   |   86.7   |  -54.7   |  -20.7   |     189.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   72.0   |   90.0   |   92.6   |   78.5   |   84.6  
- QoQ%:  |   4.0    |   24.9   |   2.8    |  -15.2   |   7.8   
- QOPM%: |   12.9   |   12.6   |   17.6   |   10.9   |   15.1  
- QNPM%: |   6.0    |   6.6    |   7.6    |   6.0    |   6.5   
- QPFT:  |   4.3    |   5.9    |   7.0    |   4.7    |   5.5   
- PQoQ%: |  532.4   |   37.2   |   18.6   |  -33.3   |   17.1  
-
-***PROS***
-- Last 3QSALES is about 84% YSales
-- Last 3QPROFIT is about 189% of YProfit
 
 Yearly 
- 31-Mar-2024 #Result
-306.00cr, QoQ -3.00% & YoY 17.33% SALES;
-31.20cr, QoQ 8.30% & YoY 22.83% OPERATING PROFIT;
-9.10cr, QoQ -20.70% & YoY -10.78% NET PROFIT;
-OPM %: 10.20% vs 9.1%
-NPM %: 3.00% vs 3.6%
+ 31-Mar-2025 #Result
+344.70cr, QoQ 12.70% & YoY 29.78% SALES;
+45.10cr, QoQ 44.60% & YoY 49.34% OPERATING PROFIT;
+20.10cr, QoQ 121.20% & YoY 47.79% NET PROFIT;
+OPM %: 13.10% vs 10.2%
+NPM %: 5.80% vs 3.0%
 

@@ -1,12 +1,14 @@
-CODES
-542383	RITCO	
-SECTOR : Logistics
-INDUSTRY : Miscellaneous
+CODES	542383	RITCO	
+FULLNAME : Ritco Logistics Ltd
+SECTOR : Transport Services
+INDUSTRY : Logistics Solution Provider
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

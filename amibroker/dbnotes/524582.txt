@@ -1,13 +1,14 @@
-CODE	NAME
-524582 
+CODES	524582	
+FULLNAME : Tirupati Starch & Chemicals Ltd
+SECTOR : Food Products
+INDUSTRY : Other Food Products
 
-SECTOR : FMCG
-INDUSTRY : Miscellaneous
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

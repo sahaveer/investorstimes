@@ -1,29 +1,36 @@
-CODES
-544066	SUNCLAY	
-SECTOR : Castings, Forgings & Fastners
-INDUSTRY : Castings & Forgings
+CODES	544066	SUNCLAY	
+FULLNAME : Sundaram Clayton Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
 PRODUCT DEMAND
 LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -10.6
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1128.0  |  1692.4  |  2052.8  |  1415.3  |  2259.3 
- SQoQ%:  |  -93.7   |   50.0   |   21.3   |  -31.1   |   59.6  
- YOPM%:  |   12.4   |   11.4   |   6.1    |   2.2    |   4.2   
- YNPM%:  |   0.0    |   1.5    |   0.0    |   0.0    |   0.0   
-YPROFIT: |  -44.8   |   25.2   |  -107.8  |  -120.1  |  -10.6  
- PQoQ%:  |  -107.1  |  -156.3  |  -527.6  |   11.4   |  -91.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  554.8   |  580.4   |  562.6   |  529.4   |  586.9  
- QoQ%:  |   0.7    |   4.6    |   -3.1   |   -5.9   |   10.9  
- QOPM%: |   2.7    |   1.7    |   2.8    |   7.1    |   5.3   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   24.5  
- QPFT:  |  -47.3   |  -55.8   |  -54.2   |  -44.2   |  143.6  
- PQoQ%: |  -24.7   |   18.0   |   -3.0   |  -18.5   |  -425.1 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1128.0		1692.4		2052.8		1415.3		2259.3		1507.5
+SQoQ%: 	-93.7		50.0		21.3		-31.1		59.6		66.7
+YOPM%: 	12.4		11.4		6.1		2.2		4.3
+YNPM%: 	0.0		1.5		0.0		0.0		0.0
+YPROFIT: -44.8		25.2		-107.8		-120.1		-10.6		-174.1
+PQoQ%: 	-107.1		-156.3		-527.6		11.4		-91.1		1642.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 529.4		586.9		511.6		494.8		501.1
+QoQ%: 	-5.9		10.9		-12.8		-3.3		1.3
+QOPM%: 	7.1		5.3		3.2		3.0		7.1
+QNPM%: 	0.0		24.5		0.0		0.0		0.0
+QPFT: 	-44.2		143.6		-57.8		-64.4		-51.9
+PQoQ%: 	-18.5		-425.1		-140.2		11.4		-19.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 67% YSales
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -10.6

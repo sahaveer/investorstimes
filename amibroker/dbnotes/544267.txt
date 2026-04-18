@@ -1,16 +1,16 @@
-CODE	NAME
-544267 
-
+CODES	544267	
+FULLNAME : Subam Papers Ltd
 SECTOR : Paper
 INDUSTRY : Paper
 EXPANSION 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

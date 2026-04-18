@@ -1,29 +1,40 @@
-CODE	NAME
-530839 
-
+CODES	530839	
+FULLNAME : CLIO Infotech Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+INDUSTRY : Software Products
+BestQ Dec 2025
+BestQ Dec 2025
 YSD YPD 2024
-LYPD PM 2024
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   0.1    |   0.0    |   0.0    |   0.2    |      0.0     
- SQoQ%:  |  -100.0  |   inf    |  -100.0  |   inf    |  650.0   |      0.0     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   13.3   |              
-YPROFIT: |   -0.5   |   -0.4   |   -0.6   |   -0.3   |   0.0    |      0.0     
- PQoQ%:  |  160.0   |  -15.4   |   25.0   |  -45.5   |  -106.7  |      nan     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.1    |   0.0    |   0.0    |   0.0   
- QoQ%:  |  -100.0  |   inf    |  -77.8   |   0.0    |   0.0   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |  300.0   |  150.0   |  100.0   |  100.0  
- QPFT:  |   -0.1   |   0.3    |   0.0    |   0.0    |   0.0   
- PQoQ%: |   0.0    |  -437.5  |  -88.9   |  -33.3   |   0.0   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.1		0.0		0.0		0.2		0.1		2.1
+SQoQ%: 	inf		-100.0		inf		650.0		-6.7		2100.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		13.3		42.9
+YPROFIT: -0.4		-0.6		-0.3		0.0		0.1		0.3
+PQoQ%: 	-15.4		25.0		-45.5		-106.7		200.0		300.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.1		0.1		0.1		1.9
+QoQ%: 	0.0		350.0		-22.2		57.1		1663.6
+QOPM%: 	0.0		0.0		0.0		0.0		16.5
+QNPM%: 	100.0		0.0		0.0		0.0		14.4
+QPFT: 	0.0		-0.0		0.0		0.0		0.3
+PQoQ%: 	0.0		-150.0		-100.0		nan		inf
+
+
 
 ***PROS***
+- Last 3QSALES is about 2100% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 300% of YProfit
 - YProfits and YSales DOUBLED in Mar2024
-- LastYr YProfits Doubled and maintained in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NO PRODUCT DEMAND

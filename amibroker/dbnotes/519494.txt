@@ -1,26 +1,33 @@
-CODES
-519494	NKIND	
-SECTOR : Edible Oil
-INDUSTRY : Solvent Extraction
+CODES	519494	NKIND	
+FULLNAME : N K Industries Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Edible Oil
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 22.0		20.3		17.8		18.1		16.1		10.2
+SQoQ%: 	-80.7		-7.5		-12.6		1.6		-10.8		63.4
+YOPM%: 	7.8		10.6		7.4		7.7		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -2.3		-1.5		-1.9		-1.0		-3.6		-3.5
+PQoQ%: 	-64.0		-32.3		21.6		-44.6		244.7		97.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3.9		4.6		3.9		3.6		2.7
+QoQ%: 	-3.5		18.7		-14.4		-8.7		-24.0
+QOPM%: 	4.7		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-0.4		-2.7		-0.7		-2.0		-0.8
+PQoQ%: 	-21.8		518.6		-74.1		194.2		-60.1
+
+
+
+***PROS***
+- Last 3QSALES is about 63% YSales
 
 ***CONS***
 - NO PRODUCT DEMAND
 - NEGATIVE YProfit : -3.6
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   22.0   |   20.3   |   17.8   |   18.1   |   16.8  
- SQoQ%:  |  -80.7   |   -7.5   |  -12.6   |   1.6    |   -6.9  
- YOPM%:  |   7.8    |   10.6   |   7.4    |   7.7    |   0.0   
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
-YPROFIT: |   -2.3   |   -1.5   |   -1.9   |   -1.0   |   -3.6  
- PQoQ%:  |  -64.0   |  -32.3   |   21.6   |  -44.6   |  244.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   6.0    |   4.4    |   4.0    |   3.9    |   4.6   
- QoQ%:  |   34.2   |  -26.5   |   -8.7   |   -3.5   |   18.7  
- QOPM%: |   28.9   |   18.9   |   0.0    |   4.7    |   0.0   
- QNPM%: |   14.1   |   2.1    |   0.0    |   0.0    |   0.0   
- QPFT:  |   0.8    |   0.1    |   -0.6   |   -0.4   |   -2.7  
- PQoQ%: |  -310.0  |  -89.3   |  -711.1  |  -21.8   |  518.6  
-
-***PROS***

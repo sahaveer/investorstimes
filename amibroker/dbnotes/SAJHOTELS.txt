@@ -1,16 +1,18 @@
-CODES
-SAJHOTELS	
+CODES	SAJHOTELS	
+FULLNAME : Saj Hotels Ltd
 SECTOR : Hotels & Restaurants
 INDUSTRY : Hotels
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 
+
+***CONS***
 
 Quarterly 
 31-Dec-2024 #Result

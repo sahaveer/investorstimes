@@ -1,30 +1,33 @@
-CODES
-BALAXI	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+CODES	BALAXI	
+FULLNAME : Balaxi Pharmaceuticals Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 231.3		279.4		336.4		241.3		292.6		199.4
+SQoQ%: 	407.0		20.8		20.4		-28.3		21.2		68.1
+YOPM%: 	18.4		18.2		17.1		18.5		11.0
+YNPM%: 	16.5		17.1		13.7		0.0		8.6
+YPROFIT: 38.1		47.7		46.0		-2.4		25.1		0.8
+PQoQ%: 	525.2		25.0		-3.6		-105.2		-1149.0		3.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 73.3		76.3		70.7		56.2		72.5
+QoQ%: 	-5.3		4.1		-7.3		-20.6		29.1
+QOPM%: 	5.4		16.5		5.9		2.1		4.3
+QNPM%: 	7.3		11.3		0.4		0.4		0.4
+QPFT: 	5.4		8.6		0.3		0.2		0.3
+PQoQ%: 	16.8		61.2		-96.6		-27.6		47.6
+
+
+
+***PROS***
+- Last 3QSALES is about 68% YSales
+- YProfit Turned POSITIVE this year Mar-2025 : 25.1
 
 ***CONS***
 - NO PRODUCT DEMAND
-- NEGATIVE YProfit : -2.4
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   45.6   |  231.3   |  279.4   |  336.4   |  241.3   |     216.3    
- SQoQ%:  |  235.5   |  407.0   |   20.8   |   20.4   |  -28.3   |      89.6    
- YOPM%:  |   18.1   |   18.4   |   18.2   |   17.1   |   18.5   |              
- YNPM%:  |   13.4   |   16.5   |   17.1   |   13.7   |   0.0    |              
-YPROFIT: |   6.1    |   38.1   |   47.7   |   46.0   |   -2.4   |      16.5    
- PQoQ%:  |  209.6   |  525.2   |   25.0   |   -3.6   |  -105.2  |     -687.5   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   60.8   |   59.8   |   65.6   |   77.4   |   73.3  
- QoQ%:  |   11.1   |   -1.6   |   9.7    |   17.9   |   -5.3  
- QOPM%: |   22.5   |   22.5   |   15.4   |   13.7   |   5.4   
- QNPM%: |   22.4   |   18.3   |   9.9    |   5.9    |   7.3   
- QPFT:  |   13.6   |   10.9   |   6.5    |   4.6    |   5.4   
- PQoQ%: |   -5.8   |  -19.6   |  -40.7   |  -29.2   |   16.8  
-
-***PROS***
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 17.4%
-- Last 3QSALES is about 90% YSales
-

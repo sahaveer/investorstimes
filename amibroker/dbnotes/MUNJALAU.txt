@@ -1,38 +1,44 @@
-CODES
-520059	MUNJALAU	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
+CODES	520059	MUNJALAU	
+FULLNAME : Munjal Auto Industries Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1235.6  |  2122.6  |  1915.7  |  1984.3  |  1881.8  |     1554.5   
- SQoQ%:  |   1.8    |   71.8   |   -9.8   |   3.6    |   -5.2   |      82.6    
- YOPM%:  |   3.7    |   3.9    |   4.3    |   4.5    |   6.4    |              
- YNPM%:  |   0.3    |   1.0    |   1.4    |   2.8    |   2.0    |              
-YPROFIT: |   4.1    |   20.6   |   26.8   |   56.1   |   38.5   |      28.1    
- PQoQ%:  |  -88.5   |  400.7   |   29.9   |  109.6   |  -31.4   |      73.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  422.2   |  406.3   |  509.9   |  522.5   |  522.1  
- QoQ%:  |  -22.5   |   -3.8   |   25.5   |   2.5    |   -0.1  
- QOPM%: |   6.2    |   8.3    |   5.8    |   5.9    |   4.3   
- QNPM%: |   0.0    |   6.7    |   2.3    |   3.6    |   0.0   
- QPFT:  |  -12.2   |   27.2   |   11.7   |   18.6   |   -2.2  
- PQoQ%: |  -188.8  |  -321.6  |  -56.9   |   59.1   |  -111.9 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2122.6		1915.7		1984.3		1881.8		2066.4		1680.9
+SQoQ%: 	71.8		-9.8		3.6		-5.2		9.8		81.3
+YOPM%: 	3.9		4.3		4.5		6.4		5.7
+YNPM%: 	1.0		1.4		2.8		2.0		1.8
+YPROFIT: 20.6		26.8		56.1		38.5		36.4		40.5
+PQoQ%: 	400.7		29.9		109.6		-31.4		-5.5		111.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 522.1		511.9		491.0		584.1		605.8
+QoQ%: 	-0.1		-2.0		-4.1		19.0		3.7
+QOPM%: 	4.3		6.8		5.8		4.5		6.9
+QNPM%: 	0.0		1.6		3.2		1.9		2.2
+QPFT: 	-2.2		8.3		15.8		11.2		13.5
+PQoQ%: 	-111.9		-473.8		91.4		-29.2		20.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 83% YSales
-- Last 3QPROFIT is about 73% of YProfit
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 111% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1881.80cr, QoQ -5.20% & YoY 52.30% SALES;
-120.30cr, QoQ 33.60% & YoY 166.15% OPERATING PROFIT;
-38.50cr, QoQ -31.40% & YoY 839.02% NET PROFIT;
-OPM %: 6.40% vs 4.5%
-NPM %: 2.00% vs 2.8%
+ 31-Mar-2025 #Result
+2066.40cr, QoQ 9.80% & YoY -2.65% SALES;
+117.40cr, QoQ -2.50% & YoY 41.45% OPERATING PROFIT;
+36.40cr, QoQ -5.50% & YoY 76.70% NET PROFIT;
+OPM %: 5.70% vs 6.4%
+NPM %: 1.80% vs 2.0%
 

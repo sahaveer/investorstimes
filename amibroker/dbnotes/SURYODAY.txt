@@ -1,34 +1,43 @@
-CODES
-543279	SURYODAY	
-SECTOR : 
-INDUSTRY : 
+CODES	543279	SURYODAY	
+FULLNAME : Suryoday Small Finance Bank Ltd
+SECTOR : Banks
+INDUSTRY : Other Bank
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  776.2   |  941.8   |  1183.7  |  1588.7  |  1953.8 
- SQoQ%:  |   1.2    |   21.3   |   25.7   |   34.2   |   23.0  
- YOPM%:  |   40.8   |   55.4   |   40.9   |   47.0   |   39.6  
- YNPM%:  |   1.5    |   0.0    |   6.6    |   13.6   |   5.9   
-YPROFIT: |   11.9   |  -93.0   |   77.7   |  216.0   |  115.0  
- PQoQ%:  |  -89.3   |  -884.4  |  -183.5  |  178.0   |  -46.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  444.7   |  488.1   |  507.2   |  487.8   |  470.6  
- QoQ%:  |   8.3    |   9.8    |   3.9    |   -3.8   |   -3.5  
- QOPM%: |   42.6   |   44.6   |   43.4   |   44.6   |   25.3  
- QNPM%: |   13.7   |   14.4   |   8.9    |   6.8    |   0.0   
- QPFT:  |   60.8   |   70.1   |   45.4   |   33.3   |  -33.8  
- PQoQ%: |   6.3    |   15.2   |  -35.2   |  -26.6   |  -201.4 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 776.2		941.8		1183.7		1588.7		1953.8		1558.8
+SQoQ%: 	1.2		21.3		25.7		34.2		23.0		79.8
+YOPM%: 	40.8		16.6		40.9		47.0		42.5
+YNPM%: 	1.5		0.0		6.6		13.6		5.9
+YPROFIT: 11.9		-93.0		77.7		216.0		115.0		102.3
+PQoQ%: 	-89.3		-884.4		-183.5		178.0		-46.8		89.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 487.8		470.6		495.2		519.7		543.9
+QoQ%: 	-3.8		-3.5		5.2		4.9		4.7
+QOPM%: 	44.6		25.3		37.6		42.5		43.0
+QNPM%: 	6.8		0.0		7.1		5.9		6.7
+QPFT: 	33.3		-33.8		35.3		30.4		36.6
+PQoQ%: 	-26.6		-201.4		-204.4		-13.8		20.2
+
+
 
 ***PROS***
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 89% of YProfit
 - YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 1953.80cr, QoQ 23.00% & YoY 151.71% SALES;
-774.20cr, QoQ 3.80% & YoY 144.69% OPERATING PROFIT;
+829.80cr, QoQ 11.20% & YoY 162.26% OPERATING PROFIT;
 115.00cr, QoQ -46.80% & YoY 866.39% NET PROFIT;
-OPM %: 39.60% vs 47.0%
+OPM %: 42.50% vs 47.0%
 NPM %: 5.90% vs 13.6%
 

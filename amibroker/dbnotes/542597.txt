@@ -1,37 +1,43 @@
-CODES
-542597	MSTCLTD	
-SECTOR : E-Commerce/App based Aggregator
-INDUSTRY : Trading
-BestQ Dec 2024
+CODES	542597	MSTCLTD	
+FULLNAME : MSTC Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+PRODUCT DEMAND
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1231.4  |  780.0   |  876.2   |  721.0   |  750.8   |     222.0    
- SQoQ%:  |  -62.6   |  -36.7   |   12.3   |  -17.7   |   4.1    |      29.6    
- YOPM%:  |   12.0   |   0.0    |   1.0    |   26.8   |   20.5   |              
- YNPM%:  |   7.9    |   14.5   |   22.7   |   33.6   |   27.2   |              
-YPROFIT: |   97.0   |  113.0   |  199.1   |  242.0   |  204.4   |     369.1    
- PQoQ%:  |  -131.6  |   16.4   |   76.3   |   21.5   |  -15.5   |     180.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  185.0   |  199.1   |   69.0   |   71.9   |   81.1  
- QoQ%:  |  128.0   |   7.6    |  -65.3   |   4.2    |   12.8  
- QOPM%: |   33.7   |   0.0    |   56.0   |   53.8   |   58.2  
- QNPM%: |   27.0   |   24.3   |   89.7   |   78.4   |  309.2  
- QPFT:  |   50.0   |   48.4   |   61.9   |   56.4   |  250.8  
- PQoQ%: |   -9.7   |   -3.0   |   27.8   |   -8.9   |  344.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 780.0		876.2		721.0		316.2		311.0		250.8
+SQoQ%: 	-36.7		12.3		-17.7		-56.1		-1.7		80.6
+YOPM%: 	0.0		1.0		26.8		26.0		57.1
+YNPM%: 	14.5		22.7		33.6		52.2		130.9
+YPROFIT: 113.0		199.1		242.0		165.0		407.1		141.2
+PQoQ%: 	16.4		76.3		21.5		-31.8		146.6		34.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 81.1		88.8		77.4		85.0		88.4
+QoQ%: 	12.8		9.5		-12.9		9.8		4.0
+QOPM%: 	58.2		59.5		56.4		58.7		56.5
+QNPM%: 	309.2		85.0		54.7		55.9		58.1
+QPFT: 	250.8		75.5		42.3		47.5		51.4
+PQoQ%: 	505.2		-69.9		-43.9		12.2		8.1
+
+
 
 ***PROS***
-- Last 3QPROFIT is about 181% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 81% YSales
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-750.80cr, QoQ 4.10% & YoY -39.03% SALES;
-154.30cr, QoQ -20.10% & YoY 4.05% OPERATING PROFIT;
-204.40cr, QoQ -15.50% & YoY 110.72% NET PROFIT;
-OPM %: 20.50% vs 26.8%
-NPM %: 27.20% vs 33.6%
+ 31-Mar-2025 #Result
+311.00cr, QoQ -1.70% & YoY -60.13% SALES;
+177.70cr, QoQ 115.80% & YoY -447.75% OPERATING PROFIT;
+407.10cr, QoQ 146.60% & YoY 260.27% NET PROFIT;
+OPM %: 57.10% vs 26.0%
+NPM %: 130.90% vs 52.2%
 

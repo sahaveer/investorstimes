@@ -1,13 +1,14 @@
-CODE	NAME
-522101 
+CODES	522101	
+FULLNAME : Kilburn Engineering Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

@@ -1,36 +1,44 @@
-CODES
-533022	20MICRONS	
-SECTOR : Mining & Mineral products
-INDUSTRY : Mining / Minerals / Metals
-BestQ Dec 2024
+CODES	533022	20MICRONS	
+FULLNAME : 20 Microns Ltd
+SECTOR : Minerals & Mining
+INDUSTRY : Industrial Minerals
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  529.3   |  483.5   |  613.2   |  701.7   |  777.5   |     685.4    
- SQoQ%:  |   10.4   |   -8.7   |   26.8   |   14.4   |   10.8   |      88.2    
- YOPM%:  |   12.5   |   12.2   |   13.0   |   12.2   |   13.6   |              
- YNPM%:  |   4.6    |   4.8    |   5.6    |   6.0    |   7.2    |              
-YPROFIT: |   24.1   |   23.0   |   34.6   |   41.8   |   56.1   |      47.2    
- PQoQ%:  |   -3.4   |   -4.8   |   50.6   |   20.9   |   34.1   |      84.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  174.9   |  212.3   |  230.6   |  240.2   |  214.6  
- QoQ%:  |  -12.4   |   21.4   |   8.6    |   4.2    |  -10.6  
- QOPM%: |   12.7   |   12.5   |   13.0   |   12.9   |   12.2  
- QNPM%: |   6.6    |   6.4    |   7.7    |   6.8    |   6.0   
- QPFT:  |   11.5   |   13.6   |   17.9   |   16.4   |   12.9  
- PQoQ%: |  -28.4   |   18.8   |   30.9   |   -8.1   |  -21.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 483.5		613.2		701.7		777.5		912.8		692.8
+SQoQ%: 	-8.7		26.8		14.4		10.8		17.4		75.9
+YOPM%: 	12.2		13.0		12.2		13.6		12.8
+YNPM%: 	4.8		5.6		6.0		7.2		6.8
+YPROFIT: 23.0		34.6		41.8		56.1		62.4		49.3
+PQoQ%: 	-4.8		50.6		20.9		34.1		11.3		79.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 214.6		227.4		247.2		230.8		214.8
+QoQ%: 	-10.6		6.0		8.7		-6.6		-6.9
+QOPM%: 	12.2		12.7		12.7		13.8		12.8
+QNPM%: 	6.0		6.7		6.8		7.5		7.0
+QPFT: 	12.9		15.2		16.9		17.4		15.0
+PQoQ%: 	-21.5		18.1		10.8		3.2		-14.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 88% YSales
-- Last 3QPROFIT is about 84% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 79% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-777.50cr, QoQ 10.80% & YoY 46.89% SALES;
-105.60cr, QoQ 23.10% & YoY 60.00% OPERATING PROFIT;
-56.10cr, QoQ 34.10% & YoY 132.78% NET PROFIT;
-OPM %: 13.60% vs 12.2%
-NPM %: 7.20% vs 6.0%
+ 31-Mar-2025 #Result
+912.80cr, QoQ 17.40% & YoY 88.79% SALES;
+116.90cr, QoQ 10.70% & YoY 98.81% OPERATING PROFIT;
+62.40cr, QoQ 11.30% & YoY 171.30% NET PROFIT;
+OPM %: 12.80% vs 13.6%
+NPM %: 6.80% vs 7.2%
 

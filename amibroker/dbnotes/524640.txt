@@ -1,33 +1,38 @@
-CODE	NAME
-524640 
-
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	524640	
+FULLNAME : Archit Organosys Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
 PRODUCT DEMAND
 YSD YPD 2022
 
-***CONS***
- YPNL:   | Mar-2007 | Mar-2008 | Mar-2022 | Mar-2023 | Mar-2024
----------+----------+----------+----------+----------+---------
-YSALES:  |   18.6   |   20.8   |  137.9   |  127.8   |  113.2  
- SQoQ%:  |   nan    |   12.1   |  562.7   |   -7.3   |  -11.4  
- YOPM%:  |   3.6    |   4.1    |   12.1   |   15.3   |   6.1   
- YNPM%:  |   1.9    |   1.8    |   6.0    |   8.9    |   2.9   
-YPROFIT: |   0.4    |   0.4    |   8.2    |   11.4   |   3.3   
- PQoQ%:  |   nan    |   5.6    |  2065.8  |   37.9   |  -71.1  
- QPNL:  | Mar-2023 | Jun-2023 | Sep-2023 | Dec-2023 | Mar-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   46.6   |   31.0   |   26.4   |   24.8   |   31.0  
- QoQ%:  |  107.6   |  -33.4   |  -14.9   |   -6.0   |   24.9  
- QOPM%: |   6.3    |   10.5   |   8.0    |   4.4    |   0.0   
- QNPM%: |   4.2    |   5.1    |   1.4    |   0.0    |   5.8   
- QPFT:  |   1.9    |   1.6    |   0.4    |   -0.5   |   1.8   
- PQoQ%: |  -13.0   |  -19.1   |  -76.4   |  -224.3  |  -489.1 
+***YEARLY***
+YPNL: 	Mar-2007	Mar-2008	Mar-2022	Mar-2023	Mar-2024
+YSALES: 18.6		20.8		137.9		127.8		113.2
+SQoQ%: 	nan		12.1		562.7		-7.3		-11.4
+YOPM%: 	3.6		4.1		12.1		15.3		6.1
+YNPM%: 	1.9		1.8		6.0		8.9		2.9
+YPROFIT: 0.4		0.4		8.2		11.4		3.3
+PQoQ%: 	nan		5.6		2065.8		37.9		-71.1
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2023	Jun-2023	Sep-2023	Dec-2023	Mar-2024
+QSALES: 46.6		31.0		26.4		24.8		31.0
+QoQ%: 	107.6		-33.4		-14.9		-6.0		24.9
+QOPM%: 	6.3		10.5		8.0		4.4		0.0
+QNPM%: 	4.2		5.1		1.4		0.0		5.8
+QPFT: 	1.9		1.6		0.4		-0.5		1.8
+PQoQ%: 	-13.0		-19.1		-76.4		-224.3		-489.1
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
 - YProfits and YSales DOUBLED in Mar2022
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

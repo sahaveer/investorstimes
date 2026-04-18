@@ -1,34 +1,40 @@
-CODES
-530011	MANGCHEFER	
-SECTOR : Fertilizers
+CODES	530011	MANGCHEFER	
+FULLNAME : Mangalore Chemicals & Fertilizers Ltd
+SECTOR : Fertilizers & Agrochemicals
 INDUSTRY : Fertilizers
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2144.0  |  2895.6  |  3641.5  |  3795.4  |  3331.9 
- SQoQ%:  |  -20.9   |   35.1   |   25.8   |   4.2    |  -12.2  
- YOPM%:  |   9.7    |   7.5    |   8.6    |   10.1   |   9.7   
- YNPM%:  |   3.1    |   3.0    |   3.7    |   4.1    |   4.3   
-YPROFIT: |   67.1   |   87.9   |  134.7   |  154.8   |  143.7  
- PQoQ%:  |   4.0    |   30.9   |   53.3   |   15.0   |   -7.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  786.4   |  814.0   |  776.4   |  967.7   |  773.8  
- QoQ%:  |   22.8   |   3.5    |   -4.6   |   24.6   |  -20.0  
- QOPM%: |   4.6    |   13.0   |   9.8    |   10.6   |   4.9   
- QNPM%: |   0.6    |   5.4    |   3.4    |   5.9    |   2.1   
- QPFT:  |   4.8    |   43.9   |   26.4   |   57.4   |   16.0  
- PQoQ%: |  -85.3   |  807.2   |  -39.9   |  117.6   |  -72.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 2144.0		2895.6		3641.5		3795.4		3331.9
+SQoQ%: 	-20.9		35.1		25.8		4.2		-12.2
+YOPM%: 	9.7		7.5		8.6		10.1		9.9
+YNPM%: 	3.1		3.0		3.7		4.1		4.3
+YPROFIT: 67.1		87.9		134.7		154.8		143.7
+PQoQ%: 	4.0		30.9		53.3		15.0		-7.2
+
+
+
+***QUARTERLY***
+QPNL: 	Jun-2024	Sep-2024	Dec-2024	Mar-2025	Jun-2025
+QSALES: 814.0		776.4		967.7		773.8		862.2
+QoQ%: 	3.5		-4.6		24.6		-20.0		11.4
+QOPM%: 	13.0		9.8		10.6		4.9		12.9
+QNPM%: 	5.4		3.4		5.9		2.1		7.1
+QPFT: 	43.9		26.4		57.4		16.0		61.6
+PQoQ%: 	807.2		-39.9		117.6		-72.1		284.5
+
+
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 3331.90cr, QoQ -12.20% & YoY 55.41% SALES;
-321.90cr, QoQ -15.70% & YoY 54.54% OPERATING PROFIT;
+330.10cr, QoQ -13.50% & YoY 58.47% OPERATING PROFIT;
 143.70cr, QoQ -7.20% & YoY 114.16% NET PROFIT;
-OPM %: 9.70% vs 10.1%
+OPM %: 9.90% vs 10.1%
 NPM %: 4.30% vs 4.1%
 

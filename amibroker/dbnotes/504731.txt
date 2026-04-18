@@ -1,27 +1,14 @@
-CODE	NAME
-504731 
+CODES	504731	
+FULLNAME : Azad India Mobility Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
 
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
+***YEARLY***
 
-***CONS***
-- NEGATIVE YProfit : -1.2
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |      0.0     
- SQoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan    |      nan     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -0.1   |   -0.1   |   -0.2   |   -0.1   |   -1.2   |      -0.3    
- PQoQ%:  |  -31.2   |  -27.3   |  125.0   |  -50.0   |  1244.4  |      25.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   inf    |   0.0   
- QPFT:  |   -0.1   |   -0.0   |   -0.2   |   0.1    |   -0.2  
- PQoQ%: |  300.0   |  -75.0   |  750.0   |  -176.5  |  -276.9 
+
+***QUARTERLY***
+
 
 ***PROS***
-A DEBT-Free Company
+
+***CONS***

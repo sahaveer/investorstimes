@@ -1,41 +1,42 @@
-CODES
-KRITIKA	
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
+CODES	KRITIKA	
+FULLNAME : Kritika Wires Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
 PRODUCT DEMAND
-BestQ Dec 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
 
-***CONS***
-  YPNL   |   :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+-------+----------+----------+----------+----------+----------+--------------
-YSALES:  | 171.3 |  134.5   |  243.7   |  282.3   |  431.7   |  505.8   |              
- SQoQ%:  | -37.6 |  -21.5   |   81.2   |   15.8   |   52.9   |  117.2   |              
- YOPM%:  |  2.5  |   2.0    |   3.2    |   3.1    |   3.0    |          |              
- YNPM%:  |  0.9  |   0.6    |   1.7    |   2.1    |   2.4    |          |              
-YPROFIT: |  1.5  |   0.8    |   4.0    |   6.0    |   10.4   |   6.7    |              
- PQoQ%:  | -77.8 |  -48.0   |  416.7   |   48.6   |   73.6   |   64.4   |              
-  QPNL  |   :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+-------+----------+----------+----------+----------+---------
-QSALES: |  92.4 |  133.5   |  168.3   |  158.6   |  178.9   |         
- QoQ%:  | -11.9 |   44.5   |   26.1   |   -5.8   |   12.8   |         
- QOPM%: |  2.3  |   4.8    |   1.8    |   2.0    |   1.6    |         
- QNPM%: |  2.0  |   3.8    |   1.3    |   1.5    |   1.2    |         
- QPFT:  |  1.9  |   5.1    |   2.2    |   2.4    |   2.1    |         
- PQoQ%: |  -7.4 |  169.1   |  -57.1   |   12.4   |  -13.1   |         
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 134.5		243.7		282.3		431.7		745.0		547.6
+SQoQ%: 	-21.5		81.2		15.8		52.9		72.6		73.5
+YOPM%: 	2.0		3.2		3.1		3.0		1.2
+YNPM%: 	0.6		1.7		2.1		2.4		1.4
+YPROFIT: 0.8		4.0		6.0		10.4		10.1		4.1
+PQoQ%: 	-48.0		416.7		48.6		73.6		-2.6		40.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 178.9		239.2		206.9		179.6		161.1
+QoQ%: 	12.8		33.7		-13.5		-13.2		-10.3
+QOPM%: 	1.6		0.0		1.5		2.8		1.8
+QNPM%: 	1.2		1.4		0.7		0.6		1.0
+QPFT: 	2.1		3.4		1.4		1.1		1.6
+PQoQ%: 	-13.1		60.4		-59.4		-17.4		43.0
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 117% YSales
-- Last 3QPROFIT is about 64% of YProfit
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 52.9% while the Profit QoQ_growth is much better than Sales itself at 73.6%
+- Last 3QSALES is about 74% YSales
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-431.70cr, QoQ 52.90% & YoY 152.01% SALES;
-13.10cr, QoQ 50.10% & YoY 197.73% OPERATING PROFIT;
-10.40cr, QoQ 73.60% & YoY 593.33% NET PROFIT;
-OPM %: 3.00% vs 3.1%
-NPM %: 2.40% vs 2.1%
+ 31-Mar-2025 #Result
+745.00cr, QoQ 72.60% & YoY 453.90% SALES;
+9.10cr, QoQ -30.60% & YoY 237.04% OPERATING PROFIT;
+10.10cr, QoQ -2.60% & YoY 1162.50% NET PROFIT;
+OPM %: 1.20% vs 3.0%
+NPM %: 1.40% vs 2.4%
 

@@ -1,37 +1,44 @@
-CODES
-523391	NAHARPOLY	
-SECTOR : Packaging
+CODES	523391	NAHARPOLY	
+FULLNAME : Nahar Polyfilms Ltd
+SECTOR : Industrial Products
 INDUSTRY : Packaging
-BestQ Dec 2024
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  277.2   |  303.5   |  488.9   |  723.2   |  599.9   |     509.4    
- SQoQ%:  |   4.3    |   9.5    |   61.1   |   47.9   |  -17.0   |      84.9    
- YOPM%:  |   15.2   |   21.6   |   24.4   |   11.3   |   3.6    |              
- YNPM%:  |   13.4   |   20.6   |   20.0   |   6.0    |   0.9    |              
-YPROFIT: |   37.3   |   62.6   |   97.7   |   43.2   |   5.7    |      33.2    
- PQoQ%:  |  204.8   |   67.9   |   56.1   |  -55.8   |  -86.9   |     582.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  153.6   |  153.1   |  167.8   |  168.6   |  173.0  
- QoQ%:  |   12.1   |   -0.3   |   9.6    |   0.5    |   2.6   
- QOPM%: |   0.0    |   1.1    |   9.1    |   13.5   |   8.7   
- QNPM%: |   0.0    |   0.6    |   5.0    |   10.3   |   4.3   
- QPFT:  |   -5.2   |   0.9    |   8.3    |   17.4   |   7.5   
- PQoQ%: |  -142.7  |  -117.7  |  804.3   |  109.1   |  -56.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 303.5		488.9		723.2		599.9		665.9		536.6
+SQoQ%: 	9.5		61.1		47.9		-17.0		11.0		80.6
+YOPM%: 	21.6		24.4		11.3		3.6		11.4
+YNPM%: 	20.6		20.0		6.0		0.9		7.1
+YPROFIT: 62.6		97.7		43.2		5.7		47.4		58.3
+PQoQ%: 	67.9		56.1		-55.8		-86.9		734.2		123.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 173.0		156.6		196.8		172.3		167.5
+QoQ%: 	2.6		-9.4		25.6		-12.4		-2.8
+QOPM%: 	8.7		15.0		14.1		16.1		12.2
+QNPM%: 	4.3		9.0		9.3		12.1		11.5
+QPFT: 	7.5		14.1		18.2		20.8		19.3
+PQoQ%: 	-56.8		88.3		29.0		13.9		-7.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 85% YSales
-- Last 3QPROFIT is about 582% of YProfit
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 123% of YProfit
 
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-599.90cr, QoQ -17.00% & YoY 116.41% SALES;
-21.30cr, QoQ -73.90% & YoY -49.53% OPERATING PROFIT;
-5.70cr, QoQ -86.90% & YoY -84.72% NET PROFIT;
-OPM %: 3.60% vs 11.3%
-NPM %: 0.90% vs 6.0%
+ 31-Mar-2025 #Result
+665.90cr, QoQ 11.00% & YoY 119.41% SALES;
+76.20cr, QoQ 257.20% & YoY 16.16% OPERATING PROFIT;
+47.40cr, QoQ 734.20% & YoY -24.28% NET PROFIT;
+OPM %: 11.40% vs 3.6%
+NPM %: 7.10% vs 0.9%
 

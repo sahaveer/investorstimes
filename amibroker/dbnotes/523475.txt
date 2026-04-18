@@ -1,13 +1,14 @@
-CODE	NAME
-523475 
+CODES	523475	
+FULLNAME : Lotus Chocolate Company Ltd
+SECTOR : Food Products
+INDUSTRY : Packaged Foods
 
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

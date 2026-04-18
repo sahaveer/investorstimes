@@ -1,29 +1,31 @@
-CODE	NAME
-530201 
+CODES	530201	
+FULLNAME : Kallam Textiles Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 
-SECTOR : Textiles
-INDUSTRY : Textiles - Cotton/Blended
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Sep-2025
+YSALES: 240.6		450.9		412.9		367.4		256.7		122.3
+SQoQ%: 	-17.5		87.4		-8.4		-11.0		-30.1		47.6
+YOPM%: 	10.5		15.9		5.3		0.0		0.0
+YNPM%: 	0.0		2.6		0.0		0.0		0.0
+YPROFIT: -7.9		11.8		-21.3		-37.4		-47.4		-37.3
+PQoQ%: 	-34.7		-249.5		-280.3		75.9		26.5		78.7
 
-***CONS***
-- NEGATIVE YProfit : -37.4
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  291.6   |  240.6   |  450.9   |  412.9   |  367.4   |     191.9    
- SQoQ%:  |   -6.2   |  -17.5   |   87.4   |   -8.4   |  -11.0   |      52.2    
- YOPM%:  |   7.2    |   10.5   |   15.9   |   5.3    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   2.6    |   0.0    |   0.0    |              
-YPROFIT: |  -12.1   |   -7.9   |   11.8   |  -21.3   |  -37.4   |     -38.5    
- PQoQ%:  |  -281.8  |  -34.7   |  -249.5  |  -280.3  |   75.9   |     102.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   78.2   |   61.9   |   56.1   |   72.4   |   63.4  
- QoQ%:  |  -29.8   |  -20.8   |   -9.5   |   29.1   |  -12.4  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |  -11.2   |  -11.0   |   -9.4   |  -12.9   |  -16.2  
- PQoQ%: |   40.1   |   -1.8   |  -14.7   |   38.1   |   25.3  
+
+
+***QUARTERLY***
+QPNL: 	Sep-2024	Dec-2024	Mar-2025	Jun-2025	Sep-2025
+QSALES: 72.4		63.4		64.9		48.8		73.5
+QoQ%: 	29.1		-12.4		2.4		-24.8		50.6
+QOPM%: 	0.0		0.0		1.3		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-12.9		-16.2		-8.8		-18.0		-19.3
+PQoQ%: 	38.1		25.3		-45.6		103.5		7.3
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 52% YSales
+
+***CONS***
+- NEGATIVE YProfit : -47.4

@@ -1,34 +1,43 @@
-CODES
-531120	PATELENG	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
+CODES	531120	PATELENG	
+FULLNAME : Patel Engineering Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1994.8  |  3380.3  |  3891.2  |  4544.1  |  5093.4 
- SQoQ%:  |  -23.8   |   69.5   |   15.1   |   16.8   |   12.1  
- YOPM%:  |   12.3   |   15.7   |   14.4   |   15.2   |   14.4  
- YNPM%:  |   0.0    |   2.1    |   4.7    |   6.4    |   4.8   
-YPROFIT: |  -290.8  |   72.1   |  183.5   |  290.2   |  242.1  
- PQoQ%:  | -2712.3  |  -124.8  |  154.5   |   58.2   |  -16.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1343.2  |  1101.7  |  1174.3  |  1205.5  |  1611.9 
- QoQ%:  |   26.6   |  -18.0   |   6.6    |   2.7    |   33.7  
- QOPM%: |   17.7   |   15.3   |   13.8   |   15.3   |   13.5  
- QNPM%: |   9.3    |   4.9    |   6.2    |   6.6    |   2.2   
- QPFT:  |  125.3   |   53.5   |   73.0   |   79.8   |   35.8  
- PQoQ%: |   81.3   |  -57.3   |   36.5   |   9.2    |  -55.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1994.8		3380.3		4202.0		4544.1		5093.4		3681.3
+SQoQ%: 	-23.8		69.5		24.3		8.1		12.1		72.3
+YOPM%: 	12.3		15.7		14.9		15.2		14.7
+YNPM%: 	0.0		2.1		4.4		6.4		4.9
+YPROFIT: -290.8		72.1		183.5		290.2		247.8		219.2
+PQoQ%: 	-2712.3		-124.8		154.5		58.2		-14.6		88.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1205.5		1611.9		1233.4		1208.5		1239.4
+QoQ%: 	2.7		33.7		-23.5		-2.0		2.6
+QOPM%: 	15.3		13.5		13.4		13.1		11.7
+QNPM%: 	6.6		2.2		6.3		5.9		5.7
+QPFT: 	79.8		35.8		77.8		71.0		70.4
+PQoQ%: 	9.2		-55.1		117.4		-8.7		-1.0
+
+
 
 ***PROS***
+- Last 3QSALES is about 72% YSales
+- Last 3QPROFIT is about 88% of YProfit
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 5093.40cr, QoQ 12.10% & YoY 155.33% SALES;
-733.20cr, QoQ 6.20% & YoY 200.00% OPERATING PROFIT;
-242.10cr, QoQ -16.60% & YoY -183.25% NET PROFIT;
-OPM %: 14.40% vs 15.2%
-NPM %: 4.80% vs 6.4%
+748.50cr, QoQ 8.40% & YoY 206.26% OPERATING PROFIT;
+247.80cr, QoQ -14.60% & YoY -185.21% NET PROFIT;
+OPM %: 14.70% vs 15.2%
+NPM %: 4.90% vs 6.4%
 

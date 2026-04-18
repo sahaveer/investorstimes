@@ -1,39 +1,48 @@
-CODES
-544022	ASKAUTOLTD	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
+CODES	544022	ASKAUTOLTD	
+FULLNAME : ASK Automotive Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
 PRODUCT DEMAND
+BestQ Dec 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1544.0  |  2013.1  |  2555.2  |  2994.6  |  3600.8 
- SQoQ%:  |   -6.1   |   30.4   |   26.9   |   17.2   |   20.2  
- YOPM%:  |   11.8   |   8.2    |   9.0    |   10.0   |   12.0  
- YNPM%:  |   6.9    |   4.1    |   4.8    |   5.8    |   6.9   
-YPROFIT: |  106.2   |   82.7   |  123.0   |  173.8   |  247.6  
- PQoQ%:  |   -0.7   |  -22.2   |   48.7   |   41.3   |   42.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  782.5   |  862.2   |  973.9   |  915.1   |  849.7  
- QoQ%:  |   2.7    |   10.2   |   13.0   |   -6.0   |   -7.2  
- QOPM%: |   10.5   |   11.7   |   12.0   |   12.1   |   12.2  
- QNPM%: |   6.1    |   6.6    |   6.9    |   7.2    |   6.8   
- QPFT:  |   47.8   |   56.8   |   67.3   |   65.9   |   57.6  
- PQoQ%: |   -4.4   |   19.0   |   18.4   |   -2.1   |  -12.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1544.0		2013.1		2555.2		2994.6		3600.8		3029.2
+SQoQ%: 	-6.1		30.4		26.9		17.2		20.2		84.1
+YOPM%: 	11.8		8.2		9.0		10.0		12.0
+YNPM%: 	6.9		4.1		4.8		5.8		6.9
+YPROFIT: 106.2		82.7		123.0		173.8		247.6		225.8
+PQoQ%: 	-0.7		-22.2		48.7		41.3		42.5		91.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 915.1		849.7		891.3		1053.7		1084.2
+QoQ%: 	-6.0		-7.2		4.9		18.2		2.9
+QOPM%: 	12.1		12.2		13.4		13.0		13.0
+QNPM%: 	7.2		6.8		7.4		7.6		7.4
+QPFT: 	65.9		57.6		66.1		79.8		79.9
+PQoQ%: 	-2.1		-12.6		14.7		20.8		0.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 18.9%
+ROCE in Mar2025 is at 19.5%
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 91% of YProfit
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 20.2% while the Profit QoQ_growth is much better than Sales itself at 42.5%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 3600.80cr, QoQ 20.20% & YoY 133.21% SALES;
-431.90cr, QoQ 43.60% & YoY 137.44% OPERATING PROFIT;
+432.10cr, QoQ 43.70% & YoY 137.55% OPERATING PROFIT;
 247.60cr, QoQ 42.50% & YoY 133.15% NET PROFIT;
 OPM %: 12.00% vs 10.0%
 NPM %: 6.90% vs 5.8%

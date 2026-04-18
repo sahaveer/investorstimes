@@ -1,33 +1,43 @@
-CODES
-500655	GRWRHITECH	
-SECTOR : Packaging
-INDUSTRY : Packaging
+CODES	500655	GRWRHITECH	
+FULLNAME : Garware Hi Tech Films Ltd
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial
 PRODUCT DEMAND
+BestQ Dec 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  989.0   |  1302.6  |  1438.0  |  1677.0  |  2109.4 
- SQoQ%:  |   6.9    |   31.7   |   10.4   |   16.6   |   25.8  
- YOPM%:  |   22.1   |   18.3   |   15.8   |   16.8   |   20.9  
- YNPM%:  |   12.7   |   12.8   |   11.6   |   12.1   |   15.7  
-YPROFIT: |  126.0   |  167.2   |  166.1   |  203.3   |  331.2  
- PQoQ%:  |   46.4   |   32.7   |   -0.6   |   22.4   |   62.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  446.6   |  474.5   |  620.6   |  466.4   |  547.9  
- QoQ%:  |   -1.6   |   6.2    |   30.8   |  -24.8   |   17.5  
- QOPM%: |   17.5   |   25.0   |   22.0   |   17.4   |   19.1  
- QNPM%: |   12.9   |   18.6   |   16.8   |   13.0   |   14.2  
- QPFT:  |   57.8   |   88.4   |  104.3   |   60.8   |   77.8  
- PQoQ%: |   3.5    |   52.8   |   18.0   |  -41.7   |   27.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 989.0		1302.6		1438.0		1677.0		2109.4		1523.4
+SQoQ%: 	6.9		31.7		10.4		16.6		25.8		72.2
+YOPM%: 	22.1		18.3		15.8		16.8		20.9
+YNPM%: 	12.7		12.8		11.6		12.1		15.7
+YPROFIT: 126.0		167.2		166.1		203.3		331.2		230.0
+PQoQ%: 	46.4		32.7		-0.6		22.4		62.9		69.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 466.4		547.9		495.0		569.7		458.7
+QoQ%: 	-24.8		17.5		-9.7		15.1		-19.5
+QOPM%: 	17.4		19.1		22.1		21.0		15.3
+QNPM%: 	13.0		14.2		16.8		16.0		12.2
+QPFT: 	60.8		77.8		83.0		91.2		55.8
+PQoQ%: 	-41.7		27.9		6.7		9.9		-38.9
+
+
 
 ***PROS***
 A DEBT-Free Company for the last 2 yrs
 - PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 72% YSales
+- Last 3QPROFIT is about 69% of YProfit
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 25.8% while the Profit QoQ_growth is much better than Sales itself at 62.9%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

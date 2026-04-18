@@ -1,32 +1,32 @@
-CODE	NAME
-512064 
+CODES	512064	
+FULLNAME : Vishvprabha Ventures Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 
-SECTOR : Construction
-INDUSTRY : Construction
-EXPANSION 2023
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.7		2.4		1.8		5.9		9.9		9.0
+SQoQ%: 	-69.6		260.6		-22.7		222.8		67.0		90.9
+YOPM%: 	0.0		0.0		3.3		21.0		23.1
+YNPM%: 	9.1		0.0		0.0		0.0		0.0
+YPROFIT: 0.1		-0.4		-0.1		-0.3		-0.0		-1.1
+PQoQ%: 	-25.0		-833.3		-84.1		285.7		-92.6		inf
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2.6		1.0		3.1		4.9		1.0
+QoQ%: 	-41.4		-59.6		204.9		56.1		-80.0
+QOPM%: 	38.0		0.0		0.0		20.6		0.0
+QNPM%: 	0.4		0.0		0.0		3.7		0.0
+QPFT: 	0.0		-0.3		-0.5		0.2		-0.8
+PQoQ%: 	-97.4		-3400.0		39.4		-139.1		-516.7
+
+
+
+***PROS***
+- Last 3QSALES is about 91% YSales
 
 ***CONS***
 - NO PRODUCT DEMAND
-- NEGATIVE YProfit : -0.3
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   2.2    |   0.7    |   2.4    |   1.8    |   5.9    |      9.0     
- SQoQ%:  |   nan    |  -69.6   |  260.6   |  -22.7   |  222.8   |     152.5    
- YOPM%:  |   4.6    |   0.0    |   0.0    |   3.3    |   21.0   |              
- YNPM%:  |   3.7    |   9.1    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   0.1    |   0.1    |   -0.4   |   -0.1   |   -0.3   |      0.3     
- PQoQ%:  |   nan    |  -25.0   |  -833.3  |  -84.1   |  285.7   |     -100.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   2.3    |   0.7    |   2.0    |   4.4    |   2.6   
- QoQ%:  |   7.6    |  -67.8   |  174.0   |  117.5   |  -41.4  
- QOPM%: |   0.0    |   57.5   |   16.0   |   28.5   |   38.0  
- QNPM%: |   0.0    |   0.0    |   0.0    |   9.0    |   0.4   
- QPFT:  |   -0.4   |   -0.2   |   -0.1   |   0.4    |   0.0   
- PQoQ%: |  -266.7  |  -42.9   |  -55.0   |  -533.3  |  -97.4  
-
-***PROS***
-EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
-- Last 3QSALES is about 153% YSales
-
-YSALES in Mar-2024 is at 5.9 showing a QoQ_growth of 222.8%. The YNETPROFIT grew by 285.7% to -0.3

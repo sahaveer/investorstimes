@@ -1,21 +1,27 @@
-CODE	NAME
-543364 
+CODES	543364	MARKOLINES	
+FULLNAME : Markolines Pavement Technologies Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
+BestQ Dec 2025
 
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Miscellaneous
+***YEARLY***
+
+
+***QUARTERLY***
+
+
+***PROS***
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 66% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
 
-
-
-***PROS***
-
 Yearly 
  31-Mar-2025 #Result
-300.50cr, QoQ -13.50% & YoY 90.55% SALES;
-37.70cr, QoQ 18.70% & YoY 175.18% OPERATING PROFIT;
-22.60cr, QoQ 30.40% & YoY 465.00% NET PROFIT;
+306.20cr, QoQ -11.80% SALES;
+38.10cr, QoQ 20.00% OPERATING PROFIT;
+22.60cr, QoQ 30.40% NET PROFIT;
 OPM %: 12.50% vs 9.1%
-NPM %: 7.50% vs 5.0%
+NPM %: 7.40% vs 5.0%
 

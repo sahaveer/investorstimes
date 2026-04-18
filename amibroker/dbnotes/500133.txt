@@ -1,39 +1,46 @@
-CODES
-500133	ESABINDIA	
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Electrodes - Welding Equipment
-BestQ Dec 2024
+CODES	500133	ESABINDIA	
+FULLNAME : Esab India Ltd
+SECTOR : Industrial Products
+INDUSTRY : Other Industrial Products
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  698.0   |  681.2   |  896.3   |  1090.8  |  1243.3  |     1005.7   
- SQoQ%:  |   3.9    |   -2.4   |   31.6   |   21.7   |   14.0   |      80.9    
- YOPM%:  |   13.9   |   12.2   |   13.5   |   17.1   |   18.3   |              
- YNPM%:  |   10.2   |   8.7    |   9.4    |   12.4   |   13.1   |              
-YPROFIT: |   71.4   |   59.3   |   84.3   |  135.7   |  163.0   |     128.0    
- PQoQ%:  |   24.0   |  -17.0   |   42.2   |   60.9   |   20.1   |      78.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  301.4   |  340.9   |  329.6   |  338.6   |  337.5  
- QoQ%:  |   -0.4   |   13.1   |   -3.3   |   2.7    |   -0.3  
- QOPM%: |   17.8   |   18.3   |   18.8   |   18.2   |   16.4  
- QNPM%: |   12.6   |   13.0   |   13.5   |   12.7   |   12.0  
- QPFT:  |   38.0   |   44.2   |   44.4   |   43.2   |   40.4  
- PQoQ%: |   -1.2   |   16.6   |   0.5    |   -2.9   |   -6.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 681.2		896.3		1090.8		1243.3		1373.5		1112.4
+SQoQ%: 	-2.4		31.6		21.7		14.0		10.5		81.0
+YOPM%: 	12.2		13.5		17.1		18.5		17.8
+YNPM%: 	8.7		9.4		12.4		13.1		12.8
+YPROFIT: 59.3		84.3		135.7		163.0		175.4		163.1
+PQoQ%: 	-17.0		42.2		60.9		20.1		7.6		93.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 337.5		367.7		352.0		381.6		378.8
+QoQ%: 	-0.3		9.0		-4.3		8.4		-0.7
+QOPM%: 	16.4		17.9		16.8		18.9		20.0
+QNPM%: 	12.0		12.9		11.6		20.8		11.4
+QPFT: 	40.4		47.4		40.9		79.2		43.0
+PQoQ%: 	-6.4		17.5		-13.7		93.5		-45.7
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 51.3%
+ROCE in Mar2025 is at 51.1%
 - Last 3QSALES is about 81% YSales
-- Last 3QPROFIT is about 79% of YProfit
+- Last 3QPROFIT is about 93% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-1243.30cr, QoQ 14.00% & YoY 78.12% SALES;
-227.80cr, QoQ 21.90% & YoY 134.36% OPERATING PROFIT;
-163.00cr, QoQ 20.10% & YoY 128.29% NET PROFIT;
-OPM %: 18.30% vs 17.1%
-NPM %: 13.10% vs 12.4%
+ 31-Mar-2025 #Result
+1373.50cr, QoQ 10.50% & YoY 101.63% SALES;
+245.00cr, QoQ 6.80% & YoY 195.89% OPERATING PROFIT;
+175.40cr, QoQ 7.60% & YoY 195.78% NET PROFIT;
+OPM %: 17.80% vs 18.5%
+NPM %: 12.80% vs 13.1%
 

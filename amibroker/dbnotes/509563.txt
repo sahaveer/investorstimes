@@ -1,29 +1,36 @@
-CODE	NAME
-509563 
+CODES	509563	
+FULLNAME : Garware Marine Industries Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+PRODUCT DEMAND
 
-SECTOR : Ship Building
-INDUSTRY : Miscellaneous
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.3		1.6		1.2		0.7		1.2		0.9
+SQoQ%: 	16.1		21.5		-22.8		-45.9		81.8		75.0
+YOPM%: 	11.5		0.6		9.8		0.0		36.7
+YNPM%: 	10.8		0.6		9.8		0.0		35.8
+YPROFIT: 0.1		0.0		0.1		-0.1		0.4		0.2
+PQoQ%: 	75.0		-92.9		1100.0		-158.3		-714.3		50.0
 
-***CONS***
-- NO PRODUCT DEMAND
-- NEGATIVE YProfit : -0.1
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.1    |   1.3    |   1.6    |   1.2    |   0.7    |      1.0     
- SQoQ%:  |  -10.4   |   16.1   |   21.5   |  -22.8   |  -45.9   |     142.9    
- YOPM%:  |   7.1    |   11.5   |   0.6    |   9.8    |   0.0    |              
- YNPM%:  |   7.1    |   10.8   |   0.6    |   9.8    |   0.0    |              
-YPROFIT: |   0.1    |   0.1    |   0.0    |   0.1    |   -0.1   |      0.4     
- PQoQ%:  |  -63.6   |   75.0   |  -92.9   |  1100.0  |  -158.3  |     -400.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.2    |   0.2    |   0.4    |   0.3    |   0.3   
- QoQ%:  |   -6.2   |   0.0    |  173.3   |  -29.3   |   -6.9  
- QOPM%: |   0.0    |   0.0    |   56.1   |   31.0   |   29.6  
- QNPM%: |   13.3   |   0.0    |   46.3   |   24.1   |   22.2  
- QPFT:  |   0.0    |   -0.1   |   0.2    |   0.1    |   0.1   
- PQoQ%: |  -200.0  |  -450.0  |  -371.4  |  -63.2   |  -14.3  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.3		0.2		0.3		0.3		0.3
+QoQ%: 	-6.9		-11.1		8.3		0.0		15.4
+QOPM%: 	29.6		16.7		23.1		34.6		13.3
+QNPM%: 	22.2		45.8		23.1		34.6		16.7
+QPFT: 	0.1		0.1		0.1		0.1		0.0
+PQoQ%: 	-14.3		83.3		-45.5		50.0		-44.4
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- Last 3QSALES is about 143% YSales
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 75% YSales
+- YProfit Turned POSITIVE this year Mar-2025 : 0.4
+
+***CONS***

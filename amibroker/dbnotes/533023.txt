@@ -1,23 +1,45 @@
-CODES
-533023	ZFCVINDIA	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
+CODES	533023	ZFCVINDIA	
+FULLNAME : ZF Commercial Vehicle Control System India Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1863.5		2543.4		3444.6		3783.7		3804.1		2922.6
+SQoQ%: 	-3.4		36.5		35.4		9.8		0.5		76.8
+YOPM%: 	11.1		9.9		13.7		14.9		16.5
+YNPM%: 	5.6		5.6		9.2		10.7		12.1
+YPROFIT: 103.8		142.1		317.7		404.8		458.7		365.4
+PQoQ%: 	-34.6		36.9		123.6		27.4		13.3		79.7
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 955.9		1003.2		963.2		901.8		1057.6
+QoQ%: 	5.4		4.9		-4.0		-6.4		17.3
+QOPM%: 	18.3		17.2		13.3		14.7		18.4
+QNPM%: 	13.1		12.5		12.5		11.8		13.1
+QPFT: 	124.9		125.2		120.2		106.5		138.7
+PQoQ%: 	14.2		0.2		-4.0		-11.4		30.3
 
 
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 80% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
-3831.00cr, QoQ 0.40% SALES;
-631.10cr, QoQ 11.40% OPERATING PROFIT;
-460.70cr, QoQ 13.40% NET PROFIT;
+3804.10cr, QoQ 0.50% & YoY 104.14% SALES;
+626.10cr, QoQ 11.10% & YoY 203.93% OPERATING PROFIT;
+458.70cr, QoQ 13.30% & YoY 341.91% NET PROFIT;
 OPM %: 16.50% vs 14.9%
-NPM %: 12.00% vs 10.7%
+NPM %: 12.10% vs 10.7%
 

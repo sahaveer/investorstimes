@@ -1,36 +1,40 @@
-CODES
-540774	IFGLEXPOR	
-SECTOR : Refractories
-INDUSTRY : Refractories / Intermediates
-PRODUCT DEMAND
+CODES	540774	IFGLEXPOR	
+FULLNAME : IFGL Refractories Ltd
+SECTOR : Industrial Products
+INDUSTRY : Electrodes & Refractories
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  917.4   |  1022.0  |  1259.5  |  1386.5  |  1639.5  |     1204.4   
- SQoQ%:  |   -3.5   |   11.4   |   23.2   |   10.1   |   18.2   |      73.5    
- YOPM%:  |   10.0   |   15.3   |   11.3   |   11.0   |   9.4    |              
- YNPM%:  |   2.1    |   6.4    |   6.2    |   5.7    |   5.0    |              
-YPROFIT: |   19.5   |   65.6   |   77.5   |   79.2   |   81.7   |      34.5    
- PQoQ%:  |  -61.4   |  237.1   |   18.1   |   2.2    |   3.1    |      42.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  366.2   |  393.9   |  414.5   |  411.1   |  378.8  
- QoQ%:  |  -19.6   |   7.6    |   5.2    |   -0.8   |   -7.9  
- QOPM%: |   0.0    |   8.8    |   11.1   |   7.9    |   4.4   
- QNPM%: |   0.4    |   3.2    |   5.9    |   2.9    |   0.0   
- QPFT:  |   1.5    |   12.5   |   24.6   |   12.1   |   -2.2  
- PQoQ%: |  -96.0   |  725.0   |   96.6   |  -51.0   |  -118.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1022.0		1259.5		1386.5		1639.5		1653.0		1411.2
+SQoQ%: 	11.4		23.2		10.1		18.2		0.8		85.4
+YOPM%: 	15.3		11.3		11.0		9.4		7.8
+YNPM%: 	6.4		6.2		5.7		5.0		2.6
+YPROFIT: 65.6		77.5		79.2		81.7		43.0		20.4
+PQoQ%: 	237.1		18.1		2.2		3.1		-47.4		47.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 378.8		448.5		454.0		488.6		468.6
+QoQ%: 	-7.9		18.4		1.2		7.6		-4.1
+QOPM%: 	4.4		7.4		7.9		7.8		4.9
+QNPM%: 	0.0		1.9		2.4		2.6		0.0
+QPFT: 	-2.2		8.4		10.8		12.7		-3.1
+PQoQ%: 	-118.0		-486.7		28.2		17.4		-124.3
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 73% YSales
+- Last 3QSALES is about 85% YSales
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1639.50cr, QoQ 18.20% & YoY 78.71% SALES;
-154.80cr, QoQ 1.10% & YoY 68.44% OPERATING PROFIT;
-81.70cr, QoQ 3.10% & YoY 318.97% NET PROFIT;
-OPM %: 9.40% vs 11.0%
-NPM %: 5.00% vs 5.7%
+ 31-Mar-2025 #Result
+1653.00cr, QoQ 0.80% & YoY 61.74% SALES;
+128.70cr, QoQ -16.80% & YoY -17.97% OPERATING PROFIT;
+43.00cr, QoQ -47.40% & YoY -34.45% NET PROFIT;
+OPM %: 7.80% vs 9.4%
+NPM %: 2.60% vs 5.0%
 

@@ -1,26 +1,35 @@
-CODES
-507794	KHAICHEM	
-SECTOR : 
-INDUSTRY : 
+CODES	507794	KHAICHEM	
+FULLNAME : Khaitan Chemicals & Fertilizers Ltd
+SECTOR : Fertilizers & Agrochemicals
+INDUSTRY : Fertilizers
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 480.8		823.8		887.8		535.8		720.2		808.6
+SQoQ%: 	10.0		71.3		7.8		-39.6		34.4		112.3
+YOPM%: 	12.4		15.0		8.8		0.0		3.2
+YNPM%: 	5.2		9.7		4.7		0.0		0.2
+YPROFIT: 24.9		79.5		42.1		-70.5		1.4		63.3
+PQoQ%: 	64.9		219.7		-47.0		-267.3		-102.0		4521.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 198.8		160.7		234.3		308.6		265.7
+QoQ%: 	-13.8		-19.2		45.8		31.7		-13.9
+QOPM%: 	5.4		6.6		13.5		10.1		12.2
+QNPM%: 	6.3		5.4		9.1		7.0		7.7
+QPFT: 	12.6		8.6		21.4		21.5		20.4
+PQoQ%: 	-508.8		-31.2		148.1		0.3		-4.8
+
+
+
+***PROS***
+- Last 3QSALES is about 112% YSales
+- Last 3QPROFIT is about 4521% of YProfit
+- YProfit Turned POSITIVE this year Mar-2025 : 1.4
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  480.8   |  823.8   |  887.8   |  535.8   |  720.2  
- SQoQ%:  |   10.0   |   71.3   |   7.8    |  -39.6   |   34.4  
- YOPM%:  |   12.4   |   15.0   |   8.8    |   0.0    |   3.2   
- YNPM%:  |   5.2    |   9.7    |   4.7    |   0.0    |   0.2   
-YPROFIT: |   24.9   |   79.5   |   42.1   |  -70.5   |   1.4   
- PQoQ%:  |   64.9   |  219.7   |  -47.0   |  -267.3  |  -102.0 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   50.8   |  130.1   |  230.6   |  198.8   |  160.7  
- QoQ%:  |  -60.1   |  155.9   |   77.3   |  -13.8   |  -19.2  
- QOPM%: |   0.0    |   0.0    |   3.7    |   5.4    |   6.6   
- QNPM%: |   0.0    |   0.0    |   0.0    |   6.3    |   5.4   
- QPFT:  |  -37.4   |  -16.7   |   -3.1   |   12.6   |   8.6   
- PQoQ%: |   38.7   |  -55.3   |  -81.6   |  -508.8  |  -31.2  
-
-***PROS***
-- YProfit Turned POSITIVE this year Mar-2025 : 1.4

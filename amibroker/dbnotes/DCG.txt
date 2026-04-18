@@ -1,22 +1,23 @@
-CODES
-DCG	
-SECTOR : Cables
-INDUSTRY : Cables - Power
+CODES	DCG	
+FULLNAME : DCG Cables & Wires Ltd
+SECTOR : Industrial Products
+INDUSTRY : Cables - Electricals
 EXPANSION 2024
 PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
 - PRODUCT DEMAND is rising since 3 years
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 127.60cr, QoQ 26.20% & YoY 773.97% SALES;
-16.00cr, QoQ -1.10% & YoY 15900.00% OPERATING PROFIT;
+16.10cr, QoQ -0.90% & YoY 16000.00% OPERATING PROFIT;
 8.10cr, QoQ -8.50% & YoY 8000.00% NET PROFIT;
 OPM %: 12.60% vs 16.0%
 NPM %: 6.30% vs 8.8%

@@ -1,14 +1,15 @@
-CODE	NAME
-531537 
-
+CODES	531537	
+FULLNAME : Mizzen Ventures Ltd
 SECTOR : Construction
 INDUSTRY : Construction
 
-***CONS***
-- NEGATIVE YProfit : -1.9
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -1.9

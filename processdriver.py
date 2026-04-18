@@ -5,25 +5,36 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 
 
+import config
+import streamlit as st
+
 def getedgedriver():
+    if config.is_cloud():
+        st.warning("Webdriver is not available in the cloud environment.")
+        return None
+    
     try:
-        service = Service(executable_path=r'C://Users/sahaveer/PycharmProjects/msedgedriver.exe')
+        # Local path for development. Consider moving this to a config or environment variable.
+        driver_path = getattr(st.secrets, "EDGE_DRIVER_PATH", r'C://Users/sahaveer/PycharmProjects/msedgedriver.exe')
+        service = Service(executable_path=driver_path)
         options = webdriver.EdgeOptions()
         driver = webdriver.Edge(service=service, options=options)
         return driver
     except Exception as e:
-        print(e)
+        print(f"Error initializing Edge driver: {e}")
+        return None
 
 def getchromedriver():
-    service = Service(executable_path=r'C://Users/sahaveer/PycharmProjects/chromedriver.exe')
-    options = webdriver.ChromeOptions()
-    #options.add_argument("user-data-dir=selenium")
-    #options.add_argument('--headless')
-    #options.add_argument('--disable-gpu')
-    #options.add_argument('--no-sandbox')
-    #options.add_argument('--disable-dev-shm-usage')
-    # Initialize the Chrome driver
-    # driver = webdriver.Chrome()
-    driver = webdriver.Chrome(service=service, options=options)
-    # driver = webdriver.Edge(r"C://Users/sahaveer/PycharmProjects/msedgedriver.exe", )
-    return driver
+    if config.is_cloud():
+        st.warning("Webdriver is not available in the cloud environment.")
+        return None
+
+    try:
+        driver_path = getattr(st.secrets, "CHROME_DRIVER_PATH", r'C://Users/sahaveer/PycharmProjects/chromedriver.exe')
+        service = Service(executable_path=driver_path)
+        options = webdriver.ChromeOptions()
+        driver = webdriver.Chrome(service=service, options=options)
+        return driver
+    except Exception as e:
+        print(f"Error initializing Chrome driver: {e}")
+        return None

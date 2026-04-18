@@ -1,31 +1,37 @@
-CODE	NAME
-522165 
-
-SECTOR : Ferro Alloys
-INDUSTRY : Mining / Minerals / Metals
+CODES	522165	
+FULLNAME : Indsil Hydro Power & Manganese Ltd
+SECTOR : Ferrous Metals
+INDUSTRY : Ferro & Silica Manganese
 PRODUCT DEMAND
 YSD YPD 2022
 
-***CONS***
-- NEGATIVE YProfit : -10.0
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024
----------+----------+----------+----------+----------+---------
-YSALES:  |  517.7   |   61.0   |  208.4   |  176.8   |  116.6  
- SQoQ%:  |  -24.5   |  -88.2   |  241.5   |  -15.2   |  -34.1  
- YOPM%:  |   0.0    |   4.8    |   16.3   |   7.4    |   0.0   
- YNPM%:  |   0.0    |   0.0    |   45.9   |   0.0    |   0.0   
-YPROFIT: |  -42.3   |  -46.8   |   95.6   |   -9.0   |  -10.0  
- PQoQ%:  |  -582.6  |   10.5   |  -304.3  |  -109.5  |   10.2  
- QPNL:  | Mar-2023 | Jun-2023 | Sep-2023 | Dec-2023 | Mar-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   58.8   |   45.6   |   20.7   |   20.2   |   30.1  
- QoQ%:  |   40.2   |  -22.4   |  -54.6   |   -2.4   |   49.1  
- QOPM%: |   0.0    |   1.7    |   0.0    |   9.1    |   0.0   
- QNPM%: |   0.0    |   6.4    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -4.8   |   2.9    |  -10.6   |   -1.2   |   -1.1  
- PQoQ%: |  -57.5   |  -160.2  |  -462.7  |  -89.0   |   -2.6  
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2022	Mar-2023	Mar-2024	QSUM:Dec-2025
+YSALES: 517.7		61.0		208.4		176.8		116.6		86.6
+SQoQ%: 	-24.5		-88.2		241.5		-15.2		-34.1		74.3
+YOPM%: 	0.0		4.8		16.3		7.4		0.0
+YNPM%: 	0.0		0.0		45.9		0.0		0.0
+YPROFIT: -42.3		-46.8		95.6		-9.0		-10.0		1.6
+PQoQ%: 	-582.6		10.5		-304.3		-109.5		10.2		-16.0
+
+
+
+***QUARTERLY***
+QPNL: 	Jun-2023	Sep-2023	Dec-2023	Mar-2024	Dec-2025
+QSALES: 45.6		20.7		20.2		30.1		36.3
+QoQ%: 	-22.4		-54.6		-2.4		49.1		20.5
+QOPM%: 	1.7		0.0		9.1		0.0		10.4
+QNPM%: 	6.4		0.0		0.0		0.0		10.7
+QPFT: 	2.9		-10.6		-1.2		-1.1		3.9
+PQoQ%: 	-160.2		-462.7		-89.0		-2.6		-443.4
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 74% YSales
 - YProfits and YSales DOUBLED in Mar2022
 
+
+***CONS***
+- NEGATIVE YProfit : -10.0

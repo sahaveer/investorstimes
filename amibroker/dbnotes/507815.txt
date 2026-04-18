@@ -1,41 +1,46 @@
-CODES
-507815	GILLETTE	
-SECTOR : 
-INDUSTRY : 
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	507815	GILLETTE	
+FULLNAME : Gillette India Ltd
+SECTOR : Personal Products
+INDUSTRY : Personal Care
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Jun-2020 | Jun-2021 | Jun-2022 | Jun-2023 | Jun-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1679.1  |  1981.9  |  2256.2  |  2477.0  |  2633.1  |     2112.7   
- SQoQ%:  |   -9.8   |   18.0   |   13.8   |   9.8    |   6.3    |      80.2    
- YOPM%:  |   21.4   |   23.2   |   21.4   |   21.8   |   24.1   |              
- YNPM%:  |   13.7   |   15.7   |   12.8   |   14.4   |   15.6   |              
-YPROFIT: |  230.2   |  310.4   |  289.3   |  355.7   |  411.7   |     375.0    
- PQoQ%:  |   -9.0   |   34.8   |   -6.8   |   22.9   |   15.8   |      91.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  639.5   |  680.7   |  645.3   |  781.8   |  685.6  
- QoQ%:  |   -4.2   |   6.5    |   -5.2   |   21.2   |  -12.3  
- QOPM%: |   24.5   |   23.6   |   27.2   |   24.4   |   26.7  
- QNPM%: |   16.3   |   14.6   |   18.0   |   17.0   |   18.4  
- QPFT:  |  104.0   |   99.1   |  116.0   |  133.0   |  126.0  
- PQoQ%: |   12.1   |   -4.7   |   17.0   |   14.7   |   -5.3  
+***YEARLY***
+YPNL: 	Jun-2021	Jun-2022	Jun-2023	Jun-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1981.9		2256.2		2477.0		2633.1		2234.8		2307.5
+SQoQ%: 	18.0		13.8		9.8		6.3		-15.1		103.3
+YOPM%: 	23.2		21.4		21.8		24.2		26.9
+YNPM%: 	15.7		12.8		14.4		15.6		18.7
+YPROFIT: 310.4		289.3		355.7		411.7		417.7		461.8
+PQoQ%: 	34.8		-6.8		22.9		15.8		1.4		110.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 685.6		767.5		706.7		810.8		790.0
+QoQ%: 	-12.3		11.9		-7.9		14.7		-2.6
+QOPM%: 	26.7		29.4		29.8		25.6		31.4
+QNPM%: 	18.4		20.7		20.6		17.7		21.8
+QPFT: 	126.0		158.7		145.7		143.6		172.5
+PQoQ%: 	-5.3		26.0		-8.2		-1.4		20.1
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Jun2024 is at 42.4%
-- Last 3QSALES is about 80% YSales
-- Last 3QPROFIT is about 91% of YProfit
+ROCE in Mar2025 is at 39.7%
+- Last 3QSALES is about 103% YSales
+- Last 3QPROFIT is about 111% of YProfit
+- YMargins improvised by more than 15% since Jun2024 and PROFITS been maintaining ever since.
+
+***CONS***
 
 Yearly 
- 30-Jun-2024 #Result
-2633.10cr, QoQ 6.30% & YoY 56.82% SALES;
-633.90cr, QoQ 17.50% & YoY 76.13% OPERATING PROFIT;
-411.70cr, QoQ 15.80% & YoY 78.84% NET PROFIT;
-OPM %: 24.10% vs 21.8%
-NPM %: 15.60% vs 14.4%
+ 31-Mar-2025 #Result
+2234.80cr, QoQ -15.10% & YoY 12.76% SALES;
+600.30cr, QoQ -5.90% & YoY 30.59% OPERATING PROFIT;
+417.70cr, QoQ 1.40% & YoY 34.57% NET PROFIT;
+OPM %: 26.90% vs 24.2%
+NPM %: 18.70% vs 15.6%
 

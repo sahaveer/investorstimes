@@ -1,14 +1,15 @@
-CODE	NAME
-530265 
+CODES	530265	
+FULLNAME : Sainik Finance & Industries Ltd
+SECTOR : Cement & Cement Products
+INDUSTRY : Cement & Cement Products
 
-SECTOR : Finance
-INDUSTRY : Finance & Investments
-
-***CONS***
-- NEGATIVE YProfit : -8.1
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -8.1

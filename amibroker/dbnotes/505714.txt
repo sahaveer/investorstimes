@@ -1,12 +1,14 @@
-CODES
-505714	GABRIEL	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
+CODES	505714	GABRIEL	
+FULLNAME : Gabriel India Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

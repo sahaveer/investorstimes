@@ -1,41 +1,50 @@
-CODES
-511333	VLSFINANCE	
+CODES	511333	VLSFINANCE	
+FULLNAME : VLS Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Investment Company
 PRODUCT DEMAND
+BestQ Dec 2025
+BestQ Dec 2025
 YSD YPD 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   35.8   |  222.1   |  232.3   |   84.2   |  412.4   |     151.7    
- SQoQ%:  |  135.5   |  520.6   |   4.6    |  -63.8   |  389.7   |      36.8    
- YOPM%:  |   0.0    |   93.9   |   91.0   |   74.0   |   93.7   |              
- YNPM%:  |  109.7   |   99.7   |   90.5   |   66.5   |   78.6   |              
-YPROFIT: |   39.2   |  221.4   |  210.2   |   56.0   |  324.3   |      86.0    
- PQoQ%:  | -1041.2  |  463.9   |   -5.0   |  -73.4   |  479.5   |      26.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  113.2   |   98.1   |  130.3   |   79.2   |  -57.8  
- QoQ%:  |   34.6   |  -13.4   |   32.9   |  -39.2   |  -173.0 
- QOPM%: |   94.8   |   92.4   |   94.6   |   78.4   |   0.0   
- QNPM%: |   77.8   |   75.5   |   71.6   |   64.5   |   0.0   
- QPFT:  |   88.0   |   74.1   |   93.2   |   51.1   |  -58.3  
- PQoQ%: |   25.3   |  -15.9   |   25.9   |  -45.2   |  -214.1 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 222.1		232.3		84.2		409.1		101.1		138.3
+SQoQ%: 	520.6		4.6		-63.8		385.8		-75.3		136.8
+YOPM%: 	93.9		91.0		74.0		93.6		55.4
+YNPM%: 	99.7		90.5		66.5		79.3		45.7
+YPROFIT: 221.4		210.2		56.0		324.3		46.2		96.3
+PQoQ%: 	463.9		-5.0		-73.4		479.5		-85.8		208.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: -57.8		-48.7		98.6		10.5		29.2
+QoQ%: 	-173.0		-15.8		-302.5		-89.3		177.1
+QOPM%: 	0.0		0.0		94.8		47.0		78.6
+QNPM%: 	0.0		0.0		72.2		67.4		61.9
+QPFT: 	-58.3		-39.8		71.2		7.1		18.0
+PQoQ%: 	-214.1		-31.7		-278.6		-90.0		154.2
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 137% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 208% of YProfit
 - YProfits and YSales DOUBLED in Mar2024
 
 
-YSALES in Mar-2024 is at 412.4 showing a QoQ_growth of 389.7%. The YNETPROFIT grew by 479.5% to 324.3
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-412.40cr, QoQ 389.70% & YoY 1051.96% SALES;
-386.40cr, QoQ 520.20% & YoY -10833.33% OPERATING PROFIT;
-324.30cr, QoQ 479.50% & YoY 727.30% NET PROFIT;
-OPM %: 93.70% vs 74.0%
-NPM %: 78.60% vs 66.5%
+ 31-Mar-2025 #Result
+101.10cr, QoQ -75.30% & YoY -54.48% SALES;
+56.00cr, QoQ -85.40% & YoY -73.15% OPERATING PROFIT;
+46.20cr, QoQ -85.80% & YoY -79.13% NET PROFIT;
+OPM %: 55.40% vs 93.6%
+NPM %: 45.70% vs 79.3%
 

@@ -1,13 +1,14 @@
-CODE	NAME
-538647 
-
+CODES	538647	
+FULLNAME : Purshottam Investofin Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

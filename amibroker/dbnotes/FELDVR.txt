@@ -1,4 +1,4 @@
-CODES
-570002	FELDVR	
-SECTOR : 
-INDUSTRY : 
+CODES	570002	FELDVR	
+FULLNAME : Future Enterprises-DVR
+SECTOR : Retailing
+INDUSTRY : Diversified Retail

@@ -1,36 +1,42 @@
-CODES
-539636	PRECAM	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
-PRODUCT DEMAND
+CODES	539636	PRECAM	
+FULLNAME : Precision Camshafts Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  746.2   |  709.0   |  895.0   |  1080.1  |  1031.1  |     675.0    
- SQoQ%:  |   7.3    |   -5.0   |   26.2   |   20.7   |   -4.5   |      65.5    
- YOPM%:  |   15.0   |   8.7    |   12.8   |   10.2   |   9.8    |              
- YNPM%:  |   4.7    |   0.3    |   5.1    |   4.3    |   3.9    |              
-YPROFIT: |   35.0   |   2.3    |   46.0   |   46.3   |   40.4   |      13.6    
- PQoQ%:  |  203.5   |  -93.4   |  1909.6  |   0.6    |  -12.8   |      33.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  257.7   |  256.2   |  255.3   |  225.1   |  194.6  
- QoQ%:  |   1.3    |   -0.6   |   -0.3   |  -11.8   |  -13.6  
- QOPM%: |   11.0   |   8.5    |   9.5    |   10.1   |   4.2   
- QNPM%: |   9.5    |   1.3    |   4.6    |   3.7    |   0.0   
- QPFT:  |   24.5   |   3.4    |   11.6   |   8.4    |   -6.4  
- PQoQ%: |  190.2   |  -86.3   |  246.9   |  -27.7   |  -175.7 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 709.0		895.0		1080.1		1031.1		865.4		571.9
+SQoQ%: 	-5.0		26.2		20.7		-4.5		-16.1		66.1
+YOPM%: 	8.7		12.8		10.2		9.8		9.5
+YNPM%: 	0.3		5.1		4.3		3.9		6.3
+YPROFIT: 2.3		46.0		46.3		40.4		54.1		41.2
+PQoQ%: 	-93.4		1909.6		0.6		-12.8		34.1		76.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 194.6		190.4		195.0		198.2		178.7
+QoQ%: 	-13.6		-2.1		2.4		1.6		-9.8
+QOPM%: 	4.2		13.5		7.5		6.6		8.1
+QNPM%: 	0.0		21.2		9.7		6.6		5.2
+QPFT: 	-6.4		40.4		18.8		13.2		9.2
+PQoQ%: 	-175.7		-735.8		-53.5		-30.1		-30.0
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 65% YSales
+- Last 3QSALES is about 66% YSales
+- Last 3QPROFIT is about 76% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1031.10cr, QoQ -4.50% & YoY 38.18% SALES;
-100.60cr, QoQ -9.10% & YoY -9.94% OPERATING PROFIT;
-40.40cr, QoQ -12.80% & YoY 15.43% NET PROFIT;
-OPM %: 9.80% vs 10.2%
-NPM %: 3.90% vs 4.3%
+ 31-Mar-2025 #Result
+865.40cr, QoQ -16.10% & YoY 22.06% SALES;
+81.80cr, QoQ -18.70% & YoY 33.22% OPERATING PROFIT;
+54.10cr, QoQ 34.10% & YoY 2252.17% NET PROFIT;
+OPM %: 9.50% vs 9.8%
+NPM %: 6.30% vs 3.9%
 

@@ -1,35 +1,44 @@
-CODES
-512599	ADANIENT	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	512599	ADANIENT	
+FULLNAME : Adani Enterprises Ltd
+SECTOR : Metals & Minerals Trading
+INDUSTRY : Trading - Minerals
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 39537.1  | 69420.2  | 127539.5 | 96421.0  | 97894.8 
- SQoQ%:  |   -8.9   |   75.6   |   83.7   |  -24.4   |   1.5   
- YOPM%:  |   6.3    |   5.3    |   6.9    |   11.8   |   14.6  
- YNPM%:  |   2.3    |   1.1    |   1.9    |   3.4    |   7.3   
-YPROFIT: |  922.6   |  776.6   |  2464.0  |  3239.6  |  7099.0 
- PQoQ%:  |  -18.9   |  -15.8   |  217.3   |   31.5   |  119.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 29180.0  | 25472.4  | 22608.1  | 22848.4  | 26965.9 
- QoQ%:  |   16.5   |  -12.7   |  -11.2   |   1.1    |   18.0  
- QOPM%: |   11.0   |   14.5   |   16.7   |   13.4   |   13.8  
- QNPM%: |   1.5    |   5.7    |   7.7    |   0.3    |   14.3  
- QPFT:  |  450.6   |  1454.5  |  1741.8  |   57.8   |  3844.9 
- PQoQ%: |  -76.1   |  222.8   |   19.7   |  -96.7   |  6548.6 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 39537.1		69420.2		127539.5		96421.0		97894.8		68029.3
+SQoQ%: 	-8.9		75.6		83.7		-24.4		1.5		69.5
+YOPM%: 	6.3		5.3		6.9		11.8		14.6
+YNPM%: 	2.3		1.1		1.9		3.4		7.3
+YPROFIT: 922.6		776.6		2464.0		3239.6		7112.0		9560.2
+PQoQ%: 	-18.9		-15.8		217.3		31.5		119.5		134.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 22848.4		26965.9		21961.2		21248.5		24819.6
+QoQ%: 	1.1		18.0		-18.6		-3.2		16.8
+QOPM%: 	13.4		13.8		15.1		15.6		14.7
+QNPM%: 	0.3		14.3		3.3		15.1		22.7
+QPFT: 	57.8		3844.9		734.4		3198.8		5627.0
+PQoQ%: 	-96.7		6548.6		-80.9		335.6		75.9
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 69% YSales
+- Last 3QPROFIT is about 134% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 97894.80cr, QoQ 1.50% & YoY 147.60% SALES;
 14252.00cr, QoQ 25.30% & YoY 468.81% OPERATING PROFIT;
-7099.00cr, QoQ 119.10% & YoY 669.46% NET PROFIT;
+7112.00cr, QoQ 119.50% & YoY 670.86% NET PROFIT;
 OPM %: 14.60% vs 11.8%
 NPM %: 7.30% vs 3.4%
 

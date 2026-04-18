@@ -1,47 +1,47 @@
-CODE	NAME
-512020 
-
+CODES	512020	
+FULLNAME : Saraswati Commercial (India) Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+INDUSTRY : Non Banking Financial Company (NBFC)
+PRODUCT DEMAND
+BestQ Dec 2025
 YSD YPD 2024
-YSD YPD 2022
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.4    |   28.0   |   86.9   |   24.0   |  128.3   |     101.7    
- SQoQ%:  |  -85.5   |  1961.0  |  210.1   |  -72.4   |  434.3   |      79.3    
- YOPM%:  |   0.0    |   94.2   |   97.4   |   86.9   |   97.5   |              
- YNPM%:  |   0.0    |   76.1   |   74.7   |   48.7   |   81.0   |              
-YPROFIT: |   -9.6   |   21.3   |   64.9   |   11.7   |  103.9   |      76.3    
- PQoQ%:  |  -242.4  |  -322.0  |  204.4   |  -82.0   |  788.8   |      73.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   40.1   |   30.1   |   68.2   |   78.3   |  -44.8  
- QoQ%:  |   40.3   |  -25.0   |  126.9   |   14.8   |  -157.3 
- QOPM%: |   97.7   |   96.7   |   98.0   |   98.0   |   0.0   
- QNPM%: |   83.1   |   74.4   |   76.9   |   80.9   |   0.0   
- QPFT:  |   33.3   |   22.4   |   52.4   |   63.3   |  -39.4  
- PQoQ%: |   40.0   |  -32.9   |  134.5   |   20.7   |  -162.2 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 28.0		86.9		24.0		128.3		75.4		137.5
+SQoQ%: 	1961.0		210.1		-72.4		434.3		-41.2		182.4
+YOPM%: 	94.2		97.4		86.9		97.5		93.3
+YNPM%: 	76.1		74.7		48.7		81.0		70.8
+YPROFIT: 21.3		64.9		11.7		103.9		53.4		108.7
+PQoQ%: 	-322.0		204.4		-82.0		788.8		-48.6		203.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: -44.8		-26.2		31.5		73.3		32.7
+QoQ%: 	-157.3		-41.5		-220.0		132.9		-55.4
+QOPM%: 	0.0		0.0		94.2		98.9		95.7
+QNPM%: 	0.0		0.0		74.9		82.3		75.7
+QPFT: 	-39.4		-23.0		23.6		60.3		24.8
+PQoQ%: 	-162.2		-41.8		-202.7		155.7		-59.0
+
+
 
 ***PROS***
-A DEBT-Free Company
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 79% YSales
-- Last 3QPROFIT is about 73% of YProfit
-- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 182% YSales
+- Last 3QPROFIT is about 204% of YProfit
 - YProfits and YSales DOUBLED in Mar2024
-- YProfits and YSales DOUBLED in Mar2022
 
 
-YSALES in Mar-2024 is at 128.3 showing a QoQ_growth of 434.3%. The YNETPROFIT grew by 788.8% to 103.9
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-128.30cr, QoQ 434.30% & YoY 9064.29% SALES;
-125.20cr, QoQ 499.70% & YoY -1078.12% OPERATING PROFIT;
-103.90cr, QoQ 788.80% & YoY -1182.29% NET PROFIT;
-OPM %: 97.50% vs 86.9%
-NPM %: 81.00% vs 48.7%
+ 31-Mar-2025 #Result
+75.40cr, QoQ -41.20% & YoY 169.29% SALES;
+70.40cr, QoQ -43.70% & YoY 166.67% OPERATING PROFIT;
+53.40cr, QoQ -48.60% & YoY 150.70% NET PROFIT;
+OPM %: 93.30% vs 97.5%
+NPM %: 70.80% vs 81.0%
 

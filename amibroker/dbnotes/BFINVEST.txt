@@ -1,42 +1,45 @@
-CODES
-533303	BFINVEST	
+CODES	533303	BFINVEST	
+FULLNAME : BF Investment Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+INDUSTRY : Holding Company
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   22.1   |   16.4   |   19.9   |   31.2   |   42.7   |      35.6    
- SQoQ%:  |   18.7   |  -25.8   |   21.5   |   56.5   |   36.9   |      83.4    
- YOPM%:  |   73.2   |   64.6   |   78.4   |   81.9   |   85.3   |              
- YNPM%:  |  652.7   |  1627.2  |  991.7   |  830.8   |  1015.1  |              
-YPROFIT: |  144.3   |  267.0   |  197.8   |  259.3   |  433.7   |     225.6    
- PQoQ%:  |   14.1   |   85.0   |  -25.9   |   31.1   |   67.3   |      52.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   9.0    |   12.9   |   7.7    |   18.6   |   9.3   
- QoQ%:  |  -38.1   |   42.9   |  -40.3   |  140.7   |  -50.2  
- QOPM%: |   92.9   |   70.8   |   92.2   |   93.6   |   95.0  
- QNPM%: |  640.0   |  1935.3  |  2365.4  |  193.9   |   75.5  
- QPFT:  |   57.9   |  250.2   |  182.6   |   36.0   |   7.0   
- PQoQ%: |  -16.4   |  332.0   |  -27.0   |  -80.3   |  -80.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 16.4		19.9		31.2		42.7		62.7		38.9
+SQoQ%: 	-25.8		21.5		56.5		36.9		46.8		62.0
+YOPM%: 	64.6		78.4		81.9		85.3		88.5
+YNPM%: 	1627.2		991.7		830.8		1015.1		354.3
+YPROFIT: 267.0		197.8		259.3		433.7		222.3		167.8
+PQoQ%: 	85.0		-25.9		31.1		67.3		-48.8		75.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 9.3		26.5		9.4		19.4		10.1
+QoQ%: 	-50.2		185.9		-64.4		105.2		-47.8
+QOPM%: 	95.0		0.0		85.2		86.0		89.1
+QNPM%: 	75.5		0.0		407.6		206.5		884.1
+QPFT: 	7.0		-3.3		38.4		40.0		89.4
+PQoQ%: 	-80.6		-147.6		-1254.4		3.9		123.7
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 83% YSales
-- Last 3QPROFIT is about 52% of YProfit
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 36.9% while the Profit QoQ_growth is much better than Sales itself at 67.3%
+- Last 3QSALES is about 62% YSales
+- Last 3QPROFIT is about 75% of YProfit
+
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-42.70cr, QoQ 36.90% & YoY 93.21% SALES;
-36.40cr, QoQ 42.50% & YoY 124.69% OPERATING PROFIT;
-433.70cr, QoQ 67.30% & YoY 200.55% NET PROFIT;
-OPM %: 85.30% vs 81.9%
-NPM %: 1015.10% vs 830.8%
+ 31-Mar-2025 #Result
+62.70cr, QoQ 46.80% & YoY 282.32% SALES;
+55.50cr, QoQ 52.40% & YoY 423.58% OPERATING PROFIT;
+222.30cr, QoQ -48.80% & YoY -16.74% NET PROFIT;
+OPM %: 88.50% vs 85.3%
+NPM %: 354.30% vs 1015.1%
 

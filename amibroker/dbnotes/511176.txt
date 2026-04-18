@@ -1,29 +1,39 @@
-CODE	NAME
-511176 
-
+CODES	511176	
+FULLNAME : Parshwanath Corporation Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   0.4    |   0.4    |   0.5    |   0.6    |   0.7   
- SQoQ%:  |  -55.1   |   -6.8   |   26.8   |   13.5   |   18.6  
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- YNPM%:  |  102.3   |   73.2   |   55.8   |   88.1   |   78.6  
-YPROFIT: |   0.4    |   0.3    |   0.3    |   0.5    |   0.6   
- PQoQ%:  |  -38.4   |  -33.3   |   -3.3   |   79.3   |   5.8   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.3    |   0.2    |   0.1    |   0.1   
- QoQ%:  |  -82.6   |  725.0   |  -45.5   |  -61.1   |   71.4  
- QOPM%: |   0.0    |   42.4   |   0.0    |   0.0    |   0.0   
- QNPM%: |  250.0   |   93.9   |   88.9   |  100.0   |   8.3   
- QPFT:  |   0.1    |   0.3    |   0.2    |   0.1    |   0.0   
- PQoQ%: |  -41.2   |  210.0   |  -48.4   |  -56.2   |  -85.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.4		0.4		0.5		0.6		0.7		0.6
+SQoQ%: 	-55.1		-6.8		26.8		13.5		18.6		85.7
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	102.3		73.2		55.8		88.1		78.6
+YPROFIT: 0.4		0.3		0.3		0.5		0.6		0.3
+PQoQ%: 	-38.4		-33.3		-3.3		79.3		5.8		50.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.1		0.1		0.2		0.4		-0.0
+QoQ%: 	-61.1		71.4		33.3		131.2		-108.1
+QOPM%: 	0.0		0.0		0.0		54.1		0.0
+QNPM%: 	100.0		8.3		100.0		67.6		0.0
+QPFT: 	0.1		0.0		0.2		0.2		-0.1
+PQoQ%: 	-56.2		-85.7		1500.0		56.2		-132.0
+
+
 
 ***PROS***
+A DEBT-Free Company
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 86% YSales
+- Last 3QPROFIT is about 50% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

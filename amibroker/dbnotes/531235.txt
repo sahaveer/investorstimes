@@ -1,16 +1,17 @@
-CODE	NAME
-531235 
-
+CODES	531235	
+FULLNAME : CitiPort Financial Services Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 PRODUCT DEMAND
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - Last 3QSALES is about 100% YSales
+
+***CONS***

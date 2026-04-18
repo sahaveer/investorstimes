@@ -1,18 +1,20 @@
-CODES
-544339	LAXMIDENTL	
+CODES	544339	LAXMIDENTL	
+FULLNAME : Laxmi Dental Ltd
 SECTOR : Healthcare
 INDUSTRY : Healthcare
 LYPD PM 2024
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - YProfit Turned POSITIVE this year Mar-2024 : 24.8
 - LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
 
 Quarterly 
 31-Dec-2024 #Result

@@ -1,39 +1,43 @@
-CODE	NAME
-504380 
+CODES	504380	
+FULLNAME : Flomic Global Logistics Ltd
+SECTOR : Transport Services
+INDUSTRY : Logistics Solution Provider
+PRODUCT DEMAND
 
-SECTOR : Logistics
-INDUSTRY : Miscellaneous
-BestQ Dec 2024
-YSD YPD 2022
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Sep-2025
+YSALES: 165.7		375.1		422.4		332.2		500.2		215.1
+SQoQ%: 	44.3		126.3		12.6		-21.4		50.6		43.0
+YOPM%: 	9.0		8.1		8.6		9.4		8.7
+YNPM%: 	1.5		2.6		2.2		0.7		0.7
+YPROFIT: 2.5		9.6		9.5		2.2		3.7		-4.0
+PQoQ%: 	-5040.0		290.3		-1.7		-76.9		68.9		-108.1
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  114.8   |  165.7   |  375.1   |  422.4   |  332.2   |     381.9    
- SQoQ%:  | 26002.3  |   44.3   |  126.3   |   12.6   |  -21.4   |     115.0    
- YOPM%:  |   6.9    |   9.0    |   8.1    |   8.6    |   9.4    |              
- YNPM%:  |   0.0    |   1.5    |   2.6    |   2.2    |   0.7    |              
-YPROFIT: |   -0.0   |   2.5    |   9.6    |   9.5    |   2.2    |      1.7     
- PQoQ%:  |  150.0   | -5040.0  |  290.3   |   -1.7   |  -76.9   |      77.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   88.9   |  100.8   |  110.8   |  136.5   |  134.6  
- QoQ%:  |   19.8   |   13.4   |   9.9    |   23.2   |   -1.4  
- QOPM%: |   9.9    |   10.0   |   9.0    |   7.8    |   8.4   
- QNPM%: |   2.1    |   1.8    |   0.0    |   0.9    |   0.8   
- QPFT:  |   1.8    |   1.8    |   -0.6   |   1.2    |   1.1   
- PQoQ%: |  -177.0  |   -2.7   |  -131.8  |  -308.8  |   -5.0  
+
+
+***QUARTERLY***
+QPNL: 	Sep-2024	Dec-2024	Mar-2025	Jun-2025	Sep-2025
+QSALES: 136.5		134.6		118.2		101.4		113.7
+QoQ%: 	23.2		-1.4		-12.1		-14.3		12.2
+QOPM%: 	7.8		8.4		9.6		6.1		7.6
+QNPM%: 	0.9		0.8		1.6		0.0		0.0
+QPFT: 	1.2		1.1		1.9		-3.0		-1.0
+PQoQ%: 	-308.8		-5.0		70.8		-254.4		-66.1
+
+
 
 ***PROS***
-- Last 3QSALES is about 115% YSales
-- Last 3QPROFIT is about 77% of YProfit
-- YProfits and YSales DOUBLED in Mar2022
+- PRODUCT DEMAND is rising since 3 years
+
+YSALES in Mar-2025 is at 500.2 showing a QoQ_growth of 50.6%. The YNETPROFIT grew by 68.9% to 3.7
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-332.20cr, QoQ -21.40% & YoY 189.37% SALES;
-31.10cr, QoQ -13.90% & YoY 293.67% OPERATING PROFIT;
-2.20cr, QoQ -76.90% & YoY -inf% NET PROFIT;
-OPM %: 9.40% vs 8.6%
-NPM %: 0.70% vs 2.2%
+ 31-Mar-2025 #Result
+500.20cr, QoQ 50.60% & YoY 201.87% SALES;
+43.70cr, QoQ 40.20% & YoY 193.29% OPERATING PROFIT;
+3.70cr, QoQ 68.90% & YoY 48.00% NET PROFIT;
+OPM %: 8.70% vs 9.4%
+NPM %: 0.70% vs 0.7%
 

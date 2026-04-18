@@ -1,13 +1,15 @@
-CODES
-532872	SPARC	
-SECTOR : Pharmaceuticals
-INDUSTRY : Miscellaneous
+CODES	532872	SPARC	
+FULLNAME : Sun Pharma Advanced Research Company Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 
-***CONS***
-- NEGATIVE YProfit : -342.5
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -342.5

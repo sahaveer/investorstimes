@@ -1,15 +1,16 @@
-CODES
-NAMAN	
+CODES	NAMAN	
+FULLNAME : Naman Industries Proxima Limited
 SECTOR : Consumer Durables
-INDUSTRY : Miscellaneous
+INDUSTRY : Furniture, Home Furnishing
 YSD YPD 2023
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - YProfits and YSales DOUBLED in Mar2023
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

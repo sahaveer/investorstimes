@@ -1,37 +1,46 @@
-CODES
-517569	KEI	
-SECTOR : Cables
-INDUSTRY : Cables - Power
+CODES	517569	KEI	
+FULLNAME : KEI Industries Ltd
+SECTOR : Industrial Products
+INDUSTRY : Cables - Electricals
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  4181.5  |  5727.0  |  6908.2  |  8104.1  |  9735.9 
- SQoQ%:  |  -14.4   |   37.0   |   20.6   |   17.3   |   20.1  
- YOPM%:  |   10.9   |   10.3   |   10.2   |   10.3   |   10.2  
- YNPM%:  |   6.4    |   6.6    |   6.9    |   7.2    |   7.2   
-YPROFIT: |  269.6   |  376.0   |  477.4   |  580.7   |  696.4  
- PQoQ%:  |   5.2    |   39.5   |   26.9   |   21.7   |   19.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2329.9  |  2060.5  |  2279.6  |  2472.2  |  2914.8 
- QoQ%:  |   13.1   |  -11.6   |   10.6   |   8.4    |   17.9  
- QOPM%: |   11.0   |   10.4   |   9.7    |   9.9    |   10.3  
- QNPM%: |   7.2    |   7.3    |   6.8    |   6.7    |   7.8   
- QPFT:  |  168.5   |  150.2   |  154.8   |  164.8   |  226.6  
- PQoQ%: |   11.8   |  -10.8   |   3.0    |   6.5    |   37.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 4181.5		5727.0		6908.2		8120.7		9735.9		8271.4
+SQoQ%: 	-14.4		37.0		20.6		17.6		19.9		85.0
+YOPM%: 	10.9		10.3		10.2		10.5		10.2
+YNPM%: 	6.4		6.6		6.9		7.2		7.2
+YPROFIT: 269.6		376.0		477.4		580.7		696.4		634.2
+PQoQ%: 	5.2		39.5		26.9		21.7		19.9		91.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2472.2		2914.8		2590.3		2726.4		2954.7
+QoQ%: 	8.3		17.9		-11.1		5.3		8.4
+QOPM%: 	9.9		10.3		10.0		9.9		10.8
+QNPM%: 	6.7		7.8		7.6		7.5		7.9
+QPFT: 	164.8		226.6		195.8		203.5		234.9
+PQoQ%: 	6.5		37.5		-13.6		4.0		15.4
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 85% YSales
+- Last 3QPROFIT is about 91% of YProfit
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
-As on Mar2025, Sales have increased by 20.1% while the Profit QoQ_growth is at 19.9%
+As on Mar2025, Sales have increased by 19.9% while the Profit QoQ_growth is at 19.9%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-9735.90cr, QoQ 20.10% & YoY 132.83% SALES;
-991.00cr, QoQ 18.30% & YoY 117.52% OPERATING PROFIT;
+9735.90cr, QoQ 19.90% & YoY 132.83% SALES;
+991.00cr, QoQ 16.00% & YoY 117.52% OPERATING PROFIT;
 696.40cr, QoQ 19.90% & YoY 158.31% NET PROFIT;
-OPM %: 10.20% vs 10.3%
+OPM %: 10.20% vs 10.5%
 NPM %: 7.20% vs 7.2%
 

@@ -1,41 +1,49 @@
-CODES
-543237	MAZDOCK	
-SECTOR : Aerospace & Defence
-INDUSTRY : Miscellaneous
-BestQ Dec 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+CODES	543237	MAZDOCK	
+FULLNAME : Mazagon Dock Shipbuilders Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Ship Building & Allied Services
+PRODUCT DEMAND
+BestQ Dec 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  4904.8  |  4047.8  |  5733.3  |  7827.2  |  9466.6  |     8257.4   
- SQoQ%:  |   6.3    |  -17.5   |   41.6   |   36.5   |   20.9   |      87.2    
- YOPM%:  |   5.4    |   5.6    |   7.7    |   10.2   |   15.0   |              
- YNPM%:  |   9.6    |   12.7   |   10.7   |   14.3   |   20.5   |              
-YPROFIT: |  470.5   |  513.9   |  610.8   |  1119.0  |  1937.0  |     2088.2   
- PQoQ%:  |  -11.6   |   9.2    |   18.9   |   83.2   |   73.1   |     107.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  2362.5  |  3103.6  |  2357.0  |  2756.8  |  3143.6 
- QoQ%:  |   29.3   |   31.4   |  -24.1   |   17.0   |   14.0  
- QOPM%: |   22.8   |   16.9   |   27.2   |   18.5   |   26.0  
- QNPM%: |   26.5   |   21.4   |   29.5   |   21.2   |   25.7  
- QPFT:  |  626.8   |  663.0   |  696.1   |  585.1   |  807.0  
- PQoQ%: |   88.3   |   5.8    |   5.0    |  -15.9   |   37.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 4047.8		5733.3		7827.2		9466.6		11431.9		9155.9
+SQoQ%: 	-17.5		41.6		36.5		20.9		20.8		80.1
+YOPM%: 	5.6		7.7		10.2		15.0		18.1
+YNPM%: 	12.7		10.7		14.3		20.5		21.1
+YPROFIT: 513.9		610.8		1119.0		1937.0		2413.5		2081.5
+PQoQ%: 	9.2		18.9		83.2		73.1		24.6		86.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3143.6		3174.4		2625.6		2929.2		3601.1
+QoQ%: 	14.0		1.0		-17.3		11.6		22.9
+QOPM%: 	26.0		2.8		11.5		23.7		24.6
+QNPM%: 	25.7		10.2		17.2		25.6		24.4
+QPFT: 	807.0		325.3		452.2		749.5		879.8
+PQoQ%: 	37.9		-59.7		39.0		65.8		17.4
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 87% YSales
-- Last 3QPROFIT is about 108% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 86% of YProfit
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 20.9% while the Profit QoQ_growth is much better than Sales itself at 73.1%
+As on Mar2025, Sales have increased by 20.8% while the Profit QoQ_growth is much better than Sales itself at 24.6%
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-9466.60cr, QoQ 20.90% & YoY 93.01% SALES;
-1415.80cr, QoQ 76.80% & YoY 438.74% OPERATING PROFIT;
-1937.00cr, QoQ 73.10% & YoY 311.69% NET PROFIT;
-OPM %: 15.00% vs 10.2%
-NPM %: 20.50% vs 14.3%
+ 31-Mar-2025 #Result
+11431.90cr, QoQ 20.80% & YoY 182.42% SALES;
+2065.90cr, QoQ 45.90% & YoY 812.90% OPERATING PROFIT;
+2413.50cr, QoQ 24.60% & YoY 369.64% NET PROFIT;
+OPM %: 18.10% vs 15.0%
+NPM %: 21.10% vs 20.5%
 

@@ -1,36 +1,45 @@
-CODES
-543989	KALAMANDIR	
-SECTOR : Retail
-INDUSTRY : Trading
+CODES	543989	KALAMANDIR	
+FULLNAME : Sai Silks (Kalamandir) Ltd
+SECTOR : Retailing
+INDUSTRY : Speciality Retail
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  677.2   |  1129.3  |  1351.5  |  1373.6  |  1462.0 
- SQoQ%:  |  -42.4   |   66.8   |   19.7   |   1.6    |   6.4   
- YOPM%:  |   9.2    |   12.2   |   16.2   |   16.0   |   14.5  
- YNPM%:  |   0.8    |   5.1    |   7.2    |   7.3    |   5.8   
-YPROFIT: |   5.1    |   57.7   |   97.6   |  100.9   |   85.4  
- PQoQ%:  |  -87.8   |  1024.6  |   69.2   |   3.4    |  -15.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  359.6   |  267.3   |  347.3   |  448.6   |  398.8  
- QoQ%:  |   -6.0   |  -25.7   |   29.9   |   29.2   |  -11.1  
- QOPM%: |   15.1   |   7.1    |   15.9   |   17.6   |   14.7  
- QNPM%: |   8.0    |   0.8    |   6.8    |   10.3   |   3.4   
- QPFT:  |   28.7   |   2.1    |   23.8   |   46.0   |   13.5  
- PQoQ%: |  -10.2   |  -92.7   |  1037.3  |   93.6   |  -70.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 677.2		1129.3		1351.5		1373.6		1462.0		1234.5
+SQoQ%: 	-42.4		66.8		19.7		1.6		6.4		84.4
+YOPM%: 	9.2		12.2		16.2		16.0		14.9
+YNPM%: 	0.8		5.1		7.2		7.3		5.8
+YPROFIT: 5.1		57.7		97.6		100.9		85.4		108.2
+PQoQ%: 	-87.8		1024.6		69.2		3.4		-15.3		126.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 448.6		398.8		379.0		444.3		411.2
+QoQ%: 	29.2		-11.1		-5.0		17.2		-7.4
+QOPM%: 	17.6		14.7		15.1		16.2		17.1
+QNPM%: 	10.3		3.4		7.9		9.0		9.3
+QPFT: 	46.0		13.5		30.0		40.1		38.1
+PQoQ%: 	93.6		-70.6		122.4		33.4		-4.8
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 127% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 1462.00cr, QoQ 6.40% & YoY 115.89% SALES;
-211.60cr, QoQ -3.40% & YoY 239.10% OPERATING PROFIT;
+218.20cr, QoQ -0.50% & YoY 249.68% OPERATING PROFIT;
 85.40cr, QoQ -15.30% & YoY 1574.51% NET PROFIT;
-OPM %: 14.50% vs 16.0%
+OPM %: 14.90% vs 16.0%
 NPM %: 5.80% vs 7.3%
 

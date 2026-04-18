@@ -1,41 +1,48 @@
-CODES
-533181	ISFT	
-SECTOR : E-Commerce/App based Aggregator
-INDUSTRY : Miscellaneous
-EXPANSION 2023
+CODES	533181	ISFT	
+FULLNAME : Intrasoft Technologies Ltd
+SECTOR : Retailing
+INDUSTRY : E-Retail/ E-Commerce
 EXPANSION 2024
-PRODUCT DEMAND
-BestQ Dec 2024
+EXPANSION 2025
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  590.7   |  613.1   |  421.7   |  456.9   |  485.5   |     377.1    
- SQoQ%:  |  -29.4   |   3.8    |  -31.2   |   8.4    |   6.2    |      77.7    
- YOPM%:  |   1.2    |   1.4    |   3.0    |   3.4    |   4.0    |              
- YNPM%:  |   0.4    |   1.4    |   3.0    |   1.8    |   2.0    |              
-YPROFIT: |   2.1    |   8.3    |   12.8   |   8.4    |   9.8    |      10.3    
- PQoQ%:  |  -62.7   |  295.3   |   53.7   |  -34.4   |   16.5   |     105.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  123.0   |  121.5   |  123.2   |  125.6   |  128.3  
- QoQ%:  |   2.0    |   -1.2   |   1.4    |   1.9    |   2.2   
- QOPM%: |   4.0    |   4.0    |   3.9    |   3.7    |   3.4   
- QNPM%: |   1.8    |   1.9    |   3.0    |   3.1    |   2.1   
- QPFT:  |   2.2    |   2.4    |   3.7    |   3.9    |   2.7   
- PQoQ%: |   -9.4   |   6.3    |   57.2   |   5.7    |  -31.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 613.1		421.7		456.9		485.5		507.2		398.2
+SQoQ%: 	3.8		-31.2		8.4		6.2		4.5		78.5
+YOPM%: 	1.4		3.0		3.4		4.0		3.5
+YNPM%: 	1.4		3.0		1.8		2.0		2.5
+YPROFIT: 8.3		12.8		8.4		9.8		12.7		10.1
+PQoQ%: 	295.3		53.7		-34.4		16.5		29.5		79.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 128.3		130.0		129.0		132.5		136.7
+QoQ%: 	2.2		1.3		-0.8		2.7		3.1
+QOPM%: 	3.4		2.8		3.7		3.1		2.9
+QNPM%: 	2.1		1.8		3.2		2.6		1.9
+QPFT: 	2.7		2.4		4.1		3.4		2.6
+PQoQ%: 	-31.1		-13.0		74.5		-16.8		-23.2
+
+
 
 ***PROS***
 EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 78% YSales
-- Last 3QPROFIT is about 105% of YProfit
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 81.2%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 80% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-485.50cr, QoQ 6.20% & YoY -17.81% SALES;
-19.60cr, QoQ 25.40% & YoY 184.06% OPERATING PROFIT;
-9.80cr, QoQ 16.50% & YoY 366.67% NET PROFIT;
-OPM %: 4.00% vs 3.4%
-NPM %: 2.00% vs 1.8%
+ 31-Mar-2025 #Result
+507.20cr, QoQ 4.50% & YoY -17.27% SALES;
+17.80cr, QoQ -8.90% & YoY 109.41% OPERATING PROFIT;
+12.70cr, QoQ 29.50% & YoY 53.01% NET PROFIT;
+OPM %: 3.50% vs 4.0%
+NPM %: 2.50% vs 2.0%
 

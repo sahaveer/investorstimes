@@ -1,30 +1,37 @@
-CODES
-541929	SGIL	
-SECTOR : 
-INDUSTRY : 
+CODES	541929	SGIL	
+FULLNAME : Synergy Green Industries Ltd
+SECTOR : Industrial Products
+INDUSTRY : Castings & Forgings
 LYPD PM 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 198.7		283.8		289.7		326.3		362.3		247.4
+SQoQ%: 	-4.4		42.8		2.1		12.6		11.0		68.3
+YOPM%: 	12.2		8.5		9.0		12.0		14.4
+YNPM%: 	1.6		0.5		0.3		3.5		4.7
+YPROFIT: 3.2		1.4		0.9		11.6		16.9		4.3
+PQoQ%: 	-4.5		-55.0		-39.2		1228.7		46.1		25.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 97.1		97.5		83.6		72.0		91.8
+QoQ%: 	9.2		0.4		-14.3		-13.8		27.5
+QOPM%: 	14.3		15.3		13.6		12.9		9.0
+QNPM%: 	6.1		3.9		4.0		3.3		0.0
+QPFT: 	6.0		3.8		3.4		2.4		-1.5
+PQoQ%: 	43.0		-35.5		-12.0		-30.2		-163.1
+
+
+
+***PROS***
+- Last 3QSALES is about 68% YSales
+- LastYr YProfits Doubled and maintained in Mar2025
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  198.7   |  283.8   |  289.7   |  326.3   |  362.3  
- SQoQ%:  |   -4.4   |   42.8   |   2.1    |   12.6   |   11.0  
- YOPM%:  |   12.2   |   8.5    |   9.0    |   12.0   |   14.4  
- YNPM%:  |   1.6    |   0.5    |   0.3    |   3.5    |   4.7   
-YPROFIT: |   3.2    |   1.4    |   0.9    |   11.6   |   16.9  
- PQoQ%:  |   -4.5   |  -55.0   |  -39.2   |  1228.7  |   46.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   82.3   |   78.8   |   88.9   |   97.1   |   97.5  
- QoQ%:  |   -6.7   |   -4.3   |   12.9   |   9.2    |   0.4   
- QOPM%: |   11.6   |   13.2   |   14.8   |   14.3   |   15.3  
- QNPM%: |   3.9    |   3.7    |   4.7    |   6.1    |   3.9   
- QPFT:  |   3.2    |   3.0    |   4.2    |   6.0    |   3.8   
- PQoQ%: |   24.5   |   -9.2   |   41.0   |   43.0   |  -35.5  
-
-***PROS***
-- LastYr YProfits Doubled and maintained in Mar2025
 
 Yearly 
  31-Mar-2025 #Result

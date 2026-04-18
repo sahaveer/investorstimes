@@ -1,33 +1,38 @@
-CODE	NAME
-516020 
-
-SECTOR : Paper
-INDUSTRY : Paper
-EXPANSION 2023
+CODES	516020	
+FULLNAME : Agio Paper & Industries Ltd
+SECTOR : Paper, Forest & Jute Products
+INDUSTRY : Paper & Paper Products
 EXPANSION 2024
+EXPANSION 2025
+PRODUCT DEMAND
 YSD YPD 2024
-LYPD PM 2024
 
-***CONS***
-- NEGATIVE YProfit : -1.1
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.3    |      0.0     
- SQoQ%:  |   nan    |   nan    |   nan    |   nan    |   inf    |      0.0     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -1.6   |   -1.2   |   -1.3   |   -1.4   |   -1.1   |      -1.2    
- PQoQ%:  |  -81.4   |  -21.3   |   9.8    |   6.0    |  -23.9   |     109.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.1    |   0.2    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   inf    |   50.0   |  -100.0  |   nan    |   nan   
- QOPM%: |   33.3   |   44.4   |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.2   |   -0.2   |   -0.4   |   -0.4   |   -0.4  
- PQoQ%: |  -33.3   |  -18.2   |  138.9   |   -9.3   |   -2.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		0.0		0.0		0.3		0.0		0.0
+SQoQ%: 	nan		nan		nan		inf		-100.0		nan
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -1.2		-1.3		-1.4		-1.1		-1.6		-17.7
+PQoQ%: 	-21.3		9.8		6.0		-23.9		46.3		1106.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-0.4		-0.4		-0.5		-16.7		-0.5
+PQoQ%: 	-2.6		2.6		17.9		3530.4		-97.0
+
+
 
 ***PROS***
 EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
+- PRODUCT DEMAND is rising since 3 years
 - YProfits and YSales DOUBLED in Mar2024
-- LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
+- NEGATIVE YProfit : -1.6

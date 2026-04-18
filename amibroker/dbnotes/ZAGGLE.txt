@@ -1,12 +1,14 @@
-CODES
-543985	ZAGGLE	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	543985	ZAGGLE	
+FULLNAME : Zaggle Prepaid Ocean Services Ltd
+SECTOR : IT - Services
+INDUSTRY : IT Enabled Services
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

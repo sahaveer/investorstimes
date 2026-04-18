@@ -1,42 +1,46 @@
-CODE	NAME
-530689 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	530689	
+FULLNAME : Lykis Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 PRODUCT DEMAND
-BestQ Dec 2024
-YSD YPD 2022
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   84.3   |   63.2   |  328.9   |  453.8   |  404.3   |     235.9    
- SQoQ%:  |  -42.6   |  -24.9   |  420.0   |   38.0   |  -10.9   |      58.3    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   5.5    |   2.4    |              
- YNPM%:  |   0.0    |   0.0    |   0.7    |   3.5    |   1.0    |              
-YPROFIT: |   -1.9   |   -6.7   |   2.4    |   15.7   |   3.9    |      3.3     
- PQoQ%:  |  -21.5   |  253.7   |  -136.0  |  550.0   |  -75.3   |      84.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   93.3   |  120.3   |   72.8   |   83.9   |   79.2  
- QoQ%:  |   -5.9   |   29.0   |  -39.4   |   15.2   |   -5.6  
- QOPM%: |   2.7    |   0.0    |   3.1    |   2.4    |   4.7   
- QNPM%: |   1.5    |   0.0    |   1.1    |   1.1    |   2.0   
- QPFT:  |   1.4    |   -0.8   |   0.8    |   0.9    |   1.6   
- PQoQ%: |  -30.4   |  -154.2  |  -206.5  |   12.2   |   68.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 63.2		328.9		453.8		404.3		297.4		247.4
+SQoQ%: 	-24.9		420.0		38.0		-10.9		-26.5		83.2
+YOPM%: 	0.0		0.0		5.5		2.4		2.6
+YNPM%: 	0.0		0.7		3.5		1.0		0.9
+YPROFIT: -6.7		2.4		15.7		3.9		2.6		4.5
+PQoQ%: 	253.7		-136.0		550.0		-75.3		-32.7		173.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 79.2		61.4		67.2		89.6		90.6
+QoQ%: 	-5.6		-22.4		9.3		33.4		1.1
+QOPM%: 	4.7		0.0		0.1		3.4		3.0
+QNPM%: 	2.0		0.0		0.0		3.3		2.2
+QPFT: 	1.6		-0.7		-0.5		3.0		2.0
+PQoQ%: 	68.5		-144.5		-33.3		-752.2		-34.0
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 58% YSales
-- Last 3QPROFIT is about 85% of YProfit
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
-- YProfits and YSales DOUBLED in Mar2022
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 173% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-404.30cr, QoQ -10.90% & YoY 379.60% SALES;
-9.50cr, QoQ -62.00% & YoY -963.64% OPERATING PROFIT;
-3.90cr, QoQ -75.30% & YoY -305.26% NET PROFIT;
-OPM %: 2.40% vs 5.5%
-NPM %: 1.00% vs 3.5%
+ 31-Mar-2025 #Result
+297.40cr, QoQ -26.50% & YoY 370.57% SALES;
+7.60cr, QoQ -19.70% & YoY -200.00% OPERATING PROFIT;
+2.60cr, QoQ -32.70% & YoY -138.81% NET PROFIT;
+OPM %: 2.60% vs 2.4%
+NPM %: 0.90% vs 1.0%
 

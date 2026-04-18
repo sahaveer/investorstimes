@@ -1,40 +1,42 @@
-CODES
-THEJO	
-SECTOR : Engineering
-INDUSTRY : Engineering
-BestQ Dec 2024
+CODES	THEJO	
+FULLNAME : Thejo Engineering Ltd
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  303.5   |  326.7   |  424.2   |  473.8   |  558.6   |     399.5    
- SQoQ%:  |   32.7   |   7.6    |   29.8   |   11.7   |   17.9   |      71.5    
- YOPM%:  |   16.2   |   15.4   |   16.3   |   12.6   |   18.0   |              
- YNPM%:  |   8.3    |   8.1    |   8.9    |   6.8    |   10.0   |              
-YPROFIT: |   25.1   |   26.4   |   37.6   |   32.4   |   55.6   |      34.7    
- PQoQ%:  |   88.2   |   5.2    |   42.3   |  -13.8   |   71.6   |      62.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  149.9   |  140.8   |  130.5   |  133.4   |  135.6  
- QoQ%:  |   11.8   |   -6.0   |   -7.3   |   2.2    |   1.6   
- QOPM%: |   19.4   |   18.1   |   14.1   |   12.6   |   17.8  
- QNPM%: |   11.6   |   8.9    |   7.4    |   8.9    |   9.7   
- QPFT:  |   17.3   |   12.5   |   9.6    |   11.9   |   13.2  
- PQoQ%: |   32.0   |  -28.0   |  -23.1   |   24.1   |   10.5  
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 326.7		424.2		473.8		558.6		552.7
+SQoQ%: 	7.6		29.8		11.7		17.9		-1.1
+YOPM%: 	15.4		16.3		12.6		18.0		15.9
+YNPM%: 	8.1		8.9		6.8		10.0		9.0
+YPROFIT: 26.4		37.6		32.4		55.6		49.9
+PQoQ%: 	5.2		42.3		-13.8		71.6		-10.3
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2024	Jun-2024	Sep-2024	Dec-2024	Mar-2025
+QSALES: 140.8		130.5		133.4		135.6		153.2
+QoQ%: 	-6.0		-7.3		2.2		1.6		13.0
+QOPM%: 	18.1		14.1		12.6		17.8		18.4
+QNPM%: 	8.9		7.4		8.9		9.7		9.9
+QPFT: 	12.5		9.6		11.9		13.2		15.2
+PQoQ%: 	-28.0		-23.1		24.1		10.5		15.7
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 21.5%
-- Last 3QSALES is about 72% YSales
-- Last 3QPROFIT is about 62% of YProfit
+ROCE in Mar2025 is at 16.8%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
 
-YSALES in Mar-2024 is at 558.6 showing a QoQ_growth of 17.9%. The YNETPROFIT grew by 71.6% to 55.6
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-558.60cr, QoQ 17.90% & YoY 84.05% SALES;
-100.30cr, QoQ 67.80% & YoY 103.86% OPERATING PROFIT;
-55.60cr, QoQ 71.60% & YoY 121.51% NET PROFIT;
-OPM %: 18.00% vs 12.6%
-NPM %: 10.00% vs 6.8%
+ 31-Mar-2025 #Result
+552.70cr, QoQ -1.10% & YoY 69.18% SALES;
+87.70cr, QoQ -12.60% & YoY 74.35% OPERATING PROFIT;
+49.90cr, QoQ -10.30% & YoY 89.02% NET PROFIT;
+OPM %: 15.90% vs 18.0%
+NPM %: 9.00% vs 10.0%
 

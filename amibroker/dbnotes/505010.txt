@@ -1,29 +1,38 @@
-CODES
-505010	AUTOAXLES	
-SECTOR : 
-INDUSTRY : 
+CODES	505010	AUTOAXLES	
+FULLNAME : Automotive Axles Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  905.6   |  1490.6  |  2323.7  |  2229.2  |  2077.5 
- SQoQ%:  |   -4.9   |   64.6   |   55.9   |   -4.1   |   -6.8  
- YOPM%:  |   7.3    |   9.0    |   11.1   |   11.0   |   10.6  
- YNPM%:  |   2.5    |   5.0    |   7.0    |   7.5    |   7.5   
-YPROFIT: |   22.7   |   74.4   |  162.0   |  166.2   |  155.5  
- PQoQ%:  |  -44.7   |  227.1   |  117.9   |   2.5    |   -6.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  571.5   |  492.5   |  494.7   |  530.7   |  559.6  
- QoQ%:  |   5.6    |  -13.8   |   0.4    |   7.3    |   5.4   
- QOPM%: |   11.1   |   9.9    |   10.3   |   10.8   |   11.2  
- QNPM%: |   7.7    |   6.9    |   7.3    |   7.5    |   8.2   
- QPFT:  |   44.1   |   34.0   |   36.0   |   39.6   |   45.9  
- PQoQ%: |   12.6   |  -22.8   |   5.6    |   10.0   |   16.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 905.6		1490.6		2323.7		2229.2		2077.5		1513.5
+SQoQ%: 	-4.9		64.6		55.9		-4.1		-6.8		72.9
+YOPM%: 	7.3		9.0		11.1		11.0		10.6
+YNPM%: 	2.5		5.0		7.0		7.5		7.5
+YPROFIT: 22.7		74.4		162.0		166.2		155.5		110.5
+PQoQ%: 	-44.7		227.1		117.9		2.5		-6.4		71.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 530.7		559.6		489.4		461.8		562.3
+QoQ%: 	7.3		5.4		-12.6		-5.6		21.8
+QOPM%: 	10.8		11.2		9.8		10.5		11.4
+QNPM%: 	7.5		8.2		7.3		7.8		6.9
+QPFT: 	39.6		45.9		35.7		36.0		38.8
+PQoQ%: 	10.0		16.0		-22.2		0.6		8.0
+
+
 
 ***PROS***
 A DEBT-Free Company for the last 2 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 73% YSales
+- Last 3QPROFIT is about 71% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

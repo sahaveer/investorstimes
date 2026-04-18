@@ -1,41 +1,24 @@
-CODES
-543636	DCI	
-SECTOR : 
-INDUSTRY : 
-BestQ Dec 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+CODES	543636	DCI	
+FULLNAME : DC Infotech & Communication Ltd
+SECTOR : IT - Hardware
+INDUSTRY : Computers Hardware & Equipments
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  147.5   |  168.6   |  232.0   |  358.7   |  459.2   |     383.0    
- SQoQ%:  |  869.4   |   14.3   |   37.6   |   54.6   |   28.0   |      83.4    
- YOPM%:  |   3.1    |   3.1    |   3.2    |   3.5    |   4.4    |              
- YNPM%:  |   0.9    |   1.3    |   1.7    |   2.0    |   2.5    |              
-YPROFIT: |   1.3    |   2.2    |   4.0    |   7.1    |   11.6   |      10.8    
- PQoQ%:  |  119.0   |   73.2   |   81.8   |   77.0   |   64.0   |      93.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  101.9   |  154.6   |  118.5   |  130.3   |  134.2  
- QoQ%:  |   -7.7   |   51.6   |  -23.3   |   10.0   |   3.0   
- QOPM%: |   4.1    |   4.4    |   4.4    |   4.9    |   5.6   
- QNPM%: |   2.1    |   2.7    |   2.6    |   2.8    |   3.0   
- QPFT:  |   2.2    |   4.2    |   3.1    |   3.7    |   4.0   
- PQoQ%: |  -30.7   |   94.0   |  -27.3   |   20.6   |   9.5   
+***YEARLY***
+
+
+***QUARTERLY***
+
 
 ***PROS***
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 17.5%
-- Last 3QSALES is about 83% YSales
-- Last 3QPROFIT is about 93% of YProfit
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 28.0% while the Profit QoQ_growth is much better than Sales itself at 64.0%
+- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2025 is at 27.8%. The QPROFIT QoQ_growth by 29.5%
 
-Yearly 
- 31-Mar-2024 #Result
-459.20cr, QoQ 28.00% & YoY 211.32% SALES;
-20.00cr, QoQ 57.50% & YoY 334.78% OPERATING PROFIT;
-11.60cr, QoQ 64.00% & YoY 792.31% NET PROFIT;
-OPM %: 4.40% vs 3.5%
-NPM %: 2.50% vs 2.0%
+***CONS***
+
+Quarterly 
+31-Dec-2025 #Result
+196.00cr, QoQ 27.80% SALES;
+10.30cr, QoQ 21.10% OPERATING PROFIT;
+6.50cr, QoQ 29.50% NET PROFIT;
+OPM %: 5.20% vs 5.5%
+NPM %: 3.30% vs 3.3%
 

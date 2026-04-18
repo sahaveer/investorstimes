@@ -1,34 +1,43 @@
-CODES
-542651	KPITTECH	
+CODES	542651	KPITTECH	
+FULLNAME : KPIT Technologies Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+INDUSTRY : Computers - Software & Consulting
 PRODUCT DEMAND
+BestQ Dec 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2035.7  |  2432.4  |  3365.0  |  4871.5  |  5842.4 
- SQoQ%:  |   -5.6   |   19.5   |   38.3   |   44.8   |   19.9  
- YOPM%:  |   15.1   |   18.5   |   18.8   |   20.3   |   21.0  
- YNPM%:  |   7.2    |   11.3   |   11.3   |   12.2   |   14.4  
-YPROFIT: |  146.1   |  274.2   |  381.0   |  594.5   |  839.6  
- PQoQ%:  |   -1.0   |   87.6   |   38.9   |   56.0   |   41.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1317.8  |  1364.6  |  1471.4  |  1478.0  |  1528.3 
- QoQ%:  |   4.8    |   3.6    |   7.8    |   0.4    |   3.4   
- QOPM%: |   20.7   |   21.1   |   20.2   |   20.7   |   21.1  
- QNPM%: |   12.5   |   15.0   |   13.8   |   12.7   |   16.0  
- QPFT:  |  164.4   |  204.2   |  203.8   |  187.0   |  244.7  
- PQoQ%: |   5.8    |   24.2   |   -0.2   |   -8.2   |   30.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2035.7		2432.4		3365.0		4871.5		5842.4		4744.0
+SQoQ%: 	-5.6		19.5		38.3		44.8		19.9		81.2
+YOPM%: 	15.1		18.5		18.8		20.3		21.0
+YNPM%: 	7.2		11.3		11.3		12.2		14.4
+YPROFIT: 146.1		274.2		381.0		594.5		839.6		474.3
+PQoQ%: 	-1.0		87.6		38.9		56.0		41.2		56.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1478.0		1528.3		1538.8		1587.7		1617.5
+QoQ%: 	0.4		3.4		0.7		3.2		1.9
+QOPM%: 	20.7		21.1		19.2		18.8		19.2
+QNPM%: 	12.7		16.0		11.2		10.6		8.2
+QPFT: 	187.0		244.7		171.9		169.1		133.3
+PQoQ%: 	-8.2		30.9		-29.8		-1.6		-21.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 25.3%
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 56% of YProfit
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 19.9% while the Profit QoQ_growth is much better than Sales itself at 41.2%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

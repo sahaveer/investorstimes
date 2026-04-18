@@ -1,30 +1,52 @@
-CODE	NAME
-511493 
-
+CODES	511493	
+FULLNAME : Shrydus Industries Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 PRODUCT DEMAND
+BestQ Dec 2025
+YSD YPD 2025
 YSD YPD 2024
-LYPD PM 2024
+LYPD PM 2025
 
-***CONS***
+***YEARLY***
+YPNL: 	Mar-2003	Mar-2004	Mar-2005	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.3		0.5		0.4		9.4		39.8		0.2
+SQoQ%: 	nan		55.9		-15.1		2000.0		321.3		0.5
+YOPM%: 	0.0		0.0		0.0		5.5		20.8
+YNPM%: 	0.0		0.0		0.0		5.5		20.8
+YPROFIT: -0.3		-0.1		-0.1		0.5		8.3		0.0
+PQoQ%: 	nan		-61.5		20.0		-533.3		1490.4		0.0
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 35.3		0.0		0.0		0.0		0.2
+QoQ%: 	908.3		-100.0		nan		nan		inf
+QOPM%: 	21.1		0.0		0.0		0.0		25.0
+QNPM%: 	21.1		0.0		0.0		0.0		30.0
+QPFT: 	7.4		-2.8		-0.1		-0.0		0.1
+PQoQ%: 	172.9		-137.0		-97.5		-71.4		-400.0
 
 
 
 ***PROS***
+A DEBT-Free Company
 - PRODUCT DEMAND is rising since 3 years
-- YProfit Turned POSITIVE this year Mar-2024 : 0.5
+- Double QSales and QProfit
+- YProfits and YSales DOUBLED in Mar2025
 - YProfits and YSales DOUBLED in Mar2024
-- LastYr YProfits Doubled and maintained in Mar2024
-- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2024 is at 908.3%. The QPROFIT QoQ_growth by 172.9%
+- LastYr YProfits Doubled and maintained in Mar2025
 
-Quarterly 
-31-Dec-2024 #Result
-35.30cr, QoQ 908.30% SALES;
-7.50cr, QoQ 131.70% OPERATING PROFIT;
-7.40cr, QoQ 172.90% NET PROFIT;
-OPM %: 21.10% vs 92.0%
-NPM %: 21.10% vs 78.0%
+YSALES in Mar-2025 is at 39.8 showing a QoQ_growth of 321.3%. The YNETPROFIT grew by 1490.4% to 8.3
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+39.80cr, QoQ 321.30% & YoY 13166.67% SALES;
+8.30cr, QoQ 1492.30% & YoY -4250.00% OPERATING PROFIT;
+8.30cr, QoQ 1490.40% & YoY -2866.67% NET PROFIT;
+OPM %: 20.80% vs 5.5%
+NPM %: 20.80% vs 5.5%
 

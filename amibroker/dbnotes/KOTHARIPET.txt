@@ -1,43 +1,47 @@
-CODES
-KOTHARIPET	
-SECTOR : Petrochemicals
+CODES	KOTHARIPET	
+FULLNAME : Kothari Petrochemicals Ltd
+SECTOR : Chemicals & Petrochemicals
 INDUSTRY : Petrochemicals
-BestQ Dec 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  273.2   |  226.8   |  381.5   |  482.2   |  603.1   |     456.8    
- SQoQ%:  |   -8.9   |  -17.0   |   68.2   |   26.4   |   25.1   |      75.7    
- YOPM%:  |   10.1   |   15.0   |   13.1   |   11.8   |   15.9   |              
- YNPM%:  |   6.7    |   9.9    |   8.6    |   8.1    |   10.6   |              
-YPROFIT: |   18.3   |   22.5   |   32.9   |   39.2   |   63.8   |      48.5    
- PQoQ%:  |   50.4   |   23.0   |   45.9   |   19.1   |   62.8   |      76.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  124.9   |  167.9   |  144.9   |  180.6   |  131.3  
- QoQ%:  |  -22.7   |   34.4   |  -13.7   |   24.7   |  -27.3  
- QOPM%: |   16.2   |   15.5   |   12.8   |   11.4   |   13.6  
- QNPM%: |   11.5   |   9.0    |   13.4   |   9.0    |   9.8   
- QPFT:  |   14.4   |   15.2   |   19.4   |   16.3   |   12.8  
- PQoQ%: |  -22.3   |   5.3    |   27.5   |  -15.7   |  -21.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 226.8		381.5		482.2		595.9		577.3		438.5
+SQoQ%: 	-17.0		68.2		26.4		23.6		-3.1		76.0
+YOPM%: 	15.0		13.1		11.8		16.1		13.9
+YNPM%: 	9.9		8.6		8.1		10.7		11.4
+YPROFIT: 22.5		32.9		39.2		63.8		65.8		54.7
+PQoQ%: 	23.0		45.9		19.1		62.8		3.2		83.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 131.3		152.9		160.7		143.0		134.8
+QoQ%: 	-12.3		16.5		5.1		-11.0		-5.7
+QOPM%: 	13.6		15.2		14.2		17.5		18.8
+QNPM%: 	9.8		11.3		10.9		12.9		13.9
+QPFT: 	12.8		17.3		17.6		18.4		18.7
+PQoQ%: 	-21.3		34.5		1.7		4.8		1.5
+
+
 
 ***PROS***
-A DEBT-Free Company
+A DEBT-Free Company for the last 2 yrs
+- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 33.3%
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+ROCE in Mar2025 is at 20.8%
 - Last 3QSALES is about 76% YSales
-- Last 3QPROFIT is about 76% of YProfit
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 25.1% while the Profit QoQ_growth is much better than Sales itself at 62.8%
+- Last 3QPROFIT is about 83% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-603.10cr, QoQ 25.10% & YoY 120.75% SALES;
-96.10cr, QoQ 68.80% & YoY 248.19% OPERATING PROFIT;
-63.80cr, QoQ 62.80% & YoY 248.63% NET PROFIT;
-OPM %: 15.90% vs 11.8%
-NPM %: 10.60% vs 8.1%
+ 31-Mar-2025 #Result
+577.30cr, QoQ -3.10% & YoY 154.54% SALES;
+80.20cr, QoQ -16.50% & YoY 135.88% OPERATING PROFIT;
+65.80cr, QoQ 3.20% & YoY 192.44% NET PROFIT;
+OPM %: 13.90% vs 16.1%
+NPM %: 11.40% vs 10.7%
 

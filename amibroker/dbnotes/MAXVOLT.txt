@@ -1,10 +1,11 @@
-CODES
-MAXVOLT	
+CODES	MAXVOLT	
+FULLNAME : Maxvolt Energy Industries Ltd
 SECTOR : Auto Ancillaries
 INDUSTRY : Auto Ancillaries
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

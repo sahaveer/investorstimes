@@ -1,36 +1,43 @@
-CODES
-590013	XPROINDIA	
-SECTOR : Packaging
+CODES	590013	XPROINDIA	
+FULLNAME : XPRO India Ltd
+SECTOR : Industrial Products
 INDUSTRY : Packaging
-BestQ Dec 2024
+EXPANSION 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  353.5   |  370.4   |  469.0   |  508.5   |  463.4   |     377.1    
- SQoQ%:  |   2.4    |   4.8    |   26.6   |   8.4    |   -8.9   |      81.4    
- YOPM%:  |   8.5    |   10.9   |   13.7   |   14.6   |   14.3   |              
- YNPM%:  |   0.1    |   2.3    |   9.6    |   8.9    |   9.5    |              
-YPROFIT: |   0.4    |   8.4    |   44.9   |   45.4   |   43.9   |      31.4    
- PQoQ%:  |  -82.8   |  1987.5  |  438.1   |   1.0    |   -3.3   |      71.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   96.1   |  128.4   |  138.5   |  134.0   |  104.6  
- QoQ%:  |  -12.6   |   33.6   |   7.9    |   -3.3   |  -22.0  
- QOPM%: |   15.8   |   13.1   |   11.3   |   9.8    |   10.1  
- QNPM%: |   11.1   |   9.7    |   10.1   |   7.4    |   7.1   
- QPFT:  |   10.7   |   12.4   |   14.0   |   9.9    |   7.5   
- PQoQ%: |   12.7   |   16.4   |   12.8   |  -29.1   |  -24.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 370.4		469.0		508.5		463.4		533.0		371.1
+SQoQ%: 	4.8		26.6		8.4		-8.9		15.0		69.6
+YOPM%: 	10.9		13.7		14.6		14.3		9.5
+YNPM%: 	2.3		9.6		8.9		9.5		7.1
+YPROFIT: 8.4		44.9		45.4		43.9		38.0		6.3
+PQoQ%: 	1987.5		438.1		1.0		-3.3		-13.4		16.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 104.6		158.2		144.9		119.9		106.3
+QoQ%: 	-22.0		51.3		-8.4		-17.2		-11.3
+QOPM%: 	10.1		6.3		0.0		6.1		10.0
+QNPM%: 	7.1		4.2		0.0		4.1		6.4
+QPFT: 	7.5		6.6		-5.5		5.0		6.8
+PQoQ%: 	-24.8		-12.0		-183.4		-190.7		36.4
+
+
 
 ***PROS***
-- Last 3QSALES is about 81% YSales
-- Last 3QPROFIT is about 72% of YProfit
+EXPANSION ??- EXPANSION underway in Mar-2025, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+- Last 3QSALES is about 70% YSales
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-463.40cr, QoQ -8.90% & YoY 31.09% SALES;
-66.10cr, QoQ -11.10% & YoY 121.07% OPERATING PROFIT;
-43.90cr, QoQ -3.30% & YoY 10875.00% NET PROFIT;
-OPM %: 14.30% vs 14.6%
-NPM %: 9.50% vs 8.9%
+ 31-Mar-2025 #Result
+533.00cr, QoQ 15.00% & YoY 43.90% SALES;
+50.80cr, QoQ -23.10% & YoY 26.05% OPERATING PROFIT;
+38.00cr, QoQ -13.40% & YoY 352.38% NET PROFIT;
+OPM %: 9.50% vs 14.3%
+NPM %: 7.10% vs 9.5%
 

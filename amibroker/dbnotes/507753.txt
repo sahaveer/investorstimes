@@ -1,38 +1,44 @@
-CODE	NAME
-507753 
+CODES	507753	
+FULLNAME : TGV Sraac Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
+BestQ Dec 2025
 
-SECTOR : Chemicals
-INDUSTRY : Chlor Alkali / Soda Ash
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1008.7		1525.3		2325.7		1546.0		1749.0		1439.0
+SQoQ%: 	-3.0		51.2		52.5		-33.5		13.1		82.3
+YOPM%: 	14.8		20.1		23.2		8.7		13.1
+YNPM%: 	2.9		8.8		15.5		3.9		5.3
+YPROFIT: 29.0		134.2		361.6		60.7		92.1		103.9
+PQoQ%: 	-38.8		363.5		169.5		-83.2		51.7		112.8
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1040.3  |  1008.7  |  1525.3  |  2325.7  |  1546.0  |     1262.3   
- SQoQ%:  |  -13.6   |   -3.0   |   51.2   |   52.5   |  -33.5   |      81.6    
- YOPM%:  |   15.1   |   14.8   |   20.1   |   23.2   |   8.7    |              
- YNPM%:  |   4.5    |   2.9    |   8.8    |   15.5   |   3.9    |              
-YPROFIT: |   47.3   |   29.0   |  134.2   |  361.6   |   60.7   |      70.4    
- PQoQ%:  |  -30.9   |  -38.8   |  363.5   |  169.5   |  -83.2   |     116.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  402.2   |  368.0   |  379.1   |  428.1   |  455.1  
- QoQ%:  |   11.6   |   -8.5   |   3.0    |   12.9   |   6.3   
- QOPM%: |   10.9   |   3.8    |   11.1   |   16.0   |   12.3  
- QNPM%: |   3.8    |   1.9    |   3.6    |   7.7    |   5.2   
- QPFT:  |   15.2   |   7.2    |   13.7   |   32.9   |   23.8  
- PQoQ%: |  -18.2   |  -52.9   |   91.2   |  140.0   |  -27.6  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 455.1		486.8		490.9		499.9		448.2
+QoQ%: 	6.3		7.0		0.8		1.8		-10.3
+QOPM%: 	12.3		12.0		19.3		18.6		17.3
+QNPM%: 	5.2		4.5		7.9		7.4		6.3
+QPFT: 	23.8		21.7		38.8		37.0		28.1
+PQoQ%: 	-27.6		-8.9		78.6		-4.4		-24.2
+
+
 
 ***PROS***
 - Last 3QSALES is about 82% YSales
-- Last 3QPROFIT is about 116% of YProfit
+- Last 3QPROFIT is about 113% of YProfit
 
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-1546.00cr, QoQ -33.50% & YoY 48.61% SALES;
-134.40cr, QoQ -75.10% & YoY -14.18% OPERATING PROFIT;
-60.70cr, QoQ -83.20% & YoY 28.33% NET PROFIT;
-OPM %: 8.70% vs 23.2%
-NPM %: 3.90% vs 15.5%
+ 31-Mar-2025 #Result
+1749.00cr, QoQ 13.10% & YoY 73.39% SALES;
+229.50cr, QoQ 70.80% & YoY 53.92% OPERATING PROFIT;
+92.10cr, QoQ 51.70% & YoY 217.59% NET PROFIT;
+OPM %: 13.10% vs 8.7%
+NPM %: 5.30% vs 3.9%
 

@@ -1,37 +1,46 @@
-CODES
-590030	SPIC	
-SECTOR : Fertilizers
+CODES	590030	SPIC	
+FULLNAME : Southern Petrochemicals Industries Corporation Ltd
+SECTOR : Fertilizers & Agrochemicals
 INDUSTRY : Fertilizers
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1527.0  |  1874.9  |  2828.8  |  1943.9  |  3086.3 
- SQoQ%:  |  -26.6   |   22.8   |   50.9   |  -31.3   |   58.8  
- YOPM%:  |   4.6    |   9.4    |   12.5   |   13.1   |   9.1   
- YNPM%:  |   4.9    |   8.7    |   10.6   |   5.8    |   5.0   
-YPROFIT: |   74.1   |  163.3   |  300.7   |  113.1   |  155.6  
- PQoQ%:  |   9.8    |  120.5   |   84.1   |  -62.4   |   37.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  124.9   |  754.3   |  759.6   |  818.0   |  754.4  
- QoQ%:  |  -75.3   |  504.1   |   0.7    |   7.7    |   -7.8  
- QOPM%: |   21.5   |   13.0   |   8.8    |   9.7    |   4.9   
- QNPM%: |   0.0    |   8.3    |   4.6    |   4.7    |   2.6   
- QPFT:  |  -24.2   |   62.6   |   35.2   |   38.5   |   19.5  
- PQoQ%: |  -172.8  |  -358.2  |  -43.8   |   9.5    |  -49.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1527.0		1874.9		2828.8		1943.9		3086.3		2371.8
+SQoQ%: 	-26.6		22.8		50.9		-31.3		58.8		76.8
+YOPM%: 	4.6		9.4		12.5		13.1		9.2
+YNPM%: 	4.9		8.7		10.6		5.8		5.0
+YPROFIT: 74.1		163.3		300.7		113.1		155.6		182.0
+PQoQ%: 	9.8		120.5		84.1		-62.4		37.6		117.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 818.0		754.4		780.6		817.3		773.9
+QoQ%: 	7.7		-7.8		3.5		4.7		-5.3
+QOPM%: 	9.7		4.9		12.0		9.4		10.9
+QNPM%: 	4.7		2.6		8.5		7.5		7.0
+QPFT: 	38.5		19.5		66.7		61.2		54.1
+PQoQ%: 	9.5		-49.4		242.6		-8.2		-11.7
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 117% of YProfit
 
 YSALES in Mar-2025 is at 3086.3 showing a QoQ_growth of 58.8%. The YNETPROFIT grew by 37.6% to 155.6
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 3086.30cr, QoQ 58.80% & YoY 102.12% SALES;
-281.40cr, QoQ 10.80% & YoY 296.90% OPERATING PROFIT;
+284.20cr, QoQ 11.90% & YoY 300.85% OPERATING PROFIT;
 155.60cr, QoQ 37.60% & YoY 109.99% NET PROFIT;
-OPM %: 9.10% vs 13.1%
+OPM %: 9.20% vs 13.1%
 NPM %: 5.00% vs 5.8%
 

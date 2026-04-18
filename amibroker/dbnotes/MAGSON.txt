@@ -1,15 +1,16 @@
-CODES
-MAGSON	
-SECTOR : Retail
-INDUSTRY : Trading
+CODES	MAGSON	
+FULLNAME : Magson Retail and Distribution Ltd
+SECTOR : Food Products
+INDUSTRY : Packaged Foods
 PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

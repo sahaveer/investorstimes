@@ -1,40 +1,46 @@
-CODES
-519156	VADILALIND	
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
-BestQ Dec 2024
-LYPD PM 2024
+CODES	519156	VADILALIND	
+FULLNAME : Vadilal Industries Ltd
+SECTOR : Food Products
+INDUSTRY : Dairy Products
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  599.3   |  463.4   |  697.7   |  1057.9  |  1125.3  |     963.5    
- SQoQ%:  |   5.7    |  -22.7   |   50.6   |   51.6   |   6.4    |      85.6    
- YOPM%:  |   13.1   |   7.7    |   14.2   |   15.7   |   19.7   |              
- YNPM%:  |   6.9    |   1.0    |   6.4    |   9.1    |   13.0   |              
-YPROFIT: |   41.4   |   4.6    |   44.7   |   96.3   |  146.0   |     128.3    
- PQoQ%:  |   24.0   |  -88.8   |  865.4   |  115.4   |   51.6   |      87.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  174.3   |  251.4   |  464.2   |  295.5   |  203.8  
- QoQ%:  |  -39.6   |   44.3   |   84.6   |  -36.3   |  -31.0  
- QOPM%: |   6.5    |   18.2   |   24.4   |   20.5   |   12.5  
- QNPM%: |   5.3    |   11.0   |   16.7   |   13.2   |   5.9   
- QPFT:  |   9.2    |   27.6   |   77.4   |   39.0   |   11.9  
- PQoQ%: |  -75.7   |  199.1   |  180.1   |  -49.7   |  -69.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 463.4		697.7		1057.9		1125.3		1238.1		1085.2
+SQoQ%: 	-22.7		50.6		51.6		6.4		10.0		87.7
+YOPM%: 	7.7		14.2		15.7		19.7		19.3
+YNPM%: 	1.0		6.4		9.1		13.0		12.1
+YPROFIT: 4.6		44.7		96.3		146.0		150.3		100.2
+PQoQ%: 	-88.8		865.4		115.4		51.6		3.0		66.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 203.8		274.5		505.9		341.3		238.0
+QoQ%: 	-31.0		34.6		84.3		-32.5		-30.3
+QOPM%: 	12.5		14.1		19.7		15.0		4.5
+QNPM%: 	5.9		8.0		13.2		9.8		0.0
+QPFT: 	11.9		22.0		67.0		33.4		-0.2
+PQoQ%: 	-69.4		84.4		204.5		-50.1		-100.5
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 20.6%
-- Last 3QSALES is about 86% YSales
-- Last 3QPROFIT is about 88% of YProfit
-- LastYr YProfits Doubled and maintained in Mar2024
+ROCE in Mar2025 is at 16.7%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 88% YSales
+- Last 3QPROFIT is about 67% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-1125.30cr, QoQ 6.40% & YoY 87.77% SALES;
-221.10cr, QoQ 33.10% & YoY 180.94% OPERATING PROFIT;
-146.00cr, QoQ 51.60% & YoY 252.66% NET PROFIT;
-OPM %: 19.70% vs 15.7%
-NPM %: 13.00% vs 9.1%
+ 31-Mar-2025 #Result
+1238.10cr, QoQ 10.00% & YoY 167.18% SALES;
+238.70cr, QoQ 7.90% & YoY 568.63% OPERATING PROFIT;
+150.30cr, QoQ 3.00% & YoY 3167.39% NET PROFIT;
+OPM %: 19.30% vs 19.7%
+NPM %: 12.10% vs 13.0%
 

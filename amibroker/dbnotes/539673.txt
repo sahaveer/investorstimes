@@ -1,13 +1,14 @@
-CODE	NAME
-539673 
+CODES	539673	
+FULLNAME : Radhagobind Commercial Ltd
+SECTOR : Retailing
+INDUSTRY : Distributors
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

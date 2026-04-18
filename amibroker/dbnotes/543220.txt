@@ -1,35 +1,44 @@
-CODES
-543220	MAXHEALTH	
-SECTOR : Healthcare
-INDUSTRY : Healthcare
+CODES	543220	MAXHEALTH	
+FULLNAME : Max Healthcare Institute Ltd
+SECTOR : Healthcare Services
+INDUSTRY : Hospital
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2508.0  |  3936.6  |  4562.6  |  5406.0  |  7028.5 
- SQoQ%:  |   33.1   |   57.0   |   15.9   |   18.5   |   30.0  
- YOPM%:  |   16.2   |   24.2   |   27.2   |   27.6   |   26.3  
- YNPM%:  |   0.0    |   15.4   |   24.2   |   19.6   |   15.3  
-YPROFIT: |  -137.6  |  605.0   |  1103.5  |  1057.6  |  1075.9 
- PQoQ%:  |  -244.3  |  -539.9  |   82.4   |   -4.2   |   1.7   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1422.9  |  1543.0  |  1707.5  |  1868.3  |  1909.7 
- QoQ%:  |   6.6    |   8.4    |   10.7   |   9.4    |   2.2   
- QOPM%: |   26.8   |   25.1   |   26.4   |   26.7   |   26.8  
- QNPM%: |   17.7   |   15.3   |   16.5   |   12.8   |   16.7  
- QPFT:  |  251.5   |  236.3   |  281.8   |  238.8   |  319.0  
- PQoQ%: |  -13.1   |   -6.1   |   19.3   |  -15.3   |   33.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2504.7		3931.5		4562.6		5406.0		7028.5		6230.6
+SQoQ%: 	136.5		57.0		16.1		18.5		30.0		88.6
+YOPM%: 	16.1		24.1		27.2		27.6		26.3
+YNPM%: 	0.0		15.4		24.2		19.6		15.3
+YPROFIT: -137.6		605.0		1103.5		1057.6		1075.9		1100.2
+PQoQ%: 	-333.2		-539.9		82.4		-4.2		1.7		102.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1868.3		1909.7		2027.6		2135.5		2067.5
+QoQ%: 	9.4		2.2		6.2		5.3		-3.2
+QOPM%: 	26.7		26.8		25.8		26.9		26.0
+QNPM%: 	12.8		16.7		15.2		23.0		14.6
+QPFT: 	238.8		319.0		308.0		491.3		300.9
+PQoQ%: 	-15.3		33.6		-3.5		59.5		-38.8
+
+
 
 ***PROS***
+- Last 3QSALES is about 89% YSales
+- Last 3QPROFIT is about 102% of YProfit
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 
 
+***CONS***
+- NO PRODUCT DEMAND
+
 Yearly 
  31-Mar-2025 #Result
-7028.50cr, QoQ 30.00% & YoY 180.24% SALES;
-1848.80cr, QoQ 23.90% & YoY 353.80% OPERATING PROFIT;
+7028.50cr, QoQ 30.00% & YoY 180.61% SALES;
+1848.80cr, QoQ 23.90% & YoY 357.51% OPERATING PROFIT;
 1075.90cr, QoQ 1.70% & YoY -881.90% NET PROFIT;
 OPM %: 26.30% vs 27.6%
 NPM %: 15.30% vs 19.6%

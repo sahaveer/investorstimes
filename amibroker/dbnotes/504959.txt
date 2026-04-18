@@ -1,36 +1,44 @@
-CODE	NAME
-504959 
+CODES	504959	
+FULLNAME : Stovec Industries Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
+BestQ Dec 2025
 
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Textile Machinery
+***YEARLY***
+YPNL: 	Dec-2021	Dec-2022	Dec-2023	Dec-2024	Dec-2025	QSUM:Dec-2025
+YSALES: 233.4		235.8		207.3		234.6		198.1		149.1
+SQoQ%: 	54.5		1.1		-12.1		13.2		-15.5		75.3
+YOPM%: 	15.8		11.1		6.5		8.9		4.9
+YNPM%: 	12.7		10.5		4.4		5.5		3.5
+YPROFIT: 29.6		24.8		9.0		13.0		6.9		4.4
+PQoQ%: 	120.2		-16.4		-63.5		43.4		-46.8		63.8
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Dec-2020 | Dec-2021 | Dec-2022 | Dec-2023 | Dec-2024
----------+----------+----------+----------+----------+---------
-YSALES:  |  151.0   |  233.4   |  235.8   |  207.3   |  234.6  
- SQoQ%:  |  -22.3   |   54.5   |   1.1    |  -12.1   |   13.2  
- YOPM%:  |   10.6   |   15.8   |   11.1   |   6.5    |   8.9   
- YNPM%:  |   8.9    |   12.7   |   10.5   |   4.4    |   5.5   
-YPROFIT: |   13.5   |   29.6   |   24.8   |   9.0    |   13.0  
- PQoQ%:  |  -51.8   |  120.2   |  -16.4   |  -63.5   |   43.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   60.0   |   61.2   |   57.4   |   56.0   |   49.1  
- QoQ%:  |   3.4    |   2.1    |   -6.2   |   -2.4   |  -12.4  
- QOPM%: |   11.4   |   9.8    |   7.9    |   6.0    |   7.6   
- QNPM%: |   7.9    |   5.9    |   5.4    |   2.7    |   5.3   
- QPFT:  |   4.8    |   3.6    |   3.1    |   1.5    |   2.6   
- PQoQ%: |   18.5   |  -24.4   |  -13.9   |  -50.5   |   68.6  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 56.0		49.1		56.8		40.9		51.4
+QoQ%: 	-2.4		-12.4		15.7		-28.0		25.8
+QOPM%: 	6.0		7.6		6.4		4.5		1.0
+QNPM%: 	2.7		5.3		5.2		2.9		0.3
+QPFT: 	1.5		2.6		3.0		1.2		0.2
+PQoQ%: 	-50.5		68.6		14.7		-59.5		-86.7
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 64% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Dec-2024 #Result
-234.60cr, QoQ 13.20% & YoY 55.36% SALES;
-20.80cr, QoQ 54.80% & YoY 30.00% OPERATING PROFIT;
-13.00cr, QoQ 43.40% & YoY -3.70% NET PROFIT;
-OPM %: 8.90% vs 6.5%
-NPM %: 5.50% vs 4.4%
+ 31-Dec-2025 #Result
+198.10cr, QoQ -15.50% & YoY -15.12% SALES;
+9.80cr, QoQ -53.10% & YoY -73.44% OPERATING PROFIT;
+6.90cr, QoQ -46.80% & YoY -76.69% NET PROFIT;
+OPM %: 4.90% vs 8.9%
+NPM %: 3.50% vs 5.5%
 

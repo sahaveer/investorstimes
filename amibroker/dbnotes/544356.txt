@@ -1,15 +1,15 @@
-CODES
-544356	AJAXENGG	
+CODES	544356	AJAXENGG	
+FULLNAME : Ajax Engineering Ltd
 SECTOR : 
 INDUSTRY : 
 PRODUCT DEMAND
 LYPD PM 2024
 PROFIT GROWTH BETTER THAN SALES GROWTH 2024
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
@@ -21,6 +21,8 @@ ROCE in Mar2024 is at 66.7%
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2024, Sales have increased by 51.3% while the Profit QoQ_growth is much better than Sales itself at 65.7%
 - RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2024 is at 82.1%. The QPROFIT QoQ_growth by 100.2%
+
+***CONS***
 
 Quarterly 
 31-Dec-2024 #Result

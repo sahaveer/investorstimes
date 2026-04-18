@@ -1,38 +1,43 @@
-CODES
-506184	KANANIIND	
-SECTOR : Diamond, Gems and Jewellery
-INDUSTRY : Diamond Cutting / Jewellery
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	506184	KANANIIND	
+FULLNAME : Kanani Industries Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  376.6   |  311.6   |  290.7   |  270.5   |  222.8   |     134.8    
- SQoQ%:  |   9.4    |  -17.3   |   -6.7   |   -7.0   |  -17.6   |      60.5    
- YOPM%:  |   0.9    |   0.3    |   0.6    |   1.2    |   0.3    |              
- YNPM%:  |   0.7    |   0.1    |   0.6    |   0.8    |   0.3    |              
-YPROFIT: |   2.6    |   0.4    |   1.8    |   2.2    |   0.6    |      1.0     
- PQoQ%:  |   17.4   |  -82.8   |  311.4   |   19.9   |  -71.4   |     166.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   22.0   |   53.3   |   66.5   |   47.4   |   20.9  
- QoQ%:  |  -66.6   |  142.2   |   24.9   |  -28.8   |  -55.9  
- QOPM%: |   0.0    |   0.0    |   0.3    |   0.0    |   2.0   
- QNPM%: |   0.0    |   0.1    |   0.4    |   0.1    |   3.4   
- QPFT:  |   -0.1   |   0.0    |   0.3    |   0.0    |   0.7   
- PQoQ%: |  -123.5  |  -137.5  |  766.7   |  -80.8   |  1320.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 311.6		290.7		270.5		222.8		168.5		160.9
+SQoQ%: 	-17.3		-6.7		-7.0		-17.6		-24.4		95.5
+YOPM%: 	0.3		0.6		1.2		0.3		0.2
+YNPM%: 	0.1		0.6		0.8		0.3		0.5
+YPROFIT: 0.4		1.8		2.2		0.6		0.8		2.1
+PQoQ%: 	-82.8		311.4		19.9		-71.4		25.8		262.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 20.9		33.7		83.7		48.7		28.5
+QoQ%: 	-55.9		61.5		148.3		-41.8		-41.6
+QOPM%: 	2.0		0.0		0.4		1.0		0.3
+QNPM%: 	3.4		0.0		0.3		2.8		1.4
+QPFT: 	0.7		-0.2		0.3		1.4		0.4
+PQoQ%: 	1320.0		-133.8		-216.7		385.7		-71.3
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 61% YSales
-- Last 3QPROFIT is about 167% of YProfit
+A DEBT-Free Company
+- Last 3QSALES is about 95% YSales
+- Last 3QPROFIT is about 262% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-222.80cr, QoQ -17.60% & YoY -40.84% SALES;
-0.60cr, QoQ -82.80% & YoY -81.82% OPERATING PROFIT;
-0.60cr, QoQ -71.40% & YoY -76.92% NET PROFIT;
-OPM %: 0.30% vs 1.2%
-NPM %: 0.30% vs 0.8%
+ 31-Mar-2025 #Result
+168.50cr, QoQ -24.40% & YoY -45.92% SALES;
+0.30cr, QoQ -41.10% & YoY -70.00% OPERATING PROFIT;
+0.80cr, QoQ 25.80% & YoY 100.00% NET PROFIT;
+OPM %: 0.20% vs 0.3%
+NPM %: 0.50% vs 0.3%
 

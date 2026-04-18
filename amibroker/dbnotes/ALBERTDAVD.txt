@@ -1,35 +1,44 @@
-CODES
-524075	ALBERTDAVD	
-SECTOR : 
-INDUSTRY : 
+CODES	524075	ALBERTDAVD	
+FULLNAME : Albert David Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  246.3   |  312.8   |  341.2   |  361.9   |  345.8  
- SQoQ%:  |  -23.0   |   27.0   |   9.1    |   6.1    |   -4.5  
- YOPM%:  |   7.8    |   13.1   |   13.0   |   13.0   |   0.9   
- YNPM%:  |   9.0    |   11.3   |   10.6   |   20.8   |   5.0   
-YPROFIT: |   22.1   |   35.3   |   36.2   |   75.4   |   17.2  
- PQoQ%:  |   15.5   |   59.3   |   2.6    |  108.5   |  -77.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   89.1   |   89.4   |   98.4   |   83.1   |   74.9  
- QoQ%:  |   0.9    |   0.3    |   10.2   |  -15.6   |   -9.9  
- QOPM%: |   10.7   |   1.0    |   6.3    |   0.8    |   0.0   
- QNPM%: |   14.5   |   21.1   |   18.4   |   0.0    |   0.0   
- QPFT:  |   12.9   |   18.8   |   18.1   |   -9.4   |  -10.3  
- PQoQ%: |  -31.0   |   45.9   |   -4.1   |  -152.0  |   10.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 246.3		312.8		341.2		361.9		345.0		247.7
+SQoQ%: 	-23.0		27.0		9.1		6.1		-4.7		71.8
+YOPM%: 	7.8		13.1		13.0		13.0		0.9
+YNPM%: 	9.0		11.3		10.6		20.8		5.0
+YPROFIT: 22.1		35.3		36.2		75.4		17.2		19.9
+PQoQ%: 	15.5		59.3		2.6		108.5		-77.2		115.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 83.1		74.9		70.6		87.2		89.9
+QoQ%: 	-15.6		-9.9		-5.8		23.6		3.1
+QOPM%: 	0.8		0.0		0.0		2.9		12.0
+QNPM%: 	0.0		0.0		11.3		0.0		17.0
+QPFT: 	-9.4		-10.3		7.9		-3.3		15.3
+PQoQ%: 	-152.0		10.0		-176.9		-141.6		-563.6
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 72% YSales
+- Last 3QPROFIT is about 116% of YProfit
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-345.80cr, QoQ -4.50% & YoY 40.40% SALES;
-3.00cr, QoQ -93.60% & YoY -84.46% OPERATING PROFIT;
+345.00cr, QoQ -4.70% & YoY 40.07% SALES;
+3.20cr, QoQ -93.30% & YoY -83.42% OPERATING PROFIT;
 17.20cr, QoQ -77.20% & YoY -22.17% NET PROFIT;
 OPM %: 0.90% vs 13.0%
 NPM %: 5.00% vs 20.8%

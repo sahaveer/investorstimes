@@ -1,40 +1,44 @@
-CODES
-541019	HGINFRA	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	541019	HGINFRA	
+FULLNAME : H.G. Infra Engineering Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
+EXPANSION 2025
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  2217.1  |  2609.7  |  3751.4  |  4622.0  |  5378.5  |     3695.2   
- SQoQ%:  |   10.1   |   17.7   |   43.7   |   23.2   |   16.4   |      68.7    
- YOPM%:  |   15.9   |   18.6   |   19.0   |   19.4   |   19.8   |              
- YNPM%:  |   7.5    |   9.1    |   10.1   |   10.7   |   10.0   |              
-YPROFIT: |  166.6   |  236.6   |  380.0   |  493.2   |  538.6   |     358.5    
- PQoQ%:  |   30.8   |   42.0   |   60.6   |   29.8   |   9.2    |      66.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  1364.5  |  1708.3  |  1528.0  |  902.4   |  1264.8 
- QoQ%:  |   43.0   |   25.2   |  -10.5   |  -40.9   |   40.2  
- QOPM%: |   16.7   |   19.5   |   20.4   |   24.3   |   22.7  
- QNPM%: |   7.5    |   11.1   |   10.6   |   8.9    |   9.1   
- QPFT:  |  102.0   |  190.0   |  162.6   |   80.7   |  115.2  
- PQoQ%: |   6.2    |   86.2   |  -14.5   |  -50.3   |   42.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2609.7		3751.4		4622.0		5378.5		5056.2		3807.9
+SQoQ%: 	17.7		43.7		23.2		16.4		-6.0		75.3
+YOPM%: 	18.6		19.0		19.4		19.8		20.9
+YNPM%: 	9.1		10.1		10.7		10.0		10.0
+YPROFIT: 236.6		380.0		493.2		538.6		505.5		245.3
+PQoQ%: 	42.0		60.6		29.8		9.2		-6.1		48.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1264.8		1360.9		1482.2		904.5		1421.2
+QoQ%: 	40.2		7.6		8.9		-39.0		57.1
+QOPM%: 	22.7		17.6		17.5		22.8		21.7
+QNPM%: 	9.1		10.8		6.7		5.8		6.6
+QPFT: 	115.2		147.0		98.8		52.2		94.3
+PQoQ%: 	42.7		27.6		-32.8		-47.2		80.7
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 18.3%
-- Last 3QSALES is about 69% YSales
-- Last 3QPROFIT is about 67% of YProfit
+EXPANSION ??- EXPANSION underway in Mar-2025, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+- Last 3QSALES is about 75% YSales
+- Double QSales and QProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-5378.50cr, QoQ 16.40% & YoY 142.59% SALES;
-1063.50cr, QoQ 18.80% & YoY 201.53% OPERATING PROFIT;
-538.60cr, QoQ 9.20% & YoY 223.29% NET PROFIT;
-OPM %: 19.80% vs 19.4%
-NPM %: 10.00% vs 10.7%
+ 31-Mar-2025 #Result
+5056.20cr, QoQ -6.00% & YoY 93.75% SALES;
+1058.30cr, QoQ -0.50% & YoY 118.48% OPERATING PROFIT;
+505.50cr, QoQ -6.10% & YoY 113.65% NET PROFIT;
+OPM %: 20.90% vs 19.8%
+NPM %: 10.00% vs 10.0%
 

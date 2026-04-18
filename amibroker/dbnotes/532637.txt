@@ -1,13 +1,15 @@
-CODES
-532637	MANGALAM	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+CODES	532637	MANGALAM	
+FULLNAME : Mangalam Drugs and Organics Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - YProfit Turned POSITIVE this year Mar-2025 : 6.7
+
+***CONS***

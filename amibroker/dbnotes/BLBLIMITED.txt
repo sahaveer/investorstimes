@@ -1,36 +1,45 @@
-CODES
-532290	BLBLIMITED	
-SECTOR : Stock/ Commodity Brokers
-INDUSTRY : Finance & Investments
+CODES	532290	BLBLIMITED	
+FULLNAME : BLB Ltd
+SECTOR : Finance
+INDUSTRY : Investment Company
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  537.3   |  355.2   |  219.6   |  314.4   |  539.2  
- SQoQ%:  |  165.2   |  -33.9   |  -38.2   |   43.2   |   71.5  
- YOPM%:  |   1.0    |   3.5    |   4.1    |   2.1    |   1.2   
- YNPM%:  |   0.2    |   2.7    |   2.8    |   0.8    |   0.7   
-YPROFIT: |   1.1    |   9.4    |   6.0    |   2.6    |   3.9   
- PQoQ%:  |  -114.1  |  733.6   |  -35.8   |  -56.9   |   47.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  205.4   |  236.0   |  170.9   |   73.4   |   58.9  
- QoQ%:  |  363.0   |   15.0   |  -27.6   |  -57.1   |  -19.7  
- QOPM%: |   0.0    |   5.2    |   2.3    |   0.0    |   0.0   
- QNPM%: |   0.0    |   3.7    |   1.8    |   0.0    |   0.0   
- QPFT:  |   -2.4   |   8.7    |   3.1    |   -4.9   |   -3.0  
- PQoQ%: |  -259.5  |  -468.2  |  -64.4   |  -258.6  |  -38.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 537.3		355.2		219.6		314.4		539.2		672.4
+SQoQ%: 	165.2		-33.9		-38.2		43.2		71.5		124.7
+YOPM%: 	1.0		3.5		4.1		2.1		1.2
+YNPM%: 	0.2		2.7		2.8		0.8		0.7
+YPROFIT: 1.1		9.4		6.0		2.6		3.9		29.1
+PQoQ%: 	-114.1		733.6		-35.8		-56.9		47.9		746.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 73.4		58.9		56.4		338.7		277.3
+QoQ%: 	-57.1		-19.7		-4.2		500.3		-18.1
+QOPM%: 	0.0		0.0		26.2		2.9		4.3
+QNPM%: 	0.0		0.0		20.4		2.6		3.1
+QPFT: 	-4.9		-3.0		11.5		9.0		8.6
+PQoQ%: 	-258.6		-38.4		-480.5		-22.1		-4.2
+
+
 
 ***PROS***
 A DEBT-Free Company for the last 2 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  have increased this year
+- Last 3QSALES is about 125% YSales
+- Last 3QPROFIT is about 746% of YProfit
 
 YSALES in Mar-2025 is at 539.2 showing a QoQ_growth of 71.5%. The YNETPROFIT grew by 47.9% to 3.9
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 539.20cr, QoQ 71.50% & YoY 0.35% SALES;
-6.50cr, QoQ -0.60% & YoY 18.18% OPERATING PROFIT;
+6.50cr, QoQ -0.30% & YoY 18.18% OPERATING PROFIT;
 3.90cr, QoQ 47.90% & YoY 254.55% NET PROFIT;
 OPM %: 1.20% vs 2.1%
 NPM %: 0.70% vs 0.8%

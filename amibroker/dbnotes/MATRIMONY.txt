@@ -1,27 +1,36 @@
-CODES
-540704	MATRIMONY	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	540704	MATRIMONY	
+FULLNAME : Matrimony.com Ltd
+SECTOR : Retailing
+INDUSTRY : Internet & Catalogue Retail
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  377.9   |  434.5   |  455.8   |  481.4   |  455.8  
- SQoQ%:  |   1.6    |   15.0   |   4.9    |   5.6    |   -5.3  
- YOPM%:  |   17.7   |   19.8   |   14.8   |   15.0   |   12.8  
- YNPM%:  |   10.8   |   12.3   |   10.2   |   10.3   |   9.9   
-YPROFIT: |   40.8   |   53.6   |   46.7   |   49.6   |   45.3  
- PQoQ%:  |   38.1   |   31.4   |  -12.9   |   6.2    |   -8.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  119.2   |  120.6   |  115.5   |  111.4   |  108.3  
- QoQ%:  |   1.7    |   1.1    |   -4.2   |   -3.5   |   -2.8  
- QOPM%: |   14.1   |   16.7   |   15.0   |   12.2   |   6.5   
- QNPM%: |   9.8    |   11.6   |   11.4   |   8.9    |   7.6   
- QPFT:  |   11.7   |   14.0   |   13.2   |   10.0   |   8.2   
- PQoQ%: |   5.6    |   19.1   |   -5.8   |  -24.2   |  -18.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 377.9		434.5		455.8		481.4		455.8		343.1
+SQoQ%: 	-12.2		15.0		4.9		5.6		-5.3		75.3
+YOPM%: 	17.7		19.8		14.8		15.0		12.8
+YNPM%: 	10.8		12.3		10.2		10.3		9.9
+YPROFIT: 40.8		53.6		46.7		49.6		45.3		24.5
+PQoQ%: 	38.1		31.4		-12.9		6.2		-8.6		54.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 111.4		108.3		115.3		114.6		113.2
+QoQ%: 	-3.5		-2.8		6.5		-0.6		-1.2
+QOPM%: 	12.2		6.5		10.8		10.5		10.9
+QNPM%: 	8.9		7.6		7.3		6.8		7.3
+QPFT: 	10.0		8.2		8.4		7.8		8.3
+PQoQ%: 	-24.2		-18.0		2.7		-7.6		7.0
+
+
 
 ***PROS***
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 54% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

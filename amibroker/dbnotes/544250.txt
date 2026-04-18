@@ -1,12 +1,14 @@
-CODES
-544250	SANOFICONR	
+CODES	544250	SANOFICONR	
+FULLNAME : Sanofi Consumer Healthcare India Ltd
 SECTOR : 
 INDUSTRY : 
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

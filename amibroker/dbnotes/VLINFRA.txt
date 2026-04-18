@@ -1,13 +1,12 @@
-CODES
-VLINFRA	
+CODES	VLINFRA	
+FULLNAME : V.L.Infraprojects Ltd
 SECTOR : Infrastructure Developers & Operators
 INDUSTRY : Construction
 PRODUCT DEMAND
 YSD YPD 2024
 PROFIT GROWTH BETTER THAN SALES GROWTH 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,6 +16,8 @@ ROCE in Mar2024 is at 24.9%
 - YProfits and YSales DOUBLED in Mar2024
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2024, Sales have increased by 150.1% while the Profit QoQ_growth is much better than Sales itself at 175.3%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

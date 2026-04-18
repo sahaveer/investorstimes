@@ -1,28 +1,20 @@
-CODE	NAME
-543622 
+CODES	543622	
+FULLNAME : Steelman Telecom Ltd
+SECTOR : Telecom - Services
+INDUSTRY : Other Telecom Services
 
-SECTOR : Telecomm Equipment & Infra Services
-INDUSTRY : Telecommunications - Service Provider
-EXPANSION 2023
-PRODUCT DEMAND
-LYPD PM 2024
-
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
-- PRODUCT DEMAND is rising since 3 years
-- LastYr YProfits Doubled and maintained in Mar2024
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
-As on Mar2024, Sales have increased by 43.9% while the Profit QoQ_growth is at 31.4%
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-189.40cr, QoQ 43.90% & YoY 119.47% SALES;
-10.90cr, QoQ 52.90% & YoY 275.86% OPERATING PROFIT;
-7.30cr, QoQ 31.40% & YoY 942.86% NET PROFIT;
-OPM %: 5.80% vs 5.4%
-NPM %: 3.90% vs 4.2%
+ 31-Mar-2025 #Result
+175.40cr, QoQ -7.40% & YoY 97.75% SALES;
+13.10cr, QoQ 19.70% & YoY 555.00% OPERATING PROFIT;
+8.10cr, QoQ 10.10% & YoY 478.57% NET PROFIT;
+OPM %: 7.50% vs 5.8%
+NPM %: 4.60% vs 3.9%
 

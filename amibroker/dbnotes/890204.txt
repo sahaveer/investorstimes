@@ -1,4 +1,4 @@
-CODES
-890204	NGILPP1	
+CODES	890204	NGILPP1	
+FULLNAME : Nakoda Group of Industries Ltd Partly Paidup
 SECTOR : 
 INDUSTRY : 

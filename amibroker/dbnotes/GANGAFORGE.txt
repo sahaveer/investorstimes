@@ -1,38 +1,44 @@
-CODES
-GANGAFORGE	
-SECTOR : Castings, Forgings & Fastners
+CODES	GANGAFORGE	
+FULLNAME : Ganga Forging Ltd
+SECTOR : Industrial Products
 INDUSTRY : Castings & Forgings
-BestQ Dec 2024
+PRODUCT DEMAND
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   23.6   |   23.0   |   28.8   |   33.4   |   37.2   |      31.7    
- SQoQ%:  |  -15.2   |   -2.8   |   25.5   |   15.9   |   11.4   |      85.2    
- YOPM%:  |   0.0    |   7.4    |   8.8    |   6.0    |   6.7    |              
- YNPM%:  |   0.0    |   1.1    |   3.6    |   5.0    |   1.2    |              
-YPROFIT: |   -2.1   |   0.2    |   1.0    |   1.7    |   0.4    |      0.9     
- PQoQ%:  |  -507.7  |  -111.8  |  312.0   |   61.2   |  -73.5   |     225.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   8.6    |   10.2   |   8.5    |   11.5   |   11.7  
- QoQ%:  |   -0.2   |   19.8   |  -16.9   |   35.3   |   1.4   
- QOPM%: |   7.5    |   7.8    |   6.9    |   5.1    |   4.2   
- QNPM%: |   2.7    |   0.0    |   3.4    |   2.4    |   2.3   
- QPFT:  |   0.2    |   -0.0   |   0.3    |   0.3    |   0.3   
- PQoQ%: |   4.5    |  -108.7  | -1550.0  |   -3.4   |   -3.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 23.0		28.8		33.4		37.2		43.2		25.0
+SQoQ%: 	-2.8		25.5		15.9		11.4		16.2		57.9
+YOPM%: 	7.4		8.8		6.0		6.7		5.2
+YNPM%: 	1.1		3.6		5.0		1.2		1.4
+YPROFIT: 0.2		1.0		1.7		0.4		0.6		-3.2
+PQoQ%: 	-111.8		312.0		61.2		-73.5		38.6		-533.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 11.7		11.5		7.8		8.3		8.9
+QoQ%: 	1.4		-1.2		-32.8		6.7		7.4
+QOPM%: 	4.2		5.0		0.0		0.0		4.5
+QNPM%: 	2.3		0.0		0.0		0.0		0.5
+QPFT: 	0.3		-0.2		-0.3		-2.9		0.0
+PQoQ%: 	-3.6		-155.6		93.3		913.8		-101.4
+
+
 
 ***PROS***
-- Last 3QSALES is about 85% YSales
-- Last 3QPROFIT is about 225% of YProfit
-- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 58% YSales
+
+YSALES in Mar-2025 is at 43.2 showing a QoQ_growth of 16.2%. The YNETPROFIT grew by 38.6% to 0.6
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-37.20cr, QoQ 11.40% & YoY 57.63% SALES;
-2.50cr, QoQ 25.00% & YoY -412.50% OPERATING PROFIT;
-0.40cr, QoQ -73.50% & YoY -119.05% NET PROFIT;
-OPM %: 6.70% vs 6.0%
-NPM %: 1.20% vs 5.0%
+ 31-Mar-2025 #Result
+43.20cr, QoQ 16.20% & YoY 87.83% SALES;
+2.30cr, QoQ -9.60% & YoY 35.29% OPERATING PROFIT;
+0.60cr, QoQ 38.60% & YoY 200.00% NET PROFIT;
+OPM %: 5.20% vs 6.7%
+NPM %: 1.40% vs 1.2%
 

@@ -1,29 +1,33 @@
-CODE	NAME
-507813 
+CODES	507813	
+FULLNAME : National Oxygen Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Industrial Gases
+PRODUCT DEMAND
 
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 39.8		50.6		47.1		45.3		40.6		19.0
+SQoQ%: 	-9.5		27.3		-6.9		-3.9		-10.3		46.8
+YOPM%: 	15.8		22.6		7.8		2.7		0.0
+YNPM%: 	0.0		15.1		0.0		0.0		0.0
+YPROFIT: -1.1		7.6		-0.8		-3.2		-7.0		3.5
+PQoQ%: 	-29.9		-793.6		-110.4		308.9		116.7		-50.0
 
-***CONS***
-- NO PRODUCT DEMAND
-- NEGATIVE YProfit : -3.2
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   43.9   |   39.8   |   50.6   |   47.1   |   45.3   |      32.0    
- SQoQ%:  |   -4.9   |   -9.5   |   27.3   |   -6.9   |   -3.9   |      70.6    
- YOPM%:  |   14.5   |   15.8   |   22.6   |   7.8    |   2.7    |              
- YNPM%:  |   0.0    |   0.0    |   15.1   |   0.0    |   0.0    |              
-YPROFIT: |   -1.6   |   -1.1   |   7.6    |   -0.8   |   -3.2   |      -4.4    
- PQoQ%:  |  -144.1  |  -29.9   |  -793.6  |  -110.4  |  308.9   |     137.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   11.3   |   11.0   |   10.6   |   10.6   |   10.8  
- QoQ%:  |   -4.3   |   -2.5   |   -4.1   |   0.4    |   1.6   
- QOPM%: |   0.0    |   2.1    |   0.0    |   0.6    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -1.2   |   -0.8   |   -1.2   |   -1.2   |   -2.0  
- PQoQ%: |  101.7   |  -30.6   |   48.8   |   -4.8   |   66.4  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 10.8		8.6		7.6		6.4		5.0
+QoQ%: 	1.6		-20.0		-12.1		-16.0		-20.9
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		110.5		0.0
+QPFT: 	-2.0		-2.6		-1.9		7.0		-1.6
+PQoQ%: 	66.4		30.8		-27.8		-476.5		-122.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 71% YSales
+- PRODUCT DEMAND is rising since 3 years
 
+***CONS***
+- NEGATIVE YProfit : -7.0

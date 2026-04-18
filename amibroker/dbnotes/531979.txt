@@ -1,43 +1,46 @@
-CODE	NAME
-531979 
+CODES	531979	
+FULLNAME : Hind Aluminium Industries Ltd
+SECTOR : Non - Ferrous Metals
+INDUSTRY : Aluminium
+BestQ Dec 2025
 
-SECTOR : Power Generation & Distribution
-INDUSTRY : Power Generation And Supply
-PRODUCT DEMAND
-LYPD PM 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 95.7		24.3		3.1		1.3		3.1		6.1
+SQoQ%: 	-76.0		-74.6		-87.2		-57.1		130.8		196.8
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		217.4		1202.3		242.0
+YPROFIT: -14.2		-0.8		6.7		16.0		7.4		4.7
+PQoQ%: 	66.4		-94.0		-892.9		137.2		-53.5		63.5
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  398.1   |   95.7   |   24.3   |   3.1    |   1.3    |      0.8     
- SQoQ%:  |  -28.3   |  -76.0   |  -74.6   |  -87.2   |  -57.1   |      61.5    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |  217.4   |  1202.3  |              
-YPROFIT: |   -8.5   |  -14.2   |   -0.8   |   6.7    |   16.0   |      2.6     
- PQoQ%:  |  -325.9  |   66.4   |  -94.0   |  -892.9  |  137.2   |      16.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.1    |   0.3    |   0.2    |   0.4    |   0.2   
- QoQ%:  |  -70.8   |  135.7   |  -24.2   |   44.0   |  -30.6  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |  4378.6  |  115.2   |  948.0   |  291.7   |   0.0   
- QPFT:  |   6.1    |   0.4    |   2.4    |   1.0    |   -0.8  
- PQoQ%: |   60.1   |  -93.8   |  523.7   |  -55.7   |  -176.2 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.2		2.2		1.1		2.6		2.4
+QoQ%: 	-30.6		784.0		-52.0		147.2		-10.3
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		217.6		367.9		30.2		0.0
+QPFT: 	-0.8		4.8		3.9		0.8		-0.0
+PQoQ%: 	-176.2		-701.2		-18.9		-79.7		-103.8
+
+
 
 ***PROS***
-A DEBT-Free Company
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 62% YSales
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
-- LastYr YProfits Doubled and maintained in Mar2024
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
+A DEBT-Free Company for the last 2 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 197% YSales
+- Last 3QPROFIT is about 64% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1.30cr, QoQ -57.10% & YoY -99.67% SALES;
--5.10cr, QoQ -67.60% & YoY 45.71% OPERATING PROFIT;
-16.00cr, QoQ 137.20% & YoY -288.24% NET PROFIT;
+ 31-Mar-2025 #Result
+3.10cr, QoQ 130.80% & YoY -96.76% SALES;
+-1.90cr, QoQ -61.80% & YoY -77.65% OPERATING PROFIT;
+7.40cr, QoQ -53.50% & YoY -152.11% NET PROFIT;
 OPM %: 0.00% vs 0.0%
-NPM %: 1202.30% vs 217.4%
+NPM %: 242.00% vs 1202.3%
 

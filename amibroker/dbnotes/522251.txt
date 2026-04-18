@@ -1,17 +1,18 @@
-CODE	NAME
-522251 
+CODES	522251	
+FULLNAME : Cenlub Industries Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
-
-***CONS***
-- NO PRODUCT DEMAND
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2017 #Result

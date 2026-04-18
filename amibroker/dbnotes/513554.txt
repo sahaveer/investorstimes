@@ -1,39 +1,42 @@
-CODES
-513554	MAHASTEEL	
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
-PRODUCT DEMAND
+CODES	513554	MAHASTEEL	
+FULLNAME : Mahamaya Steel Industries Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  357.8   |  250.9   |  495.3   |  649.8   |  783.8   |     565.5    
- SQoQ%:  |  -23.1   |  -29.9   |   97.4   |   31.2   |   20.6   |      72.1    
- YOPM%:  |   4.2    |   5.0    |   3.1    |   2.1    |   2.1    |              
- YNPM%:  |   0.7    |   0.4    |   1.0    |   0.8    |   0.9    |              
-YPROFIT: |   2.4    |   0.9    |   4.9    |   5.4    |   6.7    |      2.2     
- PQoQ%:  |  -58.7   |  -63.6   |  456.8   |   11.0   |   23.5   |      32.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  180.2   |  197.6   |  211.0   |  154.7   |  199.8  
- QoQ%:  |   -3.0   |   9.6    |   6.8    |  -26.7   |   29.1  
- QOPM%: |   2.5    |   1.7    |   1.9    |   1.9    |   2.0   
- QNPM%: |   1.2    |   0.7    |   0.4    |   0.1    |   0.5   
- QPFT:  |   2.1    |   1.4    |   0.9    |   0.2    |   1.1   
- PQoQ%: |   34.2   |  -31.2   |  -39.2   |  -73.6   |  373.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 250.9		495.3		649.8		783.8		801.8		619.7
+SQoQ%: 	-29.9		97.4		31.2		20.6		2.3		77.3
+YOPM%: 	5.0		3.1		2.1		2.1		2.3
+YNPM%: 	0.4		1.0		0.8		0.9		0.9
+YPROFIT: 0.9		4.9		5.4		6.7		7.6		5.5
+PQoQ%: 	-63.6		456.8		11.0		23.5		13.1		72.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 199.8		236.2		207.0		188.6		224.1
+QoQ%: 	29.1		18.2		-12.3		-8.9		18.8
+QOPM%: 	2.0		3.3		2.4		2.7		2.6
+QNPM%: 	0.5		2.3		0.8		1.0		0.9
+QPFT: 	1.1		5.4		1.7		1.9		1.9
+PQoQ%: 	373.9		396.3		-67.8		8.0		1.6
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 72% YSales
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 72% of YProfit
 
-YSALES in Mar-2024 is at 783.8 showing a QoQ_growth of 20.6%. The YNETPROFIT grew by 23.5% to 6.7
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-783.80cr, QoQ 20.60% & YoY 119.06% SALES;
-16.30cr, QoQ 18.10% & YoY 9.40% OPERATING PROFIT;
-6.70cr, QoQ 23.50% & YoY 179.17% NET PROFIT;
-OPM %: 2.10% vs 2.1%
-NPM %: 0.90% vs 0.8%
+ 31-Mar-2025 #Result
+801.80cr, QoQ 2.30% & YoY 219.57% SALES;
+18.70cr, QoQ 14.80% & YoY 48.41% OPERATING PROFIT;
+7.60cr, QoQ 13.10% & YoY 744.44% NET PROFIT;
+OPM %: 2.30% vs 2.1%
+NPM %: 0.90% vs 0.9%
 

@@ -1,12 +1,14 @@
-CODES
-AAKASH	
-SECTOR : Oil Drill/Allied
-INDUSTRY : Oil Drilling / Allied Services
+CODES	AAKASH	
+FULLNAME : Aakash Exploration Services Ltd
+SECTOR : Oil
+INDUSTRY : Offshore Support Solution Drilling
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

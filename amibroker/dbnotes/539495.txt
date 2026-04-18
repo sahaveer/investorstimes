@@ -1,28 +1,37 @@
-CODE	NAME
-539495 
-
+CODES	539495	
+FULLNAME : Rajkot Investment Trust Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
+BestQ Dec 2025
+YSD YPD 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.4    |   0.5    |   0.5    |   0.2    |   0.4    |      0.6     
- SQoQ%:  |   -5.0   |   21.1   |   17.4   |  -61.1   |  109.5   |     150.0    
- YOPM%:  |   26.3   |   13.0   |   9.3    |   9.5    |   22.7   |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   9.5    |   11.4   |              
-YPROFIT: |   -0.1   |   -0.1   |   -0.0   |   0.0    |   0.0    |      0.1     
- PQoQ%:  |  500.0   |   0.0    |  -66.7   |  -200.0  |  150.0   |      inf     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.3    |   0.2    |   0.2    |   0.2   
- QoQ%:  |   0.0    |  800.0   |  -37.0   |   0.0    |   5.9   
- QOPM%: |   0.0    |   44.4   |   11.8   |   47.1   |   0.0   
- QNPM%: |  100.0   |   55.6   |   41.2   |   76.5   |   0.0   
- QPFT:  |   0.0    |   0.2    |   0.1    |   0.1    |   -0.1  
- PQoQ%: |  -130.0  |  400.0   |  -53.3   |   85.7   |  -192.3 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.5		0.5		0.2		0.4		0.9		0.2
+SQoQ%: 	21.1		17.4		-61.1		109.5		109.1		22.2
+YOPM%: 	13.0		9.3		9.5		22.7		21.7
+YNPM%: 	0.0		0.0		9.5		11.4		16.3
+YPROFIT: -0.1		-0.0		0.0		0.0		0.2		0.3
+PQoQ%: 	0.0		-66.7		-200.0		150.0		200.0		150.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.2		0.2		0.2		0.0		0.0
+QoQ%: 	5.9		-11.1		0.0		-75.0		0.0
+QOPM%: 	0.0		31.2		18.8		25.0		25.0
+QNPM%: 	0.0		43.8		62.5		200.0		200.0
+QPFT: 	-0.1		0.1		0.1		0.1		0.1
+PQoQ%: 	-192.3		-158.3		42.9		-20.0		0.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 150% YSales
+- Last 3QPROFIT is about 150% of YProfit
+- YProfits and YSales DOUBLED in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 109.1% while the Profit QoQ_growth is much better than Sales itself at 200.0%
 
-YSALES in Mar-2024 is at 0.4 showing a QoQ_growth of 109.5%. The YNETPROFIT grew by 150.0% to 0.0
+***CONS***

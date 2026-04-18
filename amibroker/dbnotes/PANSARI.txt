@@ -1,38 +1,48 @@
-CODES
-PANSARI	
-SECTOR : Construction
-INDUSTRY : Construction
+CODES	PANSARI	
+FULLNAME : Pansari Developers Ltd
+SECTOR : Realty
+INDUSTRY : Residential, Commercial Projects
+PRODUCT DEMAND
+BestQ Dec 2025
 YSD YPD 2024
+LYPD PM 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024
----------+----------+----------+----------+----------+---------
-YSALES:  |   34.8   |   36.1   |   60.2   |   22.5   |   56.0  
- SQoQ%:  |  245.9   |   3.7    |   66.9   |  -62.6   |  149.0  
- YOPM%:  |   20.8   |   25.5   |   12.8   |   20.2   |   13.0  
- YNPM%:  |   7.9    |   10.4   |   6.0    |   8.9    |   9.3   
-YPROFIT: |   2.8    |   3.8    |   3.6    |   2.0    |   5.2   
- PQoQ%:  |   41.5   |   36.2   |   -3.2   |  -44.8   |  159.2  
- QPNL:  | Mar-2023 | Jun-2023 | Sep-2023 | Dec-2023 | Mar-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   4.6    |   8.0    |   6.0    |   30.2   |   12.2  
- QoQ%:  |  -47.0   |   76.7   |  -25.2   |  402.8   |  -59.6  
- QOPM%: |   26.2   |   24.9   |   21.6   |   10.9   |   6.1   
- QNPM%: |   10.5   |   10.3   |   13.6   |   6.8    |   12.2  
- QPFT:  |   0.5    |   0.8    |   0.8    |   2.1    |   1.5   
- PQoQ%: |  -21.3   |   72.9   |   -1.2   |  152.4   |  -28.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 36.1		60.2		22.5		56.0		39.7		82.5
+SQoQ%: 	3.7		66.9		-62.6		149.0		-29.2		207.8
+YOPM%: 	25.5		12.8		20.2		13.0		31.7
+YNPM%: 	10.4		6.0		8.9		9.3		18.9
+YPROFIT: 3.8		3.6		2.0		5.2		7.5		11.6
+PQoQ%: 	36.2		-3.2		-44.8		159.2		44.0		154.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 21.3		18.7		17.7		27.6		37.2
+QoQ%: 	179.2		-12.3		-5.0		55.4		35.0
+QOPM%: 	27.5		36.1		31.8		14.7		14.7
+QNPM%: 	9.9		28.9		23.3		11.8		11.4
+QPFT: 	2.1		5.4		4.1		3.3		4.2
+PQoQ%: 	124.5		155.5		-23.2		-21.3		30.1
+
+
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 208% YSales
+- Last 3QPROFIT is about 155% of YProfit
 - YProfits and YSales DOUBLED in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
 
-YSALES in Mar-2024 is at 56.0 showing a QoQ_growth of 149.0%. The YNETPROFIT grew by 159.2% to 5.2
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-56.00cr, QoQ 149.00% & YoY 60.92% SALES;
-7.30cr, QoQ 60.70% & YoY 1.39% OPERATING PROFIT;
-5.20cr, QoQ 159.20% & YoY 85.71% NET PROFIT;
-OPM %: 13.00% vs 20.2%
-NPM %: 9.30% vs 8.9%
+ 31-Mar-2025 #Result
+39.70cr, QoQ -29.20% & YoY 9.97% SALES;
+12.60cr, QoQ 72.40% & YoY 36.96% OPERATING PROFIT;
+7.50cr, QoQ 44.00% & YoY 97.37% NET PROFIT;
+OPM %: 31.70% vs 13.0%
+NPM %: 18.90% vs 9.3%
 

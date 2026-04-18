@@ -1,13 +1,14 @@
-CODE	NAME
-531652 
+CODES	531652	
+FULLNAME : UVS Hospitality & Services Ltd
+SECTOR : Finance
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-SECTOR : Retail
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

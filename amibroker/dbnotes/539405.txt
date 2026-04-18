@@ -1,40 +1,47 @@
-CODE	NAME
-539405 
+CODES	539405	
+FULLNAME : Decorous Investment And Trading Co Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
+BestQ Dec 2025
+BestQ Dec 2025
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.2		0.2		0.2		0.3		0.3		0.2
+SQoQ%: 	15.4		26.7		10.5		61.9		0.0		66.7
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		36.8		47.6		41.2		17.6
+YPROFIT: 0.0		0.1		0.1		0.1		0.1		0.1
+PQoQ%: 	-100.0		inf		42.9		40.0		-57.1		100.0
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.1    |   0.2    |   0.2    |   0.2    |   0.3    |      0.2     
- SQoQ%:  |   85.7   |   15.4   |   26.7   |   10.5   |   61.9   |      66.7    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   7.7    |   0.0    |   36.8   |   47.6   |   41.2   |              
-YPROFIT: |   0.0    |   0.0    |   0.1    |   0.1    |   0.1    |      0.0     
- PQoQ%:  |   0.0    |  -100.0  |   inf    |   42.9   |   40.0   |      0.0     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.3    |   0.0    |   0.0    |   0.2   
- QoQ%:  |  -100.0  |   inf    |  -100.0  |   nan    |   inf   
- QOPM%: |   0.0    |   7.1    |   0.0    |   0.0    |   0.0   
- QNPM%: |   inf    |   10.7   |   inf    |   inf    |   13.3  
- QPFT:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- PQoQ%: |  -60.0   |   50.0   |  -33.3   |   0.0    |   0.0   
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.2		0.2		0.0		0.0		0.2
+QoQ%: 	inf		26.7		-89.5		-100.0		inf
+QOPM%: 	0.0		0.0		0.0		0.0		4.3
+QNPM%: 	13.3		0.0		200.0		inf		26.1
+QPFT: 	0.0		0.0		0.0		0.0		0.1
+PQoQ%: 	0.0		-100.0		inf		-25.0		100.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
 - Last 3QSALES is about 67% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 100% of YProfit
 
 
-YSALES in Mar-2024 is at 0.3 showing a QoQ_growth of 61.9%. The YNETPROFIT grew by 40.0% to 0.1
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-0.30cr, QoQ 61.90% & YoY 200.00% SALES;
--0.00cr, QoQ -50.00% & YoY -100.00% OPERATING PROFIT;
-0.10cr, QoQ 40.00% & YoY inf% NET PROFIT;
+ 31-Mar-2025 #Result
+0.30cr, QoQ 0.00% & YoY 50.00% SALES;
+-0.10cr, QoQ 366.70% & YoY -50.00% OPERATING PROFIT;
+0.10cr, QoQ -57.10% & YoY inf% NET PROFIT;
 OPM %: 0.00% vs 0.0%
-NPM %: 41.20% vs 47.6%
+NPM %: 17.60% vs 41.2%
 

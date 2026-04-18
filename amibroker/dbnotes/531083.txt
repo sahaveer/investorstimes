@@ -1,14 +1,21 @@
-CODE	NAME
-531083 
+CODES	531083	
+FULLNAME : Nihar Info Global Ltd
+SECTOR : IT - Software
+INDUSTRY : Software Products
+EXPANSION 2024
+EXPANSION 2025
+YSD YPD 2025
 
-SECTOR : E-Commerce/App based Aggregator
-INDUSTRY : Miscellaneous
-
-***CONS***
-- NEGATIVE YProfit : -3.8
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
+- Last 3QSALES is about 236% YSales
+- YProfits and YSales DOUBLED in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -3.6

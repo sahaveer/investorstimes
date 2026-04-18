@@ -1,38 +1,23 @@
-CODES
-SHRITECH	
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
-PRODUCT DEMAND
-LYPD PM 2024
+CODES	SHRITECH	
+FULLNAME : Shri Techtex Ltd
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  572.0   |  431.5   |  432.9   |  674.4   |  864.5   |     415.8    
- SQoQ%:  |  -12.0   |  -24.6   |   0.3    |   55.8   |   28.2   |      48.1    
- YOPM%:  |   0.0    |   3.9    |   17.2   |   6.4    |   9.3    |              
- YNPM%:  |   0.0    |   0.0    |   2.3    |   9.8    |   8.7    |              
-YPROFIT: |  -86.1   |  -68.3   |   9.8    |   66.0   |   75.5   |      29.4    
- PQoQ%:  |  -271.2  |  -20.6   |  -114.3  |  574.5   |   14.4   |      38.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  221.2   |  302.2   |  154.0   |  140.6   |  121.2  
- QoQ%:  |   7.3    |   36.6   |  -49.1   |   -8.7   |  -13.8  
- QOPM%: |   8.7    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   8.4    |   6.7    |   11.3   |   0.0    |   10.7  
- QPFT:  |   18.5   |   20.2   |   17.4   |   -1.0   |   13.0  
- PQoQ%: |   -8.3   |   9.2    |  -13.6   |  -105.7  | -1410.1 
+***YEARLY***
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
-- LastYr YProfits Doubled and maintained in Mar2024
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-864.50cr, QoQ 28.20% & YoY 51.14% SALES;
-80.50cr, QoQ 85.70% & YoY -889.22% OPERATING PROFIT;
-75.50cr, QoQ 14.40% & YoY -187.69% NET PROFIT;
-OPM %: 9.30% vs 6.4%
-NPM %: 8.70% vs 9.8%
+ 31-Mar-2025 #Result
+82.70cr, QoQ 8.20% & YoY 109.37% SALES;
+20.90cr, QoQ 7.40% & YoY 15.47% OPERATING PROFIT;
+14.70cr, QoQ 19.50% & YoY 15.75% NET PROFIT;
+OPM %: 25.30% vs 25.5%
+NPM %: 17.70% vs 16.1%
 

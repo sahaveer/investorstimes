@@ -1,10 +1,11 @@
-CODES
-DELTIC	
+CODES	DELTIC	
+FULLNAME : Delta Autocorp Ltd
 SECTOR : Automobile
 INDUSTRY : Automobiles - Scooters And 3 - Wheelers
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

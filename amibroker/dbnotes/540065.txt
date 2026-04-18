@@ -1,34 +1,43 @@
-CODES
-540065	RBLBANK	
+CODES	540065	RBLBANK	
+FULLNAME : RBL Bank Ltd
 SECTOR : Banks
-INDUSTRY : Banks - Private Sector
+INDUSTRY : Private Sector Bank
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  8675.9  |  8444.9  |  9676.6  | 12393.8  | 14041.1 
- SQoQ%:  |   -1.2   |   -2.7   |   14.6   |   28.1   |   13.3  
- YOPM%:  |   40.9   |   21.0   |   37.3   |   39.3   |   32.0  
- YNPM%:  |   6.1    |   0.0    |   9.5    |   10.2   |   5.1   
-YPROFIT: |  529.5   |  -166.2  |  919.5   |  1259.9  |  717.1  
- PQoQ%:  |   5.9    |  -131.4  |  -653.4  |   37.0   |  -43.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  3339.2  |  3496.9  |  3531.0  |  3536.6  |  3476.6 
- QoQ%:  |   4.6    |   4.7    |   1.0    |   0.2    |   -1.7  
- QOPM%: |   40.4   |   42.8   |   36.6   |   19.8   |   28.9  
- QNPM%: |   10.9   |   10.0   |   6.6    |   1.3    |   2.5   
- QPFT:  |  364.4   |  351.0   |  231.7   |   47.3   |   87.0  
- PQoQ%: |   48.8   |   -3.7   |  -34.0   |  -79.6   |   83.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 8675.9		8444.9		9676.6		12393.8		14041.1		10615.9
+SQoQ%: 	-1.2		-2.7		14.6		28.1		13.3		75.6
+YOPM%: 	40.9		21.0		37.3		39.3		33.7
+YNPM%: 	6.1		0.0		9.5		10.2		5.1
+YPROFIT: 529.5		-166.2		919.5		1259.9		717.1		634.7
+PQoQ%: 	5.9		-131.4		-653.4		37.0		-43.1		88.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3536.6		3476.6		3441.2		3507.9		3666.8
+QoQ%: 	0.2		-1.7		-1.0		1.9		4.5
+QOPM%: 	19.8		28.9		33.9		36.1		34.0
+QNPM%: 	1.3		2.5		6.2		5.5		6.2
+QPFT: 	47.3		87.0		214.2		192.5		228.0
+PQoQ%: 	-79.6		83.8		146.3		-10.2		18.4
+
+
 
 ***PROS***
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 89% of YProfit
 - YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 14041.10cr, QoQ 13.30% & YoY 61.84% SALES;
-4493.60cr, QoQ -7.80% & YoY 26.71% OPERATING PROFIT;
+4729.50cr, QoQ -3.00% & YoY 33.36% OPERATING PROFIT;
 717.10cr, QoQ -43.10% & YoY 35.43% NET PROFIT;
-OPM %: 32.00% vs 39.3%
+OPM %: 33.70% vs 39.3%
 NPM %: 5.10% vs 10.2%
 

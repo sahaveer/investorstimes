@@ -1,12 +1,14 @@
-CODES
-543913	NXST	
-SECTOR : Real Estate Investment Trusts
-INDUSTRY : Construction
+CODES	543913	NXST	
+FULLNAME : Nexus Select Trust
+SECTOR : Realty
+INDUSTRY : Real Estate Investment Trusts (REITs)
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

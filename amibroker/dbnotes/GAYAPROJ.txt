@@ -1,27 +1,49 @@
-CODES
-532767	GAYAPROJ	
+CODES	532767	GAYAPROJ	
+FULLNAME : Gayatri Projects Ltd
 SECTOR : Construction
-INDUSTRY : Construction
-PRODUCT DEMAND
+INDUSTRY : Civil Construction
+BestQ Dec 2025
+BestQ Dec 2025
+LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -958.2
- YPNL:   | Mar-2018 | Mar-2019 | Mar-2020 | Mar-2021 | Mar-2022 | QSUM:Dec-2022
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  2912.3  |  3463.2  |  3438.6  |  3900.5  |  3102.3  |     831.7    
- SQoQ%:  |   37.7   |   18.9   |   -0.7   |   13.4   |  -20.5   |      26.8    
- YOPM%:  |   15.1   |   15.2   |   10.4   |   11.2   |   0.0    |              
- YNPM%:  |   0.0    |   4.6    |   0.0    |   1.1    |   0.0    |              
-YPROFIT: |  -19.5   |  160.1   |  -58.1   |   43.1   |  -958.2  |     -951.8   
- PQoQ%:  |  6403.3  |  -920.6  |  -136.3  |  -174.2  | -2323.2  |      99.3    
- QPNL:  | Dec-2021 | Mar-2022 | Jun-2022 | Sep-2022 | Dec-2022
---------+----------+----------+----------+----------+---------
-QSALES: |  802.4   |  537.4   |  282.6   |  316.2   |  232.9  
- QoQ%:  |   -7.3   |  -33.0   |  -47.4   |   11.9   |  -26.4  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |  -288.1  |  -503.6  |  -391.9  |  -268.3  |  -291.6 
- PQoQ%: |   52.1   |   74.8   |  -22.2   |  -31.5   |   8.7   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3900.5		3102.3		1017.2		679.6		449.9		655.5
+SQoQ%: 	13.4		-20.5		-67.2		-33.2		-33.8		145.7
+YOPM%: 	11.2		0.0		0.0		27.8		0.6
+YNPM%: 	1.1		0.0		0.0		6.1		27.5
+YPROFIT: 43.1		-958.2		-1504.1		41.5		123.9		2153.1
+PQoQ%: 	-174.2		-2323.2		57.0		-102.8		198.8		1737.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 90.8		137.1		76.6		73.1		505.8
+QoQ%: 	-11.4		51.0		-44.2		-4.5		591.7
+QOPM%: 	9.3		0.0		11.9		0.6		0.0
+QNPM%: 	0.0		115.7		0.0		0.0		426.4
+QPFT: 	-2.0		158.7		-0.6		-3.4		2157.1
+PQoQ%: 	-90.1		-8155.3		-100.4		482.8		-63918.9
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 146% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 1738% of YProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NO PRODUCT DEMAND
+
+Yearly 
+ 31-Mar-2025 #Result
+449.90cr, QoQ -33.80% & YoY -88.47% SALES;
+2.50cr, QoQ -98.70% & YoY -99.43% OPERATING PROFIT;
+123.90cr, QoQ 198.80% & YoY 187.47% NET PROFIT;
+OPM %: 0.60% vs 27.8%
+NPM %: 27.50% vs 6.1%
+

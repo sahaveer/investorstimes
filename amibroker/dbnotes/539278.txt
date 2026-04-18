@@ -1,40 +1,43 @@
-CODE	NAME
-539278 
-
+CODES	539278	
+FULLNAME : Symbiox Investment & Trading Co Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-PRODUCT DEMAND
-BestQ Dec 2024
+INDUSTRY : Other Financial Services
+BestQ Dec 2025
 
-***CONS***
-  YPNL   |   :    | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+--------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1.0   |   2.1    |   1.8    |   4.0    |   4.1    |   1.5    |              
- SQoQ%:  |  15.6  |  100.0   |  -12.0   |  118.6   |   3.2    |   36.6   |              
- YOPM%:  |  0.0   |   0.0    |   9.8    |   5.5    |   6.1    |          |              
- YNPM%:  |  1.9   |   3.4    |   7.7    |   4.0    |   5.1    |          |              
-YPROFIT: |  0.0   |   0.1    |   0.1    |   0.2    |   0.2    |   0.5    |              
- PQoQ%:  | -300.0 |  250.0   |  100.0   |   14.3   |   31.2   |  250.0   |              
-  QPNL  |   :    | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+--------+----------+----------+----------+----------+---------
-QSALES: |  0.2   |   1.1    |   0.3    |   0.8    |   0.4    |         
- QoQ%:  | -85.4  |  522.2   |  -72.3   |  141.9   |  -40.0   |         
- QOPM%: |  0.0   |   0.0    |   3.2    |   58.7   |   48.9   |         
- QNPM%: |  0.0   |   0.0    |   3.2    |   44.0   |   35.6   |         
- QPFT:  |  -0.0  |   -0.0   |   0.0    |   0.3    |   0.2    |         
- PQoQ%: | -107.7 |  200.0   |  -133.3  |  3200.0  |  -51.5   |         
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2.1		1.8		4.0		4.1		2.8		0.8
+SQoQ%: 	100.0		-12.0		118.6		3.2		-32.9		28.6
+YOPM%: 	0.0		9.8		5.5		6.1		9.4
+YNPM%: 	3.4		7.7		4.0		5.1		6.9
+YPROFIT: 0.1		0.1		0.2		0.2		0.2		0.2
+PQoQ%: 	250.0		100.0		14.3		31.2		-9.5		100.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.4		1.2		0.5		0.2		0.1
+QoQ%: 	-40.0		177.8		-63.2		-50.0		-60.9
+QOPM%: 	48.9		0.0		19.6		34.8		22.2
+QNPM%: 	35.6		0.0		15.2		26.1		11.1
+QPFT: 	0.2		-0.3		0.1		0.1		0.0
+PQoQ%: 	-51.5		-287.5		-123.3		-14.3		-83.3
+
+
 
 ***PROS***
-A DEBT-Free Company
-- PRODUCT DEMAND is rising since 3 years
+A DEBT-Free Company for the last 2 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QPROFIT is about 250% of YProfit
+- Last 3QPROFIT is about 100% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-4.10cr, QoQ 3.20% & YoY 310.00% SALES;
-0.20cr, QoQ 13.60% & YoY -122.22% OPERATING PROFIT;
-0.20cr, QoQ 31.20% & YoY inf% NET PROFIT;
-OPM %: 6.10% vs 5.5%
-NPM %: 5.10% vs 4.0%
+ 31-Mar-2025 #Result
+2.80cr, QoQ -32.90% & YoY 33.33% SALES;
+0.30cr, QoQ 4.00% & YoY -133.33% OPERATING PROFIT;
+0.20cr, QoQ -9.50% & YoY 100.00% NET PROFIT;
+OPM %: 9.40% vs 6.1%
+NPM %: 6.90% vs 5.1%
 

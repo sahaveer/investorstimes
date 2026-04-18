@@ -1,13 +1,11 @@
-CODE	NAME
-544023 
-
+CODES	544023	
+FULLNAME : Kalyani Cast-Tech Ltd
 SECTOR : Castings, Forgings & Fastners
 INDUSTRY : Castings & Forgings
 YSD YPD 2022
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,6 +15,8 @@ ROCE in Mar2024 is at 21.6%
 - LastYr YProfits Doubled and maintained in Mar2024
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2024, Sales have increased by 49.3% while the Profit QoQ_growth is at 19.3%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

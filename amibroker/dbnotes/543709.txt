@@ -1,30 +1,35 @@
-CODE	NAME
-543709 
-
-SECTOR : Diamond, Gems and Jewellery
-INDUSTRY : Diamond Cutting / Jewellery
+CODES	543709	
+FULLNAME : PNGS Gargi Fashion Jewellery Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
 PRODUCT DEMAND
 YSD YPD 2025
 
-***CONS***
- YPNL:   | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025 | Mar-2020
----------+----------+----------+----------+----------+---------
-YSALES:  |   5.9    |   28.7   |   50.5   |  126.4   |   0.0   
- SQoQ%:  | 59300.0  |  382.7   |   76.1   |  150.3   |  -100.0 
- YOPM%:  |   25.6   |   22.7   |   22.2   |   29.6   |   0.0   
- YNPM%:  |   18.7   |   16.4   |   16.8   |   22.8   |   0.0   
-YPROFIT: |   1.1    |   4.7    |   8.5    |   28.8   |   0.0   
- PQoQ%:  |   inf    |  322.5   |   80.4   |  240.5   |  -100.0 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   15.4   |   44.4   |   22.9   |   36.2   |   22.7  
- QoQ%:  |  -13.5   |  189.0   |  -48.4   |   58.0   |  -37.4  
- QOPM%: |   20.5   |   31.9   |   30.2   |   32.0   |   20.8  
- QNPM%: |   15.3   |   23.5   |   22.2   |   25.2   |   18.1  
- QPFT:  |   2.4    |   10.5   |   5.1    |   9.2    |   4.1   
- PQoQ%: |  -25.6   |  345.1   |  -51.3   |   79.8   |  -55.1  
+***YEARLY***
+YPNL: 	Mar-2022	Mar-2023	Mar-2024	Mar-2025	Mar-2020	QSUM:Dec-2025
+YSALES: 5.9		28.7		50.5		126.4		0.0		119.8
+SQoQ%: 	59300.0		382.7		76.1		150.3		-100.0		inf
+YOPM%: 	25.6		22.7		22.2		29.6		0.0
+YNPM%: 	18.7		16.4		16.8		22.8		0.0
+YPROFIT: 1.1		4.7		8.5		28.8		0.0		26.2
+PQoQ%: 	inf		322.5		80.4		240.5		-100.0		inf
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 36.2		22.7		27.3		46.4		46.1
+QoQ%: 	57.9		-37.4		20.4		70.1		-0.8
+QOPM%: 	32.0		20.8		23.3		28.0		28.9
+QNPM%: 	25.2		18.1		19.4		22.1		23.0
+QPFT: 	9.2		4.1		5.3		10.3		10.6
+PQoQ%: 	79.8		-55.1		29.2		93.4		3.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - YProfits and YSales DOUBLED in Mar2025
 
+
+***CONS***

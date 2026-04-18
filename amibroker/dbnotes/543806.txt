@@ -1,23 +1,23 @@
-CODE	NAME
-543806 
+CODES	543806	
+FULLNAME : ITCONS E-Solutions Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-YSD YPD 2022
+***YEARLY***
+
+
+***PROS***
+
+YSALES in Mar-2025 is at 56.0 showing a QoQ_growth of 96.4%. The YNETPROFIT grew by 70.2% to 3.2
 
 ***CONS***
 - NO PRODUCT DEMAND
 
-
-
-***PROS***
-- YProfits and YSales DOUBLED in Mar2022
-
 Yearly 
- 31-Mar-2024 #Result
-28.50cr, QoQ 0.70% & YoY 243.37% SALES;
-3.20cr, QoQ 25.80% & YoY 700.00% OPERATING PROFIT;
-1.90cr, QoQ 10.40% & YoY 1800.00% NET PROFIT;
-OPM %: 11.10% vs 8.9%
-NPM %: 6.70% vs 6.1%
+ 31-Mar-2025 #Result
+56.00cr, QoQ 96.40% & YoY 574.70% SALES;
+4.20cr, QoQ 32.50% & YoY 4100.00% OPERATING PROFIT;
+3.20cr, QoQ 70.20% & YoY 3100.00% NET PROFIT;
+OPM %: 7.50% vs 11.1%
+NPM %: 5.80% vs 6.7%
 

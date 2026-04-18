@@ -1,28 +1,36 @@
-CODE	NAME
-526500 
-
-SECTOR : Hotels & Restaurants
-INDUSTRY : Hotels
+CODES	526500	
+FULLNAME : Sterling Green Woods Ltd
+SECTOR : Leisure Services
+INDUSTRY : Hotels & Resorts
 YSD YPD 2023
+LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -1.9
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   2.8    |   2.2    |   1.7    |   3.5    |   1.9    |      0.3     
- SQoQ%:  |  -24.7   |  -24.3   |  -19.1   |   99.4   |  -45.2   |      15.8    
- YOPM%:  |   0.0    |   7.4    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -1.2   |   -0.3   |   -0.8   |   -1.2   |   -1.9   |      -1.7    
- PQoQ%:  |   31.1   |  -72.9   |  137.5   |   57.9   |   55.8   |      89.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.6    |   0.2    |   0.0    |   0.3    |   0.0   
- QoQ%:  |   22.9   |  -72.9   |  -93.8   |  2800.0  |  -96.6  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.7   |   -0.4   |   -0.8   |   -0.4   |   -0.5  
- PQoQ%: |   -5.2   |  -52.1   |  128.6   |  -56.2   |   42.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2.2		1.7		3.5		1.9		1.2		0.0
+SQoQ%: 	-24.3		-19.1		99.4		-45.2		-37.9		0.0
+YOPM%: 	7.4		0.0		0.0		0.0		31.4
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -0.3		-0.8		-1.2		-1.9		-0.9		-1.4
+PQoQ%: 	-72.9		137.5		57.9		55.8		-51.9		155.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		1.1		0.0		0.0		0.0
+QoQ%: 	-96.6		11200.0		-98.2		-50.0		0.0
+QOPM%: 	0.0		76.1		0.0		0.0		0.0
+QNPM%: 	0.0		67.3		0.0		0.0		0.0
+QPFT: 	-0.5		0.8		-0.5		-0.6		-0.3
+PQoQ%: 	42.9		-252.0		-163.2		14.6		-41.8
+
+
 
 ***PROS***
 - YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -0.9

@@ -1,35 +1,44 @@
-CODES
-500027	ATUL	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	500027	ATUL	
+FULLNAME : Atul Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3731.5		5080.9		5427.5		4725.7		5583.4		4603.4
+SQoQ%: 	-8.8		36.2		6.8		-12.9		18.1		82.4
+YOPM%: 	24.6		18.0		14.9		13.5		16.4
+YNPM%: 	17.6		11.9		9.5		6.8		8.7
+YPROFIT: 655.8		604.3		514.1		323.0		483.9		467.7
+PQoQ%: 	-1.6		-7.9		-14.9		-37.2		49.8		96.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1416.8		1451.6		1478.0		1551.8		1573.6
+QoQ%: 	1.7		2.5		1.8		5.0		1.4
+QOPM%: 	15.8		15.4		15.9		17.2		15.7
+QNPM%: 	7.7		8.7		8.6		11.6		10.2
+QPFT: 	108.7		126.5		127.8		179.2		160.7
+PQoQ%: 	-20.5		16.3		1.0		40.3		-10.3
+
+
+
+***PROS***
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 97% of YProfit
+
+YSALES in Mar-2025 is at 5583.4 showing a QoQ_growth of 18.1%. The YNETPROFIT grew by 49.8% to 483.9
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  3731.5  |  5080.9  |  5427.5  |  4725.7  |  5583.4 
- SQoQ%:  |   -8.8   |   36.2   |   6.8    |  -12.9   |   18.1  
- YOPM%:  |   24.6   |   18.0   |   14.9   |   13.5   |   16.4  
- YNPM%:  |   17.6   |   11.9   |   9.5    |   6.8    |   8.7   
-YPROFIT: |  655.8   |  604.3   |  514.1   |  323.0   |  483.9  
- PQoQ%:  |   -1.6   |   -7.9   |  -14.9   |  -37.2   |   49.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1212.2  |  1322.0  |  1392.8  |  1416.8  |  1451.6 
- QoQ%:  |   6.5    |   9.1    |   5.4    |   1.7    |   2.5   
- QOPM%: |   12.2   |   16.9   |   17.4   |   15.8   |   15.4  
- QNPM%: |   4.8    |   8.5    |   9.8    |   7.7    |   8.7   
- QPFT:  |   58.4   |  111.9   |  136.8   |  108.7   |  126.5  
- PQoQ%: |  -17.7   |   91.5   |   22.3   |  -20.5   |   16.3  
-
-***PROS***
-
-YSALES in Mar-2025 is at 5583.4 showing a QoQ_growth of 18.1%. The YNETPROFIT grew by 49.8% to 483.9
 
 Yearly 
  31-Mar-2025 #Result
 5583.40cr, QoQ 18.10% & YoY 49.63% SALES;
-913.00cr, QoQ 42.80% & YoY -0.56% OPERATING PROFIT;
+917.90cr, QoQ 43.50% & YoY -0.02% OPERATING PROFIT;
 483.90cr, QoQ 49.80% & YoY -26.21% NET PROFIT;
 OPM %: 16.40% vs 13.5%
 NPM %: 8.70% vs 6.8%

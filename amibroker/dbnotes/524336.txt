@@ -1,13 +1,14 @@
-CODE	NAME
-524336 
+CODES	524336	
+FULLNAME : Shree Hari Chemicals Export Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
 
-SECTOR : Chemicals
-INDUSTRY : Dyes And Pigments
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

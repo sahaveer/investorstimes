@@ -1,22 +1,27 @@
-CODES
-RBMINFRA	
-SECTOR : Construction
-INDUSTRY : Construction
+CODES	RBMINFRA	
+FULLNAME : RBM Infracon Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
+YSD YPD 2025
+LYPD PM 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-
-
-
+***YEARLY***
 
 
 ***PROS***
-- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Mar-2025 is at 135.2%. The QPROFIT QoQ_growth by 92.1%
+- YProfits and YSales DOUBLED in Mar2025
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 148.0% while the Profit QoQ_growth is much better than Sales itself at 165.7%
 
-Quarterly 
-31-Mar-2025 #Result
-153.20cr, QoQ 135.20% SALES;
-18.80cr, QoQ 91.40% OPERATING PROFIT;
-12.90cr, QoQ 92.10% NET PROFIT;
-OPM %: 12.30% vs 15.1%
-NPM %: 8.40% vs 10.3%
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+321.80cr, QoQ 148.00% & YoY 731.52% SALES;
+42.90cr, QoQ 127.70% & YoY -10825.00% OPERATING PROFIT;
+29.50cr, QoQ 165.70% & YoY -2369.23% NET PROFIT;
+OPM %: 13.30% vs 14.5%
+NPM %: 9.20% vs 8.5%
 

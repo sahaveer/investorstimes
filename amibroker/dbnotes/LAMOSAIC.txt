@@ -1,10 +1,11 @@
-CODES
-LAMOSAIC	
+CODES	LAMOSAIC	
+FULLNAME : Lamosaic India Ltd
 SECTOR : Miscellaneous
 INDUSTRY : Miscellaneous
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

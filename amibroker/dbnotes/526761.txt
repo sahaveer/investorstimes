@@ -1,48 +1,47 @@
-CODE	NAME
-526761 
-
-SECTOR : Hotels & Restaurants
-INDUSTRY : Hotels
+CODES	526761	
+FULLNAME : Howard Hotels Ltd
+SECTOR : Leisure Services
+INDUSTRY : Hotels & Resorts
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
 YSD YPD 2023
-YSD YPD 2022
-LYPD PM 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   9.7    |   1.7    |   4.3    |   10.3   |   13.2   |      11.4    
- SQoQ%:  |   -8.8   |  -82.3   |  150.6   |  138.1   |   28.2   |      86.4    
- YOPM%:  |   1.8    |   0.0    |   0.0    |   17.3   |   14.1   |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   7.2    |   7.2    |              
-YPROFIT: |   -0.8   |   -1.5   |   -0.8   |   0.7    |   1.0    |      -0.1    
- PQoQ%:  |   -inf   |   98.7   |  -49.0   |  -196.1  |   28.4   |     -10.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   3.8    |   4.6    |   3.1    |   3.0    |   5.3   
- QoQ%:  |   77.3   |   20.9   |  -33.7   |   -2.0   |   75.4  
- QOPM%: |   30.8   |   8.2    |   0.0    |   0.0    |   33.5  
- QNPM%: |   25.3   |   0.4    |   0.0    |   0.0    |   27.8  
- QPFT:  |   1.0    |   0.0    |   -0.8   |   -0.8   |   1.5   
- PQoQ%: |  -504.2  |  -97.9   | -3950.0  |   3.9    |  -283.8 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.7		4.3		10.3		13.2		16.2		11.3
+SQoQ%: 	-82.3		150.6		138.1		28.2		22.9		69.8
+YOPM%: 	0.0		0.0		17.3		14.1		11.1
+YNPM%: 	0.0		0.0		7.2		7.2		2.7
+YPROFIT: -1.5		-0.8		0.7		1.0		0.4		-0.1
+PQoQ%: 	98.7		-49.0		-196.1		28.4		-54.7		-25.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 5.3		4.8		3.2		2.7		5.4
+QoQ%: 	75.4		-9.1		-33.7		-15.7		99.6
+QOPM%: 	33.5		22.1		0.0		0.0		28.6
+QNPM%: 	27.8		11.0		0.0		0.0		21.9
+QPFT: 	1.5		0.5		-0.5		-0.8		1.2
+PQoQ%: 	-283.8		-63.9		-188.7		70.2		-246.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 86% YSales
+- Last 3QSALES is about 70% YSales
 - Double QSales and QProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2023
-- YProfits and YSales DOUBLED in Mar2022
-- LastYr YProfits Doubled and maintained in Mar2024
 
-YSALES in Mar-2024 is at 13.2 showing a QoQ_growth of 28.2%. The YNETPROFIT grew by 28.4% to 1.0
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-13.20cr, QoQ 28.20% & YoY 36.08% SALES;
-1.90cr, QoQ 4.50% & YoY 850.00% OPERATING PROFIT;
-1.00cr, QoQ 28.40% & YoY -225.00% NET PROFIT;
-OPM %: 14.10% vs 17.3%
-NPM %: 7.20% vs 7.2%
+ 31-Mar-2025 #Result
+16.20cr, QoQ 22.90% & YoY 852.94% SALES;
+1.80cr, QoQ -3.20% & YoY -300.00% OPERATING PROFIT;
+0.40cr, QoQ -54.70% & YoY -126.67% NET PROFIT;
+OPM %: 11.10% vs 14.1%
+NPM %: 2.70% vs 7.2%
 

@@ -1,11 +1,11 @@
-CODE	NAME
-544303 
-
+CODES	544303	
+FULLNAME : Toss The Coin Ltd
 SECTOR : Miscellaneous
 INDUSTRY : Miscellaneous
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

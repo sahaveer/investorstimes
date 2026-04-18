@@ -1,28 +1,37 @@
-CODES
-540602	GTPL	
+CODES	540602	GTPL	
+FULLNAME : GTPL Hathway Ltd
 SECTOR : Entertainment
-INDUSTRY : Entertainment / Electronic Media Software
+INDUSTRY : TV Broadcasting & Software Production
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2467.0		2414.1		2663.9		3212.5		3477.2		2795.3
+SQoQ%: 	3.5		-2.1		10.3		20.6		8.2		80.4
+YOPM%: 	21.1		22.1		17.5		14.9		12.4
+YNPM%: 	7.6		8.3		4.3		3.3		1.4
+YPROFIT: 188.1		199.7		113.9		107.0		47.9		30.8
+PQoQ%: 	141.9		6.1		-42.9		-6.1		-55.2		64.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 887.3		891.0		903.7		959.0		932.6
+QoQ%: 	3.7		0.4		1.4		6.1		-2.8
+QOPM%: 	11.9		11.8		11.8		10.9		12.2
+QNPM%: 	1.1		1.2		1.2		1.0		1.2
+QPFT: 	10.2		10.6		10.6		9.2		11.0
+PQoQ%: 	-20.4		4.6		-0.8		-12.8		19.5
+
+
+
+***PROS***
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 64% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2467.0  |  2414.1  |  2663.9  |  3212.5  |  3477.2 
- SQoQ%:  |   3.5    |   -2.1   |   10.3   |   20.6   |   8.2   
- YOPM%:  |   21.1   |   22.1   |   17.5   |   14.9   |   12.4  
- YNPM%:  |   7.6    |   8.3    |   4.3    |   3.3    |   1.4   
-YPROFIT: |  188.1   |  199.7   |  113.9   |  107.0   |   47.9  
- PQoQ%:  |  141.9   |   6.1    |  -42.9   |   -6.1   |  -55.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  808.0   |  843.4   |  855.6   |  887.3   |  891.0  
- QoQ%:  |   -5.0   |   4.4    |   1.4    |   3.7    |   0.4   
- QOPM%: |   13.9   |   13.4   |   12.5   |   11.9   |   11.8  
- QNPM%: |   1.6    |   1.7    |   1.5    |   1.1    |   1.2   
- QPFT:  |   13.2   |   14.3   |   12.8   |   10.2   |   10.6  
- PQoQ%: |  -44.3   |   8.4    |  -10.6   |  -20.4   |   4.6   
-
-***PROS***
 
 Yearly 
  31-Mar-2025 #Result

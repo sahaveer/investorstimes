@@ -1,28 +1,34 @@
-CODES
-540701	DCAL	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
-PRODUCT DEMAND
+CODES	540701	DCAL	
+FULLNAME : Dishman Carbogen Amcis Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+BestQ Dec 2025
 
-***CONS***
-- NEGATIVE YProfit : -153.4
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  2043.6  |  1912.0  |  2140.7  |  2412.9  |  2615.8  |     1995.1   
- SQoQ%:  |   -0.7   |   -6.4   |   12.0   |   12.7   |   8.4    |      76.3    
- YOPM%:  |   24.6   |   14.3   |   15.5   |   13.8   |   11.0   |              
- YNPM%:  |   7.8    |   0.0    |   0.8    |   0.0    |   0.0    |              
-YPROFIT: |  158.5   |  -165.1  |   18.0   |  -29.8   |  -153.4  |     -39.9    
- PQoQ%:  |  -24.6   |  -204.2  |  -110.9  |  -265.5  |  414.9   |      26.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  651.1   |  654.7   |  523.8   |  789.0   |  682.3  
- QoQ%:  |   11.0   |   0.6    |  -20.0   |   50.6   |  -13.5  
- QOPM%: |   6.3    |   9.6    |   5.5    |   18.6   |   20.5  
- QNPM%: |   0.0    |   0.0    |   0.0    |   4.2    |   0.7   
- QPFT:  |  -59.6   |  -69.9   |  -77.6   |   33.1   |   4.6   
- PQoQ%: |   45.8   |   17.3   |   10.9   |  -142.7  |  -86.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1912.0		2140.7		2412.9		2615.8		2711.5		2080.4
+SQoQ%: 	-6.4		12.0		12.7		8.4		3.7		76.7
+YOPM%: 	14.3		15.5		13.8		11.0		17.3
+YNPM%: 	0.0		0.8		0.0		0.0		0.1
+YPROFIT: -165.1		18.0		-29.8		-153.4		3.2		75.7
+PQoQ%: 	-204.2		-110.9		-265.5		414.9		-102.1		2365.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 682.3		716.3		708.0		652.6		719.8
+QoQ%: 	-13.5		5.0		-1.2		-7.8		10.3
+QOPM%: 	20.5		21.3		19.9		22.8		15.7
+QNPM%: 	0.7		6.0		3.3		10.0		0.0
+QPFT: 	4.6		43.1		23.4		65.3		-13.0
+PQoQ%: 	-86.0		830.7		-45.7		178.8		-119.9
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 76% YSales
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 2366% of YProfit
+- YProfit Turned POSITIVE this year Mar-2025 : 3.2
+
+***CONS***

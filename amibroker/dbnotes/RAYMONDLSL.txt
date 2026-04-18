@@ -1,12 +1,14 @@
-CODES
-544240	RAYMONDLSL	
+CODES	544240	RAYMONDLSL	
+FULLNAME : Raymond Lifestyle Ltd
 SECTOR : Textiles
 INDUSTRY : Textiles - Products
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

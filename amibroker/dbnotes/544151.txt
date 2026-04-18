@@ -1,15 +1,15 @@
-CODE	NAME
-544151 
-
+CODES	544151	
+FULLNAME : Chatha Foods Ltd
 SECTOR : FMCG
 INDUSTRY : Food - Processing - Indian
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

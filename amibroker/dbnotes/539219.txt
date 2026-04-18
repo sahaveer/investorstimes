@@ -1,14 +1,28 @@
-CODE	NAME
-539219 
+CODES	539219	
+FULLNAME : Mauria Udyog Ltd
+SECTOR : Industrial Products
+INDUSTRY : Other Industrial Products
+BestQ Dec 2025
+LYPD PM 2025
 
-SECTOR : Packaging
-INDUSTRY : Packaging
-
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
-- YProfit Turned POSITIVE this year Mar-2024 : 16.7
+- Last 3QSALES is about 86% YSales
+- Last 3QPROFIT is about 120% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+408.70cr, QoQ 22.00% SALES;
+25.40cr, QoQ 24.00% OPERATING PROFIT;
+18.20cr, QoQ 8.70% NET PROFIT;
+OPM %: 6.20% vs 6.1%
+NPM %: 4.50% vs 5.0%
+

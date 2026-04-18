@@ -1,35 +1,44 @@
-CODES
-502355	BALKRISIND	
-SECTOR : Tyres
-INDUSTRY : Tyres
+CODES	502355	BALKRISIND	
+FULLNAME : Balkrishna Industries Ltd
+SECTOR : Auto Components
+INDUSTRY : Tyres & Rubber Products
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  5783.2  |  8295.1  |  9759.5  |  9368.9  | 10447.0 
- SQoQ%:  |   20.2   |   43.4   |   17.7   |   -4.0   |   11.5  
- YOPM%:  |   31.3   |   24.2   |   17.5   |   24.1   |   23.5  
- YNPM%:  |   20.4   |   17.3   |   10.8   |   15.7   |   15.8  
-YPROFIT: |  1177.5  |  1435.4  |  1057.4  |  1471.5  |  1655.0 
- PQoQ%:  |   22.7   |   21.9   |  -26.3   |   39.2   |   12.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2681.9  |  2714.5  |  2419.7  |  2560.3  |  2752.4 
- QoQ%:  |   17.9   |   1.2    |  -10.9   |   5.8    |   7.5   
- QOPM%: |   25.4   |   24.4   |   24.0   |   23.5   |   22.3  
- QNPM%: |   18.1   |   18.1   |   14.3   |   17.6   |   13.4  
- QPFT:  |  486.8   |  490.0   |  346.9   |  449.5   |  368.6  
- PQoQ%: |   59.4   |   0.7    |  -29.2   |   29.6   |  -18.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 5783.2		8295.1		9759.5		9368.9		10447.0		7890.2
+SQoQ%: 	20.2		43.4		17.7		-4.0		11.5		75.5
+YOPM%: 	31.3		24.2		17.5		24.1		23.5
+YNPM%: 	20.4		17.3		10.8		15.7		15.8
+YPROFIT: 1177.5		1435.4		1057.4		1471.5		1655.0		943.7
+PQoQ%: 	22.7		21.9		-26.3		39.2		12.5		57.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2560.3		2752.4		2760.0		2393.4		2736.8
+QoQ%: 	5.8		7.5		0.3		-13.3		14.3
+QOPM%: 	23.5		22.3		18.3		21.4		23.5
+QNPM%: 	17.6		13.4		10.4		11.4		14.0
+QPFT: 	449.5		368.6		288.3		273.2		382.2
+PQoQ%: 	29.6		-18.0		-21.8		-5.2		39.9
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 57% of YProfit
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 10447.00cr, QoQ 11.50% & YoY 80.64% SALES;
-2457.60cr, QoQ 8.90% & YoY 35.67% OPERATING PROFIT;
+2457.80cr, QoQ 8.90% & YoY 35.68% OPERATING PROFIT;
 1655.00cr, QoQ 12.50% & YoY 40.55% NET PROFIT;
 OPM %: 23.50% vs 24.1%
 NPM %: 15.80% vs 15.7%

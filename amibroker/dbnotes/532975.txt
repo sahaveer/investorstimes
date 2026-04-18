@@ -1,29 +1,34 @@
-CODE	NAME
-532975 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	532975	
+FULLNAME : Telogica Ltd
+SECTOR : Telecom - Equipment & Accessories
+INDUSTRY : Telecom - Equipment & Accessories
 LYPD PM 2020
+
+***YEARLY***
+YPNL: 	Mar-2016	Mar-2017	Mar-2018	Mar-2019	Mar-2020	QSUM:Dec-2020
+YSALES: 45.9		55.4		24.2		10.0		10.8		4.4
+SQoQ%: 	47.6		20.7		-56.3		-58.8		7.6		40.7
+YOPM%: 	3.3		5.2		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -1.1		-0.6		-9.1		-14.5		-6.7		-2.4
+PQoQ%: 	-45.5		-46.4		1442.4		59.1		-53.7		35.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2019	Mar-2020	Jun-2020	Sep-2020	Dec-2020
+QSALES: 5.1		1.0		0.4		1.5		2.5
+QoQ%: 	154.5		-80.4		-64.4		313.9		69.1
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-0.7		-4.9		-1.2		-0.8		-0.4
+PQoQ%: 	11.9		639.4		-75.6		-37.0		-45.3
+
+
+
+***PROS***
+- LastYr YProfits Doubled and maintained in Mar2020
 
 ***CONS***
 - NO PRODUCT DEMAND
 - NEGATIVE YProfit : -6.7
- YPNL:   | Mar-2016 | Mar-2017 | Mar-2018 | Mar-2019 | Mar-2020 | QSUM:Dec-2020
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   45.9   |   55.4   |   24.2   |   10.0   |   10.8   |      4.4     
- SQoQ%:  |   47.6   |   20.7   |  -56.3   |  -58.8   |   7.6    |      40.7    
- YOPM%:  |   3.3    |   5.2    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -1.1   |   -0.6   |   -9.1   |  -14.5   |   -6.7   |      -2.4    
- PQoQ%:  |  -45.5   |  -46.4   |  1442.4  |   59.1   |  -53.7   |      35.8    
- QPNL:  | Dec-2019 | Mar-2020 | Jun-2020 | Sep-2020 | Dec-2020
---------+----------+----------+----------+----------+---------
-QSALES: |   5.1    |   1.0    |   0.4    |   1.5    |   2.5   
- QoQ%:  |  154.5   |  -80.4   |  -64.4   |  313.9   |   69.1  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.7   |   -4.9   |   -1.2   |   -0.8   |   -0.4  
- PQoQ%: |   11.9   |  639.4   |  -75.6   |  -37.0   |  -45.3  
-
-***PROS***
-- LastYr YProfits Doubled and maintained in Mar2020

@@ -1,28 +1,35 @@
-CODES
-541269	CHEMFAB	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	541269	CHEMFAB	
+FULLNAME : Chemfab Alkalis Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
 PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -6.9
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  180.8   |  271.6   |  331.4   |  327.3   |  334.4  
- SQoQ%:  |  -11.6   |   50.2   |   22.0   |   -1.2   |   2.2   
- YOPM%:  |   13.1   |   20.9   |   33.4   |   16.7   |   13.1  
- YNPM%:  |   0.0    |   10.6   |   19.5   |   8.0    |   0.0   
-YPROFIT: |   -8.1   |   28.8   |   64.6   |   26.3   |   -6.9  
- PQoQ%:  |  -131.9  |  -453.6  |  124.6   |  -59.2   |  -126.4 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   82.3   |   76.5   |   81.9   |   83.6   |   92.3  
- QoQ%:  |   -4.7   |   -7.0   |   7.0    |   2.1    |   10.4  
- QOPM%: |   15.0   |   10.9   |   12.4   |   14.2   |   14.4  
- QNPM%: |   6.6    |   1.2    |   0.0    |   2.2    |   0.0   
- QPFT:  |   5.4    |   0.9    |   -0.5   |   1.9    |   -9.2  
- PQoQ%: |  -23.8   |  -83.4   |  -158.9  |  -454.7  |  -588.8 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 180.8		271.6		331.4		327.3		334.4		236.2
+SQoQ%: 	-11.6		50.2		22.0		-1.2		2.2		70.6
+YOPM%: 	13.1		20.9		33.4		16.7		13.2
+YNPM%: 	0.0		10.6		19.5		8.0		0.0
+YPROFIT: -8.1		28.8		64.6		26.3		-6.9		-3.8
+PQoQ%: 	-131.9		-453.6		124.6		-59.2		-126.4		55.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 83.6		92.3		91.5		76.6		68.1
+QoQ%: 	2.1		10.4		-0.8		-16.4		-11.0
+QOPM%: 	14.2		14.4		12.3		7.1		2.8
+QNPM%: 	2.2		0.0		2.8		0.0		0.0
+QPFT: 	1.9		-9.2		2.6		-2.0		-4.4
+PQoQ%: 	-454.7		-588.8		-127.7		-178.8		121.4
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 71% YSales
 
+
+***CONS***
+- NEGATIVE YProfit : -6.9

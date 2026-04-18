@@ -1,12 +1,14 @@
-CODES
-541729	HDFCAMC	
-SECTOR : Finance
-INDUSTRY : Finance & Investments
+CODES	541729	HDFCAMC	
+FULLNAME : HDFC Asset Management Company Ltd
+SECTOR : Capital Markets
+INDUSTRY : Asset Management Company
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

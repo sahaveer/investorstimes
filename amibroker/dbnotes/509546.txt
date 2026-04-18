@@ -1,43 +1,45 @@
-CODE	NAME
-509546 
+CODES	509546	
+FULLNAME : Graviss Hospitality Ltd
+SECTOR : Leisure Services
+INDUSTRY : Hotels & Resorts
+PRODUCT DEMAND
+BestQ Dec 2025
 
-SECTOR : Hotels & Restaurants
-INDUSTRY : Hotels
-BestQ Dec 2024
-YSD YPD 2022
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 22.9		48.3		65.5		54.1		61.2		43.1
+SQoQ%: 	-42.2		111.3		35.4		-17.3		12.9		70.4
+YOPM%: 	0.0		0.0		16.1		12.3		11.5
+YNPM%: 	0.0		0.0		9.1		5.6		15.4
+YPROFIT: -15.2		-6.5		6.0		3.0		9.4		-0.5
+PQoQ%: 	72.9		-57.4		-191.5		-49.4		212.0		-5.3
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   39.5   |   22.9   |   48.3   |   65.5   |   54.1   |      41.7    
- SQoQ%:  |  -16.8   |  -42.2   |  111.3   |   35.4   |  -17.3   |      77.1    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   16.1   |   12.3   |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   9.1    |   5.6    |              
-YPROFIT: |   -8.8   |  -15.2   |   -6.5   |   6.0    |   3.0    |      9.6     
- PQoQ%:  |  366.7   |   72.9   |  -57.4   |  -191.5  |  -49.4   |     320.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   16.4   |   16.8   |   11.1   |   12.6   |   18.0  
- QoQ%:  |   70.5   |   2.9    |  -33.9   |   13.3   |   42.7  
- QOPM%: |   34.7   |   10.4   |   1.6    |   7.2    |   21.1  
- QNPM%: |   24.8   |   6.0    |   0.0    |   70.7   |   7.8   
- QPFT:  |   4.0    |   1.0    |   -0.7   |   8.9    |   1.4   
- PQoQ%: |  -276.1  |  -75.1   |  -169.3  | -1372.9  |  -84.2  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 18.0		19.4		11.7		12.3		19.1
+QoQ%: 	42.7		8.1		-39.8		4.8		55.9
+QOPM%: 	21.1		11.0		0.0		0.0		26.3
+QNPM%: 	7.8		0.0		0.0		0.0		15.7
+QPFT: 	1.4		-0.2		-2.2		-1.3		3.0
+PQoQ%: 	-84.2		-116.3		869.6		-41.7		-330.8
+
+
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 77% YSales
-- Last 3QPROFIT is about 320% of YProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
-- YProfits and YSales DOUBLED in Mar2022
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 70% YSales
+- Double QSales and QProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-54.10cr, QoQ -17.30% & YoY 36.96% SALES;
-6.70cr, QoQ -36.40% & YoY -245.65% OPERATING PROFIT;
-3.00cr, QoQ -49.40% & YoY -134.09% NET PROFIT;
-OPM %: 12.30% vs 16.1%
-NPM %: 5.60% vs 9.1%
+ 31-Mar-2025 #Result
+61.20cr, QoQ 12.90% & YoY 167.25% SALES;
+7.00cr, QoQ 4.90% & YoY -150.72% OPERATING PROFIT;
+9.40cr, QoQ 212.00% & YoY -161.84% NET PROFIT;
+OPM %: 11.50% vs 12.3%
+NPM %: 15.40% vs 5.6%
 

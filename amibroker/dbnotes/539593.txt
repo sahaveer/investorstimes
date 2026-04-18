@@ -1,15 +1,16 @@
-CODE	NAME
-539593 
-
+CODES	539593	
+FULLNAME : Shivansh Finserve Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Other Financial Services
 PRODUCT DEMAND
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+
+***CONS***

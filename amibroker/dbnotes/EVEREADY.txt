@@ -1,37 +1,44 @@
-CODES
-531508	EVEREADY	
-SECTOR : Dry cells
-INDUSTRY : Dry Cells
+CODES	531508	EVEREADY	
+FULLNAME : Eveready Industries India Ltd
+SECTOR : Household Products
+INDUSTRY : Household Products
 PRODUCT DEMAND
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1249.0  |  1206.8  |  1327.7  |  1314.3  |  1344.5 
- SQoQ%:  |   2.3    |   -3.4   |   10.0   |   -1.0   |   2.3   
- YOPM%:  |   18.0   |   9.9    |   8.3    |   10.7   |   11.3  
- YNPM%:  |   0.0    |   3.9    |   2.1    |   5.1    |   6.1   
-YPROFIT: |  -311.5  |   46.5   |   27.6   |   66.8   |   82.4  
- PQoQ%:  |  -274.7  |  -114.9  |  -40.6   |  141.7   |   23.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  280.9   |  349.4   |  362.6   |  333.5   |  299.0  
- QoQ%:  |   -7.9   |   24.4   |   3.8    |   -8.0   |  -10.3  
- QOPM%: |   9.1    |   14.2   |   13.2   |   8.8    |   8.6   
- QNPM%: |   2.9    |   8.4    |   8.2    |   3.9    |   3.5   
- QPFT:  |   8.0    |   29.4   |   29.6   |   13.1   |   10.4  
- PQoQ%: |   -4.3   |  264.7   |   0.7    |  -55.7   |  -20.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1249.0		1206.8		1327.7		1314.3		1344.5		1128.1
+SQoQ%: 	2.3		-3.4		10.0		-1.0		2.3		83.9
+YOPM%: 	18.0		9.9		8.3		10.7		11.3
+YNPM%: 	0.0		3.9		2.1		5.1		6.1
+YPROFIT: -311.5		46.5		27.6		66.8		82.4		29.7
+PQoQ%: 	-274.7		-114.9		-40.6		141.7		23.5		36.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 333.5		299.0		374.1		386.8		367.2
+QoQ%: 	-8.0		-10.3		25.1		3.4		-5.1
+QOPM%: 	8.8		8.6		14.3		12.7		9.0
+QNPM%: 	3.9		3.5		8.1		0.0		2.0
+QPFT: 	13.1		10.4		30.2		-7.9		7.4
+PQoQ%: 	-55.7		-20.5		190.1		-126.2		-194.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 84% YSales
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 1344.50cr, QoQ 2.30% & YoY 7.65% SALES;
-152.40cr, QoQ 7.80% & YoY -32.33% OPERATING PROFIT;
+152.50cr, QoQ 7.90% & YoY -32.28% OPERATING PROFIT;
 82.40cr, QoQ 23.50% & YoY -126.45% NET PROFIT;
 OPM %: 11.30% vs 10.7%
 NPM %: 6.10% vs 5.1%

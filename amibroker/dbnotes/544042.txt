@@ -1,22 +1,14 @@
-CODES
-544042	BAJEL	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Engineering - Turnkey Services
+CODES	544042	BAJEL	
+FULLNAME : Bajel Projects Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Heavy Electrical Equipment
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
-- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Mar-2025 is at 28.8%. The QPROFIT QoQ_growth by 230.1%
 
-Quarterly 
-31-Mar-2025 #Result
-801.40cr, QoQ 28.80% SALES;
-20.70cr, QoQ 41.70% OPERATING PROFIT;
-4.80cr, QoQ 230.10% NET PROFIT;
-OPM %: 2.60% vs 2.4%
-NPM %: 0.60% vs 0.2%
-
+***CONS***

@@ -1,26 +1,24 @@
-CODES
-EMKAYTOOLS	
-SECTOR : Engineering
-INDUSTRY : Engineering
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+CODES	EMKAYTOOLS	
+FULLNAME : Emkay Taps & Cutting Tools Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
+PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 54.0%
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 16.6% while the Profit QoQ_growth is much better than Sales itself at 62.9%
+- PRODUCT DEMAND is rising since 3 years
+
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-103.30cr, QoQ 16.60% & YoY 104.15% SALES;
-48.10cr, QoQ 10.70% & YoY 135.78% OPERATING PROFIT;
-71.90cr, QoQ 62.90% & YoY 406.34% NET PROFIT;
-OPM %: 46.60% vs 49.1%
-NPM %: 69.60% vs 49.8%
+ 31-Mar-2025 #Result
+41.80cr, QoQ -59.50% & YoY -25.62% SALES;
+-4.20cr, QoQ -108.80% & YoY -118.18% OPERATING PROFIT;
+26.80cr, QoQ -62.70% & YoY 12.61% NET PROFIT;
+OPM %: 0.00% vs 46.7%
+NPM %: 64.10% vs 69.6%
 

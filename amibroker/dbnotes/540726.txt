@@ -1,37 +1,46 @@
-CODE	NAME
-540726 
+CODES	540726	
+FULLNAME : Trident Texofab Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+PRODUCT DEMAND
+BestQ Dec 2025
 
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 49.9		84.3		96.4		99.5		122.1		84.4
+SQoQ%: 	-45.1		68.9		14.3		3.2		22.7		69.1
+YOPM%: 	5.8		5.7		8.5		7.9		6.0
+YNPM%: 	0.7		1.2		2.3		1.1		2.1
+YPROFIT: 0.4		1.0		2.2		1.1		2.5		2.7
+PQoQ%: 	-61.1		180.0		126.5		-51.4		132.4		108.0
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   91.0   |   49.9   |   84.3   |   96.4   |   99.5   |      83.8    
- SQoQ%:  |   4.7    |  -45.1   |   68.9   |   14.3   |   3.2    |      84.2    
- YOPM%:  |   5.3    |   5.8    |   5.7    |   8.5    |   7.9    |              
- YNPM%:  |   1.0    |   0.7    |   1.2    |   2.3    |   1.1    |              
-YPROFIT: |   0.9    |   0.4    |   1.0    |   2.2    |   1.1    |      2.0     
- PQoQ%:  |  -29.1   |  -61.1   |  180.0   |  126.5   |  -51.4   |     181.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   23.0   |   30.2   |   25.7   |   26.4   |   31.7  
- QoQ%:  |   -0.8   |   31.1   |  -14.8   |   2.9    |   19.8  
- QOPM%: |   8.3    |   3.4    |   5.9    |   0.0    |   7.3   
- QNPM%: |   2.4    |   0.0    |   2.7    |   3.8    |   0.9   
- QPFT:  |   0.6    |   -0.1   |   0.7    |   1.0    |   0.3   
- PQoQ%: |  -25.3   |  -117.9  |  -800.0  |   42.9   |  -70.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 31.7		38.2		28.1		30.6		25.7
+QoQ%: 	19.8		20.6		-26.5		9.1		-16.0
+QOPM%: 	7.3		3.5		7.4		8.1		6.4
+QNPM%: 	0.9		1.3		3.6		3.7		2.2
+QPFT: 	0.3		0.5		1.0		1.1		0.6
+PQoQ%: 	-70.0		70.0		100.0		10.8		-49.6
+
+
 
 ***PROS***
-- Last 3QSALES is about 84% YSales
-- Last 3QPROFIT is about 182% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 69% YSales
+- Last 3QPROFIT is about 108% of YProfit
+
+YSALES in Mar-2025 is at 122.1 showing a QoQ_growth of 22.7%. The YNETPROFIT grew by 132.4% to 2.5
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-99.50cr, QoQ 3.20% & YoY 9.34% SALES;
-7.90cr, QoQ -3.80% & YoY 64.58% OPERATING PROFIT;
-1.10cr, QoQ -51.40% & YoY 22.22% NET PROFIT;
-OPM %: 7.90% vs 8.5%
-NPM %: 1.10% vs 2.3%
+ 31-Mar-2025 #Result
+122.10cr, QoQ 22.70% & YoY 144.69% SALES;
+7.30cr, QoQ -7.00% & YoY 151.72% OPERATING PROFIT;
+2.50cr, QoQ 132.40% & YoY 525.00% NET PROFIT;
+OPM %: 6.00% vs 7.9%
+NPM %: 2.10% vs 1.1%
 

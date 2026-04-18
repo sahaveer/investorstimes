@@ -1,26 +1,31 @@
-CODE	NAME
-543376 
-
+CODES	543376	
+FULLNAME : Samor Reality Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 9.6		17.3		12.4		0.1		0.0		0.0
+SQoQ%: 	809.4		79.7		-28.3		-99.5		-100.0		nan
+YOPM%: 	1.5		0.6		0.7		1133.3		inf
+YNPM%: 	1.0		0.6		0.0		0.0		0.0
+YPROFIT: 0.1		0.1		-0.2		-0.3		-0.6		-0.3
+PQoQ%: 	-211.1		10.0		-309.1		30.4		110.0		50.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	inf		inf		inf		inf		inf
+QNPM%: 	0.0		0.0		0.0		0.0		inf
+QPFT: 	-0.1		-0.5		-0.2		-0.2		0.1
+PQoQ%: 	-73.1		557.1		-67.4		33.3		-150.0
+
+
+
+***PROS***
 
 ***CONS***
 - NEGATIVE YProfit : -0.6
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   9.6    |   17.3   |   12.4   |   0.1    |   0.0   
- SQoQ%:  |  809.4   |   79.7   |  -28.3   |  -99.5   |  -100.0 
- YOPM%:  |   1.5    |   0.6    |   0.7    |  1133.3  |   inf   
- YNPM%:  |   1.0    |   0.6    |   0.0    |   0.0    |   0.0   
-YPROFIT: |   0.1    |   0.1    |   -0.2   |   -0.3   |   -0.6  
- PQoQ%:  |  -211.1  |   10.0   |  -309.1  |   30.4   |  110.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   inf    |   inf    |   inf    |   inf    |   inf   
- QNPM%: |   inf    |   inf    |   0.0    |   0.0    |   0.0   
- QPFT:  |   0.1    |   0.2    |   -0.3   |   -0.1   |   -0.5  
- PQoQ%: |  -150.0  |  166.7   |  -262.5  |  -73.1   |  557.1  
-
-***PROS***

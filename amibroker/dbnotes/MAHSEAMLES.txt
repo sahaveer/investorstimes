@@ -1,44 +1,47 @@
-CODES
-500265	MAHSEAMLES	
-SECTOR : Steel
-INDUSTRY : Steel - Large
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	500265	MAHSEAMLES	
+FULLNAME : Maharashtra Seamless Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  2616.8  |  2225.1  |  3974.6  |  5707.1  |  5403.1  |     3850.0   
- SQoQ%:  |  -13.9   |  -15.0   |   78.6   |   43.6   |   -5.3   |      71.3    
- YOPM%:  |   21.1   |   20.1   |   15.2   |   18.2   |   22.6   |              
- YNPM%:  |   0.0    |   6.4    |   17.9   |   13.9   |   18.0   |              
-YPROFIT: |  -20.7   |  141.6   |  711.4   |  793.0   |  974.9   |     550.4    
- PQoQ%:  |  -107.9  |  -784.7  |  402.5   |   11.5   |   22.9   |      56.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  1430.4  |  1214.8  |  1150.8  |  1291.2  |  1408.0 
- QoQ%:  |   -6.8   |  -15.1   |   -5.3   |   12.2   |   9.0   
- QOPM%: |   25.8   |   22.7   |   10.9   |   17.9   |   19.9  
- QNPM%: |   19.6   |   18.4   |   11.8   |   17.4   |   13.5  
- QPFT:  |  280.3   |  223.3   |  136.0   |  224.2   |  190.2  
- PQoQ%: |   9.7    |  -20.3   |  -39.1   |   64.9   |  -15.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2308.3		4210.8		5716.4		5404.1		5268.7		3394.3
+SQoQ%: 	-12.7		82.4		35.8		-5.5		-2.5		64.4
+YOPM%: 	19.1		13.8		17.7		22.2		17.2
+YNPM%: 	4.2		16.4		13.4		17.6		14.8
+YPROFIT: 98.0		691.7		764.8		951.3		777.5		598.5
+PQoQ%: 	16.9		605.5		10.6		24.4		-18.3		77.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1408.1		1417.8		1145.3		1158.7		1090.3
+QoQ%: 	9.0		0.7		-19.2		1.2		-5.9
+QOPM%: 	19.6		20.1		14.4		10.3		13.7
+QNPM%: 	13.2		17.1		20.1		10.8		22.3
+QPFT: 	186.1		242.0		230.3		125.3		242.9
+PQoQ%: 	-15.5		30.1		-4.8		-45.6		93.9
+
+
 
 ***PROS***
-A DEBT-Free Company
-- PRODUCT DEMAND is rising since 3 years
+A DEBT-Free Company for the last 2 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 23.3%
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 71% YSales
-- Last 3QPROFIT is about 56% of YProfit
-- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+ROCE in Mar2025 is at 17.0%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  have increased this year
+- Last 3QSALES is about 64% YSales
+- Last 3QPROFIT is about 77% of YProfit
+
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-5403.10cr, QoQ -5.30% & YoY 106.48% SALES;
-1223.10cr, QoQ 17.80% & YoY 121.82% OPERATING PROFIT;
-974.90cr, QoQ 22.90% & YoY -4809.66% NET PROFIT;
-OPM %: 22.60% vs 18.2%
-NPM %: 18.00% vs 13.9%
+ 31-Mar-2025 #Result
+5268.70cr, QoQ -2.50% & YoY 128.25% SALES;
+907.70cr, QoQ -24.30% & YoY 105.87% OPERATING PROFIT;
+777.50cr, QoQ -18.30% & YoY 693.37% NET PROFIT;
+OPM %: 17.20% vs 22.2%
+NPM %: 14.80% vs 17.6%
 

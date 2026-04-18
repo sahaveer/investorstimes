@@ -1,38 +1,41 @@
-CODE	NAME
-540796 
+CODES	540796	
+FULLNAME : Ratnabhumi Developers Ltd
+SECTOR : Realty
+INDUSTRY : Residential, Commercial Projects
+YSD YPD 2025
 
-SECTOR : Construction
-INDUSTRY : Construction
-EXPANSION 2023
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 4.1		-1.1		-11.8		-7.9		209.4		46.5
+SQoQ%: 	318.6		-126.6		994.4		-33.1		-2747.9		22.2
+YOPM%: 	24.6		-212.0		-58.7		-196.7		9.5
+YNPM%: 	20.2		-15.7		-1.9		-3.3		2.7
+YPROFIT: 0.8		0.2		0.2		0.3		5.7		2.8
+PQoQ%: 	127.8		-79.3		35.3		13.0		2103.8		49.1
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.0    |   4.1    |   -1.1   |  -11.8   |   -7.9   |     178.9    
- SQoQ%:  |   nan    |  318.6   |  -126.6  |  994.4   |  -33.1   |    -2264.6   
- YOPM%:  |   61.9   |   24.6   |  -212.0  |  -58.7   |  -196.7  |              
- YNPM%:  |   37.1   |   20.2   |  -15.7   |   -1.9   |   -3.3   |              
-YPROFIT: |   0.4    |   0.8    |   0.2    |   0.2    |   0.3    |      3.1     
- PQoQ%:  |   nan    |  127.8   |  -79.3   |   35.3   |   13.0   |     1033.3   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.2    |   0.1    |   51.9   |   80.5   |   46.5  
- QoQ%:  |   9.1    |  -50.0   | 43141.7  |   55.1   |  -42.2  
- QOPM%: |  1745.8  |  4316.7  |   11.0   |   5.8    |   7.7   
- QNPM%: |   8.3    |  150.0   |   3.9    |   0.6    |   1.3   
- QPFT:  |   0.0    |   0.2    |   2.0    |   0.5    |   0.6   
- PQoQ%: |  -66.7   |  800.0   |  1011.1  |  -74.0   |   13.5  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 46.5		34.6		28.5		10.1		7.9
+QoQ%: 	-42.2		-25.7		-17.6		-64.5		-22.0
+QOPM%: 	7.7		17.5		19.9		45.3		53.7
+QNPM%: 	1.3		7.6		7.0		2.5		7.7
+QPFT: 	0.6		2.6		2.0		0.2		0.6
+PQoQ%: 	13.5		345.8		-24.0		-87.5		144.0
+
+
 
 ***PROS***
-EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
-- Last 3QPROFIT is about 1033% of YProfit
+- YProfits and YSales DOUBLED in Mar2025
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
--7.90cr, QoQ -33.10% & YoY -890.00% SALES;
-15.60cr, QoQ 124.20% & YoY 2500.00% OPERATING PROFIT;
-0.30cr, QoQ 13.00% & YoY -25.00% NET PROFIT;
-OPM %: -196.70% vs -58.7%
-NPM %: -3.30% vs -1.9%
+ 31-Mar-2025 #Result
+209.40cr, QoQ -2747.90% & YoY 5007.32% SALES;
+20.00cr, QoQ 28.20% & YoY 1900.00% OPERATING PROFIT;
+5.70cr, QoQ 2103.80% & YoY 612.50% NET PROFIT;
+OPM %: 9.50% vs -196.7%
+NPM %: 2.70% vs -3.3%
 

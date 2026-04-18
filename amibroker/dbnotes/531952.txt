@@ -1,38 +1,44 @@
-CODE	NAME
-531952 
+CODES	531952	
+FULLNAME : Riba Textiles Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+PRODUCT DEMAND
+BestQ Dec 2025
 
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 189.8		234.6		242.7		246.9		295.9		182.2
+SQoQ%: 	7.2		23.6		3.4		1.7		19.8		61.6
+YOPM%: 	8.0		6.5		7.6		8.0		7.7
+YNPM%: 	3.1		2.1		3.0		3.2		2.9
+YPROFIT: 5.9		4.9		7.4		7.9		8.5		4.8
+PQoQ%: 	-12.6		-16.8		51.3		7.0		7.3		56.5
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  177.0   |  189.8   |  234.6   |  242.7   |  246.9   |     213.5    
- SQoQ%:  |  -10.1   |   7.2    |   23.6   |   3.4    |   1.7    |      86.5    
- YOPM%:  |   9.0    |   8.0    |   6.5    |   7.6    |   8.0    |              
- YNPM%:  |   3.8    |   3.1    |   2.1    |   3.0    |   3.2    |              
-YPROFIT: |   6.7    |   5.9    |   4.9    |   7.4    |   7.9    |      6.0     
- PQoQ%:  |  -18.0   |  -12.6   |  -16.8   |   51.3   |   7.0    |      75.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   56.4   |   74.0   |   60.7   |   77.1   |   75.7  
- QoQ%:  |  -13.4   |   31.4   |  -18.0   |   27.1   |   -1.9  
- QOPM%: |   8.9    |   7.3    |   6.5    |   8.6    |   9.0   
- QNPM%: |   3.3    |   3.2    |   1.9    |   3.8    |   2.7   
- QPFT:  |   1.8    |   2.3    |   1.1    |   2.9    |   2.0   
- PQoQ%: |  -30.7   |   26.5   |  -51.7   |  160.2   |  -30.3  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 75.7		82.3		50.2		69.0		63.0
+QoQ%: 	-1.9		8.8		-39.0		37.4		-8.7
+QOPM%: 	9.0		5.9		6.6		10.0		8.3
+QNPM%: 	2.7		2.9		1.4		4.2		1.9
+QPFT: 	2.0		2.4		0.7		2.9		1.2
+PQoQ%: 	-30.3		16.1		-69.7		304.2		-59.5
+
+
 
 ***PROS***
-- Last 3QSALES is about 86% YSales
-- Last 3QPROFIT is about 76% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 62% YSales
+- Last 3QPROFIT is about 56% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-246.90cr, QoQ 1.70% & YoY 39.49% SALES;
-19.70cr, QoQ 6.40% & YoY 23.90% OPERATING PROFIT;
-7.90cr, QoQ 7.00% & YoY 17.91% NET PROFIT;
-OPM %: 8.00% vs 7.6%
-NPM %: 3.20% vs 3.0%
+ 31-Mar-2025 #Result
+295.90cr, QoQ 19.80% & YoY 55.90% SALES;
+22.70cr, QoQ 14.90% & YoY 49.34% OPERATING PROFIT;
+8.50cr, QoQ 7.30% & YoY 44.07% NET PROFIT;
+OPM %: 7.70% vs 8.0%
+NPM %: 2.90% vs 3.2%
 

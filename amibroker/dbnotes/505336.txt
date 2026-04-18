@@ -1,47 +1,50 @@
-CODE	NAME
-505336 
-
-SECTOR : Trading
-INDUSTRY : Trading
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	505336	
+FULLNAME : Harshil Agrotech Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
+YSD YPD 2025
 YSD YPD 2023
-LYPD PM 2024
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   0.0    |   0.2    |   3.8    |   12.9   |      61.1    
- SQoQ%:  |  -87.9   |  -100.0  |   inf    |  2300.0  |  236.7   |     473.6    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   16.9   |   7.7    |              
- YNPM%:  |   0.0    |   inf    |   0.0    |   14.1   |   6.2    |              
-YPROFIT: |   -0.4   |   0.8    |   -0.2   |   0.5    |   0.8    |      11.2    
- PQoQ%:  |   45.8   |  -342.9  |  -124.7  |  -357.1  |   48.1   |     1400.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   3.2    |   3.3    |   11.4   |   24.0   |   25.7  
- QoQ%:  |   10.1   |   5.1    |  242.5   |  111.5   |   7.0   
- QOPM%: |   7.3    |   0.3    |   10.5   |   20.7   |   20.8  
- QNPM%: |   6.3    |   1.5    |   7.9    |   20.0   |   21.3  
- QPFT:  |   0.2    |   0.0    |   0.9    |   4.8    |   5.5   
- PQoQ%: |   25.0   |  -75.0   |  1700.0  |  433.3   |   14.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		0.2		3.8		12.9		63.5		109.4
+SQoQ%: 	-100.0		inf		2300.0		236.7		391.3		172.3
+YOPM%: 	0.0		0.0		16.9		7.7		17.3
+YNPM%: 	inf		0.0		14.1		6.2		16.4
+YPROFIT: 0.8		-0.2		0.5		0.8		10.4		-1.8
+PQoQ%: 	-342.9		-124.7		-357.1		48.1		1198.8		-17.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 25.7		2.4		59.9		42.3		7.2
+QoQ%: 	7.0		-90.8		2416.4		-29.4		-82.9
+QOPM%: 	20.8		0.0		14.7		0.0		0.0
+QNPM%: 	21.3		0.0		10.9		0.0		0.0
+QPFT: 	5.5		-0.8		6.5		-2.9		-5.4
+PQoQ%: 	14.2		-114.2		-937.2		-144.6		84.2
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  have increased this year
-- Last 3QSALES is about 474% YSales
-- Last 3QPROFIT is about 1400% of YProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+A DEBT-Free Company
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.6
+- Last 3QSALES is about 172% YSales
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2025
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 391.3% while the Profit QoQ_growth is much better than Sales itself at 1198.8%
 
-YSALES in Mar-2024 is at 12.9 showing a QoQ_growth of 236.7%. The YNETPROFIT grew by 48.1% to 0.8
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-12.90cr, QoQ 236.70% & YoY inf% SALES;
-1.00cr, QoQ 52.30% & YoY -350.00% OPERATING PROFIT;
-0.80cr, QoQ 48.10% & YoY -300.00% NET PROFIT;
-OPM %: 7.70% vs 16.9%
-NPM %: 6.20% vs 14.1%
+ 31-Mar-2025 #Result
+63.50cr, QoQ 391.30% & YoY inf% SALES;
+11.00cr, QoQ 1007.10% & YoY -1933.33% OPERATING PROFIT;
+10.40cr, QoQ 1198.80% & YoY 1200.00% NET PROFIT;
+OPM %: 17.30% vs 7.7%
+NPM %: 16.40% vs 6.2%
 

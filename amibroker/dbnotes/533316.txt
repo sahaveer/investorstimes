@@ -1,32 +1,43 @@
-CODES
-533316	STEL	
+CODES	533316	STEL	
+FULLNAME : STEL Holdings Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Investment Company
+BestQ Dec 2025
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   12.3   |   20.1   |   17.2   |   18.5   |   21.9  
- SQoQ%:  |  -24.5   |   63.5   |  -14.5   |   7.6    |   18.7  
- YOPM%:  |   95.9   |   97.1   |   96.0   |   96.5   |   97.1  
- YNPM%:  |   70.5   |   72.8   |   71.4   |   71.9   |   72.4  
-YPROFIT: |   8.6    |   14.6   |   12.3   |   13.3   |   15.9  
- PQoQ%:  |  -43.0   |   68.9   |  -16.1   |   8.2    |   19.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   13.5   |   0.4    |   7.8    |   0.3    |   13.4  
- QoQ%:  |  4393.3  |  -97.1   |  1894.9  |  -96.1   |  4380.0 
- QOPM%: |   98.9   |   35.9   |   98.3   |   46.7   |   99.3  
- QNPM%: |   73.9   |   23.1   |   73.5   |   30.0   |   74.3  
- QPFT:  |   10.0   |   0.1    |   5.7    |   0.1    |   10.0  
- PQoQ%: |  9860.0  |  -99.1   |  6255.6  |  -98.4   | 10988.9 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 12.3		20.1		17.2		18.5		21.9		27.0
+SQoQ%: 	-24.5		63.5		-14.5		7.6		18.7		123.3
+YOPM%: 	95.9		97.1		96.0		96.5		97.1
+YNPM%: 	70.5		72.8		71.4		71.9		72.4
+YPROFIT: 8.6		14.6		12.3		13.3		15.9		19.6
+PQoQ%: 	-43.0		68.9		-16.1		8.2		19.6		123.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.3		13.4		0.5		9.3		17.2
+QoQ%: 	-96.1		4380.0		-96.5		1872.3		85.5
+QOPM%: 	46.7		99.3		51.1		98.0		99.2
+QNPM%: 	30.0		74.3		74.5		71.7		73.1
+QPFT: 	0.1		10.0		0.4		6.6		12.6
+PQoQ%: 	-98.4		10988.9		-96.5		1800.0		89.2
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 123% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 123% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 
 YSALES in Mar-2025 is at 21.9 showing a QoQ_growth of 18.7%. The YNETPROFIT grew by 19.6% to 15.9
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

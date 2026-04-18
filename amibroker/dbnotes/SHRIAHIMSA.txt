@@ -1,12 +1,10 @@
-CODES
-SHRIAHIMSA	
+CODES	SHRIAHIMSA	
+FULLNAME : Shri Ahimsa Naturals Ltd
 SECTOR : Chemicals
 INDUSTRY : Chemicals
 YSD YPD 2022
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
@@ -14,6 +12,9 @@ YSD YPD 2022
 ROCE in Mar2024 is at 25.6%
 - YProfits and YSales DOUBLED in Mar2022
 
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

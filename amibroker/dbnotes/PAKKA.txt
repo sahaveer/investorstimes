@@ -1,12 +1,25 @@
-CODES
-516030	PAKKA	
-SECTOR : Paper
-INDUSTRY : Paper
+CODES	516030	PAKKA	
+FULLNAME : Pakka Ltd
+SECTOR : Paper, Forest & Jute Products
+INDUSTRY : Paper & Paper Products
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- Last 3QSALES is about 63% YSales
+
+***CONS***
+- NO PRODUCT DEMAND
+
+Yearly 
+ 31-Mar-2025 #Result
+406.00cr, QoQ 0.30% SALES;
+62.40cr, QoQ -21.40% OPERATING PROFIT;
+37.50cr, QoQ -8.10% NET PROFIT;
+OPM %: 15.40% vs 19.6%
+NPM %: 9.20% vs 10.1%
+

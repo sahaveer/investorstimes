@@ -1,28 +1,14 @@
-CODES
-SOLEX	
-SECTOR : Capital Goods - Electrical Equipment
-INDUSTRY : Electric Equipment
-YSD YPD 2024
-YSD YPD 2023
-LYPD PM 2025
-YS15 YPD 2025
+CODES	SOLEX	
+FULLNAME : Solex Energy Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Heavy Electrical Equipment
 
-***CONS***
+***YEARLY***
 
+
+***QUARTERLY***
 
 
 ***PROS***
-- YProfits and YSales DOUBLED in Mar2024
-- YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2025
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
-As on Mar2025, Sales have increased by 80.4% while the Profit QoQ_growth is much better than Sales itself at 353.6%
 
-Yearly 
- 31-Mar-2025 #Result
-660.00cr, QoQ 80.40% & YoY 729.15% SALES;
-68.90cr, QoQ 142.30% & YoY 1987.88% OPERATING PROFIT;
-39.60cr, QoQ 353.60% & YoY 2229.41% NET PROFIT;
-OPM %: 10.40% vs 7.8%
-NPM %: 6.00% vs 2.4%
-
+***CONS***

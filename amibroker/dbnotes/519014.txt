@@ -1,27 +1,33 @@
-CODE	NAME
-519014 
+CODES	519014	
+FULLNAME : Prashant India Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 
-SECTOR : Diversified
-INDUSTRY : Diversified - Medium / Small
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.8		1.0		1.0		0.3		0.1		0.1
+SQoQ%: 	-48.7		28.4		-4.8		-69.7		-63.3		100.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: 0.0		-0.2		-0.2		-0.4		-0.2		7.2
+PQoQ%: 	-100.0		-inf		50.0		50.0		-44.4		-3600.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.1		0.1		0.0		0.0
+QoQ%: 	-58.3		60.0		-12.5		-85.7		0.0
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		100300.0		0.0
+QPFT: 	-0.1		-0.0		-0.1		10.0		-2.7
+PQoQ%: 	-400.0		-66.7		133.3		-14428.6		-126.6
+
+
+
+***PROS***
+- Last 3QSALES is about 100% YSales
 
 ***CONS***
 - NO PRODUCT DEMAND
-- NEGATIVE YProfit : -0.4
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.6    |   0.8    |   1.0    |   1.0    |   0.3    |      0.1     
- SQoQ%:  |   50.5   |  -48.7   |   28.4   |   -4.8   |  -69.7   |      33.3    
- YOPM%:  |   4.4    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   7.6    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   0.1    |   0.0    |   -0.2   |   -0.2   |   -0.4   |      -0.2    
- PQoQ%:  |  -89.2   |  -100.0  |   -inf   |   50.0   |   50.0   |      50.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.1    |   0.1    |   0.0    |   0.1    |   0.0   
- QoQ%:  |  -22.2   |   42.9   |  -50.0   |  140.0   |  -58.3  
- QOPM%: |   0.0    |   0.0    |   0.0    |   41.7   |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   25.0   |   0.0   
- QPFT:  |   -0.0   |   -0.1   |   -0.1   |   0.0    |   -0.1  
- PQoQ%: |  -60.0   |  550.0   |  -15.4   |  -127.3  |  -400.0 
-
-***PROS***
+- NEGATIVE YProfit : -0.2

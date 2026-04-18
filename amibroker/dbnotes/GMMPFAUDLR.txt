@@ -1,36 +1,45 @@
-CODES
-505255	GMMPFAUDLR	
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
+CODES	505255	GMMPFAUDLR	
+FULLNAME : GMM Pfaudler Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1001.1  |  2540.6  |  3177.6  |  3446.5  |  3198.7 
- SQoQ%:  |   69.4   |  153.8   |   25.1   |   8.5    |   -7.2  
- YOPM%:  |   13.9   |   11.2   |   13.5   |   13.8   |   11.3  
- YNPM%:  |   7.3    |   3.3    |   5.1    |   5.2    |   1.7   
-YPROFIT: |   73.4   |   85.0   |  163.5   |  178.9   |   53.0  
- PQoQ%:  |   3.2    |   15.8   |   92.2   |   9.4    |  -70.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  740.7   |  785.2   |  805.4   |  801.5   |  806.6  
- QoQ%:  |  -13.5   |   6.0    |   2.6    |   -0.5   |   0.6   
- QOPM%: |   12.1   |   11.3   |   11.6   |   12.0   |   10.3  
- QNPM%: |   3.7    |   3.2    |   1.9    |   5.2    |   0.0   
- QPFT:  |   27.6   |   25.3   |   15.2   |   41.5   |  -27.0  
- PQoQ%: |   -4.4   |   -8.6   |  -39.7   |  172.5   |  -165.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1001.1		2540.6		3177.6		3446.5		3198.7		2580.4
+SQoQ%: 	69.4		153.8		25.1		8.5		-7.2		80.7
+YOPM%: 	13.9		11.2		13.5		13.8		11.3
+YNPM%: 	7.3		3.3		5.1		5.1		1.7
+YPROFIT: 73.4		85.0		163.5		175.5		53.0		44.6
+PQoQ%: 	3.2		15.8		92.2		7.3		-69.8		84.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 801.5		806.6		794.6		902.3		883.5
+QoQ%: 	-0.5		0.6		-1.5		13.6		-2.1
+QOPM%: 	12.0		10.3		12.7		13.5		11.9
+QNPM%: 	5.2		0.0		1.4		4.6		0.0
+QPFT: 	41.5		-27.0		11.2		41.4		-8.0
+PQoQ%: 	172.5		-165.0		-141.4		271.6		-119.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 84% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 3198.70cr, QoQ -7.20% & YoY 219.52% SALES;
-361.10cr, QoQ -24.30% & YoY 159.97% OPERATING PROFIT;
-53.00cr, QoQ -70.40% & YoY -27.79% NET PROFIT;
+361.10cr, QoQ -24.10% & YoY 159.97% OPERATING PROFIT;
+53.00cr, QoQ -69.80% & YoY -27.79% NET PROFIT;
 OPM %: 11.30% vs 13.8%
-NPM %: 1.70% vs 5.2%
+NPM %: 1.70% vs 5.1%
 

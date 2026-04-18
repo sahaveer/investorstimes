@@ -1,33 +1,42 @@
-CODES
-532369	RAMCOIND	
-SECTOR : Cement - Products
-INDUSTRY : Cement Products
+CODES	532369	RAMCOIND	
+FULLNAME : Ramco Industries Ltd
+SECTOR : Other Construction Materials
+INDUSTRY : Other Construction Materials
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1209.4		1459.8		1457.5		1501.3		1658.7		1280.9
+SQoQ%: 	24.2		20.7		-0.2		3.0		10.5		77.2
+YOPM%: 	16.1		15.5		10.5		10.4		10.8
+YNPM%: 	23.0		20.7		8.5		7.0		10.9
+YPROFIT: 278.8		302.8		124.0		105.7		180.9		218.6
+PQoQ%: 	64.4		8.6		-59.1		-14.8		71.1		120.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 343.7		418.7		526.8		365.5		388.6
+QoQ%: 	-2.7		21.8		25.8		-30.6		6.3
+QOPM%: 	10.8		10.5		12.9		14.3		12.1
+QNPM%: 	25.9		8.5		12.5		11.2		28.8
+QPFT: 	88.9		35.7		65.6		40.9		112.1
+PQoQ%: 	426.6		-59.8		83.8		-37.6		173.8
+
+
+
+***PROS***
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 121% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1209.4  |  1459.8  |  1457.5  |  1501.3  |  1658.7 
- SQoQ%:  |   24.2   |   20.7   |   -0.2   |   3.0    |   10.5  
- YOPM%:  |   16.1   |   15.5   |   10.5   |   10.4   |   10.8  
- YNPM%:  |   23.0   |   20.7   |   8.5    |   7.0    |   10.9  
-YPROFIT: |  278.8   |  302.8   |  124.0   |  105.7   |  180.9  
- PQoQ%:  |   64.4   |   8.6    |  -59.1   |  -14.8   |   71.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  364.9   |  543.2   |  353.2   |  343.7   |  418.7  
- QoQ%:  |   9.4    |   48.8   |  -35.0   |   -2.7   |   21.8  
- QOPM%: |   10.9   |   10.5   |   11.7   |   10.8   |   10.5  
- QNPM%: |   12.0   |   7.3    |   4.8    |   25.9   |   8.5   
- QPFT:  |   43.8   |   39.4   |   16.9   |   88.9   |   35.7  
- PQoQ%: |   66.1   |  -10.0   |  -57.2   |  426.6   |  -59.8  
-
-***PROS***
 
 Yearly 
  31-Mar-2025 #Result
 1658.70cr, QoQ 10.50% & YoY 37.15% SALES;
-179.20cr, QoQ 14.40% & YoY -8.10% OPERATING PROFIT;
+179.50cr, QoQ 14.50% & YoY -7.95% OPERATING PROFIT;
 180.90cr, QoQ 71.10% & YoY -35.11% NET PROFIT;
 OPM %: 10.80% vs 10.4%
 NPM %: 10.90% vs 7.0%

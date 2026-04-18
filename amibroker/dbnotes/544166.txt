@@ -1,11 +1,11 @@
-CODE	NAME
-544166 
-
+CODES	544166	
+FULLNAME : Emmforce Autotech Ltd
 SECTOR : Auto Ancillaries
 INDUSTRY : Auto Ancillaries
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

@@ -1,47 +1,48 @@
-CODE	NAME
-523558 
-
-SECTOR : Trading
-INDUSTRY : Trading
-BestQ Dec 2024
+CODES	523558	
+FULLNAME : Swiss Military Consumer Goods Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Diversified consumer products
+EXPANSION 2025
+BestQ Dec 2025
 YSD YPD 2023
-LYPD PM 2024
+
+***YEARLY***
+YPNL: 	Mar-2010	Mar-2011	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.0		1.5		130.0		187.9		218.3		194.9
+SQoQ%: 	-57.4		50.5		8452.6		44.6		16.2		89.3
+YOPM%: 	0.0		0.0		5.5		5.2		5.0
+YNPM%: 	0.0		0.0		4.8		4.4		4.0
+YPROFIT: -0.5		-1.5		6.2		8.4		8.8		6.2
+PQoQ%: 	-82.4		202.0		-517.6		35.1		5.0		70.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 57.2		59.1		55.5		67.2		72.2
+QoQ%: 	3.0		3.3		-6.1		21.0		7.5
+QOPM%: 	4.7		5.6		4.8		4.6		4.2
+QNPM%: 	4.1		4.9		3.5		3.4		2.8
+QPFT: 	2.3		2.9		1.9		2.3		2.0
+PQoQ%: 	26.6		23.2		-32.8		17.1		-11.5
+
+
+
+***PROS***
+EXPANSION ??- EXPANSION underway in Mar-2025, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+- Last 3QSALES is about 89% YSales
+- Last 3QPROFIT is about 70% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2023
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Jun-2009 | Mar-2010 | Mar-2011 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   2.4    |   1.0    |   1.5    |  130.0   |  191.8   |     159.2    
- SQoQ%:  |   -7.1   |  -57.4   |   50.5   |  8452.6  |   47.5   |      83.0    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   5.5    |   5.1    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   4.8    |   4.4    |              
-YPROFIT: |   -2.8   |   -0.5   |   -1.5   |   6.2    |   8.4    |      5.8     
- PQoQ%:  |   43.1   |  -82.4   |  202.0   |  -517.6  |   35.1   |      69.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   49.7   |   54.1   |   46.4   |   55.6   |   57.2  
- QoQ%:  |   14.2   |   8.7    |  -14.2   |   19.8   |   3.0   
- QOPM%: |   5.7    |   5.3    |   4.8    |   4.9    |   4.7   
- QNPM%: |   4.7    |   4.4    |   3.7    |   3.3    |   4.1   
- QPFT:  |   2.3    |   2.4    |   1.7    |   1.8    |   2.3   
- PQoQ%: |   20.7   |   1.7    |  -27.0   |   6.4    |   26.6  
-
-***PROS***
-DEBT-Free Company for the last 3 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.2
-- Last 3QSALES is about 83% YSales
-- Last 3QPROFIT is about 69% of YProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
-- YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
-
-YSALES in Mar-2024 is at 191.8 showing a QoQ_growth of 47.5%. The YNETPROFIT grew by 35.1% to 8.4
 
 Yearly 
- 31-Mar-2024 #Result
-191.80cr, QoQ 47.50% & YoY 7891.67% SALES;
-9.80cr, QoQ 36.50% & YoY -372.22% OPERATING PROFIT;
-8.40cr, QoQ 35.10% & YoY -400.00% NET PROFIT;
-OPM %: 5.10% vs 5.5%
-NPM %: 4.40% vs 4.8%
+ 31-Mar-2025 #Result
+218.30cr, QoQ 16.20% & YoY 21730.00% SALES;
+10.90cr, QoQ 11.30% & YoY -3733.33% OPERATING PROFIT;
+8.80cr, QoQ 5.00% & YoY -1860.00% NET PROFIT;
+OPM %: 5.00% vs 5.2%
+NPM %: 4.00% vs 4.4%
 

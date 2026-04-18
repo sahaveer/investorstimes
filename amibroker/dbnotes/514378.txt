@@ -1,14 +1,15 @@
-CODE	NAME
-514378 
+CODES	514378	
+FULLNAME : Yarn Syndicate Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
-- YProfit Turned POSITIVE this year Mar-2024 : 0.8
+
+***CONS***
+- NEGATIVE YProfit : -1.1

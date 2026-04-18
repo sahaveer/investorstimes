@@ -1,38 +1,44 @@
-CODES
-UNIVASTU	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	UNIVASTU	
+FULLNAME : Univastu India Ltd
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  110.6   |   51.2   |   58.7   |   87.0   |  120.5   |     112.5    
- SQoQ%:  |   9.6    |  -53.7   |   14.6   |   48.0   |   38.6   |      93.4    
- YOPM%:  |   9.8    |   41.9   |   22.3   |   17.0   |   16.2   |              
- YNPM%:  |   3.9    |   18.7   |   8.9    |   7.6    |   5.9    |              
-YPROFIT: |   4.3    |   9.6    |   5.2    |   6.6    |   7.1    |      7.6     
- PQoQ%:  |   -4.4   |  121.8   |  -45.3   |   26.5   |   6.9    |     107.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   29.9   |   39.2   |   28.1   |   42.4   |   42.0  
- QoQ%:  |   22.0   |   31.1   |  -28.5   |   51.0   |   -0.9  
- QOPM%: |   15.8   |   21.3   |   15.1   |   20.0   |   18.4  
- QNPM%: |   5.2    |   8.3    |   5.3    |   7.3    |   7.2   
- QPFT:  |   1.6    |   3.3    |   1.5    |   3.1    |   3.0   
- PQoQ%: |   4.7    |  109.6   |  -54.7   |  108.1   |   -1.6  
+PRODUCT DEMAND
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 51.2		58.7		87.0		120.5		171.2
+SQoQ%: 	-53.7		14.6		48.0		38.6		42.1
+YOPM%: 	41.9		22.3		17.0		16.2		16.5
+YNPM%: 	18.7		8.9		7.6		5.9		6.1
+YPROFIT: 9.6		5.2		6.6		7.1		10.5
+PQoQ%: 	121.8		-45.3		26.5		6.9		47.7
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2024	Jun-2024	Sep-2024	Dec-2024	Mar-2025
+QSALES: 39.2		28.1		42.4		42.0		39.9
+QoQ%: 	31.1		-28.5		51.0		-0.9		-5.0
+QOPM%: 	21.3		15.1		20.0		18.4		19.4
+QNPM%: 	8.3		5.3		7.3		7.2		7.0
+QPFT: 	3.3		1.5		3.1		3.0		2.8
+PQoQ%: 	109.6		-54.7		108.1		-1.6		-7.6
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 93% YSales
-- Last 3QPROFIT is about 107% of YProfit
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 16.5%
+
+YSALES in Mar-2025 is at 171.2 showing a QoQ_growth of 42.1%. The YNETPROFIT grew by 47.7% to 10.5
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-120.50cr, QoQ 38.60% & YoY 8.95% SALES;
-19.50cr, QoQ 32.00% & YoY 80.56% OPERATING PROFIT;
-7.10cr, QoQ 6.90% & YoY 65.12% NET PROFIT;
-OPM %: 16.20% vs 17.0%
-NPM %: 5.90% vs 7.6%
+ 31-Mar-2025 #Result
+171.20cr, QoQ 42.10% & YoY 234.37% SALES;
+28.30cr, QoQ 45.00% & YoY 31.63% OPERATING PROFIT;
+10.50cr, QoQ 47.70% & YoY 9.38% NET PROFIT;
+OPM %: 16.50% vs 16.2%
+NPM %: 6.10% vs 5.9%
 

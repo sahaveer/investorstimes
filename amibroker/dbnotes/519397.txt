@@ -1,13 +1,29 @@
-CODE	NAME
-519397 
+CODES	519397	
+FULLNAME : Sharat Industries Ltd
+SECTOR : Food Products
+INDUSTRY : Seafood
+BestQ Dec 2025
 
-SECTOR : FMCG
-INDUSTRY : Aquaculture
-
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- Last 3QSALES is about 107% YSales
+- Last 3QPROFIT is about 158% of YProfit
+
+YSALES in Mar-2025 is at 380.5 showing a QoQ_growth of 26.0%. The YNETPROFIT grew by 69.7% to 10.0
+
+***CONS***
+- NO PRODUCT DEMAND
+
+Yearly 
+ 31-Mar-2025 #Result
+380.50cr, QoQ 26.00% SALES;
+28.60cr, QoQ 33.00% OPERATING PROFIT;
+10.00cr, QoQ 69.70% NET PROFIT;
+OPM %: 7.50% vs 7.1%
+NPM %: 2.60% vs 1.9%
+

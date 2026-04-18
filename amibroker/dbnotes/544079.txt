@@ -1,12 +1,14 @@
-CODES
-544079	DIGIDRIVE	
-SECTOR : E-Commerce/App based Aggregator
-INDUSTRY : Trading
+CODES	544079	DIGIDRIVE	
+FULLNAME : Digidrive Distributors Ltd
+SECTOR : Retailing
+INDUSTRY : E-Retail/ E-Commerce
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

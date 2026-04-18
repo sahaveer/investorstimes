@@ -1,27 +1,31 @@
-CODES
-530075	SELAN	
-SECTOR : 
-INDUSTRY : 
+CODES	530075	SELAN	
+FULLNAME : Selan Explorations Technology Ltd
+SECTOR : Oil
+INDUSTRY : Oil Exploration & Production
 EXPANSION 2024
 PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   48.8   |   77.2   |  117.9   |  165.6   |  258.1  
- SQoQ%:  |  -45.5   |   58.1   |   52.8   |   40.4   |   55.8  
- YOPM%:  |   23.7   |   35.2   |   43.4   |   43.6   |   34.3  
- YNPM%:  |   12.8   |   12.9   |   26.2   |   19.8   |   28.7  
-YPROFIT: |   6.2    |   9.9    |   30.8   |   32.7   |   74.0  
- PQoQ%:  |  -72.2   |   59.0   |  211.0   |   6.1    |  126.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   54.7   |   63.5   |   68.9   |   64.0   |   61.7  
- QoQ%:  |   25.6   |   16.0   |   8.6    |   -7.2   |   -3.5  
- QOPM%: |   28.6   |   36.7   |   39.4   |   34.0   |   26.6  
- QNPM%: |   22.4   |   28.7   |   31.0   |   28.9   |   25.8  
- QPFT:  |   12.2   |   18.2   |   21.4   |   18.5   |   15.9  
- PQoQ%: |  103.2   |   48.5   |   17.4   |  -13.4   |  -13.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 48.8		77.2		117.9		165.6		258.1
+SQoQ%: 	-45.5		58.1		52.8		40.4		55.8
+YOPM%: 	23.7		35.2		43.4		43.6		34.3
+YNPM%: 	12.8		12.9		26.2		19.8		28.7
+YPROFIT: 6.2		9.9		30.8		32.7		74.0
+PQoQ%: 	-72.2		59.0		211.0		6.1		126.0
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2024	Jun-2024	Sep-2024	Dec-2024	Mar-2025
+QSALES: 54.7		63.5		68.9		64.0		61.7
+QoQ%: 	25.6		16.0		8.6		-7.2		-3.5
+QOPM%: 	28.6		36.7		39.4		34.0		26.6
+QNPM%: 	22.4		28.7		31.0		28.9		25.8
+QPFT: 	12.2		18.2		21.4		18.5		15.9
+PQoQ%: 	103.2		48.5		17.4		-13.4		-13.9
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
@@ -32,6 +36,8 @@ ROCE in Mar2025 is at 16.8%
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 
 YSALES in Mar-2025 is at 258.1 showing a QoQ_growth of 55.8%. The YNETPROFIT grew by 126.0% to 74.0
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

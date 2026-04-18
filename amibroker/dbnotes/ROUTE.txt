@@ -1,35 +1,47 @@
-CODES
-543228	ROUTE	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	543228	ROUTE	
+FULLNAME : Route Mobile Ltd
+SECTOR : Telecom - Services
+INDUSTRY : Other Telecom Services
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1406.2  |  2002.0  |  3569.2  |  4023.3  |  4575.6 
- SQoQ%:  |   47.1   |   42.4   |   78.3   |   12.7   |   13.7  
- YOPM%:  |   12.4   |   11.0   |   12.5   |   12.8   |   11.5  
- YNPM%:  |   9.5    |   8.3    |   9.2    |   9.3    |   7.0   
-YPROFIT: |  133.3   |  166.2   |  327.1   |  375.1   |  318.8  
- PQoQ%:  |  128.8   |   24.6   |   96.8   |   14.7   |  -15.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1017.0  |  1103.4  |  1113.4  |  1183.8  |  1175.0 
- QoQ%:  |   -0.7   |   8.5    |   0.9    |   6.3    |   -0.7  
- QOPM%: |   12.3   |   11.2   |   12.1   |   11.0   |   10.4  
- QNPM%: |   8.7    |   7.1    |   9.1    |   7.0    |   4.8   
- QPFT:  |   88.1   |   78.5   |  101.3   |   82.5   |   56.6  
- PQoQ%: |  -16.7   |  -10.9   |   29.0   |  -18.6   |  -31.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 376.4		333.8		535.8		667.1		832.2		548.9
+SQoQ%: 	-7.4		-11.3		60.5		24.5		24.8		66.0
+YOPM%: 	8.1		4.5		6.9		11.2		14.5
+YNPM%: 	5.9		8.3		16.8		18.9		15.7
+YPROFIT: 22.3		27.8		89.8		126.3		131.0		93.7
+PQoQ%: 	195.8		24.3		223.6		40.6		3.7		71.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 206.3		208.4		182.7		180.3		185.9
+QoQ%: 	-1.4		1.0		-12.3		-1.3		3.1
+QOPM%: 	11.4		20.8		8.8		8.7		12.4
+QNPM%: 	14.1		12.4		16.6		18.3		16.3
+QPFT: 	29.0		25.8		30.4		32.9		30.4
+PQoQ%: 	-39.5		-11.3		18.1		8.3		-7.7
+
+
 
 ***PROS***
+DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 66% YSales
+- Last 3QPROFIT is about 72% of YProfit
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-4575.60cr, QoQ 13.70% & YoY 225.39% SALES;
-527.80cr, QoQ 2.70% & YoY 201.77% OPERATING PROFIT;
-318.80cr, QoQ -15.00% & YoY 139.16% NET PROFIT;
-OPM %: 11.50% vs 12.8%
-NPM %: 7.00% vs 9.3%
+832.20cr, QoQ 24.80% & YoY 121.09% SALES;
+120.60cr, QoQ 61.60% & YoY 296.71% OPERATING PROFIT;
+131.00cr, QoQ 3.70% & YoY 487.44% NET PROFIT;
+OPM %: 14.50% vs 11.2%
+NPM %: 15.70% vs 18.9%
 

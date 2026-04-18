@@ -1,13 +1,14 @@
-CODE	NAME
-540696 
+CODES	540696	
+FULLNAME : KCD Industries India Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 
-SECTOR : Realty
-INDUSTRY : Construction
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

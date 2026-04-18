@@ -1,27 +1,36 @@
-CODES
-500339	RAIN	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-PRODUCT DEMAND
+CODES	500339	RAIN	
+FULLNAME : Rain Industries Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Petrochemicals
+BestQ Dec 2025
+LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -564.3
- YPNL:   | Dec-2020 | Dec-2021 | Dec-2022 | Dec-2023 | Dec-2024
----------+----------+----------+----------+----------+---------
-YSALES:  | 10464.7  | 14526.8  | 21011.0  | 18141.5  | 15374.4 
- SQoQ%:  |  -15.3   |   38.8   |   44.6   |  -13.7   |  -15.3  
- YOPM%:  |   16.0   |   16.2   |   16.8   |   5.1    |   8.3   
- YNPM%:  |   5.3    |   4.0    |   6.8    |   0.0    |   0.0   
-YPROFIT: |  558.2   |  580.2   |  1438.6  |  -937.9  |  -564.3 
- PQoQ%:  |   42.6   |   3.9    |  148.0   |  -165.2  |  -39.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  3670.2  |  4094.2  |  3934.3  |  3675.7  |  3768.0 
- QoQ%:  |  -10.5   |   11.5   |   -3.9   |   -6.6   |   2.5   
- QOPM%: |   9.3    |   9.0    |   5.5    |   9.4    |   10.1  
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |  -145.9  |  -77.9   |  -179.1  |  -161.4  |  -137.7 
- PQoQ%: |  -87.0   |  -46.6   |  130.0   |   -9.9   |  -14.7  
+***YEARLY***
+YPNL: 	Dec-2021	Dec-2022	Dec-2023	Dec-2024	Dec-2025	QSUM:Dec-2025
+YSALES: 14526.8		21011.0		18141.5		15374.4		16945.8		13177.8
+SQoQ%: 	38.8		44.6		-13.7		-15.3		10.2		77.8
+YOPM%: 	16.2		16.8		5.1		8.3		12.6
+YNPM%: 	4.0		6.8		0.0		0.0		0.3
+YPROFIT: 580.2		1438.6		-937.9		-564.3		42.5		180.2
+PQoQ%: 	3.9		148.0		-165.2		-39.8		-107.5		424.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3675.7		3768.0		4401.4		4475.7		4300.7
+QoQ%: 	-6.6		2.5		16.8		1.7		-3.9
+QOPM%: 	9.4		10.1		14.3		14.0		11.6
+QNPM%: 	0.0		0.0		1.4		2.4		0.3
+QPFT: 	-161.4		-137.7		60.7		106.0		13.5
+PQoQ%: 	-9.9		-14.7		-144.1		74.6		-87.3
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 424% of YProfit
+- YProfit Turned POSITIVE this year Dec-2025 : 42.5
+- LastYr YProfits Doubled and maintained in Dec2025
+
+***CONS***

@@ -1,40 +1,45 @@
-CODE	NAME
-530429 
-
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
+CODES	530429	
+FULLNAME : Ashish Polyplast Ltd
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   12.7   |   12.7   |   16.2   |   16.0   |   16.0   |      12.4    
- SQoQ%:  |   -8.7   |   -0.2   |   27.8   |   -1.3   |   -0.5   |      77.5    
- YOPM%:  |   3.5    |   3.5    |   3.8    |   3.7    |   3.9    |              
- YNPM%:  |   1.2    |   2.6    |   2.0    |   1.2    |   5.3    |              
-YPROFIT: |   0.2    |   0.3    |   0.3    |   0.2    |   0.8    |      0.6     
- PQoQ%:  |   36.4   |  120.0   |   -3.0   |  -40.6   |  342.1   |      75.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   3.9    |   4.0    |   4.4    |   3.5    |   4.5   
- QoQ%:  |   -2.5   |   1.5    |   10.3   |  -20.5   |   28.1  
- QOPM%: |   3.1    |   1.5    |   4.3    |   6.6    |   2.7   
- QNPM%: |   10.2   |   1.8    |   7.5    |   8.3    |   0.4   
- QPFT:  |   0.4    |   0.1    |   0.3    |   0.3    |   0.0   
- PQoQ%: |  166.7   |  -82.5   |  371.4   |  -12.1   |  -93.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 12.7		16.2		16.0		16.0		16.0		10.9
+SQoQ%: 	-0.2		27.8		-1.3		-0.5		0.4		68.1
+YOPM%: 	3.5		3.8		3.7		3.9		3.9
+YNPM%: 	2.6		2.0		1.2		5.3		1.6
+YPROFIT: 0.3		0.3		0.2		0.8		0.2		0.5
+PQoQ%: 	120.0		-3.0		-40.6		342.1		-70.2		250.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4.5		3.7		3.7		3.7		3.5
+QoQ%: 	28.1		-18.1		2.2		-1.3		-4.1
+QOPM%: 	2.7		2.5		3.2		3.0		5.4
+QNPM%: 	0.4		0.0		10.4		0.0		4.2
+QPFT: 	0.0		-0.4		0.4		-0.1		0.2
+PQoQ%: 	-93.1		-2100.0		-197.5		-117.9		-314.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.3
-- Last 3QSALES is about 78% YSales
-- Last 3QPROFIT is about 75% of YProfit
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 68% YSales
+- Last 3QPROFIT is about 250% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-16.00cr, QoQ -0.50% & YoY 25.98% SALES;
-0.60cr, QoQ 5.00% & YoY 50.00% OPERATING PROFIT;
-0.80cr, QoQ 342.10% & YoY 300.00% NET PROFIT;
-OPM %: 3.90% vs 3.7%
-NPM %: 5.30% vs 1.2%
+ 31-Mar-2025 #Result
+16.00cr, QoQ 0.40% & YoY 25.98% SALES;
+0.60cr, QoQ 0.00% & YoY 50.00% OPERATING PROFIT;
+0.20cr, QoQ -70.20% & YoY -33.33% NET PROFIT;
+OPM %: 3.90% vs 3.9%
+NPM %: 1.60% vs 5.3%
 

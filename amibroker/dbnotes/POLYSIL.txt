@@ -1,22 +1,12 @@
-CODES
-POLYSIL	
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
-LYPD PM 2024
+CODES	POLYSIL	
+FULLNAME : Polysil Irrigation Systems Ltd
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
-- LastYr YProfits Doubled and maintained in Mar2024
 
-Yearly 
- 31-Mar-2024 #Result
-44.40cr, QoQ 1.20% & YoY 12.69% SALES;
-5.60cr, QoQ 20.30% & YoY 100.00% OPERATING PROFIT;
-2.10cr, QoQ 137.90% & YoY 320.00% NET PROFIT;
-OPM %: 12.50% vs 10.5%
-NPM %: 4.70% vs 2.0%
-
+***CONS***
+- NO PRODUCT DEMAND

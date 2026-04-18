@@ -1,14 +1,12 @@
-CODES
-RAJPUTANA	
+CODES	RAJPUTANA	
+FULLNAME : Rajputana Biodiesel Ltd
 SECTOR : Miscellaneous
 INDUSTRY : Miscellaneous
 YSD YPD 2024
 LYPD PM 2024
 PROFIT GROWTH BETTER THAN SALES GROWTH 2024
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
@@ -18,6 +16,9 @@ ROCE in Mar2024 is at 21.2%
 - LastYr YProfits Doubled and maintained in Mar2024
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2024, Sales have increased by 129.7% while the Profit QoQ_growth is much better than Sales itself at 165.9%
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

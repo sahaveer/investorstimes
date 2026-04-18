@@ -1,12 +1,14 @@
-CODES
-544294	ROSSTECH	
+CODES	544294	ROSSTECH	
+FULLNAME : Rossell Techsys Ltd
 SECTOR : Aerospace & Defence
 INDUSTRY : Engineering
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

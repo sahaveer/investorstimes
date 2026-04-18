@@ -1,34 +1,43 @@
-CODES
-517522	RAJRATAN	
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
+CODES	517522	RAJRATAN	
+FULLNAME : Rajratan Global Wire Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 546.5		892.9		895.4		890.4		935.2		842.2
+SQoQ%: 	13.8		63.4		0.3		-0.5		5.0		90.1
+YOPM%: 	16.9		20.3		18.1		14.3		13.6
+YNPM%: 	9.7		13.9		11.2		8.1		6.3
+YPROFIT: 53.1		124.3		100.1		71.8		58.8		54.8
+PQoQ%: 	60.8		134.0		-19.5		-28.3		-18.2		93.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 218.4		251.4		246.5		294.2		301.5
+QoQ%: 	-11.0		15.1		-2.0		19.3		2.5
+QOPM%: 	12.0		13.3		12.6		13.6		13.4
+QNPM%: 	4.3		6.0		5.5		7.0		6.9
+QPFT: 	9.3		15.2		13.5		20.6		20.7
+PQoQ%: 	-51.1		63.3		-11.1		52.0		0.7
+
+
+
+***PROS***
+- Last 3QSALES is about 90% YSales
+- Last 3QPROFIT is about 93% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  546.5   |  892.9   |  895.4   |  890.4   |  935.2  
- SQoQ%:  |   13.8   |   63.4   |   0.3    |   -0.5   |   5.0   
- YOPM%:  |   16.9   |   20.3   |   18.1   |   14.3   |   13.6  
- YNPM%:  |   9.7    |   13.9   |   11.2   |   8.1    |   6.3   
-YPROFIT: |   53.1   |  124.3   |  100.1   |   71.8   |   58.8  
- PQoQ%:  |   60.8   |  134.0   |  -19.5   |  -28.3   |  -18.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  239.6   |  220.1   |  245.3   |  218.4   |  251.4  
- QoQ%:  |   3.0    |   -8.1   |   11.4   |  -11.0   |   15.1  
- QOPM%: |   14.4   |   13.4   |   15.4   |   12.0   |   13.3  
- QNPM%: |   8.5    |   6.9    |   7.8    |   4.3    |   6.0   
- QPFT:  |   20.2   |   15.2   |   19.0   |   9.3    |   15.2  
- PQoQ%: |   2.9    |  -24.7   |   25.0   |  -51.1   |   63.3  
-
-***PROS***
 
 Yearly 
  31-Mar-2025 #Result
 935.20cr, QoQ 5.00% & YoY 71.13% SALES;
 127.00cr, QoQ -0.60% & YoY 37.89% OPERATING PROFIT;
-58.80cr, QoQ -18.10% & YoY 10.73% NET PROFIT;
+58.80cr, QoQ -18.20% & YoY 10.73% NET PROFIT;
 OPM %: 13.60% vs 14.3%
 NPM %: 6.30% vs 8.1%
 

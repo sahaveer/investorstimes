@@ -1,29 +1,34 @@
-CODE	NAME
-531600 
+CODES	531600	
+FULLNAME : Gogia Capital Growth Ltd
+SECTOR : Capital Markets
+INDUSTRY : Stockbroking & Allied
+YSD YPD 2025
 
-SECTOR : Stock/ Commodity Brokers
-INDUSTRY : Finance & Investments
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 6.6		7.7		2.6		-20.2		2.9		0.4
+SQoQ%: 	-21.6		17.5		-66.3		-873.9		-114.3		13.8
+YOPM%: 	67.2		74.0		34.9		0.0		0.0
+YNPM%: 	37.8		40.1		0.0		0.0		114.5
+YPROFIT: 2.5		3.1		-0.3		-22.5		3.3		-1.2
+PQoQ%: 	-34.0		24.5		-110.0		7145.2		-114.7		-36.4
 
-***CONS***
-- NEGATIVE YProfit : -22.5
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   8.4    |   6.6    |   7.7    |   2.6    |  -20.2   |      3.6     
- SQoQ%:  |   49.4   |  -21.6   |   17.5   |  -66.3   |  -873.9  |     -17.8    
- YOPM%:  |   72.1   |   67.2   |   74.0   |   34.9   |   0.0    |              
- YNPM%:  |   44.8   |   37.8   |   40.1   |   0.0    |   0.0    |              
-YPROFIT: |   3.8    |   2.5    |   3.1    |   -0.3   |  -22.5   |      5.0     
- PQoQ%:  |  116.7   |  -34.0   |   24.5   |  -110.0  |  7145.2  |     -22.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  -30.5   |   1.8    |   2.2    |   2.8    |   -1.4  
- QoQ%:  | -2294.2  |  -105.8  |   21.5   |   32.6   |  -149.1 
- QOPM%: |   0.0    |   61.0   |   62.3   |   34.4   |   0.0   
- QNPM%: |   0.0    |  109.0   |  194.9   |   40.4   |   0.0   
- QPFT:  |  -31.5   |   1.9    |   4.2    |   1.2    |   -0.4  
- PQoQ%: | -6161.5  |  -106.1  |  117.1   |  -72.6   |  -131.3 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: -1.4		-1.1		0.2		0.3		-0.1
+QoQ%: 	-149.1		-23.6		-119.6		38.1		-120.7
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-0.4		-1.7		-0.0		-0.2		-1.0
+PQoQ%: 	-131.3		363.9		-97.6		500.0		312.5
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+A DEBT-Free Company
+- YProfit Turned POSITIVE this year Mar-2025 : 3.3
+- YProfits and YSales DOUBLED in Mar2025
 
+***CONS***

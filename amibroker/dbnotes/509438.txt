@@ -1,35 +1,45 @@
-CODE	NAME
-509438 
-
-SECTOR : Hotels & Restaurants
-INDUSTRY : Hotels
+CODES	509438	
+FULLNAME : Benares Hotels Ltd
+SECTOR : Leisure Services
+INDUSTRY : Hotels & Resorts
 PRODUCT DEMAND
+BestQ Dec 2025
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   24.2   |   49.8   |   93.3   |  120.6   |  135.5  
- SQoQ%:  |  -61.9   |  105.6   |   87.3   |   29.2   |   12.4  
- YOPM%:  |   1.7    |   29.3   |   38.8   |   42.6   |   43.8  
- YNPM%:  |   0.0    |   11.3   |   25.1   |   29.9   |   31.9  
-YPROFIT: |   -5.2   |   5.6    |   23.4   |   36.0   |   43.2  
- PQoQ%:  |  -149.3  |  -208.0  |  313.8   |   54.1   |   20.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   35.6   |   23.0   |   24.5   |   38.9   |   49.1  
- QoQ%:  |   5.9    |  -35.4   |   6.4    |   58.8   |   26.4  
- QOPM%: |   44.5   |   38.4   |   41.2   |   48.1   |   44.2  
- QNPM%: |   32.6   |   28.0   |   29.4   |   34.9   |   32.7  
- QPFT:  |   11.6   |   6.4    |   7.2    |   13.6   |   16.0  
- PQoQ%: |   2.6    |  -44.5   |   12.0   |   88.3   |   18.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 24.2		49.8		93.3		120.6		135.5		90.5
+SQoQ%: 	-61.9		105.6		87.3		29.2		12.4		66.8
+YOPM%: 	1.7		29.3		38.8		42.6		43.8
+YNPM%: 	0.0		11.3		25.1		29.9		31.9
+YPROFIT: -5.2		5.6		23.4		36.0		43.2		27.9
+PQoQ%: 	-149.3		-208.0		313.8		54.1		20.0		64.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 38.9		49.1		25.0		23.9		41.6
+QoQ%: 	58.8		26.4		-49.1		-4.4		74.2
+QOPM%: 	48.1		44.2		40.1		34.5		46.9
+QNPM%: 	34.9		32.7		30.3		25.4		34.2
+QPFT: 	13.6		16.0		7.6		6.1		14.2
+PQoQ%: 	88.3		18.4		-52.8		-19.8		134.0
+
+
 
 ***PROS***
 A DEBT-Free Company for the last 2 yrs
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 24.4%
+- Last 3QSALES is about 67% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 65% of YProfit
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

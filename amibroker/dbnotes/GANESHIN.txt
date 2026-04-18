@@ -1,12 +1,14 @@
-CODES
-GANESHIN	
+CODES	GANESHIN	
+FULLNAME : Ganesh Infraworld Ltd
 SECTOR : Infrastructure Developers & Operators
 INDUSTRY : Construction
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

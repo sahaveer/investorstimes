@@ -1,38 +1,47 @@
-CODES
-MBAPL	
-SECTOR : Fertilizers
+CODES	MBAPL	
+FULLNAME : Madhya Bharat Agro Products Ltd
+SECTOR : Fertilizers & Agrochemicals
 INDUSTRY : Fertilizers
+BestQ Dec 2025
 YSD YPD 2023
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 184.8		490.4		981.4		815.4		1057.6		1472.3
+SQoQ%: 	43.3		165.3		100.2		-16.9		29.7		139.2
+YOPM%: 	22.5		21.7		21.4		11.8		13.8
+YNPM%: 	11.0		11.6		12.7		3.0		5.4
+YPROFIT: 20.2		57.0		124.2		24.8		57.5		90.5
+PQoQ%: 	36.4		181.7		117.8		-80.0		131.4		157.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 283.7		296.8		409.7		450.2		612.4
+QoQ%: 	1.9		4.6		38.0		9.9		36.0
+QOPM%: 	13.9		12.2		13.9		13.7		10.9
+QNPM%: 	6.3		4.8		6.9		6.8		5.2
+QPFT: 	17.9		14.2		28.2		30.5		31.8
+PQoQ%: 	29.3		-20.4		98.0		8.0		4.3
+
+
+
+***PROS***
+- Last 3QSALES is about 139% YSales
+- Last 3QPROFIT is about 157% of YProfit
+- YProfits and YSales DOUBLED in Mar2023
+
+YSALES in Mar-2025 is at 1057.6 showing a QoQ_growth of 29.7%. The YNETPROFIT grew by 131.4% to 57.5
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  184.8   |  490.4   |  981.4   |  815.4   |  1059.2 
- SQoQ%:  |   43.3   |  165.3   |  100.2   |  -16.9   |   29.9  
- YOPM%:  |   22.5   |   21.7   |   21.4   |   11.8   |   13.7  
- YNPM%:  |   11.0   |   11.6   |   12.7   |   3.0    |   5.4   
-YPROFIT: |   20.2   |   57.0   |  124.2   |   24.8   |   57.5  
- PQoQ%:  |   36.4   |  181.7   |  117.8   |  -80.0   |  131.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  145.7   |  200.4   |  278.3   |  283.7   |  296.8  
- QoQ%:  |  -40.2   |   37.5   |   38.9   |   1.9    |   4.6   
- QOPM%: |   9.6    |   16.8   |   13.0   |   13.9   |   12.2  
- QNPM%: |   0.9    |   5.7    |   5.0    |   6.3    |   4.8   
- QPFT:  |   1.4    |   11.5   |   13.8   |   17.9   |   14.2  
- PQoQ%: |   6.2    |  732.6   |   20.5   |   29.3   |  -20.4  
-
-***PROS***
-- YProfits and YSales DOUBLED in Mar2023
-
-YSALES in Mar-2025 is at 1059.2 showing a QoQ_growth of 29.9%. The YNETPROFIT grew by 131.4% to 57.5
 
 Yearly 
  31-Mar-2025 #Result
-1059.20cr, QoQ 29.90% & YoY 473.16% SALES;
-145.50cr, QoQ 50.70% & YoY 249.76% OPERATING PROFIT;
+1057.60cr, QoQ 29.70% & YoY 472.29% SALES;
+145.40cr, QoQ 51.20% & YoY 249.52% OPERATING PROFIT;
 57.50cr, QoQ 131.40% & YoY 184.65% NET PROFIT;
-OPM %: 13.70% vs 11.8%
+OPM %: 13.80% vs 11.8%
 NPM %: 5.40% vs 3.0%
 

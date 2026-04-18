@@ -1,38 +1,44 @@
-CODES
-522073	HITECHGEAR	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
-LYPD PM 2024
+CODES	522073	HITECHGEAR	
+FULLNAME : The Hi-Tech Gears Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  722.0   |  745.5   |  970.6   |  1169.2  |  1106.9  |     712.1    
- SQoQ%:  |  -21.0   |   3.3    |   30.2   |   20.5   |   -5.3   |      64.3    
- YOPM%:  |   11.6   |   12.1   |   8.4    |   12.1   |   13.5   |              
- YNPM%:  |   1.1    |   3.9    |   0.0    |   2.0    |   10.3   |              
-YPROFIT: |   8.3    |   28.8   |   -1.1   |   23.1   |  114.2   |      30.6    
- PQoQ%:  |  -76.7   |  247.7   |  -103.8  | -2200.9  |  394.4   |      26.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  272.9   |  286.9   |  260.6   |  246.4   |  205.1  
- QoQ%:  |   -3.8   |   5.1    |   -9.1   |   -5.5   |  -16.8  
- QOPM%: |   14.9   |   14.2   |   15.7   |   14.3   |   12.9  
- QNPM%: |   5.5    |   6.2    |   5.5    |   3.9    |   3.4   
- QPFT:  |   14.9   |   17.8   |   14.2   |   9.5    |   6.9   
- PQoQ%: |  -79.4   |   19.6   |  -20.1   |  -33.0   |  -28.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 745.5		970.6		1169.2		1106.9		927.0		679.8
+SQoQ%: 	3.3		30.2		20.5		-5.3		-16.3		73.3
+YOPM%: 	12.1		8.4		12.1		13.5		14.7
+YNPM%: 	3.9		0.0		2.0		10.3		4.4
+YPROFIT: 28.8		-1.1		23.1		114.2		40.4		12.9
+PQoQ%: 	247.7		-103.8		-2200.9		394.4		-64.7		31.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 205.1		214.9		215.6		240.7		223.5
+QoQ%: 	-16.8		4.8		0.3		11.7		-7.2
+QOPM%: 	12.9		15.5		12.1		11.5		9.8
+QNPM%: 	3.4		4.5		2.8		2.5		0.4
+QPFT: 	6.9		9.7		6.0		6.0		0.9
+PQoQ%: 	-28.0		41.5		-38.3		0.2		-85.7
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 64% YSales
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
-- LastYr YProfits Doubled and maintained in Mar2024
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 73% YSales
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1106.90cr, QoQ -5.30% & YoY 53.31% SALES;
-149.90cr, QoQ 6.10% & YoY 79.09% OPERATING PROFIT;
-114.20cr, QoQ 394.40% & YoY 1275.90% NET PROFIT;
-OPM %: 13.50% vs 12.1%
-NPM %: 10.30% vs 2.0%
+ 31-Mar-2025 #Result
+927.00cr, QoQ -16.30% & YoY 24.35% SALES;
+135.90cr, QoQ -9.40% & YoY 51.17% OPERATING PROFIT;
+40.40cr, QoQ -64.70% & YoY 40.28% NET PROFIT;
+OPM %: 14.70% vs 13.5%
+NPM %: 4.40% vs 10.3%
 

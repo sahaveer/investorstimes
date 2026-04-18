@@ -1,30 +1,48 @@
-CODE	NAME
-507966 
-
-SECTOR : Hotels & Restaurants
-INDUSTRY : Hotels
+CODES	507966	
+FULLNAME : Ras Resorts & Apart Hotels Ltd
+SECTOR : Leisure Services
+INDUSTRY : Hotels & Resorts
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
+BestQ Dec 2025
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   8.9    |   4.5    |   7.8    |   12.9   |   13.1   |      9.7     
- SQoQ%:  |   -2.9   |  -49.7   |   75.0   |   64.2   |   1.9    |      74.0    
- YOPM%:  |   8.1    |   10.9   |   11.6   |   7.8    |   9.6    |              
- YNPM%:  |   1.0    |   0.0    |   2.2    |   0.0    |   1.4    |              
-YPROFIT: |   0.1    |   -0.4   |   0.2    |   -0.0   |   0.2    |      0.3     
- PQoQ%:  |  -79.5   |  -533.3  |  -143.6  |  -105.9  | -1900.0  |     150.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   3.3    |   3.9    |   3.3    |   2.7    |   3.7   
- QoQ%:  |   13.3   |   17.8   |  -15.1   |  -17.8   |   36.6  
- QOPM%: |   5.1    |   16.1   |   15.4   |   9.9    |   11.5  
- QNPM%: |   0.0    |   13.0   |   10.8   |   0.0    |   3.5   
- QPFT:  |   -0.3   |   0.5    |   0.4    |   -0.2   |   0.1   
- PQoQ%: | -1233.3  |  -250.0  |  -29.4   |  -147.2  |  -176.5 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 4.5		7.8		12.9		13.1		13.0		9.3
+SQoQ%: 	-49.7		75.0		64.2		1.9		-1.1		71.5
+YOPM%: 	10.9		11.6		7.8		9.5		9.9
+YNPM%: 	0.0		2.2		0.0		1.4		2.5
+YPROFIT: -0.4		0.2		-0.0		0.2		0.3		0.4
+PQoQ%: 	-533.3		-143.6		-105.9		-1900.0		83.3		133.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3.7		3.4		3.0		2.5		3.8
+QoQ%: 	36.6		-7.8		-14.2		-16.6		53.7
+QOPM%: 	11.5		8.1		13.2		10.2		15.6
+QNPM%: 	3.5		0.3		4.1		2.0		7.9
+QPFT: 	0.1		0.0		0.1		0.0		0.3
+PQoQ%: 	-176.5		-92.3		1100.0		-58.3		500.0
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 74% YSales
-- Last 3QPROFIT is about 150% of YProfit
+- Last 3QSALES is about 72% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 133% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+13.00cr, QoQ -1.10% & YoY 188.89% SALES;
+1.30cr, QoQ 2.40% & YoY 160.00% OPERATING PROFIT;
+0.30cr, QoQ 83.30% & YoY -175.00% NET PROFIT;
+OPM %: 9.90% vs 9.5%
+NPM %: 2.50% vs 1.4%
+

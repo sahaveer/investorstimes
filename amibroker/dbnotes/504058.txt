@@ -1,32 +1,39 @@
-CODES
-504058	NIPPOBATRY	
-SECTOR : Dry cells
-INDUSTRY : Dry Cells
+CODES	504058	NIPPOBATRY	
+FULLNAME : Indo National Ltd
+SECTOR : Household Products
+INDUSTRY : Household Products
 PRODUCT DEMAND
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  531.8   |  570.2   |  572.0   |  640.6   |  467.5  
- SQoQ%:  |   4.7    |   7.2    |   0.3    |   12.0   |  -27.0  
- YOPM%:  |   10.7   |   4.6    |   2.6    |   6.4    |   0.0   
- YNPM%:  |   5.7    |   1.4    |   0.0    |   1.5    |   26.5  
-YPROFIT: |   30.4   |   7.9    |   -5.7   |   9.6    |  123.8  
- PQoQ%:  |  2054.6  |  -73.9   |  -171.7  |  -269.1  |  1186.5 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  168.9   |  121.2   |  127.6   |  121.6   |   97.1  
- QoQ%:  |   0.4    |  -28.3   |   5.3    |   -4.7   |  -20.2  
- QOPM%: |   10.4   |   0.0    |   0.7    |   0.0    |   0.0   
- QNPM%: |   1.4    |  110.3   |   1.7    |   0.0    |   0.1   
- QPFT:  |   2.4    |  133.6   |   2.2    |  -12.1   |   0.1   
- PQoQ%: |  -30.2   |  5466.2  |  -98.4   |  -656.2  |  -100.7 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 531.8		570.2		572.0		640.6		467.5		345.3
+SQoQ%: 	4.7		7.2		0.3		12.0		-27.0		73.9
+YOPM%: 	10.7		4.6		2.6		6.4		0.0
+YNPM%: 	5.7		1.4		0.0		1.5		26.5
+YPROFIT: 30.4		7.9		-5.7		9.6		123.8		-5.4
+PQoQ%: 	2054.6		-73.9		-171.7		-269.1		1186.5		-4.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 121.6		97.1		119.4		119.6		106.3
+QoQ%: 	-4.7		-20.2		23.0		0.1		-11.1
+QOPM%: 	0.0		0.0		2.3		3.3		0.0
+QNPM%: 	0.0		0.1		0.9		1.2		0.0
+QPFT: 	-12.1		0.1		1.0		1.4		-7.8
+PQoQ%: 	-656.2		-100.7		1175.0		35.3		-668.1
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 74% YSales
 - YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

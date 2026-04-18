@@ -1,19 +1,22 @@
-CODES
-CPS	
-SECTOR : Readymade Garments/ Apparells
-INDUSTRY : Textiles - Products
+CODES	CPS	
+FULLNAME : C P S Shapers Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Garments & Apparels
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-35.50cr, QoQ -1.80% & YoY 133.55% SALES;
-3.10cr, QoQ -34.70% & YoY -875.00% OPERATING PROFIT;
-0.70cr, QoQ -69.90% & YoY -141.18% NET PROFIT;
-OPM %: 8.80% vs 13.3%
-NPM %: 2.10% vs 6.8%
+ 31-Mar-2025 #Result
+30.80cr, QoQ -13.30% & YoY 118.44% SALES;
+1.90cr, QoQ -39.50% & YoY 18.75% OPERATING PROFIT;
+0.20cr, QoQ -77.00% & YoY -33.33% NET PROFIT;
+OPM %: 6.20% vs 8.8%
+NPM %: 0.60% vs 2.1%
 

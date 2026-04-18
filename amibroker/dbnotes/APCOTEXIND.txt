@@ -1,13 +1,15 @@
-CODES
-523694	APCOTEXIND	
-SECTOR : Chemicals
-INDUSTRY : Miscellaneous
+CODES	523694	APCOTEXIND	
+FULLNAME : Apcotex Industries Ltd
+SECTOR : Industrial Products
+INDUSTRY : Rubber
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - Last 2QSALES is about 68% YSales
+
+***CONS***

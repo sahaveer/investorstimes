@@ -1,13 +1,26 @@
-CODE	NAME
-539834 
+CODES	539834	
+FULLNAME : Balgopal Commercial Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+YSD YPD 2024
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- YProfits and YSales DOUBLED in Mar2024
+
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+0.60cr, QoQ -96.70% SALES;
+-0.80cr, QoQ -132.60% OPERATING PROFIT;
+6.30cr, QoQ -52.20% NET PROFIT;
+OPM %: 0.00% vs 13.8%
+NPM %: 1123.20% vs 77.2%
+

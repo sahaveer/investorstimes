@@ -1,26 +1,31 @@
-CODE	NAME
-532444 
+CODES	532444	
+FULLNAME : T. Spiritual World Ltd
+SECTOR : IT - Software
+INDUSTRY : Software Products
 
-SECTOR : Trading
-INDUSTRY : Trading
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		0.0		0.0		0.0		0.0		0.0
+SQoQ%: 	nan		nan		nan		nan		nan		nan
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -1.2		-1.2		-0.2		-0.2		-0.2		-0.1
+PQoQ%: 	-50.6		2.6		-84.7		5.6		5.3		50.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		inf
+QPFT: 	-0.0		-0.0		-0.1		-0.0		0.0
+PQoQ%: 	-25.0		33.3		125.0		-55.6		-125.0
+
+
+
+***PROS***
 
 ***CONS***
 - NEGATIVE YProfit : -0.2
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |      0.0     
- SQoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan    |      nan     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -2.3   |   -1.2   |   -1.2   |   -0.2   |   -0.2   |      -0.1    
- PQoQ%:  |   57.4   |  -50.6   |   2.6    |  -84.7   |   5.6    |      50.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.0   |   -0.0   |   -0.1   |   -0.0   |   -0.0  
- PQoQ%: |   0.0    |   33.3   |  125.0   |  -55.6   |  -25.0  
-
-***PROS***

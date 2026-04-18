@@ -1,40 +1,43 @@
-CODE	NAME
-517415 
+CODES	517415	
+FULLNAME : Lee & Nee Software (Exports) Ltd
+SECTOR : IT - Services
+INDUSTRY : IT Enabled Services
+BestQ Dec 2025
 
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 5.4		6.0		6.7		8.5		10.7		7.9
+SQoQ%: 	12.6		12.9		11.4		26.7		25.8		73.8
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	7.7		4.5		3.1		5.9		2.9
+YPROFIT: 0.4		0.3		0.2		0.5		0.3		0.2
+PQoQ%: 	485.7		-34.1		-22.2		138.1		-38.0		66.7
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   4.8    |   5.4    |   6.0    |   6.7    |   8.5    |      7.9     
- SQoQ%:  |   11.5   |   12.6   |   12.9   |   11.4   |   26.7   |      92.9    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   1.5    |   7.7    |   4.5    |   3.1    |   5.9    |              
-YPROFIT: |   0.1    |   0.4    |   0.3    |   0.2    |   0.5    |      0.2     
- PQoQ%:  |  250.0   |  485.7   |  -34.1   |  -22.2   |  138.1   |      40.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   2.1    |   2.4    |   2.2    |   2.5    |   3.2   
- QoQ%:  |   0.0    |   12.7   |   -7.1   |   10.8   |   30.1  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   6.6    |   0.0    |   2.3    |   2.0    |   5.9   
- QPFT:  |   0.1    |   -0.2   |   0.0    |   0.0    |   0.2   
- PQoQ%: |  -69.6   |  -221.4  |  -129.4  |   0.0    |  280.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3.2		2.9		2.6		2.5		2.8
+QoQ%: 	30.1		-10.6		-10.1		-1.9		10.3
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	5.9		1.0		3.1		1.2		4.0
+QPFT: 	0.2		0.0		0.1		0.0		0.1
+PQoQ%: 	280.0		-84.2		166.7		-62.5		266.7
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  have increased this year
-- Last 3QSALES is about 93% YSales
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.1
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 67% of YProfit
 
-YSALES in Mar-2024 is at 8.5 showing a QoQ_growth of 26.7%. The YNETPROFIT grew by 138.1% to 0.5
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-8.50cr, QoQ 26.70% & YoY 77.08% SALES;
--1.10cr, QoQ -8.70% & YoY -0.00% OPERATING PROFIT;
-0.50cr, QoQ 138.10% & YoY 400.00% NET PROFIT;
+ 31-Mar-2025 #Result
+10.70cr, QoQ 25.80% & YoY 98.15% SALES;
+-0.80cr, QoQ -22.10% & YoY 14.29% OPERATING PROFIT;
+0.30cr, QoQ -38.00% & YoY -25.00% NET PROFIT;
 OPM %: 0.00% vs 0.0%
-NPM %: 5.90% vs 3.1%
+NPM %: 2.90% vs 5.9%
 

@@ -1,13 +1,11 @@
-CODE	NAME
-544106 
-
+CODES	544106	
+FULLNAME : Mayank Cattle Food Ltd
 SECTOR : FMCG
 INDUSTRY : Food - Processing - Indian
 PRODUCT DEMAND
 LYPD PM 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -15,6 +13,8 @@ LYPD PM 2025
 - LastYr YProfits Doubled and maintained in Mar2025
 
 YSALES in Mar-2025 is at 390.9 showing a QoQ_growth of 34.9%. The YNETPROFIT grew by 64.0% to 5.0
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

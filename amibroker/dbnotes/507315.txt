@@ -1,43 +1,33 @@
-CODES
-507315	SAKHTISUG	
-SECTOR : Sugar
+CODES	507315	SAKHTISUG	
+FULLNAME : Sakthi Sugars Ltd
+SECTOR : Agricultural Food & other Products
 INDUSTRY : Sugar
 PRODUCT DEMAND
-BestQ Dec 2024
-YSD YPD 2023
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  803.0   |  633.4   |  431.7   |  1075.7  |  1069.3  |     606.7    
- SQoQ%:  |   59.0   |  -21.1   |  -31.8   |  149.2   |   -0.6   |      56.7    
- YOPM%:  |   0.0    |   1.5    |   3.5    |   9.2    |   6.9    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   38.8   |   12.1   |              
-YPROFIT: |  -205.9  |  -116.3  |  -150.2  |  417.8   |  129.5   |      5.9     
- PQoQ%:  |   -3.8   |  -43.5   |   29.2   |  -378.2  |  -69.0   |      4.6     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  154.6   |  298.8   |  393.6   |   73.4   |  139.7  
- QoQ%:  |  -34.9   |   93.3   |   31.7   |  -81.4   |   90.4  
- QOPM%: |   0.0    |   14.5   |   16.6   |   0.0    |   0.0   
- QNPM%: |   0.0    |   36.0   |   14.7   |   0.0    |   0.0   
- QPFT:  |  -42.7   |  107.5   |   57.9   |  -29.0   |  -23.0  
- PQoQ%: |  171.5   |  -352.0  |  -46.1   |  -150.1  |  -20.5  
+***YEARLY***
+YPNL: 	Mar-2014	Mar-2015	Mar-2016	Mar-2017	Mar-2018
+YSALES: 1987.3		836.5		821.0		926.4		528.8
+SQoQ%: 	-13.5		-57.9		-1.9		12.8		-42.9
+YOPM%: 	8.1		13.5		5.3		12.3		0.0
+YNPM%: 	14.6		0.0		0.0		4.2		0.0
+YPROFIT: 290.2		-41.1		-47.5		39.3		-177.1
+PQoQ%: 	-417.6		-114.2		15.5		-182.8		-550.4
+
+
+
+***QUARTERLY***
+QPNL: 	Jun-2006	Sep-2006	Dec-2006	Mar-2007	Jun-2007
+QSALES: 296.6		242.8		197.4		254.6		249.2
+QoQ%: 	9.0		-18.2		-18.7		29.0		-2.1
+QOPM%: 	24.2		16.6		18.4		16.0		2.9
+QNPM%: 	12.0		4.6		3.3		3.8		0.0
+QPFT: 	35.7		11.3		6.5		9.7		-1.9
+PQoQ%: 	3.7		-68.4		-42.4		49.0		-119.5
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 57% YSales
-- Double QSales and QProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
-- YProfits and YSales DOUBLED in Mar2023
 
-
-Yearly 
- 31-Mar-2024 #Result
-1069.30cr, QoQ -0.60% & YoY 33.16% SALES;
-74.20cr, QoQ -24.90% & YoY -195.37% OPERATING PROFIT;
-129.50cr, QoQ -69.00% & YoY -162.89% NET PROFIT;
-OPM %: 6.90% vs 9.2%
-NPM %: 12.10% vs 38.8%
-
+***CONS***
+- NEGATIVE YProfit : -177.1

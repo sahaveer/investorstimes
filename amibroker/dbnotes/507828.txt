@@ -1,31 +1,44 @@
-CODE	NAME
-507828 
-
+CODES	507828	
+FULLNAME : Ansal Housing Ltd
 SECTOR : Realty
-INDUSTRY : Construction
-PRODUCT DEMAND
-BestQ Dec 2024
+INDUSTRY : Residential, Commercial Projects
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  163.9   |  170.6   |  237.2   |  249.9   |  464.5   |     332.3    
- SQoQ%:  |  -15.9   |   4.1    |   39.1   |   5.3    |   85.9   |      71.5    
- YOPM%:  |   0.0    |   1.2    |   12.2   |   12.0   |   14.8   |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   1.7    |              
-YPROFIT: |  -57.9   |  -42.3   |  -23.3   |  -61.4   |   7.9    |      36.2    
- PQoQ%:  |  1365.8  |  -27.0   |  -44.8   |  162.9   |  -112.9  |     458.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  108.6   |  146.8   |  108.2   |  136.0   |   88.1  
- QoQ%:  |  -17.0   |   35.1   |  -26.3   |   25.8   |  -35.2  
- QOPM%: |   15.6   |   12.2   |   0.5    |   5.2    |   10.3  
- QNPM%: |   0.0    |   13.4   |   38.5   |   0.0    |   1.5   
- QPFT:  |   -6.6   |   19.7   |   41.6   |   -6.7   |   1.3   
- PQoQ%: |  713.6   |  -398.5  |  111.5   |  -116.2  |  -119.7 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 170.6		237.2		249.9		464.8		444.5		271.4
+SQoQ%: 	4.1		39.1		5.3		86.0		-4.4		61.1
+YOPM%: 	1.2		12.2		12.0		14.8		5.2
+YNPM%: 	0.0		0.0		0.0		1.7		4.1
+YPROFIT: -42.3		-23.3		-61.4		7.9		18.1		-8.8
+PQoQ%: 	-27.0		-44.8		162.9		-112.9		128.2		-48.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 88.1		112.2		83.8		121.5		66.1
+QoQ%: 	-35.2		27.3		-25.3		45.0		-45.6
+QOPM%: 	10.3		1.5		16.3		4.2		11.2
+QNPM%: 	1.5		0.0		0.0		0.0		0.0
+QPFT: 	1.3		-18.1		-0.3		-6.6		-1.9
+PQoQ%: 	-119.7		-1460.2		-98.4		2182.8		-70.8
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 72% YSales
-- Last 3QPROFIT is about 458% of YProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 7.9
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 61% YSales
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+444.50cr, QoQ -4.40% & YoY 160.55% SALES;
+23.30cr, QoQ -66.10% & YoY 1065.00% OPERATING PROFIT;
+18.10cr, QoQ 128.20% & YoY -142.79% NET PROFIT;
+OPM %: 5.20% vs 14.8%
+NPM %: 4.10% vs 1.7%
+

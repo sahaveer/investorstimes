@@ -1,38 +1,43 @@
-CODE	NAME
-531842 
+CODES	531842	
+FULLNAME : Lahoti Overseas Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+BestQ Dec 2025
 
-SECTOR : Trading
-INDUSTRY : Trading
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 470.1		892.0		318.5		487.5		521.6		294.6
+SQoQ%: 	18.6		89.7		-64.3		53.1		7.0		56.5
+YOPM%: 	2.0		4.0		6.1		2.8		3.4
+YNPM%: 	1.8		2.7		4.9		2.5		2.5
+YPROFIT: 8.2		23.7		15.7		12.1		13.1		12.9
+PQoQ%: 	52.4		188.0		-33.6		-23.4		9.0		98.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 121.0		123.6		85.9		108.8		99.9
+QoQ%: 	-23.0		2.1		-30.5		26.7		-8.2
+QOPM%: 	6.0		4.7		0.0		0.8		4.5
+QNPM%: 	3.8		3.5		1.9		6.4		4.3
+QPFT: 	4.6		4.3		1.6		7.0		4.3
+PQoQ%: 	-1623.3		-6.3		-61.9		327.6		-38.0
+
+
+
+***PROS***
+- Last 3QSALES is about 56% YSales
+- Last 3QPROFIT is about 98% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  396.4   |  470.1   |  892.0   |  318.5   |  487.5   |     397.9    
- SQoQ%:  |  -38.2   |   18.6   |   89.7   |  -64.3   |   53.1   |      81.6    
- YOPM%:  |   2.7    |   2.0    |   4.0    |   6.1    |   2.8    |              
- YNPM%:  |   1.4    |   1.8    |   2.7    |   4.9    |   2.5    |              
-YPROFIT: |   5.4    |   8.2    |   23.7   |   15.7   |   12.1   |      8.9     
- PQoQ%:  |  -66.7   |   52.4   |  188.0   |  -33.6   |  -23.4   |      73.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  119.5   |  101.6   |  119.7   |  157.2   |  121.0  
- QoQ%:  |  -17.5   |  -15.0   |   17.8   |   31.4   |  -23.0  
- QOPM%: |   3.2    |   0.0    |   3.1    |   0.7    |   6.0   
- QNPM%: |   3.1    |   0.0    |   3.8    |   0.0    |   3.8   
- QPFT:  |   3.7    |   -0.9   |   4.6    |   -0.3   |   4.6   
- PQoQ%: |  -40.8   |  -124.0  |  -621.6  |  -106.5  | -1623.3 
-
-***PROS***
-- Last 3QSALES is about 82% YSales
-- Last 3QPROFIT is about 74% of YProfit
 
 Yearly 
- 31-Mar-2024 #Result
-487.50cr, QoQ 53.10% & YoY 22.98% SALES;
-13.70cr, QoQ -29.60% & YoY 28.04% OPERATING PROFIT;
-12.10cr, QoQ -23.40% & YoY 124.07% NET PROFIT;
-OPM %: 2.80% vs 6.1%
-NPM %: 2.50% vs 4.9%
+ 31-Mar-2025 #Result
+521.60cr, QoQ 7.00% & YoY 10.96% SALES;
+17.80cr, QoQ 30.70% & YoY 93.48% OPERATING PROFIT;
+13.10cr, QoQ 9.00% & YoY 59.76% NET PROFIT;
+OPM %: 3.40% vs 2.8%
+NPM %: 2.50% vs 2.5%
 

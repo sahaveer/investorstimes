@@ -1,25 +1,38 @@
-CODES
-SILKFLEX	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	SILKFLEX	
+FULLNAME : Silkflex Polymers (India) Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
 LYPD PM 2025
-PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-- NO PRODUCT DEMAND
+***YEARLY***
 
+
+***QUARTERLY***
 
 
 ***PROS***
 - LastYr YProfits Doubled and maintained in Mar2025
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2025, Sales have increased by 34.5% while the Profit QoQ_growth is much better than Sales itself at 78.1%
+
+YSALES in Mar-2025 is at 80.1 showing a QoQ_growth of 59.5%. The YNETPROFIT grew by 78.1% to 7.0
+- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2025 is at 78.4%. The QPROFIT QoQ_growth by 134.7%
+
+***CONS***
+- NO PRODUCT DEMAND
+
+Quarterly 
+31-Dec-2025 #Result
+33.50cr, QoQ 78.40% SALES;
+7.10cr, QoQ 153.00% OPERATING PROFIT;
+4.10cr, QoQ 134.70% NET PROFIT;
+OPM %: 21.20% vs 14.9%
+NPM %: 12.10% vs 9.2%
+
 
 Yearly 
  31-Mar-2025 #Result
-80.20cr, QoQ 34.50% & YoY 287.44% SALES;
-11.80cr, QoQ 68.10% & YoY 883.33% OPERATING PROFIT;
+80.10cr, QoQ 59.50% & YoY 286.96% SALES;
+12.00cr, QoQ 67.10% & YoY 900.00% OPERATING PROFIT;
 7.00cr, QoQ 78.10% & YoY 1650.00% NET PROFIT;
-OPM %: 14.70% vs 11.7%
-NPM %: 8.70% vs 6.6%
+OPM %: 15.00% vs 14.3%
+NPM %: 8.70% vs 7.8%
 

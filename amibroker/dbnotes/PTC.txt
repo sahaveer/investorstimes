@@ -1,39 +1,45 @@
-CODES
-532524	PTC	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	532524	PTC	
+FULLNAME : PTC India Ltd
+SECTOR : Power
+INDUSTRY : Power Trading
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  | 18100.8  | 18345.5  | 16856.4  | 15673.8  | 16763.2  |    13234.4   
- SQoQ%:  |   19.4   |   1.4    |   -8.1   |   -7.0   |   7.0    |      78.9    
- YOPM%:  |   10.1   |   9.2    |   9.4    |   7.1    |   6.4    |              
- YNPM%:  |   2.0    |   2.4    |   3.0    |   2.8    |   2.8    |              
-YPROFIT: |  367.6   |  448.7   |  506.2   |  445.6   |  476.9   |     548.7    
- PQoQ%:  |  -13.6   |   22.1   |   12.8   |  -12.0   |   7.0    |     115.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  3428.0  |  3507.4  |  4685.6  |  5128.0  |  3420.8 
- QoQ%:  |  -32.4   |   2.3    |   33.6   |   9.4    |  -33.3  
- QOPM%: |   7.3    |   7.2    |   6.5    |   6.0    |   9.1   
- QNPM%: |   2.3    |   2.6    |   3.7    |   4.2    |   4.6   
- QPFT:  |   79.4   |   91.3   |  173.9   |  217.2   |  157.6  
- PQoQ%: |  -56.2   |   15.0   |   90.4   |   24.9   |  -27.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 18345.5		16856.4		15970.6		16763.2		16240.7		12873.3
+SQoQ%: 	1.4		-8.1		-5.3		5.0		-3.1		79.3
+YOPM%: 	9.3		9.4		8.5		6.4		7.0
+YNPM%: 	2.4		3.0		2.8		2.8		5.5
+YPROFIT: 448.7		506.2		445.6		476.9		900.2		500.2
+PQoQ%: 	22.1		12.8		-12.0		7.0		88.8		55.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3420.8		2924.0		4009.2		5458.7		3405.4
+QoQ%: 	-33.3		-14.5		37.1		36.2		-37.6
+QOPM%: 	9.1		5.3		7.2		5.0		5.1
+QNPM%: 	4.6		12.0		4.9		3.5		3.3
+QPFT: 	157.6		351.5		195.0		191.2		114.0
+PQoQ%: 	-27.5		123.0		-44.5		-2.0		-40.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
 - Last 3QSALES is about 79% YSales
-- Last 3QPROFIT is about 115% of YProfit
+- Last 3QPROFIT is about 56% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-16763.20cr, QoQ 7.00% & YoY -7.39% SALES;
-1069.70cr, QoQ -3.70% & YoY -41.41% OPERATING PROFIT;
-476.90cr, QoQ 7.00% & YoY 29.73% NET PROFIT;
-OPM %: 6.40% vs 7.1%
-NPM %: 2.80% vs 2.8%
+ 31-Mar-2025 #Result
+16240.70cr, QoQ -3.10% & YoY -11.47% SALES;
+1137.10cr, QoQ 6.30% & YoY -33.08% OPERATING PROFIT;
+900.20cr, QoQ 88.80% & YoY 100.62% NET PROFIT;
+OPM %: 7.00% vs 6.4%
+NPM %: 5.50% vs 2.8%
 

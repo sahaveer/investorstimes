@@ -1,39 +1,48 @@
-CODE	NAME
-530477 
+CODES	530477	
+FULLNAME : Vikram Thermo (India) Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
+PRODUCT DEMAND
+BestQ Dec 2025
 
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 73.6		92.6		111.5		101.3		126.2		97.2
+SQoQ%: 	31.8		25.8		20.5		-9.2		24.6		77.0
+YOPM%: 	24.6		15.8		23.4		36.7		35.4
+YNPM%: 	16.4		9.4		15.2		25.1		6.4
+YPROFIT: 12.1		8.7		16.9		25.4		8.1		30.0
+PQoQ%: 	66.7		-28.0		94.6		50.1		-68.1		370.4
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   55.8   |   73.6   |   92.6   |  111.5   |  126.4   |      99.2    
- SQoQ%:  |   -4.1   |   31.8   |   25.8   |   20.5   |   13.3   |      78.5    
- YOPM%:  |   21.3   |   24.6   |   15.8   |   23.4   |   29.7   |              
- YNPM%:  |   13.0   |   16.4   |   9.4    |   15.2   |   20.1   |              
-YPROFIT: |   7.2    |   12.1   |   8.7    |   16.9   |   25.4   |      4.1     
- PQoQ%:  |   63.4   |   66.7   |  -28.0   |   94.6   |   50.1   |      16.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   24.4   |   27.4   |   31.2   |   33.7   |   34.3  
- QoQ%:  |  -28.0   |   12.5   |   13.7   |   8.1    |   2.0   
- QOPM%: |   38.7   |   27.3   |   37.1   |   37.1   |   38.9  
- QNPM%: |   26.4   |   18.0   |   0.0    |   29.1   |   29.3  
- QPFT:  |   6.4    |   4.9    |  -15.8   |   9.8    |   10.1  
- PQoQ%: |  -21.9   |  -23.4   |  -421.1  |  -161.8  |   2.9   
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 34.3		27.1		28.6		34.6		34.0
+QoQ%: 	2.0		-21.0		5.5		21.1		-1.8
+QOPM%: 	38.9		24.6		39.5		44.7		44.5
+QNPM%: 	26.3		15.0		27.8		32.0		32.2
+QPFT: 	9.0		4.1		7.9		11.1		11.0
+PQoQ%: 	-7.9		-54.9		95.1		39.5		-1.1
+
+
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 24.4%
-- Last 3QSALES is about 78% YSales
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
+ROCE in Mar2025 is at 24.9%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 370% of YProfit
+
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-126.40cr, QoQ 13.30% & YoY 126.52% SALES;
-37.50cr, QoQ 44.10% & YoY 215.13% OPERATING PROFIT;
-25.40cr, QoQ 50.10% & YoY 252.78% NET PROFIT;
-OPM %: 29.70% vs 23.4%
-NPM %: 20.10% vs 15.2%
+ 31-Mar-2025 #Result
+126.20cr, QoQ 24.60% & YoY 71.47% SALES;
+44.70cr, QoQ 20.30% & YoY 146.96% OPERATING PROFIT;
+8.10cr, QoQ -68.10% & YoY -33.06% NET PROFIT;
+OPM %: 35.40% vs 36.7%
+NPM %: 6.40% vs 25.1%
 

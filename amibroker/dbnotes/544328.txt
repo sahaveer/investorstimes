@@ -1,16 +1,18 @@
-CODES
-544328	INDOFARM	
+CODES	544328	INDOFARM	
+FULLNAME : Indo Farm Equipment Ltd
 SECTOR : Automobile
 INDUSTRY : Automobiles - Tractors
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2024 is at 11.7%. The QPROFIT QoQ_growth by 10.6%
+
+***CONS***
 
 Quarterly 
 31-Dec-2024 #Result

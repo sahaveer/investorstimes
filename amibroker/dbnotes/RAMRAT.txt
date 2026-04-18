@@ -1,39 +1,46 @@
-CODES
-522281	RAMRAT	
-SECTOR : Non Ferrous Metals
-INDUSTRY : Mining / Minerals / Metals
+CODES	522281	RAMRAT	
+FULLNAME : Ram Ratna Wires Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Other Electrical Equipment
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1446.4  |  1526.9  |  2288.6  |  2649.6  |  2983.2  |     2720.0   
- SQoQ%:  |   1.7    |   5.6    |   49.9   |   15.8   |   12.6   |      91.2    
- YOPM%:  |   4.2    |   4.0    |   4.8    |   4.1    |   4.0    |              
- YNPM%:  |   1.0    |   1.0    |   2.3    |   1.7    |   1.8    |              
-YPROFIT: |   14.4   |   14.9   |   52.2   |   44.9   |   52.3   |      47.0    
- PQoQ%:  |   -7.5   |   3.1    |  250.3   |  -14.0   |   16.4   |      89.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  698.4   |  803.4   |  891.5   |  939.8   |  888.7  
- QoQ%:  |   -7.7   |   15.0   |   11.0   |   5.4    |   -5.4  
- QOPM%: |   3.7    |   4.6    |   4.0    |   3.8    |   4.3   
- QNPM%: |   1.7    |   2.2    |   1.5    |   1.8    |   1.8   
- QPFT:  |   11.5   |   17.6   |   13.8   |   16.8   |   16.4  
- PQoQ%: |  -16.1   |   52.6   |  -21.5   |   21.9   |   -2.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1526.9		2288.6		2649.6		2983.3		3676.8		3423.8
+SQoQ%: 	5.6		49.9		15.8		12.6		23.2		93.1
+YOPM%: 	4.0		4.8		4.1		4.0		4.2
+YNPM%: 	1.0		2.3		1.7		1.9		1.9
+YPROFIT: 14.9		52.2		44.9		56.1		70.2		68.1
+PQoQ%: 	3.1		250.3		-14.0		24.9		25.1		97.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 888.7		956.8		982.5		1163.4		1277.9
+QoQ%: 	-5.4		7.7		2.7		18.4		9.8
+QOPM%: 	4.3		4.7		4.4		4.7		5.5
+QNPM%: 	1.8		1.9		1.6		1.8		2.4
+QPFT: 	16.4		18.0		15.5		21.3		31.3
+PQoQ%: 	-2.3		9.4		-14.1		37.8		46.9
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 91% YSales
-- Last 3QPROFIT is about 90% of YProfit
+- Last 3QSALES is about 93% YSales
+- Last 3QPROFIT is about 97% of YProfit
+
+YSALES in Mar-2025 is at 3676.8 showing a QoQ_growth of 23.2%. The YNETPROFIT grew by 25.1% to 70.2
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-2983.20cr, QoQ 12.60% & YoY 106.25% SALES;
-119.60cr, QoQ 9.60% & YoY 98.01% OPERATING PROFIT;
-52.30cr, QoQ 16.40% & YoY 263.19% NET PROFIT;
-OPM %: 4.00% vs 4.1%
-NPM %: 1.80% vs 1.7%
+ 31-Mar-2025 #Result
+3676.80cr, QoQ 23.20% & YoY 140.80% SALES;
+156.20cr, QoQ 30.60% & YoY 153.57% OPERATING PROFIT;
+70.20cr, QoQ 25.10% & YoY 371.14% NET PROFIT;
+OPM %: 4.20% vs 4.0%
+NPM %: 1.90% vs 1.9%
 

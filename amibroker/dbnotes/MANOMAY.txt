@@ -1,31 +1,40 @@
-CODES
-540396	MANOMAY	
-SECTOR : 
-INDUSTRY : 
+CODES	540396	MANOMAY	
+FULLNAME : Manomay Tex India Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  321.2   |  589.5   |  698.9   |  583.1   |  696.9  
- SQoQ%:  |  -20.8   |   83.5   |   18.5   |  -16.6   |   19.5  
- YOPM%:  |   5.5    |   4.9    |   6.0    |   8.3    |   12.3  
- YNPM%:  |   0.9    |   1.3    |   1.9    |   2.2    |   2.8   
-YPROFIT: |   2.8    |   7.7    |   13.0   |   13.0   |   19.2  
- PQoQ%:  |  -59.4   |  180.4   |   68.0   |   0.4    |   48.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  184.7   |  155.4   |  176.5   |  185.9   |  179.1  
- QoQ%:  |   48.2   |  -15.9   |   13.6   |   5.3    |   -3.6  
- QOPM%: |   9.5    |   12.6   |   13.1   |   13.2   |   10.2  
- QNPM%: |   2.2    |   3.3    |   2.7    |   3.2    |   1.9   
- QPFT:  |   4.0    |   5.1    |   4.8    |   6.0    |   3.3   
- PQoQ%: |   5.2    |   26.2   |   -6.3   |   25.9   |  -44.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 321.2		589.5		698.9		583.1		696.9		506.7
+SQoQ%: 	-20.8		83.5		18.5		-16.6		19.5		72.7
+YOPM%: 	5.5		4.9		6.0		8.3		12.3
+YNPM%: 	0.9		1.3		1.9		2.2		2.8
+YPROFIT: 2.8		7.7		13.0		13.0		19.2		14.6
+PQoQ%: 	-59.4		180.4		68.0		0.4		48.1		76.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 185.9		179.1		163.9		166.2		176.6
+QoQ%: 	5.3		-3.6		-8.5		1.3		6.3
+QOPM%: 	13.2		10.2		12.4		13.6		11.1
+QNPM%: 	3.2		1.9		2.7		3.4		2.6
+QPFT: 	6.0		3.3		4.4		5.6		4.6
+PQoQ%: 	25.9		-44.8		33.6		25.2		-16.9
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 73% YSales
+- Last 3QPROFIT is about 76% of YProfit
 
 YSALES in Mar-2025 is at 696.9 showing a QoQ_growth of 19.5%. The YNETPROFIT grew by 48.1% to 19.2
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

@@ -1,13 +1,15 @@
-CODE	NAME
-512036 
+CODES	512036	
+FULLNAME : Skybiotech Healthcare Limited
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 
-SECTOR : Textiles
-INDUSTRY : Textiles - Processing
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -2.4

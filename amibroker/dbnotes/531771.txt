@@ -1,13 +1,14 @@
-CODE	NAME
-531771 
-
+CODES	531771	
+FULLNAME : Shraddha Prime Projects Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

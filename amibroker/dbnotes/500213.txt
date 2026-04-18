@@ -1,41 +1,47 @@
-CODE	NAME
-500213 
-
-SECTOR : Miscellaneous
-INDUSTRY : Travel Agencies
+CODES	500213	
+FULLNAME : International Travel House Ltd
+SECTOR : Leisure Services
+INDUSTRY : Tour, Travel Related Services
 PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   59.4   |   94.2   |  184.0   |  217.3   |  235.6  
- SQoQ%:  |  -71.6   |   58.6   |   95.4   |   18.1   |   8.4   
- YOPM%:  |   0.0    |   0.0    |   11.9   |   15.9   |   15.9  
- YNPM%:  |   0.0    |   0.0    |   15.4   |   10.4   |   11.5  
-YPROFIT: |  -45.1   |  -10.7   |   28.4   |   22.5   |   27.2  
- PQoQ%:  |  508.2   |  -76.3   |  -365.3  |  -20.7   |   20.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   58.7   |   55.8   |   60.9   |   58.3   |   60.7  
- QoQ%:  |   9.2    |   -5.0   |   9.3    |   -4.4   |   4.1   
- QOPM%: |   14.9   |   17.1   |   16.6   |   13.0   |   16.9  
- QNPM%: |   10.5   |   12.0   |   12.2   |   9.2    |   12.6  
- QPFT:  |   6.1    |   6.7    |   7.4    |   5.4    |   7.6   
- PQoQ%: |   24.1   |   9.5    |   10.7   |  -27.6   |   41.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 59.4		94.2		184.0		217.3		235.6		174.6
+SQoQ%: 	-71.6		58.6		95.4		18.1		8.4		74.1
+YOPM%: 	0.0		0.0		11.9		15.9		16.2
+YNPM%: 	0.0		0.0		15.4		10.4		11.5
+YPROFIT: -45.1		-10.7		28.4		22.5		27.2		13.3
+PQoQ%: 	508.2		-76.3		-365.3		-20.7		20.7		48.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 58.3		60.7		57.0		59.4		58.2
+QoQ%: 	-4.4		4.1		-6.0		4.2		-2.0
+QOPM%: 	13.0		16.9		16.4		15.8		12.1
+QNPM%: 	9.2		12.6		12.1		10.8		0.0
+QPFT: 	5.4		7.6		6.9		6.4		-0.0
+PQoQ%: 	-27.6		41.8		-10.0		-7.0		-100.3
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 18.5%
+ROCE in Mar2025 is at 19.1%
+- Last 3QSALES is about 74% YSales
 - YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 235.60cr, QoQ 8.40% & YoY 296.63% SALES;
-37.50cr, QoQ 8.70% & YoY -198.94% OPERATING PROFIT;
+38.10cr, QoQ 10.60% & YoY -200.53% OPERATING PROFIT;
 27.20cr, QoQ 20.70% & YoY -160.31% NET PROFIT;
-OPM %: 15.90% vs 15.9%
+OPM %: 16.20% vs 15.9%
 NPM %: 11.50% vs 10.4%
 

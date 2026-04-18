@@ -1,12 +1,14 @@
-CODES
-544289	NTPCGREEN	
+CODES	544289	NTPCGREEN	
+FULLNAME : NTPC Green Energy Ltd
 SECTOR : Power Generation & Distribution
 INDUSTRY : Power Generation And Supply
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

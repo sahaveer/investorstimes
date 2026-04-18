@@ -1,36 +1,44 @@
-CODES
-524230	RCF	
-SECTOR : Fertilizers
+CODES	524230	RCF	
+FULLNAME : Rashtriya Chemicals & Fertilizers Ltd
+SECTOR : Fertilizers & Agrochemicals
 INDUSTRY : Fertilizers
-BestQ Dec 2024
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  9698.0  |  8281.2  | 12812.2  | 21451.5  | 16981.3  |    13204.1   
- SQoQ%:  |   9.1    |  -14.6   |   54.7   |   67.4   |  -20.8   |      77.8    
- YOPM%:  |   6.0    |   9.1    |   7.7    |   6.9    |   3.1    |              
- YNPM%:  |   2.1    |   4.6    |   5.5    |   4.5    |   1.3    |              
-YPROFIT: |  207.1   |  384.1   |  702.4   |  966.3   |  225.3   |     170.0    
- PQoQ%:  |   55.8   |   85.4   |   82.9   |   37.6   |  -76.7   |      75.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  4903.5  |  3879.6  |  4396.1  |  4289.6  |  4518.4 
- QoQ%:  |   18.0   |  -20.9   |   13.3   |   -2.4   |   5.3   
- QOPM%: |   1.7    |   5.0    |   2.6    |   4.7    |   4.0   
- QNPM%: |   0.2    |   2.5    |   0.2    |   1.8    |   1.8   
- QPFT:  |   11.2   |   95.2   |   10.8   |   79.0   |   80.2  
- PQoQ%: |  -78.0   |  748.8   |  -88.7   |  631.1   |   1.6   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 8281.2		12812.2		21451.5		16981.3		16933.6		12899.6
+SQoQ%: 	-14.6		54.7		67.4		-20.8		-0.3		76.2
+YOPM%: 	9.1		7.7		6.9		3.1		4.0
+YNPM%: 	4.6		5.5		4.5		1.3		1.4
+YPROFIT: 384.1		702.4		966.3		225.3		242.4		240.8
+PQoQ%: 	85.4		82.9		37.6		-76.7		7.6		99.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4518.4		3729.7		3370.6		5292.6		4236.4
+QoQ%: 	5.3		-17.5		-9.6		57.0		-20.0
+QOPM%: 	4.0		4.8		4.7		4.0		5.8
+QNPM%: 	1.8		1.9		1.6		2.0		1.9
+QPFT: 	80.2		72.5		54.4		105.4		81.0
+PQoQ%: 	1.6		-9.7		-24.9		93.6		-23.2
+
+
 
 ***PROS***
-- Last 3QSALES is about 78% YSales
-- Last 3QPROFIT is about 75% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 99% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-16981.30cr, QoQ -20.80% & YoY 75.10% SALES;
-520.20cr, QoQ -64.90% & YoY -11.30% OPERATING PROFIT;
-225.30cr, QoQ -76.70% & YoY 8.79% NET PROFIT;
-OPM %: 3.10% vs 6.9%
-NPM %: 1.30% vs 4.5%
+ 31-Mar-2025 #Result
+16933.60cr, QoQ -0.30% & YoY 104.48% SALES;
+681.10cr, QoQ 30.90% & YoY -9.66% OPERATING PROFIT;
+242.40cr, QoQ 7.60% & YoY -36.89% NET PROFIT;
+OPM %: 4.00% vs 3.1%
+NPM %: 1.40% vs 1.3%
 

@@ -1,31 +1,38 @@
-CODES
-543635	PPLPHARMA	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+CODES	543635	PPLPHARMA	
+FULLNAME : Piramal Pharma Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 PRODUCT DEMAND
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  6314.9  |  6559.1  |  7081.6  |  8171.2  |  9151.2 
- SQoQ%:  |   nan    |   3.9    |   8.0    |   15.4   |   12.0  
- YOPM%:  |   22.6   |   14.5   |   8.9    |   14.6   |   15.8  
- YNPM%:  |   13.2   |   5.7    |   0.0    |   0.2    |   1.0   
-YPROFIT: |  835.0   |  376.0   |  -186.5  |   17.8   |   91.1  
- PQoQ%:  |   nan    |  -55.0   |  -149.6  |  -109.6  |  411.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2552.4  |  1951.1  |  2241.8  |  2204.2  |  2754.1 
- QoQ%:  |   30.3   |  -23.6   |   14.9   |   -1.7   |   24.9  
- QOPM%: |   20.8   |   10.5   |   15.2   |   15.3   |   20.4  
- QNPM%: |   4.0    |   0.0    |   1.0    |   0.2    |   5.6   
- QPFT:  |  101.3   |  -88.6   |   22.6   |   3.7    |  153.5  
- PQoQ%: |  901.7   |  -187.5  |  -125.5  |  -83.7   |  4071.2 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 6314.9		6559.1		7081.6		8171.2		9151.2		6117.3
+SQoQ%: 	nan		3.9		8.0		15.4		12.0		66.8
+YOPM%: 	22.6		14.5		8.9		14.6		15.8
+YNPM%: 	13.2		5.7		0.0		0.2		1.0
+YPROFIT: 835.0		376.0		-186.5		17.8		91.1		-317.1
+PQoQ%: 	nan		-55.0		-149.6		-109.6		411.4		-348.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2204.2		2754.1		1933.7		2043.7		2139.9
+QoQ%: 	-1.7		24.9		-29.8		5.7		4.7
+QOPM%: 	15.3		20.4		5.5		7.8		9.1
+QNPM%: 	0.2		5.6		0.0		0.0		0.0
+QPFT: 	3.7		153.5		-81.7		-99.2		-136.2
+PQoQ%: 	-83.7		4071.2		-153.2		21.4		37.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 67% YSales
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

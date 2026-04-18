@@ -1,23 +1,23 @@
-CODE	NAME
-543515 
+CODES	543515	
+FULLNAME : Sunrise Efficient Marketing Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 A DEBT-Free Company
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
 
+***CONS***
+- NO PRODUCT DEMAND
+
 Yearly 
  31-Mar-2025 #Result
-129.10cr, QoQ 12.70% & YoY 394.64% SALES;
+132.90cr, QoQ 16.00% & YoY 409.20% SALES;
 12.70cr, QoQ 5.40% & YoY 2016.67% OPERATING PROFIT;
 9.20cr, QoQ 13.70% & YoY 4500.00% NET PROFIT;
-OPM %: 9.90% vs 10.6%
-NPM %: 7.10% vs 7.1%
+OPM %: 9.60% vs 10.6%
+NPM %: 6.90% vs 7.1%
 

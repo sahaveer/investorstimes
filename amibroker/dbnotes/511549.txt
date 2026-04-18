@@ -1,36 +1,42 @@
-CODE	NAME
-511549 
-
+CODES	511549	
+FULLNAME : Morarka Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   1.3    |   4.5    |   5.9    |   7.6    |   2.5   
- SQoQ%:  |  -76.6   |  252.8   |   30.8   |   29.4   |  -67.0  
- YOPM%:  |   71.7   |   90.6   |   93.5   |   93.9   |   77.6  
- YNPM%:  |   54.3   |   82.4   |   79.9   |   83.4   |  112.0  
-YPROFIT: |   0.7    |   3.7    |   4.7    |   6.3    |   2.8   
- PQoQ%:  |  -86.1   |  434.8   |   26.8   |   35.0   |  -55.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   0.8    |   0.8    |   1.2    |   0.2    |   0.3   
- QoQ%:  |   8.0    |   0.0    |   46.9   |  -85.7   |  100.0  
- QOPM%: |   85.2   |   84.0   |   90.8   |   11.8   |   52.9  
- QNPM%: |   65.4   |  202.5   |   45.4   |   52.9   |  152.9  
- QPFT:  |   0.5    |   1.6    |   0.5    |   0.1    |   0.5   
- PQoQ%: |   43.2   |  209.4   |  -67.1   |  -83.3   |  477.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.3		4.5		5.9		7.6		2.5		2.1
+SQoQ%: 	-76.6		252.8		30.8		29.4		-66.9		84.0
+YOPM%: 	71.7		90.6		93.5		93.9		77.7
+YNPM%: 	54.3		82.4		79.9		83.4		111.6
+YPROFIT: 0.7		3.7		4.7		6.3		2.8		1.3
+PQoQ%: 	-86.1		434.8		26.8		35.0		-55.7		46.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.2		0.3		0.3		1.6		0.2
+QoQ%: 	-85.7		100.0		-14.7		458.6		-84.6
+QOPM%: 	11.8		52.9		51.7		92.0		40.0
+QNPM%: 	52.9		152.9		48.3		69.1		28.0
+QPFT: 	0.1		0.5		0.1		1.1		0.1
+PQoQ%: 	-83.3		477.8		-73.1		700.0		-93.8
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
+- Last 3QSALES is about 84% YSales
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-2.50cr, QoQ -67.00% & YoY 92.31% SALES;
-1.90cr, QoQ -72.80% & YoY 111.11% OPERATING PROFIT;
+2.50cr, QoQ -66.90% & YoY 92.31% SALES;
+1.90cr, QoQ -72.60% & YoY 111.11% OPERATING PROFIT;
 2.80cr, QoQ -55.70% & YoY 300.00% NET PROFIT;
-OPM %: 77.60% vs 93.9%
-NPM %: 112.00% vs 83.4%
+OPM %: 77.70% vs 93.9%
+NPM %: 111.60% vs 83.4%
 

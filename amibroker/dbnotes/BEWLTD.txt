@@ -1,20 +1,22 @@
-CODES
-BEWLTD	
-SECTOR : Engineering
-INDUSTRY : Engineering
+CODES	BEWLTD	
+FULLNAME : BEW Engineering Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 EXPANSION 2024
+EXPANSION 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 134.40cr, QoQ 11.30% & YoY 126.26% SALES;
-20.40cr, QoQ -14.70% & YoY 148.78% OPERATING PROFIT;
+20.50cr, QoQ -14.30% & YoY 150.00% OPERATING PROFIT;
 12.20cr, QoQ -10.30% & YoY 408.33% NET PROFIT;
 OPM %: 15.20% vs 19.8%
 NPM %: 9.10% vs 11.2%

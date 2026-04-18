@@ -1,30 +1,36 @@
-CODE	NAME
-512493 
-
+CODES	512493	
+FULLNAME : Garnet International Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-PRODUCT DEMAND
-YSD YPD 2022
+INDUSTRY : Investment Company
+EXPANSION 2025
+BestQ Dec 2025
 
-***CONS***
-- NEGATIVE YProfit : -6.0
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   17.5   |   17.8   |   43.8   |   59.3   |   20.3   |      7.0     
- SQoQ%:  |  -78.9   |   1.4    |  146.6   |   35.3   |  -65.8   |      34.5    
- YOPM%:  |   0.0    |   0.0    |   0.6    |   10.0   |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   4.8    |   0.0    |              
-YPROFIT: |  -10.9   |   -3.7   |   -1.7   |   2.8    |   -6.0   |      1.2     
- PQoQ%:  |  -81.1   |  -65.8   |  -53.9   |  -265.1  |  -310.9  |     -20.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   12.3   |   19.7   |   2.6    |   1.5    |   2.9   
- QoQ%:  |   -2.9   |   60.4   |  -86.6   |  -44.7   |   95.9  
- QOPM%: |   22.5   |   0.0    |   2.3    |   0.0    |   0.0   
- QNPM%: |   15.3   |   0.0    |   29.2   |   38.4   |   0.0   
- QPFT:  |   1.9    |   -4.9   |   0.8    |   0.6    |   -0.2  
- PQoQ%: |  -167.8  |  -359.9  |  -115.8  |  -27.3   |  -133.9 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 17.8		43.8		59.3		20.3		8.7		4.4
+SQoQ%: 	1.4		146.6		35.3		-65.8		-57.0		50.6
+YOPM%: 	0.0		0.6		10.0		0.0		2.3
+YNPM%: 	0.0		0.0		4.8		0.0		17.4
+YPROFIT: -3.7		-1.7		2.8		-6.0		1.5		4.2
+PQoQ%: 	-65.8		-53.9		-265.1		-310.9		-125.4		280.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2.9		1.8		2.1		2.0		0.3
+QoQ%: 	95.9		-38.1		20.3		-4.2		-86.3
+QOPM%: 	0.0		10.7		60.6		86.3		10.7
+QNPM%: 	0.0		21.5		60.6		137.7		39.3
+QPFT: 	-0.2		0.4		1.3		2.8		0.1
+PQoQ%: 	-133.9		-300.0		239.5		117.8		-96.1
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- YProfits and YSales DOUBLED in Mar2022
+EXPANSION ??- EXPANSION underway in Mar-2025, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+- Last 3QSALES is about 51% YSales
+- Last 3QPROFIT is about 280% of YProfit
+- YProfit Turned POSITIVE this year Mar-2025 : 1.5
+
+***CONS***

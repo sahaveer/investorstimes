@@ -1,13 +1,14 @@
-CODE	NAME
-544090 
-
+CODES	544090	
+FULLNAME : Sayaji Hotels (Pune) Ltd
 SECTOR : Hotels & Restaurants
 INDUSTRY : Hotels
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

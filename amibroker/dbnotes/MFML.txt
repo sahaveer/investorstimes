@@ -1,13 +1,15 @@
-CODES
-544233	MFML	
+CODES	544233	MFML	
+FULLNAME : Mahalaxmi Fabric Mills Ltd
 SECTOR : Textiles
 INDUSTRY : Textiles - Products
 
-***CONS***
-- NEGATIVE YProfit : -1.9
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -1.9

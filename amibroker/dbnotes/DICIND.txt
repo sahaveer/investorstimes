@@ -1,26 +1,45 @@
-CODES
-500089	DICIND	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	500089	DICIND	
+FULLNAME : DIC India Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Printing Inks
+BestQ Sep 2025
 
-***CONS***
- YPNL:   | Dec-2020 | Dec-2021 | Dec-2022 | Dec-2023 | Dec-2024
----------+----------+----------+----------+----------+---------
-YSALES:  |  608.2   |  744.8   |  872.0   |  828.8   |  881.5  
- SQoQ%:  |  -23.1   |   22.5   |   17.1   |   -4.9   |   6.4   
- YOPM%:  |   3.7    |   3.1    |   2.4    |   1.2    |   4.1   
- YNPM%:  |   14.1   |   1.7    |   4.7    |   0.0    |   2.2   
-YPROFIT: |   85.9   |   12.4   |   41.0   |  -22.7   |   19.5  
- PQoQ%:  |  365.6   |  -85.6   |  230.8   |  -155.3  |  -186.2 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  198.6   |  242.7   |  221.0   |  219.2   |  210.2  
- QoQ%:  |   -3.2   |   22.2   |   -8.9   |   -0.8   |   -4.1  
- QOPM%: |   4.1    |   4.8    |   3.3    |   4.3    |   3.2   
- QNPM%: |   2.1    |   2.6    |   0.9    |   3.3    |   1.2   
- QPFT:  |   4.2    |   6.2    |   2.0    |   7.2    |   2.6   
- PQoQ%: |  -158.5  |   47.9   |  -68.1   |  261.1   |  -63.8  
+***YEARLY***
+YPNL: 	Dec-2021	Dec-2022	Dec-2023	Dec-2024	Dec-2025	QSUM:Sep-2025
+YSALES: 744.8		872.0		828.8		881.5		891.8		449.7
+SQoQ%: 	22.5		17.1		-4.9		6.4		1.2		50.4
+YOPM%: 	3.1		2.4		1.2		4.1		4.5
+YNPM%: 	1.7		4.7		0.0		2.2		1.9
+YPROFIT: 12.4		41.0		-22.7		19.5		17.4		10.3
+PQoQ%: 	-85.6		230.8		-155.3		-186.2		-11.1		59.2
+
+
+
+***QUARTERLY***
+QPNL: 	Sep-2024	Dec-2024	Mar-2025	Jun-2025	Sep-2025
+QSALES: 221.0		219.2		210.2		226.5		223.2
+QoQ%: 	-8.9		-0.8		-4.1		7.7		-1.5
+QOPM%: 	3.3		4.3		3.2		4.1		5.3
+QNPM%: 	0.9		3.3		1.2		1.9		2.6
+QPFT: 	2.0		7.2		2.6		4.4		5.9
+PQoQ%: 	-68.1		261.1		-63.8		68.3		34.6
+
+
 
 ***PROS***
-A DEBT-Free Company
-- YProfit Turned POSITIVE this year Dec-2024 : 19.5
+A DEBT-Free Company for the last 2 yrs
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- Last 2QSALES is about 50% YSales
+- Last 2QPROFIT is about 59% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
+
+Yearly 
+ 31-Dec-2025 #Result
+891.80cr, QoQ 1.20% & YoY 19.74% SALES;
+39.70cr, QoQ 9.00% & YoY 73.36% OPERATING PROFIT;
+17.40cr, QoQ -11.10% & YoY 40.32% NET PROFIT;
+OPM %: 4.50% vs 4.1%
+NPM %: 1.90% vs 2.2%
+

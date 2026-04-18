@@ -1,12 +1,14 @@
-CODES
-544209	BANSALWIRE	
+CODES	544209	BANSALWIRE	
+FULLNAME : Bansal Wire Industries Ltd
 SECTOR : Steel
 INDUSTRY : Steel - Medium / Small
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

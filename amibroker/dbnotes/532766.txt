@@ -1,14 +1,15 @@
-CODE	NAME
-532766 
-
+CODES	532766	
+FULLNAME : Richa Industries Ltd
 SECTOR : Construction
-INDUSTRY : Construction
+INDUSTRY : Civil Construction
 
-***CONS***
-- NEGATIVE YProfit : -57.3
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -57.3

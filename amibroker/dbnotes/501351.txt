@@ -1,28 +1,31 @@
-CODE	NAME
-501351 
-
+CODES	501351	
+FULLNAME : Rapid Investments Ltd
 SECTOR : Finance
 INDUSTRY : Finance & Investments
 BestQ Dec 2024
 YSD YPD 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.0    |   0.6    |   0.5    |   0.3    |   1.9    |      1.2     
- SQoQ%:  |  -24.4   |  -34.4   |  -23.8   |  -35.4   |  525.8   |      63.2    
- YOPM%:  |   2.1    |   1.6    |   0.0    |   6.5    |   26.8   |              
- YNPM%:  |   1.0    |   0.0    |   0.0    |   9.7    |   10.3   |              
-YPROFIT: |   0.0    |   0.0    |   0.0    |   0.0    |   0.2    |      0.1     
- PQoQ%:  |  -91.7   |  -100.0  |   nan    |   inf    |  566.7   |      50.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.5    |   0.6    |   0.4    |   0.3    |   0.5   
- QoQ%:  |   -2.1   |   21.7   |  -30.4   |  -15.4   |   60.6  
- QOPM%: |   26.1   |   35.7   |   7.7    |   15.2   |   13.2  
- QNPM%: |   6.5    |   14.3   |   7.7    |   12.1   |   11.3  
- QPFT:  |   0.0    |   0.1    |   0.0    |   0.0    |   0.1   
- PQoQ%: |  -25.0   |  166.7   |  -62.5   |   33.3   |   50.0  
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2022	Mar-2023	Mar-2024	QSUM:Dec-2024
+YSALES: 	1.0		0.6		0.5		0.3		1.9		1.2
+SQoQ%: 	-24.4		-34.4		-23.8		-35.4		525.8		63.2
+YOPM%: 	2.1		1.6		0.0		6.5		26.8
+YNPM%: 	1.0		0.0		0.0		9.7		10.3
+YPROFIT: 	0.0		0.0		0.0		0.0		0.2		0.1
+PQoQ%: 	-91.7		-100.0		nan		inf		566.7		50.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2023		Mar-2024	Jun-2024	Sep-2024		Dec-2024
+QSALES: 	0.5		0.6		0.4		0.3		0.5
+QoQ%: 	-2.1		21.7		-30.4		-15.4		60.6
+QOPM%: 	26.1		35.7		7.7		15.2		13.2
+QNPM%: 	6.5		14.3		7.7		12.1		11.3
+QPFT: 	0.0		0.1		0.0		0.0		0.1
+PQoQ%: 	-25.0		166.7		-62.5		33.3		50.0
+
+
 
 ***PROS***
 A DEBT-Free Company for the last 2 yrs
@@ -32,3 +35,5 @@ A DEBT-Free Company for the last 2 yrs
 - YProfits and YSales DOUBLED in Mar2024
 
 YSALES in Mar-2024 is at 1.9 showing a QoQ_growth of 525.8%. The YNETPROFIT grew by 566.7% to 0.2
+
+***CONS***

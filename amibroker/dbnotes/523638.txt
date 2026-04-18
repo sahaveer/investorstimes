@@ -1,14 +1,18 @@
-CODE	NAME
-523638 
+CODES	523638	
+FULLNAME : IP Rings Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+PRODUCT DEMAND
 
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
-
-***CONS***
-- NEGATIVE YProfit : -3.2
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 82% YSales
+
+***CONS***
+- NEGATIVE YProfit : -4.4

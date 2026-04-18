@@ -1,12 +1,10 @@
-CODE	NAME
-543895 
-
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	543895	
+FULLNAME : Exhicon Events Media Solutions Ltd
+SECTOR : Other Consumer Services
+INDUSTRY : Other Consumer Services
 PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,11 +15,13 @@ A DEBT-Free Company for the last 2 yrs
 
 YSALES in Mar-2025 is at 69.7 showing a QoQ_growth of 69.2%. The YNETPROFIT grew by 91.8% to 12.1
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 69.70cr, QoQ 69.20% & YoY 2389.29% SALES;
-16.50cr, QoQ 97.70% & YoY 16400.00% OPERATING PROFIT;
+16.60cr, QoQ 99.00% & YoY 16500.00% OPERATING PROFIT;
 12.10cr, QoQ 91.80% & YoY inf% NET PROFIT;
-OPM %: 23.70% vs 20.3%
+OPM %: 23.80% vs 20.3%
 NPM %: 17.40% vs 15.3%
 

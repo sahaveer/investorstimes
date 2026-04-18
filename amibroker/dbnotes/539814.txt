@@ -1,42 +1,23 @@
-CODE	NAME
-539814 
+CODES	539814	
+FULLNAME : Le Lavoir Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-EXPANSION 2025
-PRODUCT DEMAND
+***YEARLY***
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   1.4    |   0.9    |   1.8    |   2.0    |   2.6   
- SQoQ%:  |  -55.0   |  -31.6   |   89.2   |   13.1   |   33.2  
- YOPM%:  |   39.0   |   17.2   |   30.1   |   59.8   |   57.7  
- YNPM%:  |   32.4   |   33.3   |   31.8   |   52.3   |   50.6  
-YPROFIT: |   0.4    |   0.3    |   0.6    |   1.0    |   1.3   
- PQoQ%:  |  214.3   |  -29.5   |   80.6   |   85.7   |   28.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   0.7    |   0.4    |   1.2    |   0.6    |   0.5   
- QoQ%:  |   53.3   |  -47.8   |  238.9   |  -51.6   |  -18.6  
- QOPM%: |   76.8   |   52.8   |   61.5   |   61.0   |   52.1  
- QNPM%: |   53.6   |   75.0   |   40.2   |   54.2   |   56.3  
- QPFT:  |   0.4    |   0.3    |   0.5    |   0.3    |   0.3   
- PQoQ%: |   32.1   |  -27.0   |   81.5   |  -34.7   |  -15.6  
+
+***QUARTERLY***
+
 
 ***PROS***
-EXPANSION ??- EXPANSION underway in Mar-2025, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.4
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 
-YSALES in Mar-2025 is at 2.6 showing a QoQ_growth of 33.2%. The YNETPROFIT grew by 28.8% to 1.3
+***CONS***
 
-Yearly 
- 31-Mar-2025 #Result
-2.60cr, QoQ 33.20% & YoY 85.71% SALES;
-1.50cr, QoQ 28.60% & YoY 200.00% OPERATING PROFIT;
-1.30cr, QoQ 28.80% & YoY 225.00% NET PROFIT;
-OPM %: 57.70% vs 59.8%
-NPM %: 50.60% vs 52.3%
+Quarterly 
+31-Dec-2025 #Result
+3.50cr, QoQ 161.20% SALES;
+0.50cr, QoQ 45.50% OPERATING PROFIT;
+0.70cr, QoQ -11.40% NET PROFIT;
+OPM %: 13.70% vs 24.6%
+NPM %: 20.00% vs 59.0%
 

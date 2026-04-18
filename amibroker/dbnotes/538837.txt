@@ -1,30 +1,36 @@
-CODE	NAME
-538837 
+CODES	538837	
+FULLNAME : Jeevan Scientific Technology Ltd
+SECTOR : Healthcare Services
+INDUSTRY : Healthcare Research, Analytics & Technology
+BestQ Dec 2025
+LYPD PM 2025
 
-SECTOR : Healthcare
-INDUSTRY : Miscellaneous
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 46.9		67.8		36.2		39.6		46.8		40.3
+SQoQ%: 	95.9		44.5		-46.6		9.6		18.1		86.1
+YOPM%: 	37.3		24.7		3.8		11.7		15.9
+YNPM%: 	25.0		17.6		0.0		0.0		0.3
+YPROFIT: 11.7		11.9		-3.0		-1.3		0.1		-1.8
+PQoQ%: 	-236.7		1.7		-125.5		-57.4		-110.0		-1800.0
 
-***CONS***
-- NEGATIVE YProfit : -1.3
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   23.9   |   46.9   |   67.8   |   36.2   |   39.6   |      36.8    
- SQoQ%:  |   -8.4   |   95.9   |   44.5   |  -46.6   |   9.6    |      92.9    
- YOPM%:  |   0.0    |   37.3   |   24.7   |   3.8    |   11.7   |              
- YNPM%:  |   0.0    |   25.0   |   17.6   |   0.0    |   0.0    |              
-YPROFIT: |   -8.6   |   11.7   |   11.9   |   -3.0   |   -1.3   |      1.4     
- PQoQ%:  |  -873.9  |  -236.7  |   1.7    |  -125.5  |  -57.4   |     -107.7   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   10.1   |   11.1   |   12.9   |   11.4   |   12.5  
- QoQ%:  |   25.7   |   9.3    |   16.4   |  -11.5   |   9.7   
- QOPM%: |   10.0   |   8.9    |   25.1   |   21.9   |   16.5  
- QNPM%: |   0.0    |   0.0    |   8.5    |   2.1    |   0.9   
- QPFT:  |   -0.5   |   -0.7   |   1.1    |   0.2    |   0.1   
- PQoQ%: |  -20.0   |   52.1   |  -249.3  |  -78.0   |  -54.2  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 12.5		10.1		8.8		12.4		19.1
+QoQ%: 	9.7		-19.6		-12.5		40.7		54.0
+QOPM%: 	16.5		0.0		0.0		16.7		27.4
+QNPM%: 	0.9		0.0		0.0		0.0		7.4
+QPFT: 	0.1		-1.3		-3.1		-0.1		1.4
+PQoQ%: 	-54.2		-1281.8		138.5		-97.1		-1677.8
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 93% YSales
+- Last 3QSALES is about 86% YSales
+- Double QSales and QProfit
+- YProfit Turned POSITIVE this year Mar-2025 : 0.1
+- LastYr YProfits Doubled and maintained in Mar2025
 
+***CONS***

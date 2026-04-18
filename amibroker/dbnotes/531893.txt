@@ -1,40 +1,32 @@
-CODE	NAME
-531893 
+CODES	531893	
+FULLNAME : Sawaca Enterprises Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 
-SECTOR : Trading
-INDUSTRY : Trading
-PRODUCT DEMAND
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2.7		2.9		2.7		6.5		82.2		25.6
+SQoQ%: 	251.3		9.7		-8.5		144.0		1157.6		31.1
+YOPM%: 	0.0		0.0		0.0		0.0		0.6
+YNPM%: 	8.2		14.0		20.5		7.0		0.0
+YPROFIT: 0.2		0.4		0.6		0.5		-0.4		0.6
+PQoQ%: 	10.0		86.4		34.1		-16.4		-176.1		-150.0
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.8    |   2.7    |   2.9    |   2.7    |   6.5    |      72.6    
- SQoQ%:  |  -47.2   |  251.3   |   9.7    |   -8.5   |  144.0   |     1116.9   
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   26.3   |   8.2    |   14.0   |   20.5   |   7.0    |              
-YPROFIT: |   0.2    |   0.2    |   0.4    |   0.6    |   0.5    |      1.4     
- PQoQ%:  |   0.0    |   10.0   |   86.4   |   34.1   |  -16.4   |     280.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   6.0    |   17.0   |   31.0   |   24.6  
- QoQ%:  |  -100.0  |   inf    |  182.8   |   81.5   |  -20.5  
- QOPM%: |   0.0    |   0.0    |   0.0    |   1.0    |   1.5   
- QNPM%: |   inf    |   0.2    |   1.6    |   1.6    |   2.5   
- QPFT:  |   0.1    |   0.0    |   0.3    |   0.5    |   0.6   
- PQoQ%: |  -70.6   |  -90.0   |  2600.0  |   85.2   |   22.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 24.6		9.7		8.5		5.7		11.4
+QoQ%: 	-20.5		-60.7		-12.3		-32.7		100.5
+QOPM%: 	1.5		0.0		0.0		0.0		0.0
+QNPM%: 	2.5		0.0		0.5		3.3		3.6
+QPFT: 	0.6		-1.7		0.0		0.2		0.4
+PQoQ%: 	22.0		-385.2		-102.3		375.0		115.8
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 1117% YSales
-- Last 3QPROFIT is about 280% of YProfit
 
 
-Yearly 
- 31-Mar-2024 #Result
-6.50cr, QoQ 144.00% & YoY 712.50% SALES;
--0.30cr, QoQ 36.40% & YoY -57.14% OPERATING PROFIT;
-0.50cr, QoQ -16.40% & YoY 150.00% NET PROFIT;
-OPM %: 0.00% vs 0.0%
-NPM %: 7.00% vs 20.5%
-
+***CONS***
+- NEGATIVE YProfit : -0.4

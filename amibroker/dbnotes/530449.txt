@@ -1,14 +1,15 @@
-CODE	NAME
-530449 
+CODES	530449	
+FULLNAME : Rungta Irrigation Ltd
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial
 
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
 - RISING QSALES & QPROFIT : QSALES QoQ_Growth in Mar-2013 is at 14.8%. The QPROFIT QoQ_growth by 1225.0%
+
+***CONS***

@@ -1,13 +1,14 @@
-CODE	NAME
-540266 
-
+CODES	540266	
+FULLNAME : Globe Commercials Ltd
 SECTOR : Trading
 INDUSTRY : Trading
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

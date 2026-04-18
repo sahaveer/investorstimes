@@ -1,13 +1,32 @@
-CODE	NAME
-542057 
+CODES	542057	
+FULLNAME : BCPL Railway Infrastructure Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
+EXPANSION 2024
+PRODUCT DEMAND
+BestQ Dec 2025
 
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Engineering - Turnkey Services
-
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 95% YSales
+- Last 3QPROFIT is about 85% of YProfit
+
+YSALES in Mar-2025 is at 160.9 showing a QoQ_growth of 82.9%. The YNETPROFIT grew by 22.1% to 6.6
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+160.90cr, QoQ 82.90% SALES;
+9.70cr, QoQ 27.60% OPERATING PROFIT;
+6.60cr, QoQ 22.10% NET PROFIT;
+OPM %: 6.00% vs 8.6%
+NPM %: 4.10% vs 6.2%
+

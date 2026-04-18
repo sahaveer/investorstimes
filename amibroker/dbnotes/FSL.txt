@@ -1,36 +1,45 @@
-CODES
-532809	FSL	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	532809	FSL	
+FULLNAME : Firstsource Solutions Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO)
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 5078.0		5921.2		6022.3		6336.2		7980.3		6972.9
+SQoQ%: 	23.9		16.6		1.7		5.2		25.9		87.4
+YOPM%: 	16.5		16.6		14.2		15.9		15.5
+YNPM%: 	7.1		9.1		8.5		8.1		7.4
+YPROFIT: 361.7		537.4		513.7		514.7		594.5		469.1
+PQoQ%: 	6.5		48.6		-4.4		0.2		15.5		78.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2102.4		2161.5		2217.6		2312.2		2443.1
+QoQ%: 	9.2		2.8		2.6		4.3		5.7
+QOPM%: 	15.1		15.4		15.7		16.3		16.5
+QNPM%: 	7.6		7.4		7.6		7.8		4.9
+QPFT: 	160.3		160.7		169.3		179.5		120.3
+PQoQ%: 	16.0		0.2		5.4		6.0		-33.0
+
+
+
+***PROS***
+- Last 3QSALES is about 87% YSales
+- Last 3QPROFIT is about 79% of YProfit
+
+YSALES in Mar-2025 is at 7980.3 showing a QoQ_growth of 25.9%. The YNETPROFIT grew by 15.5% to 594.5
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  5078.0  |  5921.2  |  6022.3  |  6336.2  |  7980.3 
- SQoQ%:  |   23.9   |   16.6   |   1.7    |   5.2    |   25.9  
- YOPM%:  |   16.5   |   16.6   |   14.2   |   15.7   |   15.1  
- YNPM%:  |   7.1    |   9.1    |   8.5    |   8.1    |   7.4   
-YPROFIT: |  361.7   |  537.4   |  513.7   |  514.7   |  594.5  
- PQoQ%:  |   6.5    |   48.6   |   -4.4   |   0.2    |   15.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1670.5  |  1791.1  |  1925.4  |  2102.4  |  2161.5 
- QoQ%:  |   4.6    |   7.2    |   7.5    |   9.2    |   2.8   
- QOPM%: |   15.0   |   15.1   |   14.9   |   15.1   |   15.4  
- QNPM%: |   8.0    |   7.6    |   7.2    |   7.6    |   7.4   
- QPFT:  |  133.5   |  135.2   |  138.2   |  160.3   |  160.7  
- PQoQ%: |   3.7    |   1.3    |   2.2    |   16.0   |   0.2   
-
-***PROS***
-
-YSALES in Mar-2025 is at 7980.3 showing a QoQ_growth of 25.9%. The YNETPROFIT grew by 15.5% to 594.5
 
 Yearly 
  31-Mar-2025 #Result
 7980.30cr, QoQ 25.90% & YoY 57.15% SALES;
-1207.60cr, QoQ 21.40% & YoY 43.92% OPERATING PROFIT;
+1237.50cr, QoQ 22.80% & YoY 47.48% OPERATING PROFIT;
 594.50cr, QoQ 15.50% & YoY 64.36% NET PROFIT;
-OPM %: 15.10% vs 15.7%
+OPM %: 15.50% vs 15.9%
 NPM %: 7.40% vs 8.1%
 

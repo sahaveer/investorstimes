@@ -1,40 +1,47 @@
-CODES
-517334	MOTHERSON	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
-BestQ Dec 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+CODES	517334	MOTHERSON	
+FULLNAME : Samvardhana Motherson International Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+PRODUCT DEMAND
+BestQ Dec 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  | 60728.9  | 57369.9  | 63774.0  | 78788.1  | 98691.7  |    84345.8   
- SQoQ%:  |   -4.4   |   -5.5   |   11.2   |   23.5   |   25.3   |      85.5    
- YOPM%:  |   7.7    |   7.6    |   7.4    |   7.9    |   9.4    |              
- YNPM%:  |   1.9    |   1.8    |   1.4    |   1.9    |   2.8    |              
-YPROFIT: |  1170.1  |  1039.2  |  873.8   |  1495.6  |  2716.2  |     2752.5   
- PQoQ%:  |  -27.5   |  -11.2   |  -15.9   |   71.2   |   81.6   |     101.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: | 25643.9  | 27058.2  | 28868.0  | 27811.9  | 27665.9 
- QoQ%:  |   9.2    |   5.5    |   6.7    |   -3.7   |   -0.5  
- QOPM%: |   9.2    |   10.8   |   9.6    |   8.8    |   9.7   
- QNPM%: |   2.1    |   5.1    |   3.4    |   3.2    |   3.2   
- QPFT:  |  542.0   |  1371.8  |  994.2   |  879.7   |  878.6  
- PQoQ%: |  168.9   |  153.1   |  -27.5   |  -11.5   |   -0.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 57369.9		63536.0		78788.1		98691.7		113662.6		91794.4
+SQoQ%: 	-5.5		10.7		24.0		25.3		15.2		80.8
+YOPM%: 	7.6		7.0		7.9		9.4		9.3
+YNPM%: 	1.8		1.4		1.9		2.8		3.3
+YPROFIT: 1039.2		873.8		1495.6		2716.2		3803.0		2362.5
+PQoQ%: 	-11.2		-15.9		71.2		81.6		40.0		62.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 27665.9		29316.8		30212.0		30173.0		31409.4
+QoQ%: 	-0.5		6.0		3.1		-0.1		4.1
+QOPM%: 	9.7		9.0		8.1		8.7		9.7
+QNPM%: 	3.2		3.6		1.7		2.7		3.3
+QPFT: 	878.6		1050.5		511.8		827.0		1023.7
+PQoQ%: 	-0.1		19.6		-51.3		61.6		23.8
+
+
 
 ***PROS***
-- Last 3QSALES is about 85% YSales
-- Last 3QPROFIT is about 101% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 62% of YProfit
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 25.3% while the Profit QoQ_growth is much better than Sales itself at 81.6%
+As on Mar2025, Sales have increased by 15.2% while the Profit QoQ_growth is much better than Sales itself at 40.0%
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-98691.70cr, QoQ 25.30% & YoY 62.51% SALES;
-9321.70cr, QoQ 49.10% & YoY 100.29% OPERATING PROFIT;
-2716.20cr, QoQ 81.60% & YoY 132.13% NET PROFIT;
-OPM %: 9.40% vs 7.9%
-NPM %: 2.80% vs 1.9%
+ 31-Mar-2025 #Result
+113662.60cr, QoQ 15.20% & YoY 98.12% SALES;
+10551.90cr, QoQ 13.20% & YoY 141.46% OPERATING PROFIT;
+3803.00cr, QoQ 40.00% & YoY 265.95% NET PROFIT;
+OPM %: 9.30% vs 9.4%
+NPM %: 3.30% vs 2.8%
 

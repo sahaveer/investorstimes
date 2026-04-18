@@ -1,13 +1,15 @@
-CODE	NAME
-530617 
+CODES	530617	
+FULLNAME : Sampre Nutritions Ltd
+SECTOR : Food Products
+INDUSTRY : Packaged Foods
 
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -7.7

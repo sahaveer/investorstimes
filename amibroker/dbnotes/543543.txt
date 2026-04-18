@@ -1,17 +1,17 @@
-CODE	NAME
-543543 
-
+CODES	543543	
+FULLNAME : B-Right RealEstate Ltd
 SECTOR : Realty
 INDUSTRY : Construction
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2024, Sales have increased by 49.9% while the Profit QoQ_growth is at 29.6%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

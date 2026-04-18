@@ -1,30 +1,39 @@
-CODES
-504067	ZENSARTECH	
+CODES	504067	ZENSARTECH	
+FULLNAME : Zensar Technologies Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+INDUSTRY : Computers - Software & Consulting
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  3781.4  |  4243.8  |  4848.2  |  4901.9  |  5280.6 
- SQoQ%:  |   -9.6   |   12.2   |   14.2   |   1.1    |   7.7   
- YOPM%:  |   18.1   |   15.5   |   11.4   |   17.8   |   15.5  
- YNPM%:  |   7.9    |   9.8    |   6.8    |   13.6   |   12.3  
-YPROFIT: |  300.0   |  416.3   |  327.6   |  665.0   |  649.8  
- PQoQ%:  |   13.9   |   38.8   |  -21.3   |  103.0   |   -2.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1229.7  |  1288.1  |  1308.0  |  1325.6  |  1358.9 
- QoQ%:  |   2.1    |   4.7    |   1.5    |   1.3    |   2.5   
- QOPM%: |   16.5   |   15.2   |   15.4   |   15.6   |   15.6  
- QNPM%: |   14.1   |   12.3   |   11.9   |   12.1   |   13.0  
- QPFT:  |  173.3   |  157.9   |  155.7   |  159.8   |  176.4  
- PQoQ%: |   7.2    |   -8.9   |   -1.4   |   2.6    |   10.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3781.4		4243.8		4848.2		4901.9		5280.6		4237.0
+SQoQ%: 	-9.6		12.2		14.2		1.1		7.7		80.2
+YOPM%: 	18.1		15.5		11.4		17.8		15.5
+YNPM%: 	7.9		9.8		6.8		13.6		12.3
+YPROFIT: 300.0		416.3		327.6		665.0		649.8		564.0
+PQoQ%: 	13.9		38.8		-21.3		103.0		-2.3		86.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1325.6		1358.9		1385.0		1421.3		1430.7
+QoQ%: 	1.3		2.5		1.9		2.6		0.7
+QOPM%: 	15.6		15.6		15.2		15.5		17.5
+QNPM%: 	12.1		13.0		13.1		12.8		14.0
+QPFT: 	159.8		176.4		182.0		182.2		199.8
+PQoQ%: 	2.6		10.4		3.2		0.1		9.7
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 20.4%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 87% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

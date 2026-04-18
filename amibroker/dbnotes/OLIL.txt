@@ -1,10 +1,11 @@
-CODES
-OLIL	
+CODES	OLIL	
+FULLNAME : OneClick Logistics India Ltd
 SECTOR : Logistics
 INDUSTRY : Miscellaneous
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

@@ -1,38 +1,44 @@
-CODES
-517206	LUMAXIND	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
-BestQ Dec 2024
-LYPD PM 2024
+CODES	517206	LUMAXIND	
+FULLNAME : Lumax Industries Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1601.6  |  1426.0  |  1751.3  |  2319.5  |  2636.6  |     2469.3   
- SQoQ%:  |  -13.5   |  -11.0   |   22.8   |   32.4   |   13.7   |      93.7    
- YOPM%:  |   9.9    |   7.0    |   7.7    |   9.0    |   8.8    |              
- YNPM%:  |   4.5    |   1.3    |   2.3    |   4.4    |   4.2    |              
-YPROFIT: |   71.9   |   18.2   |   40.7   |  103.1   |  111.0   |      96.0    
- PQoQ%:  |  -30.7   |  -74.8   |  124.4   |  153.1   |   7.7    |      86.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  631.7   |  742.7   |  765.8   |  816.4   |  887.1  
- QoQ%:  |   -1.9   |   17.6   |   3.1    |   6.6    |   8.7   
- QOPM%: |   9.2    |   8.9    |   7.5    |   7.5    |   7.9   
- QNPM%: |   4.0    |   4.9    |   4.5    |   3.5    |   3.8   
- QPFT:  |   25.6   |   36.1   |   34.2   |   28.3   |   33.5  
- PQoQ%: |   -2.6   |   41.0   |   -5.2   |  -17.3   |   18.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1426.0		1751.3		2319.5		2636.6		3400.4		2983.8
+SQoQ%: 	-11.0		22.8		32.4		13.7		29.0		87.7
+YOPM%: 	7.0		7.7		9.0		8.8		8.2
+YNPM%: 	1.3		2.3		4.4		4.2		4.1
+YPROFIT: 18.2		40.7		103.1		111.0		139.9		118.4
+PQoQ%: 	-74.8		124.4		153.1		7.7		26.0		84.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 887.1		923.4		922.5		1008.6		1052.7
+QoQ%: 	9.3		4.1		-0.1		9.3		4.4
+QOPM%: 	7.9		8.6		8.9		8.8		10.5
+QNPM%: 	3.8		4.8		3.9		3.5		4.4
+QPFT: 	33.5		44.0		36.2		35.6		46.6
+PQoQ%: 	18.4		31.3		-17.7		-1.5		30.6
+
+
 
 ***PROS***
-- Last 3QSALES is about 94% YSales
-- Last 3QPROFIT is about 86% of YProfit
-- LastYr YProfits Doubled and maintained in Mar2024
+- Last 3QSALES is about 88% YSales
+- Last 3QPROFIT is about 85% of YProfit
+
+YSALES in Mar-2025 is at 3400.4 showing a QoQ_growth of 29.0%. The YNETPROFIT grew by 26.0% to 139.9
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-2636.60cr, QoQ 13.70% & YoY 64.62% SALES;
-231.10cr, QoQ 11.10% & YoY 45.90% OPERATING PROFIT;
-111.00cr, QoQ 7.70% & YoY 54.38% NET PROFIT;
-OPM %: 8.80% vs 9.0%
-NPM %: 4.20% vs 4.4%
+ 31-Mar-2025 #Result
+3400.40cr, QoQ 29.00% & YoY 138.46% SALES;
+280.10cr, QoQ 21.20% & YoY 180.10% OPERATING PROFIT;
+139.90cr, QoQ 26.00% & YoY 668.68% NET PROFIT;
+OPM %: 8.20% vs 8.8%
+NPM %: 4.10% vs 4.2%
 

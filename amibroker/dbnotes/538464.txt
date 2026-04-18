@@ -1,13 +1,14 @@
-CODE	NAME
-538464 
-
+CODES	538464	
+FULLNAME : Thirani Projects Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

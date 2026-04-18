@@ -1,11 +1,9 @@
-CODE	NAME
-543410 
+CODES	543410	
+FULLNAME : DMR Engineering Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Consulting Services
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -13,6 +11,8 @@ INDUSTRY : Miscellaneous
 ROCE in Mar2025 is at 21.3%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  have increased this year
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

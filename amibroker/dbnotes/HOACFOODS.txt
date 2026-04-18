@@ -1,24 +1,26 @@
-CODES
-HOACFOODS	
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
+CODES	HOACFOODS	
+FULLNAME : Hoac Foods India Ltd
+SECTOR : Food Products
+INDUSTRY : Other Food Products
+YS15 YPD 2025
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 24.2%
+ROCE in Mar2025 is at 18.0%
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
+As on Mar2025, Sales have increased by 69.1% while the Profit QoQ_growth is much better than Sales itself at 145.1%
 
-YSALES in Mar-2024 is at 15.6 showing a QoQ_growth of 29.2%. The YNETPROFIT grew by 104.0% to 1.0
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-15.60cr, QoQ 29.20% SALES;
-1.80cr, QoQ 55.10% OPERATING PROFIT;
-1.00cr, QoQ 104.00% NET PROFIT;
-OPM %: 11.70% vs 9.8%
-NPM %: 6.50% vs 4.1%
+ 31-Mar-2025 #Result
+26.40cr, QoQ 69.10% & YoY 256.76% SALES;
+4.10cr, QoQ 126.20% & YoY 925.00% OPERATING PROFIT;
+2.50cr, QoQ 145.10% & YoY 2400.00% NET PROFIT;
+OPM %: 15.70% vs 11.7%
+NPM %: 9.50% vs 6.5%
 

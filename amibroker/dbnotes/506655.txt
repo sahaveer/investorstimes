@@ -1,34 +1,41 @@
-CODES
-506655	SUDARSCHEM	
-SECTOR : Chemicals
+CODES	506655	SUDARSCHEM	
+FULLNAME : Sudarshan Chemical Industries Ltd
+SECTOR : Chemicals & Petrochemicals
 INDUSTRY : Dyes And Pigments
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1708.2  |  1864.1  |  2200.8  |  2301.7  |  2538.8  |     1996.1   
- SQoQ%:  |   7.2    |   9.1    |   18.1   |   4.6    |   10.3   |      78.6    
- YOPM%:  |   14.5   |   15.6   |   12.6   |   9.3    |   12.5   |              
- YNPM%:  |   8.5    |   7.6    |   5.9    |   1.9    |   14.1   |              
-YPROFIT: |  144.5   |  141.1   |  130.0   |   44.8   |  357.4   |      59.8    
- PQoQ%:  |   7.0    |   -2.4   |   -7.9   |  -65.6   |  698.4   |      16.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  565.8   |  764.2   |  633.6   |  696.1   |  666.4  
- QoQ%:  |   -5.8   |   35.1   |  -17.1   |   9.9    |   -4.3  
- QOPM%: |   10.9   |   15.6   |   12.7   |   13.6   |   11.9  
- QNPM%: |   2.6    |   7.6    |   4.6    |   4.3    |   0.1   
- QPFT:  |   14.6   |   58.0   |   29.4   |   29.9   |   0.5   
- PQoQ%: |  -18.3   |  297.7   |  -49.3   |   1.6    |  -98.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1864.1		2200.8		2301.7		2538.8		3345.6		6997.3
+SQoQ%: 	9.1		18.1		4.6		10.3		31.8		209.1
+YOPM%: 	15.6		12.6		9.3		12.5		11.5
+YNPM%: 	7.6		5.9		1.9		14.1		1.7
+YPROFIT: 141.1		130.0		44.8		357.4		55.8		-56.4
+PQoQ%: 	-2.4		-7.9		-65.6		698.4		-84.4		-101.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 666.4		1349.4		2506.9		2387.4		2103.0
+QoQ%: 	-4.3		102.5		85.8		-4.8		-11.9
+QOPM%: 	11.9		9.4		7.7		5.5		1.8
+QNPM%: 	0.1		0.0		1.9		0.5		0.0
+QPFT: 	0.5		-4.1		47.2		11.7		-115.3
+PQoQ%: 	-98.3		-903.9		-1251.2		-75.2		-1085.5
+
+
 
 ***PROS***
-- Last 3QSALES is about 79% YSales
+- Last 3QSALES is about 209% YSales
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-2538.80cr, QoQ 10.30% & YoY 48.62% SALES;
-318.40cr, QoQ 49.30% & YoY 28.39% OPERATING PROFIT;
-357.40cr, QoQ 698.40% & YoY 147.34% NET PROFIT;
-OPM %: 12.50% vs 9.3%
-NPM %: 14.10% vs 1.9%
+ 31-Mar-2025 #Result
+3345.60cr, QoQ 31.80% & YoY 79.48% SALES;
+383.30cr, QoQ 20.40% & YoY 32.17% OPERATING PROFIT;
+55.80cr, QoQ -84.40% & YoY -60.45% NET PROFIT;
+OPM %: 11.50% vs 12.5%
+NPM %: 1.70% vs 14.1%
 

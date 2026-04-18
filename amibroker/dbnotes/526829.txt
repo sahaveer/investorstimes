@@ -1,39 +1,43 @@
-CODES
-526829	CONFIPET	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-BestQ Dec 2024
+CODES	526829	CONFIPET	
+FULLNAME : Confidence Petroleum India Ltd
+SECTOR : Gas
+INDUSTRY : LPG/CNG/PNG/LNG Supplier
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 863.1		1427.7		2204.7		2698.5		3145.8		3488.9
+SQoQ%: 	-19.9		65.4		54.4		22.4		16.6		110.9
+YOPM%: 	14.0		13.0		9.8		13.3		10.3
+YNPM%: 	5.7		6.3		3.7		3.9		2.9
+YPROFIT: 49.4		89.7		81.0		105.3		90.8		61.5
+PQoQ%: 	-5.7		81.6		-9.8		30.1		-13.7		67.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 697.3		924.8		1112.0		983.0		1393.9
+QoQ%: 	-6.5		32.6		20.2		-11.6		41.8
+QOPM%: 	11.6		9.8		7.4		8.4		6.2
+QNPM%: 	4.4		2.5		1.8		2.1		1.5
+QPFT: 	30.7		22.8		20.2		20.3		21.0
+PQoQ%: 	72.9		-25.7		-11.6		0.8		3.5
+
+
+
+***PROS***
+- Last 3QSALES is about 111% YSales
+- Last 3QPROFIT is about 68% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1077.8  |  863.1   |  1427.7  |  2204.7  |  2698.5  |     2221.0   
- SQoQ%:  |   7.3    |  -19.9   |   65.4   |   54.4   |   22.4   |      82.3    
- YOPM%:  |   11.7   |   14.0   |   13.0   |   9.8    |   13.3   |              
- YNPM%:  |   4.9    |   5.7    |   6.3    |   3.7    |   3.8    |              
-YPROFIT: |   52.4   |   49.4   |   89.7   |   81.0   |  101.4   |      63.4    
- PQoQ%:  |  -21.5   |   -5.7   |   81.6   |   -9.8   |   25.2   |      62.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  554.3   |  630.5   |  777.9   |  745.8   |  697.3  
- QoQ%:  |  -13.2   |   13.8   |   23.4   |   -4.1   |   -6.5  
- QOPM%: |   15.1   |   17.5   |   9.6    |   10.5   |   11.6  
- QNPM%: |   5.0    |   1.6    |   1.9    |   2.4    |   4.4   
- QPFT:  |   27.8   |   9.9    |   15.0   |   17.7   |   30.7  
- PQoQ%: |   4.1    |  -64.3   |   51.3   |   18.2   |   72.9  
-
-***PROS***
-- Last 3QSALES is about 82% YSales
-- Last 3QPROFIT is about 63% of YProfit
-
-YSALES in Mar-2024 is at 2698.5 showing a QoQ_growth of 22.4%. The YNETPROFIT grew by 25.2% to 101.4
 
 Yearly 
- 31-Mar-2024 #Result
-2698.50cr, QoQ 22.40% & YoY 150.37% SALES;
-359.30cr, QoQ 66.20% & YoY 183.81% OPERATING PROFIT;
-101.40cr, QoQ 25.20% & YoY 93.51% NET PROFIT;
-OPM %: 13.30% vs 9.8%
-NPM %: 3.80% vs 3.7%
+ 31-Mar-2025 #Result
+3145.80cr, QoQ 16.60% & YoY 264.48% SALES;
+324.30cr, QoQ -9.70% & YoY 168.02% OPERATING PROFIT;
+90.80cr, QoQ -13.70% & YoY 83.81% NET PROFIT;
+OPM %: 10.30% vs 13.3%
+NPM %: 2.90% vs 3.9%
 

@@ -1,12 +1,14 @@
-CODES
-539177	AIIL	
+CODES	539177	AIIL	
+FULLNAME : Authum Investment & Infrastructure Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

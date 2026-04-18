@@ -1,12 +1,13 @@
-CODES
-IEML	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	IEML	
+FULLNAME : Indian Emulsifiers Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
 PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+
+***CONS***

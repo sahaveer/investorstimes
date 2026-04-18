@@ -1,37 +1,46 @@
-CODES
-543367	PARAS	
-SECTOR : Aerospace & Defence
-INDUSTRY : Engineering
+CODES	543367	PARAS	
+FULLNAME : Paras Defence and Space Technologies Ltd
+SECTOR : Aerospace & Defense
+INDUSTRY : Aerospace & Defense
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  143.3   |  182.6   |  222.4   |  253.5   |  364.7  
- SQoQ%:  |   -2.5   |   27.4   |   21.8   |   14.0   |   43.9  
- YOPM%:  |   30.7   |   28.8   |   25.9   |   21.1   |   26.7  
- YNPM%:  |   11.0   |   14.8   |   16.2   |   12.6   |   17.4  
-YPROFIT: |   15.7   |   27.0   |   36.1   |   32.1   |   63.5  
- PQoQ%:  |  -20.0   |   71.9   |   33.4   |  -11.1   |   98.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   79.7   |   83.6   |   87.1   |   85.8   |  108.2  
- QoQ%:  |   24.2   |   4.9    |   4.2    |   -1.5   |   26.2  
- QOPM%: |   15.4   |   28.8   |   26.1   |   25.7   |   26.1  
- QNPM%: |   12.5   |   17.8   |   15.9   |   17.5   |   18.2  
- QPFT:  |   10.0   |   14.8   |   13.9   |   15.0   |   19.7  
- PQoQ%: |   49.7   |   48.9   |   -6.7   |   8.5    |   31.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 143.3		182.6		222.4		253.5		364.7		305.3
+SQoQ%: 	-2.5		27.4		21.8		14.0		43.9		83.7
+YOPM%: 	30.7		28.8		25.9		21.1		27.4
+YNPM%: 	11.0		14.8		16.2		12.6		17.4
+YPROFIT: 15.7		27.0		36.1		32.1		63.5		53.7
+PQoQ%: 	-20.0		71.9		33.4		-11.1		98.0		84.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 85.8		108.2		93.2		105.7		106.4
+QoQ%: 	-1.5		26.2		-13.9		13.4		0.6
+QOPM%: 	25.7		26.1		23.5		28.1		24.7
+QNPM%: 	17.5		18.2		16.0		19.5		17.1
+QPFT: 	15.0		19.7		14.9		20.6		18.2
+PQoQ%: 	8.5		31.1		-24.6		38.8		-11.8
+
+
 
 ***PROS***
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 85% of YProfit
 
 
 YSALES in Mar-2025 is at 364.7 showing a QoQ_growth of 43.9%. The YNETPROFIT grew by 98.0% to 63.5
 
+***CONS***
+- NO PRODUCT DEMAND
+
 Yearly 
  31-Mar-2025 #Result
 364.70cr, QoQ 43.90% & YoY 154.50% SALES;
-97.20cr, QoQ 81.80% & YoY 120.41% OPERATING PROFIT;
+99.80cr, QoQ 86.70% & YoY 126.30% OPERATING PROFIT;
 63.50cr, QoQ 98.00% & YoY 304.46% NET PROFIT;
-OPM %: 26.70% vs 21.1%
+OPM %: 27.40% vs 21.1%
 NPM %: 17.40% vs 12.6%
 

@@ -1,12 +1,14 @@
-CODES
-544184	BOROSCI	
-SECTOR : Glass & Glass Products
-INDUSTRY : Glass & Glass Products
+CODES	544184	BOROSCI	
+FULLNAME : Borosil Scientific Ltd
+SECTOR : Industrial Products
+INDUSTRY : Glass - Industrial
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

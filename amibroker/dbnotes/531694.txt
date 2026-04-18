@@ -1,45 +1,49 @@
-CODE	NAME
-531694 
-
+CODES	531694	
+FULLNAME : Rainbow Foundations Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
 PRODUCT DEMAND
-BestQ Dec 2024
 YSD YPD 2024
-LYPD PM 2024
+LYPD PM 2025
+YS15 YPD 2025
 
-***CONS***
-  YPNL   |   :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+-------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  25.8 |   34.6   |   36.0   |   40.2   |   93.5   |   99.3   |              
- SQoQ%:  | -31.5 |   33.9   |   4.0    |   11.7   |  132.3   |  106.2   |              
- YOPM%:  |  19.5 |   18.5   |   11.8   |   25.2   |   25.0   |          |              
- YNPM%:  |  6.6  |   3.3    |   0.8    |   3.4    |   3.4    |          |              
-YPROFIT: |  1.7  |   1.1    |   0.3    |   1.4    |   3.2    |   4.1    |              
- PQoQ%:  | 165.6 |  -32.9   |  -73.7   |  350.0   |  136.3   |  128.1   |              
-  QPNL  |   :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+-------+----------+----------+----------+----------+---------
-QSALES: |  22.8 |   32.9   |   31.9   |   33.2   |   34.2   |         
- QoQ%:  |  8.7  |   44.2   |   -3.3   |   4.3    |   2.8    |         
- QOPM%: |  24.0 |   25.9   |   24.6   |   25.3   |   27.2   |         
- QNPM%: |  0.4  |   9.2    |   3.4    |   4.5    |   4.5    |         
- QPFT:  |  0.1  |   3.0    |   1.1    |   1.5    |   1.5    |         
- PQoQ%: | -78.0 |  3266.7  |  -64.4   |   38.9   |   2.7    |         
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 34.6		36.0		40.2		93.5		156.1		123.5
+SQoQ%: 	33.9		4.0		11.7		132.3		67.0		79.1
+YOPM%: 	18.5		11.8		25.2		25.0		25.3
+YNPM%: 	3.3		0.8		3.4		3.4		5.1
+YPROFIT: 1.1		0.3		1.4		3.2		8.0		3.2
+PQoQ%: 	-32.9		-73.7		350.0		136.3		151.1		40.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 34.2		56.8		50.3		34.8		38.4
+QoQ%: 	2.8		66.3		-11.5		-30.9		10.3
+QOPM%: 	27.2		24.6		22.1		27.4		28.2
+QNPM%: 	4.5		6.8		2.7		3.2		1.9
+QPFT: 	1.5		3.9		1.4		1.1		0.7
+PQoQ%: 	2.7		151.9		-65.2		-17.0		-34.8
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 106% YSales
-- Last 3QPROFIT is about 128% of YProfit
+- Last 3QSALES is about 79% YSales
 - YProfits and YSales DOUBLED in Mar2024
-- LastYr YProfits Doubled and maintained in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
+As on Mar2025, Sales have increased by 67.0% while the Profit QoQ_growth is much better than Sales itself at 151.1%
 
-YSALES in Mar-2024 is at 93.5 showing a QoQ_growth of 132.3%. The YNETPROFIT grew by 136.3% to 3.2
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-93.50cr, QoQ 132.30% & YoY 262.40% SALES;
-23.30cr, QoQ 130.30% & YoY 366.00% OPERATING PROFIT;
-3.20cr, QoQ 136.30% & YoY 88.24% NET PROFIT;
-OPM %: 25.00% vs 25.2%
-NPM %: 3.40% vs 3.4%
+ 31-Mar-2025 #Result
+156.10cr, QoQ 67.00% & YoY 351.16% SALES;
+39.50cr, QoQ 69.20% & YoY 517.19% OPERATING PROFIT;
+8.00cr, QoQ 151.10% & YoY 627.27% NET PROFIT;
+OPM %: 25.30% vs 25.0%
+NPM %: 5.10% vs 3.4%
 

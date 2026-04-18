@@ -1,39 +1,34 @@
-CODES
-539841	LANCER	
-SECTOR : Logistics
-INDUSTRY : Miscellaneous
-BestQ Dec 2024
-YSD YPD 2022
+CODES	539841	LANCER	
+FULLNAME : Lancer Containers Lines Ltd
+SECTOR : Transport Services
+INDUSTRY : Logistics Solution Provider
+PRODUCT DEMAND
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  265.3   |  312.6   |  641.5   |  837.2   |  633.4   |     578.5    
- SQoQ%:  |   nan    |   17.9   |  105.2   |   30.5   |  -24.3   |      91.3    
- YOPM%:  |   8.5    |   7.9    |   7.8    |   10.7   |   13.9   |              
- YNPM%:  |   3.0    |   3.1    |   4.5    |   6.4    |   9.2    |              
-YPROFIT: |   8.0    |   9.7    |   29.0   |   53.7   |   58.4   |      31.3    
- PQoQ%:  |   nan    |   21.2   |  198.1   |   85.6   |   8.6    |      53.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  150.6   |  152.3   |  172.4   |  202.1   |  204.0  
- QoQ%:  |   -9.5   |   1.1    |   13.2   |   17.2   |   0.9   
- QOPM%: |   20.2   |   3.5    |   9.2    |   9.4    |   4.7   
- QNPM%: |   9.3    |   10.5   |   7.0    |   7.3    |   2.1   
- QPFT:  |   14.0   |   16.0   |   12.1   |   14.8   |   4.4   
- PQoQ%: |   -1.1   |   13.8   |  -24.6   |   22.6   |  -70.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 312.6		641.5		837.2		633.4		699.1		255.2
+SQoQ%: 	17.9		105.2		30.5		-24.3		10.4		36.5
+YOPM%: 	7.9		7.8		10.7		13.9		2.2
+YNPM%: 	3.1		4.5		6.4		9.2		0.0
+YPROFIT: 9.7		29.0		53.7		58.4		-0.4		-5.2
+PQoQ%: 	21.2		198.1		85.6		8.6		-100.6		1300.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 204.0		117.7		107.1		93.7		54.4
+QoQ%: 	0.9		-42.3		-9.0		-12.5		-41.9
+QOPM%: 	4.7		0.0		5.7		5.9		0.0
+QNPM%: 	2.0		0.0		0.0		7.2		0.0
+QPFT: 	4.1		-32.4		-4.6		6.8		-7.4
+PQoQ%: 	-72.4		-895.1		-85.8		-246.5		-209.7
+
+
 
 ***PROS***
-- Last 3QSALES is about 91% YSales
-- Last 3QPROFIT is about 54% of YProfit
-- YProfits and YSales DOUBLED in Mar2022
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
 
-Yearly 
- 31-Mar-2024 #Result
-633.40cr, QoQ -24.30% & YoY 138.75% SALES;
-88.30cr, QoQ -1.70% & YoY 292.44% OPERATING PROFIT;
-58.40cr, QoQ 8.60% & YoY 630.00% NET PROFIT;
-OPM %: 13.90% vs 10.7%
-NPM %: 9.20% vs 6.4%
-
+***CONS***
+- NEGATIVE YProfit : -0.4

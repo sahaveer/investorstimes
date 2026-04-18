@@ -1,17 +1,18 @@
-CODES
-VSCL	
+CODES	VSCL	
+FULLNAME : Vadivarhe Speciality Chemicals Ltd
 SECTOR : Chemicals
 INDUSTRY : Chemicals
 PRODUCT DEMAND
 YSD YPD 2023
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - YProfits and YSales DOUBLED in Mar2023
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

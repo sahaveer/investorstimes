@@ -1,36 +1,44 @@
-CODE	NAME
-524634 
+CODES	524634	
+FULLNAME : Alufluoride Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
+BestQ Dec 2025
 
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 38.5		88.0		136.1		164.7		188.5		157.2
+SQoQ%: 	nan		128.4		54.8		21.0		14.5		83.4
+YOPM%: 	4.1		15.2		18.6		20.4		17.8
+YNPM%: 	0.0		4.0		9.4		10.7		9.6
+YPROFIT: -0.6		3.5		12.8		17.7		18.1		20.4
+PQoQ%: 	nan		-740.0		264.2		37.8		2.4		112.7
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   38.5   |   88.0   |  136.1   |  161.9   |  188.5  
- SQoQ%:  |   nan    |  128.4   |   54.8   |   19.0   |   16.4  
- YOPM%:  |   4.1    |   15.2   |   18.6   |   19.0   |   17.8  
- YNPM%:  |   0.0    |   4.0    |   9.4    |   10.9   |   9.6   
-YPROFIT: |   -0.6   |   3.5    |   12.8   |   17.7   |   18.1  
- PQoQ%:  |   nan    |  -740.0  |  264.2   |   37.8   |   2.4   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   45.7   |   33.7   |   53.2   |   47.6   |   54.0  
- QoQ%:  |   21.4   |  -26.3   |   57.8   |  -10.5   |   13.5  
- QOPM%: |   18.5   |   22.4   |   19.9   |   22.8   |   9.0   
- QNPM%: |   11.7   |   11.3   |   12.5   |   12.7   |   2.8   
- QPFT:  |   5.3    |   3.8    |   6.6    |   6.0    |   1.5   
- PQoQ%: |   57.7   |  -28.7   |   75.0   |   -9.0   |  -75.2  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 47.6		54.0		43.8		54.8		58.6
+QoQ%: 	-10.5		13.5		-19.0		25.3		6.9
+QOPM%: 	22.8		9.0		16.4		25.4		23.9
+QNPM%: 	12.7		2.8		7.1		14.5		16.1
+QPFT: 	6.0		1.5		3.1		7.9		9.4
+PQoQ%: 	-9.0		-75.2		106.7		155.8		18.9
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 18.9%
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 113% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-188.50cr, QoQ 16.40% & YoY 389.61% SALES;
-33.60cr, QoQ 9.00% & YoY 2000.00% OPERATING PROFIT;
+188.50cr, QoQ 14.50% & YoY 389.61% SALES;
+33.60cr, QoQ -0.10% & YoY 2000.00% OPERATING PROFIT;
 18.10cr, QoQ 2.40% & YoY -3116.67% NET PROFIT;
-OPM %: 17.80% vs 19.0%
-NPM %: 9.60% vs 10.9%
+OPM %: 17.80% vs 20.4%
+NPM %: 9.60% vs 10.7%
 

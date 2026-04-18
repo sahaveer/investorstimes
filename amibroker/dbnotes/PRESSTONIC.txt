@@ -1,14 +1,15 @@
-CODES
-PRESSTONIC	
-SECTOR : Engineering
-INDUSTRY : Engineering
+CODES	PRESSTONIC	
+FULLNAME : Presstonic Engineering Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

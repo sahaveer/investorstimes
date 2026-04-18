@@ -1,36 +1,48 @@
-CODES
-542772	360ONE	
-SECTOR : Finance
-INDUSTRY : Finance & Investments
+CODES	542772	360ONE	
+FULLNAME : 360 ONE WAM Ltd
+SECTOR : Capital Markets
+INDUSTRY : Stockbroking & Allied
+BestQ Dec 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1654.3  |  2071.8  |  2056.6  |  2920.9  |  3295.1 
- SQoQ%:  |   8.8    |   25.2   |   -0.7   |   42.0   |   12.8  
- YOPM%:  |   56.8   |   55.8   |   62.8   |   58.4   |   60.8  
- YNPM%:  |   22.3   |   27.9   |   32.0   |   27.5   |   30.8  
-YPROFIT: |  369.2   |  577.7   |  657.9   |  804.2   |  1015.3 
- PQoQ%:  |   83.5   |   56.5   |   13.9   |   22.2   |   26.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  791.2   |  849.3   |  865.2   |  759.8   |  820.8  
- QoQ%:  |   25.6   |   7.4    |   1.9    |  -12.2   |   8.0   
- QOPM%: |   36.2   |   67.9   |   62.5   |   55.8   |   56.2  
- QNPM%: |   30.7   |   28.7   |   28.4   |   36.4   |   30.4  
- QPFT:  |  242.6   |  243.7   |  245.5   |  276.5   |  249.6  
- PQoQ%: |   26.3   |   0.5    |   0.7    |   12.6   |   -9.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1654.3		2071.8		2056.6		2920.9		3683.9		3191.1
+SQoQ%: 	8.8		25.2		-0.7		42.0		26.1		86.6
+YOPM%: 	56.8		55.8		62.8		58.4		64.9
+YNPM%: 	22.3		27.9		32.0		27.5		27.6
+YPROFIT: 369.2		577.7		657.9		804.2		1015.3		927.5
+PQoQ%: 	83.5		56.5		13.9		22.2		26.2		91.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 780.0		820.8		911.5		1098.1		1181.5
+QoQ%: 	-9.8		5.2		11.0		20.5		7.6
+QOPM%: 	56.9		56.2		62.1		63.5		61.4
+QNPM%: 	35.4		30.4		31.2		28.7		27.7
+QPFT: 	276.5		249.6		284.7		315.5		327.3
+PQoQ%: 	12.6		-9.7		14.1		10.8		3.7
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 15.1%
+ROCE in Mar2025 is at 18.9%
+- Last 3QSALES is about 87% YSales
+- Last 3QPROFIT is about 91% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 26.1% while the Profit QoQ_growth is much better than Sales itself at 26.2%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-3295.10cr, QoQ 12.80% & YoY 99.18% SALES;
-2002.70cr, QoQ 17.50% & YoY 113.26% OPERATING PROFIT;
+3683.90cr, QoQ 26.10% & YoY 122.69% SALES;
+2391.50cr, QoQ 40.30% & YoY 154.66% OPERATING PROFIT;
 1015.30cr, QoQ 26.20% & YoY 175.00% NET PROFIT;
-OPM %: 60.80% vs 58.4%
-NPM %: 30.80% vs 27.5%
+OPM %: 64.90% vs 58.4%
+NPM %: 27.60% vs 27.5%
 

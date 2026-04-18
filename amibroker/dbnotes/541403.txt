@@ -1,33 +1,42 @@
-CODES
-541403	DOLLAR	
-SECTOR : Readymade Garments/ Apparells
-INDUSTRY : Textiles - Products
+CODES	541403	DOLLAR	
+FULLNAME : Dollar Industries Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Garments & Apparels
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1037.0		1342.5		1393.8		1572.3		1710.5		1259.4
+SQoQ%: 	7.2		29.5		3.8		12.8		8.8		73.6
+YOPM%: 	13.2		16.3		6.7		10.1		10.7
+YNPM%: 	8.2		11.0		3.8		5.7		5.3
+YPROFIT: 85.3		147.1		52.5		90.2		91.0		74.9
+PQoQ%: 	48.8		72.4		-64.3		71.7		0.9		82.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 380.7		549.1		399.1		471.9		388.4
+QoQ%: 	-14.8		44.2		-27.3		18.2		-17.7
+QOPM%: 	10.9		10.3		10.7		12.8		10.0
+QNPM%: 	5.2		5.3		5.3		7.5		4.7
+QPFT: 	20.0		29.2		21.3		35.2		18.4
+PQoQ%: 	-24.7		46.5		-27.1		65.0		-47.8
+
+
+
+***PROS***
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 82% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1037.0  |  1342.5  |  1393.8  |  1572.3  |  1710.5 
- SQoQ%:  |   7.2    |   29.5   |   3.8    |   12.8   |   8.8   
- YOPM%:  |   13.2   |   16.3   |   6.7    |   10.1   |   10.7  
- YNPM%:  |   8.2    |   11.0   |   3.8    |   5.7    |   5.3   
-YPROFIT: |   85.3   |  147.1   |   52.5   |   90.2   |   91.0  
- PQoQ%:  |   48.8   |   72.4   |  -64.3   |   71.7   |   0.9   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  500.0   |  333.7   |  446.9   |  380.7   |  549.1  
- QoQ%:  |   50.8   |  -33.2   |   33.9   |  -14.8   |   44.2  
- QOPM%: |   11.4   |   10.7   |   10.9   |   10.9   |   10.3  
- QNPM%: |   6.6    |   4.6    |   5.9    |   5.2    |   5.3   
- QPFT:  |   33.1   |   15.3   |   26.5   |   20.0   |   29.2  
- PQoQ%: |   86.8   |  -53.8   |   73.3   |  -24.7   |   46.5  
-
-***PROS***
 
 Yearly 
  31-Mar-2025 #Result
 1710.50cr, QoQ 8.80% & YoY 64.95% SALES;
-182.70cr, QoQ 15.60% & YoY 33.85% OPERATING PROFIT;
+183.30cr, QoQ 16.00% & YoY 34.29% OPERATING PROFIT;
 91.00cr, QoQ 0.90% & YoY 6.68% NET PROFIT;
 OPM %: 10.70% vs 10.1%
 NPM %: 5.30% vs 5.7%

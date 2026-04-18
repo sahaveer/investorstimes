@@ -1,23 +1,14 @@
-CODE	NAME
-539528 
+CODES	539528	
+FULLNAME : Aayush Wellness Ltd
+SECTOR : Food Products
+INDUSTRY : Packaged Foods
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
-- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2024 is at 79.5%. The QPROFIT QoQ_growth by 18.5%
 
-Quarterly 
-31-Dec-2024 #Result
-25.60cr, QoQ 79.50% SALES;
-1.10cr, QoQ 18.50% OPERATING PROFIT;
-1.10cr, QoQ 18.50% NET PROFIT;
-OPM %: 4.30% vs 6.4%
-NPM %: 4.30% vs 6.4%
-
+***CONS***

@@ -1,36 +1,44 @@
-CODES
-524091	CARYSIL	
+CODES	524091	CARYSIL	
+FULLNAME : Carysil Ltd
 SECTOR : Consumer Durables
-INDUSTRY : Ceramics - Tiles / Sanitaryware
-BestQ Dec 2024
+INDUSTRY : Household Appliances
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  276.2   |  309.7   |  483.9   |  593.9   |  683.8   |     611.4    
- SQoQ%:  |   9.8    |   12.1   |   56.2   |   22.7   |   15.1   |      89.4    
- YOPM%:  |   17.2   |   21.6   |   21.6   |   18.4   |   19.1   |              
- YNPM%:  |   8.0    |   12.6   |   13.4   |   8.8    |   8.5    |              
-YPROFIT: |   22.1   |   39.1   |   64.8   |   52.4   |   57.9   |      45.2    
- PQoQ%:  |   28.0   |   77.2   |   65.5   |  -19.1   |   10.4   |      78.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  188.0   |  190.5   |  201.2   |  207.1   |  203.1  
- QoQ%:  |   14.9   |   1.4    |   5.6    |   2.9    |   -1.9  
- QOPM%: |   18.7   |   18.1   |   17.8   |   18.0   |   14.2  
- QNPM%: |   8.2    |   8.2    |   7.9    |   8.1    |   6.2   
- QPFT:  |   15.3   |   15.5   |   15.9   |   16.8   |   12.5  
- PQoQ%: |   -0.7   |   1.2    |   2.1    |   5.9    |  -25.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 309.7		483.9		593.9		683.8		815.6		690.3
+SQoQ%: 	12.1		56.2		22.7		15.1		19.3		84.6
+YOPM%: 	21.6		21.6		18.4		19.1		17.2
+YNPM%: 	12.6		13.4		8.8		8.5		7.8
+YPROFIT: 39.1		64.8		52.4		57.9		63.7		71.1
+PQoQ%: 	77.2		65.5		-19.1		10.4		10.1		111.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 203.1		204.2		227.0		240.7		222.6
+QoQ%: 	-1.9		0.5		11.2		6.0		-7.5
+QOPM%: 	14.2		17.1		19.3		19.2		19.0
+QNPM%: 	6.2		9.1		10.1		11.3		9.5
+QPFT: 	12.5		18.6		22.8		27.2		21.1
+PQoQ%: 	-25.6		48.6		22.8		19.1		-22.5
+
+
 
 ***PROS***
-- Last 3QSALES is about 89% YSales
-- Last 3QPROFIT is about 78% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 85% YSales
+- Last 3QPROFIT is about 112% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-683.80cr, QoQ 15.10% & YoY 147.57% SALES;
-130.80cr, QoQ 19.50% & YoY 174.79% OPERATING PROFIT;
-57.90cr, QoQ 10.40% & YoY 161.99% NET PROFIT;
-OPM %: 19.10% vs 18.4%
-NPM %: 8.50% vs 8.8%
+ 31-Mar-2025 #Result
+815.60cr, QoQ 19.30% & YoY 163.35% SALES;
+140.30cr, QoQ 7.20% & YoY 109.72% OPERATING PROFIT;
+63.70cr, QoQ 10.10% & YoY 62.92% NET PROFIT;
+OPM %: 17.20% vs 19.1%
+NPM %: 7.80% vs 8.5%
 

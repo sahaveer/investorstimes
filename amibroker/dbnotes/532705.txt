@@ -1,30 +1,39 @@
-CODES
-532705	JAGRAN	
-SECTOR : Media - Print/Television/Radio
-INDUSTRY : Entertainment / Electronic Media Software
+CODES	532705	JAGRAN	
+FULLNAME : Jagran Prakashan Ltd
+SECTOR : Media
+INDUSTRY : Print Media
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1289.2  |  1616.0  |  1856.2  |  1933.9  |  1888.1 
- SQoQ%:  |  -38.5   |   25.3   |   14.9   |   4.2    |   -2.4  
- YOPM%:  |   17.7   |   22.3   |   13.7   |   14.0   |   8.5   
- YNPM%:  |   6.9    |   13.8   |   10.8   |   9.5    |   6.9   
-YPROFIT: |   88.9   |  222.5   |  199.8   |  183.7   |  130.9  
- PQoQ%:  |  -67.5   |  150.3   |  -10.2   |   -8.1   |  -28.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  509.6   |  444.1   |  446.5   |  516.5   |  481.0  
- QoQ%:  |   -0.3   |  -12.9   |   0.5    |   15.7   |   -6.9  
- QOPM%: |   5.0    |   14.8   |   15.1   |   18.1   |   0.0   
- QNPM%: |   4.5    |   9.3    |   9.6    |   12.1   |   0.0   
- QPFT:  |   22.9   |   41.2   |   43.0   |   62.6   |  -15.8  
- PQoQ%: |  -69.0   |   79.9   |   4.4    |   45.7   |  -125.2 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1289.2		1616.0		1856.2		1933.9		1888.1		1404.1
+SQoQ%: 	-38.5		25.3		14.9		4.2		-2.4		74.4
+YOPM%: 	17.7		22.3		13.7		14.0		8.5
+YNPM%: 	6.9		13.8		10.8		9.5		6.9
+YPROFIT: 88.9		222.5		199.8		183.7		130.9		179.9
+PQoQ%: 	-67.5		150.3		-10.2		-8.1		-28.7		137.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 516.5		481.0		460.0		467.4		476.7
+QoQ%: 	15.7		-6.9		-4.4		1.6		2.0
+QOPM%: 	18.1		0.0		13.9		14.2		15.0
+QNPM%: 	12.1		0.0		14.6		12.5		11.4
+QPFT: 	62.6		-15.8		67.2		58.6		54.1
+PQoQ%: 	45.7		-125.2		-525.6		-12.8		-7.7
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 137% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

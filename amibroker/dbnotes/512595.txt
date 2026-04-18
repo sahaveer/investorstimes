@@ -1,42 +1,48 @@
-CODE	NAME
-512595 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	512595	
+FULLNAME : Manbro Industries Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
 PRODUCT DEMAND
+BestQ Dec 2025
 YSD YPD 2023
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   0.0    |   0.0    |   0.4    |   24.0   |      1.9     
- SQoQ%:  |   nan    |   nan    |   nan    |   inf    |  6053.8  |      7.9     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   46.2   |   1.1    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   46.2   |   1.0    |              
-YPROFIT: |   -0.0   |   -0.0   |   -0.0   |   0.2    |   0.2    |      -0.2    
- PQoQ%:  |  -89.5   |  -50.0   |  300.0   |  -550.0  |   33.3   |     -100.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   14.2   |   4.7    |   1.2    |   0.7    |   0.0   
- QoQ%:  |  179.8   |  -67.2   |  -73.7   |  -40.7   |  -100.0 
- QOPM%: |   1.7    |   0.2    |   0.0    |   0.0    |   0.0   
- QNPM%: |   1.7    |   0.0    |   0.0    |   0.0    |   inf   
- QPFT:  |   0.2    |   -0.0   |   -0.1   |   -0.1   |   0.0   
- PQoQ%: |  166.7   |  -112.5  |  366.7   |  -28.6   |  -120.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		0.0		0.4		24.0		2.0		0.0
+SQoQ%: 	nan		nan		inf		6053.8		-91.8		0.0
+YOPM%: 	0.0		0.0		46.2		1.1		0.0
+YNPM%: 	0.0		0.0		46.2		1.0		31.1
+YPROFIT: -0.0		-0.0		0.2		0.2		0.6		0.6
+PQoQ%: 	-50.0		300.0		-550.0		33.3		154.2		100.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	-100.0		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	inf		inf		inf		0.0		0.0
+QPFT: 	0.0		0.8		0.8		-0.0		-0.2
+PQoQ%: 	-114.3		4050.0		-8.4		-106.6		200.0
+
+
 
 ***PROS***
+A DEBT-Free Company
 - PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.3
+- Last 3QPROFIT is about 100% of YProfit
 - YProfits and YSales DOUBLED in Mar2023
 
 
-YSALES in Mar-2024 is at 24.0 showing a QoQ_growth of 6053.8%. The YNETPROFIT grew by 33.3% to 0.2
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-24.00cr, QoQ 6053.80% & YoY inf% SALES;
-0.30cr, QoQ 50.00% & YoY -400.00% OPERATING PROFIT;
-0.20cr, QoQ 33.30% & YoY -inf% NET PROFIT;
-OPM %: 1.10% vs 46.2%
-NPM %: 1.00% vs 46.2%
+ 31-Mar-2025 #Result
+2.00cr, QoQ -91.80% & YoY inf% SALES;
+-0.40cr, QoQ -244.40% & YoY 300.00% OPERATING PROFIT;
+0.60cr, QoQ 154.20% & YoY -inf% NET PROFIT;
+OPM %: 0.00% vs 1.1%
+NPM %: 31.10% vs 1.0%
 

@@ -1,40 +1,45 @@
-CODES
-531373	BYKE	
-SECTOR : 
-INDUSTRY : 
-BestQ Dec 2024
-LYPD PM 2024
+CODES	531373	BYKE	
+FULLNAME : The Byke Hospitality Ltd
+SECTOR : Leisure Services
+INDUSTRY : Hotels & Resorts
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  122.2   |   65.6   |   93.3   |  114.4   |   83.9   |      69.9    
- SQoQ%:  |  -16.7   |  -46.3   |   42.2   |   22.6   |  -26.7   |      83.3    
- YOPM%:  |   29.7   |   21.7   |   25.3   |   35.0   |   42.3   |              
- YNPM%:  |   3.4    |   0.0    |   0.0    |   2.0    |   6.7    |              
-YPROFIT: |   4.2    |  -18.2   |  -12.8   |   2.3    |   5.6    |      3.8     
- PQoQ%:  |  -18.0   |  -539.5  |  -29.7   |  -117.9  |  146.7   |      67.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   21.1   |   23.0   |   23.3   |   20.5   |   26.1  
- QoQ%:  |   6.7    |   9.0    |   1.3    |  -11.9   |   27.5  
- QOPM%: |   45.7   |   43.8   |   39.5   |   35.2   |   38.0  
- QNPM%: |   4.8    |   9.8    |   9.9    |   2.3    |   4.0   
- QPFT:  |   1.0    |   2.2    |   2.3    |   0.5    |   1.0   
- PQoQ%: |   13.5   |  122.8   |   2.2    |  -79.1   |  118.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 65.6		93.3		114.4		83.9		96.6		78.8
+SQoQ%: 	-46.3		42.2		22.6		-26.7		15.2		81.6
+YOPM%: 	21.7		25.3		35.0		42.3		38.6
+YNPM%: 	0.0		0.0		2.0		6.7		4.7
+YPROFIT: -18.2		-12.8		2.3		5.6		4.6		5.1
+PQoQ%: 	-539.5		-29.7		-117.9		146.7		-18.8		110.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 26.1		26.8		26.8		24.6		27.4
+QoQ%: 	27.5		2.5		0.2		-8.2		11.4
+QOPM%: 	38.0		39.7		43.9		46.1		44.5
+QNPM%: 	4.0		2.9		8.0		5.3		5.8
+QPFT: 	1.0		0.8		2.2		1.3		1.6
+PQoQ%: 	118.8		-26.7		179.2		-39.5		21.5
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 83% YSales
-- Last 3QPROFIT is about 68% of YProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
-- LastYr YProfits Doubled and maintained in Mar2024
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 111% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-83.90cr, QoQ -26.70% & YoY -31.34% SALES;
-35.40cr, QoQ -11.60% & YoY -2.48% OPERATING PROFIT;
-5.60cr, QoQ 146.70% & YoY 33.33% NET PROFIT;
-OPM %: 42.30% vs 35.0%
-NPM %: 6.70% vs 2.0%
+ 31-Mar-2025 #Result
+96.60cr, QoQ 15.20% & YoY 47.26% SALES;
+37.30cr, QoQ 5.30% & YoY 162.68% OPERATING PROFIT;
+4.60cr, QoQ -18.80% & YoY -125.27% NET PROFIT;
+OPM %: 38.60% vs 42.3%
+NPM %: 4.70% vs 6.7%
 

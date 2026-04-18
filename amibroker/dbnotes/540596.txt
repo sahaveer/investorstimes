@@ -1,38 +1,45 @@
-CODES
-540596	ERIS	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Formulations
-BestQ Dec 2024
+CODES	540596	ERIS	
+FULLNAME : ERIS Lifesciences Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1074.1  |  1211.9  |  1347.0  |  1685.2  |  2009.1  |     2188.3   
- SQoQ%:  |   9.4    |   12.8   |   11.2   |   25.1   |   19.2   |     108.9    
- YOPM%:  |   34.7   |   35.5   |   36.3   |   32.0   |   33.7   |              
- YNPM%:  |   27.6   |   29.3   |   30.1   |   22.7   |   19.5   |              
-YPROFIT: |  296.5   |  355.1   |  406.1   |  382.2   |  392.0   |     258.4    
- PQoQ%:  |   2.0    |   19.8   |   14.4   |   -5.9   |   2.6    |      65.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  486.3   |  550.9   |  719.7   |  741.2   |  727.4  
- QoQ%:  |   -3.8   |   13.3   |   30.6   |   3.0    |   -1.9  
- QOPM%: |   36.1   |   26.9   |   34.7   |   35.7   |   34.4  
- QNPM%: |   21.1   |   12.9   |   11.6   |   12.4   |   11.5  
- QPFT:  |  102.7   |   71.0   |   83.2   |   91.6   |   83.6  
- PQoQ%: |  -16.8   |  -30.9   |   17.2   |   10.1   |   -8.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1211.9		1347.0		1685.2		2009.2		2893.6		2372.8
+SQoQ%: 	12.8		11.2		25.1		19.2		44.0		82.0
+YOPM%: 	35.5		36.3		32.0		33.7		35.2
+YNPM%: 	29.3		30.1		22.7		19.5		12.2
+YPROFIT: 355.1		406.1		382.2		392.0		351.8		337.9
+PQoQ%: 	19.8		14.4		-5.9		2.6		-10.3		96.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 727.4		705.3		773.0		792.4		807.4
+QoQ%: 	-1.9		-3.0		9.6		2.5		1.9
+QOPM%: 	34.4		35.8		35.8		36.4		34.9
+QNPM%: 	11.5		13.3		15.3		15.2		12.3
+QPFT: 	83.8		93.8		118.0		120.2		99.7
+PQoQ%: 	-8.5		12.0		25.7		1.9		-17.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 109% YSales
-- Last 3QPROFIT is about 66% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 96% of YProfit
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-2009.10cr, QoQ 19.20% & YoY 87.05% SALES;
-677.00cr, QoQ 25.70% & YoY 81.89% OPERATING PROFIT;
-392.00cr, QoQ 2.60% & YoY 32.21% NET PROFIT;
-OPM %: 33.70% vs 32.0%
-NPM %: 19.50% vs 22.7%
+ 31-Mar-2025 #Result
+2893.60cr, QoQ 44.00% & YoY 138.77% SALES;
+1018.10cr, QoQ 50.40% & YoY 136.33% OPERATING PROFIT;
+351.80cr, QoQ -10.30% & YoY -0.93% NET PROFIT;
+OPM %: 35.20% vs 33.7%
+NPM %: 12.20% vs 19.5%
 

@@ -1,22 +1,14 @@
-CODE	NAME
-538401 
+CODES	538401	
+FULLNAME : Maestros Electronics & Telecommun. Systems Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 
-SECTOR : Healthcare
-INDUSTRY : Healthcare
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
 
-Quarterly 
-31-Dec-2024 #Result
-5.00cr, QoQ -31.70% SALES;
-0.50cr, QoQ -48.50% OPERATING PROFIT;
-0.70cr, QoQ -27.70% NET PROFIT;
-OPM %: 10.40% vs 13.8%
-NPM %: 14.60% vs 13.8%
-
+***CONS***

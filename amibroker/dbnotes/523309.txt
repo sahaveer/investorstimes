@@ -1,39 +1,47 @@
-CODE	NAME
-523309 
-
-SECTOR : Alcoholic Beverages
+CODES	523309	
+FULLNAME : Shri Gang Industries & Allied Products Ltd
+SECTOR : Beverages
 INDUSTRY : Breweries & Distilleries
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   32.2   |   80.2   |  138.7   |  265.7   |  352.6  
- SQoQ%:  | 321800.0 |  149.2   |   72.9   |   91.6   |   32.7  
- YOPM%:  |   0.0    |   10.0   |   12.9   |   11.3   |   13.7  
- YNPM%:  |   0.0    |   5.9    |   9.5    |   5.6    |   8.3   
-YPROFIT: |   -3.5   |   4.7    |   13.2   |   14.8   |   29.3  
- PQoQ%:  |   -2.2   |  -233.7  |  178.8   |   12.4   |   98.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   54.0   |   79.9   |  105.6   |   99.5   |   62.8  
- QoQ%:  |  -27.2   |   47.8   |   32.2   |   -5.8   |  -36.9  
- QOPM%: |   6.0    |   9.0    |   21.7   |   14.6   |   6.0   
- QNPM%: |   2.1    |   2.9    |   17.1   |   10.4   |   0.0   
- QPFT:  |   1.1    |   2.4    |   18.0   |   10.4   |   -1.4  
- PQoQ%: |  -52.5   |  106.1   |  666.8   |  -42.5   |  -113.5 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 32.2		80.2		138.7		265.7		324.2		285.5
+SQoQ%: 	321800.0		149.2		72.9		91.6		22.0		88.1
+YOPM%: 	0.0		10.0		12.9		11.3		14.9
+YNPM%: 	0.0		5.9		9.5		5.6		9.0
+YPROFIT: -3.5		4.7		13.2		14.8		29.3		16.7
+PQoQ%: 	-2.2		-233.7		178.8		12.4		98.3		57.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 89.1		57.8		85.4		85.8		114.3
+QoQ%: 	-8.5		-35.1		47.7		0.5		33.2
+QOPM%: 	16.3		6.5		5.1		6.3		18.6
+QNPM%: 	11.6		0.0		1.1		2.0		12.2
+QPFT: 	10.4		-1.4		1.0		1.7		14.0
+PQoQ%: 	-42.5		-113.5		-168.6		77.1		722.9
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 40.3%
+ROCE in Mar2025 is at 37.7%
+- Last 3QSALES is about 88% YSales
+- Last 3QPROFIT is about 57% of YProfit
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 
-YSALES in Mar-2025 is at 352.6 showing a QoQ_growth of 32.7%. The YNETPROFIT grew by 98.3% to 29.3
+YSALES in Mar-2025 is at 324.2 showing a QoQ_growth of 22.0%. The YNETPROFIT grew by 98.3% to 29.3
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-352.60cr, QoQ 32.70% & YoY 995.03% SALES;
-48.40cr, QoQ 60.70% & YoY -12200.00% OPERATING PROFIT;
+324.20cr, QoQ 22.00% & YoY 906.83% SALES;
+48.40cr, QoQ 60.90% & YoY -12200.00% OPERATING PROFIT;
 29.30cr, QoQ 98.30% & YoY -937.14% NET PROFIT;
-OPM %: 13.70% vs 11.3%
-NPM %: 8.30% vs 5.6%
+OPM %: 14.90% vs 11.3%
+NPM %: 9.00% vs 5.6%
 

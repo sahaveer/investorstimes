@@ -1,14 +1,15 @@
-CODES
-NEELAM	
+CODES	NEELAM	
+FULLNAME : Neelam Linens and Garments (India) Ltd
 SECTOR : Textiles
 INDUSTRY : Textiles - Products
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

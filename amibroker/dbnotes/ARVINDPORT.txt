@@ -1,5 +1,5 @@
-CODES
-ARVINDPORT	
+CODES	ARVINDPORT	
+FULLNAME : Arvind Port & Infra Ltd
 SECTOR : Shipping
 INDUSTRY : Shipping
 PRODUCT DEMAND
@@ -7,8 +7,7 @@ YSD YPD 2023
 YSD YPD 2022
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -19,6 +18,8 @@ LYPD PM 2024
 - YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2024, Sales have increased by 68.3% while the Profit QoQ_growth is at 40.9%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

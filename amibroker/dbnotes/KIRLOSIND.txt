@@ -1,36 +1,45 @@
-CODES
-500243	KIRLOSIND	
-SECTOR : Finance
-INDUSTRY : Finance & Investments
+CODES	500243	KIRLOSIND	
+FULLNAME : Kirloskar Industries Ltd
+SECTOR : Industrial Products
+INDUSTRY : Other Industrial Products
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2080.2  |  3809.6  |  6489.6  |  6395.6  |  6608.1 
- SQoQ%:  |   8.6    |   83.1   |   70.4   |   -1.5   |   3.3   
- YOPM%:  |   23.2   |   18.0   |   13.7   |   15.1   |   11.6  
- YNPM%:  |   7.9    |   5.1    |   3.4    |   3.1    |   2.3   
-YPROFIT: |  163.8   |  193.6   |  217.6   |  200.4   |  149.1  
- PQoQ%:  |   70.8   |   18.2   |   12.4   |   -7.9   |  -25.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1728.6  |  1559.0  |  1687.7  |  1613.5  |  1747.8 
- QoQ%:  |   11.3   |   -9.8   |   8.3    |   -4.4   |   8.3   
- QOPM%: |   13.9   |   11.5   |   12.5   |   10.7   |   11.8  
- QNPM%: |   3.5    |   1.8    |   2.9    |   1.5    |   2.7   
- QPFT:  |   61.2   |   28.5   |   49.7   |   24.0   |   46.8  
- PQoQ%: |   21.2   |  -53.4   |   74.2   |  -51.6   |   94.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2080.2		3809.6		6489.6		6395.6		6628.9		5111.3
+SQoQ%: 	8.6		83.1		70.4		-1.5		3.6		77.1
+YOPM%: 	23.2		18.0		13.7		15.1		11.9
+YNPM%: 	7.9		5.1		3.4		3.1		2.2
+YPROFIT: 163.8		193.6		217.6		200.4		149.1		115.7
+PQoQ%: 	70.8		18.2		12.4		-7.9		-25.6		77.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1613.5		1747.8		1705.5		1781.9		1623.9
+QoQ%: 	-4.4		8.3		-2.4		4.5		-8.9
+QOPM%: 	10.7		11.8		12.8		13.1		11.3
+QNPM%: 	1.5		2.7		2.6		2.9		1.3
+QPFT: 	24.0		46.8		43.8		51.6		20.3
+PQoQ%: 	-51.6		94.7		-6.3		17.7		-60.6
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 16.9%
+ROCE in Mar2025 is at 17.9%
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 78% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
-6608.10cr, QoQ 3.30% & YoY 217.67% SALES;
-768.60cr, QoQ -20.40% & YoY 59.56% OPERATING PROFIT;
+6628.90cr, QoQ 3.60% & YoY 218.67% SALES;
+789.40cr, QoQ -18.20% & YoY 63.88% OPERATING PROFIT;
 149.10cr, QoQ -25.60% & YoY -8.97% NET PROFIT;
-OPM %: 11.60% vs 15.1%
-NPM %: 2.30% vs 3.1%
+OPM %: 11.90% vs 15.1%
+NPM %: 2.20% vs 3.1%
 

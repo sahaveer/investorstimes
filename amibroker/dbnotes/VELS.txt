@@ -1,11 +1,15 @@
-CODES
-VELS	
-SECTOR : Entertainment
-INDUSTRY : Entertainment / Electronic Media Software
+CODES	VELS	
+FULLNAME : Vels Film International Ltd
+SECTOR : Consumer Discretionary
+INDUSTRY : Media, Entertainment & Publication
+PRODUCT DEMAND
+YSD YPD 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2025
 
+***CONS***

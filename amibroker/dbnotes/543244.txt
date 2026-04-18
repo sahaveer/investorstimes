@@ -1,31 +1,31 @@
-CODE	NAME
-543244 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	543244	
+FULLNAME : Shine Fashions (India) Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 PRODUCT DEMAND
 YSD YPD 2024
 LYPD PM 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 26.7%
+ROCE in Mar2025 is at 24.4%
 - YProfits and YSales DOUBLED in Mar2024
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 52.1% while the Profit QoQ_growth is much better than Sales itself at 79.6%
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
-80.50cr, QoQ 52.10% & YoY 1066.67% SALES;
-10.10cr, QoQ 93.70% & YoY 4950.00% OPERATING PROFIT;
+80.40cr, QoQ 52.10% & YoY 1065.22% SALES;
+9.40cr, QoQ 80.60% & YoY 4600.00% OPERATING PROFIT;
 7.00cr, QoQ 79.60% & YoY 3400.00% NET PROFIT;
-OPM %: 12.50% vs 9.9%
+OPM %: 11.70% vs 9.9%
 NPM %: 8.70% vs 7.3%
 

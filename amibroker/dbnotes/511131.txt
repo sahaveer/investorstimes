@@ -1,26 +1,39 @@
-CODE	NAME
-511131 
-
+CODES	511131	
+FULLNAME : Kamanwala Housing Construction Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
+PRODUCT DEMAND
+YSD YPD 2025
+LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -2.3
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   2.7    |   2.6    |   2.8    |   3.9    |   2.8    |      0.7     
- SQoQ%:  |  -88.9   |   -3.3   |   8.4    |   35.8   |  -27.6   |      25.0    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   4.4    |   0.0    |   3.9    |   0.0    |   0.0    |              
-YPROFIT: |   0.1    |   -0.2   |   0.1    |   -8.2   |   -2.3   |      0.2     
- PQoQ%:  |  -130.8  |  -241.7  |  -164.7  | -7563.6  |  -71.9   |      -8.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.7    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   inf    |  -100.0  |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   inf   
- QPFT:  |   -0.1   |   -2.1   |   -0.1   |   -0.2   |   0.5   
- PQoQ%: |   0.0    |  2537.5  |  -94.8   |   90.9   |  -357.1 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2.6		2.8		3.9		2.8		11.4		6.0
+SQoQ%: 	-3.3		8.4		35.8		-27.6		307.5		52.6
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		3.9		0.0		0.0		399.0
+YPROFIT: -0.2		0.1		-8.2		-2.3		45.5		-1.4
+PQoQ%: 	-241.7		-164.7		-7563.6		-71.9		-2071.0		-3.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		10.7		0.0		0.0		6.0
+QoQ%: 	nan		inf		-100.0		nan		inf
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	inf		421.9		inf		inf		0.0
+QPFT: 	0.5		45.3		0.0		0.0		-1.4
+PQoQ%: 	-357.1		8290.7		-99.9		66.7		-2860.0
+
+
 
 ***PROS***
+A DEBT-Free Company
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 53% YSales
+- YProfit Turned POSITIVE this year Mar-2025 : 45.5
+- YProfits and YSales DOUBLED in Mar2025
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***

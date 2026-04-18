@@ -1,16 +1,16 @@
-CODE	NAME
-544047 
-
+CODES	544047	
+FULLNAME : Siyaram Recycling Industries Ltd
 SECTOR : Non Ferrous Metals
 INDUSTRY : Mining / Minerals / Metals
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

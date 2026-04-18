@@ -1,29 +1,38 @@
-CODES
-519183	ADFFOODS	
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
+CODES	519183	ADFFOODS	
+FULLNAME : ADF Foods Ltd
+SECTOR : Food Products
+INDUSTRY : Packaged Foods
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  369.8   |  421.2   |  450.3   |  520.3   |  589.6  
- SQoQ%:  |   29.7   |   13.9   |   6.9    |   15.6   |   13.3  
- YOPM%:  |   18.5   |   15.9   |   18.0   |   20.2   |   16.7  
- YNPM%:  |   13.5   |   11.4   |   12.5   |   14.5   |   11.7  
-YPROFIT: |   50.1   |   48.1   |   56.1   |   75.3   |   69.3  
- PQoQ%:  |   17.1   |   -3.9   |   16.6   |   34.2   |   -8.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  153.6   |  121.6   |  161.4   |  147.5   |  159.1  
- QoQ%:  |   18.5   |  -20.8   |   32.7   |   -8.6   |   7.9   
- QOPM%: |   22.3   |   16.1   |   17.2   |   17.9   |   15.5  
- QNPM%: |   16.8   |   12.4   |   12.2   |   12.7   |   10.3  
- QPFT:  |   25.9   |   15.0   |   19.7   |   18.8   |   16.4  
- PQoQ%: |   33.4   |  -41.8   |   30.8   |   -4.6   |  -12.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 369.8		421.2		450.3		520.3		589.6		486.5
+SQoQ%: 	29.7		13.9		6.9		15.6		13.3		82.5
+YOPM%: 	18.5		15.9		18.0		20.2		16.7
+YNPM%: 	13.5		11.4		12.5		14.5		11.7
+YPROFIT: 50.1		48.1		56.1		75.3		69.3		64.0
+PQoQ%: 	17.1		-3.9		16.6		34.2		-8.0		92.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 147.5		159.1		132.9		162.6		191.0
+QoQ%: 	-8.6		7.9		-16.5		22.4		17.5
+QOPM%: 	17.9		15.5		17.7		22.0		19.4
+QNPM%: 	12.7		10.3		11.5		16.2		11.7
+QPFT: 	18.8		16.4		15.2		26.4		22.4
+PQoQ%: 	-4.6		-12.4		-7.3		73.2		-15.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 92% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

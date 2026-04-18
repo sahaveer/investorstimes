@@ -1,29 +1,38 @@
-CODES
-534598	SAMPANN	
-SECTOR : Plantation & Plantation Products
-INDUSTRY : Miscellaneous
+CODES	534598	SAMPANN	
+FULLNAME : Sampann Utpadan India Ltd
+SECTOR : Industrial Products
+INDUSTRY : Rubber
 PRODUCT DEMAND
+BestQ Dec 2025
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   23.7   |   47.9   |   57.7   |   71.4   |   92.6  
- SQoQ%:  |   15.9   |  102.2   |   20.5   |   23.8   |   29.7  
- YOPM%:  |   0.0    |   6.6    |   5.5    |   6.8    |   0.0   
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   4.3   
-YPROFIT: |   -7.3   |   -3.0   |   -1.7   |   -0.9   |   4.0   
- PQoQ%:  |  -14.0   |  -59.5   |  -43.1   |  -48.5   |  -557.5 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   19.1   |   20.2   |   21.1   |   23.8   |   27.5  
- QoQ%:  |   11.3   |   5.8    |   4.5    |   13.0   |   15.4  
- QOPM%: |   12.2   |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   2.3    |   0.0    |   0.0    |   5.0    |   19.8  
- QPFT:  |   0.4    |   -1.5   |   -1.1   |   1.2    |   5.4   
- PQoQ%: |  -172.1  |  -450.0  |  -26.6   |  -205.3  |  358.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 23.7		47.9		57.7		71.4		92.6		103.9
+SQoQ%: 	15.9		102.2		20.5		23.8		29.7		112.2
+YOPM%: 	0.0		6.6		5.5		6.8		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		4.3
+YPROFIT: -7.3		-3.0		-1.7		-0.9		4.0		5.5
+PQoQ%: 	-14.0		-59.5		-43.1		-48.5		-557.5		137.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 23.8		32.4		32.7		34.8		36.4
+QoQ%: 	13.0		35.8		0.9		6.6		4.4
+QOPM%: 	0.0		12.8		12.3		11.3		11.2
+QNPM%: 	5.0		16.8		5.6		5.3		5.2
+QPFT: 	1.2		5.4		1.8		1.8		1.9
+PQoQ%: 	-205.3		358.0		-66.4		1.1		2.7
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 112% YSales
+- Last 3QPROFIT is about 138% of YProfit
 - YProfit Turned POSITIVE this year Mar-2025 : 4.0
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***

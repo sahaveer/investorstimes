@@ -1,4 +1,4 @@
-CODES
-570004	JISLDVREQS	
-SECTOR : 
-INDUSTRY : 
+CODES	570004	JISLDVREQS	
+FULLNAME : Jain Irrigation Systems Ltd-DVR
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial

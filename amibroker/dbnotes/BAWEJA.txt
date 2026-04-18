@@ -1,21 +1,21 @@
-CODES
-BAWEJA	
+CODES	BAWEJA	
+FULLNAME : Baweja Studios Ltd
 SECTOR : Entertainment
-INDUSTRY : Entertainment / Electronic Media Software
-LYPD PM 2024
+INDUSTRY : Film Production, Distribution & Exhibition
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-64.30cr, QoQ -12.90% SALES;
-11.30cr, QoQ 25.30% OPERATING PROFIT;
-8.20cr, QoQ 3.10% NET PROFIT;
-OPM %: 17.60% vs 12.2%
-NPM %: 12.80% vs 10.8%
+ 31-Mar-2025 #Result
+75.60cr, QoQ 17.50% & YoY 289.69% SALES;
+13.60cr, QoQ 20.60% & YoY 12.40% OPERATING PROFIT;
+8.30cr, QoQ 0.70% & YoY 9.21% NET PROFIT;
+OPM %: 18.00% vs 17.6%
+NPM %: 11.00% vs 12.8%
 

@@ -1,42 +1,49 @@
-CODES
-533273	OBEROIRLTY	
+CODES	533273	OBEROIRLTY	
+FULLNAME : Oberoi Realty Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
 EXPANSION 2024
 PRODUCT DEMAND
-YSD YPD 2023
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  849.7   |  1012.5  |  3240.1  |  3302.2  |  4372.0 
- SQoQ%:  |   37.1   |   19.2   |  220.0   |   1.9    |   32.4  
- YOPM%:  |   58.3   |   48.6   |   52.4   |   56.1   |   57.1  
- YNPM%:  |   49.0   |   37.7   |   72.0   |   44.7   |   40.5  
-YPROFIT: |  416.6   |  381.9   |  2332.6  |  1477.3  |  1768.7 
- PQoQ%:  |   32.3   |   -8.3   |  510.8   |  -36.7   |   19.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1104.6  |  1174.0  |  1009.6  |  1276.7  |  911.8  
- QoQ%:  |   71.4   |   6.3    |  -14.0   |   26.5   |  -28.6  
- QOPM%: |   59.1   |   55.2   |   64.3   |   58.7   |   49.6  
- QNPM%: |   62.1   |   39.1   |   45.9   |   42.0   |   33.9  
- QPFT:  |  686.0   |  459.3   |  463.8   |  536.5   |  309.1  
- PQoQ%: |  157.6   |  -33.1   |   1.0    |   15.7   |  -42.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2052.6		2694.0		4192.6		4495.8		5286.3		4259.2
+SQoQ%: 	-8.3		31.2		55.6		7.2		17.6		80.6
+YOPM%: 	48.7		43.9		50.4		54.0		58.7
+YNPM%: 	36.0		38.9		45.4		42.9		42.1
+YPROFIT: 739.3		1047.1		1904.6		1926.6		2225.5		1804.1
+PQoQ%: 	7.2		41.6		81.9		1.2		15.5		81.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1411.1		1150.1		987.6		1779.0		1492.6
+QoQ%: 	6.9		-18.5		-14.1		80.1		-16.1
+QOPM%: 	60.7		53.7		52.7		57.4		57.4
+QNPM%: 	43.8		37.7		42.7		42.7		41.7
+QPFT: 	618.4		433.2		421.2		760.3		622.6
+PQoQ%: 	4.9		-30.0		-2.8		80.5		-18.1
+
+
 
 ***PROS***
 EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
 - PRODUCT DEMAND is rising since 3 years
-- YProfits and YSales DOUBLED in Mar2023
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 81% of YProfit
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 
+YSALES in Mar-2025 is at 5286.3 showing a QoQ_growth of 17.6%. The YNETPROFIT grew by 15.5% to 2225.5
 
-YSALES in Mar-2025 is at 4372.0 showing a QoQ_growth of 32.4%. The YNETPROFIT grew by 19.7% to 1768.7
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-4372.00cr, QoQ 32.40% & YoY 414.53% SALES;
-2497.60cr, QoQ 34.80% & YoY 404.57% OPERATING PROFIT;
-1768.70cr, QoQ 19.70% & YoY 324.56% NET PROFIT;
-OPM %: 57.10% vs 56.1%
-NPM %: 40.50% vs 44.7%
+5286.30cr, QoQ 17.60% & YoY 157.54% SALES;
+3103.00cr, QoQ 27.70% & YoY 210.11% OPERATING PROFIT;
+2225.50cr, QoQ 15.50% & YoY 201.03% NET PROFIT;
+OPM %: 58.70% vs 54.0%
+NPM %: 42.10% vs 42.9%
 

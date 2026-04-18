@@ -1,12 +1,11 @@
-CODES
-AVPINFRA	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
+CODES	AVPINFRA	
+FULLNAME : AVP Infracon Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
 PRODUCT DEMAND
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -16,10 +15,12 @@ ROCE in Mar2025 is at 15.9%
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 80.4% while the Profit QoQ_growth is much better than Sales itself at 81.0%
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 272.40cr, QoQ 80.40% & YoY 369.66% SALES;
-55.20cr, QoQ 74.50% & YoY 820.00% OPERATING PROFIT;
+55.20cr, QoQ 74.30% & YoY 820.00% OPERATING PROFIT;
 33.10cr, QoQ 81.00% & YoY 1339.13% NET PROFIT;
 OPM %: 20.30% vs 21.0%
 NPM %: 12.10% vs 12.1%

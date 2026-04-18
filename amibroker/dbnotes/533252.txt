@@ -1,38 +1,47 @@
-CODES
-533252	WELINV	
-SECTOR : 
-INDUSTRY : 
+CODES	533252	WELINV	
+FULLNAME : Welspun Investments & Commercials Ltd
+SECTOR : Finance
+INDUSTRY : Investment Company
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   1.4    |   4.2    |   7.6    |   4.1    |   5.2   
- SQoQ%:  |  -83.5   |  208.0   |   81.3   |  -46.0   |   27.1  
- YOPM%:  |   77.4   |   91.9   |   95.7   |   90.1   |   93.3  
- YNPM%:  |   57.7   |   58.5   |   71.6   |   67.3   |   70.5  
-YPROFIT: |   0.8    |   2.5    |   5.5    |   2.8    |   3.7   
- PQoQ%:  |  -89.2   |  212.7   |  121.9   |  -49.3   |   33.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   0.1    |   0.1    |   4.9    |   0.2    |   0.1   
- QoQ%:  |  -28.6   |   10.0   |  4336.4  |  -96.1   |  -68.4  
- QOPM%: |   0.0    |   36.4   |   98.8   |   42.1   |   0.0   
- QNPM%: |   0.0    |   18.2   |   74.0   |   36.8   |   0.0   
- QPFT:  |   -0.1   |   0.0    |   3.6    |   0.1    |   0.0   
- PQoQ%: |  -220.0  |  -133.3  | 17950.0  |  -98.1   |  -100.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.4		4.2		7.6		4.1		5.3		5.0
+SQoQ%: 	-83.5		208.0		81.3		-46.0		27.4		94.3
+YOPM%: 	77.4		91.9		95.7		90.1		93.3
+YNPM%: 	57.7		58.5		71.6		67.3		70.3
+YPROFIT: 0.8		2.5		5.5		2.8		3.7		3.2
+PQoQ%: 	-89.2		212.7		121.9		-49.3		33.1		86.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.2		0.1		0.0		4.9		0.1
+QoQ%: 	-96.1		-68.4		-33.3		12150.0		-97.3
+QOPM%: 	42.1		0.0		0.0		93.3		0.0
+QNPM%: 	36.8		0.0		0.0		71.2		0.0
+QPFT: 	0.1		0.0		-0.2		3.5		-0.1
+PQoQ%: 	-98.1		-100.0		-inf		-1845.0		-103.7
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 94% YSales
+- Last 3QPROFIT is about 86% of YProfit
 
 
-YSALES in Mar-2025 is at 5.2 showing a QoQ_growth of 27.1%. The YNETPROFIT grew by 33.1% to 3.7
+YSALES in Mar-2025 is at 5.3 showing a QoQ_growth of 27.4%. The YNETPROFIT grew by 33.1% to 3.7
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-5.20cr, QoQ 27.10% & YoY 271.43% SALES;
-4.90cr, QoQ 31.70% & YoY 345.45% OPERATING PROFIT;
+5.30cr, QoQ 27.40% & YoY 278.57% SALES;
+4.90cr, QoQ 32.00% & YoY 345.45% OPERATING PROFIT;
 3.70cr, QoQ 33.10% & YoY 362.50% NET PROFIT;
 OPM %: 93.30% vs 90.1%
-NPM %: 70.50% vs 67.3%
+NPM %: 70.30% vs 67.3%
 

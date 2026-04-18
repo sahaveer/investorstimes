@@ -1,13 +1,15 @@
-CODES
-532371	TTML	
-SECTOR : Telecomm-Service
-INDUSTRY : Telecommunications - Service Provider
+CODES	532371	TTML	
+FULLNAME : Tata Teleservices (Maharashtra) Ltd
+SECTOR : Telecom - Services
+INDUSTRY : Telecom - Cellular & Fixed line services
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - YProfit Turned POSITIVE this year Mar-2011 : 80.2
+
+***CONS***

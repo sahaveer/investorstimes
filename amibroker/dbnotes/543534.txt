@@ -1,20 +1,25 @@
-CODES
-543534	AETHER	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	543534	AETHER	
+FULLNAME : Aether Industries Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 102% YSales
+- Last 3QPROFIT is about 104% of YProfit
 
 
 YSALES in Mar-2025 is at 838.7 showing a QoQ_growth of 40.2%. The YNETPROFIT grew by 92.0% to 158.4
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

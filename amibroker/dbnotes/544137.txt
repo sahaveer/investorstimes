@@ -1,12 +1,14 @@
-CODES
-544137	INDUSINVIT	
+CODES	544137	INDUSINVIT	
+FULLNAME : Indus Infra Trust
 SECTOR : Infrastructure Investment Trusts
 INDUSTRY : Construction
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

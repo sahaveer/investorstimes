@@ -1,36 +1,45 @@
-CODES
-542652	POLYCAB	
-SECTOR : Cables
-INDUSTRY : Cables - Power
+CODES	542652	POLYCAB	
+FULLNAME : Polycab India Ltd
+SECTOR : Industrial Products
+INDUSTRY : Cables - Electricals
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  8792.2  | 12203.8  | 14107.8  | 18039.4  | 22408.3 
- SQoQ%:  |   -0.4   |   38.8   |   15.6   |   27.9   |   24.2  
- YOPM%:  |   12.6   |   10.4   |   13.1   |   13.8   |   13.2  
- YNPM%:  |   10.0   |   7.4    |   9.0    |   9.9    |   9.0   
-YPROFIT: |  882.1   |  908.6   |  1270.8  |  1784.0  |  2020.0 
- PQoQ%:  |   16.2   |   3.0    |   39.9   |   40.4   |   13.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  5591.9  |  4698.0  |  5498.4  |  5226.1  |  6985.8 
- QoQ%:  |   28.8   |  -16.0   |   17.0   |   -5.0   |   33.7  
- QOPM%: |   13.6   |   12.4   |   11.5   |   13.8   |   14.7  
- QNPM%: |   9.8    |   8.4    |   8.0    |   8.8    |   10.4  
- QPFT:  |  546.0   |  396.0   |  439.8   |  457.6   |  726.7  
- PQoQ%: |   32.3   |  -27.5   |   11.1   |   4.0    |   58.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 8792.2		12203.8		14107.8		18039.4		22408.3		20019.3
+SQoQ%: 	-0.4		38.8		15.6		27.9		24.2		89.3
+YOPM%: 	12.6		10.4		13.1		13.8		13.2
+YNPM%: 	10.0		7.4		9.0		9.9		9.0
+YPROFIT: 882.1		908.6		1270.8		1784.0		2020.0		1899.3
+PQoQ%: 	16.2		3.0		39.9		40.4		13.2		94.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 5226.1		6985.8		5906.0		6477.2		7636.1
+QoQ%: 	-5.0		33.7		-15.5		9.7		17.9
+QOPM%: 	13.8		14.7		14.5		15.8		12.7
+QNPM%: 	8.8		10.4		10.0		10.6		8.1
+QPFT: 	457.6		726.7		592.1		685.5		621.7
+PQoQ%: 	4.0		58.8		-18.5		15.8		-9.3
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 26.5%
+ROCE in Mar2025 is at 26.6%
+- Last 3QSALES is about 89% YSales
+- Last 3QPROFIT is about 94% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
 22408.30cr, QoQ 24.20% & YoY 154.87% SALES;
-2960.20cr, QoQ 18.80% & YoY 166.42% OPERATING PROFIT;
+2963.50cr, QoQ 18.90% & YoY 166.72% OPERATING PROFIT;
 2020.00cr, QoQ 13.20% & YoY 129.00% NET PROFIT;
 OPM %: 13.20% vs 13.8%
 NPM %: 9.00% vs 9.9%

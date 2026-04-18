@@ -1,30 +1,43 @@
-CODES
-542685	DGCONTENT	
-SECTOR : Entertainment
-INDUSTRY : Entertainment / Electronic Media Software
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	542685	DGCONTENT	
+FULLNAME : Digicontent Ltd
+SECTOR : Media
+INDUSTRY : Advertising & Media Agencies
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  259.1   |  248.9   |  324.1   |  349.3   |  414.6   |     328.4    
- SQoQ%:  |   -3.3   |   -3.9   |   30.2   |   7.8    |   18.7   |      79.2    
- YOPM%:  |   9.3    |   10.6   |   16.3   |   4.3    |   11.1   |              
- YNPM%:  |   0.0    |   0.0    |   6.5    |   0.0    |   1.4    |              
-YPROFIT: |  -33.0   |  -43.6   |   21.0   |  -12.8   |   5.7    |      18.1    
- PQoQ%:  |  180.5   |   32.0   |  -148.3  |  -161.0  |  -144.7  |     317.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  108.0   |  118.0   |  104.3   |  114.6   |  109.5  
- QoQ%:  |   9.8    |   9.3    |  -11.6   |   9.9    |   -4.5  
- QOPM%: |   8.6    |   15.4   |   9.5    |   18.3   |   12.5  
- QNPM%: |   0.0    |   5.1    |   0.7    |   9.4    |   6.0   
- QPFT:  |   -0.6   |   6.1    |   0.7    |   10.8   |   6.6   
- PQoQ%: |  -27.6   | -1201.8  |  -88.6   |  1466.7  |  -39.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 248.9		324.1		349.3		414.6		442.8		370.3
+SQoQ%: 	-3.9		30.2		7.8		18.7		6.8		83.6
+YOPM%: 	10.6		16.3		4.3		11.1		13.0
+YNPM%: 	0.0		6.5		0.0		1.4		5.5
+YPROFIT: -43.6		21.0		-12.8		5.7		24.3		-0.1
+PQoQ%: 	32.0		-148.3		-161.0		-144.7		323.5		-0.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 109.5		114.5		110.4		131.8		128.1
+QoQ%: 	-4.5		4.6		-3.6		19.3		-2.8
+QOPM%: 	12.5		11.5		2.1		12.4		8.2
+QNPM%: 	6.0		5.4		0.0		7.2		0.0
+QPFT: 	6.6		6.2		-2.3		9.5		-7.3
+PQoQ%: 	-39.0		-5.6		-137.5		-508.6		-176.5
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 79% YSales
-- Last 3QPROFIT is about 318% of YProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 5.7
+- Last 3QSALES is about 84% YSales
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+442.80cr, QoQ 6.80% & YoY 77.90% SALES;
+57.80cr, QoQ 25.70% & YoY 119.77% OPERATING PROFIT;
+24.30cr, QoQ 323.50% & YoY -155.73% NET PROFIT;
+OPM %: 13.00% vs 11.1%
+NPM %: 5.50% vs 1.4%
+

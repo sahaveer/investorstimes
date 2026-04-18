@@ -1,36 +1,45 @@
-CODES
-523836	GUJRAFFIA	
-SECTOR : 
-INDUSTRY : 
-BestQ Dec 2024
+CODES	523836	GUJRAFFIA	
+FULLNAME : Gujarat Raffia Industries Ltd
+SECTOR : Industrial Products
+INDUSTRY : Packaging
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   33.8   |   38.8   |   38.0   |   39.2   |   30.9   |      22.1    
- SQoQ%:  |  -29.0   |   14.9   |   -2.1   |   3.3    |  -21.2   |      71.5    
- YOPM%:  |   4.6    |   6.6    |   5.4    |   3.8    |   5.1    |              
- YNPM%:  |   1.0    |   3.1    |   2.9    |   2.6    |   1.7    |              
-YPROFIT: |   0.3    |   1.2    |   1.1    |   1.0    |   0.5    |      0.5     
- PQoQ%:  |  -64.1   |  260.6   |   -5.9   |   -8.0   |  -47.6   |     100.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   7.2    |   7.1    |   10.5   |   5.5    |   6.1   
- QoQ%:  |   -6.3   |   -0.6   |   48.0   |  -48.0   |   11.5  
- QOPM%: |   3.4    |   8.0    |   5.9    |   9.1    |   8.9   
- QNPM%: |   2.5    |   2.1    |   2.7    |   1.3    |   1.3   
- QPFT:  |   0.2    |   0.2    |   0.3    |   0.1    |   0.1   
- PQoQ%: |  200.0   |  -16.7   |   86.7   |  -75.0   |   14.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 38.8		38.0		39.2		30.9		30.0		61.5
+SQoQ%: 	14.9		-2.1		3.3		-21.2		-2.8		205.0
+YOPM%: 	6.6		5.4		3.8		5.1		6.0
+YNPM%: 	3.1		2.9		2.6		1.7		1.7
+YPROFIT: 1.2		1.1		1.0		0.5		0.5		0.6
+PQoQ%: 	260.6		-5.9		-8.0		-47.6		-3.7		120.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 6.1		8.0		11.5		26.1		23.9
+QoQ%: 	11.5		30.5		44.7		126.6		-8.5
+QOPM%: 	8.9		1.6		10.1		2.7		1.4
+QNPM%: 	1.3		1.3		3.0		0.7		0.5
+QPFT: 	0.1		0.1		0.3		0.2		0.1
+PQoQ%: 	14.3		25.0		240.0		-44.1		-42.1
+
+
 
 ***PROS***
-- Last 3QSALES is about 72% YSales
-- Last 3QPROFIT is about 100% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 205% YSales
+- Last 3QPROFIT is about 120% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-30.90cr, QoQ -21.20% & YoY -8.58% SALES;
-1.60cr, QoQ 6.80% & YoY 6.67% OPERATING PROFIT;
-0.50cr, QoQ -47.60% & YoY 66.67% NET PROFIT;
-OPM %: 5.10% vs 3.8%
-NPM %: 1.70% vs 2.6%
+ 31-Mar-2025 #Result
+30.00cr, QoQ -2.80% & YoY -22.68% SALES;
+1.80cr, QoQ 13.90% & YoY -30.77% OPERATING PROFIT;
+0.50cr, QoQ -3.70% & YoY -58.33% NET PROFIT;
+OPM %: 6.00% vs 5.1%
+NPM %: 1.70% vs 1.7%
 

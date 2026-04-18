@@ -1,12 +1,14 @@
-CODES
-FELIX	
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
+CODES	FELIX	
+FULLNAME : Felix Industries Ltd
+SECTOR : Other Utilities
+INDUSTRY : Water Supply & Management
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

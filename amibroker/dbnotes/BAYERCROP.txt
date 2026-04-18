@@ -1,12 +1,14 @@
-CODES
-506285	BAYERCROP	
-SECTOR : Agro Chemicals
-INDUSTRY : Pesticides / Agrochemicals - Multinational
+CODES	506285	BAYERCROP	
+FULLNAME : Bayer CropScience Ltd
+SECTOR : Fertilizers & Agrochemicals
+INDUSTRY : Pesticides & Agrochemicals
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

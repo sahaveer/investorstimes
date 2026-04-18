@@ -1,39 +1,44 @@
-CODES
-543462	DEVIT	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
-BestQ Dec 2024
-LYPD PM 2024
+CODES	543462	DEVIT	
+FULLNAME : Dev Information Technology Ltd
+SECTOR : IT - Services
+INDUSTRY : IT Enabled Services
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   68.5   |   84.6   |   99.8   |  124.2   |  163.6   |     119.1    
- SQoQ%:  |  -11.7   |   23.5   |   17.9   |   24.4   |   31.7   |      72.8    
- YOPM%:  |   7.0    |   3.2    |   3.6    |   5.6    |   8.4    |              
- YNPM%:  |   5.4    |   0.0    |   0.1    |   7.2    |   5.7    |              
-YPROFIT: |   3.7    |   -0.3   |   0.1    |   9.0    |   9.3    |      13.6    
- PQoQ%:  |  -15.3   |  -108.6  |  -140.6  |  6800.0  |   3.6    |     146.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   31.7   |   43.4   |   35.5   |   35.9   |   47.7  
- QoQ%:  |   13.6   |   36.9   |  -18.4   |   1.4    |   32.7  
- QOPM%: |   7.7    |   14.3   |   16.3   |   0.0    |   6.3   
- QNPM%: |   5.4    |   9.5    |   10.0   |   23.3   |   3.6   
- QPFT:  |   1.7    |   4.1    |   3.5    |   8.4    |   1.7   
- PQoQ%: |   3.7    |  143.5   |  -14.7   |  137.7   |  -79.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 84.6		99.8		124.2		163.6		170.6		135.6
+SQoQ%: 	23.5		17.9		24.4		31.7		4.3		79.5
+YOPM%: 	3.2		3.6		5.6		8.4		6.1
+YNPM%: 	0.0		0.1		7.2		5.7		8.7
+YPROFIT: -0.3		0.1		9.0		9.3		14.9		66.6
+PQoQ%: 	-108.6		-140.6		6800.0		3.6		60.1		447.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 47.7		51.6		43.0		48.5		44.1
+QoQ%: 	32.7		8.0		-16.6		12.8		-9.0
+QOPM%: 	6.3		5.4		8.3		6.5		0.0
+QNPM%: 	3.6		2.4		4.9		148.1		0.0
+QPFT: 	1.7		1.2		2.1		71.8		-7.3
+PQoQ%: 	-79.4		-29.5		73.0		3305.2		-110.1
+
+
 
 ***PROS***
-- Last 3QSALES is about 73% YSales
-- Last 3QPROFIT is about 146% of YProfit
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
-- LastYr YProfits Doubled and maintained in Mar2024
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 447% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-163.60cr, QoQ 31.70% & YoY 138.83% SALES;
-13.80cr, QoQ 99.00% & YoY 187.50% OPERATING PROFIT;
-9.30cr, QoQ 3.60% & YoY 151.35% NET PROFIT;
-OPM %: 8.40% vs 5.6%
-NPM %: 5.70% vs 7.2%
+ 31-Mar-2025 #Result
+170.60cr, QoQ 4.30% & YoY 101.65% SALES;
+10.50cr, QoQ -23.90% & YoY 288.89% OPERATING PROFIT;
+14.90cr, QoQ 60.10% & YoY -5066.67% NET PROFIT;
+OPM %: 6.10% vs 8.4%
+NPM %: 8.70% vs 5.7%
 

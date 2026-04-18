@@ -1,14 +1,15 @@
-CODES
-AMBEY	
+CODES	AMBEY	
+FULLNAME : Ambey Laboratories Ltd
 SECTOR : Agro Chemicals
 INDUSTRY : Pesticides / Agrochemicals - Indian
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

@@ -1,38 +1,47 @@
-CODES
-523642	PIIND	
-SECTOR : Agro Chemicals
-INDUSTRY : Pesticides / Agrochemicals - Indian
+CODES	523642	PIIND	
+FULLNAME : P I Industries Ltd
+SECTOR : Fertilizers & Agrochemicals
+INDUSTRY : Pesticides & Agrochemicals
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  4577.0  |  5299.5  |  6492.0  |  7665.8  |  7977.8 
- SQoQ%:  |   36.0   |   15.8   |   22.5   |   18.1   |   4.1   
- YOPM%:  |   22.2   |   21.6   |   23.8   |   26.5   |   27.3  
- YNPM%:  |   16.1   |   15.9   |   18.9   |   21.9   |   20.8  
-YPROFIT: |  738.3   |  843.8   |  1229.5  |  1681.5  |  1660.2 
- PQoQ%:  |   61.7   |   14.3   |   45.7   |   36.8   |   -1.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1741.0  |  2068.9  |  2221.0  |  1900.8  |  1787.1 
- QoQ%:  |   -8.2   |   18.8   |   7.4    |  -14.4   |   -6.0  
- QOPM%: |   25.4   |   28.2   |   28.3   |   26.9   |   25.5  
- QNPM%: |   21.2   |   21.7   |   22.9   |   19.6   |   18.5  
- QPFT:  |  369.5   |  448.8   |  508.2   |  372.7   |  330.5  
- PQoQ%: |  -17.6   |   21.5   |   13.2   |  -26.7   |  -11.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 4577.0		5299.5		6492.0		7665.8		7977.8		5148.5
+SQoQ%: 	36.0		15.8		22.5		18.1		4.1		64.5
+YOPM%: 	22.2		21.6		23.8		26.5		27.6
+YNPM%: 	16.1		15.9		18.9		21.9		20.8
+YPROFIT: 738.3		843.8		1229.5		1681.5		1660.2		1120.6
+PQoQ%: 	61.7		14.3		45.7		36.8		-1.3		67.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1900.8		1787.1		1900.5		1872.3		1375.7
+QoQ%: 	-14.4		-6.0		6.3		-1.5		-26.5
+QOPM%: 	26.9		25.5		27.3		28.9		22.0
+QNPM%: 	19.6		18.5		21.0		21.9		22.6
+QPFT: 	372.7		330.5		400.0		409.3		311.3
+PQoQ%: 	-26.7		-11.3		21.0		2.3		-23.9
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 16.0%
+ROCE in Mar2025 is at 16.6%
+- Last 3QSALES is about 65% YSales
+- Last 3QPROFIT is about 67% of YProfit
 
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
 7977.80cr, QoQ 4.10% & YoY 74.30% SALES;
-2179.00cr, QoQ 7.30% & YoY 114.05% OPERATING PROFIT;
+2205.60cr, QoQ 8.60% & YoY 116.66% OPERATING PROFIT;
 1660.20cr, QoQ -1.30% & YoY 124.87% NET PROFIT;
-OPM %: 27.30% vs 26.5%
+OPM %: 27.60% vs 26.5%
 NPM %: 20.80% vs 21.9%
 

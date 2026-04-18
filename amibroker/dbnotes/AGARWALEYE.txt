@@ -1,18 +1,20 @@
-CODES
-544350	AGARWALEYE	
+CODES	544350	AGARWALEYE	
+FULLNAME : Dr Agarwals Health Care Ltd
 SECTOR : Healthcare
 INDUSTRY : Healthcare
 PRODUCT DEMAND
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2024 is at 3.4%. The QPROFIT QoQ_growth by 34.7%
+
+***CONS***
 
 Quarterly 
 31-Dec-2024 #Result

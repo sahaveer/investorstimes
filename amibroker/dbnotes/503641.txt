@@ -1,42 +1,47 @@
-CODE	NAME
-503641 
-
-SECTOR : Realty
-INDUSTRY : Construction
-BestQ Dec 2024
+CODES	503641	
+FULLNAME : Zodiac Ventures Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Consulting Services
+BestQ Dec 2025
 YSD YPD 2023
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.2    |   12.4   |   0.8    |   98.5   |   0.7    |      1.3     
- SQoQ%:  |  -21.4   |  5540.9  |  -93.6   | 12215.0  |  -99.3   |     185.7    
- YOPM%:  |  1822.7  |   41.7   |  540.0   |   10.7   |  1511.6  |              
- YNPM%:  |   0.0    |   0.6    |   50.0   |   2.1    |   63.8   |              
-YPROFIT: |   0.0    |   0.1    |   0.4    |   2.1    |   0.4    |      0.6     
- PQoQ%:  |  -100.0  |   inf    |  471.4   |  415.0   |  -78.6   |     150.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.1    |   0.0    |   0.6    |   0.7   
- QoQ%:  |  -100.0  |   inf    |  -100.0  |   inf    |   20.3  
- QOPM%: |   inf    |  4875.0  |   inf    |  172.9   |  152.1  
- QNPM%: |   inf    |   0.0    |   0.0    |   59.3   |   31.0  
- QPFT:  |   0.0    |   -0.2   |   0.0    |   0.4    |   0.2   
- PQoQ%: |  -94.1   |  -666.7  |  -100.0  |   inf    |  -37.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 12.4		0.8		98.5		0.6		1.6		2.5
+SQoQ%: 	5540.9		-93.6		12215.0		-99.4		171.2		156.2
+YOPM%: 	41.7		540.0		10.7		220.3		218.8
+YNPM%: 	0.6		50.0		2.1		88.1		63.1
+YPROFIT: 0.1		0.4		2.1		0.5		1.0		0.9
+PQoQ%: 	inf		471.4		415.0		-74.8		94.2		90.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.7		0.3		0.6		0.7		1.2
+QoQ%: 	20.3		-57.7		113.3		3.1		86.4
+QOPM%: 	152.1		276.7		145.3		97.0		32.5
+QNPM%: 	31.0		90.0		46.9		43.9		26.0
+QPFT: 	0.2		0.3		0.3		0.3		0.3
+PQoQ%: 	-37.1		22.7		11.1		-3.3		10.3
+
+
 
 ***PROS***
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 16.3%
-- Last 3QSALES is about 186% YSales
-- Last 3QPROFIT is about 150% of YProfit
+- Last 3QSALES is about 156% YSales
+- Last 3QPROFIT is about 90% of YProfit
 - YProfits and YSales DOUBLED in Mar2023
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
 
+YSALES in Mar-2025 is at 1.6 showing a QoQ_growth of 171.2%. The YNETPROFIT grew by 94.2% to 1.0
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-0.70cr, QoQ -99.30% & YoY 250.00% SALES;
-10.40cr, QoQ -1.50% & YoY 160.00% OPERATING PROFIT;
-0.40cr, QoQ -78.60% & YoY inf% NET PROFIT;
-OPM %: 1511.60% vs 10.7%
-NPM %: 63.80% vs 2.1%
+ 31-Mar-2025 #Result
+1.60cr, QoQ 171.20% & YoY -87.10% SALES;
+3.50cr, QoQ 169.20% & YoY -32.69% OPERATING PROFIT;
+1.00cr, QoQ 94.20% & YoY 900.00% NET PROFIT;
+OPM %: 218.80% vs 220.3%
+NPM %: 63.10% vs 88.1%
 

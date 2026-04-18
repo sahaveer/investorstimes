@@ -1,32 +1,41 @@
-CODES
-543276	CRAFTSMAN	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
+CODES	543276	CRAFTSMAN	
+FULLNAME : Craftsman Automation Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1560.0  |  2217.0  |  3182.6  |  4451.7  |  5690.5 
- SQoQ%:  |   4.5    |   42.1   |   43.6   |   39.9   |   27.8  
- YOPM%:  |   28.1   |   24.1   |   21.5   |   19.7   |   14.6  
- YNPM%:  |   6.2    |   7.4    |   7.8    |   6.8    |   3.4   
-YPROFIT: |   97.4   |  163.1   |  248.4   |  304.5   |  194.6  
- PQoQ%:  |  143.3   |   67.5   |   52.3   |   22.6   |  -36.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1105.3  |  1151.2  |  1214.0  |  1576.1  |  1749.2 
- QoQ%:  |   -2.2   |   4.1    |   5.5    |   29.8   |   11.0  
- QOPM%: |   18.7   |   17.1   |   15.9   |   12.6   |   13.9  
- QNPM%: |   5.6    |   4.6    |   5.1    |   0.8    |   3.8   
- QPFT:  |   62.3   |   53.2   |   61.7   |   12.9   |   66.8  
- PQoQ%: |  -14.8   |  -14.7   |   16.0   |  -79.0   |  416.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1560.0		2217.0		3182.6		4451.7		5690.5		5842.9
+SQoQ%: 	4.5		42.1		43.6		39.9		27.8		102.7
+YOPM%: 	28.1		24.1		21.5		19.7		14.6
+YNPM%: 	6.2		7.4		7.8		6.8		3.4
+YPROFIT: 97.4		163.1		248.4		304.5		194.6		267.6
+PQoQ%: 	143.3		67.5		52.3		22.6		-36.1		137.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1576.1		1749.2		1784.0		2001.6		2057.3
+QoQ%: 	29.8		11.0		2.0		12.2		2.8
+QOPM%: 	12.6		13.9		14.9		15.1		15.2
+QNPM%: 	0.8		3.8		3.9		4.5		5.2
+QPFT: 	12.9		66.8		69.6		90.9		107.1
+PQoQ%: 	-79.0		416.3		4.3		30.5		17.9
+
+
 
 ***PROS***
+- Last 3QSALES is about 103% YSales
+- Last 3QPROFIT is about 138% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 5690.50cr, QoQ 27.80% & YoY 264.78% SALES;
-832.70cr, QoQ -5.20% & YoY 90.03% OPERATING PROFIT;
+833.00cr, QoQ -5.20% & YoY 90.10% OPERATING PROFIT;
 194.60cr, QoQ -36.10% & YoY 99.79% NET PROFIT;
 OPM %: 14.60% vs 19.7%
 NPM %: 3.40% vs 6.8%

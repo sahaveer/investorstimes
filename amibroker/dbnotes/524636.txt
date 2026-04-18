@@ -1,29 +1,36 @@
-CODE	NAME
-524636 
-
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs
+CODES	524636	
+FULLNAME : Oxygenta Pharmaceutical Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -3.5
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   13.7   |   52.0   |   60.5   |   31.0   |   39.6   |      59.8    
- SQoQ%:  |  -33.1   |  279.2   |   16.3   |  -48.8   |   27.9   |     151.0    
- YOPM%:  |   0.0    |   7.4    |   2.4    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   5.6    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -5.8   |   2.9    |   -0.6   |  -11.6   |   -3.5   |      -8.1    
- PQoQ%:  |   78.2   |  -150.6  |  -120.8  |  1796.7  |  -69.9   |     231.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   9.2    |   10.6   |   12.6   |   14.0   |   33.2  
- QoQ%:  |  -30.0   |   15.3   |   19.6   |   11.0   |  137.0  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   76.0   |   0.0    |   0.0    |   0.0   
- QPFT:  |   -3.8   |   8.0    |   -1.4   |   -2.8   |   -3.9  
- PQoQ%: |   19.6   |  -312.2  |  -117.0  |  109.6   |   37.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 52.0		60.5		31.0		39.6		109.3		63.3
+SQoQ%: 	279.2		16.3		-48.8		27.9		175.7		57.9
+YOPM%: 	7.4		2.4		0.0		0.0		0.0
+YNPM%: 	5.6		0.0		0.0		0.0		0.0
+YPROFIT: 2.9		-0.6		-11.6		-3.5		-9.7		-15.8
+PQoQ%: 	-150.6		-120.8		1796.7		-69.9		178.2		162.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 33.2		49.5		15.1		14.3		33.9
+QoQ%: 	137.0		49.0		-69.4		-5.5		137.3
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-3.9		-2.2		-6.1		-4.9		-4.8
+PQoQ%: 	37.9		-45.3		184.2		-19.3		-1.8
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 151% YSales
+- Last 3QSALES is about 58% YSales
+
+YSALES in Mar-2025 is at 109.3 showing a QoQ_growth of 175.7%. The YNETPROFIT grew by 178.2% to -9.7
+
+***CONS***
+- NEGATIVE YProfit : -9.7

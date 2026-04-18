@@ -1,22 +1,14 @@
-CODE	NAME
-505725 
-
+CODES	505725	ALGOQUANT	
+FULLNAME : Algoquant Fintech Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Other Financial Services
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 
-Quarterly 
-31-Dec-2024 #Result
-49.80cr, QoQ -23.60% SALES;
-3.40cr, QoQ -83.20% OPERATING PROFIT;
-5.10cr, QoQ -58.50% NET PROFIT;
-OPM %: 6.80% vs 30.7%
-NPM %: 10.20% vs 18.8%
-
+***CONS***

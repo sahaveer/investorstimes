@@ -1,16 +1,17 @@
-CODE	NAME
-530185 
+CODES	530185	
+FULLNAME : Surat Trade & Merchantile Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
 
 Quarterly 
 31-Mar-2017 #Result

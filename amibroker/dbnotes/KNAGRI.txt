@@ -1,20 +1,35 @@
-CODES
-KNAGRI	
-SECTOR : Edible Oil
-INDUSTRY : Solvent Extraction
+CODES	KNAGRI	
+FULLNAME : KN Agri Resources Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Edible Oil
+PRODUCT DEMAND
 
-***CONS***
-- NO PRODUCT DEMAND
+***YEARLY***
 
+
+***QUARTERLY***
 
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2025 is at 16.0%. The QPROFIT QoQ_growth by 11.0%
+
+***CONS***
+
+Quarterly 
+31-Dec-2025 #Result
+512.60cr, QoQ 16.00% SALES;
+10.20cr, QoQ 35.20% OPERATING PROFIT;
+5.00cr, QoQ 11.00% NET PROFIT;
+OPM %: 2.00% vs 1.7%
+NPM %: 1.00% vs 1.0%
+
 
 Yearly 
- 31-Mar-2024 #Result
-1690.90cr, QoQ -24.00% & YoY 98.74% SALES;
-48.20cr, QoQ -6.70% & YoY 94.35% OPERATING PROFIT;
-31.30cr, QoQ 6.40% & YoY 135.34% NET PROFIT;
-OPM %: 2.80% vs 2.3%
-NPM %: 1.80% vs 1.3%
+ 31-Mar-2025 #Result
+1710.80cr, QoQ 1.20% & YoY 33.22% SALES;
+60.60cr, QoQ 25.80% & YoY 44.63% OPERATING PROFIT;
+37.00cr, QoQ 19.40% & YoY 43.41% NET PROFIT;
+OPM %: 3.50% vs 2.8%
+NPM %: 2.20% vs 1.8%
 

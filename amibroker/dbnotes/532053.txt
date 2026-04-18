@@ -1,49 +1,51 @@
-CODE	NAME
-532053 
-
-SECTOR : Stock/ Commodity Brokers
-INDUSTRY : Finance & Investments
+CODES	532053	
+FULLNAME : Wallfort Financial Services Ltd
+SECTOR : Capital Markets
+INDUSTRY : Stockbroking & Allied
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
 YSD YPD 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  -17.1   |   30.1   |   28.1   |   19.9   |   50.8   |      49.7    
- SQoQ%:  |  -23.8   |  -276.1  |   -6.6   |  -29.2   |  155.2   |      97.8    
- YOPM%:  |   0.0    |   69.8   |   60.3   |   32.2   |   72.6   |              
- YNPM%:  |   0.0    |   49.8   |   48.8   |   25.4   |   58.3   |              
-YPROFIT: |  -23.0   |   15.0   |   13.7   |   5.0    |   29.6   |      28.5    
- PQoQ%:  |  -14.5   |  -165.3  |   -8.6   |  -63.2   |  486.3   |      96.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   13.6   |   3.6    |   26.6   |   21.2   |   1.9   
- QoQ%:  |  -14.2   |  -73.9   |  648.7   |  -20.2   |  -91.2  
- QOPM%: |   72.4   |   0.0    |   82.8   |   79.9   |   0.0   
- QNPM%: |   62.9   |   0.0    |   75.1   |   67.4   |   0.0   
- QPFT:  |   8.6    |   -3.8   |   20.0   |   14.3   |   -5.8  
- PQoQ%: |  -21.8   |  -144.0  |  -631.1  |  -28.4   |  -140.8 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 30.1		28.1		19.9		50.8		33.4		20.6
+SQoQ%: 	-276.1		-6.6		-29.2		155.2		-34.3		61.7
+YOPM%: 	69.8		60.3		32.2		72.6		45.6
+YNPM%: 	49.8		48.8		25.4		58.3		36.0
+YPROFIT: 15.0		13.7		5.0		29.6		12.0		9.5
+PQoQ%: 	-165.3		-8.6		-63.2		486.3		-59.5		79.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1.9		-16.3		20.7		0.8		-0.9
+QoQ%: 	-91.2		-971.7		-226.7		-96.2		-219.0
+QOPM%: 	0.0		0.0		79.5		0.0		0.0
+QNPM%: 	0.0		0.0		74.0		0.0		0.0
+QPFT: 	-5.8		-16.4		15.3		-4.0		-1.8
+PQoQ%: 	-140.8		181.2		-193.1		-126.0		-53.9
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 71.3%
+ROCE in Mar2025 is at 27.0%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 98% YSales
-- Last 3QPROFIT is about 96% of YProfit
-- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- Last 3QSALES is about 62% YSales
+- Last 3QPROFIT is about 79% of YProfit
 - YProfits and YSales DOUBLED in Mar2024
 
 
-YSALES in Mar-2024 is at 50.8 showing a QoQ_growth of 155.2%. The YNETPROFIT grew by 486.3% to 29.6
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-50.80cr, QoQ 155.20% & YoY -397.08% SALES;
-36.90cr, QoQ 474.30% & YoY -234.18% OPERATING PROFIT;
-29.60cr, QoQ 486.30% & YoY -228.70% NET PROFIT;
-OPM %: 72.60% vs 32.2%
-NPM %: 58.30% vs 25.4%
+ 31-Mar-2025 #Result
+33.40cr, QoQ -34.30% & YoY 10.96% SALES;
+15.20cr, QoQ -58.70% & YoY -27.62% OPERATING PROFIT;
+12.00cr, QoQ -59.50% & YoY -20.00% NET PROFIT;
+OPM %: 45.60% vs 72.6%
+NPM %: 36.00% vs 58.3%
 

@@ -1,39 +1,48 @@
-CODES
-532725	SOLARINDS	
-SECTOR : Aerospace & Defence
-INDUSTRY : Chemicals
+CODES	532725	SOLARINDS	
+FULLNAME : Solar Industries India Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Explosives
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2515.6  |  3947.6  |  6918.4  |  6069.5  |  7540.3 
- SQoQ%:  |   12.4   |   56.9   |   75.3   |  -12.3   |   24.2  
- YOPM%:  |   20.5   |   19.0   |   19.3   |   24.4   |   26.0  
- YNPM%:  |   11.0   |   11.2   |   10.9   |   13.8   |   16.0  
-YPROFIT: |  276.4   |  441.3   |  757.2   |  835.9   |  1209.4 
- PQoQ%:  |   3.3    |   59.7   |   71.6   |   10.4   |   44.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1610.7  |  1684.8  |  1715.8  |  1973.1  |  2166.6 
- QoQ%:  |   12.7   |   4.6    |   1.8    |   15.0   |   9.8   
- QOPM%: |   22.0   |   26.7   |   25.9   |   26.7   |   24.8  
- QNPM%: |   14.6   |   17.0   |   16.7   |   16.0   |   14.9  
- QPFT:  |  235.0   |  286.5   |  285.9   |  314.9   |  322.2  
- PQoQ%: |   15.6   |   21.9   |   -0.2   |   10.1   |   2.3   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2515.6		3947.6		6918.4		6069.5		7540.3		6784.9
+SQoQ%: 	12.4		56.9		75.3		-12.3		24.2		90.0
+YOPM%: 	20.5		19.0		19.3		24.4		26.9
+YNPM%: 	11.0		11.2		10.9		13.8		16.0
+YPROFIT: 276.4		441.3		757.2		835.9		1209.4		1129.9
+PQoQ%: 	3.3		59.7		71.6		10.4		44.7		93.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1973.1		2166.6		2154.4		2082.2		2548.3
+QoQ%: 	15.0		9.8		-0.6		-3.4		22.4
+QOPM%: 	26.7		24.8		24.8		26.5		27.8
+QNPM%: 	16.0		14.9		15.7		16.6		17.5
+QPFT: 	314.9		322.2		338.7		345.0		446.2
+PQoQ%: 	10.1		2.3		5.1		1.9		29.4
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 33.4%
+ROCE in Mar2025 is at 35.0%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 90% YSales
+- Last 3QPROFIT is about 93% of YProfit
 
 YSALES in Mar-2025 is at 7540.3 showing a QoQ_growth of 24.2%. The YNETPROFIT grew by 44.7% to 1209.4
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
 7540.30cr, QoQ 24.20% & YoY 199.74% SALES;
-1960.40cr, QoQ 32.30% & YoY 280.96% OPERATING PROFIT;
+2026.50cr, QoQ 36.70% & YoY 293.80% OPERATING PROFIT;
 1209.40cr, QoQ 44.70% & YoY 337.55% NET PROFIT;
-OPM %: 26.00% vs 24.4%
+OPM %: 26.90% vs 24.4%
 NPM %: 16.00% vs 13.8%
 

@@ -1,15 +1,16 @@
-CODE	NAME
-524488 
+CODES	524488	
+FULLNAME : SVC Industries Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 
-SECTOR : Diversified
-INDUSTRY : Diversified - Medium / Small
-
-***CONS***
-- NEGATIVE YProfit : -3.0
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - Last 2QSALES is about 200% YSales
+
+***CONS***
+- NEGATIVE YProfit : -3.0

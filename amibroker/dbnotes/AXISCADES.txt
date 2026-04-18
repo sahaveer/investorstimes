@@ -1,28 +1,47 @@
-CODES
-532395	AXISCADES	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
-BestQ Dec 2024
+CODES	532395	AXISCADES	
+FULLNAME : AXISCADES Technologies Ltd
+SECTOR : Aerospace & Defense
+INDUSTRY : Aerospace & Defense
+BestQ Dec 2025
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  672.9   |  523.8   |  610.3   |  821.6   |  955.1   |     762.7    
- SQoQ%:  |   10.7   |  -22.1   |   16.5   |   34.6   |   16.2   |      79.9    
- YOPM%:  |   13.9   |   12.5   |   11.7   |   17.8   |   14.1   |              
- YNPM%:  |   4.4    |   0.0    |   3.6    |   0.0    |   3.4    |              
-YPROFIT: |   29.8   |  -21.7   |   22.2   |   -5.2   |   32.8   |      44.2    
- PQoQ%:  |  -465.9  |  -172.8  |  -202.6  |  -123.5  |  -727.3  |     134.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  232.2   |  255.8   |  223.5   |  264.7   |  274.5  
- QoQ%:  |   -8.0   |   10.2   |  -12.6   |   18.4   |   3.7   
- QOPM%: |   12.9   |   12.7   |   14.0   |   12.6   |   14.7  
- QNPM%: |   3.2    |   3.4    |   7.6    |   4.6    |   5.4   
- QPFT:  |   7.4    |   8.7    |   17.1   |   12.3   |   14.8  
- PQoQ%: |  -32.9   |   17.2   |   96.0   |  -27.9   |   20.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 523.8		610.3		821.6		955.1		1030.7		886.0
+SQoQ%: 	-22.1		16.5		34.6		16.2		7.9		86.0
+YOPM%: 	12.5		11.7		17.8		13.5		14.0
+YNPM%: 	0.0		3.6		0.0		3.4		7.3
+YPROFIT: -21.7		22.2		-5.2		32.8		74.9		71.5
+PQoQ%: 	-172.8		-202.6		-123.5		-727.3		128.4		95.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 274.5		268.0		243.7		299.1		343.2
+QoQ%: 	3.7		-2.4		-9.1		22.7		14.8
+QOPM%: 	14.7		14.0		14.0		15.7		18.3
+QNPM%: 	5.4		11.5		8.5		7.7		8.1
+QPFT: 	14.8		30.8		20.8		23.0		27.7
+PQoQ%: 	20.4		107.7		-32.5		10.9		20.4
+
+
 
 ***PROS***
-- Last 3QSALES is about 80% YSales
-- Last 3QPROFIT is about 135% of YProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 32.8
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 86% YSales
+- Last 3QPROFIT is about 95% of YProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NO PRODUCT DEMAND
+
+Yearly 
+ 31-Mar-2025 #Result
+1030.70cr, QoQ 7.90% & YoY 96.77% SALES;
+144.30cr, QoQ 11.80% & YoY 120.98% OPERATING PROFIT;
+74.90cr, QoQ 128.40% & YoY -445.16% NET PROFIT;
+OPM %: 14.00% vs 13.5%
+NPM %: 7.30% vs 3.4%
+

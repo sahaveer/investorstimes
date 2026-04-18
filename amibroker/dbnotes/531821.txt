@@ -1,31 +1,37 @@
-CODE	NAME
-531821 
-
-SECTOR : Stock/ Commodity Brokers
-INDUSTRY : Finance & Investments
+CODES	531821	
+FULLNAME : Munoth Financial Services Ltd
+SECTOR : Finance
+INDUSTRY : Other Financial Services
+PRODUCT DEMAND
 YSD YPD 2024
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.5    |   0.6    |   0.7    |   0.5    |   1.1    |      0.8     
- SQoQ%:  |   15.0   |   19.6   |   23.6   |  -25.0   |  107.8   |      72.7    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   19.8   |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   17.9   |              
-YPROFIT: |   -0.5   |   -0.1   |   -0.0   |   -0.2   |   0.2    |      0.1     
- PQoQ%:  |  -31.9   |  -78.7   |  -50.0   |  360.0   |  -182.6  |      50.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.1    |   0.1    |   0.1    |   0.5    |   0.2   
- QoQ%:  |  -89.0   |   44.4   |   7.7    |  228.6   |  -67.4  
- QOPM%: |   0.0    |   0.0    |   0.0    |   43.5   |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   41.3   |   0.0   
- QPFT:  |   -0.3   |   -0.2   |   -0.0   |   0.2    |   -0.1  
- PQoQ%: |  -150.0  |  -19.4   |  -84.0   |  -575.0  |  -142.1 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.6		0.7		0.5		1.1		0.6		0.5
+SQoQ%: 	19.6		23.6		-25.0		107.8		-46.2		83.3
+YOPM%: 	0.0		0.0		0.0		22.6		0.0
+YNPM%: 	0.0		0.0		0.0		17.9		0.0
+YPROFIT: -0.1		-0.0		-0.2		0.2		-0.4		-0.3
+PQoQ%: 	-78.7		-50.0		360.0		-182.6		-289.5		75.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.2		0.1		0.2		0.2		0.1
+QoQ%: 	-67.4		-40.0		66.7		40.0		-57.1
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-0.1		-0.4		-0.1		-0.0		-0.2
+PQoQ%: 	-142.1		437.5		-81.4		-87.5		2100.0
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  increasing for the last 3yrs
-- Last 3QSALES is about 73% YSales
-- YProfit Turned POSITIVE this year Mar-2024 : 0.2
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 83% YSales
 - YProfits and YSales DOUBLED in Mar2024
+
+
+***CONS***
+- NEGATIVE YProfit : -0.4

@@ -1,15 +1,16 @@
-CODES
-VISHNUINFR	
-SECTOR : Mining & Mineral products
-INDUSTRY : Mining / Minerals / Metals
+CODES	VISHNUINFR	
+FULLNAME : Vishnusurya Projects and Infra Ltd
+SECTOR : Commodities
+INDUSTRY : Construction Materials
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 21.5%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

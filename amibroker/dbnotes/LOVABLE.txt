@@ -1,26 +1,42 @@
-CODES
-533343	LOVABLE	
-SECTOR : 
-INDUSTRY : 
+CODES	533343	LOVABLE	
+FULLNAME : Lovable Lingerie Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Garments & Apparels
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  142.4   |   80.6   |   97.2   |   95.5   |   63.8   |      34.1    
- SQoQ%:  |  -18.9   |  -43.4   |   20.6   |   -1.8   |  -33.2   |      53.4    
- YOPM%:  |   4.6    |   0.0    |   3.8    |   0.0    |   0.0    |              
- YNPM%:  |   2.2    |   0.8    |   5.9    |   0.0    |   6.7    |              
-YPROFIT: |   3.1    |   0.7    |   5.7    |   -0.1   |   4.3    |      -1.9    
- PQoQ%:  |  282.9   |  -78.7   |  752.2   |  -101.2  | -6214.3  |     -44.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   11.5   |   5.5    |   15.6   |   10.2   |   8.3   
- QoQ%:  |  -28.5   |  -52.1   |  182.9   |  -34.4   |  -18.4  
- QOPM%: |   0.0    |   0.0    |   8.9    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   13.4   |   0.0    |   0.0   
- QPFT:  |   -0.8   |   -1.8   |   2.1    |   -1.4   |   -2.6  
- PQoQ%: |  -119.3  |  143.4   |  -213.0  |  -167.0  |   89.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 80.6		97.2		95.5		63.8		42.2		35.8
+SQoQ%: 	-43.4		20.6		-1.8		-33.2		-33.8		84.8
+YOPM%: 	0.0		3.8		0.0		0.0		0.0
+YNPM%: 	0.8		5.9		0.0		6.7		4.2
+YPROFIT: 0.7		5.7		-0.1		4.3		1.8		0.3
+PQoQ%: 	-78.7		752.2		-101.2		-6214.3		-58.2		16.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 8.3		8.0		16.4		8.9		10.5
+QoQ%: 	-18.4		-3.6		104.5		-45.7		18.0
+QOPM%: 	0.0		0.0		0.8		0.0		0.2
+QNPM%: 	0.0		39.7		21.6		0.0		5.1
+QPFT: 	-2.6		3.2		3.6		-3.8		0.5
+PQoQ%: 	89.3		-220.4		11.3		-207.0		-114.2
+
+
 
 ***PROS***
-- Last 3QSALES is about 53% YSales
-- YProfit Turned POSITIVE this year Mar-2024 : 4.3
+- Last 3QSALES is about 85% YSales
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+
+***CONS***
+- NO PRODUCT DEMAND
+
+Yearly 
+ 31-Mar-2025 #Result
+42.20cr, QoQ -33.80% & YoY -47.64% SALES;
+-11.40cr, QoQ 4662.50% & YoY 500.00% OPERATING PROFIT;
+1.80cr, QoQ -58.20% & YoY 157.14% NET PROFIT;
+OPM %: 0.00% vs 0.0%
+NPM %: 4.20% vs 6.7%
+

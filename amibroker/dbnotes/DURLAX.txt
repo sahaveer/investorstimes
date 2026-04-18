@@ -1,18 +1,19 @@
-CODES
-DURLAX	
+CODES	DURLAX	
+FULLNAME : Durlax Top Surface Ltd
 SECTOR : Consumer Durables
 INDUSTRY : Miscellaneous
 PRODUCT DEMAND
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 35.2% while the Profit QoQ_growth is much better than Sales itself at 48.5%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

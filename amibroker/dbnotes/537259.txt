@@ -1,12 +1,14 @@
-CODES
-537259	SUYOG	
-SECTOR : Telecomm Equipment & Infra Services
-INDUSTRY : Transmisson Line Towers / Equipment
+CODES	537259	SUYOG	
+FULLNAME : Suyog Telematics Ltd
+SECTOR : Telecom - Services
+INDUSTRY : Telecom - Infrastructure
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

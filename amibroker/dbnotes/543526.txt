@@ -1,40 +1,44 @@
-CODES
-543526	LICI	
+CODES	543526	LICI	
+FULLNAME : Life Insurance Corporation of India
 SECTOR : Insurance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
-LYPD PM 2024
+INDUSTRY : Life Insurance
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  | 615920.3 | 681605.5 | 720514.9 | 781542.5 | 842708.1 |    644213.9  
- SQoQ%:  |   10.0   |   10.7   |   5.7    |   8.5    |   7.8    |      76.4    
- YOPM%:  |   1.2    |   1.6    |   1.6    |   4.4    |   3.9    |              
- YNPM%:  |   0.4    |   0.4    |   0.6    |   4.7    |   4.8    |              
-YPROFIT: |  2712.7  |  2900.6  |  4043.1  | 36397.4  | 40675.8  |    29138.4   
- PQoQ%:  |   0.9    |   6.9    |   39.4   |  800.2   |   11.8   |      71.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: | 213344.8 | 238092.2 | 211059.4 | 230331.1 | 202823.4
- QoQ%:  |   5.5    |   11.6   |  -11.4   |   9.1    |  -11.9  
- QOPM%: |   5.0    |   0.7    |   5.3    |   3.5    |   5.9   
- QNPM%: |   4.4    |   5.8    |   5.0    |   3.3    |   5.5   
- QPFT:  |  9444.4  | 13762.6  | 10461.0  |  7620.9  | 11056.5 
- PQoQ%: |   19.2   |   45.7   |  -24.0   |  -27.2   |   45.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 690913.8		723606.3		784627.6		845966.4		889970.0		702150.0
+SQoQ%: 	10.0		4.7		8.4		7.8		5.2		78.9
+YOPM%: 	0.0		0.5		4.3		3.9		6.0
+YNPM%: 	0.4		0.6		4.6		4.8		5.4
+YPROFIT: 2974.1		4124.7		35996.6		40915.8		48320.3		33985.9
+PQoQ%: 	9.7		38.7		772.7		13.7		18.1		70.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 203751.3		243134.5		224671.5		241524.3		235954.2
+QoQ%: 	-11.8		19.3		-7.6		7.5		-2.3
+QOPM%: 	5.9		8.8		4.7		3.9		5.2
+QNPM%: 	5.4		7.8		4.9		4.2		5.5
+QPFT: 	11008.6		19038.7		10957.0		10098.5		12930.4
+PQoQ%: 	42.4		72.9		-42.4		-7.8		28.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 76% YSales
-- Last 3QPROFIT is about 72% of YProfit
-- LastYr YProfits Doubled and maintained in Mar2024
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 70% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-842708.10cr, QoQ 7.80% & YoY 36.82% SALES;
-32541.70cr, QoQ -5.90% & YoY 347.02% OPERATING PROFIT;
-40675.80cr, QoQ 11.80% & YoY 1399.46% NET PROFIT;
-OPM %: 3.90% vs 4.4%
-NPM %: 4.80% vs 4.7%
+ 31-Mar-2025 #Result
+889970.00cr, QoQ 5.20% & YoY 28.81% SALES;
+53278.30cr, QoQ 63.20% & YoY -21242.18% OPERATING PROFIT;
+48320.30cr, QoQ 18.10% & YoY 1524.70% NET PROFIT;
+OPM %: 6.00% vs 3.9%
+NPM %: 5.40% vs 4.8%
 

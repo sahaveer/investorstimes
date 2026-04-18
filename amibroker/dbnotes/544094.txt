@@ -1,11 +1,11 @@
-CODE	NAME
-544094 
-
+CODES	544094	
+FULLNAME : Euphoria Infotech (India) Ltd
 SECTOR : IT - Software
 INDUSTRY : Computers - Software - Medium / Small
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

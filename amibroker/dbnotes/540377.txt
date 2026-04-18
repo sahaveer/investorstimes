@@ -1,13 +1,14 @@
-CODE	NAME
-540377 
+CODES	540377	
+FULLNAME : IFL Enterprises Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 
-SECTOR : Retail
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

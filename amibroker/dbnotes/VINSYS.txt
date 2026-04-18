@@ -1,17 +1,18 @@
-CODES
-VINSYS	
-SECTOR : Computer Education
-INDUSTRY : Computers - Education
+CODES	VINSYS	
+FULLNAME : Vinsys IT Services India Ltd
+SECTOR : Consumer Discretionary
+INDUSTRY : Consumer Services
 EXPANSION 2024
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

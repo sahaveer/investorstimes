@@ -1,19 +1,22 @@
-CODES
-CELLPOINT	
-SECTOR : Retail
-INDUSTRY : Trading
+CODES	CELLPOINT	
+FULLNAME : Cell Point (India) Ltd
+SECTOR : Retailing
+INDUSTRY : Speciality Retail
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-309.60cr, QoQ 8.30% & YoY 14.54% SALES;
-8.70cr, QoQ -52.00% & YoY -7.45% OPERATING PROFIT;
-1.70cr, QoQ -74.90% & YoY 6.25% NET PROFIT;
-OPM %: 2.80% vs 6.3%
-NPM %: 0.50% vs 2.4%
+ 31-Mar-2025 #Result
+309.30cr, QoQ -0.10% & YoY 41.49% SALES;
+7.40cr, QoQ -14.40% & YoY -5.13% OPERATING PROFIT;
+2.30cr, QoQ 33.70% & YoY 228.57% NET PROFIT;
+OPM %: 2.40% vs 2.8%
+NPM %: 0.70% vs 0.5%
 

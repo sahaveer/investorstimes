@@ -1,13 +1,14 @@
-CODE	NAME
-539291 
+CODES	539291	
+FULLNAME : Vasudhagama Enterprises Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Other Agricultural Products
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

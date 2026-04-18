@@ -1,24 +1,46 @@
-CODE	NAME
-540404 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	540404	
+FULLNAME : Prime Fresh Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Other Agricultural Products
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 65.6		77.2		99.4		149.2		206.8		194.0
+SQoQ%: 	31.2		17.7		28.7		50.2		38.6		93.8
+YOPM%: 	6.4		6.3		7.2		6.5		6.0
+YNPM%: 	3.6		4.3		5.1		4.7		4.4
+YPROFIT: 2.4		3.3		5.1		7.0		9.1		10.3
+PQoQ%: 	43.4		39.5		52.7		37.5		30.8		113.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 54.4		53.3		53.3		66.4		74.3
+QoQ%: 	11.0		-2.0		0.1		24.5		11.9
+QOPM%: 	5.1		5.8		7.5		5.8		8.5
+QNPM%: 	3.3		3.6		5.3		4.5		6.1
+QPFT: 	1.8		1.9		2.8		3.0		4.5
+PQoQ%: 	-34.2		6.6		46.6		6.7		49.7
 
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 94% YSales
+- Last 3QPROFIT is about 113% of YProfit
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
-As on Mar2025, Sales have increased by 37.0% while the Profit QoQ_growth is at 30.5%
+As on Mar2025, Sales have increased by 38.6% while the Profit QoQ_growth is at 30.8%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-195.80cr, QoQ 37.00% & YoY 234.13% SALES;
-11.90cr, QoQ 26.40% & YoY 197.50% OPERATING PROFIT;
-8.90cr, QoQ 30.50% & YoY 286.96% NET PROFIT;
-OPM %: 6.10% vs 6.6%
-NPM %: 4.50% vs 4.8%
+206.80cr, QoQ 38.60% & YoY 215.24% SALES;
+12.40cr, QoQ 27.20% & YoY 195.24% OPERATING PROFIT;
+9.10cr, QoQ 30.80% & YoY 279.17% NET PROFIT;
+OPM %: 6.00% vs 6.5%
+NPM %: 4.40% vs 4.7%
 

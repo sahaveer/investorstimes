@@ -1,13 +1,14 @@
-CODE	NAME
-543787 
+CODES	543787	
+FULLNAME : Macfos Ltd
+SECTOR : Retailing
+INDUSTRY : E-Retail/ E-Commerce
 
-SECTOR : E-Commerce/App based Aggregator
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

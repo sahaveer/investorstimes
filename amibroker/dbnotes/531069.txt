@@ -1,40 +1,42 @@
-CODE	NAME
-531069 
+CODES	531069	
+FULLNAME : Vijay Solvex Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Edible Oil
+BestQ Dec 2025
 
-SECTOR : Edible Oil
-INDUSTRY : Solvent Extraction
-PRODUCT DEMAND
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2069.7		2715.5		2430.1		1829.2		1830.7		1680.8
+SQoQ%: 	43.0		31.2		-10.5		-24.7		0.1		91.8
+YOPM%: 	3.8		2.6		0.9		0.2		1.5
+YNPM%: 	3.2		2.1		0.7		0.2		1.0
+YPROFIT: 66.8		57.4		17.0		2.9		18.4		12.6
+PQoQ%: 	223.0		-14.0		-70.4		-82.7		526.9		68.5
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1447.8  |  2069.7  |  2715.5  |  2430.1  |  1829.2  |     1354.3   
- SQoQ%:  |   18.1   |   43.0   |   31.2   |  -10.5   |  -24.7   |      74.0    
- YOPM%:  |   2.5    |   3.8    |   2.6    |   0.9    |   0.2    |              
- YNPM%:  |   1.4    |   3.2    |   2.1    |   0.7    |   0.2    |              
-YPROFIT: |   20.7   |   66.8   |   57.4   |   17.0   |   2.9    |      15.6    
- PQoQ%:  |   62.2   |  223.0   |  -14.0   |  -70.4   |  -82.7   |     537.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  513.2   |  405.0   |  378.3   |  431.8   |  544.2  
- QoQ%:  |   7.9    |  -21.1   |   -6.6   |   14.2   |   26.0  
- QOPM%: |   0.0    |   1.8    |   0.3    |   1.3    |   2.1   
- QNPM%: |   0.0    |   1.7    |   0.5    |   1.4    |   1.4   
- QPFT:  |   -5.8   |   6.9    |   1.9    |   6.2    |   7.5   
- PQoQ%: | -2428.0  |  -217.9  |  -71.9   |  222.3   |   20.1  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 544.2		476.4		460.4		615.3		605.1
+QoQ%: 	26.0		-12.5		-3.4		33.6		-1.7
+QOPM%: 	2.1		1.5		0.6		1.4		1.3
+QNPM%: 	1.4		0.6		0.2		1.0		0.9
+QPFT: 	7.5		2.8		1.1		6.1		5.4
+PQoQ%: 	20.1		-62.5		-62.1		474.5		-11.8
+
+
 
 ***PROS***
-A DEBT-Free Company
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 74% YSales
-- Last 3QPROFIT is about 538% of YProfit
+- Last 3QSALES is about 92% YSales
+- Last 3QPROFIT is about 68% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1829.20cr, QoQ -24.70% & YoY 26.34% SALES;
-4.30cr, QoQ -79.30% & YoY -87.92% OPERATING PROFIT;
-2.90cr, QoQ -82.70% & YoY -85.99% NET PROFIT;
-OPM %: 0.20% vs 0.9%
-NPM %: 0.20% vs 0.7%
+ 31-Mar-2025 #Result
+1830.70cr, QoQ 0.10% & YoY -11.55% SALES;
+26.70cr, QoQ 515.70% & YoY -65.99% OPERATING PROFIT;
+18.40cr, QoQ 526.90% & YoY -72.46% NET PROFIT;
+OPM %: 1.50% vs 0.2%
+NPM %: 1.00% vs 0.2%
 

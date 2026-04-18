@@ -1,16 +1,20 @@
-CODE	NAME
-540204 
-
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	540204	
+FULLNAME : Eiko Lifesciences Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
+BestQ Dec 2025
 YSD YPD 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
-- YProfit Turned POSITIVE this year Mar-2025 : 2.1
+- Last 3QSALES is about 91% YSales
+- Last 3QPROFIT is about 139% of YProfit
+- YProfit Turned POSITIVE this year Mar-2025 : 2.3
 - YProfits and YSales DOUBLED in Mar2025
+
+***CONS***

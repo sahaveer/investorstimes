@@ -1,14 +1,14 @@
-CODE	NAME
-543341 
+CODES	543341	
+FULLNAME : Sharpline Broadcast Ltd
+SECTOR : Media
+INDUSTRY : Advertising & Media Agencies
 
-SECTOR : Media - Print/Television/Radio
-INDUSTRY : Miscellaneous
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
-- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2024 is at 19.5%. The QPROFIT QoQ_growth by -77.1%
+
+***CONS***

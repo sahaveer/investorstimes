@@ -1,12 +1,28 @@
-CODES
-543912	PIGL	
-SECTOR : Capital Goods - Electrical Equipment
-INDUSTRY : Electric Equipment
+CODES	543912	PIGL	
+FULLNAME : Power & Instrumentation (Gujarat) Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Other Electrical Equipment
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- Last 3QSALES is about 95% YSales
+- Last 3QPROFIT is about 90% of YProfit
+
+YSALES in Mar-2025 is at 168.8 showing a QoQ_growth of 73.2%. The YNETPROFIT grew by 99.3% to 11.8
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+168.80cr, QoQ 73.20% SALES;
+17.20cr, QoQ 56.30% OPERATING PROFIT;
+11.80cr, QoQ 99.30% NET PROFIT;
+OPM %: 10.20% vs 11.3%
+NPM %: 7.00% vs 6.1%
+

@@ -1,33 +1,40 @@
-CODES
-530019	JUBLPHARMA	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs
+CODES	530019	JUBLPHARMA	
+FULLNAME : Jubilant Pharmova Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 PRODUCT DEMAND
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  6098.5  |  6130.2  |  6281.7  |  6702.9  |  7234.5 
- SQoQ%:  |   2.1    |   0.5    |   2.5    |   6.7    |   7.9   
- YOPM%:  |   23.0   |   18.8   |   12.4   |   13.4   |   16.2  
- YNPM%:  |   13.7   |   6.8    |   0.0    |   1.2    |   11.6  
-YPROFIT: |  835.9   |  413.9   |  -61.0   |   77.1   |  839.4  
- PQoQ%:  |   -6.9   |  -50.5   |  -114.7  |  -226.4  |  988.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1758.6  |  1731.7  |  1752.3  |  1821.7  |  1928.8 
- QoQ%:  |   4.9    |   -1.5   |   1.2    |   4.0    |   5.9   
- QOPM%: |   15.4   |   14.5   |   16.5   |   15.8   |   17.9  
- QNPM%: |   0.0    |   27.8   |   5.9    |   5.5    |   8.0   
- QPFT:  |  -58.6   |  482.1   |  102.8   |  100.9   |  153.6  
- PQoQ%: |  -187.7  |  -922.7  |  -78.7   |   -1.8   |   52.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 6098.5		6130.2		6281.7		6702.9		7234.5		5989.6
+SQoQ%: 	2.1		0.5		2.5		6.7		7.9		82.8
+YOPM%: 	23.0		18.8		12.4		13.4		16.2
+YNPM%: 	13.7		6.8		0.0		1.2		11.6
+YPROFIT: 835.9		413.9		-61.0		77.1		839.4		279.1
+PQoQ%: 	-6.9		-50.5		-114.7		-226.4		988.7		33.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1821.7		1928.8		1900.7		1966.4		2122.5
+QoQ%: 	4.0		5.9		-1.5		3.5		7.9
+QOPM%: 	15.8		17.9		15.2		17.4		13.6
+QNPM%: 	5.5		8.0		5.4		6.1		2.6
+QPFT: 	100.9		153.6		102.9		120.3		55.9
+PQoQ%: 	-1.8		52.2		-33.0		16.9		-53.5
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 83% YSales
 - YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

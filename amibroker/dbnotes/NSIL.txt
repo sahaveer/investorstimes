@@ -1,39 +1,46 @@
-CODES
-532256	NSIL	
+CODES	532256	NSIL	
+FULLNAME : Nalwa Sons Investments Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+INDUSTRY : Investment Company
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   59.0   |   67.5   |   97.4   |  133.6   |   88.5   |     113.0    
- SQoQ%:  |   37.0   |   14.4   |   44.3   |   37.2   |  -33.7   |     127.7    
- YOPM%:  |   15.6   |   68.3   |   82.1   |   93.8   |   84.3   |              
- YNPM%:  |   33.2   |   63.7   |   67.9   |   68.1   |   63.6   |              
-YPROFIT: |   19.6   |   43.0   |   66.1   |   90.9   |   56.3   |      72.4    
- PQoQ%:  |  -74.9   |  119.3   |   53.6   |   37.6   |  -38.1   |     128.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   25.7   |   10.9   |   39.6   |   59.8   |   13.6  
- QoQ%:  |   -3.7   |  -57.4   |  263.1   |   50.7   |  -77.3  
- QOPM%: |   79.4   |   43.2   |   97.7   |   74.4   |   82.4  
- QNPM%: |   67.1   |   15.3   |   73.5   |   58.6   |   60.2  
- QPFT:  |   17.2   |   1.7    |   29.2   |   35.0   |   8.2   
- PQoQ%: |  -13.7   |  -90.3   |  1646.1  |   20.0   |  -76.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 67.5		97.4		133.6		88.5		125.3		73.7
+SQoQ%: 	14.4		44.3		37.2		-33.7		41.6		58.8
+YOPM%: 	68.3		82.1		93.8		84.3		51.0
+YNPM%: 	63.7		67.9		68.1		63.6		37.3
+YPROFIT: 43.0		66.1		90.9		56.3		46.7		49.0
+PQoQ%: 	119.3		53.6		37.6		-38.1		-17.0		104.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 13.6		12.3		37.1		24.7		11.9
+QoQ%: 	-77.3		-9.4		202.0		-33.3		-51.7
+QOPM%: 	82.4		0.0		88.3		86.5		94.6
+QNPM%: 	60.2		0.0		69.5		63.6		62.7
+QPFT: 	8.2		-25.6		25.8		15.7		7.5
+PQoQ%: 	-76.7		-413.8		-200.7		-39.0		-52.4
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 128% YSales
-- Last 3QPROFIT is about 129% of YProfit
+- Last 3QSALES is about 59% YSales
+- Last 3QPROFIT is about 105% of YProfit
 
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-88.50cr, QoQ -33.70% & YoY 50.00% SALES;
-74.60cr, QoQ -40.40% & YoY 710.87% OPERATING PROFIT;
-56.30cr, QoQ -38.10% & YoY 187.24% NET PROFIT;
-OPM %: 84.30% vs 93.8%
-NPM %: 63.60% vs 68.1%
+ 31-Mar-2025 #Result
+125.30cr, QoQ 41.60% & YoY 85.63% SALES;
+63.90cr, QoQ -14.30% & YoY 38.61% OPERATING PROFIT;
+46.70cr, QoQ -17.00% & YoY 8.60% NET PROFIT;
+OPM %: 51.00% vs 84.3%
+NPM %: 37.30% vs 63.6%
 

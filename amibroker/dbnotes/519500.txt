@@ -1,39 +1,33 @@
-CODE	NAME
-519500 
+CODES	519500	
+FULLNAME : BKV Industries Ltd
+SECTOR : Food Products
+INDUSTRY : Packaged Foods
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.6		0.7		0.8		0.8		0.8		0.6
+SQoQ%: 	77.1		12.9		14.3		0.0		0.0		75.0
+YOPM%: 	32.3		22.9		26.2		21.3		0.0
+YNPM%: 	32.3		24.3		27.5		22.5		0.0
+YPROFIT: 0.2		0.2		0.2		0.2		0.0		-0.1
+PQoQ%: 	-300.0		-15.0		29.4		-18.2		-100.0		-inf
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.4    |   0.6    |   0.7    |   0.8    |   0.8    |      0.6     
- SQoQ%:  |   6.1    |   77.1   |   12.9   |   14.3   |   0.0    |      75.0    
- YOPM%:  |   0.0    |   32.3   |   22.9   |   26.2   |   21.3   |              
- YNPM%:  |   0.0    |   32.3   |   24.3   |   27.5   |   22.5   |              
-YPROFIT: |   -0.1   |   0.2    |   0.2    |   0.2    |   0.2    |      -0.1    
- PQoQ%:  |  -56.5   |  -300.0  |  -15.0   |   29.4   |  -18.2   |     -50.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.2    |   0.2    |   0.2    |   0.2    |   0.2   
- QoQ%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QOPM%: |   30.0   |   10.0   |   10.0   |   0.0    |   15.0  
- QNPM%: |   35.0   |   15.0   |   10.0   |   0.0    |   20.0  
- QPFT:  |   0.1    |   0.0    |   0.0    |   -0.1   |   0.0   
- PQoQ%: |  133.3   |  -57.1   |  -33.3   |  -400.0  |  -166.7 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.2		0.2		0.2		0.2		0.2
+QoQ%: 	0.0		0.0		0.0		0.0		0.0
+QOPM%: 	15.0		0.0		0.0		0.0		15.0
+QNPM%: 	20.0		0.0		0.0		0.0		20.0
+QPFT: 	0.0		0.0		-0.0		-0.1		0.0
+PQoQ%: 	-166.7		-100.0		-inf		350.0		-144.4
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
 - Last 3QSALES is about 75% YSales
-- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 
 
-Yearly 
- 31-Mar-2024 #Result
-0.80cr, QoQ 0.00% & YoY 100.00% SALES;
-0.20cr, QoQ -19.00% & YoY -300.00% OPERATING PROFIT;
-0.20cr, QoQ -18.20% & YoY -300.00% NET PROFIT;
-OPM %: 21.30% vs 26.2%
-NPM %: 22.50% vs 27.5%
-
+***CONS***

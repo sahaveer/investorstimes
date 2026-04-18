@@ -1,43 +1,42 @@
-CODE	NAME
-524400 
+CODES	524400	
+FULLNAME : Ishita Drugs & Industries Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+BestQ Dec 2025
 
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs
-PRODUCT DEMAND
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 14.0		14.1		12.1		15.2		15.0		11.6
+SQoQ%: 	-5.9		1.0		-14.3		25.8		-1.3		77.3
+YOPM%: 	6.6		7.7		6.3		6.0		6.6
+YNPM%: 	5.9		5.7		4.8		4.9		5.8
+YPROFIT: 0.8		0.8		0.6		0.8		0.9		0.6
+PQoQ%: 	50.9		-3.6		-27.5		29.3		16.0		66.7
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   14.8   |   14.0   |   14.1   |   12.1   |   15.2   |      10.4    
- SQoQ%:  |   63.1   |   -5.9   |   1.0    |  -14.3   |   25.8   |      68.4    
- YOPM%:  |   5.1    |   6.6    |   7.7    |   6.3    |   6.0    |              
- YNPM%:  |   3.7    |   5.9    |   5.7    |   4.8    |   4.9    |              
-YPROFIT: |   0.6    |   0.8    |   0.8    |   0.6    |   0.8    |      0.6     
- PQoQ%:  |   57.1   |   50.9   |   -3.6   |  -27.5   |   29.3   |      75.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   3.2    |   4.5    |   3.0    |   3.3    |   4.1   
- QoQ%:  |  -27.0   |   40.2   |  -32.7   |   7.9    |   26.3  
- QOPM%: |   6.9    |   6.7    |   5.6    |   7.3    |   7.3   
- QNPM%: |   3.7    |   6.2    |   5.0    |   5.8    |   5.8   
- QPFT:  |   0.1    |   0.3    |   0.2    |   0.2    |   0.2   
- PQoQ%: |  -42.9   |  133.3   |  -46.4   |   26.7   |   26.3  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4.1		4.6		5.4		3.1		3.1
+QoQ%: 	26.3		10.4		18.4		-43.1		2.3
+QOPM%: 	7.3		6.4		6.3		5.9		4.5
+QNPM%: 	5.8		6.4		5.6		4.6		5.1
+QPFT: 	0.2		0.3		0.3		0.1		0.2
+PQoQ%: 	26.3		20.8		3.4		-53.3		14.3
+
+
 
 ***PROS***
-A DEBT-Free Company
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 68% YSales
-- Last 3QPROFIT is about 75% of YProfit
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 67% of YProfit
 
-YSALES in Mar-2024 is at 15.2 showing a QoQ_growth of 25.8%. The YNETPROFIT grew by 29.3% to 0.8
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-15.20cr, QoQ 25.80% & YoY 2.70% SALES;
-0.90cr, QoQ 19.70% & YoY 12.50% OPERATING PROFIT;
-0.80cr, QoQ 29.30% & YoY 33.33% NET PROFIT;
-OPM %: 6.00% vs 6.3%
-NPM %: 4.90% vs 4.8%
+ 31-Mar-2025 #Result
+15.00cr, QoQ -1.30% & YoY 7.14% SALES;
+1.00cr, QoQ 8.80% & YoY 11.11% OPERATING PROFIT;
+0.90cr, QoQ 16.00% & YoY 12.50% NET PROFIT;
+OPM %: 6.60% vs 6.0%
+NPM %: 5.80% vs 4.9%
 

@@ -1,33 +1,42 @@
-CODES
-542650	METROPOLIS	
-SECTOR : Healthcare
-INDUSTRY : Healthcare
+CODES	542650	METROPOLIS	
+FULLNAME : Metropolis Healthcare Ltd
+SECTOR : Healthcare Services
+INDUSTRY : Healthcare Service Provider
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  998.0   |  1228.3  |  1148.2  |  1207.7  |  1331.2 
- SQoQ%:  |   16.5   |   23.1   |   -6.5   |   5.2    |   10.2  
- YOPM%:  |   29.0   |   28.3   |   25.5   |   23.8   |   22.8  
- YNPM%:  |   18.3   |   17.4   |   12.4   |   10.6   |   10.9  
-YPROFIT: |  183.1   |  214.2   |  142.9   |  127.8   |  145.0  
- PQoQ%:  |   43.8   |   17.0   |  -33.3   |  -10.5   |   13.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  331.0   |  313.4   |  349.8   |  322.8   |  345.3  
- QoQ%:  |   13.7   |   -5.3   |   11.6   |   -7.7   |   7.0   
- QOPM%: |   24.2   |   25.1   |   25.7   |   22.3   |   18.0  
- QNPM%: |   11.0   |   12.1   |   13.3   |   9.7    |   8.4   
- QPFT:  |   36.4   |   38.0   |   46.5   |   31.4   |   29.1  
- PQoQ%: |   34.1   |   4.2    |   22.6   |  -32.6   |   -7.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 998.0		1228.3		1148.2		1207.7		1331.2		1221.2
+SQoQ%: 	16.5		23.1		-6.5		5.2		10.2		91.7
+YOPM%: 	29.0		28.3		25.5		23.8		23.2
+YNPM%: 	18.3		17.4		12.4		10.6		10.9
+YPROFIT: 183.1		214.2		142.9		127.8		145.0		139.2
+PQoQ%: 	43.8		17.0		-33.3		-10.5		13.4		96.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 322.8		345.3		386.1		429.2		405.9
+QoQ%: 	-7.7		7.0		11.8		11.2		-5.4
+QOPM%: 	22.3		18.0		23.3		25.2		23.4
+QNPM%: 	9.7		8.4		11.7		12.3		10.2
+QPFT: 	31.4		29.1		45.1		52.7		41.4
+PQoQ%: 	-32.6		-7.1		54.6		16.9		-21.4
+
+
 
 ***PROS***
+- Last 3QSALES is about 92% YSales
+- Last 3QPROFIT is about 96% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 1331.20cr, QoQ 10.20% & YoY 33.39% SALES;
-303.00cr, QoQ 5.20% & YoY 4.55% OPERATING PROFIT;
+308.30cr, QoQ 7.10% & YoY 6.38% OPERATING PROFIT;
 145.00cr, QoQ 13.40% & YoY -20.81% NET PROFIT;
-OPM %: 22.80% vs 23.8%
+OPM %: 23.20% vs 23.8%
 NPM %: 10.90% vs 10.6%
 

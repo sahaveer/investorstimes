@@ -1,12 +1,14 @@
-CODES
-531241	LINC	
-SECTOR : Printing & Stationery
-INDUSTRY : Printing & Stationery
+CODES	531241	LINC	
+FULLNAME : Linc Ltd
+SECTOR : Household Products
+INDUSTRY : Stationary
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

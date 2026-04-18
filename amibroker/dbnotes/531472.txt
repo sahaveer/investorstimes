@@ -1,15 +1,15 @@
-CODE	NAME
-531472 
+CODES	531472	
+FULLNAME : Cybele Industries Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Other Electrical Equipment
 
-SECTOR : Cables
-INDUSTRY : Cables - Power
-
-***CONS***
-- NEGATIVE YProfit : -0.1
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
-- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2024 is at 57.9%. The QPROFIT QoQ_growth by -70.7%
+
+***CONS***
+- NEGATIVE YProfit : -13.6

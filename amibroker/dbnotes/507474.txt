@@ -1,28 +1,34 @@
-CODE	NAME
-507474 
+CODES	507474	
+FULLNAME : Kothari Fermentation & Biochem Ltd
+SECTOR : Food Products
+INDUSTRY : Other Food Products
+PRODUCT DEMAND
 
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 95.6		97.0		110.3		108.9		114.2		79.8
+SQoQ%: 	-1.2		1.5		13.6		-1.3		4.9		69.9
+YOPM%: 	15.0		10.5		8.0		4.7		10.4
+YNPM%: 	5.0		0.3		0.2		0.0		0.7
+YPROFIT: 4.8		0.3		0.2		-4.9		0.8		-4.6
+PQoQ%: 	-37.3		-93.6		-38.7		-2684.2		-116.5		-575.0
 
-***CONS***
-- NO PRODUCT DEMAND
-- NEGATIVE YProfit : -4.9
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   96.7   |   95.6   |   97.0   |  110.3   |  108.9   |      82.1    
- SQoQ%:  |   0.6    |   -1.2   |   1.5    |   13.6   |   -1.3   |      75.4    
- YOPM%:  |   15.0   |   15.0   |   10.5   |   8.0    |   4.7    |              
- YNPM%:  |   7.9    |   5.0    |   0.3    |   0.2    |   0.0    |              
-YPROFIT: |   7.7    |   4.8    |   0.3    |   0.2    |   -4.9   |      -0.3    
- PQoQ%:  |  -11.9   |  -37.3   |  -93.6   |  -38.7   | -2684.2  |      6.1     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   28.6   |   32.0   |   26.4   |   25.2   |   30.5  
- QoQ%:  |   26.0   |   11.9   |  -17.6   |   -4.5   |   21.3  
- QOPM%: |   9.5    |   13.2   |   12.9   |   3.5    |   10.4  
- QNPM%: |   1.3    |   2.7    |   4.2    |   0.0    |   1.3   
- QPFT:  |   0.4    |   0.9    |   1.1    |   -1.8   |   0.4   
- PQoQ%: |  -111.0  |  128.9   |   26.4   |  -259.1  |  -123.4 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 30.5		32.2		23.8		24.0		32.0
+QoQ%: 	21.3		5.4		-26.2		0.9		33.3
+QOPM%: 	10.4		13.8		7.0		0.0		7.4
+QNPM%: 	1.3		3.3		0.0		0.0		0.0
+QPFT: 	0.4		1.0		-1.1		-3.1		-0.4
+PQoQ%: 	-123.4		156.1		-206.7		175.0		-87.7
+
+
 
 ***PROS***
-- Last 3QSALES is about 75% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 70% YSales
+- YProfit Turned POSITIVE this year Mar-2025 : 0.8
+
+***CONS***

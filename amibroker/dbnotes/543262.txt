@@ -1,30 +1,33 @@
-CODE	NAME
-543262 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	543262	
+FULLNAME : MRP Agro Ltd
+SECTOR : Retailing
+INDUSTRY : Distributors
 EXPANSION 2024
 YSD YPD 2025
 LYPD PM 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   20.2   |   30.3   |   28.1   |   43.2   |  103.9  
- SQoQ%:  |  -42.5   |   49.8   |   -7.2   |   53.8   |  140.6  
- YOPM%:  |   1.8    |   1.5    |   1.4    |   2.9    |   9.1   
- YNPM%:  |   1.3    |   1.1    |   1.1    |   2.3    |   6.6   
-YPROFIT: |   0.3    |   0.3    |   0.3    |   1.0    |   6.9   
- PQoQ%:  |   36.8   |   30.8   |   -8.8   |  222.6   |  590.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   7.3    |   17.5   |   15.3   |   47.8   |   23.4  
- QoQ%:  |  -66.5   |  139.2   |  -12.5   |  213.0   |  -51.2  
- QOPM%: |   4.8    |   9.0    |   8.4    |   9.1    |   9.8   
- QNPM%: |   3.6    |   5.7    |   4.7    |   6.1    |   9.7   
- QPFT:  |   0.3    |   1.0    |   0.7    |   2.9    |   2.3   
- PQoQ%: |  -27.8   |  284.6   |  -28.0   |  304.2   |  -22.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 20.2		30.3		28.1		43.2		103.5		45.3
+SQoQ%: 	-42.5		49.8		-7.2		53.8		139.6		43.8
+YOPM%: 	1.8		1.5		1.4		2.9		9.2
+YNPM%: 	1.3		1.1		1.1		2.3		6.7
+YPROFIT: 0.3		0.3		0.3		1.0		6.9		3.4
+PQoQ%: 	36.8		30.8		-8.8		222.6		590.0		49.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 47.8		23.4		21.1		10.1		14.1
+QoQ%: 	213.0		-51.2		-9.6		-52.2		40.3
+QOPM%: 	9.1		9.8		6.4		9.8		16.8
+QNPM%: 	6.1		9.7		7.2		3.7		10.6
+QPFT: 	2.9		2.3		1.5		0.4		1.5
+PQoQ%: 	304.2		-22.3		-32.7		-75.7		305.4
+
+
 
 ***PROS***
 A DEBT-Free Company
@@ -34,13 +37,15 @@ ROCE in Mar2025 is at 21.2%
 - YProfits and YSales DOUBLED in Mar2025
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2025, Sales have increased by 140.6% while the Profit QoQ_growth is much better than Sales itself at 590.0%
+As on Mar2025, Sales have increased by 139.6% while the Profit QoQ_growth is much better than Sales itself at 590.0%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-103.90cr, QoQ 140.60% & YoY 414.36% SALES;
+103.50cr, QoQ 139.60% & YoY 412.38% SALES;
 9.50cr, QoQ 646.50% & YoY 2275.00% OPERATING PROFIT;
 6.90cr, QoQ 590.00% & YoY 2200.00% NET PROFIT;
-OPM %: 9.10% vs 2.9%
-NPM %: 6.60% vs 2.3%
+OPM %: 9.20% vs 2.9%
+NPM %: 6.70% vs 2.3%
 

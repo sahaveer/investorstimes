@@ -1,14 +1,14 @@
-CODE	NAME
-544214 
-
+CODES	544214	
+FULLNAME : Three M Paper Boards Ltd
 SECTOR : Paper
 INDUSTRY : Paper
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

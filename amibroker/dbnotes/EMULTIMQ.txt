@@ -1,4 +1,4 @@
-CODES
-EMULTIMQ	
+CODES	EMULTIMQ	
+FULLNAME : Edelweiss Nifty500 Multicap Momentum Qual. 50 ETF
 SECTOR : 
 INDUSTRY : 

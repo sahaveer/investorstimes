@@ -1,37 +1,46 @@
-CODES
-543308	KIMS	
-SECTOR : Healthcare
-INDUSTRY : Healthcare
+CODES	543308	KIMS	
+FULLNAME : Krishna Institute of Medical Sciences Ltd
+SECTOR : Healthcare Services
+INDUSTRY : Hospital
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1329.9  |  1650.8  |  2197.7  |  2498.1  |  3035.1 
- SQoQ%:  |   18.5   |   24.1   |   33.1   |   13.7   |   21.5  
- YOPM%:  |   28.3   |   31.8   |   27.8   |   25.9   |   25.8  
- YNPM%:  |   15.1   |   20.2   |   15.3   |   12.4   |   12.7  
-YPROFIT: |  201.2   |  332.7   |  336.3   |  310.2   |  384.5  
- PQoQ%:  |   68.8   |   65.3   |   1.1    |   -7.8   |   24.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  633.8   |  688.4   |  777.3   |  772.4   |  796.9  
- QoQ%:  |   4.6    |   8.6    |   12.9   |   -0.6   |   3.2   
- QOPM%: |   25.1   |   26.1   |   28.1   |   24.2   |   24.8  
- QNPM%: |   10.3   |   12.6   |   13.8   |   11.5   |   12.8  
- QPFT:  |   65.5   |   86.6   |  107.4   |   88.7   |  101.8  
- PQoQ%: |   -8.8   |   32.2   |   24.0   |  -17.4   |   14.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1329.9		1650.8		2197.7		2498.1		3035.1		2830.0
+SQoQ%: 	18.5		24.1		33.1		13.7		21.5		93.2
+YOPM%: 	28.3		31.8		27.8		25.9		26.1
+YNPM%: 	15.1		20.2		15.3		12.4		12.7
+YPROFIT: 201.2		332.7		336.3		310.2		384.5		198.9
+PQoQ%: 	68.8		65.3		1.1		-7.8		24.0		51.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 772.4		796.9		871.6		960.7		997.7
+QoQ%: 	-0.6		3.2		9.4		10.2		3.9
+QOPM%: 	24.2		24.8		22.1		21.2		19.9
+QNPM%: 	11.5		12.8		9.0		7.0		5.4
+QPFT: 	88.7		101.8		78.6		66.9		53.4
+PQoQ%: 	-17.4		14.8		-22.8		-14.9		-20.2
+
+
 
 ***PROS***
+- Last 3QSALES is about 93% YSales
+- Last 3QPROFIT is about 52% of YProfit
 
 
 YSALES in Mar-2025 is at 3035.1 showing a QoQ_growth of 21.5%. The YNETPROFIT grew by 24.0% to 384.5
 
+***CONS***
+- NO PRODUCT DEMAND
+
 Yearly 
  31-Mar-2025 #Result
 3035.10cr, QoQ 21.50% & YoY 128.22% SALES;
-782.90cr, QoQ 20.90% & YoY 107.78% OPERATING PROFIT;
+793.00cr, QoQ 22.40% & YoY 110.46% OPERATING PROFIT;
 384.50cr, QoQ 24.00% & YoY 91.10% NET PROFIT;
-OPM %: 25.80% vs 25.9%
+OPM %: 26.10% vs 25.9%
 NPM %: 12.70% vs 12.4%
 

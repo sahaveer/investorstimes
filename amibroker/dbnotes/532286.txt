@@ -1,35 +1,44 @@
-CODES
-532286	JINDALSTEL	
-SECTOR : Steel
-INDUSTRY : Steel - Large
+CODES	532286	JINDALSTEL	
+FULLNAME : Jindal Steel Ltd
+SECTOR : Ferrous Metals
+INDUSTRY : Iron & Steel
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 34578.9  | 51165.6  | 53211.5  | 50354.4  | 49765.0 
- SQoQ%:  |   -8.8   |   48.0   |   4.0    |   -5.4   |   -1.2  
- YOPM%:  |   31.6   |   30.3   |   18.7   |   20.3   |   19.1  
- YNPM%:  |   10.5   |   11.2   |   6.0    |   11.8   |   5.7   
-YPROFIT: |  3633.6  |  5753.0  |  3173.9  |  5938.4  |  2812.1 
- PQoQ%:  | -3428.4  |   58.3   |  -44.8   |   87.1   |  -52.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 13487.0  | 13617.8  | 11213.3  | 11750.7  | 13183.1 
- QoQ%:  |   15.3   |   1.0    |  -17.7   |   4.8    |   12.2  
- QOPM%: |   18.1   |   20.9   |   19.6   |   18.6   |   17.2  
- QNPM%: |   6.9    |   9.8    |   7.7    |   8.1    |   0.0   
- QPFT:  |  935.4   |  1340.2  |  860.9   |  950.5   |  -339.4 
- PQoQ%: |  -51.5   |   43.3   |  -35.8   |   10.4   |  -135.7 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 34578.9		51165.6		53211.5		50354.4		50128.7		37007.0
+SQoQ%: 	-22.1		48.0		4.0		-5.4		-0.4		73.8
+YOPM%: 	31.6		30.3		18.7		20.3		18.9
+YNPM%: 	10.5		11.2		6.0		11.8		5.6
+YPROFIT: 3633.6		5753.0		3173.9		5938.4		2812.1		2322.6
+PQoQ%: 	-3428.4		58.3		-44.8		87.1		-52.6		82.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 11750.7		13183.1		12294.5		11685.9		13026.6
+QoQ%: 	4.8		12.2		-6.7		-5.0		11.5
+QOPM%: 	18.6		17.2		24.4		17.8		12.5
+QNPM%: 	8.1		0.0		12.2		5.5		1.5
+QPFT: 	950.5		-339.4		1494.0		638.2		190.4
+PQoQ%: 	10.4		-135.7		-540.2		-57.3		-70.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 83% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-49765.00cr, QoQ -1.20% & YoY 43.92% SALES;
-9485.10cr, QoQ -7.00% & YoY -13.24% OPERATING PROFIT;
+50128.70cr, QoQ -0.40% & YoY 44.97% SALES;
+9488.30cr, QoQ -7.00% & YoY -13.21% OPERATING PROFIT;
 2812.10cr, QoQ -52.60% & YoY -22.61% NET PROFIT;
-OPM %: 19.10% vs 20.3%
-NPM %: 5.70% vs 11.8%
+OPM %: 18.90% vs 20.3%
+NPM %: 5.60% vs 11.8%
 

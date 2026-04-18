@@ -1,12 +1,11 @@
-CODES
-SHUBHSHREE	
+CODES	SHUBHSHREE	
+FULLNAME : Shubhshree Biofuels Energy Ltd
 SECTOR : Miscellaneous
 INDUSTRY : Miscellaneous
 YSD YPD 2023
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,6 +16,8 @@ ROCE in Mar2024 is at 39.5%
 - LastYr YProfits Doubled and maintained in Mar2024
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2024, Sales have increased by 60.6% while the Profit QoQ_growth is at 36.4%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

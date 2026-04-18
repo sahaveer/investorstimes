@@ -1,15 +1,16 @@
-CODE	NAME
-531417 
-
+CODES	531417	
+FULLNAME : Mega Corporation Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - YProfit Turned POSITIVE this year Mar-2019 : 0.1
 - RISING QSALES & QPROFIT : QSALES QoQ_Growth in Jun-2019 is at 17.3%. The QPROFIT QoQ_growth by 366.7%
+
+***CONS***

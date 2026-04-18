@@ -1,33 +1,42 @@
-CODES
-544273	MGEL	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	544273	MGEL	
+FULLNAME : Mangalam Global Enterprise Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Other Agricultural Products
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  959.8   |  1278.8  |  1423.8  |  1838.5  |  2281.5 
- SQoQ%:  |   65.0   |   33.2   |   11.3   |   29.1   |   24.1  
- YOPM%:  |   1.2    |   1.0    |   2.1    |   2.0    |   1.9   
- YNPM%:  |   0.6    |   0.3    |   0.9    |   1.1    |   1.0   
-YPROFIT: |   5.8    |   4.3    |   12.7   |   20.2   |   23.1  
- PQoQ%:  |   84.4   |  -25.7   |  195.3   |   59.1   |   14.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  542.5   |  680.0   |  562.6   |  502.2   |  536.7  
- QoQ%:  |   2.0    |   25.3   |  -17.3   |  -10.7   |   6.9   
- QOPM%: |   2.9    |   1.6    |   2.6    |   2.2    |   1.5   
- QNPM%: |   2.2    |   0.9    |   1.0    |   1.3    |   1.0   
- QPFT:  |   11.8   |   6.0    |   5.6    |   6.3    |   5.2   
- PQoQ%: |  306.2   |  -49.0   |   -7.3   |   13.6   |  -18.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 959.8		1277.1		1423.8		1838.5		2281.4		2320.5
+SQoQ%: 	65.0		33.1		11.5		29.1		24.1		101.7
+YOPM%: 	1.2		0.9		2.1		2.0		2.0
+YNPM%: 	0.6		0.3		0.9		1.1		1.0
+YPROFIT: 5.8		4.3		12.7		20.2		23.1		32.7
+PQoQ%: 	84.4		-25.7		195.3		59.1		14.3		141.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 502.2		536.7		858.5		705.8		756.2
+QoQ%: 	-10.7		6.9		60.0		-17.8		7.1
+QOPM%: 	2.2		1.5		1.5		1.6		1.7
+QNPM%: 	1.3		1.0		0.7		2.5		1.1
+QPFT: 	6.3		5.2		6.4		17.8		8.5
+PQoQ%: 	13.6		-18.0		23.9		176.8		-52.2
+
+
 
 ***PROS***
+- Last 3QSALES is about 102% YSales
+- Last 3QPROFIT is about 142% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-2281.50cr, QoQ 24.10% & YoY 137.71% SALES;
-44.30cr, QoQ 20.50% & YoY 281.90% OPERATING PROFIT;
+2281.40cr, QoQ 24.10% & YoY 137.70% SALES;
+45.00cr, QoQ 22.40% & YoY 287.93% OPERATING PROFIT;
 23.10cr, QoQ 14.30% & YoY 298.28% NET PROFIT;
-OPM %: 1.90% vs 2.0%
+OPM %: 2.00% vs 2.0%
 NPM %: 1.00% vs 1.1%
 

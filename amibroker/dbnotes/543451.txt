@@ -1,28 +1,34 @@
-CODES
-543451	AGSTRA	
-SECTOR : IT - Hardware
-INDUSTRY : Computers - Hardware
+CODES	543451	AGSTRA	
+FULLNAME : AGS Transact Technologies Ltd
+SECTOR : Financial Technology (Fintech)
+INDUSTRY : Financial Technology (Fintech)
 PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -80.1
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1800.4  |  1758.9  |  1771.9  |  1671.3  |  1470.6  |     901.1    
- SQoQ%:  |   -0.3   |   -2.3   |   0.7    |   -5.7   |  -12.0   |      61.3    
- YOPM%:  |   25.8   |   24.9   |   23.2   |   23.8   |   13.4   |              
- YNPM%:  |   4.6    |   3.1    |   0.0    |   2.2    |   0.0    |              
-YPROFIT: |   83.0   |   54.8   |  -82.5   |   37.0   |  -80.1   |     -165.3   
- PQoQ%:  |   25.4   |  -34.0   |  -250.5  |  -144.8  |  -316.7  |     206.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  373.8   |  349.2   |  339.8   |  351.7   |  209.6  
- QoQ%:  |   -0.7   |   -6.6   |   -2.7   |   3.5    |  -40.4  
- QOPM%: |   15.4   |   14.1   |   27.5   |   25.1   |   0.0   
- QNPM%: |   0.0    |   0.0    |   4.1    |   4.3    |   0.0   
- QPFT:  |  -15.4   |   -4.4   |   13.8   |   15.2   |  -194.3 
- PQoQ%: |  -74.7   |  -71.1   |  -411.2  |   9.5    | -1380.6 
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2022	Mar-2023	Mar-2024	QSUM:Dec-2024
+YSALES: 1800.4		1758.9		1771.9		1671.3		1470.6		901.1
+SQoQ%: 	-0.3		-2.3		0.7		-5.7		-12.0		61.3
+YOPM%: 	25.8		24.9		23.2		23.8		13.4
+YNPM%: 	4.6		3.1		0.0		2.2		0.0
+YPROFIT: 83.0		54.8		-82.5		37.0		-80.1		-165.3
+PQoQ%: 	25.4		-34.0		-250.5		-144.8		-316.7		206.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2023	Mar-2024	Jun-2024	Sep-2024	Dec-2024
+QSALES: 373.8		349.2		339.8		351.7		209.6
+QoQ%: 	-0.7		-6.6		-2.7		3.5		-40.4
+QOPM%: 	15.4		14.1		27.5		25.1		0.0
+QNPM%: 	0.0		0.0		4.1		4.3		0.0
+QPFT: 	-15.4		-4.4		13.8		15.2		-194.3
+PQoQ%: 	-74.7		-71.1		-411.2		9.5		-1380.6
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - Last 3QSALES is about 61% YSales
+
+***CONS***
+- NEGATIVE YProfit : -80.1

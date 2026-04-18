@@ -1,12 +1,14 @@
-CODES
-532741	KAMDHENU	
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
+CODES	532741	KAMDHENU	
+FULLNAME : Kamdhenu Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

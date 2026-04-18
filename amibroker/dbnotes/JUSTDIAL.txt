@@ -1,27 +1,31 @@
-CODES
-535648	JUSTDIAL	
-SECTOR : E-Commerce/App based Aggregator
-INDUSTRY : Miscellaneous
+CODES	535648	JUSTDIAL	
+FULLNAME : Just Dial Ltd
+SECTOR : Retailing
+INDUSTRY : Internet & Catalogue Retail
 LYPD PM 2024
 YS15 YPD 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024
----------+----------+----------+----------+----------+---------
-YSALES:  |  953.1   |  675.2   |  647.0   |  844.8   |  1042.9 
- SQoQ%:  |   6.9    |  -29.2   |   -4.2   |   30.6   |   23.5  
- YOPM%:  |   28.6   |   22.9   |   0.0    |   10.2   |   20.8  
- YNPM%:  |   28.6   |   31.7   |   10.9   |   19.3   |   34.8  
-YPROFIT: |  272.3   |  214.2   |   70.8   |  162.7   |  362.9  
- PQoQ%:  |   31.6   |  -21.4   |  -66.9   |  129.7   |  123.0  
- QPNL:  | Mar-2023 | Jun-2023 | Sep-2023 | Dec-2023 | Mar-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  232.5   |  247.0   |  260.6   |  265.0   |  270.3  
- QoQ%:  |   5.0    |   6.2    |   5.5    |   1.7    |   2.0   
- QOPM%: |   14.3   |   14.9   |   18.7   |   22.8   |   26.2  
- QNPM%: |   36.0   |   33.8   |   27.5   |   34.7   |   42.8  
- QPFT:  |   83.6   |   83.4   |   71.8   |   92.0   |  115.7  
- PQoQ%: |   11.0   |   -0.2   |  -13.9   |   28.2   |   25.8  
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2022	Mar-2023	Mar-2024
+YSALES: 953.1		675.2		647.0		844.8		1042.9
+SQoQ%: 	6.9		-29.2		-4.2		30.6		23.5
+YOPM%: 	28.6		22.9		0.0		10.2		20.8
+YNPM%: 	28.6		31.7		10.9		19.3		34.8
+YPROFIT: 272.3		214.2		70.8		162.7		362.9
+PQoQ%: 	31.6		-21.4		-66.9		129.7		123.0
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2023	Jun-2023	Sep-2023	Dec-2023	Mar-2024
+QSALES: 232.5		247.0		260.6		265.0		270.3
+QoQ%: 	5.0		6.2		5.5		1.7		2.0
+QOPM%: 	14.3		14.9		18.7		22.8		26.2
+QNPM%: 	36.0		33.8		27.5		34.7		42.8
+QPFT: 	83.6		83.4		71.8		92.0		115.7
+PQoQ%: 	11.0		-0.2		-13.9		28.2		25.8
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
@@ -29,6 +33,8 @@ DEBT-Free Company for the last 3 yrs
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
 As on Mar2024, Sales have increased by 23.5% while the Profit QoQ_growth is much better than Sales itself at 123.0%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

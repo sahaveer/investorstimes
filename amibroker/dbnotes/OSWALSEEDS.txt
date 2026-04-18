@@ -1,36 +1,36 @@
-CODES
-OSWALSEEDS	
-SECTOR : FMCG
-INDUSTRY : Miscellaneous
-BestQ Dec 2024
+CODES	OSWALSEEDS	
+FULLNAME : Shreeoswal Seeds & Chemicals Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Other Agricultural Products
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   62.3   |   72.5   |  102.6   |  114.3   |  100.6   |      95.9    
- SQoQ%:  |   26.5   |   16.4   |   41.6   |   11.4   |  -12.0   |      95.3    
- YOPM%:  |   6.6    |   5.5    |   5.0    |   3.9    |   2.7    |              
- YNPM%:  |   3.9    |   3.9    |   4.0    |   3.9    |   2.0    |              
-YPROFIT: |   2.4    |   2.8    |   4.1    |   4.4    |   2.0    |      4.2     
- PQoQ%:  |   12.9   |   15.9   |   45.1   |   7.5    |  -55.5   |     210.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   36.5   |   2.0    |   50.5   |   7.7    |   37.7  
- QoQ%:  |  484.5   |  -94.4   |  2364.9  |  -84.8   |  391.0  
- QOPM%: |   4.1    |   0.0    |   6.2    |   9.0    |   3.3   
- QNPM%: |   2.7    |   0.0    |   4.6    |   9.8    |   2.9   
- QPFT:  |   1.0    |   -1.4   |   2.3    |   0.8    |   1.1   
- PQoQ%: |   90.4   |  -246.5  |  -258.6  |  -67.4   |   45.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 161.2		240.5		272.2		269.0		245.9		192.2
+SQoQ%: 	38.2		49.2		13.2		-1.2		-8.6		78.2
+YOPM%: 	4.8		4.4		4.4		0.4		3.9
+YNPM%: 	2.3		2.3		2.1		0.0		1.4
+YPROFIT: 3.6		5.4		5.7		-4.2		3.5		5.1
+PQoQ%: 	19.7		49.0		5.0		-172.9		-184.9		145.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 75.4		25.8		98.0		39.4		54.8
+QoQ%: 	11.4		-65.7		278.9		-59.7		38.8
+QOPM%: 	10.8		7.5		11.5		0.0		5.1
+QNPM%: 	7.1		2.1		7.4		0.0		1.9
+QPFT: 	5.4		0.6		7.3		-3.2		1.0
+PQoQ%: 	1578.1		-89.8		1223.6		-144.0		-132.2
+
+
 
 ***PROS***
-- Last 3QSALES is about 95% YSales
-- Last 3QPROFIT is about 210% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 146% of YProfit
+- YProfit Turned POSITIVE this year Mar-2025 : 3.5
 
-Yearly 
- 31-Mar-2024 #Result
-100.60cr, QoQ -12.00% & YoY 61.48% SALES;
-2.70cr, QoQ -39.90% & YoY -34.15% OPERATING PROFIT;
-2.00cr, QoQ -55.50% & YoY -16.67% NET PROFIT;
-OPM %: 2.70% vs 3.9%
-NPM %: 2.00% vs 3.9%
-
+***CONS***

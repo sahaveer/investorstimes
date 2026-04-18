@@ -1,29 +1,48 @@
-CODE	NAME
-524576 
+CODES	524576	
+FULLNAME : Vivid Global Industries Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
+BestQ Dec 2025
+LYPD PM 2025
 
-SECTOR : Chemicals
-INDUSTRY : Dyes And Pigments
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 48.3		46.3		36.2		34.6		41.2		39.1
+SQoQ%: 	-17.6		-4.1		-21.8		-4.6		19.3		94.9
+YOPM%: 	5.4		5.9		1.7		3.3		3.4
+YNPM%: 	3.1		3.1		0.0		0.5		0.9
+YPROFIT: 1.5		1.4		-0.2		0.2		0.4		0.5
+PQoQ%: 	70.1		-4.1		-113.4		-194.7		116.7		125.0
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   58.6   |   48.3   |   46.3   |   36.2   |   34.6   |      27.9    
- SQoQ%:  |   -4.4   |  -17.6   |   -4.1   |  -21.8   |   -4.6   |      80.6    
- YOPM%:  |   6.0    |   5.4    |   5.9    |   1.7    |   3.3    |              
- YNPM%:  |   1.5    |   3.1    |   3.1    |   0.0    |   0.5    |              
-YPROFIT: |   0.9    |   1.5    |   1.4    |   -0.2   |   0.2    |      0.2     
- PQoQ%:  |  -74.3   |   70.1   |   -4.1   |  -113.4  |  -194.7  |     100.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   9.1    |   10.0   |   13.2   |   7.0    |   7.7   
- QoQ%:  |   41.6   |   9.8    |   32.6   |  -46.6   |   9.1   
- QOPM%: |   2.1    |   3.1    |   2.2    |   3.0    |   4.8   
- QNPM%: |   0.3    |   1.0    |   0.4    |   1.7    |   1.2   
- QPFT:  |   0.0    |   0.1    |   0.0    |   0.1    |   0.1   
- PQoQ%: |  -92.3   |  233.3   |  -50.0   |  140.0   |  -25.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 7.7		13.1		10.5		13.9		14.7
+QoQ%: 	9.1		70.7		-19.7		32.2		5.8
+QOPM%: 	4.8		2.3		2.1		4.2		3.1
+QNPM%: 	1.2		0.9		1.0		1.2		1.3
+QPFT: 	0.1		0.1		0.1		0.2		0.2
+PQoQ%: 	-25.0		33.3		-8.3		54.5		11.8
+
+
 
 ***PROS***
-- Last 3QSALES is about 81% YSales
-- Last 3QPROFIT is about 100% of YProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 0.2
+- Last 3QSALES is about 95% YSales
+- Last 3QPROFIT is about 125% of YProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 41.2 showing a QoQ_growth of 19.3%. The YNETPROFIT grew by 116.7% to 0.4
+
+***CONS***
+- NO PRODUCT DEMAND
+
+Yearly 
+ 31-Mar-2025 #Result
+41.20cr, QoQ 19.30% & YoY -14.70% SALES;
+1.40cr, QoQ 21.90% & YoY -46.15% OPERATING PROFIT;
+0.40cr, QoQ 116.70% & YoY -73.33% NET PROFIT;
+OPM %: 3.40% vs 3.3%
+NPM %: 0.90% vs 0.5%
+

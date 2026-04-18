@@ -1,37 +1,42 @@
-CODE	NAME
-513353 
+CODES	513353	
+FULLNAME : Cochin Minerals & Rutile Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
+PRODUCT DEMAND
 
-SECTOR : Chemicals
-INDUSTRY : Chemicals
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 239.2		289.8		443.9		300.4		319.1		201.6
+SQoQ%: 	-9.2		21.2		53.2		-32.3		6.2		63.2
+YOPM%: 	8.5		3.1		16.3		12.9		9.8
+YNPM%: 	3.4		2.1		12.7		2.9		7.4
+YPROFIT: 8.1		6.2		56.4		8.6		23.6		9.3
+PQoQ%: 	35.4		-23.4		808.7		-84.8		174.3		39.4
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  263.3   |  239.2   |  289.8   |  443.9   |  300.4   |     243.7    
- SQoQ%:  |   17.8   |   -9.2   |   21.2   |   53.2   |  -32.3   |      81.1    
- YOPM%:  |   8.4    |   8.5    |   3.1    |   16.3   |   12.9   |              
- YNPM%:  |   2.3    |   3.4    |   2.1    |   12.7   |   2.9    |              
-YPROFIT: |   6.0    |   8.1    |   6.2    |   56.4   |   8.6    |      18.1    
- PQoQ%:  |   9.5    |   35.4   |  -23.4   |  808.7   |  -84.8   |     210.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   82.2   |  100.8   |   88.4   |   89.7   |   65.6  
- QoQ%:  |   62.1   |   22.7   |  -12.4   |   1.6    |  -26.9  
- QOPM%: |   16.4   |   16.7   |   9.9    |   11.7   |   10.8  
- QNPM%: |   12.3   |   0.0    |   6.7    |   7.9    |   7.7   
- QPFT:  |   10.1   |   -6.9   |   6.0    |   7.1    |   5.0   
- PQoQ%: |  218.0   |  -168.7  |  -186.0  |   18.7   |  -28.9  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 64.6		75.4		74.8		65.2		61.6
+QoQ%: 	-27.4		16.8		-0.8		-12.7		-5.6
+QOPM%: 	9.4		5.8		3.5		2.8		5.6
+QNPM%: 	7.8		7.3		4.4		4.5		4.8
+QPFT: 	5.0		5.5		3.3		3.0		3.0
+PQoQ%: 	-28.9		10.0		-40.8		-9.8		1.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 81% YSales
-- Last 3QPROFIT is about 210% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 63% YSales
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-300.40cr, QoQ -32.30% & YoY 14.09% SALES;
-38.70cr, QoQ -46.60% & YoY 74.32% OPERATING PROFIT;
-8.60cr, QoQ -84.80% & YoY 43.33% NET PROFIT;
-OPM %: 12.90% vs 16.3%
-NPM %: 2.90% vs 12.7%
+ 31-Mar-2025 #Result
+319.10cr, QoQ 6.20% & YoY 33.40% SALES;
+31.30cr, QoQ -19.10% & YoY 53.43% OPERATING PROFIT;
+23.60cr, QoQ 174.30% & YoY 191.36% NET PROFIT;
+OPM %: 9.80% vs 12.9%
+NPM %: 7.40% vs 2.9%
 

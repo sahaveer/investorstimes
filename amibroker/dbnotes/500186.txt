@@ -1,46 +1,46 @@
-CODES
-500186	HINDOILEXP	
-SECTOR : Crude Oil & Natural Gas
-INDUSTRY : Oil Drilling / Allied Services
-BestQ Dec 2024
+CODES	500186	HINDOILEXP	
+FULLNAME : Hindustan Oil Exploration Company Ltd
+SECTOR : Oil
+INDUSTRY : Oil Exploration & Production
+PRODUCT DEMAND
 YSD YPD 2023
-LYPD PM 2024
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  202.0   |  113.9   |  155.7   |  557.8   |  749.1   |     377.5    
- SQoQ%:  |  -23.8   |  -43.6   |   36.8   |  258.2   |   34.3   |      50.4    
- YOPM%:  |   61.7   |   47.9   |   50.3   |   56.0   |   41.2   |              
- YNPM%:  |   68.1   |   46.9   |   12.8   |   34.8   |   30.2   |              
-YPROFIT: |  137.6   |   53.4   |   20.0   |  194.0   |  226.4   |      96.0    
- PQoQ%:  |  -12.2   |  -61.2   |  -62.6   |  870.7   |   16.7   |      42.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  179.1   |  289.6   |  136.2   |   94.8   |  146.5  
- QoQ%:  |   58.7   |   61.7   |  -53.0   |  -30.4   |   54.5  
- QOPM%: |   39.4   |   25.8   |   45.8   |   33.4   |   50.5  
- QNPM%: |   26.0   |   24.4   |   30.8   |   11.4   |   29.6  
- QPFT:  |   46.6   |   70.6   |   41.9   |   10.8   |   43.3  
- PQoQ%: |   7.9    |   51.6   |  -40.6   |  -74.2   |  300.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 113.9		155.7		557.8		749.1		420.9		469.0
+SQoQ%: 	-43.6		36.8		258.2		34.3		-43.8		111.4
+YOPM%: 	47.9		50.3		56.0		41.2		41.2
+YNPM%: 	46.9		12.8		34.8		30.2		35.0
+YPROFIT: 53.4		20.0		194.0		226.4		147.2		55.0
+PQoQ%: 	-61.2		-62.6		870.7		16.7		-35.0		37.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 146.5		43.4		78.6		315.0		75.4
+QoQ%: 	54.5		-70.4		81.3		300.5		-76.1
+QOPM%: 	50.5		11.0		40.9		7.2		36.2
+QNPM%: 	29.6		117.9		55.8		0.9		11.0
+QPFT: 	43.3		51.2		43.9		2.8		8.3
+PQoQ%: 	300.7		18.1		-14.2		-93.5		192.6
+
+
 
 ***PROS***
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 15.8%
-- Last 3QSALES is about 50% YSales
-- Double QSales and QProfit
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 111% YSales
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
-As on Mar2024, Sales have increased by 34.3% while the Profit QoQ_growth is at 16.7%
+
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-749.10cr, QoQ 34.30% & YoY 270.84% SALES;
-308.80cr, QoQ -1.10% & YoY 147.83% OPERATING PROFIT;
-226.40cr, QoQ 16.70% & YoY 64.53% NET PROFIT;
-OPM %: 41.20% vs 56.0%
-NPM %: 30.20% vs 34.8%
+ 31-Mar-2025 #Result
+420.90cr, QoQ -43.80% & YoY 269.53% SALES;
+173.60cr, QoQ -43.80% & YoY 217.95% OPERATING PROFIT;
+147.20cr, QoQ -35.00% & YoY 175.66% NET PROFIT;
+OPM %: 41.20% vs 41.2%
+NPM %: 35.00% vs 30.2%
 

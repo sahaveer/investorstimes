@@ -1,38 +1,43 @@
-CODES
-505710	GRAUWEIL	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	505710	GRAUWEIL	
+FULLNAME : Grauer & Weil (India) Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  617.9   |  605.4   |  768.3   |  981.1   |  1068.2  |     793.6    
- SQoQ%:  |   3.0    |   -2.0   |   26.9   |   27.7   |   8.9    |      74.3    
- YOPM%:  |   15.7   |   16.6   |   14.8   |   15.9   |   17.9   |              
- YNPM%:  |   12.3   |   11.4   |   10.3   |   11.5   |   13.7   |              
-YPROFIT: |   75.8   |   68.8   |   78.8   |  113.0   |  146.3   |     131.4    
- PQoQ%:  |   18.7   |   -9.3   |   14.5   |   43.4   |   29.5   |      89.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  285.0   |  333.1   |  264.1   |  254.7   |  274.8  
- QoQ%:  |   13.8   |   16.9   |  -20.7   |   -3.6   |   7.9   
- QOPM%: |   19.1   |   11.8   |   24.2   |   16.8   |   19.0  
- QNPM%: |   15.0   |   8.8    |   19.2   |   14.8   |   15.7  
- QPFT:  |   42.8   |   29.2   |   50.7   |   37.6   |   43.1  
- PQoQ%: |   14.1   |  -31.8   |   73.8   |  -25.8   |   14.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 605.4		768.3		981.1		1068.2		1133.6		835.1
+SQoQ%: 	-2.0		26.9		27.7		8.9		6.1		73.7
+YOPM%: 	16.6		14.8		15.9		17.9		16.7
+YNPM%: 	11.4		10.3		11.5		13.7		13.9
+YPROFIT: 68.8		78.8		113.0		146.3		157.2		114.5
+PQoQ%: 	-9.3		14.5		43.4		29.5		7.5		72.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 274.8		340.1		253.3		291.2		290.6
+QoQ%: 	7.9		23.8		-25.5		15.0		-0.2
+QOPM%: 	19.0		8.7		20.8		14.9		13.3
+QNPM%: 	15.7		7.6		17.2		13.2		11.1
+QPFT: 	43.1		25.7		43.6		38.6		32.3
+PQoQ%: 	14.7		-40.3		69.4		-11.6		-16.2
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+A DEBT-Free Company
 - Last 3QSALES is about 74% YSales
-- Last 3QPROFIT is about 90% of YProfit
+- Last 3QPROFIT is about 73% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1068.20cr, QoQ 8.90% & YoY 72.88% SALES;
-191.10cr, QoQ 22.50% & YoY 96.40% OPERATING PROFIT;
-146.30cr, QoQ 29.50% & YoY 93.01% NET PROFIT;
-OPM %: 17.90% vs 15.9%
-NPM %: 13.70% vs 11.5%
+ 31-Mar-2025 #Result
+1133.60cr, QoQ 6.10% & YoY 87.25% SALES;
+189.30cr, QoQ -1.00% & YoY 87.80% OPERATING PROFIT;
+157.20cr, QoQ 7.50% & YoY 128.49% NET PROFIT;
+OPM %: 16.70% vs 17.9%
+NPM %: 13.90% vs 13.7%
 

@@ -1,38 +1,35 @@
-CODE	NAME
-539384 
-
+CODES	539384	
+FULLNAME : Krishna Capital & Securities Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
+PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.4    |   0.5    |   0.4    |   0.4    |   0.4    |      0.4     
- SQoQ%:  |  -33.3   |   20.0   |  -14.6   |   -4.9   |   0.0    |     100.0    
- YOPM%:  |   17.5   |   39.6   |   39.0   |   43.6   |   43.6   |              
- YNPM%:  |   15.0   |   33.3   |   34.1   |   38.5   |   38.5   |              
-YPROFIT: |   0.1    |   0.2    |   0.1    |   0.2    |   0.2    |      0.0     
- PQoQ%:  |  -64.7   |  166.7   |  -12.5   |   7.1    |   0.0    |      0.0     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.1    |   0.1    |   0.1    |   0.2    |   0.1   
- QoQ%:  |  -10.0   |   22.2   |  -18.2   |  100.0   |  -50.0  
- QOPM%: |   22.2   |   54.5   |   0.0    |   0.0    |   11.1  
- QNPM%: |   11.1   |  100.0   |   0.0    |   0.0    |   11.1  
- QPFT:  |   0.0    |   0.1    |   -0.0   |   0.0    |   0.0   
- PQoQ%: |  -50.0   |  1000.0  |  -145.5  |  -100.0  |   inf   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.5		0.4		0.4		0.4		0.6		0.3
+SQoQ%: 	20.0		-14.6		-4.9		0.0		46.2		50.0
+YOPM%: 	39.6		39.0		43.6		43.6		1.8
+YNPM%: 	33.3		34.1		38.5		38.5		1.8
+YPROFIT: 0.2		0.1		0.2		0.2		0.0		-0.1
+PQoQ%: 	166.7		-12.5		7.1		0.0		-93.3		-inf
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.1		0.2		0.1		0.1		0.1
+QoQ%: 	-50.0		133.3		-57.1		0.0		33.3
+QOPM%: 	11.1		28.6		0.0		0.0		25.0
+QNPM%: 	11.1		28.6		0.0		0.0		25.0
+QPFT: 	0.0		0.1		-0.1		-0.0		0.0
+PQoQ%: 	inf		500.0		-200.0		-66.7		-250.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 100% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 50% YSales
 
 
-Yearly 
- 31-Mar-2024 #Result
-0.40cr, QoQ 0.00% & YoY 0.00% SALES;
-0.20cr, QoQ -0.00% & YoY 100.00% OPERATING PROFIT;
-0.20cr, QoQ 0.00% & YoY 100.00% NET PROFIT;
-OPM %: 43.60% vs 43.6%
-NPM %: 38.50% vs 38.5%
-
+***CONS***

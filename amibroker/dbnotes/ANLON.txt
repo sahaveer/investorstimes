@@ -1,18 +1,19 @@
-CODES
-ANLON	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	ANLON	
+FULLNAME : Anlon Technology Solutions Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 EXPANSION 2024
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
 
 YSALES in Mar-2025 is at 50.2 showing a QoQ_growth of 43.4%. The YNETPROFIT grew by 43.6% to 6.5
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

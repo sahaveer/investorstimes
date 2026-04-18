@@ -1,15 +1,16 @@
-CODE	NAME
-523862 
-
+CODES	523862	
+FULLNAME : Pacheli Industrial Finance Ltd
 SECTOR : Finance
 INDUSTRY : Finance & Investments
 PRODUCT DEMAND
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+
+***CONS***

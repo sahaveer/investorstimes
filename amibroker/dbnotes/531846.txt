@@ -1,28 +1,31 @@
-CODE	NAME
-531846 
-
+CODES	531846	
+FULLNAME : Trinity League India Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-PRODUCT DEMAND
+INDUSTRY : Other Financial Services
 
-***CONS***
-- NEGATIVE YProfit : -2.7
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.4    |   1.0    |   1.8    |   3.5    |   0.3    |      0.0     
- SQoQ%:  |   nan    |  123.3   |   87.5   |   92.2   |  -91.3   |      0.0     
- YOPM%:  |   0.0    |   0.0    |   16.1   |   10.4   |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   11.7   |   3.2    |   0.0    |              
-YPROFIT: |   -0.2   |   -0.5   |   0.2    |   0.1    |   -2.7   |      -0.5    
- PQoQ%:  |   nan    |  157.9   |  -142.9  |  -47.6   | -2554.5  |      18.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.1    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   inf    |  -100.0  |   nan    |   inf    |  -100.0 
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |  233.3   |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   0.1    |   -1.4   |   -0.4   |   -0.0   |   -0.1  
- PQoQ%: |  -118.9  | -1121.4  |  -72.0   |  -87.5   |   20.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.0		1.8		3.5		0.3		0.5		0.0
+SQoQ%: 	123.3		87.5		92.2		-91.3		60.0		0.0
+YOPM%: 	0.0		16.1		10.4		0.0		0.0
+YNPM%: 	0.0		11.7		3.2		0.0		0.0
+YPROFIT: -0.5		0.2		0.1		-2.7		-0.3		-0.2
+PQoQ%: 	157.9		-142.9		-47.6		-2554.5		-88.5		66.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.3		0.0		0.0		0.0
+QoQ%: 	-100.0		inf		-100.0		nan		nan
+QOPM%: 	0.0		61.5		0.0		0.0		0.0
+QNPM%: 	0.0		80.8		0.0		0.0		0.0
+QPFT: 	-0.1		0.2		-0.1		-0.1		-0.0
+PQoQ%: 	20.0		-450.0		-138.1		25.0		-50.0
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+
+***CONS***
+- NEGATIVE YProfit : -0.3

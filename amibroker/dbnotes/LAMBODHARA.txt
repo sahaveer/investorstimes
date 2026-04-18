@@ -1,38 +1,44 @@
-CODES
-590075	LAMBODHARA	
-SECTOR : 
-INDUSTRY : 
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	590075	LAMBODHARA	
+FULLNAME : Lambodhara Textiles Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  174.7   |  118.3   |  189.9   |  211.4   |  194.7   |     177.3    
- SQoQ%:  |   -0.1   |  -32.3   |   60.6   |   11.3   |   -7.9   |      91.1    
- YOPM%:  |   11.4   |   19.7   |   14.6   |   15.1   |   8.8    |              
- YNPM%:  |   3.9    |   9.0    |   8.3    |   8.2    |   2.4    |              
-YPROFIT: |   6.9    |   10.6   |   15.8   |   17.3   |   4.6    |      6.6     
- PQoQ%:  |   -9.4   |   54.4   |   49.5   |   9.3    |  -73.4   |     143.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   50.8   |   42.1   |   55.6   |   60.9   |   60.8  
- QoQ%:  |   -1.7   |  -17.0   |   31.9   |   9.6    |   -0.2  
- QOPM%: |   7.4    |   8.1    |   9.0    |   12.9   |   9.1   
- QNPM%: |   1.7    |   3.4    |   3.4    |   5.2    |   2.5   
- QPFT:  |   0.8    |   1.4    |   1.9    |   3.2    |   1.5   
- PQoQ%: |   35.5   |   70.2   |   33.6   |   66.5   |  -52.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 118.3		189.9		211.4		194.7		231.7		180.7
+SQoQ%: 	-32.3		60.6		11.3		-7.9		19.0		78.0
+YOPM%: 	19.7		14.6		15.1		8.8		9.6
+YNPM%: 	9.0		8.3		8.2		2.4		2.9
+YPROFIT: 10.6		15.8		17.3		4.6		6.8		7.9
+PQoQ%: 	54.4		49.5		9.3		-73.4		47.9		116.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 60.8		54.4		59.1		62.5		59.1
+QoQ%: 	-0.2		-10.6		8.7		5.8		-5.5
+QOPM%: 	9.1		8.7		10.0		14.4		9.4
+QNPM%: 	2.5		0.4		3.7		5.3		4.1
+QPFT: 	1.5		0.2		2.2		3.3		2.4
+PQoQ%: 	-52.2		-85.5		881.8		53.7		-27.7
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 91% YSales
-- Last 3QPROFIT is about 143% of YProfit
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 116% of YProfit
+
+YSALES in Mar-2025 is at 231.7 showing a QoQ_growth of 19.0%. The YNETPROFIT grew by 47.9% to 6.8
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-194.70cr, QoQ -7.90% & YoY 11.45% SALES;
-17.10cr, QoQ -46.60% & YoY -13.64% OPERATING PROFIT;
-4.60cr, QoQ -73.40% & YoY -33.33% NET PROFIT;
-OPM %: 8.80% vs 15.1%
-NPM %: 2.40% vs 8.2%
+ 31-Mar-2025 #Result
+231.70cr, QoQ 19.00% & YoY 95.86% SALES;
+22.30cr, QoQ 30.60% & YoY -4.29% OPERATING PROFIT;
+6.80cr, QoQ 47.90% & YoY -35.85% NET PROFIT;
+OPM %: 9.60% vs 8.8%
+NPM %: 2.90% vs 2.4%
 

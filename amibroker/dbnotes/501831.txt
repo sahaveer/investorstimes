@@ -1,36 +1,46 @@
-CODES
-501831	COASTCORP	
-SECTOR : FMCG
-INDUSTRY : Aquaculture
-BestQ Dec 2024
+CODES	501831	COASTCORP	
+FULLNAME : Coastal Corporation Ltd
+SECTOR : Food Products
+INDUSTRY : Seafood
+PRODUCT DEMAND
+BestQ Dec 2025
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  604.3   |  473.5   |  491.1   |  352.7   |  435.6   |     471.2    
- SQoQ%:  |   0.6    |  -21.6   |   3.7    |  -28.2   |   23.5   |     108.2    
- YOPM%:  |   6.6    |   5.4    |   3.3    |   5.6    |   6.5    |              
- YNPM%:  |   5.6    |   3.9    |   2.8    |   1.9    |   1.0    |              
-YPROFIT: |   34.1   |   18.4   |   13.6   |   6.7    |   4.5    |      5.5     
- PQoQ%:  |   -9.9   |  -46.0   |  -26.4   |  -50.6   |  -32.5   |     122.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  107.0   |  116.6   |  132.8   |  154.8   |  183.6  
- QoQ%:  |   -3.9   |   9.0    |   13.9   |   16.5   |   18.6  
- QOPM%: |   8.7    |   0.0    |   7.2    |   4.9    |   4.9   
- QNPM%: |   2.7    |   0.0    |   2.3    |   0.3    |   1.1   
- QPFT:  |   2.9    |   -6.2   |   3.0    |   0.5    |   2.0   
- PQoQ%: |  -34.4   |  -310.5  |  -149.3  |  -83.3   |  282.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 473.5		491.1		352.7		435.6		628.2		646.0
+SQoQ%: 	-21.6		3.7		-28.2		23.5		44.2		102.8
+YOPM%: 	5.4		3.3		5.6		6.5		4.9
+YNPM%: 	3.9		2.8		1.9		1.0		0.7
+YPROFIT: 18.4		13.6		6.7		4.5		4.5		16.6
+PQoQ%: 	-46.0		-26.4		-50.6		-32.5		-0.9		368.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 183.6		157.1		183.7		159.7		302.6
+QoQ%: 	18.6		-14.4		16.9		-13.1		89.5
+QOPM%: 	4.9		2.9		8.8		7.0		5.7
+QNPM%: 	1.1		0.0		3.1		2.3		2.3
+QPFT: 	2.0		-1.0		5.8		3.7		7.1
+PQoQ%: 	282.4		-152.8		-659.2		-36.3		93.2
+
+
 
 ***PROS***
-- Last 3QSALES is about 108% YSales
-- Last 3QPROFIT is about 122% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 103% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 369% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-435.60cr, QoQ 23.50% & YoY -27.92% SALES;
-28.30cr, QoQ 42.40% & YoY -29.25% OPERATING PROFIT;
-4.50cr, QoQ -32.50% & YoY -86.80% NET PROFIT;
-OPM %: 6.50% vs 5.6%
-NPM %: 1.00% vs 1.9%
+ 31-Mar-2025 #Result
+628.20cr, QoQ 44.20% & YoY 32.67% SALES;
+30.50cr, QoQ 8.00% & YoY 19.61% OPERATING PROFIT;
+4.50cr, QoQ -0.90% & YoY -75.54% NET PROFIT;
+OPM %: 4.90% vs 6.5%
+NPM %: 0.70% vs 1.0%
 

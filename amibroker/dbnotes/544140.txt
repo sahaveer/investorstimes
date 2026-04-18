@@ -1,30 +1,41 @@
-CODES
-544140	GOPAL	
-SECTOR : 
-INDUSTRY : 
+CODES	544140	GOPAL	
+FULLNAME : Gopal Snacks Ltd
+SECTOR : Food Products
+INDUSTRY : Packaged Foods
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1127.7  |  1350.9  |  1394.3  |  1401.6  |  1468.0 
- SQoQ%:  |   27.2   |   19.8   |   3.2    |   0.5    |   4.7   
- YOPM%:  |   5.4    |   7.0    |   14.1   |   12.0   |   7.2   
- YNPM%:  |   1.9    |   3.1    |   8.1    |   7.1    |   1.3   
-YPROFIT: |   21.1   |   41.5   |  112.4   |   99.6   |   19.0  
- PQoQ%:  |  -52.1   |   96.7   |  170.5   |  -11.4   |  -80.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  358.7   |  354.3   |  402.6   |  393.6   |  317.5  
- QoQ%:  |   -2.4   |   -1.2   |   13.6   |   -2.3   |  -19.3  
- QOPM%: |   10.8   |   11.5   |   11.6   |   3.9    |   0.6   
- QNPM%: |   7.3    |   6.9    |   7.2    |   1.4    |   0.0   
- QPFT:  |   26.1   |   24.3   |   28.9   |   5.3    |  -39.5  
- PQoQ%: |   45.9   |   -6.9   |   18.9   |  -81.6   |  -842.7 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1127.7		1350.9		1394.3		1402.5		1468.0		1098.7
+SQoQ%: 	27.2		19.8		3.2		0.6		4.7		74.8
+YOPM%: 	5.4		7.0		14.1		12.0		7.2
+YNPM%: 	1.9		3.1		8.1		7.1		1.3
+YPROFIT: 21.1		41.5		112.4		99.6		19.0		43.7
+PQoQ%: 	-52.1		96.7		170.5		-11.4		-80.9		230.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 393.6		317.5		322.2		375.7		400.8
+QoQ%: 	-2.3		-19.3		1.5		16.6		6.7
+QOPM%: 	3.9		0.6		4.7		6.4		7.6
+QNPM%: 	1.4		0.0		0.8		6.8		3.9
+QPFT: 	5.3		-39.5		2.5		25.7		15.5
+PQoQ%: 	-81.6		-842.7		-106.4		919.4		-39.7
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 15.1%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 230% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

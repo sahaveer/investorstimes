@@ -1,35 +1,44 @@
-CODE	NAME
-531810 
+CODES	531810	
+FULLNAME : Metal Coatings (India) Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
+PRODUCT DEMAND
+BestQ Dec 2025
 
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 94.1		142.1		170.1		167.6		159.4		112.2
+SQoQ%: 	-21.7		51.0		19.7		-1.4		-4.9		70.4
+YOPM%: 	3.4		2.2		2.2		1.9		3.3
+YNPM%: 	2.7		2.0		1.6		1.5		1.5
+YPROFIT: 2.6		2.8		2.8		2.5		2.4		2.3
+PQoQ%: 	-9.8		9.7		-2.1		-9.4		-5.2		95.8
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  120.2   |   94.1   |  142.1   |  170.1   |  167.6   |     119.4    
- SQoQ%:  |  -22.0   |  -21.7   |   51.0   |   19.7   |   -1.4   |      71.2    
- YOPM%:  |   3.1    |   3.4    |   2.2    |   2.2    |   1.9    |              
- YNPM%:  |   2.4    |   2.7    |   2.0    |   1.6    |   1.5    |              
-YPROFIT: |   2.8    |   2.6    |   2.8    |   2.8    |   2.5    |      1.1     
- PQoQ%:  |   -7.2   |   -9.8   |   9.7    |   -2.1   |   -9.4   |      44.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   42.1   |   44.0   |   39.6   |   40.8   |   39.0  
- QoQ%:  |   -2.2   |   4.4    |   -9.9   |   3.1    |   -4.4  
- QOPM%: |   1.6    |   2.8    |   2.5    |   2.4    |   3.9   
- QNPM%: |   1.2    |   2.2    |   1.9    |   2.0    |   0.0   
- QPFT:  |   0.5    |   1.0    |   0.8    |   0.8    |   -0.5  
- PQoQ%: |   -7.4   |   90.0   |  -20.0   |   6.6    |  -165.4 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 39.0		40.8		35.0		39.0		38.2
+QoQ%: 	-4.4		4.5		-14.1		11.3		-1.9
+QOPM%: 	3.9		4.4		1.3		2.3		2.8
+QNPM%: 	0.0		3.3		1.7		1.8		2.5
+QPFT: 	-0.5		1.3		0.6		0.7		1.0
+PQoQ%: 	-165.4		-350.9		-54.1		14.8		37.1
+
+
 
 ***PROS***
-- Last 3QSALES is about 71% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 70% YSales
+- Last 3QPROFIT is about 96% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-167.60cr, QoQ -1.40% & YoY 39.43% SALES;
-3.20cr, QoQ -13.10% & YoY -13.51% OPERATING PROFIT;
-2.50cr, QoQ -9.40% & YoY -10.71% NET PROFIT;
-OPM %: 1.90% vs 2.2%
-NPM %: 1.50% vs 1.6%
+ 31-Mar-2025 #Result
+159.40cr, QoQ -4.90% & YoY 69.39% SALES;
+5.30cr, QoQ 63.90% & YoY 65.62% OPERATING PROFIT;
+2.40cr, QoQ -5.20% & YoY -7.69% NET PROFIT;
+OPM %: 3.30% vs 1.9%
+NPM %: 1.50% vs 1.5%
 

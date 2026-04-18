@@ -1,18 +1,18 @@
-CODE	NAME
-544002 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	544002	
+FULLNAME : Vivaa Tradecom Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Trading - Textile Products
 LYPD PM 2025
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

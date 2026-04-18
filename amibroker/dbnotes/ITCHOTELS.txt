@@ -1,12 +1,14 @@
-CODES
-544325	ITCHOTELS	
+CODES	544325	ITCHOTELS	
+FULLNAME : ITC Hotels Ltd
 SECTOR : Hotels & Restaurants
 INDUSTRY : Hotels
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

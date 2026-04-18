@@ -1,39 +1,43 @@
-CODE	NAME
-538714 
-
+CODES	538714	
+FULLNAME : Sangam Finserv Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+INDUSTRY : Non Banking Financial Company (NBFC)
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   21.6   |   21.9   |   15.3   |   16.5   |   18.6   |      16.1    
- SQoQ%:  |  -34.7   |   1.2    |  -30.1   |   8.0    |   12.6   |      86.6    
- YOPM%:  |   97.0   |   94.0   |   93.2   |   81.5   |   77.2   |              
- YNPM%:  |   41.9   |   27.1   |   49.4   |   39.0   |   42.5   |              
-YPROFIT: |   9.1    |   5.9    |   7.6    |   6.4    |   7.9    |      8.3     
- PQoQ%:  |   -2.9   |  -34.5   |   27.3   |  -14.7   |   22.7   |     105.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   4.8    |   4.7    |   4.6    |   4.6    |   6.9   
- QoQ%:  |   -5.4   |   -1.3   |   -3.2   |   1.5    |   50.2  
- QOPM%: |   82.6   |   58.5   |   81.1   |   84.2   |   76.2  
- QNPM%: |   45.4   |   27.2   |   48.1   |   53.9   |   52.2  
- QPFT:  |   2.2    |   1.3    |   2.2    |   2.5    |   3.6   
- PQoQ%: |  -17.9   |  -40.7   |   71.1   |   13.7   |   45.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 21.9		15.3		16.5		18.6		17.0		16.6
+SQoQ%: 	1.2		-30.1		8.0		12.6		-8.4		97.6
+YOPM%: 	94.0		93.2		81.5		77.2		69.2
+YNPM%: 	27.1		49.4		39.0		42.5		38.8
+YPROFIT: 5.9		7.6		6.4		7.9		6.6		7.5
+PQoQ%: 	-34.5		27.3		-14.7		22.7		-16.5		113.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 6.9		0.9		7.4		4.8		4.4
+QoQ%: 	50.2		-86.9		707.7		-35.2		-7.4
+QOPM%: 	76.2		0.0		84.6		55.9		60.1
+QNPM%: 	52.2		0.0		58.0		39.7		29.3
+QPFT: 	3.6		-1.7		4.3		1.9		1.3
+PQoQ%: 	45.4		-147.2		-349.1		-55.6		-31.7
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 87% YSales
-- Last 3QPROFIT is about 105% of YProfit
+- Last 3QSALES is about 98% YSales
+- Last 3QPROFIT is about 114% of YProfit
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-18.60cr, QoQ 12.60% & YoY -13.89% SALES;
-14.30cr, QoQ 6.80% & YoY -31.90% OPERATING PROFIT;
-7.90cr, QoQ 22.70% & YoY -13.19% NET PROFIT;
-OPM %: 77.20% vs 81.5%
-NPM %: 42.50% vs 39.0%
+ 31-Mar-2025 #Result
+17.00cr, QoQ -8.40% & YoY -22.37% SALES;
+11.80cr, QoQ -18.00% & YoY -42.72% OPERATING PROFIT;
+6.60cr, QoQ -16.50% & YoY 11.86% NET PROFIT;
+OPM %: 69.20% vs 77.2%
+NPM %: 38.80% vs 42.5%
 

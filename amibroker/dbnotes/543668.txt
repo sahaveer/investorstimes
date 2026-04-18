@@ -1,12 +1,20 @@
-CODES
-543668	BBTCL	
-SECTOR : Packaging
+CODES	543668	BBTCL	
+FULLNAME : B&B Triplewall Containers Ltd
+SECTOR : Industrial Products
 INDUSTRY : Packaging
+EXPANSION 2024
+PRODUCT DEMAND
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 92% YSales
+
+***CONS***
+- NEGATIVE YProfit : -5.5

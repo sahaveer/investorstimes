@@ -1,13 +1,12 @@
-CODES
-PURPLEUTED	
+CODES	PURPLEUTED	
+FULLNAME : Purple United Sales Ltd
 SECTOR : Retail
 INDUSTRY : Trading
 PRODUCT DEMAND
 YSD YPD 2025
 LYPD PM 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -18,6 +17,8 @@ ROCE in Mar2025 is at 15.1%
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2025, Sales have increased by 141.1% while the Profit QoQ_growth is at 117.2%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

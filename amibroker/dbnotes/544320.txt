@@ -1,15 +1,17 @@
-CODES
-544320	CARRARO	
+CODES	544320	CARRARO	
+FULLNAME : Carraro India Ltd
 SECTOR : Auto Ancillaries
 INDUSTRY : Auto Ancillaries
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
 
 Quarterly 
 31-Dec-2024 #Result

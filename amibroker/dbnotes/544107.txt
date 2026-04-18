@@ -1,38 +1,47 @@
-CODES
-544107	BLSE	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	544107	BLSE	
+FULLNAME : BLS E-Services Ltd
+SECTOR : IT - Services
+INDUSTRY : IT Enabled Services
+BestQ Dec 2025
 YSD YPD 2023
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   64.5   |   96.7   |  243.1   |  301.5   |  519.4  
- SQoQ%:  |   nan    |   49.9   |  151.4   |   24.0   |   72.3  
- YOPM%:  |   7.4    |   7.2    |   13.6   |   13.9   |   11.6  
- YNPM%:  |   4.9    |   5.6    |   7.8    |   10.4   |   10.1  
-YPROFIT: |   3.2    |   5.4    |   18.9   |   31.4   |   52.6  
- PQoQ%:  |   nan    |   70.8   |  250.9   |   66.3   |   67.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   73.6   |   75.4   |   77.2   |  127.6   |  239.2  
- QoQ%:  |   2.8    |   2.3    |   2.4    |   65.4   |   87.4  
- QOPM%: |   14.8   |   15.6   |   17.5   |   12.4   |   8.1   
- QNPM%: |   14.0   |   15.9   |   18.5   |   10.2   |   5.5   
- QPFT:  |   10.3   |   12.0   |   14.3   |   13.1   |   13.2  
- PQoQ%: |   38.2   |   16.3   |   19.3   |   -8.7   |   1.0   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 64.5		96.7		243.1		301.5		519.4		794.5
+SQoQ%: 	nan		49.9		151.4		24.0		72.3		153.0
+YOPM%: 	7.4		7.2		13.6		13.9		11.6
+YNPM%: 	4.9		5.6		7.8		10.4		10.1
+YPROFIT: 3.2		5.4		18.9		31.4		52.6		42.7
+PQoQ%: 	nan		70.8		250.9		66.3		67.4		81.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 127.6		239.2		244.0		269.8		280.7
+QoQ%: 	65.4		87.4		2.0		10.6		4.1
+QOPM%: 	12.4		8.1		7.3		7.4		5.9
+QNPM%: 	10.2		5.5		6.0		5.7		4.5
+QPFT: 	13.1		13.2		14.7		15.4		12.6
+PQoQ%: 	-8.7		1.0		11.2		5.1		-18.0
+
+
 
 ***PROS***
 A DEBT-Free Company for the last 2 yrs
+- Last 3QSALES is about 153% YSales
+- Last 3QPROFIT is about 81% of YProfit
 - YProfits and YSales DOUBLED in Mar2023
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2025, Sales have increased by 72.3% while the Profit QoQ_growth is at 67.4%
 
+***CONS***
+- NO PRODUCT DEMAND
+
 Yearly 
  31-Mar-2025 #Result
 519.40cr, QoQ 72.30% & YoY 705.27% SALES;
-60.50cr, QoQ 44.20% & YoY 1160.42% OPERATING PROFIT;
+60.10cr, QoQ 43.40% & YoY 1152.08% OPERATING PROFIT;
 52.60cr, QoQ 67.40% & YoY 1543.75% NET PROFIT;
 OPM %: 11.60% vs 13.9%
 NPM %: 10.10% vs 10.4%

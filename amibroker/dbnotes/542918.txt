@@ -1,13 +1,16 @@
-CODE	NAME
-542918 
+CODES	542918	
+FULLNAME : Gian Lifecare Ltd
+SECTOR : Healthcare Services
+INDUSTRY : Healthcare Service Provider
 
-SECTOR : Healthcare
-INDUSTRY : Healthcare
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+
+***CONS***
+- NO PRODUCT DEMAND

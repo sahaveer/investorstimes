@@ -1,40 +1,34 @@
-CODE	NAME
-504988 
+CODES	504988	
+FULLNAME : Welcast Steels Ltd
+SECTOR : Industrial Products
+INDUSTRY : Other Industrial Products
 
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Abrasives And Grinding Wheels
-LYPD PM 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 98.0		86.0		93.9		91.1		84.5		46.0
+SQoQ%: 	-34.7		-12.2		9.2		-3.0		-7.2		54.4
+YOPM%: 	0.0		0.1		4.9		4.9		0.0
+YNPM%: 	0.0		0.0		2.8		5.8		0.0
+YPROFIT: -1.8		-0.5		2.6		5.2		-0.3		-6.7
+PQoQ%: 	600.0		-73.1		-638.8		98.9		-106.5		2233.3
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  150.0   |   98.0   |   86.0   |   93.9   |   91.1   |      63.7    
- SQoQ%:  |  -44.4   |  -34.7   |  -12.2   |   9.2    |   -3.0   |      69.9    
- YOPM%:  |   0.6    |   0.0    |   0.1    |   4.9    |   4.9    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   2.8    |   5.8    |              
-YPROFIT: |   -0.3   |   -1.8   |   -0.5   |   2.6    |   5.2    |      -0.6    
- PQoQ%:  |  -114.1  |  600.0   |  -73.1   |  -638.8  |   98.9   |     -11.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   20.2   |   25.6   |   24.4   |   16.2   |   23.1  
- QoQ%:  |  -22.2   |   27.1   |   -4.8   |  -33.5   |   42.2  
- QOPM%: |   6.9    |   5.4    |   0.0    |   0.0    |   0.4   
- QNPM%: |   6.1    |   5.3    |   0.0    |   0.0    |   0.5   
- QPFT:  |   1.2    |   1.4    |   -0.6   |   -0.1   |   0.1   
- PQoQ%: |  -41.1   |   9.8    |  -143.0  |  -89.7   |  -283.3 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 23.1		20.8		22.8		20.6		2.6
+QoQ%: 	42.2		-9.8		9.5		-9.4		-87.3
+QOPM%: 	0.4		0.2		0.0		0.0		0.0
+QNPM%: 	0.5		0.9		0.0		0.0		0.0
+QPFT: 	0.1		0.2		-0.3		-3.2		-3.2
+PQoQ%: 	-283.3		72.7		-252.6		1013.8		-2.2
+
+
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 70% YSales
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
-- LastYr YProfits Doubled and maintained in Mar2024
+DEBT-Free Company for the last 3 yrs
+- Last 3QSALES is about 54% YSales
 
-Yearly 
- 31-Mar-2024 #Result
-91.10cr, QoQ -3.00% & YoY -39.27% SALES;
-4.50cr, QoQ -2.00% & YoY 400.00% OPERATING PROFIT;
-5.20cr, QoQ 98.90% & YoY -1833.33% NET PROFIT;
-OPM %: 4.90% vs 4.9%
-NPM %: 5.80% vs 2.8%
-
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -0.3

@@ -1,34 +1,43 @@
-CODES
-500112	SBIN	
+CODES	500112	SBIN	
+FULLNAME : State Bank of India
 SECTOR : Banks
-INDUSTRY : Banks - Public Sector
+INDUSTRY : Public Sector Bank
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 278115.5 | 289972.7 | 350844.6 | 439188.5 | 490937.8
- SQoQ%:  |   3.1    |   4.3    |   21.0   |   25.2   |   11.8  
- YOPM%:  |   30.7   |   31.9   |   41.8   |   45.4   |   47.8  
- YNPM%:  |   8.1    |   12.2   |   15.9   |   15.3   |   15.8  
-YPROFIT: | 22405.5  | 35373.9  | 55648.2  | 67084.7  | 77561.3 
- PQoQ%:  |   13.3   |   57.9   |   57.3   |   20.6   |   15.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 117469.4 | 118242.4 | 121044.7 | 124653.7 | 126997.0
- QoQ%:  |   4.1    |   0.7    |   2.4    |   3.0    |   1.9   
- QOPM%: |   44.3   |   54.3   |   48.2   |   47.9   |   41.4  
- QNPM%: |   18.2   |   16.3   |   16.3   |   15.1   |   15.4  
- QPFT:  | 21384.2  | 19325.0  | 19782.8  | 18853.2  | 19600.5 
- PQoQ%: |   93.3   |   -9.6   |   2.4    |   -4.7   |   4.0   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 278115.5		289972.7		350844.6		439188.5		490937.8		384358.9
+SQoQ%: 	3.1		4.3		21.0		25.2		11.8		78.3
+YOPM%: 	30.7		31.9		41.8		45.4		48.7
+YNPM%: 	8.1		12.2		15.9		15.3		15.8
+YPROFIT: 22405.5		35373.9		55648.2		67084.7		77561.3		63655.9
+PQoQ%: 	13.3		57.9		57.3		20.6		15.6		82.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 124653.7		126997.0		125728.7		128040.5		130589.7
+QoQ%: 	3.0		1.9		-1.0		1.8		2.0
+QOPM%: 	47.9		41.4		52.7		43.6		41.2
+QNPM%: 	15.1		15.4		16.9		16.5		16.3
+QPFT: 	18853.2		19600.5		21201.5		21137.3		21317.1
+PQoQ%: 	-4.7		4.0		8.2		-0.3		0.9
+
+
 
 ***PROS***
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 82% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 490937.80cr, QoQ 11.80% & YoY 76.52% SALES;
-234903.10cr, QoQ 17.80% & YoY 175.40% OPERATING PROFIT;
+238894.60cr, QoQ 19.80% & YoY 180.08% OPERATING PROFIT;
 77561.30cr, QoQ 15.60% & YoY 246.17% NET PROFIT;
-OPM %: 47.80% vs 45.4%
+OPM %: 48.70% vs 45.4%
 NPM %: 15.80% vs 15.3%
 

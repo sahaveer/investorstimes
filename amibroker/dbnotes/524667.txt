@@ -1,35 +1,44 @@
-CODES
-524667	SOTL	
-SECTOR : Petrochemicals
-INDUSTRY : Petrochemicals
+CODES	524667	SOTL	
+FULLNAME : Savita Oil Technologies Ltd
+SECTOR : Petroleum Products
+INDUSTRY : Lubricants
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1999.5  |  2936.6  |  3629.3  |  3740.3  |  3813.7 
- SQoQ%:  |   77.6   |   46.9   |   23.6   |   3.1    |   2.0   
- YOPM%:  |   15.6   |   12.2   |   9.3    |   6.8    |   4.2   
- YNPM%:  |   11.9   |   8.9    |   6.2    |   5.4    |   3.0   
-YPROFIT: |  237.2   |  260.5   |  225.7   |  200.8   |  113.2  
- PQoQ%:  |  1272.7  |   9.8    |  -13.4   |  -11.1   |  -43.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  973.3   |  955.5   |  907.2   |  945.4   |  1005.6 
- QoQ%:  |   1.6    |   -1.8   |   -5.1   |   4.2    |   6.4   
- QOPM%: |   3.3    |   4.9    |   3.8    |   2.3    |   4.8   
- QNPM%: |   3.2    |   4.2    |   3.4    |   1.3    |   2.9   
- QPFT:  |   30.8   |   39.8   |   31.0   |   12.5   |   29.2  
- PQoQ%: |  -54.3   |   29.4   |  -22.1   |  -59.8   |  134.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1999.5		2936.6		3629.3		3740.3		3812.7		3138.6
+SQoQ%: 	77.6		46.9		23.6		3.1		1.9		82.3
+YOPM%: 	15.6		12.2		9.3		6.8		4.2
+YNPM%: 	11.9		8.9		6.2		5.4		3.0
+YPROFIT: 237.2		260.5		225.7		200.8		113.2		134.6
+PQoQ%: 	1272.7		9.8		-13.4		-11.1		-43.6		118.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 945.4		1005.6		989.1		1075.9		1073.6
+QoQ%: 	4.2		6.4		-1.6		8.8		-0.2
+QOPM%: 	2.3		4.8		6.0		4.8		3.8
+QNPM%: 	1.3		2.9		5.7		3.8		3.5
+QPFT: 	12.5		29.2		56.0		40.6		38.0
+PQoQ%: 	-59.8		134.1		91.5		-27.5		-6.5
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 119% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-3813.70cr, QoQ 2.00% & YoY 90.73% SALES;
+3812.70cr, QoQ 1.90% & YoY 90.68% SALES;
 161.80cr, QoQ -36.30% & YoY -48.01% OPERATING PROFIT;
 113.20cr, QoQ -43.60% & YoY -52.28% NET PROFIT;
 OPM %: 4.20% vs 6.8%

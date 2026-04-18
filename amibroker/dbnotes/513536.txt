@@ -1,34 +1,36 @@
-CODE	NAME
-513536 
-
-SECTOR : Crude Oil & Natural Gas
-INDUSTRY : Oil Drilling / Allied Services
-EXPANSION 2023
-PRODUCT DEMAND
+CODES	513536	
+FULLNAME : Gujarat Natural Resources Ltd
+SECTOR : Oil
+INDUSTRY : Oil Exploration & Production
 YSD YPD 2024
-LYPD PM 2024
+LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -3.9
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Sep-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   10.7   |   8.1    |   8.4    |   13.3   |   27.4   |      11.3    
- SQoQ%:  |   35.1   |  -24.4   |   3.6    |   58.6   |  105.9   |      41.2    
- YOPM%:  |   15.5   |   1.9    |   0.0    |   7.5    |   20.2   |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |  -27.5   |   -4.2   |   -4.1   |   -6.2   |   -3.9   |      0.3     
- PQoQ%:  |  1078.5  |  -84.7   |   -2.4   |   51.6   |  -37.4   |      -7.7    
- QPNL:  | Sep-2023 | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   7.0    |   6.4    |   7.8    |   6.4    |   4.9   
- QoQ%:  |   14.2   |   -8.3   |   22.1   |  -18.2   |  -23.1  
- QOPM%: |   0.0    |   35.0   |   11.4   |   39.9   |   34.5  
- QNPM%: |   0.0    |   10.9   |   0.0    |   12.5   |   0.0   
- QPFT:  |   -3.0   |   0.7    |   -2.8   |   0.8    |   -0.5  
- PQoQ%: |  -350.8  |  -123.3  |  -495.7  |  -128.9  |  -157.5 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 8.1		8.4		13.3		27.4		20.0		19.3
+SQoQ%: 	-24.4		3.6		58.6		105.9		-26.8		96.5
+YOPM%: 	1.9		0.0		7.5		20.2		7.6
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -4.2		-4.1		-6.2		-3.9		-3.8		8.8
+PQoQ%: 	-84.7		-2.4		51.6		-37.4		-3.1		-231.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4.4		4.3		3.4		8.6		7.3
+QoQ%: 	-11.2		-1.1		-22.6		158.2		-15.4
+QOPM%: 	2.7		0.0		8.1		56.0		48.5
+QNPM%: 	0.0		0.0		57.6		44.4		41.9
+QPFT: 	-2.6		-1.6		1.9		3.8		3.1
+PQoQ%: 	463.0		-38.6		-221.4		99.0		-20.1
+
+
 
 ***PROS***
-EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
-- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 96% YSales
 - YProfits and YSales DOUBLED in Mar2024
-- LastYr YProfits Doubled and maintained in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -3.8

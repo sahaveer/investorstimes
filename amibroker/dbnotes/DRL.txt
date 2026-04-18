@@ -1,10 +1,11 @@
-CODES
-DRL	
+CODES	DRL	
+FULLNAME : Dhanuka Realty Ltd
 SECTOR : Construction
 INDUSTRY : Construction
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

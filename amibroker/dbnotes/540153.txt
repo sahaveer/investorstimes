@@ -1,29 +1,38 @@
-CODES
-540153	ENDURANCE	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
+CODES	540153	ENDURANCE	
+FULLNAME : Endurance Technologies Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  6547.0  |  7549.1  |  8804.0  | 10240.9  | 11560.8 
- SQoQ%:  |   -5.3   |   15.3   |   16.6   |   16.3   |   12.9  
- YOPM%:  |   15.9   |   12.8   |   11.8   |   13.0   |   13.4  
- YNPM%:  |   7.9    |   6.1    |   5.4    |   6.6    |   7.2   
-YPROFIT: |  519.7   |  460.7   |  479.6   |  680.5   |  836.4  
- PQoQ%:  |   -8.1   |  -11.4   |   4.1    |   41.9   |   22.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2684.8  |  2825.5  |  2912.7  |  2859.2  |  2963.5 
- QoQ%:  |   4.8    |   5.2    |   3.1    |   -1.8   |   3.6   
- QOPM%: |   14.5   |   13.2   |   13.1   |   13.0   |   14.3  
- QNPM%: |   7.8    |   7.2    |   7.0    |   6.4    |   8.3   
- QPFT:  |  210.2   |  203.9   |  203.0   |  184.4   |  245.1  
- PQoQ%: |   38.0   |   -3.0   |   -0.4   |   -9.2   |   32.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 6547.0		7549.1		8804.0		10240.9		11560.8		10509.9
+SQoQ%: 	-5.3		15.3		16.6		16.3		12.9		90.9
+YOPM%: 	15.9		12.8		11.8		13.0		13.4
+YNPM%: 	7.9		6.1		5.4		6.6		7.2
+YPROFIT: 519.7		460.7		479.6		680.5		836.4		675.3
+PQoQ%: 	-8.1		-11.4		4.1		41.9		22.9		80.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2859.2		2963.5		3318.9		3582.8		3608.2
+QoQ%: 	-1.8		3.6		12.0		8.0		0.7
+QOPM%: 	13.0		14.3		13.4		13.3		13.2
+QNPM%: 	6.4		8.3		6.8		6.3		6.1
+QPFT: 	184.4		245.1		226.4		227.3		221.6
+PQoQ%: 	-9.2		32.9		-7.7		0.4		-2.5
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 91% YSales
+- Last 3QPROFIT is about 81% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

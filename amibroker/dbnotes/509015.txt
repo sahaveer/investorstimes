@@ -1,28 +1,36 @@
-CODE	NAME
-509015 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	509015	
+FULLNAME : Thakral Services (India) Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 PRODUCT DEMAND
+LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -3.5
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   23.3   |   16.6   |   16.6   |   18.4   |   24.5   |      0.5     
- SQoQ%:  |   11.4   |  -28.8   |   0.0    |   11.2   |   33.0   |      2.0     
- YOPM%:  |   3.7    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   1.6    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   0.4    |   -1.9   |   -2.4   |   -3.3   |   -3.5   |      -0.3    
- PQoQ%:  |   76.2   |  -605.4  |   25.7   |   39.1   |   7.3    |      8.6     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   4.0    |   3.2    |   0.3    |   0.1    |   0.1   
- QoQ%:  |  -66.2   |  -18.3   |  -91.7   |  -74.1   |   28.6  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.5    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   0.0    |   -0.4   |   -0.1   |   -0.2   |   0.0   
- PQoQ%: |  -200.0  | -1950.0  |  -73.0   |   50.0   |  -100.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 16.6		16.6		18.4		24.5		0.5		0.4
+SQoQ%: 	-28.8		0.0		11.2		33.0		-97.9		80.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -1.9		-2.4		-3.3		-3.5		-0.2		-0.2
+PQoQ%: 	-605.4		25.7		39.1		7.3		-92.9		100.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.1		0.1		0.1		0.2		0.1
+QoQ%: 	28.6		0.0		55.6		14.3		-31.2
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		27.3
+QPFT: 	0.0		0.0		-0.1		-0.1		0.0
+PQoQ%: 	-100.0		nan		-inf		37.5		-127.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 80% YSales
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -0.2

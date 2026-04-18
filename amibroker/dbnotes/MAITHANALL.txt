@@ -1,38 +1,45 @@
-CODES
-590078	MAITHANALL	
-SECTOR : Ferro Alloys
-INDUSTRY : Mining / Minerals / Metals
-BestQ Dec 2024
+CODES	590078	MAITHANALL	
+FULLNAME : Maithan Alloys Ltd
+SECTOR : Ferrous Metals
+INDUSTRY : Ferro & Silica Manganese
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1816.3  |  1615.3  |  2988.6  |  2882.7  |  1726.5  |     1370.4   
- SQoQ%:  |   -8.2   |  -11.1   |   85.0   |   -3.5   |  -40.1   |      79.4    
- YOPM%:  |   12.9   |   18.2   |   36.0   |   20.4   |   6.7    |              
- YNPM%:  |   12.2   |   14.3   |   27.4   |   17.3   |   20.2   |              
-YPROFIT: |  222.0   |  230.8   |  818.1   |  499.1   |  349.0   |     691.1    
- PQoQ%:  |  -13.0   |   4.0    |  254.4   |  -39.0   |  -30.1   |     198.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  448.1   |  433.3   |  375.1   |  464.2   |  531.1  
- QoQ%:  |   1.0    |   -3.3   |  -13.4   |   23.8   |   14.4  
- QOPM%: |   7.8    |   1.5    |   5.7    |   10.6   |   5.5   
- QNPM%: |   19.0   |   32.8   |  121.7   |   31.0   |   17.1  
- QPFT:  |   85.3   |  142.1   |  456.5   |  143.8   |   90.8  
- PQoQ%: |   37.8   |   66.5   |  221.3   |  -68.5   |  -36.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1615.3		2988.6		2882.7		1726.5		1802.1		1613.4
+SQoQ%: 	-11.1		85.0		-3.5		-40.1		4.4		89.5
+YOPM%: 	18.2		36.0		20.4		6.7		9.9
+YNPM%: 	14.3		27.4		17.3		20.2		35.0
+YPROFIT: 230.8		818.1		499.1		349.0		630.2		504.0
+PQoQ%: 	4.0		254.4		-39.0		-30.1		80.6		80.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 531.1		435.2		632.3		490.8		490.3
+QoQ%: 	14.4		-18.0		45.3		-22.4		-0.1
+QOPM%: 	5.5		17.6		10.3		6.5		11.3
+QNPM%: 	17.1		0.0		84.8		0.0		18.1
+QPFT: 	90.8		-61.0		536.1		-121.0		88.9
+PQoQ%: 	-36.9		-167.2		-978.6		-122.6		-173.5
+
+
 
 ***PROS***
-DEBT-Free Company for the last 3 yrs
-- Last 3QSALES is about 79% YSales
-- Last 3QPROFIT is about 198% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 90% YSales
+- Last 3QPROFIT is about 80% of YProfit
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1726.50cr, QoQ -40.10% & YoY -4.94% SALES;
-115.80cr, QoQ -80.30% & YoY -50.68% OPERATING PROFIT;
-349.00cr, QoQ -30.10% & YoY 57.21% NET PROFIT;
-OPM %: 6.70% vs 20.4%
-NPM %: 20.20% vs 17.3%
+ 31-Mar-2025 #Result
+1802.10cr, QoQ 4.40% & YoY 11.56% SALES;
+179.20cr, QoQ 54.70% & YoY -39.11% OPERATING PROFIT;
+630.20cr, QoQ 80.60% & YoY 173.05% NET PROFIT;
+OPM %: 9.90% vs 6.7%
+NPM %: 35.00% vs 20.2%
 

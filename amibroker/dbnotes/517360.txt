@@ -1,44 +1,44 @@
-CODE	NAME
-517360 
+CODES	517360	
+FULLNAME : SBEC Systems (India) Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-BestQ Dec 2024
-YSD YPD 2022
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		3.0		3.2		3.2		3.2		2.5
+SQoQ%: 	nan		inf		6.1		1.0		2.2		78.1
+YOPM%: 	0.0		76.4		67.9		75.5		73.5
+YNPM%: 	0.0		43.8		35.2		41.8		75.1
+YPROFIT: -0.0		1.3		1.1		1.3		2.4		-0.3
+PQoQ%: 	-96.5		-3350.0		-14.6		19.8		83.5		-12.5
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   0.0    |   3.0    |   3.2    |   3.2    |      2.3     
- SQoQ%:  |   nan    |   nan    |   inf    |   6.1    |   1.3    |      71.9    
- YOPM%:  |   0.0    |   0.0    |   76.4   |   67.9   |   75.2   |              
- YNPM%:  |   0.0    |   0.0    |   43.8   |   35.2   |   41.7   |              
-YPROFIT: |   -1.1   |   -0.0   |   1.3    |   1.1    |   1.3    |      1.1     
- PQoQ%:  |  -88.9   |  -96.5   | -3350.0  |  -14.6   |   19.8   |      84.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.7    |   1.2    |   0.7    |   0.8    |   0.8   
- QoQ%:  |   7.7    |   67.1   |  -43.6   |   16.7   |   1.3   
- QOPM%: |   80.0   |   83.8   |   75.8   |   76.6   |   53.8  
- QNPM%: |   40.0   |   52.1   |   30.3   |   33.8   |   71.8  
- QPFT:  |   0.3    |   0.6    |   0.2    |   0.3    |   0.6   
- PQoQ%: |   16.7   |  117.9   |  -67.2   |   30.0   |  115.4  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.8		1.0		0.8		0.9		0.8
+QoQ%: 	1.3		33.3		-27.9		22.7		-12.0
+QOPM%: 	53.8		83.7		62.7		25.0		42.0
+QNPM%: 	71.8		136.5		29.3		0.0		0.0
+QPFT: 	0.6		1.4		0.2		-0.2		-0.3
+PQoQ%: 	115.4		153.6		-84.5		-186.4		52.6
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 112.0%
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 72% YSales
-- Last 3QPROFIT is about 85% of YProfit
-- YProfits and YSales DOUBLED in Mar2022
+ROCE in Mar2025 is at 33.4%
+- Last 3QSALES is about 78% YSales
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-3.20cr, QoQ 1.30% & YoY inf% SALES;
-2.40cr, QoQ 12.10% & YoY -340.00% OPERATING PROFIT;
-1.30cr, QoQ 19.80% & YoY -218.18% NET PROFIT;
-OPM %: 75.20% vs 67.9%
-NPM %: 41.70% vs 35.2%
+ 31-Mar-2025 #Result
+3.20cr, QoQ 2.20% & YoY inf% SALES;
+2.40cr, QoQ -0.40% & YoY -900.00% OPERATING PROFIT;
+2.40cr, QoQ 83.50% & YoY -inf% NET PROFIT;
+OPM %: 73.50% vs 75.5%
+NPM %: 75.10% vs 41.8%
 

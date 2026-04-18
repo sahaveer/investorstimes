@@ -1,26 +1,32 @@
-CODE	NAME
-521149 
-
+CODES	521149	
+FULLNAME : Prime Urban Development India Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
 
-***CONS***
-- NEGATIVE YProfit : -2.0
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   52.4   |   20.6   |   11.5   |   12.4   |   10.6   |      0.1     
- SQoQ%:  |  -65.5   |  -60.7   |  -44.3   |   8.2    |  -14.3   |      0.9     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -6.5   |   -1.7   |   -2.5   |   -0.5   |   -2.0   |      -0.9    
- PQoQ%:  |  113.9   |  -73.6   |   48.0   |  -81.0   |  325.0   |      45.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   5.4    |   1.4    |   0.1    |   0.0    |   0.0   
- QoQ%:  |  183.2   |  -73.9   |  -90.1   |  -100.0  |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.6   |   -0.5   |   -0.4   |   -0.5   |   -0.0  
- PQoQ%: |   46.2   |  -14.0   |   -8.2   |   4.4    |  -89.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 20.6		11.5		12.4		10.6		3.6		0.0
+SQoQ%: 	-60.7		-44.3		8.2		-14.3		-66.2		0.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		34.8
+YPROFIT: -1.7		-2.5		-0.5		-2.0		1.2		-0.1
+PQoQ%: 	-73.6		48.0		-81.0		325.0		-161.3		-8.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		3.4		0.0		0.0		0.0
+QoQ%: 	nan		inf		-100.0		nan		nan
+QOPM%: 	0.0		27.5		0.0		0.0		0.0
+QNPM%: 	0.0		64.3		0.0		inf		0.0
+QPFT: 	-0.0		2.2		-0.2		0.3		-0.2
+PQoQ%: 	-89.4		-4540.0		-108.6		-273.7		-148.5
+
+
 
 ***PROS***
+- YProfit Turned POSITIVE this year Mar-2025 : 1.2
+
+***CONS***
+- NO PRODUCT DEMAND

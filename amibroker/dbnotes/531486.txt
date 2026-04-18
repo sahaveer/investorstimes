@@ -1,29 +1,34 @@
-CODE	NAME
-531486 
-
+CODES	531486	
+FULLNAME : Filmcity Media Ltd
 SECTOR : Entertainment
 INDUSTRY : Entertainment / Electronic Media Software
 YSD YPD 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   0.0    |   0.0    |   0.0    |   2.0    |      1.2     
- SQoQ%:  |   nan    |   nan    |   nan    |   nan    |   inf    |      60.0    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   4.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   4.5    |              
-YPROFIT: |   -0.0   |   -0.0   |   -0.1   |   -0.4   |   0.1    |      0.0     
- PQoQ%:  |   0.0    |   0.0    |  1000.0  |  236.4   |  -124.3  |      0.0     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.3    |   1.7    |   0.6    |   0.6    |   0.0   
- QoQ%:  |  400.0   |  453.3   |  -63.9   |   8.3    |  -100.0 
- QOPM%: |   0.0    |   56.6   |   0.0    |   1.5    |   0.0   
- QNPM%: |   0.0    |   56.6   |   0.0    |   0.0    |   0.0   
- QPFT:  |   0.0    |   0.9    |   -0.0   |   0.0    |   -0.0  
- PQoQ%: |  -100.0  |   inf    |  -103.2  |  -100.0  |   -inf  
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2022	Mar-2023	Mar-2024	QSUM:Dec-2024
+YSALES: 	0.0		0.0		0.0		0.0		2.0		1.2
+SQoQ%: 	nan		nan		nan		nan		inf		60.0
+YOPM%: 	0.0		0.0		0.0		0.0		4.0
+YNPM%: 	0.0		0.0		0.0		0.0		4.5
+YPROFIT: 	-0.0		-0.0		-0.1		-0.4		0.1		0.0
+PQoQ%: 	0.0		0.0		1000.0		236.4		-124.3		0.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2023		Mar-2024	Jun-2024	Sep-2024		Dec-2024
+QSALES: 	0.3		1.7		0.6		0.6		0.0
+QoQ%: 	400.0		453.3		-63.9		8.3		-100.0
+QOPM%: 	0.0		56.6		0.0		1.5		0.0
+QNPM%: 	0.0		56.6		0.0		0.0		0.0
+QPFT: 	0.0		0.9		-0.0		0.0		-0.0
+PQoQ%: 	-100.0		inf		-103.2		-100.0		-inf
+
+
 
 ***PROS***
 - Last 3QSALES is about 60% YSales
 - YProfit Turned POSITIVE this year Mar-2024 : 0.1
 - YProfits and YSales DOUBLED in Mar2024
+
+***CONS***

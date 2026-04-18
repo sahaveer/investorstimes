@@ -119,7 +119,13 @@ def amibroker_notes_insights(metadata):
     for each in metadata['code_names']: sentence += f"{each}\t"
     
     if 'comp_metadata' in metadata.keys():
-        sentence += f"\nFULLNAME : {metadata['comp_metadata']['comp_fullname']}\nSECTOR : {metadata['comp_metadata']['sector']}\nINDUSTRY : {metadata['comp_metadata']['industry']}"
+        sentence += f"\nFULLNAME : "
+        if 'comp_fullname' in metadata['comp_metadata'].keys():
+            sentence += f"{metadata['comp_metadata']['comp_fullname']}\n"
+        if 'sector' in metadata['comp_metadata'].keys():
+            sentence += f"SECTOR : {metadata['comp_metadata']['sector']}"
+        if 'industry' in metadata['comp_metadata'].keys():
+            sentence += f"\nINDUSTRY : {metadata['comp_metadata']['industry']}"
     sentence += "\n"
     if 'metadata' in metadata.keys():
         if 'tags' in metadata['metadata'].keys():

@@ -1,18 +1,20 @@
-CODES
-544225	OLAELEC	
+CODES	544225	OLAELEC	
+FULLNAME : Ola Electric Mobility Ltd
 SECTOR : Automobile
 INDUSTRY : Automobiles - Motorcycles / Mopeds
 PRODUCT DEMAND
 YSD YPD 2023
 
-***CONS***
-- NEGATIVE YProfit : -1584.4
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - Last 3QSALES is about 78% YSales
 - YProfits and YSales DOUBLED in Mar2023
+
+***CONS***
+- NEGATIVE YProfit : -1584.4

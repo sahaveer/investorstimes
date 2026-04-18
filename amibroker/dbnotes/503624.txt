@@ -1,31 +1,35 @@
-CODE	NAME
-503624 
-
-SECTOR : Trading
-INDUSTRY : Trading
-EXPANSION 2023
+CODES	503624	
+FULLNAME : Svaraj Trading & Agencies Ltd
+SECTOR : Finance
+INDUSTRY : Other Financial Services
 EXPANSION 2024
+EXPANSION 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.0    |   0.6    |   0.5    |   0.0    |   0.0    |      0.0     
- SQoQ%:  |  -19.0   |  -40.2   |  -16.4   |  -100.0  |   nan    |      nan     
- YOPM%:  |   58.8   |   34.4   |   37.3   |   0.0    |   0.0    |              
- YNPM%:  |   98.0   |  123.0   |  102.0   |   0.0    |   0.0    |              
-YPROFIT: |   1.0    |   0.8    |   0.5    |   -0.1   |   -0.0   |      -0.6    
- PQoQ%:  |  -23.1   |  -25.0   |  -30.7   |  -115.4  |  -87.5   |      inf     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   inf    |   inf    |   0.0    |   0.0    |   0.0   
- QPFT:  |   0.0    |   0.1    |   -0.2   |   -0.2   |   -0.2  
- PQoQ%: |  -114.3  |  1300.0  |  -221.4  |  -11.8   |   0.0   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.6		0.5		0.0		0.0		0.0		1.2
+SQoQ%: 	-40.2		-16.4		-100.0		nan		nan		inf
+YOPM%: 	34.4		37.3		0.0		0.0		0.0
+YNPM%: 	123.0		102.0		0.0		0.0		0.0
+YPROFIT: 0.8		0.5		-0.1		-0.0		-0.7		0.6
+PQoQ%: 	-25.0		-30.7		-115.4		-87.5		7000.0		-85.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		1.2		0.0		0.0
+QoQ%: 	nan		nan		inf		-100.0		nan
+QOPM%: 	0.0		0.0		87.7		0.0		0.0
+QNPM%: 	0.0		0.0		83.6		0.0		0.0
+QPFT: 	-0.2		-0.2		1.0		-0.2		-0.2
+PQoQ%: 	0.0		53.3		-543.5		-120.6		4.8
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
 
+***CONS***
+- NEGATIVE YProfit : -0.7

@@ -1,27 +1,43 @@
-CODES
-544167	JNKINDIA	
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+CODES	544167	JNKINDIA	
+FULLNAME : JNK India Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 137.7		296.4		407.1		480.2		476.6		480.1
+SQoQ%: 	nan		115.2		37.3		18.0		-0.7		100.7
+YOPM%: 	18.4		18.2		17.0		20.7		9.8
+YNPM%: 	12.0		12.1		11.4		13.0		6.3
+YPROFIT: 16.5		36.0		46.4		62.6		30.2		32.5
+PQoQ%: 	nan		118.3		28.8		35.1		-51.8		107.6
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 93.9		190.9		99.1		178.4		202.6
+QoQ%: 	-9.7		103.4		-48.1		80.0		13.6
+QOPM%: 	7.1		9.7		3.3		9.3		12.8
+QNPM%: 	3.0		6.9		1.1		7.4		9.0
+QPFT: 	2.8		13.2		1.1		13.2		18.2
+PQoQ%: 	-63.4		366.2		-91.5		1067.3		37.8
 
 
 
 ***PROS***
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 26.2%
-- Last 3QSALES is about 59% YSales
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 17.9% while the Profit QoQ_growth is much better than Sales itself at 34.5%
+- Last 3QSALES is about 101% YSales
+- Last 3QPROFIT is about 108% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-480.20cr, QoQ 17.90% SALES;
-99.30cr, QoQ 43.00% OPERATING PROFIT;
-62.60cr, QoQ 34.50% NET PROFIT;
-OPM %: 20.70% vs 17.1%
-NPM %: 13.00% vs 11.4%
+ 31-Mar-2025 #Result
+476.60cr, QoQ -0.70% & YoY 246.11% SALES;
+46.50cr, QoQ -53.20% & YoY 83.79% OPERATING PROFIT;
+30.20cr, QoQ -51.80% & YoY 83.03% NET PROFIT;
+OPM %: 9.80% vs 20.7%
+NPM %: 6.30% vs 13.0%
 

@@ -1,13 +1,14 @@
-CODE	NAME
-530215 
+CODES	530215	
+FULLNAME : Kings Infra Ventures Ltd
+SECTOR : Food Products
+INDUSTRY : Seafood
 
-SECTOR : FMCG
-INDUSTRY : Aquaculture
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

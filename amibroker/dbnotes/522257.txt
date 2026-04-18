@@ -1,39 +1,47 @@
-CODE	NAME
-522257 
-
-SECTOR : Engineering
-INDUSTRY : Engineering
+CODES	522257	RAJOOENG	
+FULLNAME : Rajoo Engineers Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 PRODUCT DEMAND
+BestQ Dec 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  169.6   |  190.0   |  159.8   |  197.1   |  253.7  
- SQoQ%:  |   71.6   |   12.1   |  -15.9   |   23.4   |   28.7  
- YOPM%:  |   12.3   |   11.9   |   8.8    |   13.5   |   18.4  
- YNPM%:  |   7.1    |   7.9    |   7.2    |   10.7   |   15.0  
-YPROFIT: |   12.0   |   15.1   |   11.5   |   21.0   |   38.1  
- PQoQ%:  |  687.6   |   25.3   |  -23.9   |   82.9   |   81.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   52.7   |   50.9   |   56.8   |   56.1   |   89.9  
- QoQ%:  |  -12.3   |   -3.4   |   11.7   |   -1.3   |   60.3  
- QOPM%: |   17.0   |   14.0   |   16.1   |   19.3   |   21.7  
- QNPM%: |   13.4   |   10.8   |   14.0   |   16.8   |   17.0  
- QPFT:  |   7.1    |   5.5    |   7.9    |   9.4    |   15.3  
- PQoQ%: |   16.3   |  -22.7   |   45.0   |   18.5   |   62.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 169.6		190.0		159.8		197.1		253.6		264.9
+SQoQ%: 	71.6		12.1		-15.9		23.4		28.7		104.5
+YOPM%: 	12.3		11.9		8.8		13.5		18.4
+YNPM%: 	7.1		7.9		7.2		10.7		15.0
+YPROFIT: 12.0		15.1		11.5		21.0		38.1		46.0
+PQoQ%: 	687.6		25.3		-23.9		82.9		81.4		120.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 56.1		89.9		85.1		92.2		87.6
+QoQ%: 	-1.3		60.3		-5.4		8.4		-5.0
+QOPM%: 	19.3		21.7		21.8		19.8		25.4
+QNPM%: 	16.8		17.0		17.7		15.4		19.2
+QPFT: 	9.4		15.3		15.0		14.2		16.8
+PQoQ%: 	18.5		62.9		-1.9		-5.6		18.8
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 104% YSales
+- Last 3QPROFIT is about 121% of YProfit
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 28.7% while the Profit QoQ_growth is much better than Sales itself at 81.4%
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
-253.70cr, QoQ 28.70% & YoY 49.59% SALES;
+253.60cr, QoQ 28.70% & YoY 49.53% SALES;
 46.60cr, QoQ 74.70% & YoY 122.97% OPERATING PROFIT;
 38.10cr, QoQ 81.40% & YoY 217.50% NET PROFIT;
 OPM %: 18.40% vs 13.5%

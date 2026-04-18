@@ -1,11 +1,21 @@
-CODE	NAME
-543545 
+CODES	543545	
+FULLNAME : Veerkrupa Jewellers Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***
+- NO PRODUCT DEMAND
+
+Yearly 
+ 31-Mar-2025 #Result
+29.30cr, QoQ 111.30% & YoY 536.96% SALES;
+0.20cr, QoQ -19.40% & YoY inf% OPERATING PROFIT;
+0.20cr, QoQ -16.70% & YoY inf% NET PROFIT;
+OPM %: 0.90% vs 2.2%
+NPM %: 0.70% vs 1.7%
+

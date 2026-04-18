@@ -1,24 +1,23 @@
-CODE	NAME
-543544 
+CODES	543544	
+FULLNAME : Jayant Infratech Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Engineering - Turnkey Services
-PRODUCT DEMAND
-
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 36.2% while the Profit QoQ_growth is much better than Sales itself at 72.7%
 
-YSALES in Mar-2024 is at 89.3 showing a QoQ_growth of 110.2%. The YNETPROFIT grew by 36.8% to 4.9
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-89.30cr, QoQ 110.20% & YoY 163.42% SALES;
-7.10cr, QoQ 52.00% & YoY 222.73% OPERATING PROFIT;
-4.90cr, QoQ 36.80% & YoY 276.92% NET PROFIT;
-OPM %: 8.00% vs 11.0%
-NPM %: 5.50% vs 8.4%
+ 31-Mar-2025 #Result
+121.60cr, QoQ 36.20% & YoY 245.45% SALES;
+11.10cr, QoQ 56.20% & YoY 382.61% OPERATING PROFIT;
+8.40cr, QoQ 72.70% & YoY 500.00% NET PROFIT;
+OPM %: 9.20% vs 8.0%
+NPM %: 6.90% vs 5.5%
 

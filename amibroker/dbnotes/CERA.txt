@@ -1,36 +1,42 @@
-CODES
-532443	CERA	
-SECTOR : Ceramic Products
-INDUSTRY : Ceramics - Tiles / Sanitaryware
+CODES	532443	CERA	
+FULLNAME : Cera Sanitaryware Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Sanitary Ware
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1224.3  |  1445.8  |  1810.5  |  1879.4  |  1926.2 
- SQoQ%:  |   0.1    |   18.1   |   25.2   |   3.8    |   2.5   
- YOPM%:  |   12.9   |   15.8   |   16.6   |   16.2   |   15.6  
- YNPM%:  |   8.2    |   10.5   |   11.6   |   12.7   |   12.8  
-YPROFIT: |  100.8   |  151.1   |  209.4   |  239.0   |  246.5  
- PQoQ%:  |  -11.0   |   49.9   |   38.6   |   14.1   |   3.1   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  548.8   |  400.7   |  492.6   |  452.3   |  580.6  
- QoQ%:  |   25.0   |  -27.0   |   22.9   |   -8.2   |   28.3  
- QOPM%: |   17.3   |   14.5   |   14.6   |   13.6   |   18.6  
- QNPM%: |   13.7   |   11.7   |   13.8   |   10.1   |   14.7  
- QPFT:  |   74.9   |   47.1   |   68.0   |   45.8   |   85.6  
- PQoQ%: |   47.3   |  -37.2   |   44.5   |  -32.6   |   86.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 1224.3		1445.8		1810.5		1879.4		1926.2
+SQoQ%: 	0.1		18.1		25.2		3.8		2.5
+YOPM%: 	12.9		15.8		16.6		16.2		15.7
+YNPM%: 	8.2		10.5		11.6		12.7		12.8
+YPROFIT: 100.8		151.1		209.4		239.0		246.5
+PQoQ%: 	-11.0		49.9		38.6		14.1		3.1
+
+
+
+***QUARTERLY***
+QPNL: 	Jun-2024	Sep-2024	Dec-2024	Mar-2025	Jun-2025
+QSALES: 400.7		492.6		452.3		580.6		422.2
+QoQ%: 	-27.0		22.9		-8.2		28.3		-27.3
+QOPM%: 	14.5		14.6		13.6		18.6		13.0
+QNPM%: 	11.7		13.8		10.1		14.7		11.0
+QPFT: 	47.1		68.0		45.8		85.6		46.6
+PQoQ%: 	-37.2		44.5		-32.6		86.9		-45.6
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 27.6%
+ROCE in Mar2025 is at 28.0%
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
 1926.20cr, QoQ 2.50% & YoY 57.33% SALES;
-299.80cr, QoQ -1.20% & YoY 89.63% OPERATING PROFIT;
+302.10cr, QoQ -0.50% & YoY 91.08% OPERATING PROFIT;
 246.50cr, QoQ 3.10% & YoY 144.54% NET PROFIT;
-OPM %: 15.60% vs 16.2%
+OPM %: 15.70% vs 16.2%
 NPM %: 12.80% vs 12.7%
 

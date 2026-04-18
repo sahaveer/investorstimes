@@ -1,14 +1,13 @@
-CODES
-SAHANA	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	SAHANA	
+FULLNAME : Sahana Systems Ltd
+SECTOR : IT - Services
+INDUSTRY : IT Enabled Services
 EXPANSION 2024
 EXPANSION 2025
 YSD YPD 2024
 LYPD PM 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -18,6 +17,8 @@ ROCE in Mar2025 is at 16.4%
 - YProfits and YSales DOUBLED in Mar2024
 - LastYr YProfits Doubled and maintained in Mar2025
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

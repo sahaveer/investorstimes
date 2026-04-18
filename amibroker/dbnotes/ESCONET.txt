@@ -1,26 +1,26 @@
-CODES
-ESCONET	
+CODES	ESCONET	
+FULLNAME : Esconet Technologies Ltd
 SECTOR : IT - Hardware
-INDUSTRY : Computers - Hardware
-LYPD PM 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+INDUSTRY : Computers Hardware & Equipments
+PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 17.6%
-- LastYr YProfits Doubled and maintained in Mar2024
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 45.3% while the Profit QoQ_growth is much better than Sales itself at 74.9%
+A DEBT-Free Company
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 63.7% while the Profit QoQ_growth is at 30.0%
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-137.50cr, QoQ 45.30% SALES;
-9.50cr, QoQ 57.30% OPERATING PROFIT;
-5.30cr, QoQ 74.90% NET PROFIT;
-OPM %: 6.90% vs 6.4%
-NPM %: 3.90% vs 3.2%
+ 31-Mar-2025 #Result
+225.10cr, QoQ 63.70% & YoY 410.43% SALES;
+7.80cr, QoQ -18.00% & YoY 7700.00% OPERATING PROFIT;
+6.90cr, QoQ 30.00% & YoY -790.00% NET PROFIT;
+OPM %: 3.50% vs 6.9%
+NPM %: 3.10% vs 3.9%
 

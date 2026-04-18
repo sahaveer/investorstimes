@@ -1,12 +1,14 @@
-CODES
-GSMFOILS	
-SECTOR : Non Ferrous Metals
-INDUSTRY : Aluminium and Aluminium Products
+CODES	GSMFOILS	
+FULLNAME : GSM Foils Ltd
+SECTOR : Industrial Products
+INDUSTRY : Packaging
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

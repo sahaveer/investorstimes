@@ -1,28 +1,36 @@
-CODES
-507438	IFBAGRO	
-SECTOR : Alcoholic Beverages
+CODES	507438	IFBAGRO	
+FULLNAME : IFB Agro Industries Ltd
+SECTOR : Beverages
 INDUSTRY : Breweries & Distilleries
+BestQ Dec 2025
 
-***CONS***
-- NEGATIVE YProfit : -8.1
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  985.8   |  701.5   |  1011.4  |  1246.6  |  931.6   |     827.0    
- SQoQ%:  |   4.3    |  -28.8   |   44.2   |   23.3   |  -25.3   |      88.8    
- YOPM%:  |   2.7    |   7.9    |   7.4    |   5.9    |   0.0    |              
- YNPM%:  |   2.3    |   6.6    |   5.8    |   3.9    |   0.0    |              
-YPROFIT: |   22.2   |   46.4   |   58.5   |   49.1   |   -8.1   |      21.7    
- PQoQ%:  |  -29.2   |  109.0   |   26.2   |  -16.1   |  -116.4  |     -267.9   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  244.5   |  216.0   |  265.2   |  266.8   |  295.0  
- QoQ%:  |   2.2    |  -11.6   |   22.8   |   0.6    |   10.6  
- QOPM%: |   0.0    |   0.0    |   3.5    |   1.9    |   4.5   
- QNPM%: |   0.0    |   0.0    |   3.1    |   0.8    |   3.8   
- QPFT:  |   -5.0   |   -2.8   |   8.3    |   2.1    |   11.3  
- PQoQ%: |  140.5   |  -44.0   |  -394.7  |  -74.9   |  439.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 701.5		1011.4		1246.6		931.6		1059.2		1036.5
+SQoQ%: 	-28.8		44.2		23.3		-25.3		13.7		97.9
+YOPM%: 	7.9		7.4		5.9		0.0		3.5
+YNPM%: 	6.6		5.8		3.9		0.0		2.1
+YPROFIT: 46.4		58.5		49.1		-8.1		22.3		47.2
+PQoQ%: 	109.0		26.2		-16.1		-116.4		-376.5		211.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 295.0		232.2		292.8		402.0		341.7
+QoQ%: 	10.6		-21.3		26.1		37.3		-15.0
+QOPM%: 	4.5		3.8		7.5		9.3		5.3
+QNPM%: 	3.8		0.3		5.9		5.6		2.1
+QPFT: 	11.3		0.6		17.2		22.7		7.3
+PQoQ%: 	439.7		-94.4		2627.0		32.1		-67.8
+
+
 
 ***PROS***
-A DEBT-Free Company
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 89% YSales
+A DEBT-Free Company for the last 2 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 98% YSales
+- Last 3QPROFIT is about 212% of YProfit
+- YProfit Turned POSITIVE this year Mar-2025 : 22.3
+
+***CONS***

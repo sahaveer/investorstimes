@@ -1,28 +1,35 @@
-CODE	NAME
-524590 
+CODES	524590	
+FULLNAME : Hemo Organic Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+PRODUCT DEMAND
+YSD YPD 2025
 
-SECTOR : Trading
-INDUSTRY : Trading
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		0.0		0.0		0.0		2.4		0.0
+SQoQ%: 	-96.3		0.0		-100.0		inf		11950.0		0.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		6.6
+YPROFIT: -0.0		-0.1		-0.0		-0.3		0.2		-0.3
+PQoQ%: 	150.0		20.0		-16.7		420.0		-161.5		-150.0
 
-***CONS***
-- NEGATIVE YProfit : -0.3
-  YPNL   |   :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+-------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  0.3  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- SQoQ%:  | 440.0 |  -96.3   |   0.0    |  -100.0  |   inf    |   nan    |              
- YOPM%:  |  0.0  |   0.0    |   0.0    |   0.0    |   0.0    |          |              
- YNPM%:  |  0.0  |   0.0    |   0.0    |   0.0    |   0.0    |          |              
-YPROFIT: |  -0.0 |   -0.0   |   -0.1   |   -0.0   |   -0.3   |   -0.4   |              
- PQoQ%:  | -83.3 |  150.0   |   20.0   |  -16.7   |  420.0   |  133.3   |              
-  QPNL  |   :   | Jun-2023 | Sep-2023 | Mar-2024 | Sep-2024 | Dec-2024
---------+-------+----------+----------+----------+----------+---------
-QSALES: |  0.0  |   0.0    |   0.0    |   0.0    |   0.0    |         
- QoQ%:  |  nan  |   nan    |   inf    |  -100.0  |   nan    |         
- QOPM%: |  0.0  |   inf    |   0.0    |   0.0    |   0.0    |         
- QNPM%: |  0.0  |   inf    |   0.0    |   0.0    |   0.0    |         
- QPFT:  |  -0.0 |   0.0    |   -0.2   |   -0.1   |   -0.1   |         
- PQoQ%: | -20.0 |  -125.0  | -2400.0  |  -65.2   |   62.5   |         
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		2.4		0.0		0.0		0.0
+QoQ%: 	nan		inf		-100.0		nan		nan
+QOPM%: 	0.0		6.2		0.0		0.0		0.0
+QNPM%: 	0.0		15.4		0.0		0.0		0.0
+QPFT: 	-0.1		0.4		-0.1		-0.0		-0.2
+PQoQ%: 	0.0		-562.5		-124.3		-66.7		433.3
+
+
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YProfit Turned POSITIVE this year Mar-2025 : 0.2
+- YProfits and YSales DOUBLED in Mar2025
 
-YSALES in Mar-2024 is at 0.0 showing a QoQ_growth of inf%. The YNETPROFIT grew by 420.0% to -0.3
+***CONS***

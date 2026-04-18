@@ -1,14 +1,17 @@
-CODES
-532994	ARCHIDPLY	
-SECTOR : Plywood Boards/Laminates
-INDUSTRY : Miscellaneous
+CODES	532994	ARCHIDPLY	
+FULLNAME : Archidply Industries Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Plywood Boards/ Laminates
+
+***YEARLY***
+
+
+***QUARTERLY***
+
+
+***PROS***
+- Last 3QSALES is about 89% YSales
 
 ***CONS***
 - NO PRODUCT DEMAND
 - NEGATIVE YProfit : -7.4
-
-
-
-
-
-***PROS***

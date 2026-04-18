@@ -1,15 +1,17 @@
-CODES
-544367	QPOWER	
+CODES	544367	QPOWER	
+FULLNAME : Quality Power Electrical Equipments Ltd
 SECTOR : Capital Goods - Electrical Equipment
 INDUSTRY : Electric Equipment
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
 
 Quarterly 
 31-Dec-2024 #Result

@@ -1,26 +1,49 @@
-CODE	NAME
-540198 
+CODES	540198	
+FULLNAME : Osiajee Texfab Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+PRODUCT DEMAND
+BestQ Dec 2025
+YSD YPD 2025
 
-SECTOR : Trading
-INDUSTRY : Trading
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 5.0		2.9		2.4		2.4		7.1		4.5
+SQoQ%: 	nan		-41.4		-15.5		-2.9		197.9		63.4
+YOPM%: 	10.9		21.4		49.4		60.9		74.6
+YNPM%: 	8.1		24.5		45.7		48.7		70.5
+YPROFIT: 0.4		0.7		1.1		1.2		5.0		3.4
+PQoQ%: 	nan		77.5		57.7		3.6		331.0		68.0
 
-***CONS***
 
 
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.8		4.9		0.8		2.5		1.2
+QoQ%: 	0.0		539.5		-83.5		210.0		-50.8
+QOPM%: 	51.3		75.1		46.2		67.7		72.1
+QNPM%: 	52.6		74.5		50.0		85.1		72.1
+QPFT: 	0.4		3.6		0.4		2.1		0.9
+PQoQ%: 	0.0		805.0		-89.0		427.5		-58.3
 
 
 
 ***PROS***
-- Last 3QSALES is about 112% YSales
-- Last 3QPROFIT is about 117% of YProfit
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 63% YSales
+- Last 3QPROFIT is about 68% of YProfit
+- YProfits and YSales DOUBLED in Mar2025
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+YSALES in Mar-2025 is at 7.1 showing a QoQ_growth of 197.9%. The YNETPROFIT grew by 331.0% to 5.0
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-2.40cr, QoQ -2.90% SALES;
-1.40cr, QoQ 19.80% OPERATING PROFIT;
-1.20cr, QoQ 3.60% NET PROFIT;
-OPM %: 60.90% vs 49.4%
-NPM %: 48.70% vs 45.7%
+ 31-Mar-2025 #Result
+7.10cr, QoQ 197.90% & YoY 42.00% SALES;
+5.30cr, QoQ 264.80% & YoY 960.00% OPERATING PROFIT;
+5.00cr, QoQ 331.00% & YoY 1150.00% NET PROFIT;
+OPM %: 74.60% vs 60.9%
+NPM %: 70.50% vs 48.7%
 

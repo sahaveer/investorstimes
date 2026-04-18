@@ -1,20 +1,45 @@
-CODES
-KARNIKA	
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
+CODES	KARNIKA	
+FULLNAME : Karnika Industries Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Garments & Apparels
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 47.3		98.3		123.9		126.5		170.8		163.4
+SQoQ%: 	nan		107.7		26.0		2.1		35.0		95.7
+YOPM%: 	4.4		9.8		12.3		14.3		15.3
+YNPM%: 	1.7		4.6		6.6		8.0		10.6
+YPROFIT: 0.8		4.5		8.2		10.1		18.0		18.8
+PQoQ%: 	nan		453.7		80.2		23.5		78.5		104.4
+
+
+
+***QUARTERLY***
+QPNL: 	Sep-2024	Dec-2024	Jun-2025	Sep-2025	Dec-2025
+QSALES: 71.1		15.0		33.3		69.7		60.4
+QoQ%: 	nan		-78.9		121.3		109.5		-13.4
+QOPM%: 	14.2		20.1		15.0		20.7		16.2
+QNPM%: 	10.2		9.4		9.3		13.5		10.4
+QPFT: 	7.3		1.4		3.1		9.4		6.3
+PQoQ%: 	nan		-80.6		118.4		204.9		-33.0
 
 
 
 ***PROS***
+- Last 3QSALES is about 96% YSales
+- Last 3QPROFIT is about 104% of YProfit
+
+YSALES in Mar-2025 is at 170.8 showing a QoQ_growth of 35.0%. The YNETPROFIT grew by 78.5% to 18.0
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-126.50cr, QoQ 2.10% SALES;
-18.10cr, QoQ 19.10% OPERATING PROFIT;
-10.10cr, QoQ 23.50% NET PROFIT;
-OPM %: 14.30% vs 12.3%
-NPM %: 8.00% vs 6.6%
+ 31-Mar-2025 #Result
+170.80cr, QoQ 35.00% & YoY 261.10% SALES;
+26.10cr, QoQ 44.30% & YoY 1142.86% OPERATING PROFIT;
+18.00cr, QoQ 78.50% & YoY 2150.00% NET PROFIT;
+OPM %: 15.30% vs 14.3%
+NPM %: 10.60% vs 8.0%
 

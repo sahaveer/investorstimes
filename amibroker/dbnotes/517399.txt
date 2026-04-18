@@ -1,15 +1,16 @@
-CODE	NAME
-517399 
+CODES	517399	
+FULLNAME : VXL Instruments Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Consumer Electronics
 
-SECTOR : IT - Hardware
-INDUSTRY : Computers - Hardware
+***YEARLY***
+
+
+***QUARTERLY***
+
+
+***PROS***
 
 ***CONS***
 - NO PRODUCT DEMAND
 - NEGATIVE YProfit : -4.6
-
-
-
-
-
-***PROS***

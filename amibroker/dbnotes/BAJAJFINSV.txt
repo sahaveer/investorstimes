@@ -1,36 +1,45 @@
-CODES
-532978	BAJAJFINSV	
+CODES	532978	BAJAJFINSV	
+FULLNAME : Bajaj Finserv Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Holding Company
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 60591.5  | 68406.3  | 82071.7  | 110382.3 | 133821.0
- SQoQ%:  |   11.5   |   12.9   |   20.0   |   34.5   |   21.2  
- YOPM%:  |   32.4   |   31.4   |   36.4   |   37.0   |   36.8  
- YNPM%:  |   7.4    |   6.7    |   7.8    |   7.4    |   6.6   
-YPROFIT: |  4470.5  |  4556.8  |  6417.3  |  8147.8  |  8872.3 
- PQoQ%:  |   32.7   |   1.9    |   40.8   |   27.0   |   8.9   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 32040.8  | 31479.9  | 33703.7  | 32041.8  | 36595.4 
- QoQ%:  |   10.3   |   -1.8   |   7.1    |   -4.9   |   14.2  
- QOPM%: |   34.1   |   37.6   |   36.4   |   38.6   |   34.8  
- QNPM%: |   6.6    |   6.8    |   6.2    |   7.0    |   6.6   
- QPFT:  |  2118.5  |  2137.7  |  2087.0  |  2231.0  |  2416.6 
- PQoQ%: |   -1.8   |   0.9    |   -2.4   |   6.9    |   8.3   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 60591.5		68406.3		82071.7		110382.3		133822.1		112550.1
+SQoQ%: 	11.5		12.9		20.0		34.5		21.2		84.1
+YOPM%: 	32.4		31.4		36.4		37.0		37.0
+YNPM%: 	7.4		6.7		7.8		7.4		6.6
+YPROFIT: 4470.5		4556.8		6417.3		8147.8		8872.3		7262.3
+PQoQ%: 	32.7		1.9		40.8		27.0		8.9		81.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 32041.8		36595.4		35439.1		37402.9		39708.1
+QoQ%: 	-4.9		14.2		-3.2		5.5		6.2
+QOPM%: 	38.6		34.8		40.4		37.6		34.9
+QNPM%: 	7.0		6.6		7.9		6.0		5.6
+QPFT: 	2231.0		2416.6		2789.0		2244.1		2229.2
+PQoQ%: 	6.9		8.3		15.4		-19.5		-0.7
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 17.6%
+ROCE in Mar2025 is at 17.7%
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 82% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
-133821.00cr, QoQ 21.20% & YoY 120.86% SALES;
-49209.20cr, QoQ 20.40% & YoY 150.54% OPERATING PROFIT;
+133822.10cr, QoQ 21.20% & YoY 120.86% SALES;
+49524.20cr, QoQ 21.10% & YoY 152.14% OPERATING PROFIT;
 8872.30cr, QoQ 8.90% & YoY 98.46% NET PROFIT;
-OPM %: 36.80% vs 37.0%
+OPM %: 37.00% vs 37.0%
 NPM %: 6.60% vs 7.4%
 

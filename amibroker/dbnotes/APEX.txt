@@ -1,34 +1,43 @@
-CODES
-540692	APEX	
-SECTOR : 
-INDUSTRY : 
+CODES	540692	APEX	
+FULLNAME : Apex Frozen Foods Ltd
+SECTOR : Food Products
+INDUSTRY : Seafood
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  827.1   |  818.5   |  926.2   |  1070.3  |  804.1   |     616.2    
- SQoQ%:  |   -5.4   |   -1.0   |   13.2   |   15.6   |  -24.9   |      76.6    
- YOPM%:  |   10.5   |   11.1   |   9.3    |   7.8    |   5.1    |              
- YNPM%:  |   7.3    |   5.4    |   4.4    |   3.4    |   1.8    |              
-YPROFIT: |   60.6   |   44.3   |   41.1   |   35.9   |   14.6   |      1.9     
- PQoQ%:  |   -0.3   |  -27.0   |   -7.3   |  -12.7   |  -59.3   |      13.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  148.1   |  161.6   |  186.0   |  199.5   |  230.7  
- QoQ%:  |  -38.4   |   9.1    |   15.1   |   7.3    |   15.6  
- QOPM%: |   5.7    |   0.8    |   5.7    |   2.0    |   1.7   
- QNPM%: |   2.0    |   0.0    |   2.0    |   0.0    |   0.0   
- QPFT:  |   3.0    |   -0.4   |   3.8    |   -1.7   |   -0.2  
- PQoQ%: |  -64.4   |  -112.1  | -1155.6  |  -143.9  |  -86.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 818.5		926.2		1070.3		804.1		813.6		760.8
+SQoQ%: 	-1.0		13.2		15.6		-24.9		1.2		93.5
+YOPM%: 	11.1		9.3		7.8		5.0		3.1
+YNPM%: 	5.4		4.4		3.4		1.8		0.5
+YPROFIT: 44.3		41.1		35.9		14.6		3.9		31.1
+PQoQ%: 	-27.0		-7.3		-12.7		-59.3		-73.4		797.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 230.7		197.3		258.2		238.3		264.3
+QoQ%: 	15.6		-14.5		30.8		-7.7		10.9
+QOPM%: 	1.7		3.3		6.0		4.8		5.1
+QNPM%: 	0.0		1.0		3.5		5.0		3.8
+QPFT: 	-0.2		2.0		9.1		11.9		10.1
+PQoQ%: 	-86.8		-990.9		364.3		30.4		-15.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 77% YSales
+- Last 3QSALES is about 94% YSales
+- Last 3QPROFIT is about 797% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-804.10cr, QoQ -24.90% & YoY -2.78% SALES;
-41.20cr, QoQ -50.30% & YoY -52.64% OPERATING PROFIT;
-14.60cr, QoQ -59.30% & YoY -75.91% NET PROFIT;
-OPM %: 5.10% vs 7.8%
-NPM %: 1.80% vs 3.4%
+ 31-Mar-2025 #Result
+813.60cr, QoQ 1.20% & YoY -0.60% SALES;
+25.20cr, QoQ -37.70% & YoY -72.28% OPERATING PROFIT;
+3.90cr, QoQ -73.40% & YoY -91.20% NET PROFIT;
+OPM %: 3.10% vs 5.0%
+NPM %: 0.50% vs 1.8%
 

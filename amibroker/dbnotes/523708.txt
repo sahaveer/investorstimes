@@ -1,28 +1,32 @@
-CODES
-523708	EIMCOELECO	
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
+CODES	523708	EIMCOELECO	
+FULLNAME : Eimco Elecon (India) Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 YSD YPD 2023
 LYPD PM 2024
 PROFIT GROWTH BETTER THAN SALES GROWTH 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024
----------+----------+----------+----------+----------+---------
-YSALES:  |  107.9   |  126.1   |   84.4   |  172.7   |  227.5  
- SQoQ%:  |  -41.6   |   16.9   |  -33.1   |  104.5   |   31.7  
- YOPM%:  |   5.4    |   8.7    |   11.1   |   14.1   |   17.7  
- YNPM%:  |   8.8    |   8.9    |   10.3   |   11.3   |   16.9  
-YPROFIT: |   9.5    |   11.3   |   8.7    |   19.5   |   38.6  
- PQoQ%:  |  -59.0   |   18.9   |  -23.0   |  124.9   |   97.5  
- QPNL:  | Mar-2023 | Jun-2023 | Sep-2023 | Dec-2023 | Mar-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   64.2   |   43.8   |   51.1   |   48.2   |   84.3  
- QoQ%:  |   68.7   |  -31.8   |   16.8   |   -5.6   |   74.7  
- QOPM%: |   21.0   |   5.7    |   25.0   |   16.3   |   19.8  
- QNPM%: |   15.3   |   12.2   |   21.1   |   15.6   |   17.6  
- QPFT:  |   9.8    |   5.4    |   10.8   |   7.6    |   14.8  
- PQoQ%: |   99.8   |  -45.4   |  101.5   |  -30.1   |   96.6  
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2022	Mar-2023	Mar-2024
+YSALES: 107.9		126.1		84.4		172.7		227.5
+SQoQ%: 	-41.6		16.9		-33.1		104.5		31.7
+YOPM%: 	5.4		8.7		11.1		14.1		17.7
+YNPM%: 	8.8		8.9		10.3		11.3		16.9
+YPROFIT: 9.5		11.3		8.7		19.5		38.6
+PQoQ%: 	-59.0		18.9		-23.0		124.9		97.5
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2023	Jun-2023	Sep-2023	Dec-2023	Mar-2024
+QSALES: 64.2		43.8		51.1		48.2		84.3
+QoQ%: 	68.7		-31.8		16.8		-5.6		74.7
+QOPM%: 	21.0		5.7		25.0		16.3		19.8
+QNPM%: 	15.3		12.2		21.1		15.6		17.6
+QPFT: 	9.8		5.4		10.8		7.6		14.8
+PQoQ%: 	99.8		-45.4		101.5		-30.1		96.6
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
@@ -31,6 +35,8 @@ DEBT-Free Company for the last 3 yrs
 - LastYr YProfits Doubled and maintained in Mar2024
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2024, Sales have increased by 31.7% while the Profit QoQ_growth is much better than Sales itself at 97.5%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

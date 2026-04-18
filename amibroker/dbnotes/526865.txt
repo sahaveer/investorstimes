@@ -1,25 +1,34 @@
-CODE	NAME
-526865 
+CODES	526865	
+FULLNAME : Jainco Projects (India) Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+PRODUCT DEMAND
 
-SECTOR : Finance
-INDUSTRY : Finance & Investments
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.1		0.3		0.6		0.4		1.2		0.5
+SQoQ%: 	-25.0		244.4		100.0		-40.3		235.1		41.7
+YOPM%: 	0.0		25.8		29.0		13.5		44.4
+YNPM%: 	0.0		3.2		1.6		0.0		0.8
+YPROFIT: 0.0		0.0		0.0		0.0		0.0		0.0
+PQoQ%: 	nan		inf		0.0		-100.0		inf		nan
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.1    |   0.1    |   0.3    |   0.3    |   0.2    |      0.1     
- SQoQ%:  |   33.3   |  -25.0   |  244.4   |   3.2    |  -31.2   |      50.0    
- YOPM%:  |   0.0    |   0.0    |   25.8   |   56.2   |   22.7   |              
- YNPM%:  |   0.0    |   0.0    |   3.2    |   3.1    |   0.0    |              
-YPROFIT: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |      0.0     
- PQoQ%:  |   nan    |   nan    |   inf    |   0.0    |  -100.0  |      nan     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.1    |   0.0    |   0.0    |   0.1   
- QoQ%:  |  -33.3   |  600.0   |  -78.6   |   0.0    |  333.3  
- QOPM%: |   0.0    |   71.4   |   0.0    |   0.0    |   76.9  
- QNPM%: |   0.0    |   42.9   |   0.0    |   0.0    |   7.7   
- QPFT:  |   -0.0   |   0.1    |   -0.0   |   -0.0   |   0.0   
- PQoQ%: |   -inf   |  -300.0  |  -166.7  |  -75.0   |  -200.0 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.1		0.5		0.3		0.1		0.1
+QoQ%: 	333.3		315.4		-48.1		-75.0		57.1
+QOPM%: 	76.9		90.7		75.0		57.1		54.5
+QNPM%: 	7.7		7.4		0.0		0.0		0.0
+QPFT: 	0.0		0.0		0.0		0.0		0.0
+PQoQ%: 	-200.0		300.0		-100.0		nan		nan
+
+
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+YSALES in Mar-2025 is at 1.2 showing a QoQ_growth of 235.1%. The YNETPROFIT grew by inf% to 0.0
+
+***CONS***

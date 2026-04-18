@@ -1,28 +1,39 @@
-CODES
-543270	MTARTECH	
-SECTOR : Aerospace & Defence
-INDUSTRY : Engineering
+CODES	543270	MTARTECH	
+FULLNAME : MTAR Technologies Ltd
+SECTOR : Aerospace & Defense
+INDUSTRY : Aerospace & Defense
+BestQ Dec 2025
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  246.4   |  322.0   |  573.8   |  580.8   |  676.0  
- SQoQ%:  |   15.3   |   30.7   |   78.2   |   1.2    |   16.4  
- YOPM%:  |   33.7   |   29.3   |   26.9   |   19.4   |   17.9  
- YNPM%:  |   18.7   |   18.9   |   18.0   |   9.7    |   7.8   
-YPROFIT: |   46.1   |   60.9   |  103.4   |   56.1   |   52.9  
- PQoQ%:  |   47.1   |   32.1   |   69.9   |  -45.7   |   -5.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  143.0   |  128.3   |  190.2   |  174.4   |  183.1  
- QoQ%:  |   20.8   |  -10.3   |   48.3   |   -8.3   |   4.9   
- QOPM%: |   12.8   |   13.0   |   19.4   |   19.1   |   18.6  
- QNPM%: |   3.4    |   3.5    |   9.9    |   9.1    |   7.5   
- QPFT:  |   4.9    |   4.4    |   18.8   |   16.0   |   13.7  
- PQoQ%: |  -53.4   |   -9.0   |  323.7   |  -15.0   |  -14.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 246.4		322.0		573.8		580.8		676.0		570.2
+SQoQ%: 	15.3		30.7		78.2		1.2		16.4		84.3
+YOPM%: 	33.7		29.3		26.9		19.4		17.9
+YNPM%: 	18.7		18.9		18.0		9.7		7.8
+YPROFIT: 46.1		60.9		103.4		56.1		52.9		49.7
+PQoQ%: 	47.1		32.1		69.9		-45.7		-5.7		94.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 174.4		183.1		156.6		135.6		278.0
+QoQ%: 	-8.3		4.9		-14.5		-13.4		105.0
+QOPM%: 	19.1		18.6		18.1		12.5		23.0
+QNPM%: 	9.1		7.5		6.9		3.1		12.5
+QPFT: 	16.0		13.7		10.8		4.2		34.7
+PQoQ%: 	-15.0		-14.0		-21.2		-60.7		716.2
+
+
 
 ***PROS***
+- Last 3QSALES is about 84% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 94% of YProfit
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

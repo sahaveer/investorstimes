@@ -1,42 +1,43 @@
-CODE	NAME
-524202 
+CODES	524202	
+FULLNAME : Lactose (India) Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+BestQ Dec 2025
 
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs
-PRODUCT DEMAND
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 35.0		45.9		65.8		113.9		116.4		117.6
+SQoQ%: 	-12.7		31.4		43.2		73.1		2.2		101.0
+YOPM%: 	17.8		26.7		17.3		16.7		14.6
+YNPM%: 	0.0		5.3		1.8		6.0		4.4
+YPROFIT: -2.5		2.4		1.2		6.8		5.2		4.2
+PQoQ%: 	-3642.9		-198.8		-50.6		461.2		-24.0		80.8
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   40.0   |   35.0   |   45.9   |   65.8   |  113.9   |      88.6    
- SQoQ%:  |   -1.4   |  -12.7   |   31.4   |   43.2   |   73.1   |      77.8    
- YOPM%:  |   23.1   |   17.8   |   26.7   |   17.3   |   16.7   |              
- YNPM%:  |   0.2    |   0.0    |   5.3    |   1.8    |   6.0    |              
-YPROFIT: |   0.1    |   -2.5   |   2.4    |   1.2    |   6.8    |      4.5     
- PQoQ%:  |  -90.3   | -3642.9  |  -198.8  |  -50.6   |  461.2   |      66.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   32.6   |   29.4   |   29.5   |   30.4   |   28.7  
- QoQ%:  |   33.4   |   -9.8   |   0.2    |   3.4    |   -5.7  
- QOPM%: |   17.5   |   20.8   |   18.9   |   16.5   |   10.3  
- QNPM%: |   8.1    |   8.2    |   7.7    |   6.7    |   0.8   
- QPFT:  |   2.6    |   2.4    |   2.3    |   2.0    |   0.2   
- PQoQ%: |  224.7   |   -8.7   |   -5.4   |  -10.6   |  -89.2  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 28.7		27.8		39.6		41.2		36.8
+QoQ%: 	-5.7		-3.3		42.5		4.0		-10.7
+QOPM%: 	10.3		12.3		11.3		12.8		8.3
+QNPM%: 	0.8		2.3		3.8		5.2		1.4
+QPFT: 	0.2		0.6		1.5		2.2		0.5
+PQoQ%: 	-89.2		190.9		134.4		44.0		-75.5
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 78% YSales
-- Last 3QPROFIT is about 66% of YProfit
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- Last 3QSALES is about 101% YSales
+- Last 3QPROFIT is about 81% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 
-YSALES in Mar-2024 is at 113.9 showing a QoQ_growth of 73.1%. The YNETPROFIT grew by 461.2% to 6.8
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-113.90cr, QoQ 73.10% & YoY 184.75% SALES;
-19.00cr, QoQ 67.00% & YoY 104.30% OPERATING PROFIT;
-6.80cr, QoQ 461.20% & YoY 6700.00% NET PROFIT;
-OPM %: 16.70% vs 17.3%
-NPM %: 6.00% vs 1.8%
+ 31-Mar-2025 #Result
+116.40cr, QoQ 2.20% & YoY 232.57% SALES;
+17.00cr, QoQ -10.80% & YoY 174.19% OPERATING PROFIT;
+5.20cr, QoQ -24.00% & YoY -308.00% NET PROFIT;
+OPM %: 14.60% vs 16.7%
+NPM %: 4.40% vs 6.0%
 

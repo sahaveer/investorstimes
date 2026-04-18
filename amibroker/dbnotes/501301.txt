@@ -1,38 +1,47 @@
-CODES
-501301	TATAINVEST	
+CODES	501301	TATAINVEST	
+FULLNAME : Tata Investment Corporation Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Investment Company
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  163.2   |  253.9   |  277.4   |  385.2   |  305.1  
- SQoQ%:  |   13.4   |   55.6   |   9.3    |   38.8   |  -20.8  
- YOPM%:  |   88.0   |   90.2   |   88.5   |   91.5   |   87.3  
- YNPM%:  |   94.4   |   84.4   |   90.8   |  100.0   |  102.3  
-YPROFIT: |  154.0   |  214.2   |  251.9   |  385.0   |  312.1  
- PQoQ%:  |   70.1   |   39.1   |   17.6   |   52.8   |  -18.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   57.1   |  142.5   |  142.5   |   3.7    |   16.4  
- QoQ%:  |   13.0   |  149.4   |   0.0    |  -97.4   |  342.9  
- QOPM%: |   86.3   |   91.9   |   93.6   |   0.0    |   45.0  
- QNPM%: |  105.9   |   92.0   |   86.8   |  528.6   |  229.6  
- QPFT:  |   60.5   |  131.1   |  123.7   |   19.6   |   37.7  
- PQoQ%: |   13.6   |  116.8   |   -5.6   |  -84.1   |   92.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 163.2		253.9		277.4		385.2		305.7		357.4
+SQoQ%: 	13.4		55.6		9.3		38.8		-20.6		116.9
+YOPM%: 	88.0		90.2		88.5		91.5		87.3
+YNPM%: 	94.4		84.4		90.8		100.0		102.1
+YPROFIT: 154.0		214.2		251.9		385.0		312.1		369.9
+PQoQ%: 	70.1		39.1		17.6		52.8		-18.9		118.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3.7		16.4		145.5		154.0		57.9
+QoQ%: 	-97.4		342.9		785.3		5.9		-62.4
+QOPM%: 	0.0		45.0		92.4		93.3		82.3
+QNPM%: 	528.6		229.6		100.6		96.2		130.2
+QPFT: 	19.6		37.7		146.3		148.2		75.4
+PQoQ%: 	-84.1		92.4		287.9		1.3		-49.1
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 117% YSales
+- Last 3QPROFIT is about 119% of YProfit
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-305.10cr, QoQ -20.80% & YoY 86.95% SALES;
-266.20cr, QoQ -24.40% & YoY 85.51% OPERATING PROFIT;
+305.70cr, QoQ -20.60% & YoY 87.32% SALES;
+266.90cr, QoQ -24.20% & YoY 85.99% OPERATING PROFIT;
 312.10cr, QoQ -18.90% & YoY 102.66% NET PROFIT;
 OPM %: 87.30% vs 91.5%
-NPM %: 102.30% vs 100.0%
+NPM %: 102.10% vs 100.0%
 

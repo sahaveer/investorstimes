@@ -1,11 +1,11 @@
-CODE	NAME
-544312 
-
+CODES	544312	
+FULLNAME : Hamps Bio Limited
 SECTOR : Trading
 INDUSTRY : Trading
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

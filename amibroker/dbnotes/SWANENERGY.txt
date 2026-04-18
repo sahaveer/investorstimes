@@ -1,38 +1,49 @@
-CODES
-503310	SWANENERGY	
-SECTOR : Diversified
-INDUSTRY : Diversified - Medium / Small
+CODES	503310	SWANENERGY	
+FULLNAME : Swan Energy Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Petrochemicals
 PRODUCT DEMAND
-BestQ Dec 2024
-BestQ Dec 2024
 YSD YPD 2024
 YSD YPD 2023
-LYPD PM 2024
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  340.8   |  320.5   |  487.2   |  1438.1  |  5017.2  |     4082.1   
- SQoQ%:  |  -61.8   |   -6.0   |   52.0   |  195.2   |  248.9   |      81.4    
- YOPM%:  |   15.3   |   21.2   |   14.1   |   16.1   |   17.3   |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   6.0    |              
-YPROFIT: |   -4.8   |  -68.6   |  -157.9  |  -35.9   |  301.2   |     773.0    
- PQoQ%:  |   -9.0   |  1320.5  |  130.1   |  -77.3   |  -938.9  |     256.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  1591.7  |  1397.9  |  1141.7  |  1032.2  |  1908.2 
- QoQ%:  |   30.1   |  -12.2   |  -18.3   |   -9.6   |   84.9  
- QOPM%: |   16.1   |   8.4    |   33.4   |   11.6   |   0.0   
- QNPM%: |   7.2    |   1.9    |   12.2   |   5.0    |   30.5  
- QPFT:  |  115.1   |   26.6   |  138.9   |   51.3   |  582.8  
- PQoQ%: |   36.1   |  -76.9   |  422.5   |  -63.1   |  1036.5 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 320.5		487.2		1438.1		5017.2		4937.9
+SQoQ%: 	-6.0		52.0		195.2		248.9		-1.6
+YOPM%: 	21.2		14.1		16.1		17.3		0.0
+YNPM%: 	0.0		0.0		0.0		6.0		15.3
+YPROFIT: -68.6		-157.9		-35.9		301.2		755.3
+PQoQ%: 	1320.5		130.1		-77.3		-938.9		150.8
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2024	Jun-2024	Sep-2024	Dec-2024	Mar-2025
+QSALES: 1397.9		1141.7		1032.2		1908.2		855.8
+QoQ%: 	-12.2		-18.3		-9.6		84.9		-55.2
+QOPM%: 	8.4		33.4		11.6		0.0		1.6
+QNPM%: 	1.9		12.2		5.0		30.5		0.0
+QPFT: 	26.6		138.9		51.3		582.8		-17.7
+PQoQ%: 	-76.9		422.5		-63.1		1036.5		-103.0
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 81% YSales
-- Double QSales and QProfit
-- Last 3QPROFIT is about 257% of YProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 301.2
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2024
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+4937.90cr, QoQ -1.60% & YoY 1440.69% SALES;
+-141.40cr, QoQ -116.30% & YoY -307.64% OPERATING PROFIT;
+755.30cr, QoQ 150.80% & YoY -1201.02% NET PROFIT;
+OPM %: 0.00% vs 17.3%
+NPM %: 15.30% vs 6.0%
+

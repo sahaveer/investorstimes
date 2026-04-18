@@ -1,28 +1,36 @@
-CODE	NAME
-521240 
+CODES	521240	
+FULLNAME : Sambandam Spinning Mills Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+PRODUCT DEMAND
+LYPD PM 2025
 
-SECTOR : Textiles
-INDUSTRY : Textiles - Cotton/Blended
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 231.1		354.9		263.2		218.1		268.5		195.8
+SQoQ%: 	20.9		53.6		-25.8		-17.2		23.1		72.9
+YOPM%: 	14.5		13.3		3.4		3.4		3.8
+YNPM%: 	3.5		4.3		0.0		0.0		0.0
+YPROFIT: 8.1		15.2		-11.7		-7.8		-7.4		-2.8
+PQoQ%: 	251.5		86.6		-177.4		-33.1		-6.4		37.8
 
-***CONS***
-- NO PRODUCT DEMAND
-- NEGATIVE YProfit : -7.8
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  191.2   |  231.1   |  354.9   |  263.2   |  218.1   |     203.1    
- SQoQ%:  |   -8.7   |   20.9   |   53.6   |  -25.8   |  -17.2   |      93.1    
- YOPM%:  |   10.5   |   14.5   |   13.3   |   3.3    |   3.4    |              
- YNPM%:  |   1.2    |   3.5    |   4.3    |   0.0    |   0.0    |              
-YPROFIT: |   2.3    |   8.1    |   15.2   |  -11.7   |   -7.8   |      -7.5    
- PQoQ%:  |  -49.8   |  251.5   |   86.6   |  -177.4  |  -33.1   |      96.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   52.9   |   61.9   |   68.8   |   73.5   |   60.8  
- QoQ%:  |   4.1    |   17.0   |   11.1   |   7.0    |  -17.3  
- QOPM%: |   0.0    |   1.9    |   5.0    |   2.1    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -3.7   |   -1.3   |   -1.1   |   -2.3   |   -4.1  
- PQoQ%: | -1233.3  |  -64.4   |  -17.3   |  111.8   |   76.4  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 60.8		65.4		63.9		66.6		65.3
+QoQ%: 	-17.3		7.5		-2.3		4.1		-2.0
+QOPM%: 	0.0		7.0		8.3		5.6		2.9
+QNPM%: 	0.0		0.3		0.8		0.0		0.0
+QPFT: 	-4.1		0.2		0.5		-1.1		-2.2
+PQoQ%: 	76.4		-104.9		160.0		-303.8		103.8
+
+
 
 ***PROS***
-- Last 3QSALES is about 93% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 73% YSales
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -7.4

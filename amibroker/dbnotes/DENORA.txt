@@ -1,35 +1,44 @@
-CODES
-590031	DENORA	
-SECTOR : 
-INDUSTRY : 
+CODES	590031	DENORA	
+FULLNAME : DE Nora India Ltd
+SECTOR : Industrial Products
+INDUSTRY : Electrodes & Refractories
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   50.5   |   74.2   |   73.6   |   73.8   |   68.6  
- SQoQ%:  |   4.8    |   46.8   |   -0.8   |   0.3    |   -7.1  
- YOPM%:  |   16.7   |   30.9   |   33.7   |   29.0   |   0.0   
- YNPM%:  |   11.2   |   20.8   |   27.6   |   25.8   |   2.5   
-YPROFIT: |   5.6    |   15.4   |   20.3   |   19.0   |   1.7   
- PQoQ%:  |  -30.5   |  173.5   |   31.3   |   -6.3   |  -91.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   16.2   |   12.8   |   18.1   |   17.6   |   20.1  
- QoQ%:  |  -45.0   |  -21.1   |   42.1   |   -3.1   |   14.6  
- QOPM%: |   38.6   |   23.0   |   17.7   |   0.0    |   19.0  
- QNPM%: |   35.0   |   22.6   |   18.1   |   0.0    |   16.6  
- QPFT:  |   5.7    |   2.9    |   3.3    |   -7.8   |   3.3   
- PQoQ%: |  -12.7   |  -49.1   |   13.9   |  -338.1  |  -142.8 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 50.5		74.2		73.6		73.8		68.6		99.6
+SQoQ%: 	4.8		46.8		-0.8		0.3		-7.1		145.2
+YOPM%: 	16.7		30.9		33.7		29.0		0.0
+YNPM%: 	11.2		20.8		27.6		25.8		2.5
+YPROFIT: 5.6		15.4		20.3		19.0		1.7		9.7
+PQoQ%: 	-30.5		173.5		31.3		-6.3		-91.1		570.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 17.6		20.1		42.0		21.8		35.8
+QoQ%: 	-3.1		14.6		108.5		-48.0		64.1
+QOPM%: 	0.0		19.0		5.8		18.4		6.9
+QNPM%: 	0.0		16.6		7.7		17.7		7.2
+QPFT: 	-7.8		3.3		3.2		3.9		2.6
+PQoQ%: 	-338.1		-142.8		-2.7		19.1		-33.6
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 145% YSales
+- Last 3QPROFIT is about 571% of YProfit
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 68.60cr, QoQ -7.10% & YoY 35.84% SALES;
--1.40cr, QoQ -106.50% & YoY -116.47% OPERATING PROFIT;
+-1.20cr, QoQ -105.80% & YoY -114.12% OPERATING PROFIT;
 1.70cr, QoQ -91.10% & YoY -69.64% NET PROFIT;
 OPM %: 0.00% vs 29.0%
 NPM %: 2.50% vs 25.8%

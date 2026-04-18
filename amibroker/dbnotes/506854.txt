@@ -1,39 +1,47 @@
-CODE	NAME
-506854 
+CODES	506854	
+FULLNAME : Tanfac Industries Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
+BestQ Dec 2025
 
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 147.9		320.2		375.0		378.2		557.0		518.0
+SQoQ%: 	-10.3		116.5		17.1		0.9		47.3		93.0
+YOPM%: 	22.5		23.8		20.3		19.0		23.5
+YNPM%: 	11.8		16.6		15.0		13.9		15.8
+YPROFIT: 17.5		53.3		56.1		52.5		88.2		52.2
+PQoQ%: 	2.9		205.0		5.3		-6.5		68.0		59.2
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  147.9   |  320.2   |  375.0   |  378.2   |  557.0  
- SQoQ%:  |  -10.3   |  116.5   |   17.1   |   0.9    |   47.3  
- YOPM%:  |   22.5   |   23.8   |   20.3   |   19.0   |   23.1  
- YNPM%:  |   11.8   |   16.6   |   15.0   |   13.9   |   15.8  
-YPROFIT: |   17.5   |   53.3   |   56.1   |   52.5   |   88.2  
- PQoQ%:  |   2.9    |  205.0   |   5.3    |   -6.5   |   68.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  102.8   |   95.4   |  111.5   |  178.2   |  172.0  
- QoQ%:  |   17.1   |   -7.3   |   16.9   |   59.8   |   -3.5  
- QOPM%: |   15.9   |   16.4   |   24.4   |   28.2   |   20.8  
- QNPM%: |   12.3   |   11.8   |   17.3   |   19.5   |   13.2  
- QPFT:  |   12.7   |   11.3   |   19.3   |   34.8   |   22.7  
- PQoQ%: |   25.7   |  -10.9   |   71.0   |   80.2   |  -34.7  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 178.2		172.0		176.0		168.7		173.3
+QoQ%: 	59.8		-3.5		2.4		-4.2		2.7
+QOPM%: 	28.2		20.8		16.5		15.9		14.9
+QNPM%: 	19.5		13.2		11.0		10.2		9.0
+QPFT: 	34.8		22.7		19.4		17.2		15.6
+PQoQ%: 	80.2		-34.7		-14.9		-11.2		-9.4
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 26.1%
+ROCE in Mar2025 is at 26.7%
+- Last 3QSALES is about 93% YSales
+- Last 3QPROFIT is about 59% of YProfit
 
 YSALES in Mar-2025 is at 557.0 showing a QoQ_growth of 47.3%. The YNETPROFIT grew by 68.0% to 88.2
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
 557.00cr, QoQ 47.30% & YoY 276.61% SALES;
-128.90cr, QoQ 79.30% & YoY 287.09% OPERATING PROFIT;
+131.10cr, QoQ 82.40% & YoY 293.69% OPERATING PROFIT;
 88.20cr, QoQ 68.00% & YoY 404.00% NET PROFIT;
-OPM %: 23.10% vs 19.0%
+OPM %: 23.50% vs 19.0%
 NPM %: 15.80% vs 13.9%
 

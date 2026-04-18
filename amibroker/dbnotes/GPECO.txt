@@ -1,16 +1,17 @@
-CODES
-GPECO	
+CODES	GPECO	
+FULLNAME : GP Eco Solutions India Ltd
 SECTOR : Capital Goods - Electrical Equipment
 INDUSTRY : Electric Equipment
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2025, Sales have increased by 76.1% while the Profit QoQ_growth is at 45.8%
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

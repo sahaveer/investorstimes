@@ -1,41 +1,46 @@
-CODES
-543901	RHL	
-SECTOR : 
-INDUSTRY : 
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	543901	RHL	
+FULLNAME : Robust Hotels Ltd
+SECTOR : Leisure Services
+INDUSTRY : Hotels & Resorts
+BestQ Dec 2025
 YSD YPD 2023
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   92.8   |   25.0   |   40.8   |  106.3   |  122.5   |      96.7    
- SQoQ%:  |   nan    |  -73.1   |   63.6   |  160.4   |   15.2   |      78.9    
- YOPM%:  |   20.1   |   0.0    |   0.0    |   27.7   |   27.2   |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   52.0   |   3.9    |              
-YPROFIT: |  -20.8   |  -33.6   |  -35.0   |   55.3   |   4.7    |      6.2     
- PQoQ%:  |   nan    |   61.2   |   4.3    |  -258.1  |  -91.4   |     131.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   31.6   |   37.8   |   29.8   |   34.0   |   32.9  
- QoQ%:  |   14.2   |   19.9   |  -21.4   |   14.3   |   -3.2  
- QOPM%: |   27.8   |   37.2   |   20.1   |   24.6   |   26.7  
- QNPM%: |   7.9    |   5.4    |   4.6    |   6.7    |   7.7   
- QPFT:  |   2.5    |   2.1    |   1.4    |   2.3    |   2.5   
- PQoQ%: |  762.1   |  -17.6   |  -34.0   |   68.4   |   10.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 25.0		40.8		106.3		122.5		136.3		108.0
+SQoQ%: 	-73.1		63.6		160.4		15.2		11.3		79.2
+YOPM%: 	0.0		0.0		27.7		27.2		30.9
+YNPM%: 	0.0		0.0		52.0		3.9		12.1
+YPROFIT: -33.6		-35.0		55.3		4.7		16.5		16.9
+PQoQ%: 	61.2		4.3		-258.1		-91.4		247.3		102.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 32.9		39.6		33.2		36.0		38.8
+QoQ%: 	-3.2		20.4		-16.1		8.3		7.7
+QOPM%: 	26.6		32.4		30.0		33.3		35.0
+QNPM%: 	7.7		25.9		12.1		16.2		18.3
+QPFT: 	2.5		10.3		4.0		5.8		7.1
+PQoQ%: 	10.5		306.3		-60.8		44.9		21.2
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
 - Last 3QSALES is about 79% YSales
-- Last 3QPROFIT is about 132% of YProfit
+- Last 3QPROFIT is about 102% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2023
 
 
+***CONS***
+
 Yearly 
- 31-Mar-2024 #Result
-122.50cr, QoQ 15.20% & YoY 32.00% SALES;
-33.40cr, QoQ 13.20% & YoY 78.61% OPERATING PROFIT;
-4.70cr, QoQ -91.40% & YoY -122.60% NET PROFIT;
-OPM %: 27.20% vs 27.7%
-NPM %: 3.90% vs 52.0%
+ 31-Mar-2025 #Result
+136.30cr, QoQ 11.30% & YoY 445.20% SALES;
+42.20cr, QoQ 26.40% & YoY -3616.67% OPERATING PROFIT;
+16.50cr, QoQ 247.30% & YoY -149.11% NET PROFIT;
+OPM %: 30.90% vs 27.2%
+NPM %: 12.10% vs 3.9%
 

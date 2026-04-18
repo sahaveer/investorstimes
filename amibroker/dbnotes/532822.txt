@@ -1,26 +1,36 @@
-CODES
-532822	IDEA	
-SECTOR : Telecomm-Service
-INDUSTRY : Telecommunications - Service Provider
+CODES	532822	IDEA	
+FULLNAME : Vodafone Idea Ltd
+SECTOR : Telecom - Services
+INDUSTRY : Telecom - Cellular & Fixed line services
+PRODUCT DEMAND
+LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -31238.4
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  | 44957.5  | 41952.2  | 38515.5  | 42177.2  | 42651.7  |    32557.8   
- SQoQ%:  |   21.2   |   -6.7   |   -8.2   |   9.5    |   1.1    |      76.3    
- YOPM%:  |   33.2   |   40.4   |   41.5   |   39.7   |   40.0   |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: | -73878.1 | -44233.1 | -28245.4 | -29301.1 | -31238.4 |    -20217.3  
- PQoQ%:  |  405.9   |  -40.1   |  -36.1   |   3.7    |   6.6    |      64.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: | 10673.1  | 10606.8  | 10508.3  | 10932.2  | 11117.3 
- QoQ%:  |   -0.4   |   -0.6   |   -0.9   |   4.0    |   1.7   
- QOPM%: |   40.8   |   40.9   |   40.0   |   41.6   |   42.4  
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  | -6985.9  | -7674.6  | -6432.1  | -7175.9  | -6609.3 
- PQoQ%: |  -20.1   |   9.9    |  -16.2   |   11.6   |   -7.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 41952.2		38515.5		42177.2		42651.7		43571.3		33540.5
+SQoQ%: 	-6.7		-8.2		9.5		1.1		2.2		77.0
+YOPM%: 	40.4		41.5		39.7		40.0		41.4
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -44233.1		-28245.4		-29301.1		-31238.4		-27383.4		-17418.1
+PQoQ%: 	-40.1		-36.1		3.7		6.6		-12.3		63.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 11117.0		11013.5		11022.5		11195.0		11323.0
+QoQ%: 	1.7		-0.9		0.1		1.6		1.1
+QOPM%: 	42.4		42.3		41.8		41.8		42.5
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-6609.0		-7166.1		-6608.1		-5524.0		-5286.0
+PQoQ%: 	-7.9		8.4		-7.8		-16.4		-4.3
+
+
 
 ***PROS***
-- Last 3QSALES is about 76% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 77% YSales
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -27383.4

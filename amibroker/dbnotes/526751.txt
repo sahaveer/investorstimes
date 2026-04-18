@@ -1,38 +1,44 @@
-CODE	NAME
-526751 
-
-SECTOR : Paper
-INDUSTRY : Paper
+CODES	526751	
+FULLNAME : Gratex Industries Ltd
+SECTOR : Paper, Forest & Jute Products
+INDUSTRY : Paper & Paper Products
 PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   3.5    |   1.9    |   3.0    |   4.3    |   4.0    |      3.0     
- SQoQ%:  |   3.6    |  -46.4   |   62.4   |   41.1   |   -6.3   |      75.0    
- YOPM%:  |   11.0   |   7.5    |   9.3    |   8.5    |   7.3    |              
- YNPM%:  |   4.6    |   1.1    |   3.3    |   4.5    |   2.3    |              
-YPROFIT: |   0.2    |   0.0    |   0.1    |   0.2    |   0.1    |      0.0     
- PQoQ%:  |  128.6   |  -87.5   |  400.0   |   90.0   |  -52.6   |      0.0     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.0    |   0.9    |   1.0    |   1.0    |   1.0   
- QoQ%:  |   9.4    |  -10.5   |   7.4    |   3.0    |   -2.9  
- QOPM%: |   5.7    |   8.5    |   5.0    |   4.8    |   9.9   
- QNPM%: |   1.9    |   3.2    |   1.0    |   0.0    |   5.0   
- QPFT:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- PQoQ%: |   inf    |   50.0   |  -66.7   |  -100.0  |   inf   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.9		3.0		4.3		4.0		3.8		3.0
+SQoQ%: 	-46.4		62.4		41.1		-6.3		-6.0		78.9
+YOPM%: 	7.5		9.3		8.5		7.3		8.0
+YNPM%: 	1.1		3.3		4.5		2.3		1.9
+YPROFIT: 0.0		0.1		0.2		0.1		0.1		0.0
+PQoQ%: 	-87.5		400.0		90.0		-52.6		-22.2		0.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1.0		0.7		0.9		1.1		1.0
+QoQ%: 	-2.9		-30.7		30.0		22.0		-10.8
+QOPM%: 	9.9		8.6		6.6		6.3		7.1
+QNPM%: 	5.0		1.4		2.2		2.7		3.0
+QPFT: 	0.0		0.0		0.0		0.0		0.0
+PQoQ%: 	inf		-80.0		100.0		50.0		0.0
+
+
 
 ***PROS***
+A DEBT-Free Company
 - PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.1
-- Last 3QSALES is about 75% YSales
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 79% YSales
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-4.00cr, QoQ -6.30% & YoY 14.29% SALES;
-0.30cr, QoQ -19.40% & YoY -25.00% OPERATING PROFIT;
-0.10cr, QoQ -52.60% & YoY -50.00% NET PROFIT;
-OPM %: 7.30% vs 8.5%
-NPM %: 2.30% vs 4.5%
+ 31-Mar-2025 #Result
+3.80cr, QoQ -6.00% & YoY 100.00% SALES;
+0.30cr, QoQ 3.40% & YoY 200.00% OPERATING PROFIT;
+0.10cr, QoQ -22.20% & YoY inf% NET PROFIT;
+OPM %: 8.00% vs 7.3%
+NPM %: 1.90% vs 2.3%
 

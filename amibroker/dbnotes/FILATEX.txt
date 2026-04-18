@@ -1,27 +1,48 @@
-CODES
-526227	FILATEX	
-SECTOR : Textiles
-INDUSTRY : Textiles - Manmade
+CODES	526227	FILATEX	
+FULLNAME : Filatex India Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 PRODUCT DEMAND
+BestQ Dec 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
+***YEARLY***
+YPNL: 	Mar-2016	Mar-2017	Mar-2018	Mar-2019	Mar-2025	QSUM:Dec-2025
+YSALES: 1278.2		1551.0		1927.6		2874.1		4252.2		3175.0
+SQoQ%: 	-18.7		21.3		24.3		49.1		47.9		74.7
+YOPM%: 	6.8		8.6		8.1		7.5		6.1
+YNPM%: 	2.1		2.6		3.1		3.0		3.1
+YPROFIT: 26.2		40.5		59.7		85.0		133.9		143.3
+PQoQ%: 	173.1		54.5		47.4		42.2		57.5		107.0
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1068.7		1080.0		1049.4		1075.9		1049.7
+QoQ%: 	1.9		1.1		-2.8		2.5		-2.4
+QOPM%: 	7.3		6.6		6.5		7.7		8.6
+QNPM%: 	4.4		3.8		3.9		4.4		5.2
+QPFT: 	47.1		41.1		40.7		47.6		55.0
+PQoQ%: 	253.3		-12.8		-1.0		16.9		15.6
 
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 107% of YProfit
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 47.9% while the Profit QoQ_growth is much better than Sales itself at 57.5%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 4252.20cr, QoQ 47.90% & YoY 232.67% SALES;
-254.20cr, QoQ 17.30% & YoY 190.51% OPERATING PROFIT;
+257.60cr, QoQ 18.90% & YoY 194.40% OPERATING PROFIT;
 133.90cr, QoQ 57.50% & YoY 411.07% NET PROFIT;
-OPM %: 6.00% vs 7.5%
+OPM %: 6.10% vs 7.5%
 NPM %: 3.10% vs 3.0%
 

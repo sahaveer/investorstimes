@@ -1,12 +1,14 @@
-CODES
-544314	SANATHAN	
+CODES	544314	SANATHAN	
+FULLNAME : Sanathan Textiles Ltd
 SECTOR : Textiles
 INDUSTRY : Textiles - Cotton/Blended
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

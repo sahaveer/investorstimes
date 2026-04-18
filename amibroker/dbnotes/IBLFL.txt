@@ -1,22 +1,23 @@
-CODES
-IBLFL	
-SECTOR : E-Commerce/App based Aggregator
-INDUSTRY : Finance & Investments
+CODES	IBLFL	
+FULLNAME : IBL Finance Ltd
+SECTOR : Finance
+INDUSTRY : Non Banking Financial Company (NBFC)
 YSD YPD 2023
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - YProfits and YSales DOUBLED in Mar2023
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
-13.00cr, QoQ -8.90% & YoY 1081.82% SALES;
-6.60cr, QoQ 77.20% & YoY -inf% OPERATING PROFIT;
+13.10cr, QoQ -8.20% & YoY 1090.91% SALES;
+6.70cr, QoQ 80.60% & YoY -inf% OPERATING PROFIT;
 2.40cr, QoQ 3.50% & YoY -2500.00% NET PROFIT;
-OPM %: 50.80% vs 26.2%
-NPM %: 18.20% vs 16.0%
+OPM %: 51.30% vs 26.1%
+NPM %: 18.10% vs 16.0%
 

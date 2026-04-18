@@ -1,4 +1,3 @@
-CODES
-543246	ESG	
-SECTOR : 
-INDUSTRY : 
+CODES	543246	ESG	
+FULLNAME : Mirae Asset Nifty 100 ESG Sector Leaders ETF
+

@@ -1,41 +1,44 @@
-CODE	NAME
-539016 
-
+CODES	539016	
+FULLNAME : Neil Industries Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-LYPD PM 2024
+INDUSTRY : Non Banking Financial Company (NBFC)
+BestQ Dec 2025
 
-***CONS***
-  YPNL   |   :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+-------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  6.9  |   2.8    |   3.0    |   3.0    |   3.2    |   2.3    |              
- SQoQ%:  | -26.3 |  -59.5   |   6.5    |   1.4    |   5.7    |   71.9   |              
- YOPM%:  |  22.4 |   72.3   |   0.0    |   81.7   |   88.0   |          |              
- YNPM%:  |  16.9 |   34.9   |   0.0    |   61.7   |   79.2   |          |              
-YPROFIT: |  1.2  |   1.0    |   -2.8   |   1.8    |   2.5    |   1.0    |              
- PQoQ%:  |  58.9 |  -16.4   |  -387.6  |  -166.3  |   35.7   |   40.0   |              
-  QPNL  |   :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+-------+----------+----------+----------+----------+---------
-QSALES: |  0.8  |   0.7    |   0.7    |   0.8    |   0.8    |         
- QoQ%:  |  -4.7 |   -8.6   |   -6.8   |   10.1   |   1.3    |         
- QOPM%: |  86.4 |   94.6   |   79.7   |   72.4   |   85.7   |         
- QNPM%: |  61.7 |  131.1   |   44.9   |   44.7   |   53.2   |         
- QPFT:  |  0.5  |   1.0    |   0.3    |   0.3    |   0.4    |         
- PQoQ%: | -10.7 |   94.0   |  -68.0   |   9.7    |   20.6   |         
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2.8		3.0		3.0		3.2		3.1		3.0
+SQoQ%: 	-59.5		6.5		1.4		5.7		-2.5		96.8
+YOPM%: 	72.3		0.0		81.7		88.0		81.2
+YNPM%: 	34.9		0.0		61.7		79.2		38.5
+YPROFIT: 1.0		-2.8		1.8		2.5		1.2		1.2
+PQoQ%: 	-16.4		-387.6		-166.3		35.7		-52.6		100.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.8		0.9		1.0		1.0		1.0
+QoQ%: 	1.3		14.3		9.1		4.2		0.0
+QOPM%: 	85.7		72.7		58.3		89.0		82.0
+QNPM%: 	53.2		15.9		34.4		49.0		35.0
+QPFT: 	0.4		0.1		0.3		0.5		0.4
+PQoQ%: 	20.6		-65.9		135.7		48.5		-28.6
+
+
 
 ***PROS***
-DEBT-Free Company for the last 3 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 72% YSales
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
-- LastYr YProfits Doubled and maintained in Mar2024
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
+- Last 3QSALES is about 97% YSales
+- Last 3QPROFIT is about 100% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-3.20cr, QoQ 5.70% & YoY -53.62% SALES;
-2.80cr, QoQ 13.90% & YoY 86.67% OPERATING PROFIT;
-2.50cr, QoQ 35.70% & YoY 108.33% NET PROFIT;
-OPM %: 88.00% vs 81.7%
-NPM %: 79.20% vs 61.7%
+ 31-Mar-2025 #Result
+3.10cr, QoQ -2.50% & YoY 10.71% SALES;
+2.50cr, QoQ -10.00% & YoY 25.00% OPERATING PROFIT;
+1.20cr, QoQ -52.60% & YoY 20.00% NET PROFIT;
+OPM %: 81.20% vs 88.0%
+NPM %: 38.50% vs 79.2%
 

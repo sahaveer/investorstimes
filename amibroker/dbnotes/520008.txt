@@ -1,37 +1,43 @@
-CODES
-520008	RICOAUTO	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
-PRODUCT DEMAND
+CODES	520008	RICOAUTO	
+FULLNAME : Rico Auto Industries Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1401.1  |  1469.9  |  1859.8  |  2302.4  |  2159.7  |     1667.2   
- SQoQ%:  |   0.6    |   4.9    |   26.5   |   23.8   |   -6.2   |      77.2    
- YOPM%:  |   8.1    |   6.0    |   8.5    |   9.6    |   10.3   |              
- YNPM%:  |   1.2    |   0.0    |   1.3    |   2.1    |   1.8    |              
-YPROFIT: |   16.6   |  -14.2   |   23.7   |   49.0   |   38.3   |      14.0    
- PQoQ%:  |  -67.1   |  -185.4  |  -266.9  |  107.0   |  -21.7   |      36.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  523.5   |  548.4   |  539.7   |  575.8   |  551.7  
- QoQ%:  |   -5.5   |   4.8    |   -1.6   |   6.7    |   -4.2  
- QOPM%: |   11.1   |   10.8   |   8.0    |   8.6    |   8.2   
- QNPM%: |   1.9    |   2.8    |   1.1    |   1.1    |   0.3   
- QPFT:  |   10.0   |   15.5   |   5.7    |   6.4    |   1.9   
- PQoQ%: |   48.7   |   54.4   |  -63.3   |   12.8   |  -71.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1469.9		1859.8		2302.4		2159.7		2212.4		1800.3
+SQoQ%: 	4.9		26.5		23.8		-6.2		2.4		81.4
+YOPM%: 	6.0		8.5		9.6		10.3		8.8
+YNPM%: 	0.0		1.3		2.1		1.8		1.0
+YPROFIT: -14.2		23.7		49.0		38.3		21.4		44.5
+PQoQ%: 	-185.4		-266.9		107.0		-21.7		-44.2		207.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 551.7		545.3		543.5		627.4		629.4
+QoQ%: 	-4.2		-1.2		-0.3		15.4		0.3
+QOPM%: 	8.2		9.3		9.9		9.7		9.6
+QNPM%: 	0.3		1.3		3.0		2.8		1.7
+QPFT: 	1.9		7.3		16.3		17.4		10.8
+PQoQ%: 	-71.0		293.5		123.1		6.2		-37.5
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 77% YSales
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 208% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-2159.70cr, QoQ -6.20% & YoY 54.14% SALES;
-222.00cr, QoQ 0.30% & YoY 95.25% OPERATING PROFIT;
-38.30cr, QoQ -21.70% & YoY 130.72% NET PROFIT;
-OPM %: 10.30% vs 9.6%
-NPM %: 1.80% vs 2.1%
+ 31-Mar-2025 #Result
+2212.40cr, QoQ 2.40% & YoY 50.51% SALES;
+195.30cr, QoQ -12.00% & YoY 120.43% OPERATING PROFIT;
+21.40cr, QoQ -44.20% & YoY -250.70% NET PROFIT;
+OPM %: 8.80% vs 10.3%
+NPM %: 1.00% vs 1.8%
 

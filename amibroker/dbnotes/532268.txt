@@ -1,38 +1,45 @@
-CODES
-532268	ACCELYA	
+CODES	532268	ACCELYA	
+FULLNAME : Accelya Solutions India Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
-PRODUCT DEMAND
+INDUSTRY : Computers - Software & Consulting
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Jun-2020 | Jun-2021 | Jun-2022 | Jun-2023 | Jun-2024
----------+----------+----------+----------+----------+---------
-YSALES:  |  412.0   |  290.4   |  368.4   |  469.4   |  511.1  
- SQoQ%:  |   -4.8   |  -29.5   |   26.9   |   27.4   |   8.9   
- YOPM%:  |   37.0   |   29.5   |   36.4   |   39.5   |   37.7  
- YNPM%:  |   21.1   |   14.5   |   20.7   |   27.0   |   18.4  
-YPROFIT: |   86.8   |   42.2   |   76.2   |  126.7   |   93.8  
- PQoQ%:  |  -18.4   |  -51.4   |   80.5   |   66.3   |  -25.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  131.0   |  128.1   |  127.1   |  133.2   |  136.8  
- QoQ%:  |   5.0    |   -2.2   |   -0.8   |   4.8    |   2.7   
- QOPM%: |   38.4   |   37.2   |   38.2   |   36.2   |   34.0  
- QNPM%: |   0.2    |   24.3   |   25.5   |   24.3   |   22.1  
- QPFT:  |   0.2    |   31.2   |   32.5   |   32.4   |   30.2  
- PQoQ%: |  -99.4   | 15495.0  |   4.1    |   -0.3   |   -6.5  
+***YEARLY***
+YPNL: 	Jun-2021	Jun-2022	Jun-2023	Jun-2024	Jun-2025	QSUM:Dec-2025
+YSALES: 290.4		368.4		469.4		511.1		528.7		400.8
+SQoQ%: 	-29.5		26.9		27.4		8.9		3.4		75.8
+YOPM%: 	29.5		36.4		39.5		37.7		36.8
+YNPM%: 	14.5		20.7		27.0		18.4		24.4
+YPROFIT: 42.2		76.2		126.7		93.8		129.0		77.5
+PQoQ%: 	-51.4		80.5		66.3		-25.9		37.5		60.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 133.2		136.7		131.7		136.2		132.9
+QoQ%: 	4.8		2.6		-3.6		3.4		-2.4
+QOPM%: 	36.2		33.9		38.9		35.6		33.7
+QNPM%: 	24.3		22.1		25.8		21.7		10.5
+QPFT: 	32.4		30.2		34.0		29.6		13.9
+PQoQ%: 	-0.3		-6.5		12.2		-12.8		-52.9
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Jun2024 is at 48.5%
+ROCE in Jun2025 is at 48.7%
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 60% of YProfit
 
+
+***CONS***
 
 Yearly 
- 30-Jun-2024 #Result
-511.10cr, QoQ 8.90% & YoY 24.05% SALES;
-192.50cr, QoQ 3.80% & YoY 26.23% OPERATING PROFIT;
-93.80cr, QoQ -25.90% & YoY 8.06% NET PROFIT;
-OPM %: 37.70% vs 39.5%
-NPM %: 18.40% vs 27.0%
+ 30-Jun-2025 #Result
+528.70cr, QoQ 3.40% & YoY 82.06% SALES;
+194.40cr, QoQ 1.00% & YoY 127.37% OPERATING PROFIT;
+129.00cr, QoQ 37.50% & YoY 205.69% NET PROFIT;
+OPM %: 36.80% vs 37.7%
+NPM %: 24.40% vs 18.4%
 

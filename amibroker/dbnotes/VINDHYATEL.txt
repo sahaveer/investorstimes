@@ -1,33 +1,42 @@
-CODES
-517015	VINDHYATEL	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
+CODES	517015	VINDHYATEL	
+FULLNAME : Vindhya Telelinks Ltd
+SECTOR : Telecom - Services
+INDUSTRY : Telecom - Infrastructure
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1502.1  |  1324.0  |  2900.1  |  4086.5  |  4054.4 
- SQoQ%:  |  -20.2   |  -11.9   |  119.0   |   40.9   |   -0.8  
- YOPM%:  |   13.9   |   12.1   |   9.7    |   7.2    |   6.4   
- YNPM%:  |   18.0   |   14.6   |   6.4    |   6.9    |   5.0   
-YPROFIT: |  270.1   |  193.3   |  185.3   |  282.7   |  202.8  
- PQoQ%:  |   13.8   |  -28.4   |   -4.1   |   52.5   |  -28.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1290.0  |  833.4   |  952.7   |  1037.1  |  1231.2 
- QoQ%:  |   19.0   |  -35.4   |   14.3   |   8.9    |   18.7  
- QOPM%: |   6.8    |   5.9    |   5.0    |   6.3    |   7.2   
- QNPM%: |   8.4    |   3.5    |   2.6    |   3.8    |   8.9   
- QPFT:  |  108.4   |   29.4   |   24.4   |   39.1   |  109.9  
- PQoQ%: |   57.6   |  -72.8   |  -17.3   |   60.5   |  181.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1502.1		1324.0		2900.1		4088.4		4054.4		2583.9
+SQoQ%: 	-20.2		-11.9		119.0		41.0		-0.8		63.7
+YOPM%: 	13.9		12.1		9.7		7.3		6.4
+YNPM%: 	18.0		14.6		6.4		6.9		5.0
+YPROFIT: 270.1		193.3		185.3		282.7		202.8		116.7
+PQoQ%: 	13.8		-28.4		-4.1		52.5		-28.2		57.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1037.1		1231.2		907.5		959.8		716.6
+QoQ%: 	8.9		18.7		-26.3		5.8		-25.3
+QOPM%: 	6.3		7.2		6.7		7.5		2.5
+QNPM%: 	3.8		8.9		6.5		6.2		0.0
+QPFT: 	39.1		109.9		58.6		59.1		-1.0
+PQoQ%: 	60.5		181.2		-46.7		0.9		-101.8
+
+
 
 ***PROS***
+- Last 3QSALES is about 64% YSales
+- Last 3QPROFIT is about 58% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 4054.40cr, QoQ -0.80% & YoY 169.92% SALES;
-258.70cr, QoQ -12.20% & YoY 23.66% OPERATING PROFIT;
+258.70cr, QoQ -12.80% & YoY 23.66% OPERATING PROFIT;
 202.80cr, QoQ -28.20% & YoY -24.92% NET PROFIT;
-OPM %: 6.40% vs 7.2%
+OPM %: 6.40% vs 7.3%
 NPM %: 5.00% vs 6.9%
 

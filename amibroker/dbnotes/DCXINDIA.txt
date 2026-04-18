@@ -1,22 +1,43 @@
-CODES
-543650	DCXINDIA	
-SECTOR : Aerospace & Defence
-INDUSTRY : Electronics - Components
+CODES	543650	DCXINDIA	
+FULLNAME : DCX Systems Ltd
+SECTOR : Aerospace & Defense
+INDUSTRY : Aerospace & Defense
+PRODUCT DEMAND
 
-***CONS***
-- NO PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 641.2		1102.3		1253.6		1423.6		1083.7		536.1
+SQoQ%: 	nan		71.9		13.7		13.6		-23.9		49.5
+YOPM%: 	1.6		6.1		6.7		5.6		0.4
+YNPM%: 	4.6		6.0		5.7		5.3		3.6
+YPROFIT: 29.6		65.6		71.7		75.8		38.9		-7.3
+PQoQ%: 	nan		122.0		9.3		5.7		-48.7		-18.8
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 200.0		550.0		222.2		192.8		121.1
+QoQ%: 	2.2		175.0		-59.6		-13.2		-37.2
+QOPM%: 	1.5		1.9		0.5		0.0		0.0
+QNPM%: 	5.0		3.8		1.8		0.0		0.0
+QPFT: 	10.0		20.7		4.1		-9.0		-2.4
+PQoQ%: 	91.8		106.8		-80.4		-322.7		-73.1
 
 
 
 ***PROS***
+A DEBT-Free Company
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1423.60cr, QoQ 13.60% SALES;
-79.90cr, QoQ -4.50% OPERATING PROFIT;
-75.80cr, QoQ 5.70% NET PROFIT;
-OPM %: 5.60% vs 6.7%
-NPM %: 5.30% vs 5.7%
+ 31-Mar-2025 #Result
+1083.70cr, QoQ -23.90% & YoY 69.01% SALES;
+4.60cr, QoQ -94.20% & YoY -54.46% OPERATING PROFIT;
+38.90cr, QoQ -48.70% & YoY 31.42% NET PROFIT;
+OPM %: 0.40% vs 5.6%
+NPM %: 3.60% vs 5.3%
 

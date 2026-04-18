@@ -1,38 +1,45 @@
-CODES
-500870	CASTROLIND	
-SECTOR : 
-INDUSTRY : 
-PRODUCT DEMAND
+CODES	500870	CASTROLIND	
+FULLNAME : Castrol India Ltd
+SECTOR : Petroleum Products
+INDUSTRY : Lubricants
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Dec-2020 | Dec-2021 | Dec-2022 | Dec-2023 | Dec-2024
----------+----------+----------+----------+----------+---------
-YSALES:  |  2996.9  |  4192.1  |  4774.5  |  5074.6  |  5364.8 
- SQoQ%:  |  -22.7   |   39.9   |   13.9   |   6.3    |   5.7   
- YOPM%:  |   27.2   |   25.5   |   23.3   |   23.6   |   23.8  
- YNPM%:  |   19.5   |   18.1   |   17.1   |   17.0   |   17.3  
-YPROFIT: |  582.9   |  758.1   |  815.2   |  864.1   |  927.2  
- PQoQ%:  |  -29.5   |   30.0   |   7.5    |   6.0    |   7.3   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1325.2  |  1397.5  |  1288.2  |  1353.9  |  1422.0 
- QoQ%:  |   4.8    |   5.5    |   -7.8   |   5.1    |   5.0   
- QOPM%: |   22.2   |   23.1   |   22.2   |   27.8   |   21.6  
- QNPM%: |   16.3   |   16.6   |   16.1   |   20.0   |   16.4  
- QPFT:  |  216.2   |  232.2   |  207.4   |  271.4   |  233.5  
- PQoQ%: |  -10.6   |   7.4    |  -10.7   |   30.8   |  -14.0  
+***YEARLY***
+YPNL: 	Dec-2021	Dec-2022	Dec-2023	Dec-2024	Dec-2025	QSUM:Dec-2025
+YSALES: 4192.1		4774.5		5074.6		5364.8		5721.5		4299.5
+SQoQ%: 	39.9		13.9		6.3		5.7		6.6		75.1
+YOPM%: 	25.5		23.3		23.6		23.8		23.6
+YNPM%: 	18.1		17.1		17.0		17.3		16.6
+YPROFIT: 758.1		815.2		864.1		927.2		949.9		716.5
+PQoQ%: 	30.0		7.5		6.0		7.3		2.4		75.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1353.9		1422.0		1496.8		1362.8		1439.9
+QoQ%: 	5.1		5.0		5.3		-9.0		5.7
+QOPM%: 	27.8		21.6		23.4		23.7		25.5
+QNPM%: 	20.0		16.4		16.3		16.7		17.0
+QPFT: 	271.4		233.5		244.0		227.8		244.7
+PQoQ%: 	30.8		-14.0		4.5		-6.6		7.4
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Dec2024 is at 46.8%
-- YMargins improvised by more than 15% since Dec2022 and PROFITS been maintaining ever since
+ROCE in Dec2025 is at 63.1%
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 75% of YProfit
+- YMargins improvised by more than 15% since Dec2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
- 31-Dec-2024 #Result
-5364.80cr, QoQ 5.70% & YoY 79.01% SALES;
-1278.40cr, QoQ 6.70% & YoY 56.99% OPERATING PROFIT;
-927.20cr, QoQ 7.30% & YoY 59.07% NET PROFIT;
-OPM %: 23.80% vs 23.6%
-NPM %: 17.30% vs 17.0%
+ 31-Dec-2025 #Result
+5721.50cr, QoQ 6.60% & YoY 36.48% SALES;
+1347.50cr, QoQ 5.40% & YoY 26.30% OPERATING PROFIT;
+949.90cr, QoQ 2.40% & YoY 25.30% NET PROFIT;
+OPM %: 23.60% vs 23.8%
+NPM %: 16.60% vs 17.3%
 

@@ -1,27 +1,24 @@
-CODES
-MAL	
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
+CODES	MAL	
+FULLNAME : Mangalam Alloys Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
 PRODUCT DEMAND
-LYPD PM 2024
 
-***CONS***
-
-
-
+***YEARLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
-- LastYr YProfits Doubled and maintained in Mar2024
+
+YSALES in Mar-2025 is at 431.3 showing a QoQ_growth of 41.7%. The YNETPROFIT grew by 16.5% to 13.4
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-304.40cr, QoQ 0.60% & YoY -12.00% SALES;
-34.00cr, QoQ 2.40% & YoY 21.00% OPERATING PROFIT;
-11.50cr, QoQ 13.20% & YoY 76.92% NET PROFIT;
-OPM %: 11.20% vs 11.0%
-NPM %: 3.80% vs 3.3%
+ 31-Mar-2025 #Result
+431.30cr, QoQ 41.70% & YoY 59.21% SALES;
+52.90cr, QoQ 54.10% & YoY 306.92% OPERATING PROFIT;
+13.40cr, QoQ 16.50% & YoY -306.15% NET PROFIT;
+OPM %: 12.30% vs 11.3%
+NPM %: 3.10% vs 3.8%
 

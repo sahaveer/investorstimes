@@ -1,20 +1,21 @@
-CODES
-DEEM	
-SECTOR : Castings, Forgings & Fastners
-INDUSTRY : Castings & Forgings
+CODES	DEEM	
+FULLNAME : Deem Roll-Tech Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 
+***CONS***
+- NO PRODUCT DEMAND
+
 Yearly 
- 31-Mar-2024 #Result
-100.80cr, QoQ -2.50% SALES;
-13.70cr, QoQ 12.80% OPERATING PROFIT;
-7.80cr, QoQ 10.30% NET PROFIT;
-OPM %: 13.60% vs 11.7%
-NPM %: 7.70% vs 6.8%
+ 31-Mar-2025 #Result
+92.90cr, QoQ -7.90% & YoY 45.61% SALES;
+5.30cr, QoQ -61.30% & YoY -49.04% OPERATING PROFIT;
+2.90cr, QoQ -62.90% & YoY -3.33% NET PROFIT;
+OPM %: 5.70% vs 13.6%
+NPM %: 3.10% vs 7.7%
 

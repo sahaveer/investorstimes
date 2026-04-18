@@ -1,40 +1,46 @@
-CODES
-524820	PANAMAPET	
-SECTOR : Petrochemicals
-INDUSTRY : Petrochemicals
-BestQ Dec 2024
+CODES	524820	PANAMAPET	
+FULLNAME : Panama Petrochem Ltd
+SECTOR : Petroleum Products
+INDUSTRY : Lubricants
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1447.0		2132.4		2248.7		2356.7		2792.9		2241.4
+SQoQ%: 	44.3		47.4		5.5		4.8		18.5		80.3
+YOPM%: 	13.1		13.9		13.7		10.8		8.8
+YNPM%: 	9.4		10.8		10.4		8.3		6.7
+YPROFIT: 135.4		230.3		233.0		195.2		187.0		141.4
+PQoQ%: 	370.3		70.2		1.1		-16.2		-4.2		75.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 728.0		695.2		693.2		773.2		775.0
+QoQ%: 	4.2		-4.5		-0.3		11.5		0.2
+QOPM%: 	8.7		8.6		7.9		8.9		7.8
+QNPM%: 	6.7		6.4		6.1		6.9		5.9
+QPFT: 	48.5		44.3		42.6		53.0		45.8
+PQoQ%: 	10.0		-8.7		-3.7		24.3		-13.5
+
+
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 15.4%
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 76% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1002.8  |  1447.0  |  2132.4  |  2248.7  |  2356.7  |     2097.7   
- SQoQ%:  |  -21.0   |   44.3   |   47.4   |   5.5    |   4.8    |      89.0    
- YOPM%:  |   5.3    |   13.1   |   13.9   |   13.7   |   10.8   |              
- YNPM%:  |   2.9    |   9.4    |   10.8   |   10.4   |   8.3    |              
-YPROFIT: |   28.8   |  135.4   |  230.3   |  233.0   |  195.2   |     142.8    
- PQoQ%:  |  -44.5   |  370.3   |   70.2   |   1.1    |  -16.2   |      73.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  511.8   |  741.0   |  670.8   |  698.9   |  728.0  
- QoQ%:  |  -10.9   |   44.8   |   -9.5   |   4.2    |   4.2   
- QOPM%: |   11.0   |   10.4   |   9.8    |   8.4    |   8.7   
- QNPM%: |   8.1    |   8.2    |   7.5    |   6.3    |   6.7   
- QPFT:  |   41.4   |   61.0   |   50.2   |   44.1   |   48.5  
- PQoQ%: |  -11.8   |   47.4   |  -17.7   |  -12.1   |   10.0  
-
-***PROS***
-A DEBT-Free Company for the last 2 yrs
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 17.6%
-- Last 3QSALES is about 89% YSales
-- Last 3QPROFIT is about 73% of YProfit
 
 Yearly 
- 31-Mar-2024 #Result
-2356.70cr, QoQ 4.80% & YoY 135.01% SALES;
-254.10cr, QoQ -17.80% & YoY 377.63% OPERATING PROFIT;
-195.20cr, QoQ -16.20% & YoY 577.78% NET PROFIT;
-OPM %: 10.80% vs 13.7%
-NPM %: 8.30% vs 10.4%
+ 31-Mar-2025 #Result
+2792.90cr, QoQ 18.50% & YoY 93.01% SALES;
+246.60cr, QoQ -2.90% & YoY 29.93% OPERATING PROFIT;
+187.00cr, QoQ -4.20% & YoY 38.11% NET PROFIT;
+OPM %: 8.80% vs 10.8%
+NPM %: 6.70% vs 8.3%
 

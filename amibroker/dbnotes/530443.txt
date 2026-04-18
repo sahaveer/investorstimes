@@ -1,30 +1,36 @@
-CODE	NAME
-530443 
-
-SECTOR : Textiles
-INDUSTRY : Textiles - Spinning - Synthetic / Blended
-PRODUCT DEMAND
+CODES	530443	
+FULLNAME : Kiran Syntex Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+YSD YPD 2025
 YSD YPD 2023
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		0.0		1.0		0.0		0.8		9.1
+SQoQ%: 	nan		nan		inf		-100.0		inf		1137.5
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -0.1		-0.1		-0.1		-0.1		-0.1		0.0
+PQoQ%: 	0.0		50.0		-11.1		12.5		-11.1		-0.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.8		2.3		4.0		2.8
+QoQ%: 	nan		inf		171.8		71.0		-30.1
+QOPM%: 	0.0		0.0		0.0		1.0		0.0
+QNPM%: 	0.0		0.0		0.0		1.0		0.0
+QPFT: 	-0.0		-0.0		-0.0		0.0		-0.0
+PQoQ%: 	0.0		0.0		200.0		-233.3		-125.0
+
+
+
+***PROS***
+- Last 3QSALES is about 1137% YSales
+- YProfits and YSales DOUBLED in Mar2025
+- YProfits and YSales DOUBLED in Mar2023
 
 ***CONS***
 - NEGATIVE YProfit : -0.1
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   0.0    |   0.0    |   1.0    |   0.0    |      0.0     
- SQoQ%:  |   nan    |   nan    |   nan    |   inf    |  -100.0  |      nan     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -0.1   |   -0.1   |   -0.1   |   -0.1   |   -0.1   |      -0.0    
- PQoQ%:  |  -33.3   |   0.0    |   50.0   |  -11.1   |   12.5   |      0.0     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.0   |   -0.0   |   -0.0   |   -0.0   |   -0.0  
- PQoQ%: |  -66.7   |   0.0    |  300.0   |  -75.0   |   0.0   
-
-***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- YProfits and YSales DOUBLED in Mar2023

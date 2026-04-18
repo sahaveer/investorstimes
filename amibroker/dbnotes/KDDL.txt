@@ -1,33 +1,42 @@
-CODES
-532054	KDDL	
+CODES	532054	KDDL	
+FULLNAME : KDDL Ltd
 SECTOR : Consumer Durables
-INDUSTRY : Miscellaneous
+INDUSTRY : Gems, Jewellery And Watches
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  548.8   |  816.2   |  1119.4  |  1391.0  |  1647.9 
- SQoQ%:  |  -15.9   |   48.7   |   37.1   |   24.3   |   18.5  
- YOPM%:  |   12.4   |   13.8   |   15.0   |   18.3   |   15.8  
- YNPM%:  |   1.0    |   3.9    |   4.8    |   7.4    |   5.7   
-YPROFIT: |   5.7    |   32.0   |   53.6   |  102.7   |   94.6  
- PQoQ%:  | -1061.0  |  463.5   |   67.7   |   91.6   |   -7.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  347.6   |  359.9   |  396.3   |  472.0   |  419.6  
- QoQ%:  |   -6.6   |   3.5    |   10.1   |   19.1   |  -11.1  
- QOPM%: |   17.4   |   15.2   |   15.8   |   16.5   |   15.3  
- QNPM%: |   7.4    |   4.8    |   6.2    |   6.9    |   4.8   
- QPFT:  |   25.6   |   17.3   |   24.6   |   32.5   |   20.3  
- PQoQ%: |   -1.2   |  -32.5   |   42.2   |   32.2   |  -37.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 548.8		816.2		1119.4		1391.0		1647.9		1578.4
+SQoQ%: 	-15.9		48.7		37.1		24.3		18.5		95.8
+YOPM%: 	12.4		13.8		15.0		18.3		16.3
+YNPM%: 	1.0		3.9		4.8		7.4		5.7
+YPROFIT: 5.7		32.0		53.6		102.7		94.6		62.8
+PQoQ%: 	-1061.0		463.5		67.7		91.6		-7.9		66.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 472.0		419.6		465.0		516.7		596.7
+QoQ%: 	19.1		-11.1		10.8		11.1		15.5
+QOPM%: 	16.5		15.3		14.7		13.9		13.9
+QNPM%: 	6.9		4.8		4.4		3.8		3.9
+QPFT: 	32.5		20.3		20.4		19.4		23.0
+PQoQ%: 	32.2		-37.4		0.6		-5.1		18.6
+
+
 
 ***PROS***
+- Last 3QSALES is about 96% YSales
+- Last 3QPROFIT is about 66% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 1647.90cr, QoQ 18.50% & YoY 200.27% SALES;
-260.30cr, QoQ 2.30% & YoY 281.67% OPERATING PROFIT;
-94.60cr, QoQ -7.80% & YoY 1559.65% NET PROFIT;
-OPM %: 15.80% vs 18.3%
+269.40cr, QoQ 5.80% & YoY 295.01% OPERATING PROFIT;
+94.60cr, QoQ -7.90% & YoY 1559.65% NET PROFIT;
+OPM %: 16.30% vs 18.3%
 NPM %: 5.70% vs 7.4%
 

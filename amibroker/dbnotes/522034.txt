@@ -1,39 +1,48 @@
-CODES
-522034	SHANTIGEAR	
-SECTOR : 
-INDUSTRY : 
+CODES	522034	SHANTIGEAR	
+FULLNAME : Shanthi Gears Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  215.5   |  337.1   |  445.6   |  536.0   |  604.6  
- SQoQ%:  |  -11.0   |   56.4   |   32.2   |   20.3   |   12.8  
- YOPM%:  |   12.5   |   17.9   |   20.2   |   19.1   |   21.3  
- YNPM%:  |   9.4    |   12.6   |   15.0   |   15.3   |   15.9  
-YPROFIT: |   20.2   |   42.5   |   67.0   |   82.2   |   96.0  
- PQoQ%:  |  -19.9   |  110.6   |   57.9   |   22.7   |   16.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  153.6   |  138.8   |  155.1   |  157.5   |  153.2  
- QoQ%:  |   22.4   |   -9.6   |   11.7   |   1.6    |   -2.7  
- QOPM%: |   17.3   |   20.6   |   22.0   |   22.2   |   20.2  
- QNPM%: |   16.7   |   15.6   |   16.5   |   16.7   |   14.7  
- QPFT:  |   25.7   |   21.7   |   25.6   |   26.3   |   22.5  
- PQoQ%: |   47.3   |  -15.7   |   18.3   |   2.5    |  -14.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 215.5		337.1		445.6		536.0		604.6		383.6
+SQoQ%: 	-11.0		56.4		32.2		20.3		12.8		63.4
+YOPM%: 	12.5		17.9		20.2		19.1		21.4
+YNPM%: 	9.4		12.6		15.0		15.3		15.9
+YPROFIT: 20.2		42.5		67.0		82.2		96.0		60.4
+PQoQ%: 	-19.9		110.6		57.9		22.7		16.8		62.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 157.5		153.2		134.9		131.9		116.8
+QoQ%: 	1.6		-2.7		-12.0		-2.2		-11.4
+QOPM%: 	22.2		20.2		22.6		20.1		19.7
+QNPM%: 	16.7		14.7		16.8		16.3		13.9
+QPFT: 	26.3		22.5		22.7		21.5		16.2
+PQoQ%: 	2.5		-14.5		1.0		-5.2		-24.7
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 26.3%
+ROCE in Mar2025 is at 26.4%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 63% YSales
+- Last 3QPROFIT is about 63% of YProfit
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
 604.60cr, QoQ 12.80% & YoY 180.56% SALES;
-128.70cr, QoQ 25.80% & YoY 378.44% OPERATING PROFIT;
+129.20cr, QoQ 26.30% & YoY 380.30% OPERATING PROFIT;
 96.00cr, QoQ 16.80% & YoY 375.25% NET PROFIT;
-OPM %: 21.30% vs 19.1%
+OPM %: 21.40% vs 19.1%
 NPM %: 15.90% vs 15.3%
 

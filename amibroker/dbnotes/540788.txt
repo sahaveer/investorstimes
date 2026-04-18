@@ -1,14 +1,15 @@
-CODE	NAME
-540788 
+CODES	540788	
+FULLNAME : Aspira Pathlab & Diagnostics Ltd
+SECTOR : Healthcare Services
+INDUSTRY : Healthcare Service Provider
 
-SECTOR : Healthcare
-INDUSTRY : Healthcare
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
 - YProfit Turned POSITIVE this year Mar-2025 : 2.0
+
+***CONS***

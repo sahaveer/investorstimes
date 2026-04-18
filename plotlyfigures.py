@@ -19,9 +19,19 @@ height_val = 360 #574
 #write_on_chart = "<i>@itimesalgo        </i>"
 write_on_chart = "<i>https://itimesalgo.streamlit.app/</i>"
 
+def check_rows(df, rows):
+    """Check if all rows exist in the DataFrame index."""
+    missing = [r for r in rows if r not in df.index]
+    if missing:
+        st.warning(f"Data missing for: {', '.join(missing)}")
+        return False
+    return True
+
 
 
 def go_bar(df, row_name,color_bar,comp_Name,filename):
+    if not check_rows(df, [row_name]):
+        return
     save_as = f"{filename} {row_name}"
     #fig = ff.create_table(df)
     #st.plotly_chart(fig)
@@ -64,6 +74,8 @@ def go_bar(df, row_name,color_bar,comp_Name,filename):
     #generate_html_Download_link(fig)
 
 def both_lines(df,row1,row2,color_bar,color_line,comp_Name,filename):
+    if not check_rows(df, [row1, row2]):
+        return
     save_as = f"{filename} {row1} {row2}"
     save_as = save_as.replace('%','')
     dat_rows = [df.loc[row1], df.loc[row2]]
@@ -108,6 +120,8 @@ def both_lines(df,row1,row2,color_bar,color_line,comp_Name,filename):
     #         instaimage.create_instaimage(title_text,description,image_path)
 
 def bar_line(df,row1,row2,color_bar,comp_Name,filename):
+    if not check_rows(df, [row1, row2]):
+        return
     save_as = f"{filename} {row1} {row2}"
     save_as = save_as.replace('%','')
     dat_rows = [df.loc[row1], df.loc[row2]]
@@ -151,6 +165,8 @@ def bar_line(df,row1,row2,color_bar,comp_Name,filename):
     #         instaimage.create_instaimage(title_text,description,image_path)
 
 def qoq_growth(df,row_name,color_bar,comp_Name,filename):
+    if not check_rows(df, [row_name]):
+        return
     save_as = f"{filename}  {row_name}".upper()
     col_chart1, col2_chart = st.columns([1, 5])
     temp_df = df.loc[row_name]
@@ -249,6 +265,8 @@ def peer_bar(df,Name,comp1_Name,comp2_Name):   #this has 2 series concatinated w
             print("Saved as image")
 #not in use
 def group_3_bars(df,row1,row2,row3,comp_Name,filename):
+    if not check_rows(df, [row1, row2, row3]):
+        return
     save_as = f"{filename}  {row1}  {row2}  {row3}".upper()
     dat_rows = [df.loc[row1], df.loc[row2],df.loc[row3]]
     new_df = pd.concat(dat_rows, keys=[row1, row2,row3], axis=1)
@@ -325,6 +343,8 @@ def group_3_bars(df,row1,row2,row3,comp_Name,filename):
             print("Saved as image")
 
 def group_2_bars(df,row1,row2,comp_Name,filename):
+    if not check_rows(df, [row1, row2]):
+        return
     save_as = f"{comp_Name} {filename} {row1} {row2}"
     dat_rows = [df.loc[row1], df.loc[row2]]
     # st.dataframe(dat_rows)

@@ -1,12 +1,14 @@
-CODES
-543433	HPAL	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	543433	HPAL	
+FULLNAME : HP Adhesives Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

@@ -1,15 +1,17 @@
-CODES
-544322	UNIMECH	
+CODES	544322	UNIMECH	
+FULLNAME : Unimech Aerospace and Manufacturing Ltd
 SECTOR : Aerospace & Defence
 INDUSTRY : Engineering
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
 
 Quarterly 
 31-Dec-2024 #Result

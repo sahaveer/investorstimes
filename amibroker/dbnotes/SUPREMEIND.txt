@@ -1,30 +1,39 @@
-CODES
-509930	SUPREMEIND	
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
+CODES	509930	SUPREMEIND	
+FULLNAME : Supreme Industries Ltd
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  6355.2  |  7772.8  |  9201.6  | 10134.3  | 10446.2 
- SQoQ%:  |   15.3   |   22.3   |   18.4   |   10.1   |   3.1   
- YOPM%:  |   20.2   |   16.0   |   13.0   |   15.3   |   13.7  
- YNPM%:  |   15.4   |   12.5   |   9.4    |   10.6   |   9.2   
-YPROFIT: |  978.1   |  968.4   |  865.3   |  1069.7  |  960.9  
- PQoQ%:  |  109.3   |   -1.0   |  -10.6   |   23.6   |  -10.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  3007.9  |  2636.4  |  2273.0  |  2509.9  |  3027.1 
- QoQ%:  |   22.8   |  -12.4   |  -13.8   |   10.4   |   20.6  
- QOPM%: |   16.3   |   14.7   |   14.0   |   12.3   |   13.8  
- QNPM%: |   11.8   |   10.4   |   9.1    |   7.4    |   9.7   
- QPFT:  |  354.8   |  273.4   |  206.6   |  187.0   |  293.9  
- PQoQ%: |   38.5   |  -23.0   |  -24.4   |   -9.5   |   57.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 6355.2		7772.8		9201.6		10134.3		10446.2		7690.0
+SQoQ%: 	15.3		22.3		18.4		10.1		3.1		73.6
+YOPM%: 	20.2		16.0		13.0		15.3		13.7
+YNPM%: 	15.4		12.5		9.4		10.6		9.2
+YPROFIT: 978.1		968.4		865.3		1069.7		960.9		520.4
+PQoQ%: 	109.3		-1.0		-10.6		23.6		-10.2		54.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2509.9		3027.1		2609.2		2393.9		2686.9
+QoQ%: 	10.4		20.6		-13.8		-8.3		12.2
+QOPM%: 	12.3		13.8		12.2		12.4		11.7
+QNPM%: 	7.4		9.7		7.8		6.9		5.7
+QPFT: 	187.0		293.9		202.3		164.7		153.4
+PQoQ%: 	-9.5		57.2		-31.2		-18.6		-6.9
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 17.2%
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 54% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

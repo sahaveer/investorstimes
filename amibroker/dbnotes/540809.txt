@@ -1,13 +1,14 @@
-CODE	NAME
-540809 
+CODES	540809	
+FULLNAME : MRC Agrotech Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

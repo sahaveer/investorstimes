@@ -1,31 +1,47 @@
-CODES
-533164	TEXMOPIPES	
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
-BestQ Dec 2024
-BestQ Dec 2024
+CODES	533164	TEXMOPIPES	
+FULLNAME : Texmo Pipes & Products Ltd
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial
+BestQ Dec 2025
+BestQ Dec 2025
+LYPD PM 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 424.6		562.9		635.0		534.5		364.0		257.4
+SQoQ%: 	30.4		32.6		12.8		-15.8		-31.9		70.7
+YOPM%: 	6.8		6.3		6.4		6.8		7.7
+YNPM%: 	2.6		2.6		0.2		1.8		4.8
+YPROFIT: 11.2		14.6		1.1		9.6		17.5		10.7
+PQoQ%: 	159.4		30.1		-92.3		751.3		81.5		61.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 103.6		90.8		91.8		60.7		104.9
+QoQ%: 	70.1		-12.3		1.1		-33.8		72.7
+QOPM%: 	8.3		4.7		6.7		6.5		7.8
+QNPM%: 	4.7		5.7		5.0		2.5		4.4
+QPFT: 	4.9		5.2		4.6		1.5		4.6
+PQoQ%: 	59.0		5.5		-11.1		-66.4		201.3
+
+
+
+***PROS***
+- Last 3QSALES is about 71% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 61% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2025
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  325.5   |  424.6   |  562.9   |  635.0   |  530.4   |     292.6    
- SQoQ%:  |   6.4    |   30.4   |   32.6   |   12.8   |  -16.5   |      55.2    
- YOPM%:  |   6.9    |   6.8    |   6.3    |   0.0    |   6.3    |              
- YNPM%:  |   1.2    |   2.6    |   2.5    |   0.0    |   0.9    |              
-YPROFIT: |   3.9    |   10.8   |   14.2   |  -71.8   |   4.6    |      13.2    
- PQoQ%:  |   32.7   |  174.9   |   31.4   |  -604.3  |  -106.5  |     287.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  122.5   |   85.0   |  118.8   |   64.0   |  109.8  
- QoQ%:  |   -0.2   |  -30.6   |   39.7   |  -46.1   |   71.7  
- QOPM%: |   6.0    |   6.4    |   10.9   |   8.9    |   9.0   
- QNPM%: |   2.0    |   0.0    |   4.8    |   4.0    |   4.6   
- QPFT:  |   2.5    |   -6.7   |   5.7    |   2.5    |   5.0   
- PQoQ%: |  163.8   |  -371.4  |  -184.5  |  -55.4   |   97.2  
 
-***PROS***
-- Last 3QSALES is about 55% YSales
-- Double QSales and QProfit
-- Last 3QPROFIT is about 287% of YProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 4.6
+Yearly 
+ 31-Mar-2025 #Result
+364.00cr, QoQ -31.90% & YoY -14.27% SALES;
+28.00cr, QoQ -23.40% & YoY -3.45% OPERATING PROFIT;
+17.50cr, QoQ 81.50% & YoY 56.25% NET PROFIT;
+OPM %: 7.70% vs 6.8%
+NPM %: 4.80% vs 1.8%
+

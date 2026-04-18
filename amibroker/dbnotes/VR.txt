@@ -1,16 +1,17 @@
-CODES
-VR	
-SECTOR : Construction
-INDUSTRY : Construction
+CODES	VR	
+FULLNAME : V R Infraspace Ltd
+SECTOR : Consumer Discretionary
+INDUSTRY : Realty
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 A DEBT-Free Company
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

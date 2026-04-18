@@ -1,34 +1,43 @@
-CODES
-500411	THERMAX	
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Electric Equipment
+CODES	500411	THERMAX	
+FULLNAME : Thermax Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Heavy Electrical Equipment
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 4791.2		6128.3		8089.8		9323.5		10388.7		7266.1
+SQoQ%: 	-16.4		27.9		32.0		15.2		11.4		69.9
+YOPM%: 	7.4		6.8		7.4		8.6		8.8
+YNPM%: 	4.3		5.1		5.6		6.9		6.1
+YPROFIT: 206.6		312.3		450.3		645.3		634.5		476.3
+PQoQ%: 	-2.8		51.2		44.2		43.3		-1.7		75.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2528.7		3084.9		2157.5		2473.9		2634.7
+QoQ%: 	-3.3		22.0		-30.1		14.7		6.5
+QOPM%: 	7.5		9.7		10.4		6.9		9.7
+QNPM%: 	4.6		6.7		7.1		4.8		7.7
+QPFT: 	115.9		205.7		152.4		119.7		204.2
+PQoQ%: 	-41.2		77.5		-25.9		-21.5		70.6
+
+
+
+***PROS***
+- Last 3QSALES is about 70% YSales
+- Last 3QPROFIT is about 75% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  4791.2  |  6128.3  |  8089.8  |  9323.5  | 10388.7 
- SQoQ%:  |  -16.4   |   27.9   |   32.0   |   15.2   |   11.4  
- YOPM%:  |   7.4    |   6.8    |   7.4    |   8.6    |   8.7   
- YNPM%:  |   4.3    |   5.1    |   5.6    |   6.9    |   6.1   
-YPROFIT: |  206.6   |  312.3   |  450.3   |  645.3   |  634.5  
- PQoQ%:  |   -2.8   |   51.2   |   44.2   |   43.3   |   -1.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2763.7  |  2184.4  |  2611.6  |  2507.8  |  3084.9 
- QoQ%:  |   18.9   |  -21.0   |   19.6   |   -4.0   |   23.0  
- QOPM%: |   9.9    |   6.4    |   10.6   |   7.5    |   9.7   
- QNPM%: |   6.9    |   5.3    |   7.5    |   4.6    |   6.7   
- QPFT:  |  190.3   |  115.8   |  197.0   |  115.9   |  205.7  
- PQoQ%: |  -20.1   |  -39.2   |   70.1   |  -41.2   |   77.5  
-
-***PROS***
 
 Yearly 
  31-Mar-2025 #Result
 10388.70cr, QoQ 11.40% & YoY 116.83% SALES;
-907.50cr, QoQ 13.80% & YoY 154.99% OPERATING PROFIT;
+910.20cr, QoQ 14.10% & YoY 155.75% OPERATING PROFIT;
 634.50cr, QoQ -1.70% & YoY 207.12% NET PROFIT;
-OPM %: 8.70% vs 8.6%
+OPM %: 8.80% vs 8.6%
 NPM %: 6.10% vs 6.9%
 

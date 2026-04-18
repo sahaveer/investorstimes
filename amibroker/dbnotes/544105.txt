@@ -1,11 +1,11 @@
-CODE	NAME
-544105 
-
+CODES	544105	
+FULLNAME : Harshdeep Hortico Ltd
 SECTOR : FMCG
 INDUSTRY : Miscellaneous
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

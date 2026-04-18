@@ -1,31 +1,40 @@
-CODES
-543533	EMUDHRA	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	543533	EMUDHRA	
+FULLNAME : eMudhra Ltd
+SECTOR : IT - Services
+INDUSTRY : IT Enabled Services
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  131.6   |  182.6   |  248.8   |  373.1   |  519.4  
- SQoQ%:  |   13.0   |   38.8   |   36.2   |   50.0   |   39.2  
- YOPM%:  |   30.3   |   36.7   |   35.1   |   29.5   |   23.9  
- YNPM%:  |   13.3   |   22.7   |   24.8   |   20.1   |   16.3  
-YPROFIT: |   17.5   |   41.4   |   61.7   |   75.1   |   84.6  
- PQoQ%:  |   4.9    |  137.1   |   49.0   |   21.7   |   12.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   99.7   |   92.4   |  141.2   |  138.8   |  146.9  
- QoQ%:  |   2.4    |   -7.3   |   52.8   |   -1.7   |   5.8   
- QOPM%: |   33.0   |   29.1   |   22.9   |   21.5   |   23.7  
- QNPM%: |   21.1   |   19.3   |   15.5   |   15.1   |   16.3  
- QPFT:  |   21.0   |   17.8   |   21.9   |   21.0   |   23.9  
- PQoQ%: |   4.3    |  -15.0   |   22.9   |   -4.4   |   13.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 131.6		182.6		248.8		373.1		519.4		508.2
+SQoQ%: 	13.0		38.8		36.2		50.0		39.2		97.8
+YOPM%: 	30.3		36.7		35.1		29.5		23.9
+YNPM%: 	13.3		22.7		24.8		20.1		16.3
+YPROFIT: 17.5		41.4		61.7		75.1		84.6		78.9
+PQoQ%: 	4.9		137.1		49.0		21.7		12.8		93.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 138.8		146.9		147.3		172.9		188.0
+QoQ%: 	-1.7		5.8		0.3		17.4		8.8
+QOPM%: 	21.5		23.7		23.5		23.9		21.9
+QNPM%: 	15.1		16.3		16.9		14.6		15.2
+QPFT: 	21.0		23.9		24.9		25.3		28.7
+PQoQ%: 	-4.4		13.9		4.1		1.6		13.4
+
+
 
 ***PROS***
 A DEBT-Free Company for the last 2 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 98% YSales
+- Last 3QPROFIT is about 93% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

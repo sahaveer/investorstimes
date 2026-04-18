@@ -1,12 +1,14 @@
-CODES
-543258	INDIGOPNTS	
-SECTOR : Paints/Varnish
-INDUSTRY : Paints / Varnishes
+CODES	543258	INDIGOPNTS	
+FULLNAME : Indigo Paints Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Paints
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

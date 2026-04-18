@@ -1,41 +1,43 @@
-CODES
-CMRSL	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
-BestQ Dec 2024
+CODES	CMRSL	
+FULLNAME : Cyber Media Research & Services Ltd
+SECTOR : Media
+INDUSTRY : Advertising & Media Agencies
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 29.7		56.6		63.1		87.3		75.0		65.4
+SQoQ%: 	-1.7		90.6		11.5		38.3		-14.1		87.2
+YOPM%: 	4.7		6.0		6.9		7.0		3.8
+YNPM%: 	2.2		2.8		3.4		4.1		3.1
+YPROFIT: 0.7		1.6		2.1		3.6		2.3		2.5
+PQoQ%: 	69.2		142.4		32.5		69.3		-35.4		108.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 21.0		18.4		22.0		21.1		22.3
+QoQ%: 	18.6		-12.4		19.9		-4.0		5.5
+QOPM%: 	4.1		3.1		5.4		5.2		5.5
+QNPM%: 	3.4		2.2		4.8		3.9		2.5
+QPFT: 	0.7		0.4		1.1		0.8		0.6
+PQoQ%: 	28.6		-43.1		158.5		-21.7		-33.7
+
+
+
+***PROS***
+- Last 3QSALES is about 87% YSales
+- Last 3QPROFIT is about 109% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   30.2   |   29.7   |   56.6   |   63.1   |   87.3   |      56.8    
- SQoQ%:  |  -20.6   |   -1.7   |   90.6   |   11.5   |   38.3   |      65.1    
- YOPM%:  |   2.6    |   4.7    |   6.0    |   6.9    |   7.0    |              
- YNPM%:  |   1.3    |   2.2    |   2.8    |   3.4    |   4.1    |              
-YPROFIT: |   0.4    |   0.7    |   1.6    |   2.1    |   3.6    |      1.9     
- PQoQ%:  |   69.6   |   69.2   |  142.4   |   32.5   |   69.3   |      52.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   21.5   |   22.4   |   18.1   |   17.7   |   21.0  
- QoQ%:  |  -15.0   |   4.3    |  -19.6   |   -2.2   |   18.6  
- QOPM%: |   6.3    |   12.0   |   4.1    |   3.8    |   4.1   
- QNPM%: |   4.2    |   5.9    |   3.4    |   3.2    |   3.4   
- QPFT:  |   0.9    |   1.3    |   0.6    |   0.6    |   0.7   
- PQoQ%: |   12.5   |   46.7   |  -53.0   |   -9.7   |   28.6  
-
-***PROS***
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 18.5%
-- Last 3QSALES is about 65% YSales
-- Last 3QPROFIT is about 53% of YProfit
-
-YSALES in Mar-2024 is at 87.3 showing a QoQ_growth of 38.3%. The YNETPROFIT grew by 69.3% to 3.6
 
 Yearly 
- 31-Mar-2024 #Result
-87.30cr, QoQ 38.30% & YoY 189.07% SALES;
-6.10cr, QoQ 39.40% & YoY 662.50% OPERATING PROFIT;
-3.60cr, QoQ 69.30% & YoY 800.00% NET PROFIT;
-OPM %: 7.00% vs 6.9%
-NPM %: 4.10% vs 3.4%
+ 31-Mar-2025 #Result
+75.00cr, QoQ -14.10% & YoY 152.53% SALES;
+2.90cr, QoQ -53.20% & YoY 107.14% OPERATING PROFIT;
+2.30cr, QoQ -35.40% & YoY 228.57% NET PROFIT;
+OPM %: 3.80% vs 7.0%
+NPM %: 3.10% vs 4.1%
 

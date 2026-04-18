@@ -1,37 +1,46 @@
-CODES
-531162	EMAMILTD	
-SECTOR : FMCG
-INDUSTRY : Personal Care - Indian
+CODES	531162	EMAMILTD	
+FULLNAME : Emami Ltd
+SECTOR : Personal Products
+INDUSTRY : Personal Care
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2880.5  |  3192.0  |  3405.7  |  3578.1  |  3809.2 
- SQoQ%:  |   8.5    |   10.8   |   6.7    |   5.1    |   6.5   
- YOPM%:  |   30.6   |   29.4   |   25.1   |   26.4   |   26.6  
- YNPM%:  |   15.8   |   26.3   |   18.8   |   20.2   |   21.2  
-YPROFIT: |  454.7   |  839.0   |  639.6   |  723.5   |  806.5  
- PQoQ%:  |   50.1   |   84.5   |  -23.8   |   13.1   |   11.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  891.2   |  906.1   |  890.6   |  1049.5  |  963.0  
- QoQ%:  |  -10.5   |   1.7    |   -1.7   |   17.8   |   -8.2  
- QOPM%: |   23.5   |   23.7   |   27.6   |   31.8   |   22.7  
- QNPM%: |   16.7   |   16.8   |   23.9   |   26.6   |   16.8  
- QPFT:  |  148.9   |  152.6   |  212.7   |  279.0   |  162.2  
- PQoQ%: |  -42.4   |   2.5    |   39.3   |   31.2   |  -41.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2880.5		3192.0		3405.7		3578.1		3809.2		2854.4
+SQoQ%: 	8.5		10.8		6.7		5.1		6.5		74.9
+YOPM%: 	30.6		29.4		25.1		26.4		26.6
+YNPM%: 	15.8		26.3		18.8		20.2		21.2
+YPROFIT: 454.7		839.0		639.6		723.5		806.5		632.2
+PQoQ%: 	50.1		84.5		-23.8		13.1		11.5		78.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1049.5		963.0		904.1		798.5		1151.8
+QoQ%: 	17.8		-8.2		-6.1		-11.7		44.2
+QOPM%: 	31.8		22.7		23.5		22.1		33.4
+QNPM%: 	26.6		16.8		18.2		18.6		27.7
+QPFT: 	279.0		162.2		164.3		148.4		319.5
+PQoQ%: 	31.2		-41.9		1.3		-9.7		115.4
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 35.5%
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 78% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 3809.20cr, QoQ 6.50% & YoY 32.24% SALES;
-1013.30cr, QoQ 7.10% & YoY 15.11% OPERATING PROFIT;
+1013.50cr, QoQ 7.20% & YoY 15.13% OPERATING PROFIT;
 806.50cr, QoQ 11.50% & YoY 77.37% NET PROFIT;
 OPM %: 26.60% vs 26.4%
 NPM %: 21.20% vs 20.2%

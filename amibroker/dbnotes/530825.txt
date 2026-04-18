@@ -1,18 +1,19 @@
-CODE	NAME
-530825 
+CODES	530825	
+FULLNAME : Daikaffil Chemicals India Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
 
-SECTOR : Agro Chemicals
-INDUSTRY : Pesticides / Agrochemicals - Indian
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
 A DEBT-Free Company for the last 2 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+
+***CONS***
 
 Yearly 
  31-Mar-2018 #Result

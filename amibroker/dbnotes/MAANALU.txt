@@ -1,12 +1,14 @@
-CODES
-532906	MAANALU	
-SECTOR : Non Ferrous Metals
-INDUSTRY : Aluminium and Aluminium Products
+CODES	532906	MAANALU	
+FULLNAME : Maan Aluminium Ltd
+SECTOR : Non - Ferrous Metals
+INDUSTRY : Aluminium
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

@@ -1,43 +1,47 @@
-CODE	NAME
-505690 
+CODES	505690	
+FULLNAME : Brady & Morris Engineering Company Ltd
+SECTOR : Agricultural, Commercial & Construction Vehicles
+INDUSTRY : Construction Vehicles
+PRODUCT DEMAND
+BestQ Dec 2025
+YS15 YPD 2025
 
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
-BestQ Dec 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 37.5		46.8		60.4		75.2		90.3		55.6
+SQoQ%: 	-13.9		24.7		29.0		24.6		20.1		61.6
+YOPM%: 	7.9		10.7		12.2		16.4		12.7
+YNPM%: 	7.0		6.8		8.4		11.2		26.6
+YPROFIT: 2.6		3.2		5.0		8.4		24.0		4.2
+PQoQ%: 	42.9		21.3		58.3		66.5		185.5		17.5
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   43.6   |   37.5   |   46.8   |   60.4   |   75.2   |      63.6    
- SQoQ%:  |   -0.2   |  -13.9   |   24.7   |   29.0   |   24.6   |      84.6    
- YOPM%:  |   6.6    |   7.9    |   10.7   |   12.2   |   16.4   |              
- YNPM%:  |   4.2    |   7.0    |   6.8    |   8.4    |   11.2   |              
-YPROFIT: |   1.8    |   2.6    |   3.2    |   5.0    |   8.4    |      6.9     
- PQoQ%:  |  -11.1   |   42.9   |   21.3   |   58.3   |   66.5   |      82.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   19.0   |   26.0   |   20.6   |   23.4   |   19.6  
- QoQ%:  |   19.1   |   37.0   |  -20.9   |   13.9   |  -16.2  
- QOPM%: |   18.1   |   14.6   |   17.1   |   14.8   |   15.4  
- QNPM%: |   11.5   |   9.7    |   11.7   |   10.4   |   10.8  
- QPFT:  |   2.2    |   2.5    |   2.4    |   2.4    |   2.1   
- PQoQ%: |   13.5   |   15.1   |   -4.4   |   0.8    |  -12.8  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 19.6		26.7		19.8		13.0		22.8
+QoQ%: 	-16.2		36.0		-25.7		-34.5		75.6
+QOPM%: 	15.4		5.5		10.6		4.2		11.7
+QNPM%: 	10.8		63.9		7.8		3.7		9.6
+QPFT: 	2.1		17.1		1.5		0.5		2.2
+PQoQ%: 	-12.8		704.7		-91.0		-68.8		356.2
+
+
 
 ***PROS***
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 29.0%
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 85% YSales
-- Last 3QPROFIT is about 82% of YProfit
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 24.6% while the Profit QoQ_growth is much better than Sales itself at 66.5%
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 62% YSales
+- Double QSales and QProfit
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
+As on Mar2025, Sales have increased by 20.1% while the Profit QoQ_growth is much better than Sales itself at 185.5%
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-75.20cr, QoQ 24.60% & YoY 72.48% SALES;
-12.30cr, QoQ 66.70% & YoY 324.14% OPERATING PROFIT;
-8.40cr, QoQ 66.50% & YoY 366.67% NET PROFIT;
-OPM %: 16.40% vs 12.2%
-NPM %: 11.20% vs 8.4%
+ 31-Mar-2025 #Result
+90.30cr, QoQ 20.10% & YoY 140.80% SALES;
+11.50cr, QoQ -6.70% & YoY 283.33% OPERATING PROFIT;
+24.00cr, QoQ 185.50% & YoY 823.08% NET PROFIT;
+OPM %: 12.70% vs 16.4%
+NPM %: 26.60% vs 11.2%
 

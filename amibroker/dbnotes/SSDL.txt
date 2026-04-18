@@ -1,14 +1,16 @@
-CODES
-544230	SSDL	
+CODES	544230	SSDL	
+FULLNAME : Saraswati Saree Depot Ltd
 SECTOR : Trading
 INDUSTRY : Trading
 PRODUCT DEMAND
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+
+***CONS***

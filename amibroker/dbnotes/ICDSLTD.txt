@@ -1,40 +1,47 @@
-CODES
-511194	ICDSLTD	
-SECTOR : Realty
-INDUSTRY : Miscellaneous
+CODES	511194	ICDSLTD	
+FULLNAME : ICDS Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   3.1    |   3.1    |   1.4    |   1.9    |   2.3    |      1.5     
- SQoQ%:  |   -5.2   |   -0.6   |  -54.0   |   35.2   |   18.8   |      65.2    
- YOPM%:  |   0.0    |   44.7   |   0.0    |   6.8    |   36.8   |              
- YNPM%:  |   0.0    |   0.0    |  411.3   |   19.8   |   89.5   |              
-YPROFIT: |   -0.8   |   -5.4   |   5.8    |   0.4    |   2.0    |      0.5     
- PQoQ%:  |  -56.7   |  564.2   |  -208.6  |  -93.5   |  436.8   |      25.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.5    |   0.7    |   0.5    |   0.5    |   0.5   
- QoQ%:  |  -12.3   |   42.0   |  -26.8   |   1.9    |   -3.8  
- QOPM%: |   42.0   |   46.5   |   25.0   |   49.1   |   31.4  
- QNPM%: |   0.0    |   43.7   |  132.7   |  122.6   |   0.0   
- QPFT:  |   -0.1   |   0.3    |   0.7    |   0.6    |   -0.8  
- PQoQ%: |  -107.1  |  -616.7  |  122.6   |   -5.8   |  -218.5 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3.1		1.4		1.9		2.3		3.9		1.9
+SQoQ%: 	-0.6		-54.0		35.2		18.8		71.1		48.7
+YOPM%: 	44.7		0.0		6.8		36.8		62.1
+YNPM%: 	0.0		411.3		19.8		89.5		35.9
+YPROFIT: -5.4		5.8		0.4		2.0		1.4		1.6
+PQoQ%: 	564.2		-208.6		-93.5		436.8		-31.4		114.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.5		2.4		0.8		0.5		0.6
+QoQ%: 	-3.8		360.8		-67.2		-31.2		7.5
+QOPM%: 	31.4		64.3		48.1		17.0		45.6
+QNPM%: 	0.0		35.7		179.2		0.0		80.7
+QPFT: 	-0.8		0.8		1.4		-0.3		0.5
+PQoQ%: 	-218.5		-209.1		64.3		-123.2		-243.8
+
+
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 65% YSales
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  have increased this year
+- Last 3QPROFIT is about 114% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 
 
-YSALES in Mar-2024 is at 2.3 showing a QoQ_growth of 18.8%. The YNETPROFIT grew by 436.8% to 2.0
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-2.30cr, QoQ 18.80% & YoY -25.81% SALES;
-0.80cr, QoQ 546.20% & YoY -233.33% OPERATING PROFIT;
-2.00cr, QoQ 436.80% & YoY -350.00% NET PROFIT;
-OPM %: 36.80% vs 6.8%
-NPM %: 89.50% vs 19.8%
+ 31-Mar-2025 #Result
+3.90cr, QoQ 71.10% & YoY 25.81% SALES;
+2.40cr, QoQ 188.10% & YoY 71.43% OPERATING PROFIT;
+1.40cr, QoQ -31.40% & YoY -125.93% NET PROFIT;
+OPM %: 62.10% vs 36.8%
+NPM %: 35.90% vs 89.5%
 

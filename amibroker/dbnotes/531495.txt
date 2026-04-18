@@ -1,27 +1,33 @@
-CODES
-531495	BLUECOAST	
+CODES	531495	BLUECOAST	
+FULLNAME : Blue Coast Hotels Ltd
 SECTOR : Hotels & Restaurants
 INDUSTRY : Hotels
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- SQoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   inf   
-YPROFIT: |  -14.3   |   -3.4   |   -7.2   |   -7.3   |   80.0  
- PQoQ%:  |  -40.1   |  -76.1   |  109.7   |   2.4    | -1192.9 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   inf    |   0.0    |   0.0   
- QPFT:  |   -3.5   |   -1.3   |   84.8   |   -1.4   |   -3.2  
- PQoQ%: |  157.7   |  -63.5   | -6671.3  |  -101.6  |  131.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 	0.0		0.0		0.0		0.0		0.0
+SQoQ%: 	nan		nan		nan		nan		nan
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		inf
+YPROFIT: 	-14.3		-3.4		-7.2		-7.3		80.0
+PQoQ%: 	-40.1		-76.1		109.7		2.4		-1192.9
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2024		Jun-2024	Sep-2024	Dec-2024		Mar-2025
+QSALES: 	0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		inf		0.0		0.0
+QPFT: 	-3.5		-1.3		84.8		-1.4		-3.2
+PQoQ%: 	157.7		-63.5		-6671.3		-101.6		131.4
+
+
 
 ***PROS***
 - YProfit Turned POSITIVE this year Mar-2025 : 80.0
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***

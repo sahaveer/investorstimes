@@ -1,32 +1,30 @@
-CODES
-EFACTOR	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	EFACTOR	
+FULLNAME : E Factor Experiences Ltd
+SECTOR : Other Consumer Services
+INDUSTRY : Other Consumer Services
 YSD YPD 2023
-YSD YPD 2022
-LYPD PM 2024
-YS15 YPD 2024
+LYPD PM 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-A DEBT-Free Company
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 27.6%
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.8
+ROCE in Mar2025 is at 21.1%
 - YProfits and YSales DOUBLED in Mar2023
-- YProfits and YSales DOUBLED in Mar2022
-- LastYr YProfits Doubled and maintained in Mar2024
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
-As on Mar2024, Sales have increased by 24.7% while the Profit QoQ_growth is much better than Sales itself at 116.4%
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 15.1% while the Profit QoQ_growth is much better than Sales itself at 34.7%
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-142.10cr, QoQ 24.70% & YoY 512.50% SALES;
-20.60cr, QoQ 103.70% & YoY 930.00% OPERATING PROFIT;
-15.00cr, QoQ 116.40% & YoY 1400.00% NET PROFIT;
-OPM %: 14.50% vs 8.9%
-NPM %: 10.50% vs 6.1%
+ 31-Mar-2025 #Result
+163.70cr, QoQ 15.10% & YoY 3048.08% SALES;
+25.70cr, QoQ 24.80% & YoY -8666.67% OPERATING PROFIT;
+20.10cr, QoQ 34.70% & YoY 1910.00% NET PROFIT;
+OPM %: 15.70% vs 14.5%
+NPM %: 12.30% vs 10.5%
 

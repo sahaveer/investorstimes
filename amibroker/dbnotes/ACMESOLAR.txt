@@ -1,16 +1,18 @@
-CODES
-544283	ACMESOLAR	
+CODES	544283	ACMESOLAR	
+FULLNAME : ACME Solar Holdings Ltd
 SECTOR : Infrastructure Developers & Operators
 INDUSTRY : Engineering - Turnkey Services
 PRODUCT DEMAND
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - Last 3QSALES is about 70% YSales
 - YProfit Turned POSITIVE this year Mar-2024 : 698.2
+
+***CONS***

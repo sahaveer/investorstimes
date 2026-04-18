@@ -1,37 +1,46 @@
-CODES
-532419	SMARTLINK	
+CODES	532419	SMARTLINK	
+FULLNAME : Smartlink Holdings Ltd
 SECTOR : IT - Hardware
-INDUSTRY : Computers - Hardware
+INDUSTRY : Computers Hardware & Equipments
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   70.4   |   79.5   |  163.1   |  209.3   |  214.5  
- SQoQ%:  |   -6.3   |   13.0   |  105.1   |   28.4   |   2.5   
- YOPM%:  |   15.3   |   12.2   |   3.3    |   6.7    |   0.0   
- YNPM%:  |   14.7   |   13.1   |   11.8   |   3.4    |   3.1   
-YPROFIT: |   10.4   |   10.4   |   19.2   |   7.1    |   6.6   
- PQoQ%:  |  -174.2  |   0.2    |   85.2   |  -63.3   |   -6.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   76.0   |   42.8   |   55.3   |   53.7   |   65.4  
- QoQ%:  |  102.1   |  -43.7   |   29.3   |   -2.8   |   21.8  
- QOPM%: |   11.7   |   2.6    |   0.0    |   1.1    |   0.9   
- QNPM%: |   11.4   |   0.0    |   1.2    |   4.7    |   5.9   
- QPFT:  |   8.7    |   -0.4   |   0.7    |   2.5    |   3.8   
- PQoQ%: |  -817.4  |  -105.1  |  -252.3  |  279.1   |   51.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 70.4		79.5		163.1		198.2		214.5		170.0
+SQoQ%: 	-6.3		13.0		105.1		21.5		8.3		79.3
+YOPM%: 	15.3		12.2		3.3		1.4		0.0
+YNPM%: 	14.7		13.1		11.8		3.6		3.1
+YPROFIT: 10.4		10.4		19.2		7.1		6.6		6.3
+PQoQ%: 	-174.2		0.2		85.2		-63.3		-6.4		95.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 53.7		65.4		37.0		70.3		62.7
+QoQ%: 	-2.8		21.8		-43.4		89.8		-10.8
+QOPM%: 	1.1		0.9		1.6		2.2		1.8
+QNPM%: 	4.7		5.9		5.9		2.6		3.6
+QPFT: 	2.5		3.8		2.2		1.9		2.2
+PQoQ%: 	279.1		51.2		-43.2		-14.7		20.4
+
+
 
 ***PROS***
 A DEBT-Free Company
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 95% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-214.50cr, QoQ 2.50% & YoY 204.69% SALES;
--1.30cr, QoQ -109.40% & YoY -112.15% OPERATING PROFIT;
+214.50cr, QoQ 8.30% & YoY 204.69% SALES;
+-1.10cr, QoQ -140.00% & YoY -110.28% OPERATING PROFIT;
 6.60cr, QoQ -6.40% & YoY -36.54% NET PROFIT;
-OPM %: 0.00% vs 6.7%
-NPM %: 3.10% vs 3.4%
+OPM %: 0.00% vs 1.4%
+NPM %: 3.10% vs 3.6%
 

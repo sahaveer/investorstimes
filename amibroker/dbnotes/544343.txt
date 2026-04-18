@@ -1,11 +1,9 @@
-CODE	NAME
-544343 
-
+CODES	544343	
+FULLNAME : CapitalNumbers Infotech Ltd
 SECTOR : IT - Software
 INDUSTRY : Computers - Software - Medium / Small
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -13,6 +11,8 @@ DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 17.7%
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

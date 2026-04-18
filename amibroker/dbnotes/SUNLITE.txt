@@ -1,10 +1,11 @@
-CODES
-SUNLITE	
+CODES	SUNLITE	
+FULLNAME : Sunlite Recycling Industries Ltd
 SECTOR : Mining & Mineral products
 INDUSTRY : Mining / Minerals / Metals
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

@@ -1,41 +1,45 @@
-CODE	NAME
-538634 
-
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+CODES	538634	
+FULLNAME : Vasundhara Rasayans Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 PRODUCT DEMAND
-BestQ Dec 2024
-LYPD PM 2024
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   21.2   |   22.7   |   26.7   |   37.9   |   37.0   |      26.2    
- SQoQ%:  |   7.4    |   7.1    |   17.7   |   41.9   |   -2.4   |      70.8    
- YOPM%:  |   13.4   |   13.7   |   8.3    |   14.7   |   17.4   |              
- YNPM%:  |   14.1   |   13.0   |   8.1    |   14.8   |   15.9   |              
-YPROFIT: |   3.0    |   2.9    |   2.2    |   5.6    |   5.9    |      3.8     
- PQoQ%:  |  106.2   |   -1.7   |  -26.2   |  157.6   |   4.8    |      64.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   8.2    |   11.1   |   7.6    |   9.8    |   8.8   
- QoQ%:  |  -11.7   |   35.4   |  -31.5   |   28.2   |   -9.8  
- QOPM%: |   17.7   |   20.4   |   11.3   |   16.6   |   17.8  
- QNPM%: |   16.8   |   19.1   |   11.3   |   15.0   |   16.4  
- QPFT:  |   1.4    |   2.1    |   0.9    |   1.5    |   1.4   
- PQoQ%: |   -0.7   |   54.3   |  -59.6   |   70.9   |   -1.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 22.7		26.7		37.9		37.0		34.0		23.8
+SQoQ%: 	7.1		17.7		41.9		-2.4		-8.0		70.0
+YOPM%: 	13.7		8.3		14.7		17.4		12.1
+YNPM%: 	13.0		8.1		14.8		15.9		12.5
+YPROFIT: 2.9		2.2		5.6		5.9		4.2		3.4
+PQoQ%: 	-1.7		-26.2		157.6		4.8		-27.5		81.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 8.8		7.8		7.6		8.8		7.4
+QoQ%: 	-9.8		-12.0		-2.6		16.7		-15.5
+QOPM%: 	17.8		0.1		4.4		24.0		6.8
+QNPM%: 	16.4		5.8		7.5		23.4		9.7
+QPFT: 	1.4		0.4		0.6		2.1		0.7
+PQoQ%: 	-1.4		-69.0		26.7		261.4		-65.0
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 71% YSales
-- Last 3QPROFIT is about 64% of YProfit
-- LastYr YProfits Doubled and maintained in Mar2024
+- Last 3QSALES is about 70% YSales
+- Last 3QPROFIT is about 81% of YProfit
+
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-37.00cr, QoQ -2.40% & YoY 74.53% SALES;
-6.40cr, QoQ 15.60% & YoY 128.57% OPERATING PROFIT;
-5.90cr, QoQ 4.80% & YoY 96.67% NET PROFIT;
-OPM %: 17.40% vs 14.7%
-NPM %: 15.90% vs 14.8%
+ 31-Mar-2025 #Result
+34.00cr, QoQ -8.00% & YoY 49.78% SALES;
+4.10cr, QoQ -36.10% & YoY 32.26% OPERATING PROFIT;
+4.20cr, QoQ -27.50% & YoY 44.83% NET PROFIT;
+OPM %: 12.10% vs 17.4%
+NPM %: 12.50% vs 15.9%
 

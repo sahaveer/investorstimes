@@ -1,30 +1,33 @@
-CODES
-533339	ZENTEC	
-SECTOR : Aerospace & Defence
-INDUSTRY : Miscellaneous
+CODES	533339	ZENTEC	
+FULLNAME : Zen Technologies Ltd
+SECTOR : Aerospace & Defense
+INDUSTRY : Aerospace & Defense
 YSD YPD 2025
 YSD YPD 2024
 YSD YPD 2023
 LYPD PM 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   54.6   |   69.8   |  218.8   |  439.8   |  973.6  
- SQoQ%:  |  -63.4   |   27.7   |  213.8   |  101.0   |  121.4  
- YOPM%:  |   13.5   |   6.6    |   33.2   |   41.1   |   38.4  
- YNPM%:  |   5.7    |   2.9    |   19.5   |   29.1   |   28.8  
-YPROFIT: |   3.1    |   2.0    |   42.7   |  127.9   |  280.2  
- PQoQ%:  |  -94.7   |  -36.0   |  2047.7  |  199.2   |  119.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  141.4   |  254.6   |  241.8   |  152.2   |  325.0  
- QoQ%:  |   42.1   |   80.1   |   -5.0   |  -37.1   |  113.5  
- QOPM%: |   35.7   |   43.7   |   33.1   |   29.0   |   42.4  
- QNPM%: |   24.7   |   30.2   |   25.9   |   26.1   |   31.1  
- QPFT:  |   34.9   |   76.8   |   62.7   |   39.7   |  101.0  
- PQoQ%: |   14.3   |  119.8   |  -18.4   |  -36.6   |  154.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 49.6		53.7		161.4		430.3		930.7		351.9
+SQoQ%: 	-66.3		8.4		200.6		166.5		116.3		37.8
+YOPM%: 	15.7		3.7		31.8		41.2		33.7
+YNPM%: 	8.3		3.8		23.3		30.0		28.3
+YPROFIT: 4.1		2.0		37.6		129.2		263.0		131.1
+PQoQ%: 	-93.2		-50.7		1763.4		243.3		103.5		49.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 141.5		293.5		111.1		124.6		116.2
+QoQ%: 	-41.4		107.4		-62.2		12.2		-6.8
+QOPM%: 	26.0		32.2		34.3		33.5		45.3
+QNPM%: 	27.3		28.9		33.4		37.0		41.2
+QPFT: 	38.6		84.9		37.1		46.2		47.8
+PQoQ%: 	-40.8		119.9		-56.3		24.4		3.6
+
+
 
 ***PROS***
 - YProfits and YSales DOUBLED in Mar2025
@@ -33,13 +36,15 @@ QSALES: |  141.4   |  254.6   |  241.8   |  152.2   |  325.0
 - LastYr YProfits Doubled and maintained in Mar2025
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
-As on Mar2025, Sales have increased by 121.4% while the Profit QoQ_growth is at 119.1%
+As on Mar2025, Sales have increased by 116.3% while the Profit QoQ_growth is at 103.5%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-973.60cr, QoQ 121.40% & YoY 1683.15% SALES;
-373.50cr, QoQ 106.60% & YoY 4947.30% OPERATING PROFIT;
-280.20cr, QoQ 119.10% & YoY 8938.71% NET PROFIT;
-OPM %: 38.40% vs 41.1%
-NPM %: 28.80% vs 29.1%
+930.70cr, QoQ 116.30% & YoY 1776.41% SALES;
+313.70cr, QoQ 77.00% & YoY 3921.79% OPERATING PROFIT;
+263.00cr, QoQ 103.50% & YoY 6314.63% NET PROFIT;
+OPM %: 33.70% vs 41.2%
+NPM %: 28.30% vs 30.0%
 

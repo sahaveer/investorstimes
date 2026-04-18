@@ -1,11 +1,11 @@
-CODE	NAME
-544392 
-
+CODES	544392	
+FULLNAME : Spinaroo Commercial Ltd
 SECTOR : Paper
 INDUSTRY : Paper
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

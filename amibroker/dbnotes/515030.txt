@@ -1,32 +1,41 @@
-CODES
-515030	ASAHIINDIA	
-SECTOR : Glass & Glass Products
-INDUSTRY : Glass & Glass Products
+CODES	515030	ASAHIINDIA	
+FULLNAME : Asahi India Glass Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2421.2  |  3170.4  |  4018.8  |  4340.6  |  4594.5 
- SQoQ%:  |   -8.4   |   30.9   |   26.8   |   8.0    |   5.8   
- YOPM%:  |   17.9   |   24.0   |   19.8   |   16.7   |   16.7  
- YNPM%:  |   5.5    |   10.9   |   9.1    |   7.6    |   8.1   
-YPROFIT: |  133.1   |  344.8   |  364.9   |  328.0   |  371.3  
- PQoQ%:  |  -13.4   |  159.1   |   5.8    |  -10.1   |   13.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1105.0  |  1132.7  |  1157.7  |  1124.3  |  1179.8 
- QoQ%:  |   5.9    |   2.5    |   2.2    |   -2.9   |   4.9   
- QOPM%: |   16.1   |   16.0   |   18.4   |   15.6   |   16.7  
- QNPM%: |   6.7    |   6.9    |   8.2    |   9.4    |   7.8   
- QPFT:  |   73.9   |   78.0   |   95.5   |  105.4   |   92.4  
- PQoQ%: |   16.7   |   5.5    |   22.4   |   10.4   |  -12.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2421.2		3170.4		4018.8		4340.6		4594.2		3635.8
+SQoQ%: 	-8.4		30.9		26.8		8.0		5.8		79.1
+YOPM%: 	17.9		24.0		19.8		16.7		16.7
+YNPM%: 	5.5		10.9		9.1		7.6		8.1
+YPROFIT: 133.1		344.8		364.9		328.0		371.3		212.3
+PQoQ%: 	-13.4		159.1		5.8		-10.1		13.2		57.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1124.3		1179.8		1228.7		1151.2		1255.9
+QoQ%: 	-2.9		4.9		4.1		-6.3		9.1
+QOPM%: 	15.6		16.7		15.6		16.3		19.9
+QNPM%: 	9.4		7.8		4.6		4.9		7.9
+QPFT: 	105.4		92.4		56.2		56.6		99.5
+PQoQ%: 	10.4		-12.3		-39.2		0.7		76.0
+
+
 
 ***PROS***
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 57% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-4594.50cr, QoQ 5.80% & YoY 89.76% SALES;
-766.10cr, QoQ 5.90% & YoY 76.28% OPERATING PROFIT;
+4594.20cr, QoQ 5.80% & YoY 89.75% SALES;
+765.90cr, QoQ 5.80% & YoY 76.23% OPERATING PROFIT;
 371.30cr, QoQ 13.20% & YoY 178.96% NET PROFIT;
 OPM %: 16.70% vs 16.7%
 NPM %: 8.10% vs 7.6%

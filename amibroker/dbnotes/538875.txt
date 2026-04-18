@@ -1,13 +1,14 @@
-CODE	NAME
-538875 
+CODES	538875	
+FULLNAME : Sellwin Traders Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

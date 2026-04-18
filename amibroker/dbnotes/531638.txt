@@ -1,40 +1,43 @@
-CODES
-531638	SURAJLTD	
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
-BestQ Dec 2024
+CODES	531638	SURAJLTD	
+FULLNAME : Suraj Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
 YSD YPD 2023
-LYPD PM 2024
 
-***CONS***
- YPNL:   | Mar-2007 | Mar-2018 | Mar-2019 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  217.0   |  207.3   |  181.5   |  366.6   |  330.7   |     174.9    
- SQoQ%:  |   nan    |   -4.5   |  -12.4   |  102.0   |   -9.8   |      52.9    
- YOPM%:  |   9.8    |   8.0    |   9.7    |   9.5    |   11.9   |              
- YNPM%:  |   3.7    |   0.2    |   0.8    |   5.5    |   6.5    |              
-YPROFIT: |   8.1    |   0.4    |   1.4    |   20.1   |   21.5   |      19.3    
- PQoQ%:  |   nan    |  -95.6   |  291.7   |  1327.0  |   7.0    |      89.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   93.1   |   76.2   |   54.7   |   56.6   |   63.6  
- QoQ%:  |   9.6    |  -18.2   |  -28.1   |   3.5    |   12.3  
- QOPM%: |   12.3   |   14.8   |   16.5   |   14.7   |   20.6  
- QNPM%: |   7.2    |   8.0    |   10.4   |   11.4   |   11.1  
- QPFT:  |   6.7    |   6.1    |   5.7    |   6.5    |   7.1   
- PQoQ%: |   59.3   |   -9.9   |   -6.1   |   13.5   |   9.1   
+***YEARLY***
+YPNL: 	Mar-2018	Mar-2019	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 207.3		181.5		366.6		330.7		233.7		162.4
+SQoQ%: 	-4.5		-12.4		102.0		-9.8		-29.3		69.5
+YOPM%: 	8.0		9.7		9.5		11.9		12.1
+YNPM%: 	0.2		0.8		5.5		6.5		5.7
+YPROFIT: 0.4		1.4		20.1		21.5		13.3		4.9
+PQoQ%: 	-95.6		291.7		1327.0		7.0		-38.2		36.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 63.6		58.8		50.3		50.2		61.9
+QoQ%: 	12.3		-7.6		-14.3		-0.3		23.3
+QOPM%: 	20.6		0.0		9.6		7.3		8.4
+QNPM%: 	11.1		0.0		5.4		1.7		2.2
+QPFT: 	7.1		-5.9		2.7		0.8		1.4
+PQoQ%: 	9.1		-183.9		-146.3		-69.7		66.3
+
+
 
 ***PROS***
-- Last 3QSALES is about 53% YSales
-- Last 3QPROFIT is about 90% of YProfit
+- Last 3QSALES is about 69% YSales
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-330.70cr, QoQ -9.80% & YoY 52.40% SALES;
-39.50cr, QoQ 12.90% & YoY 84.58% OPERATING PROFIT;
-21.50cr, QoQ 7.00% & YoY 165.43% NET PROFIT;
-OPM %: 11.90% vs 9.5%
-NPM %: 6.50% vs 5.5%
+ 31-Mar-2025 #Result
+233.70cr, QoQ -29.30% & YoY 12.74% SALES;
+28.30cr, QoQ -28.30% & YoY 70.48% OPERATING PROFIT;
+13.30cr, QoQ -38.20% & YoY 3225.00% NET PROFIT;
+OPM %: 12.10% vs 11.9%
+NPM %: 5.70% vs 6.5%
 

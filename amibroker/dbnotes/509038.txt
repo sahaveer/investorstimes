@@ -1,14 +1,15 @@
-CODE	NAME
-509038 
-
+CODES	509038	
+FULLNAME : Voltaire Leasing & Finance Ltd
 SECTOR : Finance
 INDUSTRY : Finance & Investments
 
-***CONS***
-- NEGATIVE YProfit : -0.7
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -0.7

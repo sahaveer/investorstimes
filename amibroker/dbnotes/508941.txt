@@ -1,32 +1,40 @@
-CODE	NAME
-508941 
+CODES	508941	
+FULLNAME : Panasonic Carbon India Company Ltd
+SECTOR : Industrial Products
+INDUSTRY : Electrodes & Refractories
+BestQ Dec 2025
 
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Electrodes - Graphites
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 48.9		50.0		50.1		51.3		54.0		44.6
+SQoQ%: 	8.7		2.2		0.3		2.4		5.2		82.6
+YOPM%: 	37.9		29.5		21.6		29.9		31.2
+YNPM%: 	38.6		30.7		25.6		36.2		38.6
+YPROFIT: 18.9		15.4		12.8		18.6		20.8		16.6
+PQoQ%: 	11.5		-18.8		-16.4		44.9		12.0		79.8
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   48.9   |   50.0   |   50.1   |   51.3   |   54.0  
- SQoQ%:  |   8.7    |   2.2    |   0.3    |   2.4    |   5.2   
- YOPM%:  |   37.9   |   29.5   |   21.6   |   29.9   |   31.2  
- YNPM%:  |   38.6   |   30.7   |   25.6   |   36.2   |   38.6  
-YPROFIT: |   18.9   |   15.4   |   12.8   |   18.6   |   20.8  
- PQoQ%:  |   11.5   |  -18.8   |  -16.4   |   44.9   |   12.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   12.5   |   14.8   |   13.3   |   13.2   |   12.7  
- QoQ%:  |   -4.1   |   18.3   |  -10.0   |   -0.3   |   -4.2  
- QOPM%: |   30.1   |   35.7   |   29.6   |   29.3   |   29.6  
- QNPM%: |   37.2   |   40.6   |   37.5   |   37.7   |   38.5  
- QPFT:  |   4.6    |   6.0    |   5.0    |   5.0    |   4.9   
- PQoQ%: |   -3.3   |   28.8   |  -16.9   |   0.2    |   -2.2  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 13.2		12.7		15.9		17.1		11.6
+QoQ%: 	-0.3		-4.2		25.1		7.8		-32.5
+QOPM%: 	29.3		29.6		34.6		38.1		29.7
+QNPM%: 	37.7		38.5		39.7		34.6		38.5
+QPFT: 	5.0		4.9		6.3		5.9		4.4
+PQoQ%: 	0.2		-2.2		29.1		-6.0		-24.8
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 80% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

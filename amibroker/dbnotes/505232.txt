@@ -1,13 +1,14 @@
-CODE	NAME
-505232 
+CODES	505232	
+FULLNAME : Veljan Denison Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
 
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

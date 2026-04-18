@@ -1,26 +1,38 @@
-CODES
-534809	PCJEWELLER	
-SECTOR : Diamond, Gems and Jewellery
-INDUSTRY : Diamond Cutting / Jewellery
+CODES	534809	PCJEWELLER	
+FULLNAME : PC Jeweller Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
+PRODUCT DEMAND
+BestQ Dec 2025
+YSD YPD 2025
 
-***CONS***
-- NEGATIVE YProfit : -629.4
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  5205.5  |  2825.1  |  1604.9  |  2471.5  |  604.4   |     1545.6   
- SQoQ%:  |  -40.0   |  -45.7   |  -43.2   |   54.0   |  -75.5   |     255.7    
- YOPM%:  |   8.8    |   14.7   |   0.0    |   10.3   |   0.0    |              
- YNPM%:  |   1.6    |   2.2    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   83.0   |   62.0   |  -391.0  |  -203.2  |  -629.4  |     483.0    
- PQoQ%:  | 13513.1  |  -25.3   |  -730.6  |  -48.0   |  209.7   |     -76.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   40.1   |   48.5   |  401.2   |  505.0   |  639.4  
- QoQ%:  |  -91.1   |   21.0   |  727.3   |   25.9   |   26.6  
- QOPM%: |   0.0    |   0.0    |   12.9   |   17.0   |   17.5  
- QNPM%: |   0.0    |   0.0    |   38.9   |   35.4   |   23.1  
- QPFT:  |  -198.0  |  -121.6  |  156.1   |  178.9   |  148.0  
- PQoQ%: |   43.3   |  -38.6   |  -228.3  |   14.6   |  -17.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2825.1		1604.9		2471.5		604.4		2244.1		2425.5
+SQoQ%: 	-45.7		-43.2		54.0		-75.5		271.3		108.1
+YOPM%: 	14.7		0.0		10.3		0.0		17.6
+YNPM%: 	2.2		0.0		0.0		0.0		25.7
+YPROFIT: 62.0		-391.0		-203.2		-629.4		577.7		561.5
+PQoQ%: 	-25.3		-730.6		-48.0		209.7		-191.8		97.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 639.4		699.0		724.9		825.2		875.4
+QoQ%: 	26.6		9.3		3.7		13.8		6.1
+QOPM%: 	17.5		20.7		17.6		21.5		23.0
+QNPM%: 	23.1		13.6		22.3		25.4		21.7
+QPFT: 	148.0		94.8		161.9		209.5		190.1
+PQoQ%: 	-17.3		-35.9		70.8		29.4		-9.3
+
+
 
 ***PROS***
-- Last 3QSALES is about 256% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 108% YSales
+- Last 3QPROFIT is about 97% of YProfit
+- YProfit Turned POSITIVE this year Mar-2025 : 577.7
+- YProfits and YSales DOUBLED in Mar2025
+
+***CONS***

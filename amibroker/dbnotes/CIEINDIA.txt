@@ -1,35 +1,46 @@
-CODES
-532756	CIEINDIA	
-SECTOR : Castings, Forgings & Fastners
-INDUSTRY : Castings & Forgings
+CODES	532756	CIEINDIA	
+FULLNAME : CIE Automotive India Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Dec-2020 | Dec-2021 | Dec-2022 | Dec-2023 | Dec-2024
----------+----------+----------+----------+----------+---------
-YSALES:  |  6050.1  |  6765.1  |  8753.0  |  9280.4  |  8964.1 
- SQoQ%:  |  -23.5   |   11.8   |   29.4   |   6.0    |   -3.4  
- YOPM%:  |   8.3    |   13.9   |   13.4   |   15.3   |   15.1  
- YNPM%:  |   1.8    |   5.8    |   0.0    |   12.1   |   9.2   
-YPROFIT: |  106.4   |  392.9   |  -136.2  |  1125.2  |  827.5  
- PQoQ%:  |  -69.9   |  269.3   |  -134.7  |  -926.3  |  -26.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2426.8  |  2292.7  |  2134.6  |  2110.0  |  2272.6 
- QoQ%:  |   8.3    |   -5.5   |   -6.9   |   -1.2   |   7.7   
- QOPM%: |   14.9   |   15.7   |   15.5   |   14.2   |   14.8  
- QNPM%: |   9.5    |   9.5    |   9.1    |   8.8    |   9.1   
- QPFT:  |  230.5   |  216.8   |  195.2   |  185.0   |  206.4  
- PQoQ%: |   36.4   |   -5.9   |  -10.0   |   -5.3   |   11.6  
+***YEARLY***
+YPNL: 	Dec-2021	Dec-2022	Dec-2023	Dec-2024	Dec-2025	QSUM:Dec-2025
+YSALES: 6765.1		8753.0		9280.4		8964.1		9406.5		7133.8
+SQoQ%: 	11.8		29.4		6.0		-3.4		4.9		75.8
+YOPM%: 	13.9		13.4		15.3		15.1		14.5
+YNPM%: 	5.8		0.0		12.1		9.2		8.8
+YPROFIT: 392.9		-136.2		1125.2		827.5		828.2		621.7
+PQoQ%: 	269.3		-134.7		-926.3		-26.5		0.1		75.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2110.0		2272.6		2369.0		2371.8		2393.0
+QoQ%: 	-1.2		7.7		4.2		0.1		0.9
+QOPM%: 	14.2		14.8		14.2		15.0		14.0
+QNPM%: 	8.8		9.1		8.6		9.0		8.5
+QPFT: 	185.0		206.4		203.5		213.9		204.3
+PQoQ%: 	-5.3		11.6		-1.4		5.1		-4.5
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 75% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
- 31-Dec-2024 #Result
-8964.10cr, QoQ -3.40% & YoY 48.16% SALES;
-1350.60cr, QoQ -5.20% & YoY 169.26% OPERATING PROFIT;
-827.50cr, QoQ -26.50% & YoY 677.73% NET PROFIT;
-OPM %: 15.10% vs 15.3%
-NPM %: 9.20% vs 12.1%
+ 31-Dec-2025 #Result
+9406.50cr, QoQ 4.90% & YoY 39.04% SALES;
+1362.50cr, QoQ 0.90% & YoY 44.69% OPERATING PROFIT;
+828.20cr, QoQ 0.10% & YoY 110.79% NET PROFIT;
+OPM %: 14.50% vs 15.1%
+NPM %: 8.80% vs 9.2%
 

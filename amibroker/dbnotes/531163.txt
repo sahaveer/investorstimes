@@ -1,37 +1,42 @@
-CODE	NAME
-531163 
+CODES	531163	
+FULLNAME : Kemistar Corporation Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
+PRODUCT DEMAND
 
-SECTOR : Trading
-INDUSTRY : Trading
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 14.0		20.9		18.2		11.1		18.1		16.9
+SQoQ%: 	-0.8		49.1		-13.1		-39.1		63.9		93.4
+YOPM%: 	6.7		8.0		8.2		12.3		3.1
+YNPM%: 	3.1		4.0		4.6		4.8		3.3
+YPROFIT: 0.4		0.8		0.8		0.5		0.6		0.1
+PQoQ%: 	2.3		90.9		0.0		-36.9		13.2		16.7
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   14.1   |   14.0   |   20.9   |   18.2   |   11.1   |      11.1    
- SQoQ%:  |   40.2   |   -0.6   |   49.1   |  -13.1   |  -39.1   |     100.0    
- YOPM%:  |   2.3    |   6.7    |   8.0    |   8.2    |   12.3   |              
- YNPM%:  |   3.0    |   3.1    |   4.0    |   4.6    |   4.8    |              
-YPROFIT: |   0.4    |   0.4    |   0.8    |   0.8    |   0.5    |      0.3     
- PQoQ%:  |   59.3   |   2.3    |   90.9   |   0.0    |  -36.9   |      60.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.7    |   4.2    |   3.6    |   3.8    |   3.7   
- QoQ%:  |  -44.0   |  143.6   |  -13.6   |   4.1    |   -1.1  
- QOPM%: |   13.4   |   14.8   |   9.1    |   10.3   |   0.0   
- QNPM%: |   8.1    |   4.5    |   3.6    |   3.4    |   1.6   
- QPFT:  |   0.1    |   0.2    |   0.1    |   0.1    |   0.1   
- PQoQ%: |   7.7    |   35.7   |  -31.6   |   0.0    |  -53.8  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3.7		7.0		2.8		8.6		5.5
+QoQ%: 	-1.1		88.5		-59.5		201.1		-36.1
+QOPM%: 	0.0		4.0		9.1		2.2		4.6
+QNPM%: 	1.6		4.1		3.9		0.1		0.2
+QPFT: 	0.1		0.3		0.1		0.0		0.0
+PQoQ%: 	-53.8		383.3		-62.1		-90.9		0.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 100% YSales
-- Last 3QPROFIT is about 60% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 93% YSales
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-11.10cr, QoQ -39.10% & YoY -21.28% SALES;
-1.40cr, QoQ -8.70% & YoY 366.67% OPERATING PROFIT;
-0.50cr, QoQ -36.90% & YoY 25.00% NET PROFIT;
-OPM %: 12.30% vs 8.2%
-NPM %: 4.80% vs 4.6%
+ 31-Mar-2025 #Result
+18.10cr, QoQ 63.90% & YoY 29.29% SALES;
+0.60cr, QoQ -58.10% & YoY -33.33% OPERATING PROFIT;
+0.60cr, QoQ 13.20% & YoY 50.00% NET PROFIT;
+OPM %: 3.10% vs 12.3%
+NPM %: 3.30% vs 4.8%
 

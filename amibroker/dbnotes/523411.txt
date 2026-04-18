@@ -1,43 +1,48 @@
-CODE	NAME
-523411 
+CODES	523411	
+FULLNAME : ADC India Communications Ltd
+SECTOR : Telecom - Equipment & Accessories
+INDUSTRY : Telecom - Equipment & Accessories
+BestQ Dec 2025
+LYPD PM 2025
 
-SECTOR : Telecomm Equipment & Infra Services
-INDUSTRY : Telecommunications - Equipment
-BestQ Dec 2024
-YSD YPD 2022
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 59.9		120.7		142.9		178.7		187.1		138.9
+SQoQ%: 	-23.4		101.7		18.4		25.1		4.7		74.2
+YOPM%: 	8.1		8.8		7.2		14.6		15.6
+YNPM%: 	6.0		7.0		5.7		11.6		13.1
+YPROFIT: 3.6		8.5		8.2		20.7		24.5		15.4
+PQoQ%: 	-4.7		134.3		-3.7		153.2		18.2		62.9
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   78.1   |   59.9   |  120.7   |  142.9   |  178.7   |     141.3    
- SQoQ%:  |   -8.7   |  -23.4   |  101.7   |   18.4   |   25.1   |      79.1    
- YOPM%:  |   6.2    |   8.1    |   8.8    |   7.2    |   14.6   |              
- YNPM%:  |   4.9    |   6.0    |   7.0    |   5.7    |   11.6   |              
-YPROFIT: |   3.8    |   3.6    |   8.5    |   8.2    |   20.7   |      21.5    
- PQoQ%:  |  -35.2   |   -4.7   |  134.3   |   -3.7   |  153.2   |     103.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   42.1   |   44.1   |   48.6   |   50.8   |   41.9  
- QoQ%:  |  -12.5   |   4.8    |   10.2   |   4.4    |  -17.5  
- QOPM%: |   19.2   |   19.8   |   17.5   |   20.9   |   16.8  
- QNPM%: |   15.2   |   15.7   |   14.3   |   17.2   |   13.9  
- QPFT:  |   6.4    |   6.9    |   7.0    |   8.7    |   5.8   
- PQoQ%: |  -14.4   |   8.8    |   0.3    |   25.3   |  -33.1  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 41.9		45.7		45.1		45.8		48.0
+QoQ%: 	-17.5		9.1		-1.4		1.4		4.8
+QOPM%: 	16.8		6.6		13.1		9.8		11.9
+QNPM%: 	13.9		6.4		11.0		9.4		12.8
+QPFT: 	5.8		3.0		5.0		4.3		6.1
+PQoQ%: 	-33.1		-49.4		68.5		-13.3		42.2
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 79% YSales
-- Last 3QPROFIT is about 104% of YProfit
-- YProfits and YSales DOUBLED in Mar2022
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 29.6%
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 63% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2025
 
-YSALES in Mar-2024 is at 178.7 showing a QoQ_growth of 25.1%. The YNETPROFIT grew by 153.2% to 20.7
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-178.70cr, QoQ 25.10% & YoY 128.81% SALES;
-26.10cr, QoQ 154.20% & YoY 432.65% OPERATING PROFIT;
-20.70cr, QoQ 153.20% & YoY 444.74% NET PROFIT;
-OPM %: 14.60% vs 7.2%
-NPM %: 11.60% vs 5.7%
+ 31-Mar-2025 #Result
+187.10cr, QoQ 4.70% & YoY 212.35% SALES;
+29.20cr, QoQ 12.00% & YoY 508.33% OPERATING PROFIT;
+24.50cr, QoQ 18.20% & YoY 580.56% NET PROFIT;
+OPM %: 15.60% vs 14.6%
+NPM %: 13.10% vs 11.6%
 

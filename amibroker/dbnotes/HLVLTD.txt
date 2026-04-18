@@ -1,40 +1,33 @@
-CODES
-500193	HLVLTD	
-SECTOR : Hotels & Restaurants
-INDUSTRY : Hotels
+CODES	500193	HLVLTD	
+FULLNAME : HLV Ltd
+SECTOR : Leisure Services
+INDUSTRY : Hotels & Resorts
 PRODUCT DEMAND
-YSD YPD 2023
-LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   18.9   |   73.0   |  172.9   |  199.1   |  203.3  
- SQoQ%:  |  -87.0   |  285.8   |  136.8   |   15.2   |   2.1   
- YOPM%:  |   0.0    |   0.0    |   9.3    |   15.5   |   13.8  
- YNPM%:  |   0.0    |   0.0    |   4.4    |   12.0   |   12.9  
-YPROFIT: |  -35.9   |  -42.5   |   7.6    |   23.8   |   26.1  
- PQoQ%:  |  -118.6  |   18.3   |  -118.0  |  211.1   |   9.8   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   59.7   |   43.0   |   43.4   |   57.7   |   59.3  
- QoQ%:  |   7.9    |  -28.1   |   1.0    |   33.1   |   2.7   
- QOPM%: |   18.5   |   1.1    |   6.7    |   20.5   |   21.7  
- QNPM%: |   17.3   |   3.8    |   8.0    |   17.8   |   18.1  
- QPFT:  |   10.4   |   1.6    |   3.5    |   10.3   |   10.7  
- PQoQ%: |   8.6    |  -84.3   |  115.4   |  194.3   |   4.6   
+***YEARLY***
+YPNL: 	Mar-2016	Mar-2017	Mar-2018	Mar-2019	Mar-2020
+YSALES: 660.9		698.0		137.8		154.3		145.7
+SQoQ%: 	3.8		5.6		-80.3		12.0		-5.6
+YOPM%: 	23.2		25.1		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		133.0
+YPROFIT: -180.2		-15.5		-23.2		-118.9		193.7
+PQoQ%: 	-56.7		-91.4		50.2		412.2		-262.9
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2019	Jun-2019	Sep-2019	Dec-2019	Mar-2020
+QSALES: 43.1		31.9		32.6		43.7		37.5
+QoQ%: 	18.3		-26.0		2.2		34.1		-14.1
+QOPM%: 	2.3		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		51.2		461.1		0.0
+QPFT: 	-29.8		-7.5		16.7		201.4		-16.9
+PQoQ%: 	-55.2		-74.8		-321.5		1109.1		-108.4
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
-- YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2025
+- YProfit Turned POSITIVE this year Mar-2020 : 193.7
 
-Yearly 
- 31-Mar-2025 #Result
-203.30cr, QoQ 2.10% & YoY 975.66% SALES;
-28.10cr, QoQ -8.90% & YoY -153.02% OPERATING PROFIT;
-26.10cr, QoQ 9.80% & YoY -172.70% NET PROFIT;
-OPM %: 13.80% vs 15.5%
-NPM %: 12.90% vs 12.0%
-
+***CONS***

@@ -1,12 +1,14 @@
-CODES
-504036	HIRECT	
-SECTOR : Consumer Durables
-INDUSTRY : Electronics - Components
+CODES	504036	HIRECT	
+FULLNAME : Hind Rectifiers Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

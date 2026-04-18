@@ -1,34 +1,41 @@
-CODES
-533122	RTNPOWER	
-SECTOR : Power Generation & Distribution
-INDUSTRY : Power Generation And Supply
+CODES	533122	RTNPOWER	
+FULLNAME : RattanIndia Power Ltd
+SECTOR : Power
+INDUSTRY : Power Generation
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1559.9  |  3259.5  |  3231.2  |  3364.0  |  3283.8 
- SQoQ%:  |  -12.1   |  109.0   |   -0.9   |   4.1    |   -2.4  
- YOPM%:  |   41.0   |   24.6   |   22.8   |   19.2   |   17.8  
- YNPM%:  |   0.0    |   0.0    |   0.0    |  264.5   |   6.8   
-YPROFIT: |  -941.6  | -1981.4  | -1869.8  |  8896.8  |  221.9  
- PQoQ%:  |  -669.6  |  110.4   |   -5.6   |  -575.8  |  -97.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  914.0   |  931.8   |  682.4   |  733.3   |  936.2  
- QoQ%:  |   13.3   |   2.0    |  -26.8   |   7.5    |   27.7  
- QOPM%: |   22.5   |   20.2   |   13.8   |   12.3   |   22.6  
- QNPM%: |  1167.0  |   10.0   |   0.0    |   0.6    |   13.5  
- QPFT:  | 10665.8  |   93.0   |   -1.4   |   4.3    |  125.9  
- PQoQ%: | -1917.1  |  -99.1   |  -101.5  |  -420.7  |  2808.5 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1559.9		3259.5		3231.2		3364.0		3283.8		2203.7
+SQoQ%: 	-12.1		109.0		-0.9		4.1		-2.4		67.1
+YOPM%: 	41.0		24.6		22.8		19.2		17.8
+YNPM%: 	0.0		0.0		0.0		264.5		6.8
+YPROFIT: -941.6		-1981.4		-1869.8		8896.8		221.9		9.6
+PQoQ%: 	-669.6		110.4		-5.6		-575.8		-97.5		4.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 733.3		936.2		822.0		653.7		728.0
+QoQ%: 	7.5		27.7		-12.2		-20.5		11.4
+QOPM%: 	12.3		22.6		11.8		7.9		17.5
+QNPM%: 	0.6		13.5		0.0		0.0		7.5
+QPFT: 	4.3		125.9		-13.1		-31.6		54.3
+PQoQ%: 	-420.7		2808.5		-110.4		140.7		-272.0
+
+
 
 ***PROS***
+- Last 3QSALES is about 67% YSales
 - YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 3283.80cr, QoQ -2.40% & YoY 110.51% SALES;
-584.60cr, QoQ -9.50% & YoY -8.67% OPERATING PROFIT;
+584.70cr, QoQ -9.50% & YoY -8.65% OPERATING PROFIT;
 221.90cr, QoQ -97.50% & YoY -123.57% NET PROFIT;
 OPM %: 17.80% vs 19.2%
 NPM %: 6.80% vs 264.5%

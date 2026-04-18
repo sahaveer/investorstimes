@@ -1,29 +1,36 @@
-CODES
-540648	PALASHSECU	
-SECTOR : Finance
-INDUSTRY : Finance & Investments
+CODES	540648	PALASHSECU	
+FULLNAME : Palash Securities Ltd
+SECTOR : Food Products
+INDUSTRY : Packaged Foods
 PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -12.7
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   58.6   |   54.0   |   53.2   |   41.0   |   48.8  
- SQoQ%:  |   28.2   |   -7.8   |   -1.4   |  -23.1   |   19.2  
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
-YPROFIT: |  -12.8   |   -8.6   |  -15.6   |   -9.6   |  -12.7  
- PQoQ%:  |  561.3   |  -33.4   |   82.1   |  -38.2   |   31.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   9.5    |   6.5    |   15.7   |   12.9   |   13.8  
- QoQ%:  |   7.4    |  -31.9   |  141.3   |  -17.6   |   6.9   
- QOPM%: |   0.0    |   0.0    |   1.1    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -3.3   |   -2.2   |   -1.6   |   -1.3   |   -7.5  
- PQoQ%: |   42.4   |  -32.5   |  -25.7   |  -22.4   |  486.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 58.6		54.0		53.2		41.0		48.9		49.2
+SQoQ%: 	28.2		-7.8		-1.4		-23.1		19.4		100.6
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -12.8		-8.6		-15.6		-9.6		-12.7		20.1
+PQoQ%: 	561.3		-33.4		82.1		-38.2		31.6		-158.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 12.9		13.8		13.6		25.4		10.2
+QoQ%: 	-17.6		6.9		-1.6		87.4		-60.1
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		221.0
+QPFT: 	-1.3		-7.5		-1.6		-0.7		22.4
+PQoQ%: 	-22.4		486.7		-79.1		-58.0		-3498.5
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 101% YSales
 
-YSALES in Mar-2025 is at 48.8 showing a QoQ_growth of 19.2%. The YNETPROFIT grew by 31.6% to -12.7
+YSALES in Mar-2025 is at 48.9 showing a QoQ_growth of 19.4%. The YNETPROFIT grew by 31.6% to -12.7
+
+***CONS***
+- NEGATIVE YProfit : -12.7

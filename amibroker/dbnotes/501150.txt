@@ -1,29 +1,36 @@
-CODES
-501150	CENTRUM	
+CODES	501150	CENTRUM	
+FULLNAME : Centrum Capital Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Other Financial Services
 PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -187.5
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  508.3   |  705.1   |  1334.3  |  2222.3  |  3493.4 
- SQoQ%:  |   0.4    |   38.7   |   89.2   |   66.6   |   57.2  
- YOPM%:  |   43.4   |   22.4   |   34.8   |   43.6   |   37.7  
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
-YPROFIT: |  -46.9   |  -176.7  |  -149.8  |  -99.4   |  -187.5 
- PQoQ%:  |  -424.4  |  277.1   |  -15.2   |  -33.7   |   88.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  654.8   |  716.0   |  783.6   |  877.5   |  1116.2 
- QoQ%:  |   16.9   |   9.3    |   9.4    |   12.0   |   27.2  
- QOPM%: |   52.0   |   32.5   |   40.4   |   37.1   |   39.7  
- QNPM%: |   0.2    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   1.6    |  -91.2   |  -23.5   |  -52.3   |  -20.5  
- PQoQ%: |  -105.7  | -5764.0  |  -74.2   |  122.4   |  -60.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 508.3		705.1		1334.3		2222.3		3503.4		2547.6
+SQoQ%: 	0.4		38.7		89.2		66.6		57.6		72.7
+YOPM%: 	43.4		22.4		34.8		43.6		37.9
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -46.9		-176.7		-149.8		-99.4		-187.5		-151.7
+PQoQ%: 	-424.4		277.1		-15.2		-33.7		88.7		80.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 877.5		1116.2		846.3		822.9		878.4
+QoQ%: 	12.0		27.2		-24.2		-2.8		6.7
+QOPM%: 	37.1		39.7		24.2		21.3		28.7
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-52.3		-20.5		-13.9		-40.6		-97.2
+PQoQ%: 	122.4		-60.8		-32.0		191.8		139.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 73% YSales
 
-YSALES in Mar-2025 is at 3493.4 showing a QoQ_growth of 57.2%. The YNETPROFIT grew by 88.7% to -187.5
+YSALES in Mar-2025 is at 3503.4 showing a QoQ_growth of 57.6%. The YNETPROFIT grew by 88.7% to -187.5
+
+***CONS***
+- NEGATIVE YProfit : -187.5

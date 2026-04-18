@@ -1,41 +1,47 @@
-CODES
-505726	IFBIND	
+CODES	505726	IFBIND	
+FULLNAME : IFB Industries Ltd
 SECTOR : Consumer Durables
-INDUSTRY : Domestic Appliances
-BestQ Dec 2024
-LYPD PM 2024
+INDUSTRY : Household Appliances
+PRODUCT DEMAND
+BestQ Dec 2025
+LYPD PM 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  2637.0  |  2800.8  |  3415.4  |  4195.0  |  4437.8  |     3758.0   
- SQoQ%:  |   -0.8   |   6.2    |   21.9   |   22.8   |   5.8    |      84.7    
- YOPM%:  |   4.7    |   7.6    |   1.4    |   3.9    |   4.4    |              
- YNPM%:  |   1.0    |   2.3    |   0.0    |   0.4    |   1.1    |              
-YPROFIT: |   27.4   |   64.1   |  -48.2   |   14.9   |   50.4   |     100.0    
- PQoQ%:  |  -62.4   |  133.9   |  -175.1  |  -131.0  |  237.1   |     198.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  1160.8  |  1090.2  |  1269.2  |  1219.3  |  1269.5 
- QoQ%:  |   5.4    |   -6.1   |   16.4   |   -3.9   |   4.1   
- QOPM%: |   5.0    |   3.9    |   6.2    |   5.4    |   6.6   
- QNPM%: |   1.5    |   1.1    |   3.0    |   2.6    |   2.4   
- QPFT:  |   17.4   |   12.0   |   37.5   |   31.4   |   31.1  
- PQoQ%: |  -19.0   |  -31.2   |  212.8   |  -16.3   |   -1.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2800.8		3415.4		4195.0		4437.8		5091.7		4121.2
+SQoQ%: 	6.2		21.9		22.8		5.8		14.7		80.9
+YOPM%: 	7.6		1.4		3.9		4.4		5.6
+YNPM%: 	2.3		0.0		0.4		1.1		2.3
+YPROFIT: 64.1		-48.2		14.9		50.4		118.9		100.9
+PQoQ%: 	133.9		-175.1		-131.0		237.1		136.1		84.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1269.5		1333.7		1338.3		1370.4		1412.5
+QoQ%: 	4.1		5.1		0.3		2.4		3.1
+QOPM%: 	6.6		4.2		4.6		7.2		5.3
+QNPM%: 	2.4		1.4		2.0		3.7		1.7
+QPFT: 	31.1		18.9		26.2		50.8		23.9
+PQoQ%: 	-1.0		-39.3		38.6		94.2		-52.9
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 85% YSales
-- Last 3QPROFIT is about 198% of YProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
-- LastYr YProfits Doubled and maintained in Mar2024
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 85% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-4437.80cr, QoQ 5.80% & YoY 68.29% SALES;
-195.70cr, QoQ 19.20% & YoY 59.36% OPERATING PROFIT;
-50.40cr, QoQ 237.10% & YoY 83.94% NET PROFIT;
-OPM %: 4.40% vs 3.9%
-NPM %: 1.10% vs 0.4%
+ 31-Mar-2025 #Result
+5091.70cr, QoQ 14.70% & YoY 81.79% SALES;
+287.10cr, QoQ 46.70% & YoY 35.04% OPERATING PROFIT;
+118.90cr, QoQ 136.10% & YoY 85.49% NET PROFIT;
+OPM %: 5.60% vs 4.4%
+NPM %: 2.30% vs 1.1%
 

@@ -1,13 +1,14 @@
-CODE	NAME
-532379 
-
+CODES	532379	
+FULLNAME : First Fintec Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+INDUSTRY : Software Products
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

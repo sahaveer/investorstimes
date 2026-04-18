@@ -1,45 +1,48 @@
-CODE	NAME
-537326 
+CODES	537326	
+FULLNAME : Chemtech Industrial Valves Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
+BestQ Dec 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
-PRODUCT DEMAND
-BestQ Dec 2024
-LYPD PM 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 13.9		11.5		20.4		31.4		40.0		20.1
+SQoQ%: 	-28.8		-17.5		77.7		53.7		27.6		50.3
+YOPM%: 	20.5		13.8		19.0		18.3		19.8
+YNPM%: 	4.9		0.0		13.7		13.2		17.5
+YPROFIT: 0.7		-0.6		2.8		4.2		7.0		4.4
+PQoQ%: 	-29.9		-182.4		-598.2		48.7		69.2		62.9
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   19.6   |   13.9   |   11.5   |   20.4   |   31.4   |      27.6    
- SQoQ%:  |   17.3   |  -28.8   |  -17.5   |   77.7   |   53.7   |      87.9    
- YOPM%:  |   15.5   |   20.5   |   13.8   |   19.0   |   18.3   |              
- YNPM%:  |   5.0    |   4.9    |   0.0    |   13.7   |   13.2   |              
-YPROFIT: |   1.0    |   0.7    |   -0.6   |   2.8    |   4.2    |      5.3     
- PQoQ%:  |  321.7   |  -29.9   |  -182.4  |  -598.2  |   48.7   |     126.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   10.8   |   10.4   |   10.9   |   8.5    |   8.2   
- QoQ%:  |  134.6   |   -3.4   |   5.2    |  -22.4   |   -2.9  
- QOPM%: |   14.3   |   13.7   |   28.6   |   26.6   |   13.5  
- QNPM%: |   10.1   |   11.1   |   19.9   |   18.4   |   18.2  
- QPFT:  |   1.1    |   1.2    |   2.2    |   1.6    |   1.5   
- PQoQ%: |   98.2   |   5.5    |   89.6   |  -28.4   |   -3.8  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 8.2		12.4		9.6		5.1		5.4
+QoQ%: 	-2.9		50.0		-22.6		-46.7		6.7
+QOPM%: 	13.5		11.4		33.4		13.9		0.0
+QNPM%: 	18.2		14.4		31.5		24.1		3.5
+QPFT: 	1.5		1.8		3.0		1.2		0.2
+PQoQ%: 	-3.8		18.7		69.1		-59.1		-84.6
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 88% YSales
-- Last 3QPROFIT is about 126% of YProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
-- LastYr YProfits Doubled and maintained in Mar2024
+A DEBT-Free Company
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 50% YSales
+- Last 3QPROFIT is about 63% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 27.6% while the Profit QoQ_growth is much better than Sales itself at 69.2%
 
-YSALES in Mar-2024 is at 31.4 showing a QoQ_growth of 53.7%. The YNETPROFIT grew by 48.7% to 4.2
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-31.40cr, QoQ 53.70% & YoY 60.20% SALES;
-5.80cr, QoQ 47.80% & YoY 93.33% OPERATING PROFIT;
-4.20cr, QoQ 48.70% & YoY 320.00% NET PROFIT;
-OPM %: 18.30% vs 19.0%
-NPM %: 13.20% vs 13.7%
+ 31-Mar-2025 #Result
+40.00cr, QoQ 27.60% & YoY 187.77% SALES;
+7.90cr, QoQ 38.10% & YoY 172.41% OPERATING PROFIT;
+7.00cr, QoQ 69.20% & YoY 900.00% NET PROFIT;
+OPM %: 19.80% vs 18.3%
+NPM %: 17.50% vs 13.2%
 

@@ -1,5 +1,5 @@
-CODES
-544319	SENORES	
+CODES	544319	SENORES	
+FULLNAME : Senores Pharmaceuticals Ltd
 SECTOR : Pharmaceuticals
 INDUSTRY : Pharmaceuticals - Indian - Formulations
 EXPANSION 2024
@@ -8,10 +8,10 @@ YSD YPD 2024
 LYPD PM 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
@@ -22,6 +22,8 @@ EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 85.6% while the Profit QoQ_growth is much better than Sales itself at 86.1%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

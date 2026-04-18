@@ -1,39 +1,45 @@
-CODES
-500570	TATAMOTORS	
-SECTOR : Automobile
-INDUSTRY : Automobiles - LCVs / HCVs
+CODES	500570	TATAMOTORS	
+FULLNAME : Tata Motors Ltd
+SECTOR : Automobiles
+INDUSTRY : Passenger Cars & Utility Vehicles
 PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 249794.8 | 278453.6 | 345967.0 | 437927.8 | 439695.0
- SQoQ%:  |   -4.3   |   11.5   |   24.2   |   26.6   |   0.4   
- YOPM%:  |   12.9   |   8.9    |   9.2    |   13.6   |   12.8  
- YNPM%:  |   0.0    |   0.0    |   0.7    |   7.2    |   6.3   
-YPROFIT: | -13451.4 | -11441.5 |  2414.3  | 31399.1  | 27830.0 
- PQoQ%:  |   11.4   |  -14.9   |  -121.1  |  1200.6  |  -11.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 119033.0 | 108048.0 | 101450.0 | 112608.0 | 119503.0
- QoQ%:  |   7.6    |   -9.2   |   -6.1   |   11.0   |   6.1   
- QOPM%: |   14.0   |   14.6   |   12.0   |   11.0   |   14.1  
- QNPM%: |   14.6   |   5.2    |   3.3    |   4.8    |   7.1   
- QPFT:  | 17407.0  |  5566.0  |  3343.0  |  5406.0  |  8470.0 
- PQoQ%: |  147.8   |  -68.0   |  -39.9   |   61.7   |   56.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 249794.8		278453.6		345967.0		434016.0		439695.0
+SQoQ%: 	-4.3		11.5		24.2		25.5		1.3
+YOPM%: 	12.9		8.9		9.2		13.3		12.6
+YNPM%: 	0.0		0.0		0.7		7.2		6.3
+YPROFIT: -13451.4		-11441.5		2414.3		31399.0		27830.0
+PQoQ%: 	11.4		-14.9		-121.1		1200.5		-11.4
+
+
+
+***QUARTERLY***
+QPNL: 	Jun-2024	Sep-2024	Dec-2024	Mar-2025	Jun-2025
+QSALES: 107102.0		101450.0		112608.0		119503.0		104407.0
+QoQ%: 	-10.0		-5.3		11.0		6.1		-12.6
+QOPM%: 	14.2		12.0		11.0		14.1		9.8
+QNPM%: 	9.8		3.3		4.8		7.1		3.8
+QPFT: 	10514.0		3343.0		5406.0		8470.0		3924.0
+PQoQ%: 	-39.6		-68.2		61.7		56.7		-53.7
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 16.7%
+ROCE in Mar2025 is at 24.9%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
 - YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
-439695.00cr, QoQ 0.40% & YoY 76.02% SALES;
-56138.00cr, QoQ -5.70% & YoY 73.87% OPERATING PROFIT;
+439695.00cr, QoQ 1.30% & YoY 76.02% SALES;
+55216.00cr, QoQ -4.50% & YoY 71.01% OPERATING PROFIT;
 27830.00cr, QoQ -11.40% & YoY -306.89% NET PROFIT;
-OPM %: 12.80% vs 13.6%
+OPM %: 12.60% vs 13.3%
 NPM %: 6.30% vs 7.2%
 

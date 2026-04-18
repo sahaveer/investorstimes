@@ -1,35 +1,42 @@
-CODES
-540775	KHADIM	
-SECTOR : Leather
-INDUSTRY : Leather / Leather Products
+CODES	540775	KHADIM	
+FULLNAME : Khadim India Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Footwear
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 626.2		591.1		660.3		426.2		418.0		283.5
+SQoQ%: 	-18.9		-5.6		11.7		-35.4		-1.9		67.8
+YOPM%: 	1.1		8.7		11.3		17.7		16.7
+YNPM%: 	0.0		1.1		2.6		1.5		1.2
+YPROFIT: -32.9		6.4		17.5		6.3		5.1		2.3
+PQoQ%: 	5.3		-119.6		171.4		-64.1		-19.4		45.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 110.2		93.8		95.7		101.6		86.2
+QoQ%: 	-31.3		-14.9		2.0		6.2		-15.1
+QOPM%: 	14.6		17.0		12.9		13.6		12.8
+QNPM%: 	1.1		1.0		0.9		1.6		0.0
+QPFT: 	1.2		0.9		0.8		1.7		-0.2
+PQoQ%: 	-50.2		-20.7		-7.6		96.5		-110.8
+
+
+
+***PROS***
+- Last 3QSALES is about 68% YSales
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  626.2   |  591.1   |  660.3   |  614.9   |  418.0  
- SQoQ%:  |  -18.9   |   -5.6   |   11.7   |   -6.9   |  -32.0  
- YOPM%:  |   1.1    |   8.7    |   11.3   |   12.1   |   15.6  
- YNPM%:  |   0.0    |   1.1    |   2.6    |   1.0    |   1.2   
-YPROFIT: |  -32.9   |   6.4    |   17.5   |   6.3    |   5.1   
- PQoQ%:  |   5.3    |  -119.6  |  171.4   |  -64.1   |  -19.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   93.6   |  153.9   |  160.6   |  110.2   |   93.8  
- QoQ%:  |  -40.1   |   64.5   |   4.3    |  -31.3   |  -14.9  
- QOPM%: |   21.5   |   11.3   |   12.0   |   14.6   |   17.0  
- QNPM%: |   1.1    |   0.4    |   1.5    |   1.1    |   1.0   
- QPFT:  |   1.0    |   0.6    |   2.3    |   1.2    |   0.9   
- PQoQ%: |  -43.4   |  -36.9   |  258.5   |  -50.2   |  -20.7  
-
-***PROS***
-- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 
 Yearly 
  31-Mar-2025 #Result
-418.00cr, QoQ -32.00% & YoY -33.25% SALES;
-65.10cr, QoQ -12.10% & YoY 830.00% OPERATING PROFIT;
+418.00cr, QoQ -1.90% & YoY -33.25% SALES;
+70.00cr, QoQ -7.10% & YoY 900.00% OPERATING PROFIT;
 5.10cr, QoQ -19.40% & YoY -115.50% NET PROFIT;
-OPM %: 15.60% vs 12.1%
-NPM %: 1.20% vs 1.0%
+OPM %: 16.70% vs 17.7%
+NPM %: 1.20% vs 1.5%
 

@@ -1,34 +1,43 @@
-CODES
-543600	HARSHA	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
+CODES	543600	HARSHA	
+FULLNAME : Harsha Engineers International Ltd
+SECTOR : Industrial Products
+INDUSTRY : Other Industrial Products
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  873.8   |  1321.5  |  1364.0  |  1392.3  |  1407.6 
- SQoQ%:  |   -1.4   |   51.2   |   3.2    |   2.1    |   1.1   
- YOPM%:  |   14.0   |   12.8   |   13.9   |   12.3   |   12.4  
- YNPM%:  |   5.2    |   7.0    |   9.0    |   8.0    |   6.3   
-YPROFIT: |   45.4   |   92.0   |  123.3   |  111.4   |   89.3  
- PQoQ%:  |  107.4   |  102.4   |   34.1   |   -9.6   |  -19.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  380.4   |  343.2   |  352.6   |  338.9   |  373.0  
- QoQ%:  |   17.2   |   -9.8   |   2.7    |   -3.9   |   10.0  
- QOPM%: |   14.3   |   16.1   |   11.9   |   12.6   |   9.4   
- QNPM%: |   9.7    |   10.5   |   8.2    |   7.9    |   0.0   
- QPFT:  |   36.8   |   36.0   |   29.0   |   26.7   |   -2.4  
- PQoQ%: |   23.9   |   -2.0   |  -19.7   |   -7.8   |  -109.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 873.8		1321.5		1364.0		1392.3		1407.6		1152.8
+SQoQ%: 	-1.4		51.2		3.2		2.1		1.1		81.9
+YOPM%: 	14.0		12.8		13.9		12.3		12.4
+YNPM%: 	5.2		7.0		9.0		8.0		6.3
+YPROFIT: 45.4		92.0		123.3		111.4		89.3		107.9
+PQoQ%: 	107.4		102.4		34.1		-9.6		-19.9		120.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 338.9		373.0		365.3		378.3		409.2
+QoQ%: 	-3.9		10.0		-2.1		3.6		8.2
+QOPM%: 	12.6		9.4		15.2		14.1		14.0
+QNPM%: 	7.9		0.0		10.4		9.6		8.2
+QPFT: 	26.7		-2.4		37.9		36.4		33.6
+PQoQ%: 	-7.8		-109.0		-1687.0		-3.9		-7.8
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 121% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 1407.60cr, QoQ 1.10% & YoY 61.09% SALES;
-174.90cr, QoQ 2.20% & YoY 43.36% OPERATING PROFIT;
+175.10cr, QoQ 2.30% & YoY 43.52% OPERATING PROFIT;
 89.30cr, QoQ -19.90% & YoY 96.70% NET PROFIT;
 OPM %: 12.40% vs 12.3%
 NPM %: 6.30% vs 8.0%

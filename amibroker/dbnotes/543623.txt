@@ -1,25 +1,26 @@
-CODE	NAME
-543623 
-
-SECTOR : Finance
-INDUSTRY : Finance & Investments
+CODES	543623	
+FULLNAME : Vedant Asset Ltd
+SECTOR : Capital Markets
+INDUSTRY : Financial Products Distributor
 EXPANSION 2024
+EXPANSION 2025
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
 
+***CONS***
+- NO PRODUCT DEMAND
+
 Yearly 
- 31-Mar-2024 #Result
-2.50cr, QoQ 18.70% & YoY 316.67% SALES;
--0.20cr, QoQ -141.50% & YoY -300.00% OPERATING PROFIT;
-0.20cr, QoQ -7.70% & YoY inf% NET PROFIT;
-OPM %: 0.00% vs 19.2%
-NPM %: 9.40% vs 12.1%
+ 31-Mar-2025 #Result
+3.60cr, QoQ 27.00% & YoY 260.00% SALES;
+0.40cr, QoQ 245.50% & YoY 300.00% OPERATING PROFIT;
+0.20cr, QoQ -8.30% & YoY 100.00% NET PROFIT;
+OPM %: 10.60% vs 3.9%
+NPM %: 6.20% vs 8.5%
 

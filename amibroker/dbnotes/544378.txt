@@ -1,14 +1,11 @@
-CODE	NAME
-544378 
-
+CODES	544378	
+FULLNAME : PDP Shipping & Projects Ltd
 SECTOR : Logistics
 INDUSTRY : Miscellaneous
 EXPANSION 2023
 EXPANSION 2024
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
@@ -16,6 +13,9 @@ EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SAL
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2024 is at 65.9%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  increasing for the last 3yrs
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

@@ -1,33 +1,51 @@
-CODE	NAME
-539218 
-
+CODES	539218	
+FULLNAME : Saumya Consultants Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+INDUSTRY : Non Banking Financial Company (NBFC)
+PRODUCT DEMAND
+BestQ Dec 2025
 YSD YPD 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   -0.2   |   26.9   |   37.1   |   19.2   |   59.7   |      39.8    
- SQoQ%:  |  -102.5  | -13555.0 |   37.9   |  -48.3   |  211.3   |      66.7    
- YOPM%:  |   0.0    |   64.5   |   22.6   |   0.0    |   44.5   |              
- YNPM%:  |   0.0    |   45.4   |   19.8   |   0.0    |   35.8   |              
-YPROFIT: |   -4.2   |   12.2   |   7.3    |   -1.2   |   21.4   |      21.5    
- PQoQ%:  |  -246.2  |  -392.3  |  -40.0   |  -115.7  | -1959.1  |     100.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   16.4   |   18.7   |   14.5   |   22.7   |   2.6   
- QoQ%:  |   -6.9   |   14.1   |  -22.3   |   56.2   |  -88.7  
- QOPM%: |   42.5   |   20.6   |   69.0   |   54.6   |   0.0   
- QNPM%: |   39.9   |   0.0    |   75.7   |   59.3   |   0.0   
- QPFT:  |   6.5    |   -0.2   |   11.0   |   13.4   |   -2.9  
- PQoQ%: |  -22.1   |  -103.1  | -5600.0  |   22.3   |  -121.5 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 26.9		37.1		19.2		59.7		39.5		16.7
+SQoQ%: 	-13555.0		37.9		-48.3		211.3		-33.9		42.3
+YOPM%: 	64.5		22.6		0.0		44.5		19.5
+YNPM%: 	45.4		19.8		0.0		35.8		23.3
+YPROFIT: 12.2		7.3		-1.2		21.4		9.2		8.9
+PQoQ%: 	-392.3		-40.0		-115.7		-1959.1		-56.9		96.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2.6		-0.3		9.2		3.8		3.7
+QoQ%: 	-88.7		-113.2		-2791.2		-58.0		-3.6
+QOPM%: 	0.0		0.0		127.5		0.0		42.4
+QNPM%: 	0.0		0.0		124.9		0.0		29.2
+QPFT: 	-2.9		-12.4		11.4		-3.6		1.1
+PQoQ%: 	-121.5		327.3		-192.6		-131.4		-130.1
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- Last 3QSALES is about 67% YSales
-- Last 3QPROFIT is about 100% of YProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 21.4
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 23.2%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  increasing for the last 3yrs
+- Last 3QPROFIT is about 97% of YProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2024
+
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+39.50cr, QoQ -33.90% & YoY 46.84% SALES;
+7.70cr, QoQ -71.10% & YoY -55.75% OPERATING PROFIT;
+9.20cr, QoQ -56.90% & YoY -24.59% NET PROFIT;
+OPM %: 19.50% vs 44.5%
+NPM %: 23.30% vs 35.8%
 

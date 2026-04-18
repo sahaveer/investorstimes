@@ -1,19 +1,23 @@
-CODES
-PRAMARA	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	PRAMARA	
+FULLNAME : Pramara Promotions Ltd
+SECTOR : Media
+INDUSTRY : Advertising & Media Agencies
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 
+YSALES in Mar-2025 is at 76.6 showing a QoQ_growth of 36.7%. The YNETPROFIT grew by 47.8% to 5.5
+
+***CONS***
+- NO PRODUCT DEMAND
+
 Yearly 
- 31-Mar-2024 #Result
-56.00cr, QoQ 13.20% & YoY -12.50% SALES;
-9.70cr, QoQ 52.10% & YoY 73.21% OPERATING PROFIT;
-3.70cr, QoQ 80.50% & YoY 184.62% NET PROFIT;
-OPM %: 17.40% vs 13.0%
-NPM %: 6.60% vs 4.1%
+ 31-Mar-2025 #Result
+76.60cr, QoQ 36.70% & YoY 87.75% SALES;
+12.10cr, QoQ 23.70% & YoY 218.42% OPERATING PROFIT;
+5.50cr, QoQ 47.80% & YoY 1275.00% NET PROFIT;
+OPM %: 15.80% vs 17.4%
+NPM %: 7.10% vs 6.6%
 

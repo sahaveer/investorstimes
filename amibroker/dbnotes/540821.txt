@@ -1,40 +1,44 @@
-CODE	NAME
-540821 
-
+CODES	540821	
+FULLNAME : Crystal Business System Ltd
 SECTOR : Entertainment
-INDUSTRY : Entertainment / Electronic Media Software
+INDUSTRY : TV Broadcasting & Software Production
 PRODUCT DEMAND
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   22.5   |   23.9   |   18.9   |   15.4   |   17.2  
- SQoQ%:  |  -34.9   |   6.3    |  -20.7   |  -18.6   |   11.7  
- YOPM%:  |   1.2    |   0.0    |   0.0    |   5.3    |   9.1   
- YNPM%:  |   0.0    |   1.3    |   0.0    |   2.2    |   5.3   
-YPROFIT: |   -0.1   |   0.3    |   -0.1   |   0.3    |   0.9   
- PQoQ%:  |  -112.5  |  -381.8  |  -138.7  |  -383.3  |  167.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   3.9    |   2.9    |   3.9    |   4.0    |   6.5   
- QoQ%:  |   90.2   |  -26.0   |   36.2   |   1.8    |   62.3  
- QOPM%: |   22.4   |   7.0    |   24.0   |   47.0   |   0.0   
- QNPM%: |   26.0   |   2.4    |   18.2   |   34.9   |   0.0   
- QPFT:  |   1.0    |   0.1    |   0.7    |   1.4    |   -1.3  
- PQoQ%: |  -156.4  |  -93.1   |  914.3   |   95.8   |  -191.4 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 22.5		23.9		18.9		15.4		17.1		4.1
+SQoQ%: 	-34.9		6.3		-20.7		-18.6		11.1		24.0
+YOPM%: 	1.2		0.0		0.0		5.4		9.2
+YNPM%: 	0.0		1.3		0.0		2.2		5.3
+YPROFIT: -0.1		0.3		-0.1		0.3		0.9		-3.0
+PQoQ%: 	-112.5		-381.8		-138.7		-383.3		167.6		-333.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4.0		6.5		1.6		1.6		0.9
+QoQ%: 	1.8		62.3		-75.2		-1.2		-43.0
+QOPM%: 	47.0		0.0		0.0		0.0		0.0
+QNPM%: 	34.9		0.0		0.0		0.0		0.0
+QPFT: 	1.4		-1.3		-0.6		-0.7		-1.7
+PQoQ%: 	95.8		-191.4		-50.4		11.1		145.7
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
 - YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
 - LastYr YProfits Doubled and maintained in Mar2025
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
-17.20cr, QoQ 11.70% & YoY -23.56% SALES;
-1.60cr, QoQ 90.20% & YoY 433.33% OPERATING PROFIT;
+17.10cr, QoQ 11.10% & YoY -24.00% SALES;
+1.60cr, QoQ 89.20% & YoY 433.33% OPERATING PROFIT;
 0.90cr, QoQ 167.60% & YoY -1000.00% NET PROFIT;
-OPM %: 9.10% vs 5.3%
+OPM %: 9.20% vs 5.4%
 NPM %: 5.30% vs 2.2%
 

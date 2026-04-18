@@ -1,12 +1,11 @@
-CODES
-ENVIRO	
+CODES	ENVIRO	
+FULLNAME : Envirotech Systems Ltd
 SECTOR : Engineering
 INDUSTRY : Engineering
 EXPANSION 2025
 LYPD PM 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -16,6 +15,8 @@ ROCE in Mar2025 is at 25.5%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
 - LastYr YProfits Doubled and maintained in Mar2025
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

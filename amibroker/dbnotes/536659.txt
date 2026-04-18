@@ -1,14 +1,14 @@
-CODE	NAME
-536659 
+CODES	536659	
+FULLNAME : PVV Infra Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
 
-SECTOR : Realty
-INDUSTRY : Construction
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
-- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2024 is at 133.7%. The QPROFIT QoQ_growth by 500.0%
+
+***CONS***

@@ -1,13 +1,14 @@
-CODE	NAME
-514238 
-
+CODES	514238	
+FULLNAME : MKVentures Capital Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Investment Company
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

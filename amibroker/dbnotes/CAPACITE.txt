@@ -1,36 +1,45 @@
-CODES
-540710	CAPACITE	
-SECTOR : Realty
-INDUSTRY : Construction
-BestQ Dec 2024
+CODES	540710	CAPACITE	
+FULLNAME : Capacite Infraprojects Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1529.0  |  879.7   |  1339.8  |  1798.6  |  1931.6  |     1678.3   
- SQoQ%:  |  -14.9   |  -42.5   |   52.3   |   34.2   |   7.4    |      86.9    
- YOPM%:  |   16.8   |   15.5   |   16.3   |   19.9   |   17.3   |              
- YNPM%:  |   6.0    |   0.2    |   3.6    |   5.3    |   6.2    |              
-YPROFIT: |   91.0   |   1.5    |   47.8   |   95.3   |  120.3   |     150.0    
- PQoQ%:  |   -6.4   |  -98.3   |  3021.6  |   99.5   |   26.2   |     124.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  480.7   |  598.9   |  569.8   |  518.0   |  590.5  
- QoQ%:  |   14.0   |   24.6   |   -4.9   |   -9.1   |   14.0  
- QOPM%: |   18.1   |   18.2   |   18.9   |   18.4   |   15.3  
- QNPM%: |   6.1    |   8.6    |   9.4    |   8.6    |   8.8   
- QPFT:  |   29.5   |   51.8   |   53.4   |   44.6   |   52.0  
- PQoQ%: |   48.8   |   75.3   |   3.2    |  -16.5   |   16.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 879.7		1339.8		1798.6		1931.6		2349.5		1911.0
+SQoQ%: 	-42.5		52.3		34.2		7.4		21.6		81.3
+YOPM%: 	15.5		16.3		19.9		17.3		16.2
+YNPM%: 	0.2		3.6		5.3		6.2		8.6
+YPROFIT: 1.5		47.8		95.3		120.3		202.6		144.8
+PQoQ%: 	-98.3		3021.6		99.5		26.2		68.4		71.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 590.5		671.3		589.4		646.2		675.4
+QoQ%: 	14.0		13.7		-12.2		9.6		4.5
+QOPM%: 	15.3		12.8		17.2		16.8		16.0
+QNPM%: 	8.8		7.8		7.8		7.6		7.4
+QPFT: 	52.0		52.5		45.7		49.1		50.0
+PQoQ%: 	16.6		1.0		-13.0		7.5		1.9
+
+
 
 ***PROS***
-- Last 3QSALES is about 87% YSales
-- Last 3QPROFIT is about 125% of YProfit
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 71% of YProfit
+
+YSALES in Mar-2025 is at 2349.5 showing a QoQ_growth of 21.6%. The YNETPROFIT grew by 68.4% to 202.6
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-1931.60cr, QoQ 7.40% & YoY 26.33% SALES;
-334.10cr, QoQ -6.50% & YoY 30.15% OPERATING PROFIT;
-120.30cr, QoQ 26.20% & YoY 32.20% NET PROFIT;
-OPM %: 17.30% vs 19.9%
-NPM %: 6.20% vs 5.3%
+ 31-Mar-2025 #Result
+2349.50cr, QoQ 21.60% & YoY 167.08% SALES;
+380.60cr, QoQ 13.90% & YoY 179.44% OPERATING PROFIT;
+202.60cr, QoQ 68.40% & YoY 13406.67% NET PROFIT;
+OPM %: 16.20% vs 17.3%
+NPM %: 8.60% vs 6.2%
 

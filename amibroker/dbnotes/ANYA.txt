@@ -1,15 +1,16 @@
-CODES
-ANYA	
+CODES	ANYA	
+FULLNAME : Anya Polytech & Fertilizers Ltd
 SECTOR : Packaging
 INDUSTRY : Packaging
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

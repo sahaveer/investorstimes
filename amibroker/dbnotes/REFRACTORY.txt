@@ -1,23 +1,24 @@
-CODES
-REFRACTORY	
-SECTOR : Refractories
-INDUSTRY : Refractories / Intermediates
+CODES	REFRACTORY	
+FULLNAME : Refractory Shapes Ltd
+SECTOR : Industrial Products
+INDUSTRY : Electrodes & Refractories
 LYPD PM 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - LastYr YProfits Doubled and maintained in Mar2025
 
-YSALES in Mar-2025 is at 58.8 showing a QoQ_growth of 45.7%. The YNETPROFIT grew by 50.5% to 6.0
+YSALES in Mar-2025 is at 58.7 showing a QoQ_growth of 45.5%. The YNETPROFIT grew by 50.5% to 6.0
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-58.80cr, QoQ 45.70% & YoY 181.34% SALES;
-10.30cr, QoQ 61.70% & YoY 347.83% OPERATING PROFIT;
+58.70cr, QoQ 45.50% & YoY 180.86% SALES;
+10.30cr, QoQ 61.90% & YoY 347.83% OPERATING PROFIT;
 6.00cr, QoQ 50.50% & YoY 275.00% NET PROFIT;
-OPM %: 17.50% vs 15.8%
+OPM %: 17.60% vs 15.8%
 NPM %: 10.30% vs 10.0%
 

@@ -1,28 +1,31 @@
-CODE	NAME
-530027 
+CODES	530027	
+FULLNAME : Aadi Industries Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Petrochemicals
 
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
-LYPD PM 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		0.0		0.0		0.0		0.0		0.0
+SQoQ%: 	-100.0		inf		-100.0		nan		nan		nan
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -0.1		-0.4		-0.2		-0.1		-0.2		-0.0
+PQoQ%: 	-108.9		218.2		-48.6		-50.0		88.9		0.0
 
-***CONS***
-- NEGATIVE YProfit : -0.1
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.6    |   0.0    |   0.0    |   0.0    |   0.0    |      0.0     
- SQoQ%:  |  150.0   |  -100.0  |   inf    |  -100.0  |   nan    |      nan     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |  189.2   |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   1.2    |   -0.1   |   -0.4   |   -0.2   |   -0.1   |      -0.0    
- PQoQ%:  |  -612.5  |  -108.9  |  218.2   |  -48.6   |  -50.0   |      0.0     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   inf    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.0   |   0.1    |   -0.0   |   -0.0   |   -0.0  
- PQoQ%: |   25.0   |  -260.0  |  -137.5  |   66.7   |  -20.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-0.0		-0.0		-0.0		-0.0		-0.0
+PQoQ%: 	-20.0		25.0		-20.0		-25.0		33.3
+
+
 
 ***PROS***
-- LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
+- NEGATIVE YProfit : -0.2

@@ -1,12 +1,14 @@
-CODES
-543732	RADIANTCMS	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	543732	RADIANTCMS	
+FULLNAME : Radiant Cash Management Services Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

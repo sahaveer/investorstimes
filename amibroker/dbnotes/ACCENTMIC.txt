@@ -1,12 +1,10 @@
-CODES
-ACCENTMIC	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+CODES	ACCENTMIC	
+FULLNAME : Accent Microcell Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 LYPD PM 2025
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
@@ -14,10 +12,13 @@ A DEBT-Free Company
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
 - LastYr YProfits Doubled and maintained in Mar2025
 
+***CONS***
+- NO PRODUCT DEMAND
+
 Yearly 
  31-Mar-2025 #Result
 264.60cr, QoQ 7.80% & YoY 99.55% SALES;
-41.90cr, QoQ 6.20% & YoY 291.59% OPERATING PROFIT;
+41.90cr, QoQ 6.20% & YoY 280.91% OPERATING PROFIT;
 33.10cr, QoQ 9.60% & YoY 589.58% NET PROFIT;
 OPM %: 15.80% vs 16.1%
 NPM %: 12.50% vs 12.3%

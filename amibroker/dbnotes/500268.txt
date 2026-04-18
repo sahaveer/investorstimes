@@ -1,32 +1,41 @@
-CODES
-500268	MANALIPETC	
-SECTOR : Petrochemicals
+CODES	500268	MANALIPETC	
+FULLNAME : Manali Petrochemicals Ltd
+SECTOR : Chemicals & Petrochemicals
 INDUSTRY : Petrochemicals
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1024.5  |  1671.9  |  1177.1  |  1032.4  |  897.1  
- SQoQ%:  |   27.6   |   63.2   |  -29.6   |  -12.3   |  -13.1  
- YOPM%:  |   29.4   |   31.6   |   6.3    |   4.5    |   6.5   
- YNPM%:  |   19.6   |   22.8   |   4.3    |   1.9    |   3.3   
-YPROFIT: |  201.2   |  381.1   |   50.7   |   19.2   |   29.3  
- PQoQ%:  |  331.3   |   89.4   |  -86.7   |  -62.1   |   52.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  256.3   |  240.4   |  230.2   |  196.1   |  230.4  
- QoQ%:  |   25.2   |   -6.2   |   -4.2   |  -14.8   |   17.5  
- QOPM%: |   6.8    |   8.6    |   1.7    |   6.5    |   9.1   
- QNPM%: |   0.5    |   5.4    |   0.1    |   2.7    |   4.7   
- QPFT:  |   1.3    |   13.0   |   0.2    |   5.3    |   10.8  
- PQoQ%: |  -55.8   |  901.5   |  -98.5   |  2535.0  |  105.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1024.5		1671.9		1177.1		1032.4		897.1		729.7
+SQoQ%: 	27.6		63.2		-29.6		-12.3		-13.1		81.3
+YOPM%: 	29.4		31.6		6.3		4.5		6.5
+YNPM%: 	19.6		22.8		4.3		1.9		3.3
+YPROFIT: 201.2		381.1		50.7		19.2		29.3		100.9
+PQoQ%: 	331.3		89.4		-86.7		-62.1		52.6		344.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 196.1		230.4		234.7		248.0		247.0
+QoQ%: 	-14.8		17.5		1.9		5.7		-0.4
+QOPM%: 	6.5		9.1		9.7		8.2		5.7
+QNPM%: 	2.7		4.7		6.1		7.3		27.7
+QPFT: 	5.3		10.8		14.3		18.2		68.4
+PQoQ%: 	2535.0		105.1		32.7		26.6		277.0
+
+
 
 ***PROS***
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 344% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 897.10cr, QoQ -13.10% & YoY -12.44% SALES;
-58.30cr, QoQ 24.30% & YoY -80.66% OPERATING PROFIT;
+58.50cr, QoQ 24.70% & YoY -80.60% OPERATING PROFIT;
 29.30cr, QoQ 52.60% & YoY -85.44% NET PROFIT;
 OPM %: 6.50% vs 4.5%
 NPM %: 3.30% vs 1.9%

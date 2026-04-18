@@ -1,21 +1,24 @@
-CODES
-GREENCHEF	
+CODES	GREENCHEF	
+FULLNAME : Greenchef Appliances Ltd
 SECTOR : Consumer Durables
-INDUSTRY : Domestic Appliances
+INDUSTRY : Household Appliances
 EXPANSION 2024
+EXPANSION 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-320.80cr, QoQ 0.40% & YoY 35.07% SALES;
-12.50cr, QoQ -38.90% & YoY 64.47% OPERATING PROFIT;
-4.80cr, QoQ -53.90% & YoY 336.36% NET PROFIT;
-OPM %: 3.90% vs 6.4%
-NPM %: 1.50% vs 3.3%
+ 31-Mar-2025 #Result
+360.60cr, QoQ 12.40% & YoY 51.01% SALES;
+14.60cr, QoQ 17.30% & YoY 52.08% OPERATING PROFIT;
+6.00cr, QoQ 23.20% & YoY 93.55% NET PROFIT;
+OPM %: 4.10% vs 3.9%
+NPM %: 1.60% vs 1.5%
 

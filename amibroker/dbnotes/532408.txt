@@ -1,26 +1,32 @@
-CODES
-532408	MEGASOFT	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+CODES	532408	MEGASOFT	
+FULLNAME : Megasoft Ltd
+SECTOR : Telecom - Services
+INDUSTRY : Other Telecom Services
 
-***CONS***
-- NEGATIVE YProfit : -12.8
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   56.7   |   59.4   |   52.4   |   2.0    |   0.0    |      0.0     
- SQoQ%:  |   -8.3   |   4.7    |  -11.8   |  -96.2   |  -100.0  |      nan     
- YOPM%:  |   9.5    |   6.9    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   1.3    |   3.1    |   8.8    |  448.2   |   0.0    |              
-YPROFIT: |   0.7    |   1.8    |   4.6    |   8.8    |  -12.8   |     -25.2    
- PQoQ%:  |  115.2   |  160.6   |  149.7   |   91.1   |  -244.4  |     196.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   inf   
- QPFT:  |   -4.8   |   -8.1   |  -16.8   |  -14.3   |   5.9   
- PQoQ%: |   46.8   |   69.6   |  106.1   |  -15.0   |  -141.1 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Sep-2025
+YSALES: 59.4		52.4		2.0		0.0		0.0		0.0
+SQoQ%: 	4.7		-11.8		-96.2		-100.0		nan		nan
+YOPM%: 	6.9		0.0		0.0		0.0		0.0
+YNPM%: 	3.1		8.8		448.2		0.0		0.0
+YPROFIT: 1.8		4.6		8.8		-12.8		-29.9		136.8
+PQoQ%: 	160.6		149.7		91.1		-244.4		134.8		-457.5
+
+
+
+***QUARTERLY***
+QPNL: 	Sep-2024	Dec-2024	Mar-2025	Jun-2025	Sep-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		inf		0.0		inf		inf
+QPFT: 	-14.3		5.9		-4.8		136.2		0.6
+PQoQ%: 	-15.0		-141.1		-181.2		-2962.0		-99.6
+
+
 
 ***PROS***
 
+
+***CONS***
+- NEGATIVE YProfit : -29.9

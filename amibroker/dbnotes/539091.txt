@@ -1,31 +1,36 @@
-CODE	NAME
-539091 
-
+CODES	539091	
+FULLNAME : Consecutive Investments & Trading Co Ltd
 SECTOR : Trading
 INDUSTRY : Trading
 
-***CONS***
- YPNL:   | Mar-2016 | Mar-2017 | Mar-2018 | Mar-2019 | Mar-2020 | QSUM:Sep-2020
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.3    |   0.2    |   0.1    |   0.1    |   0.0    |      0.0     
- SQoQ%:  |   nan    |   -3.8   |  -60.0   |  -30.0   |  -57.1   |      nan     
- YOPM%:  |   15.4   |   48.0   |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   53.8   |  132.0   |  140.0   |  200.0   |  466.7   |              
-YPROFIT: |   0.1    |   0.3    |   0.1    |   0.1    |   0.1    |      -0.0    
- PQoQ%:  |   nan    |  135.7   |  -57.6   |   0.0    |   0.0    |      -0.0    
- QPNL:  | Sep-2019 | Dec-2019 | Mar-2020 | Jun-2020 | Sep-2020
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   0.0    |  -100.0  |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   inf    |   0.0    |   0.0   
- QPFT:  |   0.0    |   0.0    |   0.2    |   -0.0   |   -0.0  
- PQoQ%: |  -100.0  |   nan    |   inf    |  -127.8  |  -60.0  
+***YEARLY***
+YPNL: 	Mar-2016	Mar-2017	Mar-2018	Mar-2019	Mar-2020	QSUM:Sep-2020
+YSALES: 	0.3		0.2		0.1		0.1		0.0		0.0
+SQoQ%: 	nan		-3.8		-60.0		-30.0		-57.1		nan
+YOPM%: 	15.4		48.0		0.0		0.0		0.0
+YNPM%: 	53.8		132.0		140.0		200.0		466.7
+YPROFIT: 	0.1		0.3		0.1		0.1		0.1		-0.0
+PQoQ%: 	nan		135.7		-57.6		0.0		0.0		-0.0
+
+
+
+***QUARTERLY***
+QPNL: 	Sep-2019		Dec-2019	Mar-2020	Jun-2020		Sep-2020
+QSALES: 	0.0		0.0		0.0		0.0		0.0
+QoQ%: 	0.0		-100.0		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		inf		0.0		0.0
+QPFT: 	0.0		0.0		0.2		-0.0		-0.0
+PQoQ%: 	-100.0		nan		inf		-127.8		-60.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
 
+
+***CONS***
 
 Yearly 
  31-Mar-2020 #Result

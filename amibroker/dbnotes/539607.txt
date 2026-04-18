@@ -1,13 +1,14 @@
-CODE	NAME
-539607 
-
+CODES	539607	
+FULLNAME : Blue Cloud Softech Solutions Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+INDUSTRY : Software Products
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

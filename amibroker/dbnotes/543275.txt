@@ -1,34 +1,43 @@
-CODES
-543275	ANURAS	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	543275	ANURAS	
+FULLNAME : Anupam Rasayan India Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  528.9   |  810.9   |  1073.8  |  1601.9  |  1475.1  |     938.3    
- SQoQ%:  |   5.5    |   53.3   |   32.4   |   49.2   |   -7.9   |      63.6    
- YOPM%:  |   25.5   |   23.9   |   28.4   |   26.9   |   25.8   |              
- YNPM%:  |   10.1   |   8.7    |   14.2   |   11.3   |   8.7    |              
-YPROFIT: |   53.2   |   70.3   |  152.2   |  180.8   |  128.6   |      48.8    
- PQoQ%:  |   8.0    |   32.1   |  116.5   |   18.8   |  -28.9   |      37.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  295.5   |  401.0   |  254.2   |  294.0   |  390.1  
- QoQ%:  |  -24.6   |   35.7   |  -36.6   |   15.6   |   32.7  
- QOPM%: |   26.8   |   23.1   |   20.9   |   27.4   |   31.9  
- QNPM%: |   6.2    |   7.7    |   1.5    |   5.7    |   7.2   
- QPFT:  |   18.4   |   30.9   |   3.9    |   16.7   |   28.2  
- PQoQ%: |  -54.8   |   67.9   |  -87.3   |  325.3   |   69.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 810.9		1073.8		1601.9		1475.1		1437.0		1729.6
+SQoQ%: 	53.3		32.4		49.2		-7.9		-2.6		120.4
+YOPM%: 	23.9		28.4		26.9		25.8		27.9
+YNPM%: 	8.7		14.2		11.3		8.7		6.5
+YPROFIT: 70.3		152.2		180.8		128.6		93.4		127.4
+PQoQ%: 	32.1		116.5		18.8		-28.9		-27.4		136.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 390.1		500.2		485.8		731.4		512.4
+QoQ%: 	32.7		28.2		-2.9		50.5		-29.9
+QOPM%: 	31.9		28.9		25.6		18.6		24.9
+QNPM%: 	7.2		8.9		7.0		6.1		9.6
+QPFT: 	28.2		44.6		34.0		44.4		49.0
+PQoQ%: 	69.1		58.1		-23.6		30.4		10.5
+
+
 
 ***PROS***
-- Last 3QSALES is about 64% YSales
+- Last 3QSALES is about 120% YSales
+- Last 3QPROFIT is about 136% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-1475.10cr, QoQ -7.90% & YoY 178.90% SALES;
-380.70cr, QoQ -11.80% & YoY 182.42% OPERATING PROFIT;
-128.60cr, QoQ -28.90% & YoY 141.73% NET PROFIT;
-OPM %: 25.80% vs 26.9%
-NPM %: 8.70% vs 11.3%
+ 31-Mar-2025 #Result
+1437.00cr, QoQ -2.60% & YoY 77.21% SALES;
+400.90cr, QoQ 5.30% & YoY 106.86% OPERATING PROFIT;
+93.40cr, QoQ -27.40% & YoY 32.86% NET PROFIT;
+OPM %: 27.90% vs 25.8%
+NPM %: 6.50% vs 8.7%
 

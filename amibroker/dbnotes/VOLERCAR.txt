@@ -1,12 +1,10 @@
-CODES
-VOLERCAR	
+CODES	VOLERCAR	
+FULLNAME : Voler Car Ltd
 SECTOR : Miscellaneous
 INDUSTRY : Miscellaneous
 LYPD PM 2024
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
@@ -14,6 +12,9 @@ LYPD PM 2024
 - LastYr YProfits Doubled and maintained in Mar2024
 
 YSALES in Mar-2024 is at 30.9 showing a QoQ_growth of 29.0%. The YNETPROFIT grew by 106.4% to 4.2
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

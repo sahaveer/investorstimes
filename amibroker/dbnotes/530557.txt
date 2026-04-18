@@ -1,43 +1,36 @@
-CODE	NAME
-530557 
-
+CODES	530557	
+FULLNAME : NCL Research and Financial Services Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-PRODUCT DEMAND
+INDUSTRY : Non Banking Financial Company (NBFC)
 YSD YPD 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   2.4    |   1.8    |   2.0    |   4.0    |   10.8   |      6.5     
- SQoQ%:  |  -28.5   |  -23.9   |   5.9    |  102.0   |  173.5   |      60.2    
- YOPM%:  |   0.4    |   0.5    |   56.1   |   24.2   |   12.3   |              
- YNPM%:  |   0.8    |   0.5    |   53.1   |   15.2   |   14.9   |              
-YPROFIT: |   0.0    |   0.0    |   1.0    |   0.6    |   1.6    |      -1.5    
- PQoQ%:  |  -81.8   |  -50.0   | 10300.0  |  -42.3   |  168.3   |     -93.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.2    |   7.2    |   1.4    |   1.5    |   3.6   
- QoQ%:  |   1.7    |  495.0   |  -80.8   |   7.2    |  146.6  
- QOPM%: |   73.6   |   0.0    |   0.0    |   30.4   |   23.8  
- QNPM%: |   86.8   |   3.3    |   0.0    |   73.6   |   0.0   
- QPFT:  |   1.0    |   0.2    |   -2.2   |   1.1    |   -0.4  
- PQoQ%: |  -717.6  |  -77.1   | -1000.0  |  -150.5  |  -134.9 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.8		2.0		4.0		10.8		8.5		5.8
+SQoQ%: 	-23.9		5.9		102.0		173.5		-21.2		68.2
+YOPM%: 	0.5		56.1		24.2		12.3		0.0
+YNPM%: 	0.5		53.1		15.2		14.9		0.0
+YPROFIT: 0.0		1.0		0.6		1.6		-1.4		3.1
+PQoQ%: 	-50.0		10300.0		-42.3		168.3		-184.5		-221.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3.6		2.0		1.8		1.9		2.1
+QoQ%: 	146.6		-44.7		-9.9		6.0		10.4
+QOPM%: 	23.8		37.1		82.4		81.3		27.2
+QNPM%: 	0.0		5.0		93.4		50.8		19.2
+QPFT: 	-0.4		0.1		1.7		1.0		0.4
+PQoQ%: 	-134.9		-126.3		1600.0		-42.4		-58.2
+
+
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 60% YSales
+DEBT-Free Company for the last 3 yrs
+- Last 3QSALES is about 68% YSales
 - YProfits and YSales DOUBLED in Mar2024
 
 
-YSALES in Mar-2024 is at 10.8 showing a QoQ_growth of 173.5%. The YNETPROFIT grew by 168.3% to 1.6
-
-Yearly 
- 31-Mar-2024 #Result
-10.80cr, QoQ 173.50% & YoY 350.00% SALES;
-1.30cr, QoQ 38.50% & YoY inf% OPERATING PROFIT;
-1.60cr, QoQ 168.30% & YoY inf% NET PROFIT;
-OPM %: 12.30% vs 24.2%
-NPM %: 14.90% vs 15.2%
-
+***CONS***
+- NEGATIVE YProfit : -1.4

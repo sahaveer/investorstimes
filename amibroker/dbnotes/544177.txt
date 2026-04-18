@@ -1,13 +1,11 @@
-CODE	NAME
-544177 
-
+CODES	544177	
+FULLNAME : Aztec Fluids & Machinery Ltd
 SECTOR : IT - Hardware
 INDUSTRY : Computers - Hardware
 EXPANSION 2024
 PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,6 +15,8 @@ EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly
 ROCE in Mar2024 is at 31.6%
 
 YSALES in Mar-2024 is at 67.7 showing a QoQ_growth of 24.8%. The YNETPROFIT grew by 92.2% to 6.1
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

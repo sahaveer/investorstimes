@@ -1,31 +1,48 @@
-CODES
-544122	ENTERO	
-SECTOR : Retail
-INDUSTRY : Trading
-BestQ Dec 2024
-LYPD PM 2024
+CODES	544122	ENTERO	
+FULLNAME : Entero Healthcare Solutions Ltd
+SECTOR : Retailing
+INDUSTRY : Pharmacy Retail
+BestQ Dec 2025
+LYPD PM 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1773.1		2522.1		3300.2		3922.3		5095.8		4681.3
+SQoQ%: 	31.4		42.2		30.9		18.9		29.9		91.9
+YOPM%: 	0.8		1.0		1.9		2.9		3.4
+YNPM%: 	0.0		0.0		0.0		1.0		1.9
+YPROFIT: -15.5		-29.9		-11.6		39.1		94.8		87.0
+PQoQ%: 	-1753.2		92.5		-61.4		-438.3		142.4		91.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1359.0		1339.1		1403.8		1571.0		1706.5
+QoQ%: 	4.5		-1.5		4.8		11.9		8.6
+QOPM%: 	3.7		3.7		3.6		4.0		4.0
+QNPM%: 	1.9		1.9		2.0		2.0		1.6
+QPFT: 	25.4		25.7		27.8		31.6		27.6
+PQoQ%: 	7.7		1.0		8.2		13.7		-12.6
+
+
+
+***PROS***
+- Last 3QSALES is about 92% YSales
+- Last 3QPROFIT is about 92% of YProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 5095.8 showing a QoQ_growth of 29.9%. The YNETPROFIT grew by 142.4% to 94.8
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1349.6  |  1773.1  |  2522.1  |  3300.2  |  3922.3  |     3756.7   
- SQoQ%:  |   nan    |   31.4   |   42.2   |   30.9   |   18.9   |      95.8    
- YOPM%:  |   1.7    |   0.8    |   1.0    |   1.9    |   2.9    |              
- YNPM%:  |   0.1    |   0.0    |   0.0    |   0.0    |   1.0    |              
-YPROFIT: |   0.9    |  -15.5   |  -29.9   |  -11.6   |   39.1   |      69.1    
- PQoQ%:  |   nan    | -1753.2  |   92.5   |  -61.4   |  -438.3  |     176.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  992.6   |  1034.2  |  1097.0  |  1300.7  |  1359.0 
- QoQ%:  |   -0.4   |   4.2    |   6.1    |   18.6   |   4.5   
- QOPM%: |   2.9    |   2.8    |   2.8    |   3.3    |   3.7   
- QNPM%: |   0.7    |   2.0    |   1.8    |   1.8    |   1.9   
- QPFT:  |   6.8    |   21.0   |   20.1   |   23.6   |   25.4  
- PQoQ%: |   32.2   |  209.3   |   -4.2   |   17.6   |   7.7   
 
-***PROS***
-- Last 3QSALES is about 96% YSales
-- Last 3QPROFIT is about 177% of YProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 39.1
-- LastYr YProfits Doubled and maintained in Mar2024
+Yearly 
+ 31-Mar-2025 #Result
+5095.80cr, QoQ 29.90% & YoY 187.39% SALES;
+171.70cr, QoQ 53.50% & YoY 1052.35% OPERATING PROFIT;
+94.80cr, QoQ 142.40% & YoY -711.61% NET PROFIT;
+OPM %: 3.40% vs 2.9%
+NPM %: 1.90% vs 1.0%
+

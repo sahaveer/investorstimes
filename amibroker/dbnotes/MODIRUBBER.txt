@@ -1,40 +1,48 @@
-CODES
-500890	MODIRUBBER	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	500890	MODIRUBBER	
+FULLNAME : Modi Rubber Ltd
+SECTOR : Auto Components
+INDUSTRY : Tyres & Rubber Products
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   4.9    |   2.8    |   5.1    |   5.3    |   22.4   |      22.1    
- SQoQ%:  |   -6.7   |  -43.4   |   85.2   |   3.7    |  321.8   |      98.7    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |  166.8   |  499.6   |  519.9   |   69.2   |              
-YPROFIT: |   -2.3   |   4.6    |   25.6   |   27.7   |   15.5   |      19.3    
- PQoQ%:  |  -125.7  |  -298.3  |  454.8   |   7.9    |  -43.9   |     124.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   7.2    |   5.4    |   5.3    |   6.5    |   10.3  
- QoQ%:  |   44.7   |  -24.7   |   -1.8   |   21.7   |   58.8  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   77.4   |   58.1   |  127.2   |   97.2   |   60.0  
- QPFT:  |   5.6    |   3.2    |   6.8    |   6.3    |   6.2   
- PQoQ%: |   75.8   |  -43.5   |  114.9   |   -6.9   |   -2.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2.8		5.1		5.3		22.4		29.2		22.2
+SQoQ%: 	-43.4		85.2		3.7		321.8		30.1		76.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	166.8		499.6		519.9		69.2		70.1
+YPROFIT: 4.6		25.6		27.7		15.5		20.5		14.6
+PQoQ%: 	-298.3		454.8		7.9		-43.9		31.7		71.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 10.3		7.0		7.1		7.8		7.3
+QoQ%: 	58.8		-31.8		0.9		10.0		-6.3
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	60.0		16.5		68.7		58.4		69.4
+QPFT: 	6.2		1.2		4.9		4.6		5.1
+PQoQ%: 	-2.1		-81.3		320.7		-6.6		11.4
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 99% YSales
-- Last 3QPROFIT is about 125% of YProfit
-- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 71% of YProfit
 
+
+YSALES in Mar-2025 is at 29.2 showing a QoQ_growth of 30.1%. The YNETPROFIT grew by 31.7% to 20.5
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-22.40cr, QoQ 321.80% & YoY 357.14% SALES;
--18.10cr, QoQ -7.00% & YoY 18.30% OPERATING PROFIT;
-15.50cr, QoQ -43.90% & YoY -773.91% NET PROFIT;
+ 31-Mar-2025 #Result
+29.20cr, QoQ 30.10% & YoY 942.86% SALES;
+-20.40cr, QoQ 12.90% & YoY 46.76% OPERATING PROFIT;
+20.50cr, QoQ 31.70% & YoY 345.65% NET PROFIT;
 OPM %: 0.00% vs 0.0%
-NPM %: 69.20% vs 519.9%
+NPM %: 70.10% vs 69.2%
 

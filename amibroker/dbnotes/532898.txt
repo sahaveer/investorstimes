@@ -1,36 +1,45 @@
-CODES
-532898	POWERGRID	
-SECTOR : Power Generation & Distribution
-INDUSTRY : Power Generation And Supply
+CODES	532898	POWERGRID	
+FULLNAME : Power Grid Corporation of India Ltd
+SECTOR : Power
+INDUSTRY : Power - Transmission
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 39639.8  | 41621.6  | 45603.1  | 45843.1  | 45792.3 
- SQoQ%:  |   5.0    |   5.0    |   9.6    |   0.5    |   -0.1  
- YOPM%:  |   88.1   |   86.1   |   86.8   |   86.9   |   85.1  
- YNPM%:  |   30.4   |   40.4   |   33.8   |   34.0   |   33.9  
-YPROFIT: | 12036.5  | 16824.1  | 15419.7  | 15573.2  | 15521.4 
- PQoQ%:  |   8.8    |   39.8   |   -8.3   |   1.0    |   -0.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 11978.1  | 11006.2  | 11277.8  | 11233.0  | 12275.4 
- QoQ%:  |   3.7    |   -8.1   |   2.5    |   -0.4   |   9.3   
- QOPM%: |   82.8   |   86.7   |   85.1   |   84.9   |   83.0  
- QNPM%: |   34.8   |   33.8   |   33.6   |   34.4   |   33.7  
- QPFT:  |  4166.3  |  3723.9  |  3793.0  |  3861.6  |  4142.9 
- PQoQ%: |   3.4    |  -10.6   |   1.9    |   1.8    |   7.3   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 39639.8		41621.6		45603.1		45843.1		45792.3		35067.3
+SQoQ%: 	5.0		5.0		9.6		0.5		-0.1		76.6
+YOPM%: 	88.1		86.1		86.8		85.6		84.8
+YNPM%: 	30.4		40.4		33.8		34.0		33.9
+YPROFIT: 12036.5		16824.1		15419.7		15573.2		15521.4		11381.7
+PQoQ%: 	8.8		39.8		-8.3		1.0		-0.3		73.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 11233.0		12275.4		11196.2		11476.0		12395.1
+QoQ%: 	-0.4		9.3		-8.8		2.5		8.0
+QOPM%: 	84.9		83.0		81.3		78.9		85.6
+QNPM%: 	34.4		33.7		32.4		31.1		33.8
+QPFT: 	3861.6		4142.9		3630.6		3566.1		4185.0
+PQoQ%: 	1.8		7.3		-12.4		-1.8		17.4
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 73% of YProfit
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 45792.30cr, QoQ -0.10% & YoY 15.52% SALES;
-38955.10cr, QoQ -2.20% & YoY 11.60% OPERATING PROFIT;
+38837.50cr, QoQ -1.00% & YoY 11.26% OPERATING PROFIT;
 15521.40cr, QoQ -0.30% & YoY 28.95% NET PROFIT;
-OPM %: 85.10% vs 86.9%
+OPM %: 84.80% vs 85.6%
 NPM %: 33.90% vs 34.0%
 

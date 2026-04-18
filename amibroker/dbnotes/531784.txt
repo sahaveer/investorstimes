@@ -1,40 +1,46 @@
-CODE	NAME
-531784 
+CODES	531784	
+FULLNAME : KCL Infra Projects Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
+PRODUCT DEMAND
+BestQ Dec 2025
+BestQ Dec 2025
 
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
-BestQ Dec 2024
-BestQ Dec 2024
-YSD YPD 2022
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 4.4		15.6		19.5		8.6		12.2		14.6
+SQoQ%: 	-68.7		253.1		25.5		-56.2		42.2		119.7
+YOPM%: 	0.0		4.4		0.0		0.0		0.0
+YNPM%: 	2.3		3.1		4.0		10.2		4.3
+YPROFIT: 0.1		0.5		0.8		0.9		0.5		1.5
+PQoQ%: 	-80.0		380.0		64.6		10.1		-40.2		300.0
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   14.1   |   4.4    |   15.6   |   19.5   |   8.6    |      3.1     
- SQoQ%:  |   67.1   |  -68.7   |  253.1   |   25.5   |  -56.2   |      36.0    
- YOPM%:  |   2.1    |   0.0    |   4.4    |   0.0    |   0.0    |              
- YNPM%:  |   3.6    |   2.3    |   3.1    |   4.0    |   10.2   |              
-YPROFIT: |   0.5    |   0.1    |   0.5    |   0.8    |   0.9    |      0.5     
- PQoQ%:  |   72.4   |  -80.0   |  380.0   |   64.6   |   10.1   |      55.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   2.7    |   1.6    |   1.8    |   0.0    |   1.3   
- QoQ%:  |   33.5   |  -41.7   |   13.3   |  -100.0  |   inf   
- QOPM%: |   22.9   |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   18.8   |   0.0    |   10.6   |   inf    |   19.8  
- QPFT:  |   0.5    |   -0.5   |   0.2    |   0.1    |   0.2   
- PQoQ%: |   0.0    |  -205.9  |  -135.2  |  -63.2   |  257.1  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1.3		9.1		0.7		1.0		12.9
+QoQ%: 	inf		623.8		-92.2		43.7		1160.8
+QOPM%: 	0.0		0.0		42.3		0.0		2.5
+QNPM%: 	19.8		0.1		94.4		0.0		8.6
+QPFT: 	0.2		0.0		0.7		-0.3		1.1
+PQoQ%: 	257.1		-96.0		6600.0		-149.3		-433.3
+
+
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 120% YSales
 - Double QSales and QProfit
-- Last 3QPROFIT is about 56% of YProfit
-- YProfits and YSales DOUBLED in Mar2022
+- Last 3QPROFIT is about 300% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-8.60cr, QoQ -56.20% & YoY -39.01% SALES;
--1.30cr, QoQ 226.80% & YoY -533.33% OPERATING PROFIT;
-0.90cr, QoQ 10.10% & YoY 80.00% NET PROFIT;
+ 31-Mar-2025 #Result
+12.20cr, QoQ 42.20% & YoY 177.27% SALES;
+-1.80cr, QoQ 33.60% & YoY 800.00% OPERATING PROFIT;
+0.50cr, QoQ -40.20% & YoY 400.00% NET PROFIT;
 OPM %: 0.00% vs 0.0%
-NPM %: 10.20% vs 4.0%
+NPM %: 4.30% vs 10.2%
 

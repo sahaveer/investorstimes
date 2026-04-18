@@ -4,6 +4,8 @@ import io
 import streamlit as st
 from streamlit_option_menu import option_menu
 import streamlit.components.v1 as components
+import os
+
 st.set_page_config(page_title="iTimesAlgo", page_icon=":bar_chart:", layout="wide",initial_sidebar_state="expanded",)
 
 # import glob
@@ -25,7 +27,78 @@ import amibroker
 from telegram import Bot
 import urllib
 import requests
+import config
 #color_dict = {'Yellow_Lite': "#f8ba43", 'Yellow_Dark': "#D6D41B", 'Blue_Lite': "#0FBAEC", 'Blue_Dark': "#0971C9",'Green_Lite': "#11A694", 'Green_Dark': "#11A64B",} #"Purple_Lite": "#7019BF", 'Purple_Dark': "#9319BF"}
+# Custom CSS for Premium Look
+st.markdown("""
+    <style>
+    /* Base Styles */
+    .main {
+        background-color: #0e1117;
+        color: #e0e0e0;
+    }
+    .stApp {
+        background: radial-gradient(circle at 50% 50%, #1e1e2f 0%, #0e1117 100%);
+    }
+    h1, h2, h3 {
+        color: #00A3FE !important;
+        font-family: 'Inter', sans-serif;
+        letter-spacing: -0.5px;
+    }
+    
+    /* Premium Button Styling */
+    .stButton>button {
+        background: linear-gradient(135deg, #00A3FE 0%, #0066fe 100%);
+        color: white;
+        border-radius: 12px;
+        border: none;
+        padding: 0.6rem 1.2rem;
+        font-weight: 600;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        box-shadow: 0 4px 15px rgba(0, 163, 254, 0.2);
+        width: 100%; /* Full width on mobile by default */
+    }
+    .stButton>button:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 25px rgba(0, 163, 254, 0.4);
+        border: none;
+        color: white;
+    }
+
+    /* Glassmorphism Sidebar */
+    [data-testid="stSidebar"] {
+        background: rgba(22, 27, 34, 0.8);
+        backdrop-filter: blur(12px);
+        border-right: 1px solid rgba(255, 255, 255, 0.05);
+    }
+
+    /* Mobile Specific Tweaks */
+    @media (max-width: 640px) {
+        h1 { font-size: 1.8rem !important; }
+        h2 { font-size: 1.5rem !important; }
+        .stPlotlyChart {
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+        }
+        /* Adjust padding for mobile */
+        .block-container {
+            padding-top: 2rem !important;
+            padding-left: 1rem !important;
+            padding-right: 1rem !important;
+        }
+    }
+
+    /* Modern Card Look for Metrics */
+    div[data-testid="stMetricValue"] {
+        background: rgba(255, 255, 255, 0.03);
+        padding: 10px;
+        border-radius: 8px;
+        border: 1px solid rgba(255, 255, 255, 0.05);
+    }
+    </style>
+    """, unsafe_allow_html=True)
+
 color_dict = {'blue3':{'hash':'#00A3FE','rgb':'rgb(0,163,254)'},
               'yellow1':{'hash':'#FFFF01','rgb':'rgb(255,255,1)'},
               'blue1':{'hash':'#21A1E1', 'rgb':'rgb(33,161,225)'},
@@ -50,77 +123,48 @@ stocks_dict = {}
 # keep 90 if need the latest results
 timedelta_Q_days = pd.Timedelta(days=0)
 timedelta_Q_days1 = pd.Timedelta(days=120)
-recent_reqd_quarter = datetime.datetime(2024,12,31)
-recent_quarter_txt="2025-03-31"
-last_quarter_text = "2024-12-31"
 
-# Gets data from the local pkl files
-# @st.cache_data
-# def get_all_quarterly_list():
-#     latest_quarterly_stocks = []
-#     available_stocks = []
-#     print("Entered get_all_quarterly_list FUNCTION and checks all pickle files")
-#     last_announced_quarter1 = ""
+def get_recent_quarters():
+    now = datetime.datetime.now()
+    year = now.year
+    month = now.month
     
-#     #lottie_hello = load_lottieurl("https://assets9.lottiefiles.com/packages/lf20_M9p23l.json")
-#     for each_pickl in glob.glob('./pickl/**/*.pkl', recursive=True):
-#         each_pickl = each_pickl.replace('\\', '/')
-#         # st.info(each_pickl)
-#         file_name_only = os.path.basename(each_pickl)
-#         #file_name_only = each_pickl.split('/')[-1]
-#         tree_folder1 = file_name_only[0].upper()
-#         if file_name_only.endswith('Yearly.pkl'):
-#             pickle_name = file_name_only.split()[0].strip()  # Since all the pickle files are either Quartetrly or Yearly, we need to get the first company code only
-#             if os.path.exists(f'./pickl/{tree_folder1}/{file_name_only} Quarterly.pkl'):        #Check if Quarterly Pkl exists
-#                 pass
-#             else:                           # if Quarterly Pickle file doesnt exist but Only Yearly Exists
-#                 if pickle_name not in available_stocks:
-#                     available_stocks.append(pickle_name)
-#         elif file_name_only.endswith('Quarterly.pkl'):
-#             pickle_name = file_name_only.split()[0].strip()
-#             qtr_pnl = pd.read_pickle(f'./pickl/{tree_folder1}/{file_name_only}')
-#             qtr_pnl.columns = pd.to_datetime(qtr_pnl.columns, format='%d-%m-%Y')
-#             # st.success(qtr_pnl.columns)
-#             if (datetime.datetime.now() - qtr_pnl.columns[-1]) < timedelta_Q_days1 and pickle_name not in latest_quarterly_stocks:
-#                 # st.success(f"{pickle_name} has latest q results")
-#                 latest_quarterly_stocks.append(pickle_name)
-#                 last_announced_quarter1 = datetime.datetime.strftime(qtr_pnl.columns[-1],'%b%Y')
-#             if pickle_name not in available_stocks:
-#                 available_stocks.append(pickle_name)
+    if 1 <= month <= 3: # JFM -> Latest is Dec (Prev Year)
+        q1 = f"{year-1}-12-31"
+        q2 = f"{year-1}-09-30"
+    elif 4 <= month <= 6: # AMJ -> Latest is Mar (Current Year)
+        q1 = f"{year}-03-31"
+        q2 = f"{year-1}-12-31"
+    elif 7 <= month <= 9: # JAS -> Latest is Jun (Current Year)
+        q1 = f"{year}-06-30"
+        q2 = f"{year}-03-31"
+    else: # OND -> Latest is Sep (Current Year)
+        q1 = f"{year}-09-30"
+        q2 = f"{year}-06-30"
+    return q1, q2
 
-#     #return unique_listed_stocks, unique_latest_quarterly_stocks, last_announced_quarter1
-#     return latest_quarterly_stocks, last_announced_quarter1, available_stocks
-# reads from local pickle file 
-# if 'latest_quarterly_stocks' not in st.session_state or 'last_announced_quarter' not in st.session_state or  'available_pickles' not in st.session_state:
-#     st.session_state.latest_quarterly_stocks,st.session_state.last_announced_quarter,st.session_state.available_pickles = get_all_quarterly_list()
+recent_quarter_txt, last_quarter_text = get_recent_quarters()
+recent_reqd_quarter = datetime.datetime.strptime(recent_quarter_txt, "%Y-%m-%d")
 
-# WE GET THIS FROM THE TXT FILE
+# Metadata and Stock Lists are now fetched from MongoDB
 if 'listed_stocks' not in st.session_state:
-    send_listed_stocks = []
-    with open(f'./watchlist/alllisted.txt','r') as fr:
-        #save each line into a list object
-        lines = fr.readlines()
-        for each in lines:
-            send_listed_stocks.append(each.strip())            
-    # print(send_listed_stocks)
-    st.session_state['listed_stocks'] = send_listed_stocks
-    # unique_listed_stocks = nse_bse_search.remove_duplicate_in_watchlist(send_listed_stocks)
-    # st.session_state['listed_stocks'] = unique_listed_stocks
-    # with open('./watchlist/alllisted.txt', 'w') as file:  # Read each line and append it to the list
-    #     for line in unique_listed_stocks:
-    #         file.write(line + "\n")
-# st.success(st.session_state['listed_stocks'])
-
+    stocks = create_database.get_all_listed_stocks()
+    if not stocks:
+        # Fallback to seed from local file if it exists
+        local_file = './watchlist/alllisted.txt'
+        if os.path.exists(local_file):
+            stocks = create_database.seed_stocks_from_file(local_file)
+            st.info("Seeded stocks from local file to MongoDB.")
+        else:
+            stocks = []
+    st.session_state['listed_stocks'] = stocks
 
 if 'latest_quarterly_stocks' not in st.session_state or 'last_announced_quarter' not in st.session_state or  'available_pickles' not in st.session_state or 'no_of_stocks_not_latest' not in st.session_state:
-    # how to check time consumed for this below code?
     start = time.perf_counter()
     variables.metadata,st.session_state.latest_quarterly_stocks,st.session_state.last_announced_quarter,st.session_state.available_pickles,st.session_state.no_of_stocks_not_latest = create_database.get_metadata(recent_quarter_txt,last_quarter_text)
     end = time.perf_counter()
     elapsed = end - start
-    minutes = int(elapsed // 60)
-    seconds = elapsed % 60
-    print(f"Time taken: {minutes}min {seconds} sec ")
+    print(f"Time taken to fetch metadata: {elapsed:.2f}s")
 
 
 
@@ -150,9 +194,9 @@ with col1_header:
 
                                                                                                                         # Function to save the dictionary to a file
 
-token_jarvis = "1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI"                     # JarvisPOSTME
-chat_ids = ["itimesalgo"]       #,"bhavcopy_amibroker"] # to update quarterly results
-bot = Bot(token=token_jarvis)
+# Telegram Config
+tg_token, tg_chat = config.Config.get_telegram_config()
+bot = Bot(token=tg_token)
 
 check_when_last_checked = datetime.timedelta(days=4)
 # send_to_telegram = st.checkbox("Send To Telegram", value=False)
@@ -170,6 +214,9 @@ def write_tags_to_txt(metadata):
 
 def save_screener1(codes,force):
     driver = processdriver.getedgedriver()
+    if driver is None:
+        st.error("Cannot update data from Screener: Webdriver is not available in this environment.")
+        return
     if force == False:
         # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
         print("Entered save_screener1 FUNC")
@@ -217,17 +264,19 @@ def save_screener1(codes,force):
 
 
 # Parse the URL parameters to get the selected stock
-url = st.experimental_get_query_params()
-selected_stock = url.get("selected", [""])[0]
+if 'selected' in st.query_params:
+    selected_stock = st.query_params['selected']
+else:
+    selected_stock = ""
 
 
 watchlist = create_database.industry_col.find()
 industry_dict = {}
 
-if len(st.session_state.latest_quarterly_stocks)>1:
-    industry_dict["Latest Quarterly"] = st.session_state.latest_quarterly_stocks #if selected_stock in st.session_state.latest_quarterly_stocks else st.session_state.listed_stocks
+if len(st.session_state.latest_quarterly_stocks)>0:
+    industry_dict["Latest Quarterly"] = st.session_state.latest_quarterly_stocks 
 else:
-    industry_dict["Latest Quarterly"] = st.session_state.listed_stocks
+    industry_dict["Latest Quarterly"] = []
 
 industry_dict['All Listed'] = st.session_state.listed_stocks
 
@@ -249,9 +298,76 @@ with st.sidebar:
     # genre = st.radio("Watchlist:",chose_genre,)
     genre = st.selectbox("Watchlist:",chose_genre,)
 
+    # ADMIN PORTAL for CSV Uploads
+    with st.expander("🔐 Admin Portal"):
+        st.caption("Upload reference CSVs to update Cloud Database")
+        bse_file = st.file_uploader("Update BSE Reference (Select.csv)", type=['csv'])
+        if bse_file:
+            bse_df = pd.read_csv(bse_file)
+            if create_database.save_reference_data('bse_select', bse_df):
+                st.success("BSE Data Updated in Cloud!")
+                st.session_state.bse_data = bse_df # Refresh session
+        
+        nse_file = st.file_uploader("Update NSE Reference (Bhavcopy CSV)", type=['csv'])
+        if nse_file:
+            nse_df = pd.read_csv(nse_file)
+            if create_database.save_reference_data('nse_bhav', nse_df):
+                st.success("NSE Data Updated in Cloud!")
+                st.session_state.nse_data = nse_df # Refresh session
+        
+        # Admin Tools - Only visible locally
+        if not config.is_cloud():
+            st.write("---")
+            st.subheader("📦 Master Data Sync")
+            if st.button("🔄 Sync Local AllListed.txt to Cloud"):
+                local_file = './watchlist/alllisted.txt'
+                if os.path.exists(local_file):
+                    new_stocks = create_database.seed_stocks_from_file(local_file)
+                    st.session_state['listed_stocks'] = new_stocks
+                    st.success(f"Successfully synced {len(new_stocks)} stocks to MongoDB!")
+                    time.sleep(1)
+                    st.rerun()
+                else:
+                    st.error("File not found at ./watchlist/alllisted.txt")
+
+            st.write("---")
+            st.subheader("🚀 Targeted Scraper")
+            scrape_input = st.text_area("Option 1: Paste Codes", placeholder="RELIANCE, 500325, INFV", help="Enter NSE symbols or BSE codes.")
+            scrape_file = st.file_uploader("Option 2: Upload .txt File", type=['txt'], help="Upload a text file with one code per line or comma-separated.")
+            
+            if st.button("🔥 Start Targeted Scrape"):
+                all_codes = []
+                
+                # Get codes from text area
+                if scrape_input:
+                    all_codes.extend([c.strip().upper() for c in scrape_input.split(",") if c.strip()])
+                
+                # Get codes from uploaded file
+                if scrape_file:
+                    content = scrape_file.read().decode("utf-8")
+                    # Handle both comma-separated and line-separated
+                    file_codes = content.replace("\n", ",").split(",")
+                    all_codes.extend([c.strip().upper() for c in file_codes if c.strip()])
+
+                # Unique codes only
+                all_codes = list(set(all_codes))
+
+                if all_codes:
+                    st.info(f"Starting scrape for {len(all_codes)} unique stocks...")
+                    save_screener1(all_codes, force=True)
+                    st.success(f"Targeted scrape for {len(all_codes)} stocks completed!")
+                else:
+                    st.warning("No valid stock codes found in input or file.")
+        else:
+            st.write("---")
+            st.caption("ℹ️ Admin tools (Scraping/Sync) are disabled in Cloud mode.")
+
+        st.write("---")
+        st.session_state.path_download = st.text_input("Local Download Path", value='C:/Users/Sahaveer/Downloads/', help="Path where your browser saves Screener Excel files.")
+
 funda_tech_options = ["Funda_Chart", 'Tech_Chart']#, 'Analyse Watchlist']
 show_list_as = industry_dict[genre]
-selected = st.sidebar.selectbox("", show_list_as, index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
+selected = st.sidebar.selectbox("Select Stock", show_list_as, index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
         
 
 # '''OLD METHOD OF SELCTING SELECTED'''
@@ -356,11 +472,17 @@ selected = st.sidebar.selectbox("", show_list_as, index=show_list_as.index(selec
 
 
 
-# st.experimental_set_query_params(selected=[selected],)
+# st.query_params = {"selected": selected}
 if selected: 
     funda_tech = option_menu("", funda_tech_options,
                              icons=['house', '📈 '], menu_icon="cast", default_index=0, orientation="horizontal")
 
+    # Initialize DataFrames to prevent crashes if data is missing
+    pnl = pd.DataFrame()
+    balancesht = pd.DataFrame()
+    qtr_pnl = pd.DataFrame()
+    df_comp = pd.DataFrame()
+    
     metadata = {}
     company_code = []
     comp_Name = ""
@@ -564,22 +686,57 @@ if selected:
                     qtr_pnl = fundamentals.develop_quarterly(qtr_pnl)        
 
             proscons_col1, proscons_col2 = st.columns([1,1])
+            comp_meta = metadata.get('comp_metadata', {})
+            inner_meta = metadata.get('metadata', {})
+
             with proscons_col1:
                 st.text("SECTOR:")
-                st.subheader(f"{metadata['comp_metadata']['sector']}")
+                st.subheader(f"{comp_meta.get('sector', 'N/A')}")
                 st.title("PROS")
-                for each in metadata['metadata']['pros']:
+                for each in inner_meta.get('pros', []):
                     st.success(each)
 
 
             with proscons_col2:
                 st.text("INDUSTRY:")
-                st.subheader(f"{metadata['comp_metadata']['industry']}")
+                st.subheader(f"{comp_meta.get('industry', 'N/A')}")
+                
+                # Exchange Links Section
+                st.write("---")
+                link_col1, link_col2 = st.columns(2)
+                
+                # Fetch links from DB or generate fallback
+                nse_link = comp_meta.get('nse_link')
+                bse_link = comp_meta.get('bse_link')
+                nse_code = comp_meta.get('code_names', {}).get('NSE', '')
+                bse_code = comp_meta.get('code_names', {}).get('BSE', '')
+                fullname = comp_meta.get('comp_fullname', '')
+                
+                # Hyphenated name for fallback generator
+                hyphen_name = fullname.replace(' ', '-').replace('Ltd', 'Limited')
+                
+                with link_col1:
+                    if nse_link:
+                        st.markdown(f"[![NSE](https://www.nseindia.com/assets/images/favicon.ico) NSE]({nse_link})")
+                    elif nse_code:
+                        # Fallback generator
+                        gen_nse = f"https://www.nseindia.com/get-quote/equity/{nse_code}/{hyphen_name}"
+                        st.markdown(f"[![NSE](https://www.nseindia.com/assets/images/favicon.ico) NSE]({gen_nse})")
+                
+                with link_col2:
+                    if bse_link:
+                        st.markdown(f"[![BSE](https://www.bseindia.com/favicon.ico) BSE]({bse_link})")
+                    elif bse_code:
+                        # Fallback generator
+                        gen_bse = f"https://www.bseindia.com/stock-share-price/{hyphen_name.lower()}/{nse_code}/{bse_code}/"
+                        st.markdown(f"[![BSE](https://www.bseindia.com/favicon.ico) BSE]({gen_bse})")
+                
                 st.title("CONS")
-                for each in metadata['metadata']['cons']:
+                for each in inner_meta.get('cons', []):
                     st.error(each)
                 
-            options = st.multiselect("TAGS",["Favourite"]+metadata['metadata']['tags'],metadata['metadata']['tags'])
+            tags = inner_meta.get('tags', [])
+            options = st.multiselect("TAGS", ["Favourite"] + tags, tags)
             
 
             with st.sidebar:  # with col2:
@@ -602,15 +759,25 @@ if selected:
                 #     mime="text/plain"
                 # )
             with subcoltw2_2:            
-                if st.button('Send Telegram'):
-                    # bot.send_message(chat_id=chat_id, text=sentence)
-                    # URL encode the message
-                    message_txt_encoded = urllib.parse.quote(textarea_is)
-                    # Construct the Telegram API URL
-                    group_address = f'https://api.telegram.org/bot1698319688:AAG5X-bmCzGqWHIyaksIUfBG_rxZRE3tUvI/sendMessage?chat_id=@{chat_name}&text={message_txt_encoded}'
+                # Only show the Send Telegram button if NOT on Cloud
+                if not config.is_cloud():
+                    if st.button('Send Telegram'):
+                        # URL encode the message
+                        message_txt_encoded = urllib.parse.quote(textarea_is)
+                        # Construct the Telegram API URL using secure config
+                        group_address = f'https://api.telegram.org/bot{tg_token}/sendMessage?chat_id=@{chat_name}&text={message_txt_encoded}'
 
-                    # Send the message
-                    resp = requests.get(group_address)
+                        # Send the message
+                        try:
+                            resp = requests.get(group_address)
+                            if resp.status_code == 200:
+                                st.success("Message sent to Telegram!")
+                            else:
+                                st.error(f"Failed to send: {resp.text}")
+                        except Exception as e:
+                            st.error(f"Telegram Error: {e}")
+                else:
+                    st.info("💡 Telegram sending is disabled in Cloud mode.")
 
             # with col2_header:
                 # pnl, balancesht,cashflow = fundamentals.develop_yearly()
@@ -771,11 +938,20 @@ if selected:
                     with coly:
                         components.html(comp_profile.replace("xxyy", company_code), height=1080)
                 with st.expander(label='BALANCE SHEET'):
-                    st.dataframe(balancesht)
+                    if not balancesht.empty:
+                        st.dataframe(balancesht)
+                    else:
+                        st.info("No Balance Sheet data available for this stock.")
                 with st.expander(label='YEARLY PNL'):
-                    st.dataframe(pnl)
+                    if not pnl.empty:
+                        st.dataframe(pnl)
+                    else:
+                        st.info("No Yearly P&L data available for this stock.")
                 with st.expander(label='QUARTERLY PNL'):
-                    st.dataframe(qtr_pnl)
+                    if not qtr_pnl.empty:
+                        st.dataframe(qtr_pnl)
+                    else:
+                        st.info("No Quarterly P&L data available for this stock.")
 
                 keydata_col1, keydata_col2 = st.columns([1,1])
                 with keydata_col1:
@@ -805,7 +981,8 @@ if selected:
                                             comp_Name, "Yearly")
                     plotlyfigures.bar_line(pnl, 'NET PROFIT', 'NPM %', color_dict[color_key]['hash'], comp_Name, "Yearly")
 
-                plotlyfigures.go_group_bar(df_comp.loc['CASH FLOW'], "cash_flows", color_dict[color_key]['hash'], "Yearly")
+                if not df_comp.empty and 'CASH FLOW' in df_comp.index:
+                    plotlyfigures.go_group_bar(df_comp.loc['CASH FLOW'], "cash_flows", color_dict[color_key]['hash'], "Yearly")
 
             # for each in variables.metadata.keys():
             #     st.info(each)
@@ -1084,6 +1261,8 @@ if selected:
 if st.button('Save all data in DB as notes:'):
     amibroker.ami_notes_from_database1()
     st.success(f"Saved in amibroker/dbnotes/")
+    print(f"Saved in amibroker/dbnotes/")
+
 
 
 #REFERENCE :

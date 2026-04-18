@@ -1,38 +1,42 @@
-CODES
-AARVI	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	AARVI	
+FULLNAME : Aarvi Encon Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  218.0   |  201.8   |  288.6   |  436.5   |  406.2   |     365.9    
- SQoQ%:  |   5.8    |   -7.5   |   43.0   |   51.3   |   -7.0   |      90.1    
- YOPM%:  |   4.3    |   4.8    |   4.6    |   4.3    |   3.2    |              
- YNPM%:  |   3.3    |   5.2    |   4.2    |   3.3    |   2.8    |              
-YPROFIT: |   7.2    |   10.5   |   12.1   |   14.5   |   11.3   |      7.1     
- PQoQ%:  |  -16.8   |   45.7   |   15.4   |   20.2   |  -21.8   |      62.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   99.9   |  103.1   |  113.3   |  121.0   |  131.6  
- QoQ%:  |   -2.4   |   3.2    |   9.9    |   6.7    |   8.8   
- QOPM%: |   2.2    |   2.9    |   2.9    |   1.7    |   2.8   
- QNPM%: |   2.4    |   2.9    |   2.3    |   1.7    |   1.8   
- QPFT:  |   2.4    |   3.0    |   2.6    |   2.1    |   2.4   
- PQoQ%: |   -8.8   |   27.7   |  -14.1   |  -19.2   |   12.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 201.8		288.6		436.5		406.2		510.4		477.5
+SQoQ%: 	-7.5		43.0		51.3		-7.0		25.7		93.6
+YOPM%: 	4.8		4.6		4.3		3.2		2.8
+YNPM%: 	5.2		4.2		3.3		2.8		2.0
+YPROFIT: 10.5		12.1		14.5		11.3		10.0		13.0
+PQoQ%: 	45.7		15.4		20.2		-21.8		-11.5		130.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 131.6		144.4		151.3		158.8		167.4
+QoQ%: 	8.8		9.7		4.7		5.0		5.4
+QOPM%: 	2.8		3.1		3.3		3.5		3.2
+QNPM%: 	1.8		2.0		2.8		3.0		2.4
+QPFT: 	2.4		3.0		4.2		4.8		4.0
+PQoQ%: 	12.3		24.5		43.1		13.7		-16.5
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 90% YSales
-- Last 3QPROFIT is about 63% of YProfit
+- Last 3QSALES is about 94% YSales
+- Last 3QPROFIT is about 130% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-406.20cr, QoQ -7.00% & YoY 86.33% SALES;
-12.90cr, QoQ -30.60% & YoY 35.79% OPERATING PROFIT;
-11.30cr, QoQ -21.80% & YoY 56.94% NET PROFIT;
-OPM %: 3.20% vs 4.3%
-NPM %: 2.80% vs 3.3%
+ 31-Mar-2025 #Result
+510.40cr, QoQ 25.70% & YoY 152.92% SALES;
+14.20cr, QoQ 10.10% & YoY 46.39% OPERATING PROFIT;
+10.00cr, QoQ -11.50% & YoY -4.76% NET PROFIT;
+OPM %: 2.80% vs 3.2%
+NPM %: 2.00% vs 2.8%
 

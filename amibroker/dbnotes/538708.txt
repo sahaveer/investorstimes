@@ -1,13 +1,14 @@
-CODE	NAME
-538708 
-
+CODES	538708	
+FULLNAME : Econo Trade India Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

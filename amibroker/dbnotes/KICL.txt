@@ -1,41 +1,43 @@
-CODES
-533302	KICL	
+CODES	533302	KICL	
+FULLNAME : Kalyani Investment Company Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+INDUSTRY : Investment Company
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   42.0   |   8.0    |   30.7   |   55.7   |   66.8   |      56.8    
- SQoQ%:  |   30.1   |  -81.0   |  285.9   |   81.2   |   20.0   |      85.0    
- YOPM%:  |   87.5   |   59.7   |   90.6   |   94.6   |   93.2   |              
- YNPM%:  |  114.4   |  434.5   |  186.1   |  104.3   |  104.8   |              
-YPROFIT: |   48.0   |   34.6   |   57.2   |   58.1   |   70.0   |      45.9    
- PQoQ%:  |  -21.3   |  -28.0   |   65.3   |   1.6    |   20.6   |      65.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   4.4    |   20.3   |   4.8    |   46.4   |   5.6   
- QoQ%:  |  -88.7   |  365.4   |  -76.3   |  863.6   |  -87.9  
- QOPM%: |   70.0   |   93.0   |   84.0   |   98.3   |   8.7   
- QNPM%: |  139.4   |  143.8   |   86.7   |   83.0   |   57.5  
- QPFT:  |   6.1    |   29.2   |   4.2    |   38.5   |   3.2   
- PQoQ%: |  -80.4   |  379.8   |  -85.7   |  822.5   |  -91.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 8.0		30.7		55.7		66.8		78.2		56.2
+SQoQ%: 	-81.0		285.9		81.2		20.0		17.1		71.9
+YOPM%: 	59.7		90.6		94.6		93.2		88.3
+YNPM%: 	434.5		186.1		104.3		104.8		91.5
+YPROFIT: 34.6		57.2		58.1		70.0		71.5		17.4
+PQoQ%: 	-28.0		65.3		1.6		20.6		2.1		24.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 5.6		21.4		5.8		43.9		6.5
+QoQ%: 	-87.9		281.5		-73.0		660.0		-85.1
+QOPM%: 	8.7		88.8		0.0		61.6		35.8
+QNPM%: 	57.5		119.8		0.0		43.1		26.1
+QPFT: 	3.2		25.7		-3.2		18.9		1.7
+PQoQ%: 	-91.6		695.0		-112.4		-695.3		-91.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 85% YSales
-- Last 3QPROFIT is about 66% of YProfit
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+- Last 3QSALES is about 72% YSales
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 
-YSALES in Mar-2024 is at 66.8 showing a QoQ_growth of 20.0%. The YNETPROFIT grew by 20.6% to 70.0
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-66.80cr, QoQ 20.00% & YoY 59.05% SALES;
-62.30cr, QoQ 18.20% & YoY 69.75% OPERATING PROFIT;
-70.00cr, QoQ 20.60% & YoY 45.83% NET PROFIT;
-OPM %: 93.20% vs 94.6%
-NPM %: 104.80% vs 104.3%
+ 31-Mar-2025 #Result
+78.20cr, QoQ 17.10% & YoY 877.50% SALES;
+69.10cr, QoQ 11.00% & YoY 1339.58% OPERATING PROFIT;
+71.50cr, QoQ 2.10% & YoY 106.65% NET PROFIT;
+OPM %: 88.30% vs 93.2%
+NPM %: 91.50% vs 104.8%
 

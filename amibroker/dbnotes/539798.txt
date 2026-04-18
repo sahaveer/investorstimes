@@ -1,28 +1,36 @@
-CODE	NAME
-539798 
+CODES	539798	
+FULLNAME : Umiya Tubes Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
+PRODUCT DEMAND
+LYPD PM 2025
 
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 19.6		21.2		7.2		0.5		0.5		4.5
+SQoQ%: 	179.1		8.1		-66.0		-93.1		-6.0		900.0
+YOPM%: 	2.6		3.0		0.0		0.0		0.0
+YNPM%: 	0.1		0.2		0.0		0.0		0.0
+YPROFIT: 0.0		0.0		-4.1		-3.4		-1.7		0.9
+PQoQ%: 	-88.2		150.0		-8260.0		-16.7		-49.1		-52.9
 
-***CONS***
-- NO PRODUCT DEMAND
-- NEGATIVE YProfit : -3.4
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   7.0    |   19.6   |   21.2   |   7.2    |   0.5    |      0.6     
- SQoQ%:  |  -52.5   |  179.1   |   8.1    |  -66.0   |  -93.1   |     120.0    
- YOPM%:  |   5.4    |   2.6    |   3.0    |   0.0    |   0.0    |              
- YNPM%:  |   2.4    |   0.1    |   0.2    |   0.0    |   0.0    |              
-YPROFIT: |   0.2    |   0.0    |   0.0    |   -4.1   |   -3.4   |      -2.2    
- PQoQ%:  |   41.7   |  -88.2   |  150.0   | -8260.0  |  -16.7   |      64.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.1    |   0.4    |   0.2    |   0.0   
- QoQ%:  |  -100.0  |   inf    |  337.5   |  -40.0   |  -100.0 
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.3   |   -1.6   |   -1.6   |   -0.5   |   -0.1  
- PQoQ%: |  -44.9   |  488.9   |   -1.3   |  -65.6   |  -85.2  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.2		4.3
+QoQ%: 	-100.0		nan		nan		inf		2065.0
+QOPM%: 	0.0		0.0		0.0		0.0		26.6
+QNPM%: 	0.0		inf		0.0		0.0		27.7
+QPFT: 	-0.1		0.5		-0.2		-0.1		1.2
+PQoQ%: 	-85.2		-687.5		-140.4		-26.3		-957.1
+
+
 
 ***PROS***
-- Last 3QSALES is about 120% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 900% YSales
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -1.7

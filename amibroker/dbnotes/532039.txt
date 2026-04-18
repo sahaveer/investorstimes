@@ -1,17 +1,18 @@
-CODE	NAME
-532039 
-
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Formulations
+CODES	532039	
+FULLNAME : Zenotech Laboratories Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 LYPD PM 2010
 
-***CONS***
-- NEGATIVE YProfit : -12.5
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - Last 2QSALES is about 123% YSales
 - LastYr YProfits Doubled and maintained in Mar2010
+
+***CONS***
+- NEGATIVE YProfit : -12.5

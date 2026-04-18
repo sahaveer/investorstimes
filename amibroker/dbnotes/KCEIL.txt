@@ -1,12 +1,11 @@
-CODES
-KCEIL	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
+CODES	KCEIL	
+FULLNAME : Kay Cee Energy & Infra Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
 PRODUCT DEMAND
 YSD YPD 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,10 +16,12 @@ ROCE in Mar2025 is at 18.5%
 
 YSALES in Mar-2025 is at 152.7 showing a QoQ_growth of 136.8%. The YNETPROFIT grew by 160.5% to 17.1
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 152.70cr, QoQ 136.80% & YoY 338.79% SALES;
-27.10cr, QoQ 112.10% & YoY 1255.00% OPERATING PROFIT;
+27.10cr, QoQ 112.20% & YoY 1255.00% OPERATING PROFIT;
 17.10cr, QoQ 160.50% & YoY 800.00% NET PROFIT;
 OPM %: 17.80% vs 19.8%
 NPM %: 11.20% vs 10.2%

@@ -1,36 +1,45 @@
-CODES
-500710	AKZOINDIA	
-SECTOR : Paints/Varnish
-INDUSTRY : Paints / Varnishes
+CODES	500710	AKZOINDIA	
+FULLNAME : Akzo Nobel India Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Paints
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2421.4  |  3148.6  |  3802.1  |  3961.6  |  4091.2 
- SQoQ%:  |   -9.0   |   30.0   |   20.8   |   4.2    |   3.3   
- YOPM%:  |   14.2   |   13.8   |   13.8   |   16.0   |   15.7  
- YNPM%:  |   8.6    |   9.2    |   8.8    |   10.8   |   10.5  
-YPROFIT: |  207.6   |  290.1   |  335.1   |  426.6   |  429.5  
- PQoQ%:  |  -12.6   |   39.7   |   15.5   |   27.3   |   0.7   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  973.4   |  1036.3  |  982.3   |  1050.5  |  1022.1 
- QoQ%:  |   -5.7   |   6.5    |   -5.2   |   6.9    |   -2.7  
- QOPM%: |   16.6   |   16.3   |   15.2   |   15.9   |   15.6  
- QNPM%: |   11.2   |   11.1   |   10.0   |   10.3   |   10.6  
- QPFT:  |  108.7   |  114.6   |   97.9   |  108.6   |  108.4  
- PQoQ%: |   -4.5   |   5.4    |  -14.6   |   10.9   |   -0.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2421.4		3148.6		3802.1		3961.6		4091.2		2737.7
+SQoQ%: 	-9.0		30.0		20.8		4.2		3.3		66.9
+YOPM%: 	14.2		13.8		13.8		16.0		15.7
+YNPM%: 	8.6		9.2		8.8		10.8		10.5
+YPROFIT: 207.6		290.1		335.1		426.6		429.5		1848.1
+PQoQ%: 	-12.6		39.7		15.5		27.3		0.7		430.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1050.5		1022.1		995.1		834.9		907.7
+QoQ%: 	6.9		-2.7		-2.6		-16.1		8.7
+QOPM%: 	15.9		15.6		13.5		13.3		15.0
+QNPM%: 	10.3		10.6		9.1		201.6		8.2
+QPFT: 	108.6		108.4		91.0		1682.8		74.3
+PQoQ%: 	10.9		-0.2		-16.1		1749.2		-95.6
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 31.1%
+- Last 3QSALES is about 67% YSales
+- Last 3QPROFIT is about 430% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 4091.20cr, QoQ 3.30% & YoY 68.96% SALES;
-641.50cr, QoQ 1.30% & YoY 86.81% OPERATING PROFIT;
+642.20cr, QoQ 1.40% & YoY 87.01% OPERATING PROFIT;
 429.50cr, QoQ 0.70% & YoY 106.89% NET PROFIT;
 OPM %: 15.70% vs 16.0%
 NPM %: 10.50% vs 10.8%

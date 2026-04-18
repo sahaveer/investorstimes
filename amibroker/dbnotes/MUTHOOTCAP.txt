@@ -1,35 +1,42 @@
-CODES
-511766	MUTHOOTCAP	
-SECTOR : 
-INDUSTRY : 
+CODES	511766	MUTHOOTCAP	
+FULLNAME : Muthoot Capital Services Ltd
+SECTOR : Finance
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  504.1   |  410.8   |  442.6   |  399.0   |  471.6  
- SQoQ%:  |  -14.0   |  -18.5   |   7.7    |   -9.9   |   18.2  
- YOPM%:  |   63.1   |   0.0    |   75.8   |   71.3   |   60.2  
- YNPM%:  |   10.2   |   0.0    |   17.8   |   30.7   |   9.7   
-YPROFIT: |   51.5   |  -161.9  |   78.7   |  122.7   |   45.8  
- PQoQ%:  |  -14.9   |  -414.7  |  -148.6  |   55.9   |  -62.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   98.0   |  100.0   |  108.6   |  125.7   |  137.3  
- QoQ%:  |   2.1    |   2.1    |   8.7    |   15.7   |   9.3   
- QOPM%: |   58.4   |   58.8   |   66.4   |   63.2   |   53.5  
- QNPM%: |   11.9   |   10.8   |   14.7   |   10.0   |   4.7   
- QPFT:  |   11.7   |   10.8   |   16.0   |   12.6   |   6.4   
- PQoQ%: |   16.7   |   -7.5   |   47.9   |  -21.4   |  -48.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 504.1		410.8		442.6		399.0		473.7		454.0
+SQoQ%: 	-14.0		-18.5		7.7		-9.9		18.7		95.8
+YOPM%: 	63.1		0.0		75.8		60.5		67.7
+YNPM%: 	10.2		0.0		17.8		30.7		9.7
+YPROFIT: 51.5		-161.9		78.7		122.7		45.8		5.7
+PQoQ%: 	-14.9		-414.7		-148.6		55.9		-62.7		12.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 125.7		137.3		145.3		153.6		155.1
+QoQ%: 	15.7		9.3		5.8		5.7		1.0
+QOPM%: 	63.2		53.5		46.7		55.0		56.1
+QNPM%: 	10.0		4.7		0.0		1.8		4.9
+QPFT: 	12.6		6.4		-4.7		2.8		7.6
+PQoQ%: 	-21.4		-48.9		-172.7		-160.6		170.3
+
+
 
 ***PROS***
+- Last 3QSALES is about 96% YSales
 - YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
-471.60cr, QoQ 18.20% & YoY -6.45% SALES;
-283.90cr, QoQ -0.20% & YoY -10.78% OPERATING PROFIT;
+473.70cr, QoQ 18.70% & YoY -6.03% SALES;
+320.60cr, QoQ 32.70% & YoY 0.75% OPERATING PROFIT;
 45.80cr, QoQ -62.70% & YoY -11.07% NET PROFIT;
-OPM %: 60.20% vs 71.3%
+OPM %: 67.70% vs 60.5%
 NPM %: 9.70% vs 30.7%
 

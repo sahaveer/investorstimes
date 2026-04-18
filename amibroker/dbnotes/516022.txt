@@ -1,37 +1,44 @@
-CODES
-516022	STARPAPER	
-SECTOR : Paper
-INDUSTRY : Paper
-BestQ Dec 2024
+CODES	516022	STARPAPER	
+FULLNAME : Star Paper Mills Ltd
+SECTOR : Paper, Forest & Jute Products
+INDUSTRY : Paper & Paper Products
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  341.0   |  233.4   |  330.5   |  492.7   |  444.5   |     322.2    
- SQoQ%:  |   -9.7   |  -31.6   |   41.6   |   49.1   |   -9.8   |      72.5    
- YOPM%:  |   14.1   |   9.1    |   9.7    |   16.3   |   12.8   |              
- YNPM%:  |   10.9   |   7.5    |   11.1   |   13.3   |   14.4   |              
-YPROFIT: |   37.3   |   17.5   |   36.6   |   65.7   |   64.0   |      36.1    
- PQoQ%:  |  -29.9   |  -53.0   |  109.2   |   79.2   |   -2.5   |      56.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  114.8   |  100.4   |  113.8   |  110.9   |   97.5  
- QoQ%:  |   8.7    |  -12.5   |   13.4   |   -2.6   |  -12.1  
- QOPM%: |   12.0   |   5.4    |   8.6    |   8.1    |   8.0   
- QNPM%: |   12.9   |   14.2   |   12.2   |   13.1   |   7.9   
- QPFT:  |   14.8   |   14.3   |   13.9   |   14.5   |   7.7   
- PQoQ%: |   -2.8   |   -3.0   |   -2.8   |   4.4    |  -46.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 233.4		330.5		492.7		444.5		436.3		297.4
+SQoQ%: 	-31.6		41.6		49.1		-9.8		-1.8		68.2
+YOPM%: 	9.1		9.7		16.3		12.8		8.4
+YNPM%: 	7.5		11.1		13.3		14.4		9.4
+YPROFIT: 17.5		36.6		65.7		64.0		41.1		34.0
+PQoQ%: 	-53.0		109.2		79.2		-2.5		-35.7		82.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 97.5		114.1		101.2		104.4		91.8
+QoQ%: 	-12.1		17.0		-11.3		3.2		-12.0
+QOPM%: 	8.0		8.9		6.2		6.8		0.7
+QNPM%: 	7.9		4.4		12.7		12.5		9.0
+QPFT: 	7.7		5.0		12.8		13.0		8.2
+PQoQ%: 	-46.9		-35.0		155.7		1.6		-36.9
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- Last 3QSALES is about 72% YSales
-- Last 3QPROFIT is about 56% of YProfit
+- Last 3QSALES is about 68% YSales
+- Last 3QPROFIT is about 83% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-444.50cr, QoQ -9.80% & YoY 30.35% SALES;
-57.10cr, QoQ -28.90% & YoY 18.96% OPERATING PROFIT;
-64.00cr, QoQ -2.50% & YoY 71.58% NET PROFIT;
-OPM %: 12.80% vs 16.3%
-NPM %: 14.40% vs 13.3%
+ 31-Mar-2025 #Result
+436.30cr, QoQ -1.80% & YoY 86.93% SALES;
+36.80cr, QoQ -35.50% & YoY 73.58% OPERATING PROFIT;
+41.10cr, QoQ -35.70% & YoY 134.86% NET PROFIT;
+OPM %: 8.40% vs 12.8%
+NPM %: 9.40% vs 14.4%
 

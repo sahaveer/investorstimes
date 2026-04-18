@@ -1,16 +1,17 @@
-CODE	NAME
-519457 
-
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
+CODES	519457	
+FULLNAME : Virat Crane Industries Ltd
+SECTOR : Food Products
+INDUSTRY : Dairy Products
 PRODUCT DEMAND
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - Last 2QSALES is about 57% YSales
+
+***CONS***

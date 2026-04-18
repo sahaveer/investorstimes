@@ -1,13 +1,14 @@
-CODE	NAME
-507498 
+CODES	507498	
+FULLNAME : Piccadily Sugar & Allied Inds Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Sugar
 
-SECTOR : Alcoholic Beverages
-INDUSTRY : Breweries & Distilleries
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

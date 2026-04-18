@@ -1,42 +1,47 @@
-CODE	NAME
-539174 
-
+CODES	539174	
+FULLNAME : Helpage Finlease Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
 
-***CONS***
-  YPNL   |  :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+------+----------+----------+----------+----------+----------+--------------
-YSALES:  | 2.8  |   2.9    |   2.9    |   2.8    |   4.6    |   5.5    |              
- SQoQ%:  | 24.4 |   6.9    |   -2.7   |   -2.1   |   62.5   |  119.6   |              
- YOPM%:  | 85.1 |   84.4   |   82.9   |   81.1   |   77.4   |          |              
- YNPM%:  | 17.5 |   16.0   |   22.4   |   21.8   |   19.1   |          |              
-YPROFIT: | 0.5  |   0.5    |   0.6    |   0.6    |   0.9    |   0.8    |              
- PQoQ%:  | 41.2 |   -2.1   |   36.2   |   -4.7   |   42.6   |   88.9   |              
-  QPNL  |   :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+-------+----------+----------+----------+----------+---------
-QSALES: |  1.3  |   1.3    |   1.4    |   1.7    |   2.4    |         
- QoQ%:  |  -4.5 |   0.0    |   8.6    |   25.2   |   40.2   |         
- QOPM%: |  84.4 |   53.9   |   92.1   |   90.2   |   94.7   |         
- QNPM%: |  25.0 |   2.3    |   16.5   |   14.9   |   13.9   |         
- QPFT:  |  0.3  |   0.0    |   0.2    |   0.3    |   0.3    |         
- PQoQ%: | -22.0 |  -90.6   |  666.7   |   13.0   |   30.8   |         
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2.9		2.9		2.8		4.6		8.6		10.0
+SQoQ%: 	6.9		-2.7		-2.1		62.5		90.1		116.3
+YOPM%: 	84.4		82.9		81.1		77.4		93.4
+YNPM%: 	16.0		22.4		21.8		19.1		17.1
+YPROFIT: 0.5		0.6		0.6		0.9		1.5		2.6
+PQoQ%: 	-2.1		36.2		-4.7		42.6		70.1		173.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2.4		3.1		3.1		3.5		3.4
+QoQ%: 	40.2		25.8		1.0		11.9		-0.9
+QOPM%: 	94.7		94.8		91.9		95.1		84.0
+QNPM%: 	13.9		20.8		25.2		25.6		25.6
+QPFT: 	0.3		0.6		0.8		0.9		0.9
+PQoQ%: 	30.8		88.2		21.9		14.1		-1.1
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 120% YSales
-- Last 3QPROFIT is about 89% of YProfit
+- Last 3QSALES is about 116% YSales
+- Last 3QPROFIT is about 173% of YProfit
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 90.1% while the Profit QoQ_growth is at 70.1%
 
-
-YSALES in Mar-2024 is at 4.6 showing a QoQ_growth of 62.5%. The YNETPROFIT grew by 42.6% to 0.9
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-4.60cr, QoQ 62.50% & YoY 64.29% SALES;
-3.50cr, QoQ 55.10% & YoY 52.17% OPERATING PROFIT;
-0.90cr, QoQ 42.60% & YoY 80.00% NET PROFIT;
-OPM %: 77.40% vs 81.1%
-NPM %: 19.10% vs 21.8%
+ 31-Mar-2025 #Result
+8.60cr, QoQ 90.10% & YoY 196.55% SALES;
+8.10cr, QoQ 129.50% & YoY 224.00% OPERATING PROFIT;
+1.50cr, QoQ 70.10% & YoY 200.00% NET PROFIT;
+OPM %: 93.40% vs 77.4%
+NPM %: 17.10% vs 19.1%
 

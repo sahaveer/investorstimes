@@ -1,12 +1,14 @@
-CODES
-532022	FILATFASH	
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
+CODES	532022	FILATFASH	
+FULLNAME : Filatex Fashions Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Garments & Apparels
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

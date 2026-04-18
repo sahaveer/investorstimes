@@ -1,27 +1,25 @@
-CODES
-MAXPOSURE	
+CODES	MAXPOSURE	
+FULLNAME : Maxposure Ltd
 SECTOR : Entertainment
-INDUSTRY : Entertainment / Electronic Media Software
-LYPD PM 2024
+INDUSTRY : Media & Entertainment
+PRODUCT DEMAND
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 21.8%
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- LastYr YProfits Doubled and maintained in Mar2024
+ROCE in Mar2025 is at 21.7%
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
 
-YSALES in Mar-2024 is at 42.8 showing a QoQ_growth of 34.7%. The YNETPROFIT grew by 94.2% to 7.7
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-42.80cr, QoQ 34.70% SALES;
-10.30cr, QoQ 70.00% OPERATING PROFIT;
-7.70cr, QoQ 94.20% NET PROFIT;
-OPM %: 23.90% vs 19.0%
-NPM %: 18.00% vs 12.5%
+ 31-Mar-2025 #Result
+53.90cr, QoQ 25.90% & YoY 166.83% SALES;
+10.90cr, QoQ 6.20% & YoY -1657.14% OPERATING PROFIT;
+8.40cr, QoQ 8.70% & YoY 2000.00% NET PROFIT;
+OPM %: 20.20% vs 23.9%
+NPM %: 15.50% vs 18.0%
 

@@ -1,15 +1,16 @@
-CODES
-WTICAB	
-SECTOR : E-Commerce/App based Aggregator
-INDUSTRY : Miscellaneous
+CODES	WTICAB	
+FULLNAME : Wise Travel India Ltd
+SECTOR : Services
+INDUSTRY : Services
 YSD YPD 2023
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - YProfits and YSales DOUBLED in Mar2023
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

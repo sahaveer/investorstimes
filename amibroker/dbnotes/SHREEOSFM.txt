@@ -1,22 +1,27 @@
-CODES
-SHREEOSFM	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-YS15 YPD 2024
+CODES	SHREEOSFM	
+FULLNAME : Shree OSFM E-Mobility Ltd
+SECTOR : Transport Services
+INDUSTRY : Road Transport
+PRODUCT DEMAND
+LYPD PM 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
-As on Mar2024, Sales have increased by 43.9% while the Profit QoQ_growth is much better than Sales itself at 178.4%
+- PRODUCT DEMAND is rising since 3 years
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 16.8% while the Profit QoQ_growth is much better than Sales itself at 27.8%
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-118.20cr, QoQ 43.90% SALES;
-13.30cr, QoQ 71.30% OPERATING PROFIT;
-8.10cr, QoQ 178.40% NET PROFIT;
-OPM %: 11.20% vs 9.5%
-NPM %: 6.90% vs 3.5%
+ 31-Mar-2025 #Result
+138.00cr, QoQ 16.80% & YoY 372.60% SALES;
+18.00cr, QoQ 35.40% & YoY 620.00% OPERATING PROFIT;
+10.40cr, QoQ 27.80% & YoY 1385.71% NET PROFIT;
+OPM %: 13.00% vs 11.2%
+NPM %: 7.50% vs 6.9%
 

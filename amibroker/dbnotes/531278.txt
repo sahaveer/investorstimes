@@ -1,42 +1,50 @@
-CODE	NAME
-531278 
-
+CODES	531278	
+FULLNAME : Elixir Capital Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Other Financial Services
 PRODUCT DEMAND
+BestQ Dec 2025
 YSD YPD 2024
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   19.5   |   24.5   |   4.3    |   34.6   |   35.4  
- SQoQ%:  | -4980.0  |   25.7   |  -82.4   |  701.6   |   2.1   
- YOPM%:  |   76.9   |   77.5   |   0.0    |   79.1   |   56.7  
- YNPM%:  |   46.7   |   52.9   |   0.0    |   60.5   |   26.4  
-YPROFIT: |   9.1    |   13.0   |   -3.4   |   21.0   |   9.3   
- PQoQ%:  |  -338.1  |   42.3   |  -126.4  |  -711.1  |  -55.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   15.8   |   14.7   |   18.6   |   6.0    |   -4.0  
- QoQ%:  |  167.5   |   -6.9   |   26.1   |  -67.5   |  -165.6 
- QOPM%: |   84.8   |   79.3   |   83.8   |   38.7   |   0.0   
- QNPM%: |   49.7   |   43.1   |   45.0   |   14.6   |   0.0   
- QPFT:  |   7.9    |   6.4    |   8.4    |   0.9    |   -6.3  
- PQoQ%: |  233.1   |  -19.2   |   31.7   |  -89.5   |  -812.5 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 19.6		24.5		4.3		34.6		36.1		35.3
+SQoQ%: 	-5005.0		25.0		-82.4		701.6		4.2		97.8
+YOPM%: 	76.5		77.5		0.0		79.1		57.5
+YNPM%: 	46.5		39.1		0.0		45.1		25.9
+YPROFIT: 9.1		9.6		-3.4		15.6		9.3		8.4
+PQoQ%: 	-338.1		5.3		-135.7		-555.1		-40.2		90.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 6.0		-4.0		10.9		11.1		13.3
+QoQ%: 	-67.5		-165.6		-375.8		1.6		20.0
+QOPM%: 	38.7		0.0		38.9		40.3		55.4
+QNPM%: 	14.6		0.0		25.0		15.4		30.2
+QPFT: 	0.9		-6.3		2.7		1.7		4.0
+PQoQ%: 	-89.5		-812.5		-143.5		-37.4		135.1
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 20.2%
+ROCE in Mar2025 is at 21.2%
+- Last 3QSALES is about 98% YSales
+- Last 3QPROFIT is about 90% of YProfit
 - YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2024
 
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
-35.40cr, QoQ 2.10% & YoY 81.54% SALES;
-20.00cr, QoQ -26.80% & YoY 33.33% OPERATING PROFIT;
-9.30cr, QoQ -55.50% & YoY 2.20% NET PROFIT;
-OPM %: 56.70% vs 79.1%
-NPM %: 26.40% vs 60.5%
+36.10cr, QoQ 4.20% & YoY 84.18% SALES;
+20.70cr, QoQ -24.30% & YoY 38.00% OPERATING PROFIT;
+9.30cr, QoQ -40.20% & YoY 2.20% NET PROFIT;
+OPM %: 57.50% vs 79.1%
+NPM %: 25.90% vs 45.1%
 

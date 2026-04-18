@@ -1,12 +1,12 @@
-CODE	NAME
-544183 
-
+CODES	544183	
+FULLNAME : Associated Coaters Ltd
 SECTOR : Miscellaneous
 INDUSTRY : Miscellaneous
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 
+
+***CONS***

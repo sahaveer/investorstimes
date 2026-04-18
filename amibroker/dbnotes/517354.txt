@@ -1,31 +1,40 @@
-CODES
-517354	HAVELLS	
+CODES	517354	HAVELLS	
+FULLNAME : Havells India Ltd
 SECTOR : Consumer Durables
-INDUSTRY : Electric Equipment
+INDUSTRY : Consumer Electronics
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 10457.3  | 13938.5  | 16910.7  | 18590.0  | 21778.1 
- SQoQ%:  |   10.8   |   33.3   |   21.3   |   9.9    |   17.1  
- YOPM%:  |   15.2   |   12.7   |   9.6    |   10.1   |   10.0  
- YNPM%:  |   10.0   |   8.6    |   6.3    |   6.8    |   6.8   
-YPROFIT: |  1044.3  |  1196.5  |  1071.7  |  1270.8  |  1472.3 
- PQoQ%:  |   42.0   |   14.6   |  -10.4   |   18.6   |   15.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  5442.0  |  5806.2  |  4539.3  |  4889.0  |  6543.6 
- QoQ%:  |   23.3   |   6.7    |  -21.8   |   7.7    |   33.8  
- QOPM%: |   11.7   |   9.9    |   8.3    |   8.7    |   11.6  
- QNPM%: |   8.2    |   7.0    |   5.9    |   5.7    |   7.9   
- QPFT:  |  446.7   |  407.9   |  268.2   |  278.3   |  517.8  
- PQoQ%: |   55.2   |   -8.7   |  -34.2   |   3.8    |   86.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 10457.3		13938.5		16910.7		18590.0		21778.1		15822.6
+SQoQ%: 	10.8		33.3		21.3		9.9		17.1		72.7
+YOPM%: 	15.2		12.7		9.6		10.1		10.0
+YNPM%: 	10.0		8.6		6.3		6.8		6.8
+YPROFIT: 1044.3		1196.5		1071.7		1270.8		1472.3		967.5
+PQoQ%: 	42.0		14.6		-10.4		18.6		15.9		65.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4889.0		6543.6		5455.4		4779.3		5587.9
+QoQ%: 	7.7		33.8		-16.6		-12.4		16.9
+QOPM%: 	8.7		11.6		9.5		9.2		9.2
+QNPM%: 	5.7		7.9		6.4		6.7		5.4
+QPFT: 	278.3		517.8		347.7		319.0		300.8
+PQoQ%: 	3.8		86.1		-32.9		-8.3		-5.7
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 73% YSales
+- Last 3QPROFIT is about 66% of YProfit
 
 YSALES in Mar-2025 is at 21778.1 showing a QoQ_growth of 17.1%. The YNETPROFIT grew by 15.9% to 1472.3
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

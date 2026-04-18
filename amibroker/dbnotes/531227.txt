@@ -1,36 +1,41 @@
-CODE	NAME
-531227 
+CODES	531227	
+FULLNAME : Deco-Mica Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
 
-SECTOR : Plywood Boards/Laminates
-INDUSTRY : Miscellaneous
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 53.4		71.7		78.3		77.3		76.1		48.3
+SQoQ%: 	10.1		34.2		9.2		-1.3		-1.6		63.5
+YOPM%: 	8.5		6.1		7.9		8.9		7.2
+YNPM%: 	2.5		2.8		2.9		3.0		2.6
+YPROFIT: 1.3		2.0		2.3		2.3		2.0		0.6
+PQoQ%: 	54.7		51.9		12.9		1.3		-15.6		30.0
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   53.4   |   71.7   |   78.3   |   77.3   |   76.1  
- SQoQ%:  |   10.1   |   34.2   |   9.2    |   -1.3   |   -1.6  
- YOPM%:  |   8.5    |   6.1    |   7.9    |   8.6    |   7.2   
- YNPM%:  |   2.5    |   2.8    |   2.9    |   3.0    |   2.6   
-YPROFIT: |   1.3    |   2.0    |   2.3    |   2.3    |   2.0   
- PQoQ%:  |   54.7   |   51.9   |   12.9   |   1.3    |  -15.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   26.7   |   15.8   |   18.1   |   19.9   |   22.2  
- QoQ%:  |   68.0   |  -40.8   |   14.7   |   9.7    |   11.6  
- QOPM%: |   12.6   |   3.0    |   5.5    |   11.3   |   7.9   
- QNPM%: |   6.2    |   0.6    |   0.3    |   4.6    |   3.9   
- QPFT:  |   1.7    |   0.1    |   0.1    |   0.9    |   0.9   
- PQoQ%: | -5633.3  |  -94.0   |  -40.0   |  1416.7  |   -4.4  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 19.9		22.2		15.3		16.4		16.6
+QoQ%: 	9.7		11.6		-31.0		7.3		1.0
+QOPM%: 	11.3		7.9		10.1		3.6		11.0
+QNPM%: 	4.6		3.9		2.9		0.0		3.6
+QPFT: 	0.9		0.9		0.4		-0.4		0.6
+PQoQ%: 	1416.7		-4.4		-49.4		-188.6		-253.8
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 63% YSales
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
 76.10cr, QoQ -1.60% & YoY 42.51% SALES;
-5.50cr, QoQ -17.20% & YoY 22.22% OPERATING PROFIT;
+5.50cr, QoQ -20.60% & YoY 22.22% OPERATING PROFIT;
 2.00cr, QoQ -15.60% & YoY 53.85% NET PROFIT;
-OPM %: 7.20% vs 8.6%
+OPM %: 7.20% vs 8.9%
 NPM %: 2.60% vs 3.0%
 

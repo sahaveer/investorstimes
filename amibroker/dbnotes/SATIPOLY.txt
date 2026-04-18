@@ -1,17 +1,18 @@
-CODES
-SATIPOLY	
+CODES	SATIPOLY	
+FULLNAME : Sati Poly Plast Ltd
 SECTOR : Packaging
 INDUSTRY : Packaging
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2024 is at 15.3%
 - LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

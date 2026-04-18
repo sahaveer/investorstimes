@@ -1,38 +1,41 @@
-CODE	NAME
-503229 
-
+CODES	503229	
+FULLNAME : Simplex Realty Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   9.0    |   4.1    |   1.9    |   1.6    |   1.8    |      4.6     
- SQoQ%:  |   94.2   |  -54.6   |  -53.3   |  -17.3   |   11.4   |     255.6    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   3.8    |   13.4   |   92.7   |   80.4   |  290.3   |              
-YPROFIT: |   0.3    |   0.6    |   1.8    |   1.3    |   5.1    |      1.7     
- PQoQ%:  |  -70.7   |   61.8   |  221.8   |  -28.2   |  302.4   |      33.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.3    |   0.3    |   4.0    |   0.3    |   0.3   
- QoQ%:  |   18.2   |   15.4   |  1236.7  |  -93.3   |   -3.7  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |  200.0   |  196.7   |   23.9   |   63.0   |  180.8  
- QPFT:  |   0.5    |   0.6    |   1.0    |   0.2    |   0.5   
- PQoQ%: |  940.0   |   13.5   |   62.7   |  -82.3   |  176.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 4.1		1.9		1.6		1.8		4.8		4.0
+SQoQ%: 	-54.6		-53.3		-17.3		11.4		172.2		83.3
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	13.4		92.7		80.4		290.3		27.1
+YPROFIT: 0.6		1.8		1.3		5.1		1.3		-1.8
+PQoQ%: 	61.8		221.8		-28.2		302.4		-74.6		-138.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.3		0.3		2.5		1.3		0.2
+QoQ%: 	-3.7		0.0		861.5		-46.8		-84.2
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	180.8		0.0		0.0		0.0		0.0
+QPFT: 	0.5		-0.3		-1.1		-0.3		-0.4
+PQoQ%: 	176.5		-163.8		280.0		-77.2		38.5
+
+
 
 ***PROS***
-DEBT-Free Company for the last 3 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 256% YSales
+- Last 3QSALES is about 83% YSales
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1.80cr, QoQ 11.40% & YoY -80.00% SALES;
--4.30cr, QoQ 2.40% & YoY 19.44% OPERATING PROFIT;
-5.10cr, QoQ 302.40% & YoY 1600.00% NET PROFIT;
+ 31-Mar-2025 #Result
+4.80cr, QoQ 172.20% & YoY 17.07% SALES;
+-4.70cr, QoQ 9.70% & YoY 9.30% OPERATING PROFIT;
+1.30cr, QoQ -74.60% & YoY 116.67% NET PROFIT;
 OPM %: 0.00% vs 0.0%
-NPM %: 290.30% vs 80.4%
+NPM %: 27.10% vs 290.3%
 

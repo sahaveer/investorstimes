@@ -1,16 +1,17 @@
-CODE	NAME
-539227 
+CODES	539227	
+FULLNAME : Loyal Equipments Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 
-SECTOR : Engineering
-INDUSTRY : Engineering
-
-***CONS***
-- NO PRODUCT DEMAND
-- NEGATIVE YProfit : -5.1
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - Last 2QSALES is about 51% YSales
+
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -5.1

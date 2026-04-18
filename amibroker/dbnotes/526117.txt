@@ -1,44 +1,45 @@
-CODE	NAME
-526117 
-
+CODES	526117	
+FULLNAME : Shervani Industrial Syndicate Ltd
 SECTOR : Realty
-INDUSTRY : Construction
-PRODUCT DEMAND
+INDUSTRY : Residential, Commercial Projects
+BestQ Dec 2025
 YSD YPD 2023
-LYPD PM 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   92.3   |   31.9   |   8.8    |   26.7   |  142.7   |      41.9    
- SQoQ%:  |   17.6   |  -65.5   |  -72.3   |  201.9   |  434.6   |      29.4    
- YOPM%:  |   27.1   |   14.0   |   0.0    |   13.6   |   21.0   |              
- YNPM%:  |   21.6   |   20.9   |   0.0    |   88.5   |   21.6   |              
-YPROFIT: |   19.9   |   6.7    |   -2.8   |   23.6   |   30.8   |      1.9     
- PQoQ%:  |  -41.5   |  -66.6   |  -141.6  |  -953.1  |   30.6   |      6.2     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   13.1   |   25.7   |   10.5   |   19.7   |   11.7  
- QoQ%:  |  -57.1   |   96.5   |  -59.0   |   87.2   |  -40.6  
- QOPM%: |   16.8   |   0.3    |   0.6    |   7.8    |   6.1   
- QNPM%: |   38.4   |   0.0    |   1.5    |   5.9    |   4.4   
- QPFT:  |   5.0    |   -2.6   |   0.2    |   1.2    |   0.5   
- PQoQ%: |  -30.2   |  -152.4  |  -106.1  |  625.0   |  -55.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 31.9		8.8		26.7		142.7		48.4		18.8
+SQoQ%: 	-65.5		-72.3		201.9		434.7		-66.1		38.8
+YOPM%: 	14.0		0.0		13.6		21.0		4.0
+YNPM%: 	20.9		0.0		88.5		21.6		7.9
+YPROFIT: 6.7		-2.8		23.6		30.8		3.8		0.0
+PQoQ%: 	-66.6		-141.6		-953.1		30.6		-87.6		0.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 11.7		6.4		8.8		3.4		6.6
+QoQ%: 	-40.6		-45.2		37.9		-62.1		97.3
+QOPM%: 	6.1		0.0		0.3		0.0		8.8
+QNPM%: 	4.4		31.3		3.8		0.0		0.5
+QPFT: 	0.5		2.0		0.3		-0.3		0.0
+PQoQ%: 	-55.2		286.5		-83.1		-179.4		-111.1
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- Double QSales and QProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
 
-YSALES in Mar-2024 is at 142.7 showing a QoQ_growth of 434.6%. The YNETPROFIT grew by 30.6% to 30.8
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-142.70cr, QoQ 434.60% & YoY 54.60% SALES;
-29.90cr, QoQ 721.40% & YoY 19.60% OPERATING PROFIT;
-30.80cr, QoQ 30.60% & YoY 54.77% NET PROFIT;
-OPM %: 21.00% vs 13.6%
-NPM %: 21.60% vs 88.5%
+ 31-Mar-2025 #Result
+48.40cr, QoQ -66.10% & YoY 51.72% SALES;
+1.90cr, QoQ -93.50% & YoY -57.78% OPERATING PROFIT;
+3.80cr, QoQ -87.60% & YoY -43.28% NET PROFIT;
+OPM %: 4.00% vs 21.0%
+NPM %: 7.90% vs 21.6%
 

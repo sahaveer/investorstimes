@@ -1,42 +1,45 @@
-CODE	NAME
-522122 
+CODES	522122	
+FULLNAME : Voith Paper Fabrics India Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+BestQ Dec 2025
 
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
-PRODUCT DEMAND
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 118.5		145.2		164.4		179.6		190.2		155.7
+SQoQ%: 	0.8		22.5		13.2		9.3		5.9		81.9
+YOPM%: 	30.0		27.2		25.0		25.1		26.6
+YNPM%: 	22.8		20.2		19.3		20.2		21.0
+YPROFIT: 27.1		29.3		31.8		36.3		39.9		32.3
+PQoQ%: 	10.3		8.3		8.4		14.3		9.9		81.0
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  117.6   |  118.5   |  145.2   |  164.4   |  179.6   |     137.7    
- SQoQ%:  |   5.0    |   0.8    |   22.5   |   13.2   |   9.3    |      76.7    
- YOPM%:  |   26.9   |   30.0   |   27.2   |   25.0   |   25.1   |              
- YNPM%:  |   20.9   |   22.8   |   20.2   |   19.3   |   20.2   |              
-YPROFIT: |   24.5   |   27.1   |   29.3   |   31.8   |   36.3   |      28.6    
- PQoQ%:  |   6.2    |   10.3   |   8.3    |   8.4    |   14.3   |      78.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   42.0   |   45.0   |   45.1   |   51.4   |   41.2  
- QoQ%:  |  -12.8   |   7.1    |   0.2    |   14.0   |  -19.9  
- QOPM%: |   28.6   |   21.1   |   28.5   |   25.3   |   23.7  
- QNPM%: |   22.8   |   16.5   |   22.7   |   20.0   |   19.5  
- QPFT:  |   9.6    |   7.4    |   10.3   |   10.3   |   8.0   
- PQoQ%: |   -0.6   |  -22.7   |   38.5   |   0.2    |  -22.1  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 41.2		52.5		52.8		53.2		49.7
+QoQ%: 	-19.9		27.6		0.5		0.9		-6.7
+QOPM%: 	23.7		28.5		29.7		26.6		28.6
+QNPM%: 	19.5		21.6		23.8		21.6		16.5
+QPFT: 	8.0		11.3		12.6		11.5		8.2
+PQoQ%: 	-22.1		41.6		10.9		-8.4		-28.9
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.2
-- Last 3QSALES is about 77% YSales
-- Last 3QPROFIT is about 79% of YProfit
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  increasing for the last 3yrs
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 81% of YProfit
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-179.60cr, QoQ 9.30% & YoY 52.72% SALES;
-45.10cr, QoQ 9.60% & YoY 42.72% OPERATING PROFIT;
-36.30cr, QoQ 14.30% & YoY 48.16% NET PROFIT;
-OPM %: 25.10% vs 25.0%
-NPM %: 20.20% vs 19.3%
+ 31-Mar-2025 #Result
+190.20cr, QoQ 5.90% & YoY 60.51% SALES;
+50.60cr, QoQ 12.10% & YoY 42.54% OPERATING PROFIT;
+39.90cr, QoQ 9.90% & YoY 47.23% NET PROFIT;
+OPM %: 26.60% vs 25.1%
+NPM %: 21.00% vs 20.2%
 

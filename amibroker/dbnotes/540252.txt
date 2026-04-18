@@ -1,39 +1,46 @@
-CODE	NAME
-540252 
+CODES	540252	
+FULLNAME : Viram Suvarn Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
+BestQ Dec 2025
 
-SECTOR : Diamond, Gems and Jewellery
-INDUSTRY : Diamond Cutting / Jewellery
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 20.5		18.7		18.7		19.3		26.5		19.3
+SQoQ%: 	2.8		-8.7		-0.3		3.5		37.0		72.8
+YOPM%: 	10.2		14.6		11.8		16.2		17.0
+YNPM%: 	14.3		21.3		9.6		12.7		12.9
+YPROFIT: 2.9		4.0		1.8		2.5		3.4		6.2
+PQoQ%: 	168.8		36.2		-55.1		37.4		38.6		182.4
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   20.0   |   20.5   |   18.7   |   18.7   |   19.3   |      17.1    
- SQoQ%:  |   28.7   |   2.8    |   -8.7   |   -0.3   |   3.5    |      88.6    
- YOPM%:  |   2.0    |   10.2   |   14.6   |   11.8   |   16.2   |              
- YNPM%:  |   5.5    |   14.3   |   21.3   |   9.6    |   12.7   |              
-YPROFIT: |   1.1    |   2.9    |   4.0    |   1.8    |   2.5    |      2.4     
- PQoQ%:  |  251.6   |  168.8   |   36.2   |  -55.1   |   37.4   |      96.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   5.7    |   5.8    |   8.2    |   5.2    |   3.7   
- QoQ%:  |   67.6   |   1.2    |   42.1   |  -36.2   |  -28.8  
- QOPM%: |   7.9    |   33.9   |   10.6   |   5.6    |   16.4  
- QNPM%: |   7.6    |   17.0   |   12.4   |   13.6   |   19.4  
- QPFT:  |   0.4    |   1.0    |   1.0    |   0.7    |   0.7   
- PQoQ%: |  -15.7   |  127.9   |   3.1    |  -29.7   |   1.4   
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3.7		6.6		5.3		6.5		7.5
+QoQ%: 	-28.8		76.5		-19.4		22.7		16.0
+QOPM%: 	16.4		0.0		34.3		33.2		47.6
+QNPM%: 	19.4		14.8		26.7		24.7		42.3
+QPFT: 	0.7		1.0		1.4		1.6		3.2
+PQoQ%: 	1.4		34.7		45.4		13.5		98.8
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- Last 3QSALES is about 89% YSales
-- Last 3QPROFIT is about 96% of YProfit
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 73% YSales
+- Last 3QPROFIT is about 182% of YProfit
 
+YSALES in Mar-2025 is at 26.5 showing a QoQ_growth of 37.0%. The YNETPROFIT grew by 38.6% to 3.4
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-19.30cr, QoQ 3.50% & YoY -3.50% SALES;
-3.10cr, QoQ 42.30% & YoY 675.00% OPERATING PROFIT;
-2.50cr, QoQ 37.40% & YoY 127.27% NET PROFIT;
-OPM %: 16.20% vs 11.8%
-NPM %: 12.70% vs 9.6%
+ 31-Mar-2025 #Result
+26.50cr, QoQ 37.00% & YoY 29.27% SALES;
+4.50cr, QoQ 44.10% & YoY 114.29% OPERATING PROFIT;
+3.40cr, QoQ 38.60% & YoY 17.24% NET PROFIT;
+OPM %: 17.00% vs 16.2%
+NPM %: 12.90% vs 12.7%
 

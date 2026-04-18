@@ -1,28 +1,34 @@
-CODES
-532946	BANG	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	532946	BANG	
+FULLNAME : Bang Overseas Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Garments & Apparels
 PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -8.4
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  110.1   |   57.1   |   83.3   |  117.3   |  133.6   |     140.5    
- SQoQ%:  |  -34.4   |  -48.2   |   46.1   |   40.8   |   13.9   |     105.2    
- YOPM%:  |   0.8    |   0.0    |   6.9    |   3.4    |   0.0    |              
- YNPM%:  |   6.6    |   2.5    |   5.9    |   1.0    |   0.0    |              
-YPROFIT: |   7.3    |   1.4    |   4.9    |   1.2    |   -8.4   |      -3.9    
- PQoQ%:  |  8000.0  |  -80.8   |  252.1   |  -76.7   |  -828.7  |      46.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   36.8   |   36.8   |   41.9   |   48.4   |   50.2  
- QoQ%:  |   21.0   |   -0.1   |   14.0   |   15.5   |   3.6   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.9    |   1.6   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.9   
- QPFT:  |   -3.2   |   -0.4   |   -4.4   |   0.0    |   0.5   
- PQoQ%: |  -11.5   |  -88.2   |  1050.0  |  -100.5  |  2200.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 57.1		83.3		117.3		133.6		188.8		165.9
+SQoQ%: 	-48.2		46.1		40.8		13.9		41.2		87.9
+YOPM%: 	0.0		6.9		3.4		0.0		0.0
+YNPM%: 	2.5		5.9		1.0		0.0		0.0
+YPROFIT: 1.4		4.9		1.2		-8.4		-2.2		3.4
+PQoQ%: 	-80.8		252.1		-76.7		-828.7		-74.1		-154.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 50.2		48.2		48.6		58.1		59.2
+QoQ%: 	3.6		-3.9		0.6		19.6		1.9
+QOPM%: 	1.6		4.4		2.6		3.0		1.7
+QNPM%: 	0.9		3.6		3.5		2.6		0.4
+QPFT: 	0.5		1.7		1.7		1.5		0.2
+PQoQ%: 	2200.0		276.1		-2.3		-11.2		-84.0
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 105% YSales
+- Last 3QSALES is about 88% YSales
+
+***CONS***
+- NEGATIVE YProfit : -2.2

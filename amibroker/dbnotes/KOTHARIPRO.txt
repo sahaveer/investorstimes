@@ -1,37 +1,34 @@
-CODES
-530299	KOTHARIPRO	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	530299	KOTHARIPRO	
+FULLNAME : Kothari Products Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+PRODUCT DEMAND
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  4113.2  |  3117.0  |  3396.8  |  1387.0  |  992.4   |     735.0    
- SQoQ%:  |  -28.1   |  -24.2   |   9.0    |  -59.2   |  -28.5   |      74.1    
- YOPM%:  |   0.0    |   0.0    |   0.3    |   0.0    |   0.0    |              
- YNPM%:  |   0.8    |   0.0    |   0.4    |   0.4    |   3.3    |              
-YPROFIT: |   34.7   |  -56.3   |   14.7   |   5.2    |   32.5   |     -104.2   
- PQoQ%:  |  -71.9   |  -262.1  |  -126.1  |  -64.6   |  526.0   |     -320.6   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  226.0   |  276.3   |  247.6   |  265.9   |  221.5  
- QoQ%:  |  -15.0   |   22.3   |  -10.4   |   7.4    |  -16.7  
- QOPM%: |   0.0    |   0.0    |   0.2    |   0.0    |   0.0   
- QNPM%: |   3.9    |   4.1    |   2.1    |   0.0    |   4.8   
- QPFT:  |   8.9    |   11.4   |   5.3    |  -120.1  |   10.6  
- PQoQ%: |  1922.7  |   28.5   |  -53.9   | -2379.3  |  -108.8 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3117.0		3396.8		1387.0		992.4		957.9		693.2
+SQoQ%: 	-24.2		9.0		-59.2		-28.5		-3.5		72.4
+YOPM%: 	0.0		0.3		0.0		0.0		0.0
+YNPM%: 	0.0		0.4		0.4		3.3		0.0
+YPROFIT: -56.3		14.7		5.2		32.5		-95.2		35.9
+PQoQ%: 	-262.1		-126.1		-64.6		526.0		-393.0		-37.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 221.5		222.8		248.4		282.9		161.9
+QoQ%: 	-16.7		0.6		11.5		13.9		-42.8
+QOPM%: 	0.0		0.8		0.1		0.0		0.0
+QNPM%: 	4.8		4.6		8.6		1.7		6.1
+QPFT: 	10.6		10.3		21.2		4.8		9.9
+PQoQ%: 	-108.8		-3.0		106.9		-77.4		106.0
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 74% YSales
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 72% YSales
 
-Yearly 
- 31-Mar-2024 #Result
-992.40cr, QoQ -28.50% & YoY -75.87% SALES;
--3.50cr, QoQ -78.40% & YoY -93.99% OPERATING PROFIT;
-32.50cr, QoQ 526.00% & YoY -6.34% NET PROFIT;
-OPM %: 0.00% vs 0.0%
-NPM %: 3.30% vs 0.4%
-
+***CONS***
+- NEGATIVE YProfit : -95.2

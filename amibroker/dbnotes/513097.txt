@@ -1,40 +1,48 @@
-CODES
-513097	SBCL	
-SECTOR : Non Ferrous Metals
-INDUSTRY : Mining / Minerals / Metals
-BestQ Dec 2024
+CODES	513097	SBCL	
+FULLNAME : Shivalik Bimetal Controls Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  187.2   |  203.7   |  324.0   |  470.4   |  508.9   |     375.9    
- SQoQ%:  |   -3.2   |   8.8    |   59.0   |   45.2   |   8.2    |      73.9    
- YOPM%:  |   11.1   |   17.7   |   22.7   |   23.2   |   20.9   |              
- YNPM%:  |   7.2    |   12.5   |   17.0   |   16.8   |   16.6   |              
-YPROFIT: |   13.4   |   25.5   |   55.1   |   79.1   |   84.3   |      55.9    
- PQoQ%:  |  -45.4   |   89.5   |  116.2   |   43.5   |   6.5    |      66.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  126.2   |  127.8   |  126.0   |  126.6   |  123.3  
- QoQ%:  |   -1.2   |   1.2    |   -1.4   |   0.5    |   -2.7  
- QOPM%: |   20.0   |   17.0   |   18.8   |   21.3   |   19.9  
- QNPM%: |   13.4   |   20.1   |   14.1   |   15.7   |   14.8  
- QPFT:  |   17.0   |   25.7   |   17.8   |   19.9   |   18.2  
- PQoQ%: |  -16.6   |   51.4   |  -30.6   |   11.9   |   -8.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 203.7		324.0		470.4		508.9		508.4		408.2
+SQoQ%: 	8.8		59.0		45.2		8.2		-0.1		80.3
+YOPM%: 	17.7		22.7		23.2		20.9		20.4
+YNPM%: 	12.5		17.0		16.8		16.6		15.2
+YPROFIT: 25.5		55.1		79.1		84.3		77.1		69.8
+PQoQ%: 	89.5		116.2		43.5		6.5		-8.6		90.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 123.3		132.4		136.6		137.4		134.2
+QoQ%: 	-2.7		7.4		3.1		0.6		-2.3
+QOPM%: 	19.9		21.5		23.4		22.6		24.0
+QNPM%: 	14.8		15.9		16.7		18.1		16.5
+QPFT: 	18.2		21.0		22.8		24.8		22.2
+PQoQ%: 	-8.5		15.4		8.2		9.1		-10.7
+
+
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 18.6%
-- Last 3QSALES is about 74% YSales
-- Last 3QPROFIT is about 66% of YProfit
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+ROCE in Mar2025 is at 16.1%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 91% of YProfit
+
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-508.90cr, QoQ 8.20% & YoY 171.85% SALES;
-106.30cr, QoQ -2.50% & YoY 411.06% OPERATING PROFIT;
-84.30cr, QoQ 6.50% & YoY 529.10% NET PROFIT;
-OPM %: 20.90% vs 23.2%
-NPM %: 16.60% vs 16.8%
+ 31-Mar-2025 #Result
+508.40cr, QoQ -0.10% & YoY 149.58% SALES;
+103.80cr, QoQ -2.40% & YoY 187.53% OPERATING PROFIT;
+77.10cr, QoQ -8.60% & YoY 202.35% NET PROFIT;
+OPM %: 20.40% vs 20.9%
+NPM %: 15.20% vs 16.6%
 

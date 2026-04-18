@@ -1,13 +1,15 @@
-CODE	NAME
-532159 
+CODES	532159	
+FULLNAME : Trescon Ltd
+SECTOR : Realty
+INDUSTRY : Residential, Commercial Projects
 
-SECTOR : Construction
-INDUSTRY : Construction
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -2.6

@@ -1,37 +1,46 @@
-CODES
-530023	THEINVEST	
+CODES	530023	THEINVEST	
+FULLNAME : The Investment Trust of India Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Other Financial Services
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  335.0   |  333.4   |  310.8   |  302.4   |  353.0  
- SQoQ%:  |  -27.7   |   -0.5   |   -6.8   |   -2.7   |   16.7  
- YOPM%:  |   19.8   |   12.7   |   9.8    |   21.8   |   26.1  
- YNPM%:  |   4.5    |   0.5    |   3.7    |   6.1    |   12.0  
-YPROFIT: |   15.1   |   1.6    |   11.5   |   18.6   |   42.5  
- PQoQ%:  |  -389.8  |  -89.5   |  627.8   |   61.5   |  129.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   86.5   |   70.8   |  111.2   |   77.0   |   94.0  
- QoQ%:  |   29.4   |  -18.1   |   57.0   |  -30.8   |   22.1  
- QOPM%: |   25.9   |   29.6   |   21.2   |   32.0   |   23.8  
- QNPM%: |   4.1    |   17.5   |   18.3   |   5.2    |   6.1   
- QPFT:  |   3.5    |   12.4   |   20.4   |   4.0    |   5.8   
- PQoQ%: |  -41.4   |  252.0   |   64.5   |  -80.3   |   43.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 335.0		333.4		310.8		302.4		361.5		231.5
+SQoQ%: 	-27.7		-0.5		-6.8		-2.7		19.6		64.0
+YOPM%: 	19.8		12.7		9.8		21.8		27.9
+YNPM%: 	4.5		0.5		3.7		6.1		11.8
+YPROFIT: 15.1		1.6		11.5		18.6		42.5		24.0
+PQoQ%: 	-389.8		-89.5		627.8		61.5		129.0		56.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 77.0		94.0		70.1		79.1		82.3
+QoQ%: 	-30.8		22.1		-25.4		12.8		4.0
+QOPM%: 	32.0		23.8		25.1		20.9		23.2
+QNPM%: 	5.2		6.1		13.1		3.7		14.4
+QPFT: 	4.0		5.8		9.2		2.9		11.9
+PQoQ%: 	-80.3		43.4		59.1		-68.2		307.9
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 64% YSales
+- Last 3QPROFIT is about 56% of YProfit
 
-YSALES in Mar-2025 is at 353.0 showing a QoQ_growth of 16.7%. The YNETPROFIT grew by 129.0% to 42.5
+YSALES in Mar-2025 is at 361.5 showing a QoQ_growth of 19.6%. The YNETPROFIT grew by 129.0% to 42.5
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-353.00cr, QoQ 16.70% & YoY 5.37% SALES;
-92.30cr, QoQ 39.90% & YoY 39.01% OPERATING PROFIT;
+361.50cr, QoQ 19.60% & YoY 7.91% SALES;
+100.80cr, QoQ 52.90% & YoY 51.81% OPERATING PROFIT;
 42.50cr, QoQ 129.00% & YoY 181.46% NET PROFIT;
-OPM %: 26.10% vs 21.8%
-NPM %: 12.00% vs 6.1%
+OPM %: 27.90% vs 21.8%
+NPM %: 11.80% vs 6.1%
 

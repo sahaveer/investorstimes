@@ -1,22 +1,14 @@
-CODES
-541974	MANORAMA	
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
+CODES	541974	MANORAMA	
+FULLNAME : Manorama Industries Ltd
+SECTOR : Food Products
+INDUSTRY : Other Food Products
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
-- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Mar-2025 is at 11.3%. The QPROFIT QoQ_growth by 31.4%
 
-Quarterly 
-31-Mar-2025 #Result
-232.80cr, QoQ 11.30% SALES;
-61.20cr, QoQ 13.10% OPERATING PROFIT;
-40.00cr, QoQ 31.40% NET PROFIT;
-OPM %: 26.30% vs 25.9%
-NPM %: 17.20% vs 14.6%
-
+***CONS***

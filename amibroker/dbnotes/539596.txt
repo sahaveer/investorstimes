@@ -1,27 +1,32 @@
-CODE	NAME
-539596 
+CODES	539596	
+FULLNAME : Delta Industrial Resources Ltd
+SECTOR : Finance
+INDUSTRY : Other Financial Services
 
-SECTOR : Trading
-INDUSTRY : Trading
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2.7		1.6		0.0		0.0		0.0		0.0
+SQoQ%: 	315.6		-39.5		-100.0		nan		nan		nan
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		inf		0.0		0.0
+YPROFIT: -0.1		-0.1		0.1		-0.0		-0.2		0.1
+PQoQ%: 	1100.0		-16.7		-230.0		-115.4		750.0		-50.0
 
-***CONS***
-- NEGATIVE YProfit : -0.2
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   2.7    |   1.6    |   0.0    |   0.0    |   0.0   
- SQoQ%:  |  315.6   |  -39.5   |  -100.0  |   nan    |   nan   
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- YNPM%:  |   0.0    |   0.0    |   inf    |   0.0    |   0.0   
-YPROFIT: |   -0.1   |   -0.1   |   0.1    |   -0.0   |   -0.2  
- PQoQ%:  |  1100.0  |  -16.7   |  -230.0  |  -115.4  |  750.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.0   |   -0.1   |   -0.0   |   -0.0   |   -0.1  
- PQoQ%: |  100.0   |  200.0   |  -66.7   |   0.0    |  200.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		inf
+QPFT: 	-0.0		-0.1		-0.0		-0.0		0.1
+PQoQ%: 	0.0		200.0		-66.7		0.0		-500.0
+
+
 
 ***PROS***
 
+
+***CONS***
+- NEGATIVE YProfit : -0.2

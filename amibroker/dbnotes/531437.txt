@@ -1,29 +1,45 @@
-CODE	NAME
-531437 
-
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
+CODES	531437	
+FULLNAME : Prakash Woollen & Synthetic Mills Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 PRODUCT DEMAND
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  132.6   |   97.6   |   98.5   |  103.7   |  102.1   |      99.3    
- SQoQ%:  |   5.8    |  -26.4   |   1.0    |   5.2    |   -1.5   |      97.3    
- YOPM%:  |   8.3    |   9.7    |   5.5    |   1.1    |   10.3   |              
- YNPM%:  |   6.1    |   3.9    |   0.0    |   0.0    |   0.9    |              
-YPROFIT: |   8.1    |   3.8    |   -0.1   |   -5.0   |   1.0    |      -6.3    
- PQoQ%:  |  104.6   |  -53.2   |  -101.6  |  8300.0  |  -119.0  |     -630.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   48.9   |   11.8   |   13.9   |   28.3   |   57.1  
- QoQ%:  |   95.7   |  -75.8   |   17.1   |  104.0   |  101.9  
- QOPM%: |   9.2    |   25.8   |   14.6   |   2.4    |   0.0   
- QNPM%: |   3.5    |   6.9    |   0.0    |   0.0    |   0.0   
- QPFT:  |   1.7    |   0.8    |   -0.3   |   -1.0   |   -5.0  
- PQoQ%: |  -286.0  |  -52.6   |  -139.0  |  209.4   |  401.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 97.6		98.5		103.7		102.1		105.2		94.4
+SQoQ%: 	-26.4		1.0		5.2		-1.5		3.0		89.7
+YOPM%: 	9.7		5.5		1.1		10.3		1.0
+YNPM%: 	3.9		0.0		0.0		0.9		1.2
+YPROFIT: 3.8		-0.1		-5.0		1.0		1.3		-2.4
+PQoQ%: 	-53.2		-101.6		8300.0		-119.0		31.2		-184.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 57.1		6.0		16.4		26.9		51.1
+QoQ%: 	101.9		-89.5		174.4		64.2		90.0
+QOPM%: 	0.0		0.0		7.4		6.4		4.2
+QNPM%: 	0.0		126.0		0.0		0.0		0.0
+QPFT: 	-5.0		7.5		-0.2		-0.3		-1.9
+PQoQ%: 	401.0		-251.6		-102.5		47.4		564.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 97% YSales
-- YProfit Turned POSITIVE this year Mar-2024 : 1.0
+- Last 3QSALES is about 90% YSales
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+105.20cr, QoQ 3.00% & YoY 7.79% SALES;
+1.00cr, QoQ -90.20% & YoY -89.47% OPERATING PROFIT;
+1.30cr, QoQ 31.20% & YoY -65.79% NET PROFIT;
+OPM %: 1.00% vs 10.3%
+NPM %: 1.20% vs 0.9%
+

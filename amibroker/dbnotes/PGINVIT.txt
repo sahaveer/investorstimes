@@ -1,13 +1,31 @@
-CODES
-543290	PGINVIT	
-SECTOR : Infrastructure Investment Trusts
-INDUSTRY : Power Generation And Supply
+CODES	543290	PGINVIT	
+FULLNAME : Powergrid Infrastructure Investment Trust
+SECTOR : Power
+INDUSTRY : Power - Transmission
+PRODUCT DEMAND
+BestQ Dec 2025
+LYPD PM 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
-- YProfit Turned POSITIVE this year Mar-2024 : 926.8
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 57% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+1266.50cr, QoQ 0.10% SALES;
+1685.90cr, QoQ 18.20% OPERATING PROFIT;
+1175.70cr, QoQ 26.90% NET PROFIT;
+OPM %: 133.10% vs 112.7%
+NPM %: 92.80% vs 73.2%
+

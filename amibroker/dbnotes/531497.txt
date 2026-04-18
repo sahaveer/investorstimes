@@ -1,28 +1,35 @@
-CODES
-531497	MADHUCON	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
+CODES	531497	MADHUCON	
+FULLNAME : Madhucon Projects Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
 PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -475.2
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  909.2   |  948.2   |  1162.3  |  1163.8  |  676.6  
- SQoQ%:  |   23.8   |   4.3    |   22.6   |   0.1    |  -41.9  
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
-YPROFIT: |  -233.4  |  -106.4  |  -143.7  |  -45.1   |  -475.2 
- PQoQ%:  |  -78.1   |  -54.4   |   35.1   |  -68.6   |  953.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  421.0   |  236.4   |  190.0   |  111.4   |  138.8  
- QoQ%:  |   52.7   |  -43.8   |  -19.6   |  -41.3   |   24.5  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   1.1    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   4.8    |   -9.6   |   -4.5   |  -422.3  |  -38.9  
- PQoQ%: |  -138.1  |  -301.3  |  -53.2   |  9325.7  |  -90.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 909.2		948.2		1162.3		1163.8		676.6		426.0
+SQoQ%: 	23.8		4.3		22.6		0.1		-41.9		63.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -233.4		-106.4		-143.7		-45.1		-475.2		-345.1
+PQoQ%: 	-78.1		-54.4		35.1		-68.6		953.2		72.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 111.4		138.8		157.3		129.4		139.3
+QoQ%: 	-41.3		24.5		13.3		-17.7		7.7
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-422.3		-38.9		-117.8		-120.7		-106.6
+PQoQ%: 	9325.7		-90.8		203.1		2.5		-11.7
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 63% YSales
+
+***CONS***
+- NEGATIVE YProfit : -475.2

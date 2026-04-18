@@ -1,41 +1,41 @@
-CODE	NAME
-539428 
+CODES	539428	
+FULLNAME : Tejnaksh Healthcare Ltd
+SECTOR : Healthcare Services
+INDUSTRY : Healthcare Service Provider
 
-SECTOR : Healthcare
-INDUSTRY : Healthcare
-PRODUCT DEMAND
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 12.0		12.7		11.7		12.2		12.9		8.2
+SQoQ%: 	-30.1		6.0		-7.5		3.8		5.9		63.6
+YOPM%: 	31.1		37.9		31.5		29.8		31.8
+YNPM%: 	17.1		21.5		14.3		14.6		18.1
+YPROFIT: 2.0		2.7		1.7		1.8		2.3		0.8
+PQoQ%: 	-1.9		32.7		-38.2		6.0		30.9		34.8
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   17.1   |   12.0   |   12.7   |   11.7   |   12.2   |      9.7     
- SQoQ%:  |  -13.4   |  -30.1   |   6.0    |   -7.5   |   3.8    |      79.5    
- YOPM%:  |   23.6   |   31.1   |   37.9   |   31.5   |   29.8   |              
- YNPM%:  |   12.2   |   17.1   |   21.5   |   14.3   |   14.6   |              
-YPROFIT: |   2.1    |   2.0    |   2.7    |   1.7    |   1.8    |      1.8     
- PQoQ%:  |  -31.0   |   -1.9   |   32.7   |  -38.2   |   6.0    |     100.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   3.1    |   2.9    |   3.1    |   3.4    |   3.2   
- QoQ%:  |   1.6    |   -7.0   |   6.8    |   8.0    |   -5.3  
- QOPM%: |   34.1   |   31.2   |   34.6   |   34.4   |   35.7  
- QNPM%: |   17.2   |   17.1   |   19.2   |   19.3   |   17.6  
- QPFT:  |   0.5    |   0.5    |   0.6    |   0.6    |   0.6   
- PQoQ%: |   -6.9   |   -7.4   |   20.0   |   8.3    |  -13.8  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3.2		3.2		2.6		3.0		2.6
+QoQ%: 	-5.3		0.6		-17.8		12.9		-12.1
+QOPM%: 	35.7		22.1		22.7		25.8		26.3
+QNPM%: 	19.1		15.9		9.5		10.4		11.5
+QPFT: 	0.6		0.5		0.2		0.3		0.3
+PQoQ%: 	-1.6		-16.4		-51.0		24.0		-3.2
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 80% YSales
-- Last 3QPROFIT is about 100% of YProfit
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 64% YSales
 
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-12.20cr, QoQ 3.80% & YoY -28.65% SALES;
-3.60cr, QoQ -1.90% & YoY -10.00% OPERATING PROFIT;
-1.80cr, QoQ 6.00% & YoY -14.29% NET PROFIT;
-OPM %: 29.80% vs 31.5%
-NPM %: 14.60% vs 14.3%
+ 31-Mar-2025 #Result
+12.90cr, QoQ 5.90% & YoY 7.50% SALES;
+4.10cr, QoQ 12.90% & YoY 10.81% OPERATING PROFIT;
+2.30cr, QoQ 30.90% & YoY 15.00% NET PROFIT;
+OPM %: 31.80% vs 29.8%
+NPM %: 18.10% vs 14.6%
 

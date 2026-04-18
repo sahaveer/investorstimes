@@ -1,40 +1,45 @@
-CODES
-535601	SREEL	
-SECTOR : 
-INDUSTRY : 
-BestQ Dec 2024
+CODES	535601	SREEL	
+FULLNAME : Sreeleathers Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Footwear
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  173.0   |   83.4   |  121.9   |  197.6   |  215.2   |     166.8    
- SQoQ%:  |   3.2    |  -51.8   |   46.2   |   62.2   |   8.9    |      77.5    
- YOPM%:  |   23.1   |   19.5   |   19.3   |   18.1   |   17.5   |              
- YNPM%:  |   16.6   |   13.4   |   13.6   |   13.0   |   12.5   |              
-YPROFIT: |   28.8   |   11.2   |   16.5   |   25.6   |   26.8   |      17.2    
- PQoQ%:  |   -7.5   |  -61.2   |   48.3   |   55.0   |   4.8    |      64.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   58.2   |   49.6   |   48.7   |   62.7   |   55.4  
- QoQ%:  |   -3.5   |  -14.7   |   -1.8   |   28.7   |  -11.6  
- QOPM%: |   16.6   |   13.6   |   13.7   |   15.9   |   15.7  
- QNPM%: |   11.8   |   9.6    |   9.5    |   10.3   |   11.2  
- QPFT:  |   6.9    |   4.8    |   4.6    |   6.4    |   6.2   
- PQoQ%: |  -21.4   |  -30.3   |   -3.6   |   39.9   |   -3.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 83.4		121.9		197.6		215.2		216.9		185.7
+SQoQ%: 	-51.8		46.2		62.2		8.9		0.8		85.6
+YOPM%: 	19.5		19.3		18.1		17.5		14.8
+YNPM%: 	13.4		13.6		13.0		12.5		10.4
+YPROFIT: 11.2		16.5		25.6		26.8		22.6		19.0
+PQoQ%: 	-61.2		48.3		55.0		4.8		-15.9		84.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 55.4		53.2		50.1		74.7		60.9
+QoQ%: 	-11.6		-4.1		-5.7		49.1		-18.5
+QOPM%: 	15.7		12.6		8.5		15.6		12.9
+QNPM%: 	11.2		10.0		5.8		11.5		12.4
+QPFT: 	6.2		5.3		2.9		8.6		7.5
+PQoQ%: 	-3.4		-15.1		-44.6		193.9		-12.5
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 17.2%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 78% YSales
-- Last 3QPROFIT is about 64% of YProfit
+- Last 3QSALES is about 86% YSales
+- Last 3QPROFIT is about 84% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-215.20cr, QoQ 8.90% & YoY 24.39% SALES;
-37.60cr, QoQ 5.10% & YoY -5.76% OPERATING PROFIT;
-26.80cr, QoQ 4.80% & YoY -6.94% NET PROFIT;
-OPM %: 17.50% vs 18.1%
-NPM %: 12.50% vs 13.0%
+ 31-Mar-2025 #Result
+216.90cr, QoQ 0.80% & YoY 160.07% SALES;
+32.10cr, QoQ -14.70% & YoY 96.93% OPERATING PROFIT;
+22.60cr, QoQ -15.90% & YoY 101.79% NET PROFIT;
+OPM %: 14.80% vs 17.5%
+NPM %: 10.40% vs 12.5%
 

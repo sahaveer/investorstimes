@@ -1,12 +1,11 @@
-CODES
-MACOBSTECH	
+CODES	MACOBSTECH	
+FULLNAME : Macobs Technologies Ltd
 SECTOR : E-Commerce/App based Aggregator
 INDUSTRY : Trading
 YSD YPD 2023
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -14,6 +13,8 @@ LYPD PM 2024
 ROCE in Mar2024 is at 20.2%
 - YProfits and YSales DOUBLED in Mar2023
 - LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

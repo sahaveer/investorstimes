@@ -1,13 +1,14 @@
-CODE	NAME
-543363 
+CODES	543363	
+FULLNAME : Prevest Denpro Ltd
+SECTOR : Healthcare Equipment & Supplies
+INDUSTRY : Medical Equipment & Supplies
 
-SECTOR : Healthcare
-INDUSTRY : Healthcare
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

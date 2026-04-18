@@ -1,37 +1,46 @@
-CODES
-526725	SANDESH	
-SECTOR : Media - Print/Television/Radio
-INDUSTRY : Entertainment / Electronic Media Software
+CODES	526725	SANDESH	
+FULLNAME : Sandesh Ltd
+SECTOR : Media
+INDUSTRY : Print Media
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  343.2   |  273.7   |  308.8   |  340.8   |  322.1   |     218.4    
- SQoQ%:  |  -18.1   |  -20.2   |   12.8   |   10.3   |   -5.5   |      67.8    
- YOPM%:  |   20.6   |   27.7   |   24.8   |   27.9   |   25.4   |              
- YNPM%:  |   17.8   |   32.9   |   29.1   |   29.8   |   58.6   |              
-YPROFIT: |   61.1   |   90.0   |   89.8   |  101.4   |  188.6   |      67.9    
- PQoQ%:  |   -5.7   |   47.3   |   -0.2   |   12.9   |   86.0   |      36.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   91.1   |   86.1   |   68.6   |   70.5   |   79.3  
- QoQ%:  |   25.8   |   -5.6   |  -20.2   |   2.7    |   12.5  
- QOPM%: |   27.9   |   29.6   |   22.7   |   22.3   |   0.0   
- QNPM%: |   63.3   |   83.6   |   73.5   |   54.2   |   0.0   
- QPFT:  |   57.7   |   71.9   |   50.5   |   38.2   |  -20.8  
- PQoQ%: |  122.6   |   24.7   |  -29.8   |  -24.4   |  -154.4 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 273.7		308.8		340.8		322.1		294.2		228.2
+SQoQ%: 	-20.2		12.8		10.3		-5.5		-8.7		77.6
+YOPM%: 	27.7		24.8		27.9		25.4		23.3
+YNPM%: 	32.9		29.1		29.8		58.6		26.2
+YPROFIT: 90.0		89.8		101.4		188.6		77.1		100.4
+PQoQ%: 	47.3		-0.2		12.9		86.0		-59.1		130.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 79.3		75.7		73.3		77.8		77.1
+QoQ%: 	12.5		-4.6		-3.1		6.2		-1.0
+QOPM%: 	0.0		15.7		24.7		6.1		25.8
+QNPM%: 	0.0		12.2		79.1		5.0		49.9
+QPFT: 	-20.8		9.2		58.0		3.9		38.5
+PQoQ%: 	-154.4		-144.4		528.1		-93.3		896.9
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 68% YSales
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 130% of YProfit
+
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-322.10cr, QoQ -5.50% & YoY -6.15% SALES;
-81.80cr, QoQ -13.90% & YoY 15.86% OPERATING PROFIT;
-188.60cr, QoQ 86.00% & YoY 208.67% NET PROFIT;
-OPM %: 25.40% vs 27.9%
-NPM %: 58.60% vs 29.8%
+ 31-Mar-2025 #Result
+294.20cr, QoQ -8.70% & YoY 7.49% SALES;
+68.40cr, QoQ -16.30% & YoY -9.88% OPERATING PROFIT;
+77.10cr, QoQ -59.10% & YoY -14.33% NET PROFIT;
+OPM %: 23.30% vs 25.4%
+NPM %: 26.20% vs 58.6%
 

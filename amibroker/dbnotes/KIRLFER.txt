@@ -1,22 +1,27 @@
-CODES
-500245	KIRLFER	
-SECTOR : Steel
-INDUSTRY : Steel - Large
+CODES	500245	KIRLFER	
+FULLNAME : Kirloskar Ferrous Industries Ltd
+SECTOR : Ferrous Metals
+INDUSTRY : Pig Iron
+BestQ Dec 2025
+
+***YEARLY***
+
+
+***QUARTERLY***
+
+
+***PROS***
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 80% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
 
-
-
-
-
-***PROS***
-
 Yearly 
  31-Mar-2025 #Result
 6564.20cr, QoQ 6.80% SALES;
-756.20cr, QoQ -11.70% OPERATING PROFIT;
+761.80cr, QoQ -11.70% OPERATING PROFIT;
 294.00cr, QoQ -1.30% NET PROFIT;
-OPM %: 11.50% vs 13.9%
+OPM %: 11.60% vs 14.0%
 NPM %: 4.50% vs 4.8%
 

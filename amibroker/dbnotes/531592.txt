@@ -1,14 +1,15 @@
-CODE	NAME
-531592 
+CODES	531592	
+FULLNAME : Genpharmasec Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-- NEGATIVE YProfit : -0.1
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- YProfit Turned POSITIVE this year Mar-2025 : 1.2
+
+***CONS***

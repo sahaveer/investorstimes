@@ -1,37 +1,14 @@
-CODES
-500790	NESTLEIND	
-SECTOR : FMCG
-INDUSTRY : Food - Processing - MNC
+CODES	500790	NESTLEIND	
+FULLNAME : Nestle India Ltd
+SECTOR : Food Products
+INDUSTRY : Packaged Foods
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Dec-2021 | Dec-2022 | Dec-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 14740.6  | 16897.0  | 19126.3  | 24393.9  | 20201.6 
- SQoQ%:  |   10.4   |   14.6   |   13.2   |   27.5   |  -17.2  
- YOPM%:  |   24.2   |   21.9   |   23.4   |   23.8   |   23.6  
- YNPM%:  |   14.4   |   14.1   |   15.7   |   16.1   |   16.4  
-YPROFIT: |  2118.4  |  2390.5  |  2998.7  |  3932.8  |  3314.5 
- PQoQ%:  |   1.7    |   12.8   |   25.4   |   31.2   |  -15.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  5267.6  |  4814.0  |  5104.0  |  4779.7  |  5503.9 
- QoQ%:  |   14.5   |   -8.6   |   6.0    |   -6.4   |   15.2  
- QOPM%: |   25.6   |   23.1   |   22.9   |   23.1   |   25.2  
- QNPM%: |   17.7   |   15.5   |   19.3   |   14.6   |   16.1  
- QPFT:  |  934.2   |  746.6   |  986.4   |  696.1   |  885.4  
- PQoQ%: |   42.5   |  -20.1   |   32.1   |  -29.4   |   27.2  
+***YEARLY***
+
+
+***QUARTERLY***
+
 
 ***PROS***
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 50.4%
 
-
-Yearly 
- 31-Mar-2025 #Result
-20201.60cr, QoQ -17.20% & YoY 37.05% SALES;
-4773.70cr, QoQ -17.90% & YoY 34.00% OPERATING PROFIT;
-3314.50cr, QoQ -15.70% & YoY 56.46% NET PROFIT;
-OPM %: 23.60% vs 23.8%
-NPM %: 16.40% vs 16.1%
-
+***CONS***

@@ -1,39 +1,48 @@
-CODES
-543980	JLHL	
-SECTOR : Healthcare
-INDUSTRY : Healthcare
+CODES	543980	JLHL	
+FULLNAME : Jupiter Life Line Hospitals Ltd
+SECTOR : Healthcare Services
+INDUSTRY : Hospital
 PRODUCT DEMAND
+BestQ Dec 2025
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  486.2   |  733.1   |  892.5   |  1069.5  |  1261.6 
- SQoQ%:  |   5.0    |   50.8   |   21.7   |   19.8   |   18.0  
- YOPM%:  |   13.8   |   20.9   |   22.6   |   22.3   |   23.5  
- YNPM%:  |   0.0    |   7.0    |   8.2    |   16.5   |   15.3  
-YPROFIT: |   -2.3   |   51.1   |   72.9   |  176.6   |  193.2  
- PQoQ%:  |  -107.8  | -2323.0  |   42.6   |  142.2   |   9.4   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  291.4   |  287.1   |  322.6   |  322.0   |  326.7  
- QoQ%:  |   6.9    |   -1.5   |   12.3   |   -0.2   |   1.5   
- QOPM%: |   21.7   |   22.2   |   23.2   |   23.7   |   23.9  
- QNPM%: |   15.5   |   15.5   |   16.0   |   16.3   |   13.7  
- QPFT:  |   45.0   |   44.6   |   51.5   |   52.4   |   44.9  
- PQoQ%: |   3.2    |   -1.0   |   15.5   |   1.7    |  -14.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 486.2		733.1		892.5		1073.4		1261.6		1112.0
+SQoQ%: 	5.0		50.8		21.7		20.3		17.5		88.1
+YOPM%: 	13.8		20.9		22.6		22.6		23.5
+YNPM%: 	0.0		7.0		8.2		16.5		15.3
+YPROFIT: -2.3		51.1		72.9		176.6		193.5		143.9
+PQoQ%: 	-107.8		-2323.0		42.6		142.2		9.6		74.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 332.8		326.7		353.0		393.6		365.4
+QoQ%: 	-0.7		-1.8		8.0		11.5		-7.2
+QOPM%: 	22.9		23.9		22.2		23.4		22.8
+QNPM%: 	15.7		13.7		12.4		14.6		11.6
+QPFT: 	52.1		44.9		43.9		57.4		42.6
+PQoQ%: 	0.9		-13.9		-2.2		30.7		-25.8
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 88% YSales
+- Last 3QPROFIT is about 74% of YProfit
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 - LastYr YProfits Doubled and maintained in Mar2025
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
-1261.60cr, QoQ 18.00% & YoY 159.48% SALES;
-296.60cr, QoQ 24.50% & YoY 341.37% OPERATING PROFIT;
-193.20cr, QoQ 9.40% & YoY -8500.00% NET PROFIT;
-OPM %: 23.50% vs 22.3%
+1261.60cr, QoQ 17.50% & YoY 159.48% SALES;
+296.60cr, QoQ 22.50% & YoY 341.37% OPERATING PROFIT;
+193.50cr, QoQ 9.60% & YoY -8513.04% NET PROFIT;
+OPM %: 23.50% vs 22.6%
 NPM %: 15.30% vs 16.5%
 

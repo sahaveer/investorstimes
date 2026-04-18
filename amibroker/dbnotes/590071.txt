@@ -1,39 +1,47 @@
-CODES
-590071	SUNDARMFIN	
+CODES	590071	SUNDARMFIN	
+FULLNAME : Sundaram Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  4706.8  |  5292.4  |  5110.6  |  5500.7  |  7273.7  |     6226.6   
- SQoQ%:  |   27.3   |   12.4   |   -3.4   |   7.6    |   32.2   |      85.6    
- YOPM%:  |   74.0   |   76.7   |   72.8   |   76.6   |   77.6   |              
- YNPM%:  |   16.8   |   22.0   |   23.0   |   24.1   |   19.7   |              
-YPROFIT: |  791.5   |  1165.1  |  1173.3  |  1327.8  |  1436.0  |     1326.5   
- PQoQ%:  |  -31.8   |   47.2   |   0.7    |   13.2   |   8.2    |      92.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  1821.4  |  2155.9  |  1951.6  |  2084.7  |  2190.3 
- QoQ%:  |   6.6    |   18.4   |   -9.5   |   6.8    |   5.1   
- QOPM%: |   80.8   |   75.7   |   79.4   |   79.1   |   78.9  
- QNPM%: |   23.5   |   12.4   |   22.3   |   20.9   |   20.8  
- QPFT:  |  427.4   |  267.9   |  434.8   |  436.2   |  455.5  
- PQoQ%: |   17.0   |  -37.3   |   62.3   |   0.3    |   4.4   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 5292.4		5110.6		5500.7		7273.7		8512.8		7248.5
+SQoQ%: 	12.4		-3.4		7.6		32.2		17.0		85.1
+YOPM%: 	76.7		72.8		76.6		77.6		80.4
+YNPM%: 	22.0		23.0		24.1		19.7		22.1
+YPROFIT: 1165.1		1173.3		1327.8		1436.0		1879.4		1504.7
+PQoQ%: 	47.2		0.7		13.2		8.2		30.9		80.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2190.3		2259.0		2348.9		2385.6		2514.0
+QoQ%: 	5.1		3.1		4.0		1.6		5.4
+QOPM%: 	78.9		83.7		76.2		78.4		79.8
+QNPM%: 	20.8		24.5		20.2		20.5		21.5
+QPFT: 	455.5		553.0		475.2		488.1		541.4
+PQoQ%: 	4.4		21.4		-14.1		2.7		10.9
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 86% YSales
-- Last 3QPROFIT is about 92% of YProfit
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+- Last 3QSALES is about 85% YSales
+- Last 3QPROFIT is about 80% of YProfit
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+YSALES in Mar-2025 is at 8512.8 showing a QoQ_growth of 17.0%. The YNETPROFIT grew by 30.9% to 1879.4
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-7273.70cr, QoQ 32.20% & YoY 54.54% SALES;
-5641.80cr, QoQ 33.80% & YoY 61.91% OPERATING PROFIT;
-1436.00cr, QoQ 8.20% & YoY 81.43% NET PROFIT;
-OPM %: 77.60% vs 76.6%
-NPM %: 19.70% vs 24.1%
+ 31-Mar-2025 #Result
+8512.80cr, QoQ 17.00% & YoY 60.85% SALES;
+6845.80cr, QoQ 21.30% & YoY 68.72% OPERATING PROFIT;
+1879.40cr, QoQ 30.90% & YoY 61.31% NET PROFIT;
+OPM %: 80.40% vs 77.6%
+NPM %: 22.10% vs 19.7%
 

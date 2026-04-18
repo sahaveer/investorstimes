@@ -1,10 +1,11 @@
-CODES
-MYMUDRA	
+CODES	MYMUDRA	
+FULLNAME : My Mudra Fincorp Ltd
 SECTOR : Finance
 INDUSTRY : Finance & Investments
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

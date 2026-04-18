@@ -1,29 +1,46 @@
-CODES
-543420	JETFREIGHT	
-SECTOR : Logistics
-INDUSTRY : Transport - Airlines
-BestQ Dec 2024
+CODES	543420	JETFREIGHT	
+FULLNAME : Jet Freight Logistics Ltd
+SECTOR : Transport Services
+INDUSTRY : Logistics Solution Provider
+BestQ Dec 2025
+LYPD PM 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 351.6		461.2		426.4		401.2		442.3		316.7
+SQoQ%: 	15.8		31.2		-7.6		-5.9		10.2		71.6
+YOPM%: 	2.6		2.4		1.8		1.5		3.2
+YNPM%: 	0.6		0.6		0.0		0.0		0.8
+YPROFIT: 2.1		3.0		-0.4		0.2		3.8		3.8
+PQoQ%: 	-120.3		42.1		-113.8		-141.5		2105.9		100.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 94.5		114.5		119.7		83.8		113.2
+QoQ%: 	8.0		21.2		4.5		-30.0		35.1
+QOPM%: 	4.4		3.0		2.5		3.3		3.5
+QNPM%: 	1.9		0.3		1.5		1.0		1.0
+QPFT: 	1.8		0.3		1.8		0.9		1.1
+PQoQ%: 	196.6		-80.6		423.5		-51.1		24.1
+
+
+
+***PROS***
+- Last 3QSALES is about 72% YSales
+- Last 3QPROFIT is about 100% of YProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  303.5   |  351.6   |  461.2   |  426.4   |  401.2   |     329.3    
- SQoQ%:  |  -11.7   |   15.8   |   31.2   |   -7.6   |   -5.9   |      82.1    
- YOPM%:  |   0.0    |   2.6    |   2.4    |   1.8    |   1.5    |              
- YNPM%:  |   0.0    |   0.6    |   0.6    |   0.0    |   0.0    |              
-YPROFIT: |  -10.3   |   2.1    |   3.0    |   -0.4   |   0.2    |      3.5     
- PQoQ%:  |  -227.5  |  -120.3  |   42.1   |  -113.8  |  -141.5  |     1750.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   94.6   |   98.3   |  147.3   |   87.5   |   94.5  
- QoQ%:  |   3.1    |   4.0    |   49.8   |  -40.6   |   8.0   
- QOPM%: |   3.1    |   4.0    |   2.3    |   3.4    |   4.4   
- QNPM%: |   4.4    |   2.7    |   0.7    |   0.7    |   1.9   
- QPFT:  |   4.2    |   2.7    |   1.1    |   0.6    |   1.8   
- PQoQ%: |  -217.1  |  -36.1   |  -60.3   |  -44.3   |  196.6  
 
-***PROS***
-- Last 3QSALES is about 82% YSales
-- Last 3QPROFIT is about 1750% of YProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 0.2
+Yearly 
+ 31-Mar-2025 #Result
+442.30cr, QoQ 10.20% & YoY 25.80% SALES;
+14.20cr, QoQ 136.10% & YoY 57.78% OPERATING PROFIT;
+3.80cr, QoQ 2105.90% & YoY 80.95% NET PROFIT;
+OPM %: 3.20% vs 1.5%
+NPM %: 0.80% vs 0.0%
+

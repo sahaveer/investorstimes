@@ -1,23 +1,31 @@
-CODE	NAME
-539946 
-
+CODES	539946	
+FULLNAME : Bazel International Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
+BestQ Dec 2025
+YSD YPD 2024
+LYPD PM 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
-- YProfit Turned POSITIVE this year Mar-2024 : 0.4
+- Last 3QSALES is about 103% YSales
+- Last 3QPROFIT is about 90% of YProfit
+- YProfits and YSales DOUBLED in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
 
-Quarterly 
-31-Dec-2024 #Result
-0.80cr, QoQ -7.20% SALES;
-0.30cr, QoQ -47.70% OPERATING PROFIT;
-0.10cr, QoQ -81.50% NET PROFIT;
-OPM %: 44.20% vs 78.3%
-NPM %: 15.60% vs 78.3%
+***CONS***
+- NO PRODUCT DEMAND
+
+Yearly 
+ 31-Mar-2025 #Result
+3.20cr, QoQ -81.80% SALES;
+0.80cr, QoQ -13.20% OPERATING PROFIT;
+1.00cr, QoQ 180.60% NET PROFIT;
+OPM %: 24.40% vs 5.1%
+NPM %: 31.20% vs 2.0%
 

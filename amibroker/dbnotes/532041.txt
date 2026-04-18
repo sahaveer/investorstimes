@@ -1,33 +1,44 @@
-CODE	NAME
-532041 
-
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	532041	
+FULLNAME : Hindustan Bio Sciences Ltd
+SECTOR : IT - Software
+INDUSTRY : Software Products
+BestQ Dec 2025
 YSD YPD 2023
-LYPD PM 2024
 
-***CONS***
-  YPNL   |   :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+-------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1.9  |   1.0    |   0.4    |   0.9    |   1.0    |   0.4    |              
- SQoQ%:  | -45.5 |  -46.9   |  -58.3   |  114.0   |   14.1   |   40.0   |              
- YOPM%:  |  7.2  |   0.0    |   0.0    |   0.0    |   5.7    |          |              
- YNPM%:  |  4.1  |   0.0    |   0.0    |   0.0    |   5.7    |          |              
-YPROFIT: |  0.1  |   -0.9   |   -0.5   |   -0.0   |   0.1    |   0.1    |              
- PQoQ%:  | -27.3 | -1275.0  |  -44.7   |  -92.3   |  -250.0  |  100.0   |              
-  QPNL  |  :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+------+----------+----------+----------+----------+---------
-QSALES: | 0.3  |   0.4    |   0.4    |   0.0    |   0.0    |         
- QoQ%:  | 0.0  |   21.9   |   5.1    |  -100.0  |   nan    |         
- QOPM%: | 18.8 |   10.3   |   17.1   |   0.0    |   0.0    |         
- QNPM%: | 21.9 |   10.3   |   19.5   |   0.0    |   0.0    |         
- QPFT:  | 0.1  |   0.0    |   0.1    |   -0.0   |   -0.0   |         
- PQoQ%: | 0.0  |  -42.9   |  100.0   |  -162.5  |  -20.0   |         
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.0		0.4		0.9		1.0		0.8		0.7
+SQoQ%: 	-46.9		-58.3		114.0		14.1		-22.9		87.5
+YOPM%: 	0.0		0.0		0.0		5.7		12.3
+YNPM%: 	0.0		0.0		0.0		5.7		12.3
+YPROFIT: -0.9		-0.5		-0.0		0.1		0.1		0.0
+PQoQ%: 	-1275.0		-44.7		-92.3		-250.0		66.7		0.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.4		0.3		0.0		0.4
+QoQ%: 	-100.0		inf		-15.8		-100.0		inf
+QOPM%: 	0.0		26.3		0.0		0.0		18.4
+QNPM%: 	0.0		28.9		3.1		0.0		21.1
+QPFT: 	-0.0		0.1		0.0		-0.1		0.1
+PQoQ%: 	-150.0		-375.0		-90.9		-700.0		-233.3
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QPROFIT is about 100% of YProfit
+- Last 3QSALES is about 87% YSales
+- Double QSales and QProfit
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+0.80cr, QoQ -22.90% & YoY -20.00% SALES;
+0.10cr, QoQ 66.70% & YoY -111.11% OPERATING PROFIT;
+0.10cr, QoQ 66.70% & YoY -111.11% NET PROFIT;
+OPM %: 12.30% vs 5.7%
+NPM %: 12.30% vs 5.7%
+

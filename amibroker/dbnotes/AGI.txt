@@ -1,28 +1,39 @@
-CODES
-500187	AGI	
-SECTOR : Packaging
+CODES	500187	AGI	
+FULLNAME : AGI Greenpac Ltd
+SECTOR : Industrial Products
 INDUSTRY : Packaging
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
+YPNL: 	Mar-2016	Mar-2017	Mar-2018	Mar-2019	Mar-2025	QSUM:Dec-2025
+YSALES: 1978.7		2074.8		2252.8		2712.4		2528.8		1923.0
+SQoQ%: 	2.0		4.9		8.6		20.4		-6.8		76.0
+YOPM%: 	16.0		14.0		12.1		11.7		24.3
+YNPM%: 	5.5		4.8		3.3		2.6		12.7
+YPROFIT: 108.5		100.3		74.1		70.0		322.4		236.2
+PQoQ%: 	27.0		-7.6		-26.1		-5.5		360.3		73.3
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 658.5		704.8		687.7		601.6		633.7
+QoQ%: 	9.9		7.0		-2.4		-12.5		5.3
+QOPM%: 	25.7		21.9		20.7		24.9		23.7
+QNPM%: 	13.7		13.7		12.9		12.6		11.3
+QPFT: 	90.5		96.6		88.8		76.0		71.4
+PQoQ%: 	25.6		6.7		-8.0		-14.5		-6.0
 
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Mar-2025 is at 7.0%. The QPROFIT QoQ_growth by 6.7%
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 73% of YProfit
 
-Quarterly 
-31-Mar-2025 #Result
-704.80cr, QoQ 7.00% SALES;
-154.20cr, QoQ -8.80% OPERATING PROFIT;
-96.60cr, QoQ 6.70% NET PROFIT;
-OPM %: 21.90% vs 25.7%
-NPM %: 13.70% vs 13.7%
-
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

@@ -1,13 +1,13 @@
-CODE	NAME
-543400 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	543400	
+FULLNAME : Omnipotent Industries Ltd
+SECTOR : Petroleum Products
+INDUSTRY : Refineries & Marketing
 YSD YPD 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - YProfits and YSales DOUBLED in Mar2024
+
+***CONS***

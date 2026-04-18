@@ -1,28 +1,34 @@
-CODE	NAME
-531364 
-
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	531364	
+FULLNAME : Ekansh Concepts Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Consulting Services
 PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   51.7   |   49.9   |   67.3   |   43.4   |   39.3  
- SQoQ%:  |   -4.5   |   -3.6   |   35.0   |  -35.5   |   -9.4  
- YOPM%:  |   3.3    |   0.0    |   10.9   |   6.3    |   0.4   
- YNPM%:  |   14.4   |   14.8   |   11.2   |   0.0    |   4.9   
-YPROFIT: |   7.4    |   7.4    |   7.5    |   -3.3   |   1.9   
- PQoQ%:  |  -211.5  |   -0.5   |   1.5    |  -143.9  |  -158.2 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   23.5   |   9.0    |   17.9   |   4.8    |   7.6   
- QoQ%:  |  162.5   |  -61.6   |   97.9   |  -73.0   |   57.7  
- QOPM%: |   19.3   |   17.2   |   0.0    |   0.0    |   25.1  
- QNPM%: |   19.9   |   4.4    |   10.5   |   0.0    |   22.2  
- QPFT:  |   4.7    |   0.4    |   1.9    |   -2.0   |   1.7   
- PQoQ%: |  -154.4  |  -91.4   |  367.5   |  -209.1  |  -182.8 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 51.7		49.9		67.3		43.4		39.3		23.5
+SQoQ%: 	-4.5		-3.6		35.0		-35.5		-9.4		59.8
+YOPM%: 	3.3		0.0		10.9		6.3		2.6
+YNPM%: 	14.4		14.8		11.2		0.0		4.9
+YPROFIT: 7.4		7.4		7.5		-3.3		1.9		-1.3
+PQoQ%: 	-211.5		-0.5		1.5		-143.9		-158.2		-68.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4.8		7.6		6.8		15.0		1.7
+QoQ%: 	-73.0		57.7		-10.8		121.8		-88.6
+QOPM%: 	0.0		25.1		16.2		15.0		0.0
+QNPM%: 	0.0		22.2		10.0		8.5		0.0
+QPFT: 	-2.0		1.7		0.7		1.3		-3.3
+PQoQ%: 	-209.1		-182.8		-59.8		88.2		-356.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 60% YSales
 - YProfit Turned POSITIVE this year Mar-2025 : 1.9
+
+***CONS***

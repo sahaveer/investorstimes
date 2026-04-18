@@ -1,16 +1,15 @@
-CODE	NAME
-509051 
-
+CODES	509051	
+FULLNAME : Indian Infotech and Software Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Investment Company
 PRODUCT DEMAND
 BestQ Dec 2015
 YSD YPD 2014
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
@@ -19,6 +18,8 @@ A DEBT-Free Company
 - Last 3QSALES is about 94% YSales
 - Last 3QPROFIT is about 367% of YProfit
 - YProfits and YSales DOUBLED in Mar2014
+
+***CONS***
 
 Yearly 
  31-Mar-2015 #Result

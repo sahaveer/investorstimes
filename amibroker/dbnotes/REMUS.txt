@@ -1,27 +1,28 @@
-CODES
-REMUS	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+CODES	REMUS	
+FULLNAME : Remus Pharmaceuticals Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 A DEBT-Free Company for the last 2 yrs
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 46.0%
+ROCE in Mar2025 is at 46.1%
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
-As on Mar2025, Sales have increased by 24.7% while the Profit QoQ_growth is at 18.3%
+As on Mar2025, Sales have increased by 23.8% while the Profit QoQ_growth is at 19.7%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-79.20cr, QoQ 24.70% & YoY 330.43% SALES;
-26.00cr, QoQ 29.60% & YoY 3150.00% OPERATING PROFIT;
-19.90cr, QoQ 18.30% & YoY 1709.09% NET PROFIT;
-OPM %: 32.80% vs 31.6%
-NPM %: 25.10% vs 26.5%
+79.20cr, QoQ 23.80% & YoY 330.43% SALES;
+26.00cr, QoQ 23.80% & YoY 3150.00% OPERATING PROFIT;
+19.90cr, QoQ 19.70% & YoY 1709.09% NET PROFIT;
+OPM %: 32.80% vs 32.8%
+NPM %: 25.10% vs 26.0%
 

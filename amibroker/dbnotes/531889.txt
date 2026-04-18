@@ -1,13 +1,14 @@
-CODE	NAME
-531889 
+CODES	531889	
+FULLNAME : Integrated Industries Ltd
+SECTOR : Finance
+INDUSTRY : Holding Company
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

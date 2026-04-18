@@ -1,12 +1,11 @@
-CODES
-LAKSHYA	
+CODES	LAKSHYA	
+FULLNAME : Lakshya Powertech Ltd
 SECTOR : Infrastructure Developers & Operators
 INDUSTRY : Engineering - Turnkey Services
 YSD YPD 2024
 LYPD PM 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -14,6 +13,8 @@ LYPD PM 2025
 ROCE in Mar2025 is at 15.2%
 - YProfits and YSales DOUBLED in Mar2024
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

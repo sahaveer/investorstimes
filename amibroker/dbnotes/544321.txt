@@ -1,12 +1,14 @@
-CODES
-544321	VENTIVE	
+CODES	544321	VENTIVE	
+FULLNAME : Ventive Hospitality Ltd
 SECTOR : Hotels & Restaurants
 INDUSTRY : Hotels
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

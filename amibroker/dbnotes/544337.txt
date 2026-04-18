@@ -1,11 +1,11 @@
-CODE	NAME
-544337 
-
+CODES	544337	
+FULLNAME : Avax Apparels and Ornaments Ltd
 SECTOR : Trading
 INDUSTRY : Trading
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

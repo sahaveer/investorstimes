@@ -1,14 +1,15 @@
-CODE	NAME
-513472 
+CODES	513472	
+FULLNAME : Simplex Castings Ltd
+SECTOR : Industrial Products
+INDUSTRY : Other Industrial Products
 
-SECTOR : Castings, Forgings & Fastners
-INDUSTRY : Castings & Forgings
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
 - YProfit Turned POSITIVE this year Mar-2021 : 1.1
+
+***CONS***

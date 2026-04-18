@@ -1,28 +1,31 @@
-CODE	NAME
-514400 
+CODES	514400	
+FULLNAME : Garware Synthetics Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 8.3		12.7		11.4		10.7		10.7		7.9
+SQoQ%: 	-9.2		53.6		-10.2		-6.1		0.3		73.8
+YOPM%: 	12.8		7.6		7.5		3.6		0.5
+YNPM%: 	7.0		1.8		5.1		0.0		0.1
+YPROFIT: 0.6		0.2		0.6		-0.0		0.0		0.4
+PQoQ%: 	427.3		-60.3		152.2		-108.6		-120.0		inf
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   9.1    |   8.3    |   12.7   |   11.4   |   10.7   |      8.1     
- SQoQ%:  |  -14.4   |   -9.2   |   53.6   |  -10.2   |   -6.1   |      75.7    
- YOPM%:  |   3.3    |   12.8   |   7.6    |   7.5    |   3.6    |              
- YNPM%:  |   1.2    |   7.0    |   1.8    |   5.1    |   0.0    |              
-YPROFIT: |   0.1    |   0.6    |   0.2    |   0.6    |   -0.0   |      0.0     
- PQoQ%:  |  -108.0  |  427.3   |  -60.3   |  152.2   |  -108.6  |      nan     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   2.7    |   2.6    |   2.7    |   2.8    |   2.6   
- QoQ%:  |   10.1   |   -4.0   |   2.3    |   3.7    |   -7.9  
- QOPM%: |   6.6    |   0.0    |   1.5    |   2.5    |   2.4   
- QNPM%: |   1.1    |   5.4    |   2.6    |   1.1    |   0.0   
- QPFT:  |   0.0    |   0.1    |   0.1    |   0.0    |   -0.1  
- PQoQ%: |  -115.0  |  366.7   |  -50.0   |  -57.1   |  -433.3 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2.6		2.8		2.6		2.8		2.5
+QoQ%: 	-7.9		7.8		-5.5		9.2		-12.3
+QOPM%: 	2.4		0.0		9.6		10.9		13.7
+QNPM%: 	0.0		0.4		4.6		4.2		8.8
+QPFT: 	-0.1		0.0		0.1		0.1		0.2
+PQoQ%: 	-433.3		-110.0		1100.0		0.0		83.3
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 76% YSales
+- Last 3QSALES is about 74% YSales
+
+***CONS***

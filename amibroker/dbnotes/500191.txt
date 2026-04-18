@@ -1,29 +1,33 @@
-CODES
-500191	HMT	
-SECTOR : Engineering
-INDUSTRY : Engineering
-PRODUCT DEMAND
+CODES	500191	HMT	
+FULLNAME : HMT Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  260.3   |  203.5   |  175.7   |  203.8   |  163.4   |     102.6    
- SQoQ%:  |   -0.9   |  -21.8   |  -13.6   |   16.0   |  -19.8   |      62.8    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   59.9   |   0.0    |  302.8   |   0.0    |  1561.1  |              
-YPROFIT: |  155.9   |  -109.8  |  532.2   |  -122.9  |  2550.8  |     -107.3   
- PQoQ%:  |   0.6    |  -170.4  |  -584.9  |  -123.1  | -2175.5  |      -4.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   32.3   |   48.9   |   31.8   |   41.6   |   29.2  
- QoQ%:  |  -10.9   |   51.6   |  -35.1   |   31.0   |  -29.8  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |  5398.8  |   0.0    |   0.0    |   0.0   
- QPFT:  |  -31.7   |  2641.1  |  -28.9   |  -27.1   |  -51.3  
- PQoQ%: |   10.0   | -8434.2  |  -101.1  |   -6.4   |   89.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 203.5		175.7		203.8		163.4		142.3		71.2
+SQoQ%: 	-21.8		-13.6		16.0		-19.8		-12.9		50.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		302.8		0.0		1561.1		0.0
+YPROFIT: -109.8		532.2		-122.9		2550.8		-143.0		-94.1
+PQoQ%: 	-170.4		-584.9		-123.1		-2175.5		-105.6		65.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 29.2		39.8		24.6		25.8		20.8
+QoQ%: 	-29.8		36.3		-38.3		5.2		-19.4
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-51.3		-35.8		-27.8		-39.1		-27.2
+PQoQ%: 	89.3		-30.3		-22.3		40.7		-30.3
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 63% YSales
-- YProfit Turned POSITIVE this year Mar-2024 : 2550.8
+- Last 3QSALES is about 50% YSales
 
+
+***CONS***
+- NEGATIVE YProfit : -143.0

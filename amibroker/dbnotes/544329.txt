@@ -1,11 +1,11 @@
-CODE	NAME
-544329 
-
+CODES	544329	
+FULLNAME : Leo Dryfruits & Spices Trading Ltd
 SECTOR : Retail
 INDUSTRY : Trading
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

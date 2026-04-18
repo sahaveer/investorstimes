@@ -1,16 +1,18 @@
-CODES
-544333	SGLTL	
+CODES	544333	SGLTL	
+FULLNAME : Standard Glass Lining Technology Ltd
 SECTOR : Capital Goods-Non Electrical Equipment
 INDUSTRY : Engineering
 
-***CONS***
-- NO PRODUCT DEMAND
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

@@ -1,40 +1,45 @@
-CODES
-526951	STYLAMIND	
-SECTOR : Plywood Boards/Laminates
-INDUSTRY : Miscellaneous
-BestQ Dec 2024
+CODES	526951	STYLAMIND	
+FULLNAME : Stylam Industries Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Plywood Boards/ Laminates
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  462.2   |  479.5   |  659.4   |  952.1   |  914.1   |     759.8    
- SQoQ%:  |   0.3    |   3.8    |   37.5   |   44.4   |   -4.0   |      83.1    
- YOPM%:  |   17.2   |   20.7   |   15.7   |   16.3   |   20.1   |              
- YNPM%:  |   4.0    |   11.5   |   9.2    |   10.1   |   14.1   |              
-YPROFIT: |   18.6   |   55.1   |   60.9   |   96.0   |  128.4   |      92.3    
- PQoQ%:  |  -52.0   |  195.7   |   10.5   |   57.6   |   33.8   |      71.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  214.6   |  239.9   |  242.6   |  262.7   |  254.5  
- QoQ%:  |   -8.3   |   11.8   |   1.1    |   8.3    |   -3.1  
- QOPM%: |   22.3   |   19.9   |   17.3   |   20.7   |   18.1  
- QNPM%: |   14.6   |   15.7   |   11.7   |   13.0   |   11.7  
- QPFT:  |   31.3   |   37.6   |   28.4   |   34.1   |   29.8  
- PQoQ%: |   -1.3   |   19.9   |  -24.5   |   20.3   |  -12.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 479.5		659.4		952.1		914.1		1025.1		846.4
+SQoQ%: 	3.8		37.5		44.4		-4.0		12.1		82.6
+YOPM%: 	20.7		15.7		16.3		20.1		18.1
+YNPM%: 	11.5		9.2		10.1		14.1		11.9
+YPROFIT: 55.1		60.9		96.0		128.4		121.9		111.6
+PQoQ%: 	195.7		10.5		57.6		33.8		-5.1		91.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 254.5		265.3		283.0		292.4		271.0
+QoQ%: 	-3.1		4.2		6.7		3.3		-7.3
+QOPM%: 	18.1		16.2		18.7		19.4		20.5
+QNPM%: 	11.7		11.2		10.0		12.8		17.0
+QPFT: 	29.8		29.6		28.3		37.3		46.0
+PQoQ%: 	-12.6		-0.8		-4.4		32.1		23.2
+
+
 
 ***PROS***
-A DEBT-Free Company
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 23.4%
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+ROCE in Mar2025 is at 19.4%
 - Last 3QSALES is about 83% YSales
-- Last 3QPROFIT is about 72% of YProfit
+- Last 3QPROFIT is about 92% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-914.10cr, QoQ -4.00% & YoY 97.77% SALES;
-183.50cr, QoQ 18.50% & YoY 130.24% OPERATING PROFIT;
-128.40cr, QoQ 33.80% & YoY 590.32% NET PROFIT;
-OPM %: 20.10% vs 16.3%
-NPM %: 14.10% vs 10.1%
+ 31-Mar-2025 #Result
+1025.10cr, QoQ 12.10% & YoY 113.79% SALES;
+185.40cr, QoQ 0.70% & YoY 87.08% OPERATING PROFIT;
+121.90cr, QoQ -5.10% & YoY 121.23% NET PROFIT;
+OPM %: 18.10% vs 20.1%
+NPM %: 11.90% vs 14.1%
 

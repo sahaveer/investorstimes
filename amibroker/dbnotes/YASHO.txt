@@ -1,31 +1,40 @@
-CODES
-541167	YASHO	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	541167	YASHO	
+FULLNAME : Yasho Industries Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
 EXPANSION 2024
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  359.4   |  612.7   |  671.6   |  593.6   |  668.5  
- SQoQ%:  |   nan    |   70.4   |   9.6    |  -11.6   |   12.6  
- YOPM%:  |   13.6   |   15.2   |   17.1   |   16.8   |   16.4  
- YNPM%:  |   6.0    |   8.5    |   10.1   |   9.8    |   0.9   
-YPROFIT: |   21.5   |   52.3   |   67.9   |   57.9   |   6.1   
- PQoQ%:  |   nan    |  143.4   |   29.8   |  -14.6   |  -89.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  172.0   |  172.9   |  163.9   |  148.9   |  182.8  
- QoQ%:  |   32.5   |   0.5    |   -5.2   |   -9.1   |   22.8  
- QOPM%: |   18.1   |   12.6   |   17.1   |   18.1   |   18.0  
- QNPM%: |   10.4   |   0.0    |   2.7    |   0.0    |   2.8   
- QPFT:  |   17.9   |   -2.5   |   4.4    |   -0.8   |   5.0   
- PQoQ%: |   32.5   |  -113.7  |  -277.2  |  -118.8  |  -713.4 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 359.4		612.7		671.6		593.6		668.5		583.7
+SQoQ%: 	nan		70.4		9.6		-11.6		12.6		87.3
+YOPM%: 	13.6		15.2		17.1		16.8		16.4
+YNPM%: 	6.0		8.5		10.1		9.8		0.9
+YPROFIT: 21.5		52.3		67.9		57.9		6.1		13.0
+PQoQ%: 	nan		143.4		29.8		-14.6		-89.5		213.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 149.3		184.8		198.6		183.3		201.8
+QoQ%: 	-10.6		23.8		7.5		-7.7		10.1
+QOPM%: 	18.3		18.9		16.9		18.1		16.6
+QNPM%: 	0.0		2.7		1.8		2.7		2.2
+QPFT: 	-0.8		5.0		3.6		4.9		4.5
+PQoQ%: 	-118.8		-713.4		-27.6		33.5		-7.4
+
+
 
 ***PROS***
 EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 87% YSales
+- Last 3QPROFIT is about 213% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

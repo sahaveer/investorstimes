@@ -1,13 +1,14 @@
-CODE	NAME
-543943 
+CODES	543943	
+FULLNAME : Asarfi Hospital Ltd
+SECTOR : Healthcare Services
+INDUSTRY : Hospital
 
-SECTOR : Healthcare
-INDUSTRY : Healthcare
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

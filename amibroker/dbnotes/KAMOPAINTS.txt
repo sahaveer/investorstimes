@@ -1,22 +1,25 @@
-CODES
-543747	KAMOPAINTS	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	543747	KAMOPAINTS	
+FULLNAME : Kamdhenu Ventures Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Paints
+
+***YEARLY***
+
+
+***QUARTERLY***
+
+
+***PROS***
+- Last 3QSALES is about 64% YSales
 
 ***CONS***
 - NO PRODUCT DEMAND
 
-
-
-
-
-***PROS***
-
 Yearly 
  31-Mar-2025 #Result
 266.10cr, QoQ -8.80% SALES;
-16.80cr, QoQ -27.60% OPERATING PROFIT;
+16.90cr, QoQ -27.10% OPERATING PROFIT;
 6.70cr, QoQ -51.90% NET PROFIT;
-OPM %: 6.30% vs 8.0%
+OPM %: 6.40% vs 8.0%
 NPM %: 2.50% vs 4.7%
 

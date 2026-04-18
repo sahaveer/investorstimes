@@ -1,46 +1,50 @@
-CODE	NAME
-511696 
-
+CODES	511696	
+FULLNAME : Chartered Capital & Investment Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+INDUSTRY : Other Financial Services
+BestQ Dec 2025
+BestQ Dec 2025
 YSD YPD 2024
-LYPD PM 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.3    |   2.2    |   1.7    |   2.1    |   7.9    |      6.6     
- SQoQ%:  |  -35.9   |   63.6   |  -23.1   |   24.1   |  284.5   |      83.5    
- YOPM%:  |   0.0    |   28.7   |   3.0    |   23.3   |   78.3   |              
- YNPM%:  |   0.0    |   20.8   |   0.0    |   16.0   |   68.6   |              
-YPROFIT: |   -0.5   |   0.4    |   -0.0   |   0.3    |   5.4    |      4.0     
- PQoQ%:  |  -182.8  |  -193.8  |  -104.4  | -1750.0  |  1545.5  |      74.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   2.3    |   2.0    |   1.8    |   2.5    |   2.3   
- QoQ%:  |   4.6    |  -13.1   |   -8.5   |   39.0   |   -7.5  
- QOPM%: |   77.3   |   78.4   |   61.0   |   74.7   |   60.3  
- QNPM%: |   71.2   |  107.0   |   55.5   |   52.6   |   71.4  
- QPFT:  |   1.6    |   2.1    |   1.0    |   1.3    |   1.7   
- PQoQ%: |   12.4   |   30.7   |  -52.6   |   31.7   |   25.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2.2		1.7		2.1		7.9		11.6		7.5
+SQoQ%: 	63.6		-23.1		24.1		284.5		45.8		64.7
+YOPM%: 	28.7		3.0		23.3		78.3		70.0
+YNPM%: 	20.8		0.0		16.0		68.6		46.7
+YPROFIT: 0.4		-0.0		0.3		5.4		5.4		6.1
+PQoQ%: 	-193.8		-104.4		-1750.0		1545.5		-0.7		113.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2.3		2.7		2.9		1.8		2.8
+QoQ%: 	-7.5		13.7		10.5		-37.1		50.3
+QOPM%: 	60.3		54.5		75.5		62.2		74.5
+QNPM%: 	71.4		51.9		68.0		89.2		88.5
+QPFT: 	1.7		1.4		2.0		1.6		2.5
+PQoQ%: 	25.6		-17.4		44.9		-17.5		49.1
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 84% YSales
-- Last 3QPROFIT is about 74% of YProfit
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 28.6%
+- Last 3QSALES is about 65% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 113% of YProfit
 - YProfits and YSales DOUBLED in Mar2024
-- LastYr YProfits Doubled and maintained in Mar2024
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
 
-YSALES in Mar-2024 is at 7.9 showing a QoQ_growth of 284.5%. The YNETPROFIT grew by 1545.5% to 5.4
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-7.90cr, QoQ 284.50% & YoY 507.69% SALES;
-6.20cr, QoQ 1191.70% & YoY -2166.67% OPERATING PROFIT;
-5.40cr, QoQ 1545.50% & YoY -1180.00% NET PROFIT;
-OPM %: 78.30% vs 23.3%
-NPM %: 68.60% vs 16.0%
+ 31-Mar-2025 #Result
+11.60cr, QoQ 45.80% & YoY 427.27% SALES;
+8.10cr, QoQ 30.30% & YoY 1250.00% OPERATING PROFIT;
+5.40cr, QoQ -0.70% & YoY 1250.00% NET PROFIT;
+OPM %: 70.00% vs 78.3%
+NPM %: 46.70% vs 68.6%
 

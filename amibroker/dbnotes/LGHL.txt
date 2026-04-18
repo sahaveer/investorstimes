@@ -1,21 +1,14 @@
-CODES
-LGHL	
-SECTOR : Diamond, Gems and Jewellery
-INDUSTRY : Diamond Cutting / Jewellery
+CODES	LGHL	
+FULLNAME : Laxmi Goldorna House Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 
-Quarterly 
-31-Mar-2025 #Result
-27.70cr, QoQ 25.10% SALES;
-5.30cr, QoQ -21.80% OPERATING PROFIT;
-0.70cr, QoQ -80.80% NET PROFIT;
-OPM %: 19.00% vs 30.5%
-NPM %: 2.50% vs 16.0%
-
+***CONS***

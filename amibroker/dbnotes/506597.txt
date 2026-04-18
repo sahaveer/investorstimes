@@ -1,41 +1,49 @@
-CODE	NAME
-506597 
-
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	506597	
+FULLNAME : Amal Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
+BestQ Dec 2025
 LYPD PM 2025
 
-***CONS***
-  YPNL   |  :   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+------+----------+----------+----------+----------+---------
-YSALES:  | 30.4 |   43.5   |   61.3   |   86.1   |  135.3   |         
- SQoQ%:  | -6.7 |   42.9   |   41.0   |   40.4   |   57.2   |         
- YOPM%:  | 37.0 |   9.1    |   0.0    |   17.9   |   32.0   |         
- YNPM%:  | 28.9 |   2.6    |   0.0    |   2.0    |   21.6   |         
-YPROFIT: | 8.8  |   1.1    |  -16.1   |   1.7    |   29.3   |         
- PQoQ%:  | -4.2 |  -87.4   | -1551.4  |  -110.6  |  1622.9  |         
-  QPNL  |   :   | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+-------+----------+----------+----------+----------+---------
-QSALES: |  21.2 |   20.5   |   30.1   |   45.8   |   39.0   |         
- QoQ%:  | -18.0 |   -3.3   |   46.6   |   52.3   |  -14.9   |         
- QOPM%: |  18.8 |   15.1   |   31.1   |   44.6   |   26.9   |         
- QNPM%: |  1.7  |   2.2    |   18.4   |   36.1   |   17.4   |         
- QPFT:  |  0.4  |   0.4    |   5.5    |   16.5   |   6.8    |         
- PQoQ%: | -83.7 |   21.6   |  1128.9  |  199.1   |  -59.0   |         
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 30.4		43.5		61.3		86.1		135.3		163.9
+SQoQ%: 	-6.7		42.9		41.0		40.4		57.2		121.1
+YOPM%: 	37.0		9.1		0.0		17.9		32.3
+YNPM%: 	28.9		2.6		0.0		2.0		21.6
+YPROFIT: 8.8		1.1		-16.1		1.7		29.3		20.5
+PQoQ%: 	-4.2		-87.4		-1551.4		-110.6		1622.9		70.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 45.8		39.0		47.3		54.0		62.6
+QoQ%: 	52.3		-14.9		21.4		14.1		15.9
+QOPM%: 	44.6		26.9		24.6		15.9		12.9
+QNPM%: 	36.1		17.4		19.9		11.2		8.0
+QPFT: 	16.5		6.8		9.4		6.1		5.0
+PQoQ%: 	199.1		-59.0		38.6		-35.5		-17.2
+
+
 
 ***PROS***
 A DEBT-Free Company
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 121% YSales
+- Last 3QPROFIT is about 70% of YProfit
 - YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
 - LastYr YProfits Doubled and maintained in Mar2025
 
 YSALES in Mar-2025 is at 135.3 showing a QoQ_growth of 57.2%. The YNETPROFIT grew by 1622.9% to 29.3
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 135.30cr, QoQ 57.20% & YoY 345.07% SALES;
-43.30cr, QoQ 181.80% & YoY 283.19% OPERATING PROFIT;
+43.70cr, QoQ 184.10% & YoY 286.73% OPERATING PROFIT;
 29.30cr, QoQ 1622.90% & YoY 232.95% NET PROFIT;
-OPM %: 32.00% vs 17.9%
+OPM %: 32.30% vs 17.9%
 NPM %: 21.60% vs 2.0%
 

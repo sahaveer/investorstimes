@@ -1,30 +1,43 @@
-CODES
-513509	KALYANIFRG	
-SECTOR : 
-INDUSTRY : 
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	513509	KALYANIFRG	
+FULLNAME : Kalyani Forge Ltd
+SECTOR : Industrial Products
+INDUSTRY : Castings & Forgings
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  201.0   |  180.8   |  246.5   |  264.5   |  236.8   |     177.6    
- SQoQ%:  |  -29.8   |  -10.0   |   36.4   |   7.3    |  -10.5   |      75.0    
- YOPM%:  |   4.2    |   6.9    |   7.6    |   4.0    |   5.9    |              
- YNPM%:  |   0.0    |   0.0    |   1.3    |   0.0    |   1.9    |              
-YPROFIT: |   -6.9   |   -1.8   |   3.1    |   -0.2   |   4.6    |      6.1     
- PQoQ%:  |  -199.6  |  -74.6   |  -277.8  |  -105.8  | -2627.8  |     132.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   59.7   |   56.8   |   56.7   |   62.3   |   58.6  
- QoQ%:  |   -2.0   |   -4.8   |   -0.1   |   9.9    |   -6.0  
- QOPM%: |   4.8    |   2.1    |   6.7    |   12.5   |   10.4  
- QNPM%: |   2.5    |   1.2    |   0.6    |   6.3    |   3.1   
- QPFT:  |   1.5    |   0.7    |   0.4    |   3.9    |   1.8   
- PQoQ%: |   16.2   |  -53.0   |  -50.7   |  1020.0  |  -53.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 180.8		246.5		264.5		236.8		236.6		177.7
+SQoQ%: 	-10.0		36.4		7.3		-10.5		-0.1		75.1
+YOPM%: 	6.9		7.6		4.0		5.9		10.1
+YNPM%: 	0.0		1.3		0.0		1.9		3.5
+YPROFIT: -1.8		3.1		-0.2		4.6		8.3		3.5
+PQoQ%: 	-74.6		-277.8		-105.8		-2627.8		82.6		42.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 58.6		59.0		64.1		55.7		57.9
+QoQ%: 	-6.0		0.6		8.8		-13.2		3.9
+QOPM%: 	10.4		10.8		9.3		11.8		15.1
+QNPM%: 	3.1		3.8		2.2		3.9		0.0
+QPFT: 	1.8		2.2		1.4		2.2		-0.1
+PQoQ%: 	-53.6		22.5		-36.8		52.5		-105.6
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
 - Last 3QSALES is about 75% YSales
-- Last 3QPROFIT is about 133% of YProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 4.6
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+236.60cr, QoQ -0.10% & YoY 30.86% SALES;
+24.00cr, QoQ 73.20% & YoY 92.00% OPERATING PROFIT;
+8.30cr, QoQ 82.60% & YoY -561.11% NET PROFIT;
+OPM %: 10.10% vs 5.9%
+NPM %: 3.50% vs 1.9%
+

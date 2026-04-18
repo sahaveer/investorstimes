@@ -1,35 +1,44 @@
-CODES
-543334	NUVOCO	
-SECTOR : Cement
-INDUSTRY : Cement - North India
+CODES	543334	NUVOCO	
+FULLNAME : Nuvoco Vistas Corporation Ltd
+SECTOR : Cement & Cement Products
+INDUSTRY : Cement & Cement Products
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  5805.4  |  7342.4  |  8581.5  |  8939.2  |  8724.7 
- SQoQ%:  |  -14.5   |   26.5   |   16.9   |   4.2    |   -2.4  
- YOPM%:  |   19.3   |   14.1   |   9.5    |   12.3   |   11.5  
- YNPM%:  |   0.4    |   0.8    |   1.1    |   1.7    |   0.5   
-YPROFIT: |   22.8   |   55.2   |   90.2   |  153.0   |   40.5  
- PQoQ%:  |  -90.9   |  142.1   |   63.5   |   69.7   |  -73.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2493.0  |  2202.0  |  1971.5  |  2017.5  |  2533.6 
- QoQ%:  |   24.9   |  -11.7   |  -10.5   |   2.3    |   25.6  
- QOPM%: |   13.8   |   12.4   |   8.4    |   9.0    |   15.0  
- QNPM%: |   3.4    |   1.0    |   0.0    |   0.0    |   4.6   
- QPFT:  |   84.5   |   21.7   |  -52.6   |  -44.2   |  115.5  
- PQoQ%: |  177.6   |  -74.3   |  -342.5  |  -16.0   |  -361.7 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 7488.8		9318.0		10586.2		10732.9		10356.7		8031.6
+SQoQ%: 	10.2		24.4		13.6		1.4		-3.5		77.5
+YOPM%: 	19.5		16.1		11.4		15.1		13.3
+YNPM%: 	0.0		0.3		0.1		1.4		0.2
+YPROFIT: -26.0		32.1		15.9		147.4		21.8		218.6
+PQoQ%: 	-110.4		-223.6		-50.6		829.2		-85.2		1002.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2409.4		3042.2		2872.7		2457.6		2701.3
+QoQ%: 	6.2		26.3		-5.6		-14.5		9.9
+QOPM%: 	10.7		18.1		18.1		14.9		14.2
+QNPM%: 	0.0		5.4		4.6		1.5		1.8
+QPFT: 	-61.4		165.5		133.2		36.4		49.0
+PQoQ%: 	-27.9		-369.7		-19.6		-72.6		34.6
+
+
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 1003% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-8724.70cr, QoQ -2.40% & YoY 50.29% SALES;
-1001.20cr, QoQ -9.00% & YoY -10.63% OPERATING PROFIT;
-40.50cr, QoQ -73.50% & YoY 77.63% NET PROFIT;
-OPM %: 11.50% vs 12.3%
-NPM %: 0.50% vs 1.7%
+10356.70cr, QoQ -3.50% & YoY 38.30% SALES;
+1372.50cr, QoQ -15.50% & YoY -6.03% OPERATING PROFIT;
+21.80cr, QoQ -85.20% & YoY -183.85% NET PROFIT;
+OPM %: 13.30% vs 15.1%
+NPM %: 0.20% vs 1.4%
 

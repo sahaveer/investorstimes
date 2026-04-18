@@ -1,14 +1,13 @@
-CODE	NAME
-541337 
-
+CODES	541337	
+FULLNAME : Milestone Furniture Ltd
 SECTOR : Consumer Durables
-INDUSTRY : Miscellaneous
-LYPD PM 2024
+INDUSTRY : Furniture, Home Furnishing
+LYPD PM 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-DEBT-Free Company for the last 3 yrs
-- LastYr YProfits Doubled and maintained in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***

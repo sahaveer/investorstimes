@@ -1,40 +1,46 @@
-CODE	NAME
-532183 
-
-SECTOR : Sugar
+CODES	532183	
+FULLNAME : Gayatri Sugars Ltd
+SECTOR : Agricultural Food & other Products
 INDUSTRY : Sugar
-BestQ Dec 2024
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  280.1   |  247.9   |  360.7   |  388.3   |  377.1   |     140.8    
- SQoQ%:  |  -10.1   |  -11.5   |   45.5   |   7.7    |   -2.9   |      37.3    
- YOPM%:  |   2.3    |   3.0    |   7.4    |   10.2   |   9.9    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   8.8    |   1.9    |              
-YPROFIT: |  -27.7   |  -28.5   |   -8.4   |   34.3   |   7.0    |     -37.8    
- PQoQ%:  |   42.4   |   2.7    |  -70.4   |  -507.6  |  -79.5   |     -540.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   75.7   |  224.6   |   19.7   |   11.6   |  109.5  
- QoQ%:  |  300.1   |  196.6   |  -91.2   |  -41.1   |  843.4  
- QOPM%: |   14.2   |   17.9   |   0.0    |   0.0    |   8.8   
- QNPM%: |   1.7    |   15.0   |   0.0    |   0.0    |   1.1   
- QPFT:  |   1.3    |   33.6   |  -17.7   |  -21.3   |   1.2   
- PQoQ%: |  -107.7  |  2447.0  |  -152.6  |   20.6   |  -105.8 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 247.9		360.7		388.3		377.1		336.1		122.6
+SQoQ%: 	-11.5		45.5		7.7		-2.9		-10.9		36.5
+YOPM%: 	3.0		7.4		10.2		9.9		5.7
+YNPM%: 	0.0		0.0		8.8		1.9		0.3
+YPROFIT: -28.5		-8.4		34.3		7.0		1.1		-45.5
+PQoQ%: 	2.7		-70.4		-507.6		-79.5		-84.8		-4136.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 109.5		195.3		27.8		13.6		81.2
+QoQ%: 	843.4		78.3		-85.7		-51.3		498.6
+QOPM%: 	8.8		15.9		0.0		0.0		3.6
+QNPM%: 	1.1		19.9		0.0		0.0		0.0
+QPFT: 	1.2		38.8		-18.6		-21.2		-5.7
+PQoQ%: 	-105.8		3033.1		-147.9		14.0		-73.2
+
+
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 78.5%
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+ROCE in Mar2025 is at 20.9%
 - Double QSales and QProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-377.10cr, QoQ -2.90% & YoY 34.63% SALES;
-37.50cr, QoQ -5.70% & YoY 468.18% OPERATING PROFIT;
-7.00cr, QoQ -79.50% & YoY -125.27% NET PROFIT;
-OPM %: 9.90% vs 10.2%
-NPM %: 1.90% vs 8.8%
+ 31-Mar-2025 #Result
+336.10cr, QoQ -10.90% & YoY 35.58% SALES;
+19.30cr, QoQ -48.60% & YoY 164.38% OPERATING PROFIT;
+1.10cr, QoQ -84.80% & YoY -103.86% NET PROFIT;
+OPM %: 5.70% vs 9.9%
+NPM %: 0.30% vs 1.9%
 

@@ -1,44 +1,49 @@
-CODES
-543960	CONCORDBIO	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
-BestQ Dec 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+CODES	543960	CONCORDBIO	
+FULLNAME : Concord Biotech Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  512.3   |  616.4   |  712.9   |  853.2   |  1016.9  |     770.2    
- SQoQ%:  |   nan    |   20.3   |   15.7   |   19.7   |   19.2   |      75.7    
- YOPM%:  |   39.9   |   53.1   |   37.9   |   40.3   |   42.5   |              
- YNPM%:  |   33.0   |   38.2   |   24.5   |   28.1   |   30.3   |              
-YPROFIT: |  169.1   |  235.3   |  174.9   |  240.1   |  308.1   |     231.2    
- PQoQ%:  |   nan    |   39.2   |  -25.7   |   37.2   |   28.3   |      75.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  240.8   |  319.0   |  215.8   |  310.2   |  244.2  
- QoQ%:  |   -8.2   |   32.5   |  -32.3   |   43.7   |  -21.3  
- QOPM%: |   44.0   |   41.4   |   37.7   |   43.1   |   40.1  
- QNPM%: |   32.2   |   29.8   |   27.6   |   30.9   |   31.1  
- QPFT:  |   77.6   |   95.0   |   59.6   |   95.7   |   75.9  
- PQoQ%: |   -4.3   |   22.5   |  -37.3   |   60.7   |  -20.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 616.4		712.9		853.2		1016.9		1200.1		728.9
+SQoQ%: 	20.3		15.7		19.7		19.2		18.0		60.7
+YOPM%: 	53.1		37.9		40.3		42.5		42.1
+YNPM%: 	38.2		24.5		28.1		30.3		31.0
+YPROFIT: 235.3		174.9		240.1		308.1		371.6		172.2
+PQoQ%: 	39.2		-25.7		37.2		28.3		20.6		46.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 244.2		429.9		204.0		247.1		277.8
+QoQ%: 	-21.3		76.0		-52.5		21.1		12.4
+QOPM%: 	40.1		43.9		30.1		35.8		35.4
+QNPM%: 	31.1		32.7		21.6		25.7		23.2
+QPFT: 	75.9		140.4		44.1		63.6		64.5
+PQoQ%: 	-20.7		84.9		-68.6		44.3		1.4
+
+
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
+DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 25.4%
+ROCE in Mar2025 is at 23.0%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 76% YSales
-- Last 3QPROFIT is about 75% of YProfit
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+- Last 3QSALES is about 61% YSales
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 19.2% while the Profit QoQ_growth is much better than Sales itself at 28.3%
+As on Mar2025, Sales have increased by 18.0% while the Profit QoQ_growth is much better than Sales itself at 20.6%
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-1016.90cr, QoQ 19.20% & YoY 98.50% SALES;
-432.20cr, QoQ 25.60% & YoY 111.34% OPERATING PROFIT;
-308.10cr, QoQ 28.30% & YoY 82.20% NET PROFIT;
-OPM %: 42.50% vs 40.3%
-NPM %: 30.30% vs 28.1%
+ 31-Mar-2025 #Result
+1200.10cr, QoQ 18.00% & YoY 94.70% SALES;
+505.70cr, QoQ 17.00% & YoY 54.41% OPERATING PROFIT;
+371.60cr, QoQ 20.60% & YoY 57.93% NET PROFIT;
+OPM %: 42.10% vs 42.5%
+NPM %: 31.00% vs 30.3%
 

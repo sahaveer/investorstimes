@@ -1,14 +1,14 @@
-CODES
-543959	SBFC	
+CODES	543959	SBFC	
+FULLNAME : SBFC Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 PRODUCT DEMAND
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
@@ -17,11 +17,13 @@ PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 28.2% while the Profit QoQ_growth is much better than Sales itself at 45.6%
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 1306.20cr, QoQ 28.20% SALES;
-894.20cr, QoQ 31.20% OPERATING PROFIT;
+896.30cr, QoQ 31.50% OPERATING PROFIT;
 345.30cr, QoQ 45.60% NET PROFIT;
-OPM %: 68.50% vs 66.9%
+OPM %: 68.60% vs 66.9%
 NPM %: 26.40% vs 23.3%
 

@@ -1,10 +1,11 @@
-CODES
-PELATRO	
+CODES	PELATRO	
+FULLNAME : Pelatro Ltd
 SECTOR : IT - Software
 INDUSTRY : Computers - Software - Medium / Small
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

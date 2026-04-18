@@ -1,19 +1,24 @@
-CODES
-DUCOL	
-SECTOR : Chemicals
+CODES	DUCOL	
+FULLNAME : Ducol Organics & Colours Ltd
+SECTOR : Chemicals & Petrochemicals
 INDUSTRY : Dyes And Pigments
+EXPANSION 2025
+PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+EXPANSION ??- EXPANSION underway in Mar-2025, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+- PRODUCT DEMAND is rising since 3 years
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-75.40cr, QoQ -16.90% & YoY 16.72% SALES;
-7.00cr, QoQ -43.30% & YoY 48.94% OPERATING PROFIT;
-4.40cr, QoQ -27.50% & YoY 4300.00% NET PROFIT;
-OPM %: 9.20% vs 13.5%
-NPM %: 5.90% vs 6.7%
+ 31-Mar-2025 #Result
+77.40cr, QoQ 2.60% & YoY 13.32% SALES;
+7.80cr, QoQ 9.10% & YoY 18.18% OPERATING PROFIT;
+4.60cr, QoQ -3.70% & YoY 64.29% NET PROFIT;
+OPM %: 10.00% vs 9.4%
+NPM %: 6.00% vs 6.4%
 

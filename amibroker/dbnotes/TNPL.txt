@@ -1,36 +1,45 @@
-CODES
-531426	TNPL	
-SECTOR : 
-INDUSTRY : 
+CODES	531426	TNPL	
+FULLNAME : Tamil Nadu Newsprint & Papers Ltd
+SECTOR : Paper, Forest & Jute Products
+INDUSTRY : Paper & Paper Products
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2768.2  |  4020.3  |  5179.9  |  4692.8  |  4490.9 
- SQoQ%:  |  -20.3   |   45.2   |   28.8   |   -9.4   |   -4.3  
- YOPM%:  |   9.4    |   8.9    |   19.4   |   16.5   |   9.5   
- YNPM%:  |   0.0    |   0.4    |   7.5    |   4.4    |   0.1   
-YPROFIT: |  -65.1   |   14.3   |  387.9   |  208.2   |   3.7   
- PQoQ%:  |  -150.1  |  -122.0  |  2606.7  |  -46.3   |  -98.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1229.5  |  1118.8  |  914.6   |  1123.9  |  1336.8 
- QoQ%:  |   -0.9   |   -9.0   |  -18.3   |   22.9   |   18.9  
- QOPM%: |   13.0   |   13.4   |   13.7   |   4.7    |   7.7   
- QNPM%: |   2.7    |   2.0    |   0.3    |   0.0    |   1.7   
- QPFT:  |   33.0   |   21.9   |   2.6    |  -42.9   |   22.1  
- PQoQ%: |  103.6   |  -33.6   |  -88.2   | -1756.0  |  -151.6 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2768.2		4020.3		5179.9		4689.6		4490.9		3373.4
+SQoQ%: 	-20.3		45.2		28.8		-9.5		-4.2		75.1
+YOPM%: 	9.4		8.9		19.4		16.4		9.6
+YNPM%: 	0.0		0.4		7.5		4.4		0.1
+YPROFIT: -65.1		14.3		387.9		208.2		3.7		7.5
+PQoQ%: 	-150.1		-122.0		2606.7		-46.3		-98.2		202.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1123.9		1336.8		1142.1		1110.2		1121.1
+QoQ%: 	23.0		18.9		-14.6		-2.8		1.0
+QOPM%: 	4.7		7.7		8.9		11.1		10.3
+QNPM%: 	0.0		1.7		0.0		0.7		0.6
+QPFT: 	-42.9		22.1		-7.4		8.1		6.8
+PQoQ%: 	-1756.0		-151.6		-133.5		-209.3		-16.4
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 203% of YProfit
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-4490.90cr, QoQ -4.30% & YoY 62.23% SALES;
-427.80cr, QoQ -44.70% & YoY 64.29% OPERATING PROFIT;
+4490.90cr, QoQ -4.20% & YoY 62.23% SALES;
+430.60cr, QoQ -44.10% & YoY 65.36% OPERATING PROFIT;
 3.70cr, QoQ -98.20% & YoY -105.68% NET PROFIT;
-OPM %: 9.50% vs 16.5%
+OPM %: 9.60% vs 16.4%
 NPM %: 0.10% vs 4.4%
 

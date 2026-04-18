@@ -1,38 +1,44 @@
-CODES
-543254	AWHCL	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-EXPANSION 2023
-BestQ Dec 2024
+CODES	543254	AWHCL	
+FULLNAME : Antony Waste Handling Cell Ltd
+SECTOR : Other Utilities
+INDUSTRY : Waste Management
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  450.5   |  465.0   |  648.4   |  854.2   |  872.9   |     690.9    
- SQoQ%:  |   58.8   |   3.2    |   39.4   |   31.7   |   2.2    |      79.1    
- YOPM%:  |   27.9   |   24.6   |   22.9   |   17.3   |   20.4   |              
- YNPM%:  |   6.1    |   9.7    |   10.5   |   8.0    |   9.9    |              
-YPROFIT: |   27.4   |   45.0   |   67.9   |   68.1   |   86.2   |      45.4    
- PQoQ%:  |   -0.2   |   64.6   |   50.7   |   0.3    |   26.6   |      52.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  217.2   |  210.2   |  227.0   |  221.2   |  242.7  
- QoQ%:  |   -3.2   |   -3.2   |   8.0    |   -2.5   |   9.7   
- QOPM%: |   20.3   |   17.2   |   21.8   |   19.3   |   21.4  
- QNPM%: |   5.9    |   13.1   |   7.7    |   5.5    |   6.5   
- QPFT:  |   12.8   |   27.5   |   17.5   |   12.1   |   15.8  
- PQoQ%: |  -53.7   |  114.8   |  -36.3   |  -31.0   |   30.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 465.0		648.4		854.2		866.4		933.6		767.3
+SQoQ%: 	3.2		39.4		31.7		1.4		7.8		82.2
+YOPM%: 	24.6		22.9		17.3		20.0		20.9
+YNPM%: 	9.7		10.5		8.0		10.0		9.1
+YPROFIT: 45.0		67.9		68.1		86.2		85.4		42.9
+PQoQ%: 	64.6		50.7		0.3		26.6		-1.0		50.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 242.7		242.7		247.3		257.6		262.4
+QoQ%: 	9.7		-0.0		1.9		4.2		1.9
+QOPM%: 	21.4		21.0		22.3		19.7		16.3
+QNPM%: 	6.5		16.5		7.2		5.3		4.4
+QPFT: 	15.8		40.0		17.8		13.6		11.5
+PQoQ%: 	30.4		153.8		-55.6		-23.2		-15.8
+
+
 
 ***PROS***
-EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
-- Last 3QSALES is about 79% YSales
-- Last 3QPROFIT is about 53% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 50% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-872.90cr, QoQ 2.20% & YoY 93.76% SALES;
-178.30cr, QoQ 20.40% & YoY 41.96% OPERATING PROFIT;
-86.20cr, QoQ 26.60% & YoY 214.60% NET PROFIT;
-OPM %: 20.40% vs 17.3%
-NPM %: 9.90% vs 8.0%
+ 31-Mar-2025 #Result
+933.60cr, QoQ 7.80% & YoY 100.77% SALES;
+195.50cr, QoQ 12.80% & YoY 70.59% OPERATING PROFIT;
+85.40cr, QoQ -1.00% & YoY 89.78% NET PROFIT;
+OPM %: 20.90% vs 20.0%
+NPM %: 9.10% vs 10.0%
 

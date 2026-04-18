@@ -1,11 +1,11 @@
-CODE	NAME
-544139 
-
+CODES	544139	
+FULLNAME : Koura Fine Diamond Jewelry Ltd
 SECTOR : Diamond, Gems and Jewellery
 INDUSTRY : Diamond Cutting / Jewellery
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

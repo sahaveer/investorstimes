@@ -1,38 +1,46 @@
-CODE	NAME
-503804 
-
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
+CODES	503804	
+FULLNAME : Shri Dinesh Mills Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   65.1   |   72.8   |   88.6   |   96.6   |   99.2   |      54.5    
- SQoQ%:  |  -26.0   |   11.8   |   21.8   |   9.0    |   2.8    |      54.9    
- YOPM%:  |   0.6    |   18.7   |   19.1   |   11.3   |   7.3    |              
- YNPM%:  |   1.7    |   13.5   |   33.9   |   24.7   |   50.9   |              
-YPROFIT: |   1.1    |   9.8    |   30.0   |   23.8   |   50.6   |      6.9     
- PQoQ%:  | -1933.3  |  792.7   |  205.8   |  -20.6   |  111.9   |      13.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   17.2   |   27.2   |   23.8   |   14.5   |   16.2  
- QoQ%:  |  -32.1   |   58.0   |  -12.3   |  -39.1   |   11.6  
- QOPM%: |   22.7   |   1.0    |   7.6    |   7.0    |   9.4   
- QNPM%: |  224.4   |   9.9    |   13.8   |   17.9   |   6.5   
- QPFT:  |   38.6   |   2.7    |   3.3    |   2.6    |   1.0   
- PQoQ%: |  449.4   |  -93.0   |   21.9   |  -20.7   |  -59.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 72.8		88.6		96.6		65.2		64.8		49.0
+SQoQ%: 	11.8		21.8		9.0		-32.5		-0.7		75.6
+YOPM%: 	18.7		19.1		11.3		17.9		12.5
+YNPM%: 	13.5		33.9		24.7		77.5		16.2
+YPROFIT: 9.8		30.0		23.8		50.6		10.5		8.2
+PQoQ%: 	792.7		205.8		-20.6		111.9		-79.2		78.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 16.2		20.7		16.1		17.3		15.6
+QoQ%: 	-29.5		27.8		-22.5		7.5		-9.8
+QOPM%: 	9.4		16.7		9.5		13.1		1.2
+QNPM%: 	6.5		15.1		24.7		11.0		14.8
+QPFT: 	1.0		3.1		4.0		1.9		2.3
+PQoQ%: 	-59.6		199.0		26.4		-52.4		22.2
+
+
 
 ***PROS***
+A DEBT-Free Company
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 55% YSales
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 78% of YProfit
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-99.20cr, QoQ 2.80% & YoY 52.38% SALES;
-7.20cr, QoQ -34.30% & YoY 1700.00% OPERATING PROFIT;
-50.60cr, QoQ 111.90% & YoY 4500.00% NET PROFIT;
-OPM %: 7.30% vs 11.3%
-NPM %: 50.90% vs 24.7%
+ 31-Mar-2025 #Result
+64.80cr, QoQ -0.70% & YoY -10.99% SALES;
+8.10cr, QoQ -30.40% & YoY -40.44% OPERATING PROFIT;
+10.50cr, QoQ -79.20% & YoY 7.14% NET PROFIT;
+OPM %: 12.50% vs 17.9%
+NPM %: 16.20% vs 77.5%
 

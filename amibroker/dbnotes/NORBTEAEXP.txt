@@ -1,28 +1,32 @@
-CODES
-519528	NORBTEAEXP	
-SECTOR : 
-INDUSTRY : 
-PRODUCT DEMAND
+CODES	519528	NORBTEAEXP	
+FULLNAME : Norben Tea & Exports Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Tea & Coffee
 
-***CONS***
-- NEGATIVE YProfit : -1.7
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   4.9    |   7.5    |   6.0    |   7.8    |   6.6    |      6.6     
- SQoQ%:  |   -9.8   |   53.2   |  -20.0   |   30.3   |  -15.4   |     100.0    
- YOPM%:  |   0.0    |   32.3   |   15.2   |   21.7   |   0.0    |              
- YNPM%:  |   0.0    |   15.8   |   0.0    |   2.7    |   0.0    |              
-YPROFIT: |   -1.6   |   1.2    |   -0.3   |   0.2    |   -1.7   |      0.8     
- PQoQ%:  |  257.8   |  -173.3  |  -122.9  |  -177.8  |  -909.5  |     -47.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.4    |   1.2    |   1.3    |   3.3    |   2.0   
- QoQ%:  |  -37.5   |  -15.7   |   9.3    |  153.5   |  -38.2  
- QOPM%: |   0.0    |   0.0    |   34.9   |   41.9   |   11.9  
- QNPM%: |   0.0    |   0.0    |   3.1    |   29.7   |   0.0   
- QPFT:  |   -1.5   |   -1.0   |   0.0    |   1.0    |   -0.2  
- PQoQ%: |  -313.0  |  -29.9   |  -103.9  |  2325.0  |  -115.5 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 7.5		6.0		7.8		6.6		7.6		6.6
+SQoQ%: 	53.2		-20.0		30.3		-15.4		16.3		86.8
+YOPM%: 	32.3		15.2		21.7		0.0		20.0
+YNPM%: 	15.8		0.0		2.7		0.0		0.0
+YPROFIT: 1.2		-0.3		0.2		-1.7		-0.2		0.5
+PQoQ%: 	-173.3		-122.9		-177.8		-909.5		-89.4		-250.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2.0		1.1		1.2		2.4		3.0
+QoQ%: 	-38.2		-46.5		13.9		94.3		26.4
+QOPM%: 	11.9		0.0		53.7		21.3		15.9
+QNPM%: 	0.0		0.0		23.6		4.6		3.0
+QPFT: 	-0.2		-1.0		0.3		0.1		0.1
+PQoQ%: 	-115.5		586.7		-128.2		-62.1		-18.2
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 100% YSales
+- Last 3QSALES is about 87% YSales
+
+***CONS***
+- NEGATIVE YProfit : -0.2

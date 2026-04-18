@@ -1,39 +1,48 @@
-CODES
-533269	WABAG	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Engineering - Turnkey Services
+CODES	533269	WABAG	
+FULLNAME : Va Tech Wabag Ltd
+SECTOR : Other Utilities
+INDUSTRY : Water Supply & Management
 PRODUCT DEMAND
+BestQ Dec 2025
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2834.5  |  2979.3  |  2960.5  |  2856.4  |  3294.0 
- SQoQ%:  |   10.8   |   5.1    |   -0.6   |   -3.5   |   15.3  
- YOPM%:  |   7.7    |   7.8    |   10.7   |   12.8   |   12.8  
- YNPM%:  |   3.9    |   4.4    |   0.4    |   8.6    |   9.0   
-YPROFIT: |  110.1   |  131.9   |   13.0   |  245.6   |  295.3  
- PQoQ%:  |   21.1   |   19.8   |  -90.1   |  1789.2  |   20.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  934.2   |  626.5   |  700.3   |  811.0   |  1156.2 
- QoQ%:  |   32.6   |  -32.9   |   11.8   |   15.8   |   42.6  
- QOPM%: |   12.4   |   12.6   |   13.4   |   12.0   |   12.2  
- QNPM%: |   7.7    |   8.8    |   10.1   |   8.7    |   8.6   
- QPFT:  |   72.4   |   55.0   |   70.6   |   70.2   |   99.5  
- PQoQ%: |   15.1   |  -24.0   |   28.4   |   -0.6   |   41.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1843.1		2142.6		2325.3		2509.7		2873.8		2117.5
+SQoQ%: 	5.5		16.2		8.5		7.9		14.5		73.7
+YOPM%: 	9.2		8.1		12.7		13.9		13.5
+YNPM%: 	4.0		4.3		0.1		9.4		9.4
+YPROFIT: 73.0		92.2		1.2		235.8		271.3		211.8
+PQoQ%: 	24.3		26.2		-98.7		19550.0		15.1		78.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 676.1		1038.5		640.2		690.0		787.3
+QoQ%: 	10.2		53.6		-38.4		7.8		14.1
+QOPM%: 	12.6		13.2		13.5		10.0		13.2
+QNPM%: 	9.5		9.5		9.5		10.2		10.2
+QPFT: 	64.2		99.0		60.9		70.3		80.6
+PQoQ%: 	11.5		54.2		-38.5		15.4		14.7
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 15.7%
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 78% of YProfit
 - LastYr YProfits Doubled and maintained in Mar2025
 
-YSALES in Mar-2025 is at 3294.0 showing a QoQ_growth of 15.3%. The YNETPROFIT grew by 20.2% to 295.3
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-3294.00cr, QoQ 15.30% & YoY 16.21% SALES;
-422.30cr, QoQ 15.30% & YoY 93.01% OPERATING PROFIT;
-295.30cr, QoQ 20.20% & YoY 168.21% NET PROFIT;
-OPM %: 12.80% vs 12.8%
-NPM %: 9.00% vs 8.6%
+2873.80cr, QoQ 14.50% & YoY 55.92% SALES;
+386.80cr, QoQ 11.10% & YoY 128.20% OPERATING PROFIT;
+271.30cr, QoQ 15.10% & YoY 271.64% NET PROFIT;
+OPM %: 13.50% vs 13.9%
+NPM %: 9.40% vs 9.4%
 

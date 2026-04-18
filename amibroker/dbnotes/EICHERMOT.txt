@@ -1,36 +1,45 @@
-CODES
-505200	EICHERMOT	
-SECTOR : Automobile
-INDUSTRY : Automobiles - Motorcycles / Mopeds
+CODES	505200	EICHERMOT	
+FULLNAME : Eicher Motors Ltd
+SECTOR : Automobiles
+INDUSTRY : 2/3 Wheelers
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  8720.4  | 10297.8  | 14442.2  | 16535.8  | 18870.4 
- SQoQ%:  |   -4.7   |   18.1   |   40.2   |   14.5   |   14.1  
- YOPM%:  |   20.4   |   21.1   |   23.9   |   26.2   |   25.0  
- YNPM%:  |   15.4   |   16.3   |   20.2   |   24.2   |   25.1  
-YPROFIT: |  1346.9  |  1676.6  |  2913.9  |  4001.0  |  4734.4 
- PQoQ%:  |  -26.3   |   24.5   |   73.8   |   37.3   |   18.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  4256.0  |  4393.0  |  4263.1  |  4973.1  |  5241.1 
- QoQ%:  |   1.8    |   3.2    |   -3.0   |   16.7   |   5.4   
- QOPM%: |   26.5   |   26.5   |   25.5   |   24.2   |   24.0  
- QNPM%: |   25.2   |   25.1   |   25.8   |   23.5   |   26.0  
- QPFT:  |  1070.4  |  1101.5  |  1100.3  |  1170.5  |  1362.2 
- PQoQ%: |   7.5    |   2.9    |   -0.1   |   6.4    |   16.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 8720.4		10297.8		14442.2		16535.8		18870.4		17327.4
+SQoQ%: 	-4.7		18.1		40.2		14.5		14.1		91.8
+YOPM%: 	20.4		21.1		23.9		26.2		25.0
+YNPM%: 	15.4		16.3		20.2		24.2		25.1
+YPROFIT: 1346.9		1676.6		2913.9		4001.0		4734.4		3995.2
+PQoQ%: 	-26.3		24.5		73.8		37.3		18.3		84.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4973.1		5241.1		5041.8		6171.6		6114.0
+QoQ%: 	16.7		5.4		-3.8		22.4		-0.9
+QOPM%: 	24.2		24.0		23.9		24.5		25.5
+QNPM%: 	23.5		26.0		23.9		22.2		23.2
+QPFT: 	1170.5		1362.2		1205.2		1369.4		1420.6
+PQoQ%: 	6.4		16.4		-11.5		13.6		3.7
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 40.6%
+ROCE in Mar2025 is at 43.2%
+- Last 3QSALES is about 92% YSales
+- Last 3QPROFIT is about 84% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 18870.40cr, QoQ 14.10% & YoY 116.39% SALES;
-4712.00cr, QoQ 8.80% & YoY 164.24% OPERATING PROFIT;
+4722.60cr, QoQ 9.10% & YoY 164.84% OPERATING PROFIT;
 4734.40cr, QoQ 18.30% & YoY 251.50% NET PROFIT;
 OPM %: 25.00% vs 26.2%
 NPM %: 25.10% vs 24.2%

@@ -1,25 +1,29 @@
-CODE	NAME
-502873 
-
-SECTOR : Textiles
-INDUSTRY : Textiles - Cotton/Blended
+CODES	502873	
+FULLNAME : H P Cotton Textile Mills Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+BestQ Dec 2025
 LYPD PM 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 85% of YProfit
 - LastYr YProfits Doubled and maintained in Mar2025
 
-YSALES in Mar-2025 is at 128.1 showing a QoQ_growth of 36.9%. The YNETPROFIT grew by 182.4% to 2.6
+YSALES in Mar-2025 is at 128.1 showing a QoQ_growth of 37.0%. The YNETPROFIT grew by 182.4% to 2.6
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-128.10cr, QoQ 36.90% SALES;
-12.50cr, QoQ 198.80% OPERATING PROFIT;
+128.10cr, QoQ 37.00% SALES;
+12.50cr, QoQ 199.00% OPERATING PROFIT;
 2.60cr, QoQ 182.40% NET PROFIT;
 OPM %: 9.70% vs 4.5%
 NPM %: 2.00% vs 1.0%

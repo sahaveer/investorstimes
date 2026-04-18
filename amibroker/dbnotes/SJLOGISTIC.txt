@@ -1,12 +1,17 @@
-CODES
-SJLOGISTIC	
-SECTOR : Logistics
-INDUSTRY : Miscellaneous
+CODES	SJLOGISTIC	
+FULLNAME : S J Logistics (India) Ltd
+SECTOR : Transport Services
+INDUSTRY : Logistics Solution Provider
+BestQ Sep 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- Last 2QSALES is about 56% YSales
+- Last 2QPROFIT is about 62% of YProfit
+
+***CONS***

@@ -1,44 +1,45 @@
-CODE	NAME
-527005 
-
-SECTOR : Healthcare
-INDUSTRY : Healthcare
-PRODUCT DEMAND
+CODES	527005	
+FULLNAME : Shree Pacetronix Ltd
+SECTOR : Healthcare Equipment & Supplies
+INDUSTRY : Medical Equipment & Supplies
+BestQ Dec 2025
 YSD YPD 2023
-LYPD PM 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   8.8    |   7.6    |   9.2    |   20.3   |   22.0   |      12.4    
- SQoQ%:  |   20.5   |  -13.8   |   22.1   |  119.5   |   8.8    |      56.4    
- YOPM%:  |   13.7   |   12.4   |   19.3   |   26.9   |   26.7   |              
- YNPM%:  |   2.7    |   0.7    |   8.5    |   16.1   |   15.2   |              
-YPROFIT: |   0.2    |   0.0    |   0.8    |   3.3    |   3.4    |      0.3     
- PQoQ%:  |   71.4   |  -79.2   |  1460.0  |  317.9   |   3.1    |      8.8     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   4.3    |   6.6    |   4.8    |   4.0    |   3.6   
- QoQ%:  |  -17.8   |   54.7   |  -27.1   |  -16.7   |  -10.1  
- QOPM%: |   19.8   |   36.4   |   16.1   |   10.1   |   3.9   
- QNPM%: |   9.3    |   21.5   |   7.6    |   0.7    |   0.0   
- QPFT:  |   0.4    |   1.4    |   0.4    |   0.0    |   -0.1  
- PQoQ%: |  -40.3   |  257.5   |  -74.1   |  -91.9   |  -466.7 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 7.6		9.2		20.3		22.0		16.7		16.2
+SQoQ%: 	-13.8		22.1		119.5		8.8		-24.3		97.0
+YOPM%: 	12.4		19.3		26.9		26.7		14.0
+YNPM%: 	0.7		8.5		16.1		15.2		4.5
+YPROFIT: 0.0		0.8		3.3		3.4		0.8		2.1
+PQoQ%: 	-79.2		1460.0		317.9		3.1		-77.7		262.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3.6		4.3		5.3		6.6		4.3
+QoQ%: 	-10.1		17.9		24.8		23.4		-34.3
+QOPM%: 	3.9		22.9		21.7		30.5		9.9
+QNPM%: 	0.0		10.5		12.4		19.9		1.4
+QPFT: 	-0.1		0.4		0.7		1.3		0.1
+PQoQ%: 	-466.7		-509.1		46.7		98.5		-95.4
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 22.3%
-- Last 3QSALES is about 56% YSales
+- Last 3QSALES is about 97% YSales
+- Last 3QPROFIT is about 262% of YProfit
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
+
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-22.00cr, QoQ 8.80% & YoY 150.00% SALES;
-5.90cr, QoQ 7.90% & YoY 391.67% OPERATING PROFIT;
-3.40cr, QoQ 3.10% & YoY 1600.00% NET PROFIT;
-OPM %: 26.70% vs 26.9%
-NPM %: 15.20% vs 16.1%
+ 31-Mar-2025 #Result
+16.70cr, QoQ -24.30% & YoY 119.74% SALES;
+2.30cr, QoQ -60.20% & YoY 155.56% OPERATING PROFIT;
+0.80cr, QoQ -77.70% & YoY inf% NET PROFIT;
+OPM %: 14.00% vs 26.7%
+NPM %: 4.50% vs 15.2%
 

@@ -1,13 +1,14 @@
-CODE	NAME
-514322 
+CODES	514322	
+FULLNAME : Kamadgiri Fashion Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 
-SECTOR : Textiles
-INDUSTRY : Textiles - Processing
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

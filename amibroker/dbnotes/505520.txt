@@ -1,13 +1,14 @@
-CODE	NAME
-505520 
-
+CODES	505520	
+FULLNAME : Hem Holdings & Trading Ltd
 SECTOR : Finance
 INDUSTRY : Finance & Investments
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

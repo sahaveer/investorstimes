@@ -1,15 +1,12 @@
-CODE	NAME
-544150 
-
+CODES	544150	
+FULLNAME : KP Green Engineering Ltd
 SECTOR : Engineering
 INDUSTRY : Engineering
 YSD YPD 2024
 LYPD PM 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,6 +14,9 @@ PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 99.0% while the Profit QoQ_growth is much better than Sales itself at 107.7%
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

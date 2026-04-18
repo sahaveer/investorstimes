@@ -1,32 +1,43 @@
 import streamlit as st
 import pandas as pd
-import digyahoo
+import os
 import create_database
+import digyahoo
 import variables
 import screenerpage
 import processdriver
 
-if 'bsenames_list' not in st.session_state or 'bsecodes_list' not in st.session_state:  #if 'bse_ISIN' not in st.session_state or 'bse_ycode' not in st.session_state
-    bse_data = pd.read_csv('./Select.csv', header=0, index_col=False)
-    bse_data.columns = bse_data.columns.str.replace(' ', '_')
-    #df = bse_data[['Security Code', 'Issuer Name', 'Security Id', 'ISIN No']]
+if 'bse_data' not in st.session_state:
+    bse_df = pd.DataFrame()
+    if os.path.exists('./Select.csv'):
+        bse_df = pd.read_csv('./Select.csv', header=0, index_col=False)
+        create_database.save_reference_data('bse_select', bse_df)
+    else:
+        bse_df = create_database.get_reference_data('bse_select')
+    st.session_state.bse_data = bse_df
+
+if not st.session_state.bse_data.empty:
+    bse_data = st.session_state.bse_data
+    if 'Security_Code' not in bse_data.columns:
+        bse_data.columns = bse_data.columns.str.replace(' ', '_')
     st.session_state.bse_ISIN = bse_data["ISIN_No"].tolist()
     st.session_state.bse_ycode = bse_data["Security_Id"].tolist()
-    # bse_name = bse_data["Security_Name"].tolist()
-    # bse_code = bse_data["Security_Code"].tolist()
-    # st.session_state.bsenames_list = bse_name
-    # st.session_state.bsecodes_list = bse_code
-
     st.session_state.bsenames_list = bse_data["Security_Name"].tolist()
     st.session_state.bsecodes_list = bse_data["Security_Code"].tolist()
 
-if 'nsecode_list' not in st.session_state or 'nseISIN_list' not in st.session_state:
-    nse_data = pd.read_csv('./cm21JUN2024bhav.csv')
-    nse_data.columns = nse_data.columns.str.replace(' ','_')
-    # nse_ISIN = nse_data["ISIN"].tolist()
-    # nse_code = nse_data["SYMBOL"].tolist()
-    # st.session_state.nseISIN_list = nse_ISIN
-    # st.session_state.nsecode_list = nse_code
+if 'nse_data' not in st.session_state:
+    nse_df = pd.DataFrame()
+    if os.path.exists('./cm21JUN2024bhav.csv'):
+        nse_df = pd.read_csv('./cm21JUN2024bhav.csv')
+        create_database.save_reference_data('nse_bhav', nse_df)
+    else:
+        nse_df = create_database.get_reference_data('nse_bhav')
+    st.session_state.nse_data = nse_df
+
+if not st.session_state.nse_data.empty:
+    nse_data = st.session_state.nse_data
+    if 'SYMBOL' not in nse_data.columns:
+        nse_data.columns = nse_data.columns.str.replace(' ','_')
     st.session_state.nseISIN_list = nse_data["ISIN"].tolist()
     st.session_state.nsecode_list = nse_data["SYMBOL"].tolist()
 
@@ -119,19 +130,41 @@ def dict_from_bse_csv(driver):
 
 
 def bsecodenum_bsecodename():
-    bse_data = pd.read_csv('./Select.csv', header=0, index_col=False)
-    bse_data.columns = bse_data.columns.str.replace(' ', '_')
-    bse_data = bse_data[['Security_Code','Security_Id','Security_Name']].copy()
-    bsecodenum_codename = bse_data.set_index('Security_Code')['Security_Id'].to_dict()
-    bsecodename_codenum = bse_data.set_index('Security_Id')['Security_Code'].to_dict()
-    bsecodenum_fullname = bse_data.set_index('Security_Code')['Security_Name'].to_dict()
-    bsecodename_fullname = bse_data.set_index('Security_Id')['Security_Name'].to_dict()
-    bsefullname_codenum = bse_data.set_index('Security_Name')['Security_Code'].to_dict()
-    bsefullname_codename = bse_data.set_index('Security_Name')['Security_Id'].to_dict()
+    if not st.session_state.bse_data.empty:
+        df = st.session_state.bse_data
+    else:
+        # Fallback if session state is not ready (shouldn't happen with the new init)
+        df = create_database.get_reference_data('bse_select')
+    
+    if df.empty:
+        return {}, {}, {}, {}, {}, {}
+
+    df.columns = df.columns.str.replace(' ', '_')
+    # Filter only necessary columns
+    needed = ['Security_Code','Security_Id','Security_Name']
+    available = [c for c in needed if c in df.columns]
+    df = df[available].copy()
+    
+    bsecodenum_codename = df.set_index('Security_Code')['Security_Id'].to_dict() if 'Security_Code' in df.columns and 'Security_Id' in df.columns else {}
+    bsecodename_codenum = df.set_index('Security_Id')['Security_Code'].to_dict() if 'Security_Code' in df.columns and 'Security_Id' in df.columns else {}
+    bsecodenum_fullname = df.set_index('Security_Code')['Security_Name'].to_dict() if 'Security_Code' in df.columns and 'Security_Name' in df.columns else {}
+    bsecodename_fullname = df.set_index('Security_Id')['Security_Name'].to_dict() if 'Security_Id' in df.columns and 'Security_Name' in df.columns else {}
+    bsefullname_codenum = df.set_index('Security_Name')['Security_Code'].to_dict() if 'Security_Name' in df.columns and 'Security_Code' in df.columns else {}
+    bsefullname_codename = df.set_index('Security_Name')['Security_Id'].to_dict() if 'Security_Name' in df.columns and 'Security_Id' in df.columns else {}
     return bsecodenum_codename,bsecodename_codenum,bsecodenum_fullname,bsecodename_fullname,bsefullname_codenum,bsefullname_codename
 
 def bseSCNAME_SCCODE():
-    bse_csv = pd.read_csv('sccodenames.CSV',header=0,index_col=False,usecols=["SC_CODE","SC_NAME"])
+    # Attempt local read, then fallback to MongoDB ReferenceData
+    if os.path.exists('sccodenames.CSV'):
+        bse_csv = pd.read_csv('sccodenames.CSV',header=0,index_col=False,usecols=["SC_CODE","SC_NAME"])
+        # Save to MongoDB for cloud users while we're at it
+        create_database.save_reference_data('sccodenames', bse_csv)
+    else:
+        bse_csv = create_database.get_reference_data('sccodenames')
+    
+    if bse_csv.empty:
+        return {}, {}
+
     bse_csv["SC_NAME"] = bse_csv["SC_NAME"].str.strip()
     bsesccode_scname = bse_csv.set_index('SC_CODE')['SC_NAME'].to_dict()
     bsescname_sccode = bse_csv.set_index('SC_NAME')['SC_CODE'].to_dict()
@@ -170,7 +203,7 @@ def remove_duplicate_in_watchlist(givenlist:list)->list:            #give LIST h
     unique_list = []
     duplicate_list = []
     for line in givenlist:
-        codenames_watchlist = 0(str(line).strip())
+        codenames_watchlist = process_code(str(line).strip())
         print(f"We got {codenames_watchlist} from DB in remove_duplicate_in_watchlist FUNC while trying for {line}")
         # st.info(codenames_watchlist)
         if len(codenames_watchlist) >=1:

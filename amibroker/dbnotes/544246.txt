@@ -1,12 +1,14 @@
-CODES
-544246	RVTH	
+CODES	544246	RVTH	
+FULLNAME : Revathi Equipment India Ltd
 SECTOR : Engineering
 INDUSTRY : Engineering
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

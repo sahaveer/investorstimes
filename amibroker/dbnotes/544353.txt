@@ -1,12 +1,9 @@
-CODE	NAME
-544353 
-
+CODES	544353	
+FULLNAME : Amwill Health Care Ltd
 SECTOR : Pharmaceuticals
 INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
@@ -16,6 +13,9 @@ ROCE in Mar2024 is at 73.3%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
 
 YSALES in Mar-2024 is at 41.6 showing a QoQ_growth of 46.2%. The YNETPROFIT grew by 303.2% to 12.5
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

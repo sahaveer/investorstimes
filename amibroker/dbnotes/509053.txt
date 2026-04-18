@@ -1,34 +1,35 @@
-CODE	NAME
-509053 
-
+CODES	509053	
+FULLNAME : Banas Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+INDUSTRY : Investment Company
 YSD YPD 2024
-YSD YPD 2022
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   8.9    |   14.4   |  100.6   |   20.2   |   73.0   |      44.9    
- SQoQ%:  |   nan    |   62.5   |  596.1   |  -79.9   |  261.9   |      61.5    
- YOPM%:  |   23.3   |   67.7   |   90.9   |   0.0    |   45.3   |              
- YNPM%:  |   13.5   |   80.7   |   68.8   |   0.0    |   6.0    |              
-YPROFIT: |   1.2    |   11.7   |   69.2   |  -53.6   |   4.4    |     -15.4    
- PQoQ%:  |   nan    |  871.7   |  493.3   |  -177.5  |  -108.2  |     -350.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   11.6   |   32.6   |   6.1    |   8.2    |   30.6  
- QoQ%:  |  -33.7   |  181.2   |  -81.4   |   35.1   |  272.8  
- QOPM%: |   0.0    |   40.3   |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   2.2   
- QPFT:  |   -5.2   |  -14.4   |   -6.6   |   -9.5   |   0.7   
- PQoQ%: |  -129.6  |  174.8   |  -54.4   |   45.1   |  -107.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 14.4		100.6		20.2		73.0		43.5		51.5
+SQoQ%: 	62.5		596.1		-79.9		261.9		-40.5		118.4
+YOPM%: 	67.7		90.9		0.0		45.3		0.0
+YNPM%: 	80.7		68.8		0.0		6.0		0.0
+YPROFIT: 11.7		69.2		-53.6		4.4		-19.6		-18.8
+PQoQ%: 	871.7		493.3		-177.5		-108.2		-545.8		95.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 30.6		4.0		19.5		19.0		13.0
+QoQ%: 	272.8		-86.9		388.5		-2.6		-31.8
+QOPM%: 	0.0		0.0		48.4		48.2		0.0
+QNPM%: 	2.2		0.0		54.5		57.9		0.0
+QPFT: 	0.7		-6.5		10.6		11.0		-40.4
+PQoQ%: 	-107.0		-1064.2		-264.6		3.4		-467.8
+
+
 
 ***PROS***
-- Last 3QSALES is about 62% YSales
-- Double QSales and QProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 4.4
+A DEBT-Free Company
+- Last 3QSALES is about 118% YSales
 - YProfits and YSales DOUBLED in Mar2024
-- YProfits and YSales DOUBLED in Mar2022
 
+***CONS***
+- NEGATIVE YProfit : -19.6

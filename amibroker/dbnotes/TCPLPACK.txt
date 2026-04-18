@@ -1,36 +1,43 @@
-CODES
-523301	TCPLPACK	
-SECTOR : Packaging
+CODES	523301	TCPLPACK	
+FULLNAME : TCPL Packaging Ltd
+SECTOR : Industrial Products
 INDUSTRY : Packaging
-BestQ Dec 2024
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  889.8   |  903.8   |  1085.7  |  1474.9  |  1541.4  |     1347.9   
- SQoQ%:  |   nan    |   1.6    |   20.1   |   35.8   |   4.5    |      87.4    
- YOPM%:  |   14.2   |   14.8   |   14.3   |   16.0   |   16.3   |              
- YNPM%:  |   4.1    |   3.7    |   4.4    |   7.5    |   6.6    |              
-YPROFIT: |   36.5   |   33.5   |   47.4   |  111.1   |  101.4   |     104.9    
- PQoQ%:  |   nan    |   -8.4   |   41.5   |  134.6   |   -8.7   |     103.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  363.6   |  400.5   |  405.6   |  462.6   |  479.7  
- QoQ%:  |  -10.4   |   10.2   |   1.3    |   14.1   |   3.7   
- QOPM%: |   15.0   |   17.6   |   17.6   |   16.6   |   14.7  
- QNPM%: |   5.3    |   7.2    |   7.8    |   7.7    |   7.9   
- QPFT:  |   19.2   |   29.0   |   31.7   |   35.5   |   37.7  
- PQoQ%: |  -32.3   |   50.9   |   9.3    |   12.0   |   6.2   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 903.8		1085.7		1474.9		1541.4		1770.3		1356.4
+SQoQ%: 	1.6		20.1		35.8		4.5		14.8		76.6
+YOPM%: 	14.8		14.3		16.0		16.3		16.6
+YNPM%: 	3.7		4.4		7.5		6.4		8.1
+YPROFIT: 33.5		47.4		111.1		99.4		143.0		76.0
+PQoQ%: 	-8.4		41.5		134.6		-10.5		43.9		53.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 479.7		422.4		424.7		460.5		471.2
+QoQ%: 	3.7		-11.9		0.5		8.4		2.3
+QOPM%: 	14.7		17.1		17.1		15.1		17.2
+QNPM%: 	7.9		9.0		5.3		6.2		5.3
+QPFT: 	37.7		38.0		22.3		28.7		25.0
+PQoQ%: 	6.2		0.8		-41.3		28.7		-12.8
+
+
 
 ***PROS***
-- Last 3QSALES is about 87% YSales
-- Last 3QPROFIT is about 103% of YProfit
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 53% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-1541.40cr, QoQ 4.50% & YoY 73.23% SALES;
-251.60cr, QoQ 6.60% & YoY 99.68% OPERATING PROFIT;
-101.40cr, QoQ -8.70% & YoY 177.81% NET PROFIT;
-OPM %: 16.30% vs 16.0%
-NPM %: 6.60% vs 7.5%
+ 31-Mar-2025 #Result
+1770.30cr, QoQ 14.80% & YoY 95.87% SALES;
+293.90cr, QoQ 16.80% & YoY 120.15% OPERATING PROFIT;
+143.00cr, QoQ 43.90% & YoY 326.87% NET PROFIT;
+OPM %: 16.60% vs 16.3%
+NPM %: 8.10% vs 6.4%
 

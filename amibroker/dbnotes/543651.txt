@@ -1,24 +1,23 @@
-CODE	NAME
-543651 
+CODES	543651	
+FULLNAME : DAPS Advertising Ltd
+SECTOR : Media
+INDUSTRY : Advertising & Media Agencies
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-YSD YPD 2022
-
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-A DEBT-Free Company
+A DEBT-Free Company for the last 2 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- YProfits and YSales DOUBLED in Mar2022
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-20.40cr, QoQ -31.70% & YoY 0.99% SALES;
-0.80cr, QoQ -79.00% & YoY 0.00% OPERATING PROFIT;
-1.10cr, QoQ -44.90% & YoY 175.00% NET PROFIT;
-OPM %: 3.70% vs 12.1%
-NPM %: 5.40% vs 6.6%
+ 31-Mar-2025 #Result
+19.10cr, QoQ -6.40% & YoY 141.77% SALES;
+1.40cr, QoQ 80.30% & YoY 366.67% OPERATING PROFIT;
+1.20cr, QoQ 9.20% & YoY 1100.00% NET PROFIT;
+OPM %: 7.20% vs 3.7%
+NPM %: 6.20% vs 5.4%
 

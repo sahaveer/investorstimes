@@ -1,29 +1,36 @@
-CODE	NAME
-531259 
+CODES	531259	
+FULLNAME : Esha Media Research Ltd
+SECTOR : Media
+INDUSTRY : Advertising & Media Agencies
+PRODUCT DEMAND
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-LYPD PM 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.2		0.2		0.1		0.1		3.2		1.7
+SQoQ%: 	70.0		17.6		-60.0		75.0		2157.1		53.1
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	29.4		0.0		0.0		0.0		0.0
+YPROFIT: 0.0		-0.2		-0.2		-0.1		-3.6		-1.3
+PQoQ%: 	-113.5		-440.0		5.9		-50.0		3933.3		36.1
 
-***CONS***
-- NEGATIVE YProfit : -0.1
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.1    |   0.2    |   0.2    |   0.1    |   0.1    |      2.8     
- SQoQ%:  |   25.0   |   70.0   |   17.6   |  -60.0   |   75.0   |     2800.0   
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   29.4   |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -0.4   |   0.0    |   -0.2   |   -0.2   |   -0.1   |      -3.1    
- PQoQ%:  |  -92.9   |  -113.5  |  -440.0  |   5.9    |  -50.0   |     3100.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   1.2    |   0.4    |   1.2   
- QoQ%:  |   33.3   |  -25.0   |  3733.3  |  -67.0   |  218.4  
- QOPM%: |   25.0   |   0.0    |   31.3   |   0.0    |   15.7  
- QNPM%: |   0.0    |   0.0    |   30.4   |   0.0    |   14.9  
- QPFT:  |   0.0    |   -0.1   |   0.4    |   -3.7   |   0.2   
- PQoQ%: |  -100.0  |   -inf   |  -537.5  | -1165.7  |  -104.8 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1.2		0.4		0.5		0.7		0.5
+QoQ%: 	218.4		-65.3		28.6		29.6		-27.1
+QOPM%: 	15.7		0.0		0.0		0.0		0.0
+QNPM%: 	14.9		0.0		0.0		0.0		0.0
+QPFT: 	0.2		-0.4		-0.4		-0.3		-0.6
+PQoQ%: 	-104.8		-333.3		-2.4		-17.1		70.6
+
+
 
 ***PROS***
-- Last 3QSALES is about 2800% YSales
-- LastYr YProfits Doubled and maintained in Mar2024
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 53% YSales
+
+YSALES in Mar-2025 is at 3.2 showing a QoQ_growth of 2157.1%. The YNETPROFIT grew by 3933.3% to -3.6
+
+***CONS***
+- NEGATIVE YProfit : -3.6

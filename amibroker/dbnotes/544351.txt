@@ -1,11 +1,11 @@
-CODE	NAME
-544351 
-
+CODES	544351	
+FULLNAME : Malpani Pipes & Fittings Ltd
 SECTOR : Plastic products
 INDUSTRY : Plastics Products
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

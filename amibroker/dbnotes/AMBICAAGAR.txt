@@ -1,12 +1,14 @@
-CODES
-532335	AMBICAAGAR	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	532335	AMBICAAGAR	
+FULLNAME : Ambica Agarbathies Aroma & Industries Ltd
+SECTOR : Household Products
+INDUSTRY : Household Products
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

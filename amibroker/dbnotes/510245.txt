@@ -1,40 +1,44 @@
-CODE	NAME
-510245 
+CODES	510245	
+FULLNAME : Swasti Vinayaka Synthetics Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+BestQ Dec 2025
 
-SECTOR : Textiles
-INDUSTRY : Textiles - Spinning - Synthetic / Blended
-PRODUCT DEMAND
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 14.3		20.4		26.8		30.7		38.4		25.1
+SQoQ%: 	-31.8		42.6		31.8		14.3		25.1		65.4
+YOPM%: 	19.5		13.5		11.8		10.5		10.9
+YNPM%: 	10.8		8.6		7.4		6.5		6.3
+YPROFIT: 1.5		1.8		2.0		2.0		2.4		1.8
+PQoQ%: 	7.7		13.6		13.7		-0.5		22.2		75.0
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   20.9   |   14.3   |   20.4   |   26.8   |   30.7   |      27.7    
- SQoQ%:  |   9.7    |  -31.8   |   42.6   |   31.8   |   14.3   |      90.2    
- YOPM%:  |   12.1   |   19.5   |   13.5   |   11.8   |   10.5   |              
- YNPM%:  |   6.8    |   10.8   |   8.6    |   7.4    |   6.5    |              
-YPROFIT: |   1.4    |   1.5    |   1.8    |   2.0    |   2.0    |      1.9     
- PQoQ%:  |  -43.3   |   7.7    |   13.6   |   13.7   |   -0.5   |      95.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   10.8   |   6.9    |   9.5    |   8.4    |   9.8   
- QoQ%:  |   52.3   |  -35.8   |   37.4   |  -11.8   |   16.9  
- QOPM%: |   8.6    |   13.1   |   10.3   |   10.6   |   8.7   
- QNPM%: |   6.2    |   3.5    |   6.4    |   6.9    |   7.3   
- QPFT:  |   0.7    |   0.2    |   0.6    |   0.6    |   0.7   
- PQoQ%: |   17.5   |  -64.2   |  154.2   |   -4.9   |   24.1  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 9.8		10.6		7.4		7.9		9.8
+QoQ%: 	16.9		8.2		-30.3		6.2		25.0
+QOPM%: 	8.7		13.6		6.5		0.0		15.0
+QNPM%: 	7.3		4.8		3.4		4.6		12.1
+QPFT: 	0.7		0.5		0.2		0.4		1.2
+PQoQ%: 	24.1		-29.2		-51.0		44.0		230.6
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.8
-- Last 3QSALES is about 90% YSales
-- Last 3QPROFIT is about 95% of YProfit
+- Last 3QSALES is about 65% YSales
+- Last 3QPROFIT is about 75% of YProfit
+
+YSALES in Mar-2025 is at 38.4 showing a QoQ_growth of 25.1%. The YNETPROFIT grew by 22.2% to 2.4
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-30.70cr, QoQ 14.30% & YoY 46.89% SALES;
-3.20cr, QoQ 1.60% & YoY 28.00% OPERATING PROFIT;
-2.00cr, QoQ -0.50% & YoY 42.86% NET PROFIT;
-OPM %: 10.50% vs 11.8%
-NPM %: 6.50% vs 7.4%
+ 31-Mar-2025 #Result
+38.40cr, QoQ 25.10% & YoY 168.53% SALES;
+4.20cr, QoQ 29.50% & YoY 50.00% OPERATING PROFIT;
+2.40cr, QoQ 22.20% & YoY 60.00% NET PROFIT;
+OPM %: 10.90% vs 10.5%
+NPM %: 6.30% vs 6.5%
 

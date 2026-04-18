@@ -1,27 +1,35 @@
-CODE	NAME
-531909 
-
+CODES	531909	
+FULLNAME : Croissance Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
 YSD YPD 2023
 
-***CONS***
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.1		0.2		2.6		0.7		0.1		0.0
+SQoQ%: 	nan		233.3		1200.0		-74.6		-84.8		0.0
+YOPM%: 	50.0		25.0		22.7		12.1		0.0
+YNPM%: 	33.3		65.0		18.8		10.6		0.0
+YPROFIT: 0.0		0.1		0.5		0.1		0.0		0.0
+PQoQ%: 	nan		550.0		276.9		-85.7		-100.0		nan
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		inf		0.0		0.0		0.0
+QNPM%: 	0.0		inf		inf		inf		inf
+QPFT: 	-0.3		0.4		0.0		0.0		0.0
+PQoQ%: 	68.8		-255.6		-97.6		100.0		0.0
 
 
 
 ***PROS***
-A DEBT-Free Company
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+A DEBT-Free Company for the last 2 yrs
 - YProfits and YSales DOUBLED in Mar2023
 
 
-Yearly 
- 31-Mar-2024 #Result
-0.70cr, QoQ -74.60% SALES;
-0.10cr, QoQ -86.40% OPERATING PROFIT;
-0.10cr, QoQ -85.70% NET PROFIT;
-OPM %: 12.10% vs 22.7%
-NPM %: 10.60% vs 18.8%
-
+***CONS***
+- NO PRODUCT DEMAND

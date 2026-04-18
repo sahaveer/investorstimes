@@ -1,38 +1,45 @@
-CODE	NAME
-531080 
-
+CODES	531080	
+FULLNAME : Shri Krishna Devcon Ltd
 SECTOR : Realty
-INDUSTRY : Construction
-BestQ Dec 2024
+INDUSTRY : Residential, Commercial Projects
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   17.0   |   20.0   |   20.2   |   31.3   |   25.4   |      16.6    
- SQoQ%:  |   -0.2   |   17.9   |   0.8    |   55.2   |  -18.6   |      65.4    
- YOPM%:  |   29.1   |   35.9   |   26.6   |   28.3   |   36.9   |              
- YNPM%:  |   7.1    |   17.7   |   13.7   |   15.4   |   17.5   |              
-YPROFIT: |   1.2    |   3.5    |   2.8    |   4.8    |   4.4    |      2.5     
- PQoQ%:  |  -37.5   |  195.0   |  -21.8   |   74.0   |   -7.7   |      56.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   3.8    |   6.7    |   6.7    |   4.0    |   5.9   
- QoQ%:  |  -54.0   |   74.0   |   -0.4   |  -40.3   |   48.0  
- QOPM%: |   9.4    |   44.0   |   37.2   |   23.1   |   34.5  
- QNPM%: |   0.0    |   19.7   |   19.5   |   3.8    |   16.8  
- QPFT:  |   -0.3   |   1.3    |   1.3    |   0.2    |   1.0   
- PQoQ%: |  -114.7  |  -540.0  |   -1.5   |  -88.5   |  560.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 20.0		20.2		31.3		25.4		26.9		15.2
+SQoQ%: 	17.9		0.8		55.2		-18.6		5.7		56.5
+YOPM%: 	35.9		26.6		28.3		36.9		33.4
+YNPM%: 	17.7		13.7		15.4		17.5		18.3
+YPROFIT: 3.5		2.8		4.8		4.4		4.9		3.4
+PQoQ%: 	195.0		-21.8		74.0		-7.7		10.6		69.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 5.9		10.4		4.8		4.3		6.1
+QoQ%: 	48.0		75.9		-53.3		-11.0		41.1
+QOPM%: 	34.5		34.4		51.0		35.3		39.3
+QNPM%: 	16.8		24.0		29.3		15.8		21.5
+QPFT: 	1.0		2.5		1.4		0.7		1.3
+PQoQ%: 	560.0		151.5		-43.0		-52.1		92.6
+
+
 
 ***PROS***
-- Last 3QSALES is about 65% YSales
-- Last 3QPROFIT is about 57% of YProfit
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 57% YSales
+- Last 3QPROFIT is about 69% of YProfit
 
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-25.40cr, QoQ -18.60% & YoY 49.41% SALES;
-9.40cr, QoQ 6.10% & YoY 91.84% OPERATING PROFIT;
-4.40cr, QoQ -7.70% & YoY 266.67% NET PROFIT;
-OPM %: 36.90% vs 28.3%
-NPM %: 17.50% vs 15.4%
+ 31-Mar-2025 #Result
+26.90cr, QoQ 5.70% & YoY 34.50% SALES;
+9.00cr, QoQ -4.50% & YoY 25.00% OPERATING PROFIT;
+4.90cr, QoQ 10.60% & YoY 40.00% NET PROFIT;
+OPM %: 33.40% vs 36.9%
+NPM %: 18.30% vs 17.5%
 

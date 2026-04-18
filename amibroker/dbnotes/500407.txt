@@ -1,33 +1,41 @@
-CODES
-500407	SWARAJENG	
-SECTOR : 
-INDUSTRY : 
+CODES	500407	SWARAJENG	
+FULLNAME : Swaraj Engines Ltd
+SECTOR : Industrial Products
+INDUSTRY : Compressors, Pumps & Diesel Engines
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  986.6   |  1138.2  |  1421.8  |  1419.2  |  1681.9 
- SQoQ%:  |   27.6   |   15.4   |   24.9   |   -0.2   |   18.5  
- YOPM%:  |   13.8   |   13.7   |   13.1   |   13.3   |   13.5  
- YNPM%:  |   9.4    |   9.6    |   9.4    |   9.7    |   9.9   
-YPROFIT: |   92.5   |  109.5   |  133.6   |  137.9   |  166.0  
- PQoQ%:  |   30.3   |   18.3   |   22.1   |   3.2    |   20.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  351.0   |  418.0   |  464.2   |  345.5   |  454.2  
- QoQ%:  |   25.5   |   19.1   |   11.1   |  -25.6   |   31.5  
- QOPM%: |   13.7   |   13.9   |   13.5   |   12.8   |   13.6  
- QNPM%: |   10.0   |   10.3   |   9.8    |   9.2    |   10.0  
- QPFT:  |   35.2   |   43.2   |   45.4   |   32.0   |   45.4  
- PQoQ%: |   46.0   |   22.8   |   5.2    |  -29.7   |   42.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 986.6		1138.2		1421.8		1419.2		1681.9		1461.3
+SQoQ%: 	27.6		15.4		24.9		-0.2		18.5		86.9
+YOPM%: 	13.8		13.7		13.1		13.3		13.5
+YNPM%: 	9.4		9.6		9.4		9.7		9.9
+YPROFIT: 92.5		109.5		133.6		137.9		166.0		141.8
+PQoQ%: 	30.3		18.3		22.1		3.2		20.4		85.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 345.5		454.2		484.1		504.0		473.2
+QoQ%: 	-25.6		31.5		6.6		4.1		-6.1
+QOPM%: 	12.8		13.6		13.9		13.5		13.1
+QNPM%: 	9.2		10.0		10.3		9.9		8.9
+QPFT: 	32.0		45.4		50.0		49.7		42.1
+PQoQ%: 	-29.7		42.2		10.0		-0.6		-15.3
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 37.9%
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.6
+ROCE in Mar2025 is at 37.7%
+- Last 3QSALES is about 87% YSales
+- Last 3QPROFIT is about 85% of YProfit
 
 YSALES in Mar-2025 is at 1681.9 showing a QoQ_growth of 18.5%. The YNETPROFIT grew by 20.4% to 166.0
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

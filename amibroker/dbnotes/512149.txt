@@ -1,44 +1,48 @@
-CODE	NAME
-512149 
-
-SECTOR : Trading
-INDUSTRY : Trading
-BestQ Dec 2024
+CODES	512149	
+FULLNAME : Avance Technologies Ltd
+SECTOR : IT - Software
+INDUSTRY : Software Products
+PRODUCT DEMAND
+BestQ Dec 2025
 YSD YPD 2024
-LYPD PM 2024
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2016 | Mar-2017 | Mar-2018 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  101.6   |   89.9   |   29.2   |   30.5   |  144.3   |     123.5    
- SQoQ%:  |   nan    |  -11.5   |  -67.5   |   4.5    |  372.6   |      85.6    
- YOPM%:  |   0.0    |   0.2    |   0.7    |   1.6    |   1.7    |              
- YNPM%:  |   0.0    |   0.2    |   0.4    |   1.3    |   3.4    |              
-YPROFIT: |   -1.1   |   0.2    |   0.1    |   0.4    |   4.9    |      6.6     
- PQoQ%:  |   nan    |  -119.1  |  -42.9   |  241.7   |  1090.2  |     134.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   19.0   |  105.8   |   46.9   |   44.2   |   32.4  
- QoQ%:  |   12.1   |  456.0   |  -55.7   |   -5.7   |  -26.8  
- QOPM%: |   10.1   |   0.0    |   4.7    |   6.2    |   4.8   
- QNPM%: |   10.1   |   2.0    |   4.7    |   6.2    |   5.4   
- QPFT:  |   1.9    |   2.1    |   2.2    |   2.7    |   1.7   
- PQoQ%: |  178.3   |   8.9    |   4.8    |   24.7   |  -36.3  
+***YEARLY***
+YPNL: 	Mar-2017	Mar-2018	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 89.9		29.2		30.5		144.3		171.8		128.3
+SQoQ%: 	-11.5		-67.5		4.5		372.6		19.0		74.7
+YOPM%: 	0.2		0.7		1.6		1.7		3.0
+YNPM%: 	0.2		0.4		1.3		3.4		3.1
+YPROFIT: 0.2		0.1		0.4		4.9		5.3		2.8
+PQoQ%: 	-119.1		-42.9		241.7		1090.2		8.6		52.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 32.4		48.3		37.4		41.4		49.5
+QoQ%: 	-26.8		49.2		-22.5		10.6		19.6
+QOPM%: 	4.8		0.0		1.8		0.0		2.3
+QNPM%: 	5.4		0.0		4.3		0.0		4.1
+QPFT: 	1.7		-1.4		1.6		-0.8		2.0
+PQoQ%: 	-36.3		-178.2		-219.1		-147.5		-361.0
+
+
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
-- Last 3QSALES is about 86% YSales
-- Last 3QPROFIT is about 135% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 53% of YProfit
 - YProfits and YSales DOUBLED in Mar2024
-- LastYr YProfits Doubled and maintained in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
 
-YSALES in Mar-2024 is at 144.3 showing a QoQ_growth of 372.6%. The YNETPROFIT grew by 1090.2% to 4.9
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-144.30cr, QoQ 372.60% & YoY 42.03% SALES;
-2.50cr, QoQ 410.20% & YoY -inf% OPERATING PROFIT;
-4.90cr, QoQ 1090.20% & YoY -545.45% NET PROFIT;
-OPM %: 1.70% vs 1.6%
-NPM %: 3.40% vs 1.3%
+ 31-Mar-2025 #Result
+171.80cr, QoQ 19.00% & YoY 91.10% SALES;
+5.20cr, QoQ 106.40% & YoY 2500.00% OPERATING PROFIT;
+5.30cr, QoQ 8.60% & YoY 2550.00% NET PROFIT;
+OPM %: 3.00% vs 1.7%
+NPM %: 3.10% vs 3.4%
 

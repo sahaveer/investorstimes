@@ -1,30 +1,38 @@
-CODES
-500238	WHIRLPOOL	
+CODES	500238	WHIRLPOOL	
+FULLNAME : Whirlpool of India Ltd
 SECTOR : Consumer Durables
-INDUSTRY : Domestic Appliances
+INDUSTRY : Household Appliances
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  5899.9  |  6196.6  |  6667.6  |  6829.8  |  7919.4 
- SQoQ%:  |   -1.5   |   5.0    |   7.6    |   2.4    |   16.0  
- YOPM%:  |   8.8    |   6.7    |   5.6    |   5.9    |   6.9   
- YNPM%:  |   6.0    |   9.1    |   3.3    |   3.2    |   4.5   
-YPROFIT: |  351.8   |  566.4   |  219.0   |  217.0   |  359.0  
- PQoQ%:  |  -28.2   |   61.0   |  -61.3   |   -0.9   |   65.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1734.0  |  2496.9  |  1713.0  |  1704.8  |  2004.7 
- QoQ%:  |   12.9   |   44.0   |  -31.4   |   -0.5   |   17.6  
- QOPM%: |   8.3    |   8.4    |   5.1    |   4.1    |   9.1   
- QNPM%: |   4.5    |   5.8    |   3.0    |   2.6    |   5.9   
- QPFT:  |   77.6   |  143.8   |   52.0   |   44.0   |  119.2  
- PQoQ%: |  177.2   |   85.4   |  -63.8   |  -15.5   |  171.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 5899.9		6196.6		6667.6		6829.8		7919.4		5853.4
+SQoQ%: 	-1.5		5.0		7.6		2.4		16.0		73.9
+YOPM%: 	8.8		6.7		5.6		5.9		6.9
+YNPM%: 	6.0		9.1		3.3		3.2		4.5
+YPROFIT: 351.8		566.4		219.0		217.0		359.0		213.5
+PQoQ%: 	-28.2		61.0		-61.3		-0.9		65.4		59.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1704.8		2004.7		2432.3		1647.3		1773.8
+QoQ%: 	-0.5		17.6		21.3		-32.3		7.7
+QOPM%: 	4.1		9.1		8.7		3.5		5.1
+QNPM%: 	2.6		5.9		6.0		2.5		1.5
+QPFT: 	44.0		119.2		145.7		41.3		26.5
+PQoQ%: 	-15.5		171.2		22.3		-71.6		-35.9
+
+
 
 ***PROS***
-A DEBT-Free Company
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 59% of YProfit
 
 YSALES in Mar-2025 is at 7919.4 showing a QoQ_growth of 16.0%. The YNETPROFIT grew by 65.4% to 359.0
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

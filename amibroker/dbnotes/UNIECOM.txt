@@ -1,12 +1,14 @@
-CODES
-544227	UNIECOM	
+CODES	544227	UNIECOM	
+FULLNAME : Unicommerce eSolutions Ltd
 SECTOR : IT - Software
 INDUSTRY : Computers - Software - Medium / Small
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

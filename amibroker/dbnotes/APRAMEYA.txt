@@ -1,12 +1,11 @@
-CODES
-APRAMEYA	
+CODES	APRAMEYA	
+FULLNAME : Aprameya Engineering Ltd
 SECTOR : Healthcare
 INDUSTRY : Healthcare
 PRODUCT DEMAND
 YSD YPD 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -14,6 +13,8 @@ YSD YPD 2025
 - YProfits and YSales DOUBLED in Mar2025
 
 YSALES in Mar-2025 is at 135.7 showing a QoQ_growth of 108.3%. The YNETPROFIT grew by 365.9% to 16.1
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

@@ -1,32 +1,45 @@
-CODE	NAME
-526574 
+CODES	526574	
+FULLNAME : Enterprise International Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+LYPD PM 2025
 
-SECTOR : Trading
-INDUSTRY : Trading
-PRODUCT DEMAND
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 7.2		8.6		6.6		5.2		6.5		4.1
+SQoQ%: 	-68.0		19.9		-23.8		-19.8		23.8		63.1
+YOPM%: 	3.3		0.0		0.0		0.0		0.0
+YNPM%: 	9.6		1.6		0.6		2.9		7.7
+YPROFIT: 0.7		0.1		0.0		0.2		0.5		0.0
+PQoQ%: 	4.5		-79.7		-71.4		275.0		233.3		0.0
 
-***CONS***
-  YPNL   |   :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+-------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  22.4 |   7.2    |   8.6    |   6.6    |   5.2    |   5.8    |              
- SQoQ%:  | -56.9 |  -68.0   |   19.9   |  -23.8   |  -19.8   |  111.5   |              
- YOPM%:  |  1.6  |   3.3    |   0.0    |   0.0    |   0.0    |          |              
- YNPM%:  |  2.9  |   9.6    |   1.6    |   0.6    |   2.9    |          |              
-YPROFIT: |  0.7  |   0.7    |   0.1    |   0.0    |   0.2    |   0.6    |              
- PQoQ%:  |  26.9 |   4.5    |  -79.7   |  -71.4   |  275.0   |  300.0   |              
-  QPNL  |  :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+------+----------+----------+----------+----------+---------
-QSALES: | 2.0  |   0.0    |   2.1    |   1.7    |   2.0    |         
- QoQ%:  | 61.8 |  -100.0  |   inf    |  -16.7   |   14.4   |         
- QOPM%: | 0.0  |   0.0    |   0.0    |   0.0    |   0.0    |         
- QNPM%: | 2.5  |   inf    |   0.0    |   10.3   |   19.1   |         
- QPFT:  | 0.0  |   0.0    |   -0.0   |   0.2    |   0.4    |         
- PQoQ%: | 25.0 |  -20.0   |  -125.0  | -1900.0  |  111.1   |         
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2.0		0.7		2.3		0.0		1.8
+QoQ%: 	14.4		-65.8		241.2		-99.6		17700.0
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	19.1		0.0		0.0		900.0		0.0
+QPFT: 	0.4		-0.0		-0.0		0.1		-0.1
+PQoQ%: 	111.1		-110.5		25.0		-280.0		-211.1
+
+
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 112% YSales
-- Last 3QPROFIT is about 300% of YProfit
+DEBT-Free Company for the last 3 yrs
+- Last 3QSALES is about 63% YSales
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 6.5 showing a QoQ_growth of 23.8%. The YNETPROFIT grew by 233.3% to 0.5
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+6.50cr, QoQ 23.80% & YoY -9.72% SALES;
+-0.40cr, QoQ 19.40% & YoY -300.00% OPERATING PROFIT;
+0.50cr, QoQ 233.30% & YoY -28.57% NET PROFIT;
+OPM %: 0.00% vs 0.0%
+NPM %: 7.70% vs 2.9%
+

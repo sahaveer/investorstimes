@@ -1,41 +1,46 @@
-CODE	NAME
-517372 
-
-SECTOR : Castings, Forgings & Fastners
+CODES	517372	
+FULLNAME : Gujarat Intrux Ltd
+SECTOR : Industrial Products
 INDUSTRY : Castings & Forgings
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   47.9   |   33.7   |   42.5   |   51.4   |   57.2   |      48.4    
- SQoQ%:  |   20.4   |  -29.6   |   26.0   |   21.1   |   11.2   |      84.6    
- YOPM%:  |   14.2   |   16.8   |   11.9   |   16.2   |   17.7   |              
- YNPM%:  |   10.0   |   11.5   |   7.2    |   11.2   |   13.0   |              
-YPROFIT: |   4.8    |   3.9    |   3.0    |   5.7    |   7.4    |      8.0     
- PQoQ%:  |   8.4    |  -19.0   |  -21.2   |   88.2   |   29.1   |     108.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   14.1   |   14.9   |   15.6   |   16.4   |   16.4  
- QoQ%:  |   -8.3   |   5.7    |   4.8    |   5.2    |   0.3   
- QOPM%: |   17.2   |   15.7   |   21.7   |   21.1   |   22.0  
- QNPM%: |   11.7   |   12.6   |   16.7   |   16.5   |   16.5  
- QPFT:  |   1.6    |   1.9    |   2.6    |   2.7    |   2.7   
- PQoQ%: |  -29.8   |   13.3   |   39.0   |   3.8    |   0.4   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 33.7		42.5		51.4		57.2		65.3		49.8
+SQoQ%: 	-29.6		26.0		21.1		11.2		14.2		76.3
+YOPM%: 	16.8		11.9		16.2		17.7		21.3
+YNPM%: 	11.5		7.2		11.2		13.0		16.2
+YPROFIT: 3.9		3.0		5.7		7.4		10.6		8.4
+PQoQ%: 	-19.0		-21.2		88.2		29.1		42.9		79.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 16.4		16.9		13.0		16.4		20.4
+QoQ%: 	0.3		2.7		-22.9		25.6		24.9
+QOPM%: 	22.0		19.8		18.4		21.4		24.3
+QNPM%: 	16.5		15.3		15.0		16.1		18.3
+QPFT: 	2.7		2.6		2.0		2.6		3.8
+PQoQ%: 	0.4		-4.8		-24.4		34.9		42.6
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 85% YSales
-- Last 3QPROFIT is about 108% of YProfit
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 79% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-57.20cr, QoQ 11.20% & YoY 19.42% SALES;
-10.20cr, QoQ 22.10% & YoY 50.00% OPERATING PROFIT;
-7.40cr, QoQ 29.10% & YoY 54.17% NET PROFIT;
-OPM %: 17.70% vs 16.2%
-NPM %: 13.00% vs 11.2%
+ 31-Mar-2025 #Result
+65.30cr, QoQ 14.20% & YoY 93.77% SALES;
+13.90cr, QoQ 37.20% & YoY 143.86% OPERATING PROFIT;
+10.60cr, QoQ 42.90% & YoY 171.79% NET PROFIT;
+OPM %: 21.30% vs 17.7%
+NPM %: 16.20% vs 13.0%
 

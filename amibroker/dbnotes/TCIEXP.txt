@@ -1,12 +1,14 @@
-CODES
-540212	TCIEXP	
-SECTOR : Logistics
-INDUSTRY : Miscellaneous
+CODES	540212	TCIEXP	
+FULLNAME : TCI Express Ltd
+SECTOR : Transport Services
+INDUSTRY : Logistics Solution Provider
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

@@ -1,27 +1,21 @@
-CODES
-SONAMAC	
-SECTOR : Engineering
-INDUSTRY : Engineering
-LYPD PM 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+CODES	SONAMAC	
+FULLNAME : Sona Machinery Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-A DEBT-Free Company
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 16.3%
-- LastYr YProfits Doubled and maintained in Mar2024
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 17.8% while the Profit QoQ_growth is much better than Sales itself at 36.3%
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-95.20cr, QoQ 17.80% SALES;
-15.20cr, QoQ 28.20% OPERATING PROFIT;
-10.50cr, QoQ 36.30% NET PROFIT;
-OPM %: 15.90% vs 14.6%
-NPM %: 11.00% vs 9.5%
+ 31-Mar-2025 #Result
+94.90cr, QoQ -0.40% & YoY 1481.67% SALES;
+6.30cr, QoQ -58.30% & YoY 1475.00% OPERATING PROFIT;
+3.80cr, QoQ -63.20% & YoY 1166.67% NET PROFIT;
+OPM %: 6.60% vs 15.8%
+NPM %: 4.10% vs 11.0%
 

@@ -1,38 +1,43 @@
-CODES
-590051	SAKSOFT	
+CODES	590051	SAKSOFT	
+FULLNAME : Saksoft Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
-BestQ Dec 2024
+INDUSTRY : Computers - Software & Consulting
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  358.8   |  385.8   |  480.4   |  665.6   |  761.6   |     643.1    
- SQoQ%:  |   0.2    |   7.5    |   24.5   |   38.5   |   14.4   |      84.4    
- YOPM%:  |   17.0   |   16.7   |   16.4   |   16.2   |   17.9   |              
- YNPM%:  |   10.7   |   11.8   |   13.2   |   12.3   |   12.6   |              
-YPROFIT: |   38.4   |   45.4   |   63.3   |   82.0   |   96.2   |      78.8    
- PQoQ%:  |   5.5    |   18.2   |   39.2   |   29.6   |   17.3   |      81.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  192.8   |  194.9   |  201.0   |  215.3   |  226.8  
- QoQ%:  |   1.3    |   1.1    |   3.1    |   7.1    |   5.4   
- QOPM%: |   17.1   |   17.1   |   17.4   |   17.1   |   16.8  
- QNPM%: |   11.7   |   11.9   |   12.7   |   12.2   |   11.9  
- QPFT:  |   22.5   |   23.2   |   25.6   |   26.2   |   27.0  
- PQoQ%: |  -10.8   |   2.9    |   10.3   |   2.2    |   3.3   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 385.8		480.4		665.6		761.6		883.0		758.4
+SQoQ%: 	7.5		24.5		38.5		14.4		15.9		85.9
+YOPM%: 	16.7		16.4		16.2		17.9		16.6
+YNPM%: 	11.8		13.2		12.3		12.6		12.3
+YPROFIT: 45.4		63.3		82.0		96.2		108.8		97.4
+PQoQ%: 	18.2		39.2		29.6		17.3		13.1		89.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 226.8		239.9		249.1		258.5		250.8
+QoQ%: 	5.4		5.8		3.8		3.8		-3.0
+QOPM%: 	16.8		15.2		18.4		19.6		18.1
+QNPM%: 	11.9		12.5		13.0		13.9		11.6
+QPFT: 	27.0		30.0		32.4		36.0		29.0
+PQoQ%: 	3.3		11.1		7.7		11.2		-19.3
+
+
 
 ***PROS***
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 17.9%
-- Last 3QSALES is about 84% YSales
-- Last 3QPROFIT is about 82% of YProfit
+- Last 3QSALES is about 86% YSales
+- Last 3QPROFIT is about 90% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-761.60cr, QoQ 14.40% & YoY 112.26% SALES;
-136.70cr, QoQ 26.40% & YoY 123.73% OPERATING PROFIT;
-96.20cr, QoQ 17.30% & YoY 150.52% NET PROFIT;
-OPM %: 17.90% vs 16.2%
-NPM %: 12.60% vs 12.3%
+ 31-Mar-2025 #Result
+883.00cr, QoQ 15.90% & YoY 128.88% SALES;
+146.30cr, QoQ 7.00% & YoY 127.17% OPERATING PROFIT;
+108.80cr, QoQ 13.10% & YoY 139.65% NET PROFIT;
+OPM %: 16.60% vs 17.9%
+NPM %: 12.30% vs 12.6%
 

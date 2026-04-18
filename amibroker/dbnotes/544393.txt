@@ -1,11 +1,11 @@
-CODE	NAME
-544393 
-
+CODES	544393	
+FULLNAME : Infonative Solutions Ltd
 SECTOR : Miscellaneous
 INDUSTRY : Miscellaneous
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

@@ -1,34 +1,43 @@
-CODES
-535754	ORIENTCEM	
-SECTOR : 
-INDUSTRY : 
+CODES	535754	ORIENTCEM	
+FULLNAME : Orient Cement Ltd
+SECTOR : Cement & Cement Products
+INDUSTRY : Cement & Cement Products
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2324.1  |  2725.4  |  2937.5  |  3185.1  |  2708.8 
- SQoQ%:  |   -4.0   |   17.3   |   7.8    |   8.4    |  -15.0  
- YOPM%:  |   23.7   |   21.7   |   12.4   |   14.1   |   11.1  
- YNPM%:  |   9.2    |   9.7    |   4.2    |   5.5    |   3.4   
-YPROFIT: |  214.2   |  263.2   |  122.8   |  174.8   |   91.2  
- PQoQ%:  |  147.4   |   22.9   |  -53.3   |   42.4   |  -47.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  888.0   |  696.3   |  544.0   |  643.4   |  825.2  
- QoQ%:  |   18.2   |  -21.6   |  -21.9   |   18.3   |   28.3  
- QOPM%: |   16.7   |   13.8   |   8.1    |   9.0    |   12.5  
- QNPM%: |   7.7    |   5.3    |   0.4    |   1.6    |   5.1   
- QPFT:  |   68.2   |   36.7   |   2.3    |   10.1   |   42.1  
- PQoQ%: |   51.6   |  -46.2   |  -93.7   |  337.1   |  314.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2324.1		2725.4		2937.5		3185.1		2708.8		2145.9
+SQoQ%: 	-4.0		17.3		7.8		8.4		-15.0		79.2
+YOPM%: 	23.7		21.7		12.4		14.1		11.1
+YNPM%: 	9.2		9.7		4.2		5.5		3.4
+YPROFIT: 214.2		263.2		122.8		174.8		91.2		282.3
+PQoQ%: 	147.4		22.9		-53.3		42.4		-47.8		309.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 643.4		825.2		866.5		643.3		636.1
+QoQ%: 	18.3		28.3		5.0		-25.8		-1.1
+QOPM%: 	9.0		12.5		21.1		25.7		14.1
+QNPM%: 	1.6		5.1		23.7		7.6		4.4
+QPFT: 	10.1		42.1		205.4		49.1		27.8
+PQoQ%: 	337.1		314.9		388.2		-76.1		-43.4
+
+
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 310% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
 2708.80cr, QoQ -15.00% & YoY 16.55% SALES;
-301.30cr, QoQ -33.00% & YoY -45.30% OPERATING PROFIT;
+301.70cr, QoQ -32.90% & YoY -45.23% OPERATING PROFIT;
 91.20cr, QoQ -47.80% & YoY -57.42% NET PROFIT;
 OPM %: 11.10% vs 14.1%
 NPM %: 3.40% vs 5.5%

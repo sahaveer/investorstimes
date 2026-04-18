@@ -1,38 +1,44 @@
-CODES
-532842	SRHHYPOLTD	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
-BestQ Dec 2024
+CODES	532842	SRHHYPOLTD	
+FULLNAME : Sree Rayalaseema Hi-Strength Hypo Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  689.1   |  910.8   |  1267.3  |  1650.1  |  866.0   |     477.3    
- SQoQ%:  |  320.0   |   32.2   |   39.1   |   30.2   |  -47.5   |      55.1    
- YOPM%:  |   14.8   |   14.3   |   11.7   |   10.9   |   12.8   |              
- YNPM%:  |   5.5    |   6.6    |   8.1    |   9.3    |   9.1    |              
-YPROFIT: |   37.9   |   60.6   |  102.8   |  154.2   |   79.0   |      65.5    
- PQoQ%:  |  334.2   |   59.8   |   69.7   |   50.1   |  -48.8   |      82.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  214.5   |  165.2   |  168.6   |  170.2   |  138.5  
- QoQ%:  |   -4.9   |  -23.0   |   2.1    |   1.0    |  -18.7  
- QOPM%: |   10.3   |   16.4   |   15.2   |   17.0   |   14.3  
- QNPM%: |   7.8    |   11.8   |   11.0   |   14.9   |   15.6  
- QPFT:  |   16.6   |   19.6   |   18.6   |   25.3   |   21.6  
- PQoQ%: |  -10.0   |   17.6   |   -4.8   |   35.9   |  -14.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 910.8		1267.3		1650.1		866.0		637.8		503.9
+SQoQ%: 	32.2		39.1		30.2		-47.5		-26.3		79.0
+YOPM%: 	14.3		11.7		10.9		12.8		14.4
+YNPM%: 	6.6		8.1		9.3		9.1		14.1
+YPROFIT: 60.6		102.8		154.2		79.1		90.1		69.5
+PQoQ%: 	59.8		69.7		50.1		-48.7		13.9		77.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 138.5		160.5		180.3		182.4		141.2
+QoQ%: 	-18.7		15.9		12.3		1.2		-22.6
+QOPM%: 	14.3		11.0		15.5		14.8		14.4
+QNPM%: 	15.6		13.7		12.4		12.8		16.8
+QPFT: 	21.6		22.0		22.4		23.3		23.8
+PQoQ%: 	-14.8		2.0		1.9		3.9		2.0
+
+
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 55% YSales
-- Last 3QPROFIT is about 83% of YProfit
+DEBT-Free Company for the last 3 yrs
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 77% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-866.00cr, QoQ -47.50% & YoY 25.67% SALES;
-110.60cr, QoQ -38.70% & YoY 8.43% OPERATING PROFIT;
-79.00cr, QoQ -48.80% & YoY 108.44% NET PROFIT;
-OPM %: 12.80% vs 10.9%
-NPM %: 9.10% vs 9.3%
+ 31-Mar-2025 #Result
+637.80cr, QoQ -26.30% & YoY -29.97% SALES;
+92.00cr, QoQ -16.80% & YoY -29.39% OPERATING PROFIT;
+90.10cr, QoQ 13.90% & YoY 48.68% NET PROFIT;
+OPM %: 14.40% vs 12.8%
+NPM %: 14.10% vs 9.1%
 

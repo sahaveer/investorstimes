@@ -1,11 +1,10 @@
-CODES
-ROYALARC	
+CODES	ROYALARC	
+FULLNAME : Royal Arc Electrodes Ltd
 SECTOR : Capital Goods-Non Electrical Equipment
 INDUSTRY : Electrodes - Welding Equipment
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -14,6 +13,8 @@ A DEBT-Free Company
 ROCE in Mar2024 is at 27.5%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
 - LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

@@ -1,12 +1,14 @@
-CODES
-GLOBE	
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
+CODES	GLOBE	
+FULLNAME : Globe Enterprises (India) Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

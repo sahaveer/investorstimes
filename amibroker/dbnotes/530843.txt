@@ -1,12 +1,14 @@
-CODES
-530843	CUPID	
-SECTOR : FMCG
-INDUSTRY : Personal Care - Indian
+CODES	530843	CUPID	
+FULLNAME : Cupid Ltd
+SECTOR : Personal Products
+INDUSTRY : Personal Care
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

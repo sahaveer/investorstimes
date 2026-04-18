@@ -1,36 +1,45 @@
-CODE	NAME
-526971 
+CODES	526971	
+FULLNAME : Dhoot Industrial Finance Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+BestQ Dec 2025
 
-SECTOR : Trading
-INDUSTRY : Trading
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 10.2		30.4		35.3		32.6		11.3		8.6
+SQoQ%: 	-29.1		199.6		16.0		-7.7		-65.4		76.1
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	327.4		61.4		28.7		454.5		167.7
+YPROFIT: 33.2		18.7		10.1		148.1		18.9		13.9
+PQoQ%: 	-311.9		-43.8		-45.7		1360.2		-87.2		73.5
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   14.3   |   10.2   |   30.4   |   35.3   |   32.6   |      10.0    
- SQoQ%:  |  -51.1   |  -29.1   |  199.6   |   16.0   |   -7.7   |      30.7    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |  327.4   |   61.4   |   28.7   |  454.5   |              
-YPROFIT: |  -15.7   |   33.2   |   18.7   |   10.1   |  148.1   |      47.7    
- PQoQ%:  | -1607.7  |  -311.9  |  -43.8   |  -45.7   |  1360.2  |      32.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   8.2    |   20.0   |   2.2    |   1.8    |   6.0   
- QoQ%:  |  290.5   |  142.1   |  -89.1   |  -18.9   |  242.0  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |  1124.0  |  172.5   |  612.4   |  1356.2  |  174.9  
- QPFT:  |   92.6   |   34.4   |   13.3   |   23.9   |   10.5  
- PQoQ%: |  725.5   |  -62.8   |  -61.4   |   79.6   |  -55.9  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 6.0		3.5		2.3		3.8		2.5
+QoQ%: 	240.3		-41.9		-34.5		66.7		-33.7
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	175.8		0.0		591.7		0.0		192.9
+QPFT: 	10.5		-15.5		13.5		-4.5		4.9
+PQoQ%: 	-55.9		-247.3		-187.0		-133.6		-207.3
+
+
 
 ***PROS***
-- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 74% of YProfit
 
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-32.60cr, QoQ -7.70% & YoY 127.97% SALES;
--5.40cr, QoQ 58.70% & YoY -62.76% OPERATING PROFIT;
-148.10cr, QoQ 1360.20% & YoY -1043.31% NET PROFIT;
+ 31-Mar-2025 #Result
+11.30cr, QoQ -65.40% & YoY 10.78% SALES;
+-25.60cr, QoQ 373.20% & YoY 3100.00% OPERATING PROFIT;
+18.90cr, QoQ -87.20% & YoY -43.07% NET PROFIT;
 OPM %: 0.00% vs 0.0%
-NPM %: 454.50% vs 28.7%
+NPM %: 167.70% vs 454.5%
 

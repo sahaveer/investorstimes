@@ -1,10 +1,11 @@
-CODES
-MIEL	
+CODES	MIEL	
+FULLNAME : Manglam Infra & Engineering Ltd
 SECTOR : Miscellaneous
 INDUSTRY : Miscellaneous
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

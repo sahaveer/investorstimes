@@ -1,14 +1,15 @@
-CODE	NAME
-531583 
-
+CODES	531583	
+FULLNAME : Rap Corp Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Real Estate related services
 
-***CONS***
-- NEGATIVE YProfit : -0.8
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -1.6

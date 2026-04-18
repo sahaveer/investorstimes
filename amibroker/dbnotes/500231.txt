@@ -1,28 +1,42 @@
-CODES
-500231	UMANGDAIRY	
-SECTOR : 
-INDUSTRY : 
-LYPD PM 2024
+CODES	500231	UMANGDAIRY	
+FULLNAME : Umang Dairies Ltd
+SECTOR : Food Products
+INDUSTRY : Dairy Products
+PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  244.8   |  247.9   |  204.0   |  292.8   |  286.2   |     163.5    
- SQoQ%:  |   9.0    |   1.3    |  -17.7   |   43.5   |   -2.3   |      57.1    
- YOPM%:  |   4.5    |   5.5    |   0.0    |   1.2    |   3.3    |              
- YNPM%:  |   1.2    |   1.7    |   0.0    |   0.0    |   0.5    |              
-YPROFIT: |   2.8    |   4.1    |  -14.3   |   -3.3   |   1.3    |      -0.2    
- PQoQ%:  |  -44.0   |   44.9   |  -447.8  |  -77.1   |  -141.1  |     -15.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   76.0   |   70.2   |   53.2   |   49.1   |   61.2  
- QoQ%:  |   26.8   |   -7.6   |  -24.2   |   -7.7   |   24.7  
- QOPM%: |   4.5    |   12.8   |   3.3    |   0.0    |   5.2   
- QNPM%: |   0.9    |   9.0    |   0.0    |   0.0    |   1.4   
- QPFT:  |   0.7    |   6.3    |   0.0    |   -1.1   |   0.9   
- PQoQ%: |  -122.0  |  791.5   |  -99.7   | -5550.0  |  -180.7 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 247.9		204.0		292.8		286.2		228.1
+SQoQ%: 	1.3		-17.7		43.5		-2.3		-20.3
+YOPM%: 	5.5		0.0		1.2		3.3		2.9
+YNPM%: 	1.7		0.0		0.0		0.5		0.3
+YPROFIT: 4.1		-14.3		-3.3		1.3		0.6
+PQoQ%: 	44.9		-447.8		-77.1		-141.1		-54.5
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2024	Jun-2024	Sep-2024	Dec-2024	Mar-2025
+QSALES: 70.2		53.2		49.1		61.2		64.6
+QoQ%: 	-7.6		-24.2		-7.7		24.7		5.6
+QOPM%: 	12.8		3.3		0.0		5.2		5.2
+QNPM%: 	9.0		0.0		0.0		1.4		1.2
+QPFT: 	6.3		0.0		-1.1		0.9		0.8
+PQoQ%: 	791.5		-99.7		-5550.0		-180.7		-9.1
+
+
 
 ***PROS***
-- Last 3QSALES is about 57% YSales
-- YProfit Turned POSITIVE this year Mar-2024 : 1.3
-- LastYr YProfits Doubled and maintained in Mar2024
+- PRODUCT DEMAND is rising since 3 years
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+228.10cr, QoQ -20.30% & YoY -7.99% SALES;
+6.60cr, QoQ -29.70% & YoY -51.47% OPERATING PROFIT;
+0.60cr, QoQ -54.50% & YoY -85.37% NET PROFIT;
+OPM %: 2.90% vs 3.3%
+NPM %: 0.30% vs 0.5%
+

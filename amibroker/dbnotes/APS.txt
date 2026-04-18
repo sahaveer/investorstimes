@@ -1,26 +1,27 @@
-CODES
-APS	
-SECTOR : Capital Goods - Electrical Equipment
-INDUSTRY : Electric Equipment
+CODES	APS	
+FULLNAME : Australian Premium Solar (India) Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Heavy Electrical Equipment
 PRODUCT DEMAND
 YSD YPD 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - YProfits and YSales DOUBLED in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2025, Sales have increased by 189.2% while the Profit QoQ_growth is much better than Sales itself at 531.4%
+As on Mar2025, Sales have increased by 189.6% while the Profit QoQ_growth is much better than Sales itself at 536.3%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-432.80cr, QoQ 189.20% & YoY 484.86% SALES;
-55.60cr, QoQ 495.30% & YoY 1444.44% OPERATING PROFIT;
-38.80cr, QoQ 531.40% & YoY 2055.56% NET PROFIT;
-OPM %: 12.80% vs 6.2%
+432.80cr, QoQ 189.60% & YoY 484.86% SALES;
+55.80cr, QoQ 489.70% & YoY 1450.00% OPERATING PROFIT;
+39.10cr, QoQ 536.30% & YoY 2072.22% NET PROFIT;
+OPM %: 12.90% vs 6.3%
 NPM %: 9.00% vs 4.1%
 

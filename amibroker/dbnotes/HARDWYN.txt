@@ -1,12 +1,14 @@
-CODES
-541276	HARDWYN	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	541276	HARDWYN	
+FULLNAME : Hardwyn India Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Furniture, Home Furnishing
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

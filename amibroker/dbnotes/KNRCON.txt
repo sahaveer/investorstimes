@@ -1,38 +1,40 @@
-CODES
-532942	KNRCON	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	532942	KNRCON	
+FULLNAME : KNR Constructions Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  2451.7  |  2903.6  |  3605.8  |  4062.4  |  4429.5  |     3778.0   
- SQoQ%:  |   7.0    |   18.4   |   24.2   |   12.7   |   9.0    |      85.3    
- YOPM%:  |   25.4   |   24.1   |   22.2   |   22.6   |   23.7   |              
- YNPM%:  |   10.8   |   14.0   |   10.6   |   11.3   |   17.6   |              
-YPROFIT: |  265.5   |  407.4   |  381.8   |  458.0   |  777.4   |     862.7    
- PQoQ%:  |   -1.8   |   53.4   |   -6.3   |   19.9   |   69.7   |     111.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  996.0   |  1414.0  |  985.0   |  1944.9  |  848.1  
- QoQ%:  |   -4.1   |   42.0   |  -30.3   |   97.4   |  -56.4  
- QOPM%: |   22.7   |   26.5   |   28.3   |   44.7   |   30.1  
- QNPM%: |   14.0   |   25.0   |   17.5   |   22.7   |   29.3  
- QPFT:  |  139.6   |  353.3   |  172.6   |  441.5   |  248.6  
- PQoQ%: |   -5.3   |  153.1   |  -51.2   |  155.8   |  -43.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2903.6		3605.8		4062.4		4429.5		4753.2		2002.4
+SQoQ%: 	18.4		24.2		12.7		9.0		7.3		42.1
+YOPM%: 	24.1		22.2		22.6		23.7		33.9
+YNPM%: 	14.0		10.6		11.3		17.6		21.1
+YPROFIT: 407.4		381.8		458.0		777.4		1001.9		330.9
+PQoQ%: 	53.4		-6.3		19.9		69.7		28.9		33.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 848.1		975.2		612.7		646.5		743.2
+QoQ%: 	-56.4		15.0		-37.2		5.5		15.0
+QOPM%: 	30.1		22.7		29.9		29.8		22.4
+QNPM%: 	29.3		14.3		20.1		16.2		13.8
+QPFT: 	248.6		139.2		123.4		104.7		102.8
+PQoQ%: 	-43.7		-44.0		-11.4		-15.2		-1.8
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 85% YSales
-- Last 3QPROFIT is about 111% of YProfit
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-4429.50cr, QoQ 9.00% & YoY 80.67% SALES;
-1049.00cr, QoQ 14.30% & YoY 68.38% OPERATING PROFIT;
-777.40cr, QoQ 69.70% & YoY 192.81% NET PROFIT;
-OPM %: 23.70% vs 22.6%
-NPM %: 17.60% vs 11.3%
+ 31-Mar-2025 #Result
+4753.20cr, QoQ 7.30% & YoY 63.70% SALES;
+1609.60cr, QoQ 53.40% & YoY 130.30% OPERATING PROFIT;
+1001.90cr, QoQ 28.90% & YoY 145.93% NET PROFIT;
+OPM %: 33.90% vs 23.7%
+NPM %: 21.10% vs 17.6%
 

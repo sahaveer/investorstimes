@@ -1,38 +1,47 @@
-CODES
-507526	ASALCBR	
-SECTOR : Alcoholic Beverages
+CODES	507526	ASALCBR	
+FULLNAME : Associated Alcohols & Breweries Ltd
+SECTOR : Beverages
 INDUSTRY : Breweries & Distilleries
+BestQ Dec 2025
 YSD YPD 2025
 LYPD PM 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2007 | Mar-2013 | Mar-2014 | Mar-2015 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   63.5   |  157.2   |  213.2   |  298.5   |  1075.9 
- SQoQ%:  |  -31.1   |  147.5   |   35.6   |   40.0   |  260.4  
- YOPM%:  |   4.7    |   7.5    |   8.6    |   10.4   |   11.9  
- YNPM%:  |   1.9    |   2.1    |   2.7    |   4.1    |   7.6   
-YPROFIT: |   1.2    |   3.3    |   5.8    |   12.3   |   81.4  
- PQoQ%:  |  -53.6   |  173.6   |   76.4   |  111.3   |  559.8  
- QPNL:  | Jun-2015 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   73.1   |  251.8   |  254.6   |  327.0   |  242.5  
- QoQ%:  |   -3.0   |  244.3   |   1.1    |   28.4   |  -25.9  
- QOPM%: |   13.5   |   11.2   |   9.8    |   12.1   |   14.6  
- QNPM%: |   3.2    |   7.0    |   6.0    |   8.0    |   9.2   
- QPFT:  |   2.4    |   17.7   |   15.3   |   26.1   |   22.3  
- PQoQ%: |  -24.8   |  646.4   |  -13.4   |   70.3   |  -14.4  
+***YEARLY***
+YPNL: 	Mar-2007	Mar-2013	Mar-2014	Mar-2015	Mar-2025	QSUM:Dec-2025
+YSALES: 63.5		157.2		213.2		298.5		1075.3		780.9
+SQoQ%: 	-31.1		147.5		35.6		40.0		260.3		72.6
+YOPM%: 	4.7		7.5		8.6		10.4		11.9
+YNPM%: 	1.9		2.1		2.7		4.1		7.6
+YPROFIT: 1.2		3.3		5.8		12.3		81.4		64.9
+PQoQ%: 	-53.6		173.6		76.4		111.3		559.8		79.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 327.0		242.5		266.7		253.8		260.4
+QoQ%: 	28.4		-25.9		10.0		-4.8		2.6
+QOPM%: 	12.1		14.6		13.9		9.5		15.9
+QNPM%: 	8.0		9.2		8.9		5.5		10.5
+QPFT: 	26.1		22.3		23.6		14.0		27.3
+PQoQ%: 	70.3		-14.4		6.0		-40.8		94.9
+
+
 
 ***PROS***
+- Last 3QSALES is about 73% YSales
+- Last 3QPROFIT is about 80% of YProfit
 - YProfits and YSales DOUBLED in Mar2025
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2025, Sales have increased by 260.4% while the Profit QoQ_growth is much better than Sales itself at 559.8%
+As on Mar2025, Sales have increased by 260.3% while the Profit QoQ_growth is much better than Sales itself at 559.8%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-1075.90cr, QoQ 260.40% & YoY 1594.33% SALES;
+1075.30cr, QoQ 260.30% & YoY 1593.39% SALES;
 128.10cr, QoQ 313.50% & YoY 4170.00% OPERATING PROFIT;
 81.40cr, QoQ 559.80% & YoY 6683.33% NET PROFIT;
 OPM %: 11.90% vs 10.4%

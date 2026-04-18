@@ -1,37 +1,46 @@
-CODES
-512455	LLOYDSME	
-SECTOR : Mining & Mineral products
-INDUSTRY : Mining / Minerals / Metals
+CODES	512455	LLOYDSME	
+FULLNAME : Lloyds Metals & Energy Ltd
+SECTOR : Minerals & Mining
+INDUSTRY : Industrial Minerals
 EXPANSION 2024
 EXPANSION 2025
+BestQ Dec 2025
 LYPD PM 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  251.4   |  691.6   |  3353.1  |  6524.6  |  6721.4 
- SQoQ%:  |  -32.1   |  175.2   |  384.8   |   94.6   |   3.0   
- YOPM%:  |   4.3    |   21.1   |   24.3   |   26.5   |   29.1  
- YNPM%:  |   0.1    |   14.1   |   0.0    |   19.0   |   21.6  
-YPROFIT: |   0.1    |   97.4   |  -288.6  |  1242.9  |  1449.9 
- PQoQ%:  |  -99.6   | 74800.0  |  -396.3  |  -530.8  |   16.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1554.3  |  2417.2  |  1435.7  |  1675.2  |  1193.3 
- QoQ%:  |  -18.7   |   55.5   |  -40.6   |   16.7   |  -28.8  
- QOPM%: |   29.5   |   29.7   |   28.6   |   32.0   |   21.9  
- QNPM%: |   17.8   |   23.1   |   21.0   |   23.2   |   16.9  
- QPFT:  |  276.9   |  557.4   |  301.3   |  389.3   |  201.9  
- PQoQ%: |  -16.5   |  101.3   |  -45.9   |   29.2   |  -48.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 251.4		691.6		3353.1		6524.6		6721.4		11093.0
+SQoQ%: 	-32.1		175.2		384.8		94.6		3.0		165.0
+YOPM%: 	4.3		21.1		24.3		26.5		29.1
+YNPM%: 	0.1		14.1		0.0		19.0		21.6
+YPROFIT: 0.1		97.4		-288.6		1242.9		1449.9		2261.4
+PQoQ%: 	-99.6		74800.0		-396.3		-530.8		16.7		156.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1675.2		1193.3		2383.5		3651.4		5058.1
+QoQ%: 	16.7		-28.8		99.7		53.2		38.5
+QOPM%: 	32.0		21.9		33.3		28.6		34.7
+QNPM%: 	23.2		16.9		26.9		15.7		20.7
+QPFT: 	389.3		201.9		641.6		572.4		1047.4
+PQoQ%: 	29.2		-48.1		217.8		-10.8		83.0
+
+
 
 ***PROS***
 EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 48.5%
+- Last 3QSALES is about 165% YSales
+- Last 3QPROFIT is about 156% of YProfit
 - YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
 - LastYr YProfits Doubled and maintained in Mar2025
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

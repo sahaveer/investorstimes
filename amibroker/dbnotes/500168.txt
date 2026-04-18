@@ -1,41 +1,42 @@
-CODES
-500168	GOODYEAR	
-SECTOR : 
-INDUSTRY : 
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	500168	GOODYEAR	
+FULLNAME : Goodyear India Ltd
+SECTOR : Auto Components
+INDUSTRY : Tyres & Rubber Products
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1745.6  |  1791.7  |  2435.7  |  2927.5  |  2551.7  |     2005.3   
- SQoQ%:  |   -8.7   |   2.6    |   35.9   |   20.2   |  -12.8   |      78.6    
- YOPM%:  |   7.8    |   12.1   |   7.1    |   7.1    |   6.7    |              
- YNPM%:  |   5.1    |   7.6    |   4.2    |   4.2    |   3.7    |              
-YPROFIT: |   88.8   |  136.3   |  102.9   |  122.9   |   94.8   |      50.2    
- PQoQ%:  |  -13.0   |   53.4   |  -24.5   |   19.4   |  -22.8   |      53.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  591.4   |  550.5   |  691.4   |  682.2   |  631.7  
- QoQ%:  |  -14.3   |   -6.9   |   25.6   |   -1.3   |   -7.4  
- QOPM%: |   6.7    |   1.0    |   6.4    |   4.6    |   3.8   
- QNPM%: |   3.7    |   0.0    |   3.6    |   2.3    |   1.5   
- QPFT:  |   21.9   |   -4.2   |   25.0   |   15.7   |   9.5   
- PQoQ%: |  -42.4   |  -119.3  |  -694.5  |  -37.1   |  -39.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1791.7		2435.7		2927.5		2551.7		2608.0		1859.6
+SQoQ%: 	2.6		35.9		20.2		-12.8		2.2		71.3
+YOPM%: 	12.1		7.1		7.1		6.7		4.5
+YNPM%: 	7.6		4.2		4.2		3.7		2.1
+YPROFIT: 136.3		102.9		122.9		94.8		55.1		51.8
+PQoQ%: 	53.4		-24.5		19.4		-22.8		-41.9		94.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 631.7		602.7		656.2		596.5		606.9
+QoQ%: 	-7.4		-4.6		8.9		-9.1		1.8
+QOPM%: 	3.8		2.9		4.3		4.5		6.9
+QNPM%: 	1.5		0.8		2.2		2.2		4.1
+QPFT: 	9.5		4.9		14.1		13.1		24.6
+PQoQ%: 	-39.8		-48.6		189.7		-7.4		88.4
+
+
 
 ***PROS***
-DEBT-Free Company for the last 3 yrs
-- PRODUCT DEMAND is rising since 3 years
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 15.1%
-- Last 3QSALES is about 79% YSales
-- Last 3QPROFIT is about 53% of YProfit
+- Last 3QSALES is about 71% YSales
+- Last 3QPROFIT is about 94% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-2551.70cr, QoQ -12.80% & YoY 46.18% SALES;
-170.60cr, QoQ -17.60% & YoY 25.72% OPERATING PROFIT;
-94.80cr, QoQ -22.80% & YoY 6.76% NET PROFIT;
-OPM %: 6.70% vs 7.1%
-NPM %: 3.70% vs 4.2%
+ 31-Mar-2025 #Result
+2608.00cr, QoQ 2.20% & YoY 45.56% SALES;
+116.60cr, QoQ -31.70% & YoY -46.22% OPERATING PROFIT;
+55.10cr, QoQ -41.90% & YoY -59.57% NET PROFIT;
+OPM %: 4.50% vs 6.7%
+NPM %: 2.10% vs 3.7%
 

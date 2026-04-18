@@ -1,21 +1,14 @@
-CODES
-533210	KRITINUT	
-SECTOR : Edible Oil
-INDUSTRY : Solvent Extraction
+CODES	533210	KRITINUT	
+FULLNAME : Kriti Nutrients Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Edible Oil
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 
-Quarterly 
-31-Mar-2025 #Result
-200.00cr, QoQ 15.70% SALES;
-6.10cr, QoQ -44.90% OPERATING PROFIT;
-4.90cr, QoQ -40.40% NET PROFIT;
-OPM %: 3.00% vs 6.4%
-NPM %: 2.50% vs 4.8%
-
+***CONS***

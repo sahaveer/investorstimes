@@ -1,20 +1,25 @@
-CODES
-LRRPL	
-SECTOR : Plantation & Plantation Products
-INDUSTRY : Miscellaneous
+CODES	LRRPL	
+FULLNAME : Lead Reclaim and Rubber Products Ltd
+SECTOR : Industrial Products
+INDUSTRY : Rubber
+YSD YPD 2025
+
+***YEARLY***
+
+
+***PROS***
+- YProfits and YSales DOUBLED in Mar2025
+
+YSALES in Mar-2025 is at 30.9 showing a QoQ_growth of 108.9%. The YNETPROFIT grew by 284.2% to 1.5
 
 ***CONS***
 - NO PRODUCT DEMAND
 
-
-
-***PROS***
-
 Yearly 
- 31-Mar-2024 #Result
-14.80cr, QoQ 68.60% & YoY 208.33% SALES;
-1.70cr, QoQ 51.30% & YoY 54.55% OPERATING PROFIT;
-0.40cr, QoQ -55.40% & YoY 0.00% NET PROFIT;
-OPM %: 11.80% vs 13.1%
-NPM %: 2.50% vs 9.5%
+ 31-Mar-2025 #Result
+30.90cr, QoQ 108.90% & YoY 341.43% SALES;
+3.70cr, QoQ 115.10% & YoY 208.33% OPERATING PROFIT;
+1.50cr, QoQ 284.20% & YoY 650.00% NET PROFIT;
+OPM %: 12.00% vs 11.6%
+NPM %: 4.70% vs 2.6%
 

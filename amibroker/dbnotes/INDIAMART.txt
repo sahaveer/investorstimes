@@ -1,38 +1,47 @@
-CODES
-542726	INDIAMART	
-SECTOR : E-Commerce/App based Aggregator
-INDUSTRY : Miscellaneous
+CODES	542726	INDIAMART	
+FULLNAME : Indiamart Intermesh Ltd
+SECTOR : Retailing
+INDUSTRY : Internet & Catalogue Retail
 PRODUCT DEMAND
+BestQ Dec 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  669.6   |  753.5   |  985.4   |  1196.8  |  1388.4 
- SQoQ%:  |   4.8    |   12.5   |   30.8   |   21.5   |   16.0  
- YOPM%:  |   48.6   |   39.2   |   23.3   |   24.3   |   34.1  
- YNPM%:  |   41.8   |   39.5   |   28.8   |   27.9   |   39.7  
-YPROFIT: |  279.8   |  297.6   |  283.8   |  334.0   |  550.7  
- PQoQ%:  |   89.8   |   6.4    |   -4.6   |   17.7   |   64.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  314.7   |  331.3   |  347.7   |  354.3   |  355.1  
- QoQ%:  |   3.1    |   5.3    |   5.0    |   1.9    |   0.2   
- QOPM%: |   24.4   |   32.7   |   35.1   |   35.1   |   33.6  
- QNPM%: |   31.6   |   34.4   |   38.9   |   34.2   |   50.9  
- QPFT:  |   99.6   |  114.0   |  135.1   |  121.0   |  180.6  
- PQoQ%: |   21.6   |   14.5   |   18.5   |  -10.4   |   49.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 669.6		753.5		985.4		1196.8		1388.3		1164.7
+SQoQ%: 	4.8		12.5		30.8		21.5		16.0		83.9
+YOPM%: 	48.6		39.2		23.3		24.3		34.1
+YNPM%: 	41.8		39.5		28.8		27.9		39.7
+YPROFIT: 279.8		297.6		283.8		334.0		550.7		424.5
+PQoQ%: 	89.8		6.4		-4.6		17.7		64.9		77.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 354.3		355.1		372.1		391.0		401.6
+QoQ%: 	1.9		0.2		4.8		5.1		2.7
+QOPM%: 	35.1		33.6		32.1		29.7		29.8
+QNPM%: 	34.2		50.9		41.3		21.2		46.9
+QPFT: 	121.0		180.6		153.5		82.7		188.3
+PQoQ%: 	-10.4		49.3		-15.0		-46.1		127.7
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 77% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 16.0% while the Profit QoQ_growth is much better than Sales itself at 64.9%
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
-1388.40cr, QoQ 16.00% & YoY 107.35% SALES;
+1388.30cr, QoQ 16.00% & YoY 107.33% SALES;
 473.70cr, QoQ 62.80% & YoY 45.53% OPERATING PROFIT;
 550.70cr, QoQ 64.90% & YoY 96.82% NET PROFIT;
 OPM %: 34.10% vs 24.3%

@@ -1,31 +1,37 @@
-CODES
-540724	DIAMONDYD	
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
+CODES	540724	DIAMONDYD	
+FULLNAME : Prataap Snacks Ltd
+SECTOR : Food Products
+INDUSTRY : Packaged Foods
 PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2019 | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023
----------+----------+----------+----------+----------+---------
-YSALES:  |  1170.6  |  1393.8  |  1171.1  |  1396.6  |  1652.9 
- SQoQ%:  |   15.1   |   19.1   |  -16.0   |   19.3   |   18.4  
- YOPM%:  |   7.1    |   6.8    |   5.4    |   4.2    |   3.8   
- YNPM%:  |   3.8    |   3.4    |   1.2    |   0.2    |   1.2   
-YPROFIT: |   44.6   |   46.9   |   14.2   |   2.9    |   20.3  
- PQoQ%:  |   1.0    |   5.1    |  -69.8   |  -79.4   |  597.9  
- QPNL:  | Mar-2022 | Jun-2022 | Sep-2022 | Dec-2022 | Mar-2023
---------+----------+----------+----------+----------+---------
-QSALES: |  361.5   |  382.6   |  457.3   |  426.4   |  386.6  
- QoQ%:  |   -6.1   |   5.8    |   19.5   |   -6.7   |   -9.3  
- QOPM%: |   1.4    |   0.0    |   4.8    |   5.5    |   4.9   
- QNPM%: |   0.0    |   0.0    |   0.9    |   1.2    |   5.6   
- QPFT:  |   -3.0   |  -11.4   |   4.2    |   5.2    |   21.6  
- PQoQ%: |  -59.3   |  286.1   |  -137.2  |   23.8   |  311.6  
+***YEARLY***
+YPNL: 	Mar-2019	Mar-2020	Mar-2021	Mar-2022	Mar-2023
+YSALES: 1170.6		1393.8		1171.1		1396.6		1652.9
+SQoQ%: 	15.1		19.1		-16.0		19.3		18.4
+YOPM%: 	7.1		6.8		5.4		4.2		3.8
+YNPM%: 	3.8		3.4		1.2		0.2		1.2
+YPROFIT: 44.6		46.9		14.2		2.9		20.3
+PQoQ%: 	1.0		5.1		-69.8		-79.4		597.9
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2022	Jun-2022	Sep-2022	Dec-2022	Mar-2023
+QSALES: 361.5		382.6		457.3		426.4		386.6
+QoQ%: 	-6.1		5.8		19.5		-6.7		-9.3
+QOPM%: 	1.4		0.0		4.8		5.5		4.9
+QNPM%: 	0.0		0.0		0.9		1.2		5.6
+QPFT: 	-3.0		-11.4		4.2		5.2		21.6
+PQoQ%: 	-59.3		286.1		-137.2		23.8		311.6
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 
 YSALES in Mar-2023 is at 1652.9 showing a QoQ_growth of 18.4%. The YNETPROFIT grew by 597.9% to 20.3
+
+***CONS***
 
 Yearly 
  31-Mar-2023 #Result

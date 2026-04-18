@@ -1,36 +1,43 @@
-CODES
-500128	ELECTCAST	
-SECTOR : Castings, Forgings & Fastners
-INDUSTRY : Castings & Forgings
+CODES	500128	ELECTCAST	
+FULLNAME : Electrosteel Castings Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  3474.2  |  5281.0  |  7275.5  |  7478.0  |  7320.0 
- SQoQ%:  |   28.2   |   52.0   |   37.8   |   2.8    |   -2.1  
- YOPM%:  |   12.6   |   13.2   |   10.3   |   16.1   |   14.1  
- YNPM%:  |   0.0    |   6.6    |   4.3    |   9.9    |   9.7   
-YPROFIT: |  -91.2   |  347.3   |  315.8   |  739.9   |  709.6  
- PQoQ%:  |  -156.6  |  -480.8  |   -9.1   |  134.3   |   -4.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2004.3  |  2011.9  |  1827.8  |  1779.6  |  1700.7 
- QoQ%:  |   7.2    |   0.4    |   -9.2   |   -2.6   |   -4.4  
- QOPM%: |   15.5   |   17.6   |   14.6   |   14.3   |   9.4   
- QNPM%: |   11.3   |   11.2   |   8.5    |   9.0    |   9.9   
- QPFT:  |  227.1   |  225.9   |  155.2   |  160.2   |  168.3  
- PQoQ%: |  -13.8   |   -0.5   |  -31.3   |   3.2    |   5.1   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3474.2		5281.0		7275.5		7478.0		7320.0		4425.3
+SQoQ%: 	28.2		52.0		37.8		2.8		-2.1		60.5
+YOPM%: 	12.6		13.3		10.3		16.1		14.3
+YNPM%: 	0.0		6.6		4.3		9.9		9.7
+YPROFIT: -91.2		347.3		315.8		739.9		709.6		145.4
+PQoQ%: 	-156.6		-480.8		-9.1		134.3		-4.1		20.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1779.6		1700.7		1557.7		1395.8		1471.8
+QoQ%: 	-2.6		-4.4		-8.4		-10.4		5.4
+QOPM%: 	14.3		9.4		10.9		6.7		2.3
+QNPM%: 	9.0		9.9		5.7		5.6		0.0
+QPFT: 	160.2		168.3		89.0		78.3		-21.9
+PQoQ%: 	3.2		5.1		-47.1		-12.1		-127.9
+
+
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 60% YSales
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
 7320.00cr, QoQ -2.10% & YoY 110.70% SALES;
-1035.80cr, QoQ -14.00% & YoY 137.41% OPERATING PROFIT;
+1049.60cr, QoQ -12.90% & YoY 140.57% OPERATING PROFIT;
 709.60cr, QoQ -4.10% & YoY -878.07% NET PROFIT;
-OPM %: 14.10% vs 16.1%
+OPM %: 14.30% vs 16.1%
 NPM %: 9.70% vs 9.9%
 

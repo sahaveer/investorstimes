@@ -1,27 +1,34 @@
-CODES
-543298	VINEETLAB	
-SECTOR : 
-INDUSTRY : 
+CODES	543298	VINEETLAB	
+FULLNAME : Vineet Laboratories Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -20.2
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  243.5   |  191.1   |  212.3   |  150.6   |   75.0  
- SQoQ%:  |   inf    |  -21.5   |   11.1   |  -29.1   |  -50.2  
- YOPM%:  |   3.3    |   6.9    |   3.6    |   4.8    |   0.0   
- YNPM%:  |   0.7    |   3.5    |   0.6    |   0.7    |   0.0   
-YPROFIT: |   1.8    |   6.6    |   1.2    |   1.0    |  -20.2  
- PQoQ%:  | -17900.0 |  273.0   |  -81.2   |  -17.6   | -2060.2 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   37.0   |   23.9   |   19.0   |   18.1   |   14.1  
- QoQ%:  |   13.5   |  -35.6   |  -20.5   |   -4.5   |  -22.2  
- QOPM%: |   9.2    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   5.2    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   1.9    |   -2.1   |   -1.8   |   -5.7   |  -10.5  
- PQoQ%: |  -192.8  |  -210.9  |  -14.1   |  212.0   |   84.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 243.5		191.1		212.3		150.6		75.0		40.4
+SQoQ%: 	inf		-21.5		11.1		-29.1		-50.2		53.9
+YOPM%: 	3.3		6.9		3.6		4.8		0.0
+YNPM%: 	0.7		3.5		0.6		0.7		0.0
+YPROFIT: 1.8		6.6		1.2		1.0		-20.2		0.3
+PQoQ%: 	-17900.0		273.0		-81.2		-17.6		-2060.2		-1.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 18.1		14.1		7.4		17.4		15.6
+QoQ%: 	-4.5		-22.2		-47.2		134.1		-10.2
+QOPM%: 	0.0		0.0		4.2		18.3		15.8
+QNPM%: 	0.0		0.0		0.0		2.3		5.4
+QPFT: 	-5.7		-10.5		-0.9		0.4		0.8
+PQoQ%: 	212.0		84.4		-91.7		-146.0		112.5
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 54% YSales
+
+***CONS***
+- NEGATIVE YProfit : -20.2

@@ -1,28 +1,35 @@
-CODES
-542933	UNIVPHOTO	
+CODES	542933	UNIVPHOTO	
+FULLNAME : Universus Photo Imagings Ltd
 SECTOR : Consumer Durables
-INDUSTRY : Photographic And Allied Products
+INDUSTRY : Consumer Electronics
+PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -196.4
- YPNL:   |  Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+-----------+----------+----------+----------+----------+--------------
-YSALES:  |    62.4   |   47.0   |   56.2   |   43.2   |   32.4   |      20.1    
- SQoQ%:  |    inf    |  -24.8   |   19.6   |  -23.0   |  -24.9   |      62.0    
- YOPM%:  |    15.4   |   16.8   |   19.0   |   0.0    |   0.0    |              
- YNPM%:  |    70.3   |   72.9   |  915.9   |   0.0    |   0.0    |              
-YPROFIT: |    43.9   |   34.2   |  514.4   |  -44.5   |  -196.4  |     108.0    
- PQoQ%:  | -439100.0 |  -22.0   |  1401.8  |  -108.6  |  341.5   |     -55.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   7.3    |   9.6    |   9.2    |   6.1    |   4.8   
- QoQ%:  |   -6.7   |   30.8   |   -3.9   |  -33.7   |  -21.4  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |  3420.8  |   0.0   
- QPFT:  |  -69.5   |  -43.5   |  -12.0   |  209.0   |  -89.0  
- PQoQ%: |   44.1   |  -37.4   |  -72.5   | -1846.1  |  -142.6 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 47.0		56.2		43.2		32.4		24.6		14.1
+SQoQ%: 	-24.8		19.6		-23.0		-24.9		-24.2		57.3
+YOPM%: 	16.8		19.0		0.0		0.0		0.0
+YNPM%: 	72.9		915.9		0.0		0.0		353.7
+YPROFIT: 34.2		514.4		-44.5		-196.4		87.0		-66.9
+PQoQ%: 	-22.0		1401.8		-108.6		341.5		-144.3		-76.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4.8		4.5		5.0		5.3		3.8
+QoQ%: 	-21.4		-6.9		11.2		7.2		-28.0
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-89.0		-21.0		-17.0		-26.0		-23.9
+PQoQ%: 	-142.6		-76.4		-19.1		52.5		-8.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- Last 3QSALES is about 62% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 57% YSales
+- YProfit Turned POSITIVE this year Mar-2025 : 87.0
 
+***CONS***

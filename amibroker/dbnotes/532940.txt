@@ -1,36 +1,47 @@
-CODES
-532940	JKIL	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
+CODES	532940	JKIL	
+FULLNAME : J Kumar Infraprojects Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
+BestQ Dec 2025
+YSD YPD 2023
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2570.8  |  3527.2  |  4203.1  |  4879.2  |  5693.5 
- SQoQ%:  |  -13.5   |   37.2   |   19.2   |   16.1   |   16.7  
- YOPM%:  |   12.1   |   14.3   |   14.2   |   14.4   |   14.5  
- YNPM%:  |   2.5    |   5.8    |   6.5    |   6.7    |   6.9   
-YPROFIT: |   63.9   |  205.9   |  274.4   |  328.6   |  390.4  
- PQoQ%:  |  -65.2   |  222.1   |   33.3   |   19.8   |   18.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1425.0  |  1281.5  |  1292.4  |  1486.9  |  1632.7 
- QoQ%:  |   16.9   |  -10.1   |   0.8    |   15.1   |   9.8   
- QOPM%: |   14.3   |   14.4   |   14.6   |   14.7   |   14.4  
- QNPM%: |   7.0    |   6.7    |   7.0    |   6.7    |   7.0   
- QPFT:  |   99.7   |   86.4   |   90.2   |   99.7   |  114.1  
- PQoQ%: |   20.6   |  -13.3   |   4.3    |   10.6   |   14.4  
+***YEARLY***
+YPNL: 	Mar-2016	Mar-2017	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1507.8		1572.8		4203.1		4879.2		5693.5		4137.6
+SQoQ%: 	nan		4.3		167.2		16.1		16.7		72.7
+YOPM%: 	16.3		15.9		14.2		14.4		14.5
+YNPM%: 	6.4		6.7		6.5		6.8		6.9
+YPROFIT: 96.1		105.6		274.4		330.8		391.2		276.9
+PQoQ%: 	nan		9.9		159.9		20.5		18.3		70.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1486.9		1632.7		1483.9		1342.5		1311.2
+QoQ%: 	15.1		9.8		-9.1		-9.5		-2.3
+QOPM%: 	14.7		14.4		14.6		14.5		14.3
+QNPM%: 	6.7		7.0		7.0		6.8		6.3
+QPFT: 	100.0		114.2		103.4		90.7		82.8
+PQoQ%: 	10.9		14.2		-9.4		-12.3		-8.7
+
+
 
 ***PROS***
+- Last 3QSALES is about 73% YSales
+- Last 3QPROFIT is about 71% of YProfit
+- YProfits and YSales DOUBLED in Mar2023
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2025, Sales have increased by 16.7% while the Profit QoQ_growth is much better than Sales itself at 18.8%
+As on Mar2025, Sales have increased by 16.7% while the Profit QoQ_growth is much better than Sales itself at 18.3%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-5693.50cr, QoQ 16.70% & YoY 121.47% SALES;
-826.40cr, QoQ 17.40% & YoY 165.38% OPERATING PROFIT;
-390.40cr, QoQ 18.80% & YoY 510.95% NET PROFIT;
+5693.50cr, QoQ 16.70% & YoY 277.60% SALES;
+826.40cr, QoQ 17.40% & YoY 235.39% OPERATING PROFIT;
+391.20cr, QoQ 18.30% & YoY 307.08% NET PROFIT;
 OPM %: 14.50% vs 14.4%
-NPM %: 6.90% vs 6.7%
+NPM %: 6.90% vs 6.8%
 

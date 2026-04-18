@@ -1,27 +1,32 @@
-CODE	NAME
-524663 
+CODES	524663	
+FULLNAME : Bharat Immunological & Biological Corporation Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Formulations
+***YEARLY***
+YPNL: 	Mar-2019	Mar-2020	Mar-2021	Mar-2022	Mar-2023	QSUM:Sep-2023
+YSALES: 83.6		66.8		85.3		78.4		44.6		0.0
+SQoQ%: 	140.4		-20.1		27.7		-8.1		-43.1		0.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -5.8		-10.2		-18.1		-8.8		-17.1		-9.5
+PQoQ%: 	35.9		76.3		77.4		-51.7		95.0		55.6
+
+
+
+***QUARTERLY***
+QPNL: 	Sep-2022	Dec-2022	Mar-2023	Jun-2023	Sep-2023
+QSALES: 26.5		0.0		7.6		0.0		0.0
+QoQ%: 	152.7		-100.0		inf		-100.0		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-3.1		-4.7		-3.9		-4.6		-4.9
+PQoQ%: 	-38.4		51.9		-17.1		18.3		7.2
+
+
+
+***PROS***
 
 ***CONS***
 - NO PRODUCT DEMAND
 - NEGATIVE YProfit : -17.1
-  YPNL   |   :   | Mar-2019 | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | QSUM:Sep-2023
----------+-------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  83.6 |   66.8   |   85.3   |   78.4   |   44.6   |   0.0    |              
- SQoQ%:  | 140.4 |  -20.1   |   27.7   |   -8.1   |  -43.1   |   0.0    |              
- YOPM%:  |  0.0  |   0.0    |   0.0    |   0.0    |   0.0    |          |              
- YNPM%:  |  0.0  |   0.0    |   0.0    |   0.0    |   0.0    |          |              
-YPROFIT: |  -5.8 |  -10.2   |  -18.1   |   -8.8   |  -17.1   |   -9.5   |              
- PQoQ%:  |  35.9 |   76.3   |   77.4   |  -51.7   |   95.0   |   55.6   |              
-  QPNL  |   :   | Sep-2022 | Dec-2022 | Mar-2023 | Jun-2023 | Sep-2023
---------+-------+----------+----------+----------+----------+---------
-QSALES: |  26.5 |   0.0    |   7.6    |   0.0    |   0.0    |         
- QoQ%:  | 152.7 |  -100.0  |   inf    |  -100.0  |   nan    |         
- QOPM%: |  0.0  |   0.0    |   0.0    |   0.0    |   0.0    |         
- QNPM%: |  0.0  |   0.0    |   0.0    |   0.0    |   0.0    |         
- QPFT:  |  -3.1 |   -4.7   |   -3.9   |   -4.6   |   -4.9   |         
- PQoQ%: | -38.4 |   51.9   |  -17.1   |   18.3   |   7.2    |         
-
-***PROS***

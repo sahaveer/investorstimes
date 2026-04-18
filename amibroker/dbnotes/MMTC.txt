@@ -1,38 +1,48 @@
-CODES
-513377	MMTC	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	513377	MMTC	
+FULLNAME : MMTC Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  | 26303.9  | 29999.5  | 11795.2  |  3527.4  |   3.4    |      2.4     
- SQoQ%:  |  -10.6   |   14.0   |  -60.7   |  -70.1   |  -99.9   |      70.6    
- YOPM%:  |   0.0    |   0.0    |   3.9    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   44.3   |  5702.7  |              
-YPROFIT: |  -291.8  |  -789.3  |  -258.2  |  1562.3  |  192.2   |      84.4    
- PQoQ%:  |  -368.3  |  170.5   |  -67.3   |  -705.0  |  -87.7   |      43.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.7    |   0.6    |   0.6    |   1.6    |   0.2   
- QoQ%:  |  -100.3  |  -12.3   |   1.6    |  140.0   |  -84.0  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |  7631.5  | 10903.1  |  5029.2  |  3080.1  |  1464.0 
- QPFT:  |   55.7   |   69.8   |   32.7   |   48.0   |   3.7   
- PQoQ%: |   7.1    |   25.3   |  -53.2   |   47.0   |  -92.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 29999.5		11795.2		3527.4		3.4		1.2		2.8
+SQoQ%: 	14.0		-60.7		-70.1		-99.9		-65.3		233.3
+YOPM%: 	0.0		3.9		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		44.3		5702.7		7404.3
+YPROFIT: -789.3		-258.2		1562.3		192.2		86.6		261.4
+PQoQ%: 	170.5		-67.3		-705.0		-87.7		-54.9		301.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.2		0.2		1.4		1.1		0.3
+QoQ%: 	-84.0		-8.0		491.3		-19.1		-69.1
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	1464.0		969.6		3254.4		15528.2		13608.8
+QPFT: 	3.7		2.2		44.3		170.8		46.3
+PQoQ%: 	-92.4		-39.1		1884.8		285.9		-72.9
+
+
 
 ***PROS***
+A DEBT-Free Company
+- PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 71% YSales
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- Last 3QSALES is about 233% YSales
+- Last 3QPROFIT is about 302% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-3.40cr, QoQ -99.90% & YoY -99.99% SALES;
--161.80cr, QoQ 51.20% & YoY 22.39% OPERATING PROFIT;
-192.20cr, QoQ -87.70% & YoY -165.87% NET PROFIT;
+ 31-Mar-2025 #Result
+1.20cr, QoQ -65.30% & YoY -100.00% SALES;
+-138.30cr, QoQ -14.50% & YoY 205.97% OPERATING PROFIT;
+86.60cr, QoQ -54.90% & YoY -110.97% NET PROFIT;
 OPM %: 0.00% vs 0.0%
-NPM %: 5702.70% vs 44.3%
+NPM %: 7404.30% vs 5702.7%
 

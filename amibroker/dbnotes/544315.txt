@@ -1,28 +1,32 @@
-CODES
-544315	CEWATER	
+CODES	544315	CEWATER	
+FULLNAME : Concord Enviro Systems Ltd
 SECTOR : Capital Goods-Non Electrical Equipment
 INDUSTRY : Engineering
 PRODUCT DEMAND
 LYPD PM 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  347.6   |  329.4   |  343.2   |  496.9   |  594.4  
- SQoQ%:  |   -9.3   |   -5.2   |   4.2    |   44.8   |   19.6  
- YOPM%:  |   18.0   |   16.6   |   12.9   |   14.0   |   15.4  
- YNPM%:  |   5.7    |   5.0    |   1.6    |   8.3    |   8.7   
-YPROFIT: |   19.8   |   16.5   |   5.5    |   41.4   |   51.5  
- PQoQ%:  |  152.0   |  -16.8   |  -66.7   |  654.8   |   24.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  200.2   |  102.7   |  161.9   |  122.8   |  207.0  
- QoQ%:  |   62.6   |  -48.7   |   57.6   |  -24.1   |   68.5  
- QOPM%: |   19.5   |   2.6    |   16.3   |   2.8    |   28.1  
- QNPM%: |   14.0   |   0.0    |   10.7   |   0.0    |   22.8  
- QPFT:  |   28.1   |   -4.4   |   17.3   |   -8.6   |   47.1  
- PQoQ%: |   51.0   |  -115.6  |  -495.9  |  -149.5  |  -650.6 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 	347.6		329.4		343.2		496.9		594.4
+SQoQ%: 	-9.3		-5.2		4.2		44.8		19.6
+YOPM%: 	18.0		16.6		12.9		14.0		15.4
+YNPM%: 	5.7		5.0		1.6		8.3		8.7
+YPROFIT: 	19.8		16.5		5.5		41.4		51.5
+PQoQ%: 	152.0		-16.8		-66.7		654.8		24.3
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2024		Jun-2024	Sep-2024	Dec-2024		Mar-2025
+QSALES: 	200.2		102.7		161.9		122.8		207.0
+QoQ%: 	62.6		-48.7		57.6		-24.1		68.5
+QOPM%: 	19.5		2.6		16.3		2.8		28.1
+QNPM%: 	14.0		0.0		10.7		0.0		22.8
+QPFT: 	28.1		-4.4		17.3		-8.6		47.1
+PQoQ%: 	51.0		-115.6		-495.9		-149.5		-650.6
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
@@ -30,6 +34,8 @@ QSALES: |  200.2   |  102.7   |  161.9   |  122.8   |  207.0
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 19.6% while the Profit QoQ_growth is much better than Sales itself at 24.3%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

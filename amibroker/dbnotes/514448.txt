@@ -1,34 +1,42 @@
-CODE	NAME
-514448 
+CODES	514448	
+FULLNAME : Jyoti Resins and Adhesives Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
+BestQ Dec 2025
 
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 101.3		182.0		261.2		257.3		284.1		221.8
+SQoQ%: 	37.8		79.6		43.6		-1.5		10.4		78.1
+YOPM%: 	10.3		13.1		23.2		32.6		31.5
+YNPM%: 	12.0		10.9		17.8		26.1		26.0
+YPROFIT: 12.2		19.8		46.4		67.1		73.9		50.0
+PQoQ%: 	50.2		62.4		135.0		44.5		10.1		67.7
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  101.3   |  182.0   |  261.2   |  257.3   |  284.1  
- SQoQ%:  |   37.8   |   79.6   |   43.6   |   -1.5   |   10.4  
- YOPM%:  |   10.3   |   13.1   |   23.2   |   32.6   |   31.5  
- YNPM%:  |   12.0   |   10.9   |   17.8   |   26.1   |   26.0  
-YPROFIT: |   12.2   |   19.8   |   46.4   |   67.1   |   73.9  
- PQoQ%:  |   50.2   |   62.4   |  135.0   |   44.5   |   10.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   71.2   |   69.2   |   65.2   |   71.1   |   78.6  
- QoQ%:  |   15.1   |   -2.9   |   -5.7   |   9.0    |   10.6  
- QOPM%: |   29.8   |   33.9   |   29.7   |   31.6   |   30.7  
- QNPM%: |   26.3   |   27.1   |   25.0   |   26.8   |   25.2  
- QPFT:  |   18.8   |   18.8   |   16.3   |   19.1   |   19.8  
- PQoQ%: |   14.2   |   -0.1   |  -13.2   |   17.0   |   3.8   
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 71.1		78.6		75.1		74.4		72.3
+QoQ%: 	9.0		10.6		-4.5		-1.0		-2.8
+QOPM%: 	31.6		30.7		27.5		27.5		26.1
+QNPM%: 	26.8		25.2		23.1		23.1		21.3
+QPFT: 	19.1		19.8		17.4		17.2		15.4
+PQoQ%: 	17.0		3.8		-12.1		-1.3		-10.4
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 27.7%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 68% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

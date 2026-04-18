@@ -1,41 +1,46 @@
-CODE	NAME
-537536 
-
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+CODES	537536	
+FULLNAME : Denis Chem Lab Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
 
-***CONS***
-  YPNL   |   :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+-------+----------+----------+----------+----------+----------+--------------
-YSALES:  | 135.5 |  108.8   |  136.0   |  160.6   |  167.2   |  131.9   |              
- SQoQ%:  |  9.8  |  -19.7   |   25.1   |   18.0   |   4.1    |   78.9   |              
- YOPM%:  |  11.1 |   9.4    |   10.5   |   11.7   |   12.7   |          |              
- YNPM%:  |  3.1  |   2.1    |   4.6    |   4.9    |   6.7    |          |              
-YPROFIT: |  4.2  |   2.3    |   6.3    |   7.9    |   11.2   |   7.4    |              
- PQoQ%:  | -33.7 |  -46.3   |  177.0   |   25.6   |   42.0   |   66.1   |              
-  QPNL  |   :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+-------+----------+----------+----------+----------+---------
-QSALES: |  40.1 |   39.8   |   41.3   |   47.8   |   42.8   |         
- QoQ%:  | -11.8 |   -0.5   |   3.5    |   15.9   |  -10.4   |         
- QOPM%: |  15.0 |   12.7   |   10.5   |   12.3   |   8.9    |         
- QNPM%: |  8.0  |   6.9    |   5.0    |   7.4    |   4.1    |         
- QPFT:  |  3.2  |   2.7    |   2.1    |   3.5    |   1.8    |         
- PQoQ%: |  26.0 |  -14.7   |  -23.8   |   69.7   |  -50.1   |         
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 108.8		136.0		160.6		167.2		173.2		135.0
+SQoQ%: 	-19.7		25.1		18.0		4.1		3.5		77.9
+YOPM%: 	9.4		10.5		11.7		12.7		9.3
+YNPM%: 	2.1		4.6		4.9		6.7		4.7
+YPROFIT: 2.3		6.3		7.9		11.2		8.1		8.0
+PQoQ%: 	-46.3		177.0		25.6		42.0		-27.6		98.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 42.8		41.4		43.3		46.2		45.5
+QoQ%: 	-10.4		-3.4		4.6		6.7		-1.4
+QOPM%: 	8.9		5.0		15.7		9.2		13.2
+QNPM%: 	4.1		1.7		5.7		4.8		7.3
+QPFT: 	1.8		0.7		2.5		2.2		3.3
+PQoQ%: 	-50.1		-59.7		249.3		-10.9		50.2
+
+
 
 ***PROS***
-A DEBT-Free Company
+A DEBT-Free Company for the last 2 yrs
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 79% YSales
-- Last 3QPROFIT is about 66% of YProfit
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 99% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-167.20cr, QoQ 4.10% & YoY 23.39% SALES;
-21.20cr, QoQ 13.00% & YoY 41.33% OPERATING PROFIT;
-11.20cr, QoQ 42.00% & YoY 166.67% NET PROFIT;
-OPM %: 12.70% vs 11.7%
-NPM %: 6.70% vs 4.9%
+ 31-Mar-2025 #Result
+173.20cr, QoQ 3.50% & YoY 59.19% SALES;
+16.10cr, QoQ -24.10% & YoY 56.31% OPERATING PROFIT;
+8.10cr, QoQ -27.60% & YoY 252.17% NET PROFIT;
+OPM %: 9.30% vs 12.7%
+NPM %: 4.70% vs 6.7%
 

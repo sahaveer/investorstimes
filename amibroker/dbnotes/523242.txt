@@ -1,26 +1,31 @@
-CODE	NAME
-523242 
+CODES	523242	
+FULLNAME : NB Footwear Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Leather And Leather Products
 
-SECTOR : Leather
-INDUSTRY : Leather / Leather Products
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 0.0		0.0		0.0		0.0		0.0
+SQoQ%: 	nan		nan		nan		nan		nan
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -0.3		-0.1		-0.2		-0.2		-0.2
+PQoQ%: 	30.8		-61.8		76.9		-17.4		21.1
+
+
+
+***QUARTERLY***
+QPNL: 	Jun-2024	Sep-2024	Dec-2024	Mar-2025	Jun-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-0.1		-0.0		-0.0		-0.1		-0.1
+PQoQ%: 	133.3		-42.9		25.0		40.0		14.3
+
+
+
+***PROS***
 
 ***CONS***
 - NEGATIVE YProfit : -0.2
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |      0.0     
- SQoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan    |      nan     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -0.3   |   -0.3   |   -0.1   |   -0.2   |   -0.2   |      -0.1    
- PQoQ%:  |  160.0   |   30.8   |  -61.8   |   76.9   |  -17.4   |      50.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.0   |   -0.0   |   -0.1   |   -0.0   |   -0.0  
- PQoQ%: |   0.0    |  -25.0   |  133.3   |  -42.9   |   25.0  
-
-***PROS***

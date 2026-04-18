@@ -1,40 +1,46 @@
-CODES
-532439	OLECTRA	
-SECTOR : Automobile
-INDUSTRY : Automobiles - LCVs / HCVs
+CODES	532439	OLECTRA	
+FULLNAME : Olectra Greentech Ltd
+SECTOR : Automobiles
+INDUSTRY : Passenger Cars & Utility Vehicles
 PRODUCT DEMAND
-BestQ Dec 2024
-YSD YPD 2022
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  200.5   |  281.4   |  593.3   |  1090.8  |  1154.1  |     1353.0   
- SQoQ%:  |   17.9   |   40.3   |  110.8   |   83.9   |   5.8    |     117.2    
- YOPM%:  |   2.5    |   7.2    |   14.3   |   13.0   |   14.4   |              
- YNPM%:  |   6.7    |   2.9    |   6.0    |   6.0    |   6.7    |              
-YPROFIT: |   13.5   |   8.1    |   35.4   |   65.6   |   76.8   |     117.9    
- PQoQ%:  |  -185.6  |  -40.3   |  337.5   |   85.5   |   17.1   |     153.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  342.1   |  288.8   |  313.9   |  523.7   |  515.4  
- QoQ%:  |   11.4   |  -15.6   |   8.7    |   66.8   |   -1.6  
- QOPM%: |   14.3   |   11.9   |   14.0   |   15.5   |   15.3  
- QNPM%: |   7.9    |   4.7    |   7.6    |   9.1    |   9.0   
- QPFT:  |   27.0   |   13.7   |   24.0   |   47.6   |   46.3  
- PQoQ%: |   49.4   |  -49.2   |   75.1   |   98.2   |   -2.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 281.4		593.3		1090.8		1154.1		1801.9		1667.4
+SQoQ%: 	40.3		110.8		83.9		5.8		56.1		92.5
+YOPM%: 	7.2		14.3		13.0		14.4		14.5
+YNPM%: 	2.9		6.0		6.0		6.7		7.7
+YPROFIT: 8.1		35.4		65.6		76.8		138.9		122.0
+PQoQ%: 	-40.3		337.5		85.5		17.1		80.8		87.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 515.4		448.9		347.2		656.6		663.6
+QoQ%: 	-1.6		-12.9		-22.7		89.1		1.1
+QOPM%: 	15.3		12.0		13.8		13.5		14.0
+QNPM%: 	9.0		4.7		7.5		7.5		7.0
+QPFT: 	46.3		21.0		26.0		49.6		46.4
+PQoQ%: 	-2.6		-54.7		24.0		90.4		-6.4
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 117% YSales
-- Last 3QPROFIT is about 154% of YProfit
-- YProfits and YSales DOUBLED in Mar2022
+- Last 3QSALES is about 93% YSales
+- Last 3QPROFIT is about 88% of YProfit
+
+YSALES in Mar-2025 is at 1801.9 showing a QoQ_growth of 56.1%. The YNETPROFIT grew by 80.8% to 138.9
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1154.10cr, QoQ 5.80% & YoY 475.61% SALES;
-165.90cr, QoQ 17.40% & YoY 3218.00% OPERATING PROFIT;
-76.80cr, QoQ 17.10% & YoY 468.89% NET PROFIT;
-OPM %: 14.40% vs 13.0%
-NPM %: 6.70% vs 6.0%
+ 31-Mar-2025 #Result
+1801.90cr, QoQ 56.10% & YoY 540.33% SALES;
+262.20cr, QoQ 58.00% & YoY 1198.02% OPERATING PROFIT;
+138.90cr, QoQ 80.80% & YoY 1614.81% NET PROFIT;
+OPM %: 14.50% vs 14.4%
+NPM %: 7.70% vs 6.7%
 

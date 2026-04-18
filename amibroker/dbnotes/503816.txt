@@ -1,47 +1,47 @@
-CODE	NAME
-503816 
-
-SECTOR : Realty
-INDUSTRY : Construction
+CODES	503816	
+FULLNAME : Swadeshi Polytex Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+BestQ Dec 2025
 YSD YPD 2024
-YSD YPD 2022
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   16.0   |   0.0    |   36.2   |   44.3   |   99.3   |      0.3     
- SQoQ%:  |   21.5   |  -100.0  |   inf    |   22.4   |  123.9   |      0.3     
- YOPM%:  |   77.2   |   0.0    |   92.1   |   92.0   |   93.1   |              
- YNPM%:  |   74.1   |   0.0    |   70.5   |   78.6   |   83.0   |              
-YPROFIT: |   11.8   |   -1.6   |   25.5   |   34.8   |   82.4   |      2.8     
- PQoQ%:  |   48.3   |  -113.8  | -1656.7  |   36.5   |  136.3   |      3.4     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   54.6   |   0.0    |   0.0    |   0.0    |   0.3   
- QoQ%:  |   35.8   |  -100.0  |   nan    |   nan    |   inf   
- QOPM%: |   95.1   |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   83.9   |   inf    |   inf    |   inf    |  396.7  
- QPFT:  |   45.8   |   0.1    |   0.8    |   0.8    |   1.2   
- PQoQ%: |   40.4   |  -99.8   |  710.0   |   -2.5   |   50.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		36.2		44.3		99.3		0.4		0.0
+SQoQ%: 	-100.0		inf		22.4		123.9		-99.6		0.0
+YOPM%: 	0.0		92.1		92.0		93.1		0.0
+YNPM%: 	0.0		70.5		78.6		83.0		570.0
+YPROFIT: -1.6		25.5		34.8		82.4		2.3		3.2
+PQoQ%: 	-113.8		-1656.7		36.5		136.3		-97.2		139.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.3		0.1		0.0		0.0		0.0
+QoQ%: 	inf		-66.7		-100.0		inf		-100.0
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	396.7		0.0		inf		13000.0		inf
+QPFT: 	1.2		-0.5		0.8		1.3		1.1
+PQoQ%: 	50.6		-143.7		-263.5		52.9		-15.4
+
+
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 69.7%
+DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- Last 3QPROFIT is about 139% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2024
-- YProfits and YSales DOUBLED in Mar2022
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 123.9% while the Profit QoQ_growth is much better than Sales itself at 136.3%
+
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-99.30cr, QoQ 123.90% & YoY 520.62% SALES;
-92.40cr, QoQ 126.70% & YoY 645.16% OPERATING PROFIT;
-82.40cr, QoQ 136.30% & YoY 598.31% NET PROFIT;
-OPM %: 93.10% vs 92.0%
-NPM %: 83.00% vs 78.6%
+ 31-Mar-2025 #Result
+0.40cr, QoQ -99.60% & YoY inf% SALES;
+-3.50cr, QoQ -103.80% & YoY 66.67% OPERATING PROFIT;
+2.30cr, QoQ -97.20% & YoY -243.75% NET PROFIT;
+OPM %: 0.00% vs 93.1%
+NPM %: 570.00% vs 83.0%
 

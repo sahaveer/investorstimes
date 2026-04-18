@@ -1,41 +1,42 @@
-CODE	NAME
-526901 
+CODES	526901	
+FULLNAME : Sonal Adhesives Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
 
-SECTOR : Packaging
-INDUSTRY : Packaging
-BestQ Dec 2024
-YSD YPD 2022
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 17.0		58.7		83.2		100.6		110.3		92.2
+SQoQ%: 	-47.2		245.7		41.9		20.9		9.6		83.6
+YOPM%: 	0.0		0.7		3.7		2.9		2.8
+YNPM%: 	0.0		9.6		2.7		1.8		1.6
+YPROFIT: -0.8		5.6		2.3		1.8		1.8		0.9
+PQoQ%: 	-56.4		-784.1		-59.5		-18.5		-4.9		50.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 26.4		31.8		28.3		34.9		29.0
+QoQ%: 	-3.1		20.5		-11.1		23.4		-16.9
+QOPM%: 	1.9		3.0		3.3		1.6		2.3
+QNPM%: 	1.1		1.2		1.6		0.8		0.5
+QPFT: 	0.3		0.4		0.4		0.3		0.2
+PQoQ%: 	-31.8		30.0		15.4		-40.0		-44.4
+
+
+
+***PROS***
+- Last 3QSALES is about 84% YSales
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   32.1   |   17.0   |   58.7   |   83.2   |  100.6   |      78.5    
- SQoQ%:  |  -14.0   |  -47.2   |  245.7   |   41.9   |   20.9   |      78.0    
- YOPM%:  |   0.0    |   0.0    |   0.7    |   3.7    |   2.9    |              
- YNPM%:  |   0.0    |   0.0    |   9.6    |   2.7    |   1.8    |              
-YPROFIT: |   -1.9   |   -0.8   |   5.6    |   2.3    |   1.8    |      1.3     
- PQoQ%:  |   84.3   |  -56.4   |  -784.1  |  -59.5   |  -18.5   |      72.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   25.4   |   26.7   |   24.9   |   27.2   |   26.4  
- QoQ%:  |   -6.7   |   4.9    |   -6.7   |   9.5    |   -3.1  
- QOPM%: |   2.4    |   3.7    |   3.6    |   2.9    |   1.9   
- QNPM%: |   0.7    |   1.0    |   2.6    |   1.6    |   1.1   
- QPFT:  |   0.2    |   0.3    |   0.6    |   0.4    |   0.3   
- PQoQ%: |  -74.3   |   50.0   |  137.0   |  -31.2   |  -31.8  
-
-***PROS***
-- Last 3QSALES is about 78% YSales
-- Last 3QPROFIT is about 72% of YProfit
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
-- YProfits and YSales DOUBLED in Mar2022
 
 Yearly 
- 31-Mar-2024 #Result
-100.60cr, QoQ 20.90% & YoY 213.40% SALES;
-2.90cr, QoQ -5.20% & YoY -238.10% OPERATING PROFIT;
-1.80cr, QoQ -18.50% & YoY -194.74% NET PROFIT;
-OPM %: 2.90% vs 3.7%
-NPM %: 1.80% vs 2.7%
+ 31-Mar-2025 #Result
+110.30cr, QoQ 9.60% & YoY 548.82% SALES;
+3.10cr, QoQ 8.00% & YoY -487.50% OPERATING PROFIT;
+1.80cr, QoQ -4.90% & YoY -325.00% NET PROFIT;
+OPM %: 2.80% vs 2.9%
+NPM %: 1.60% vs 1.8%
 

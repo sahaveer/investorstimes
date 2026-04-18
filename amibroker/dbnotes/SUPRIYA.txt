@@ -1,41 +1,52 @@
-CODES
-543434	SUPRIYA	
-SECTOR : 
-INDUSTRY : 
-BestQ Dec 2024
+CODES	543434	SUPRIYA	
+FULLNAME : Supriya Lifescience Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+PRODUCT DEMAND
+BestQ Dec 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  311.6   |  391.2   |  530.0   |  460.9   |  570.4   |     512.3    
- SQoQ%:  |   12.2   |   25.5   |   35.5   |  -13.0   |   23.7   |      89.8    
- YOPM%:  |   31.6   |   44.3   |   40.4   |   28.0   |   30.9   |              
- YNPM%:  |   23.5   |   31.6   |   28.6   |   19.5   |   20.9   |              
-YPROFIT: |   73.4   |  123.6   |  151.8   |   89.9   |  119.1   |     137.6    
- PQoQ%:  |   86.1   |   68.5   |   22.8   |  -40.8   |   32.6   |     115.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  140.1   |  158.2   |  160.6   |  166.1   |  185.6  
- QoQ%:  |   -0.0   |   12.9   |   1.5    |   3.4    |   11.8  
- QOPM%: |   29.6   |   35.1   |   38.9   |   39.0   |   35.5  
- QNPM%: |   21.3   |   23.3   |   27.8   |   27.8   |   25.2  
- QPFT:  |   29.8   |   36.9   |   44.6   |   46.2   |   46.8  
- PQoQ%: |   24.7   |   24.0   |   20.9   |   3.4    |   1.4   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 391.2		530.0		460.9		570.3		696.5		551.3
+SQoQ%: 	25.5		35.5		-13.0		23.7		22.1		79.2
+YOPM%: 	44.3		40.4		28.0		30.9		37.5
+YNPM%: 	31.6		28.6		19.5		20.9		27.0
+YPROFIT: 123.6		151.8		89.9		119.1		188.0		134.9
+PQoQ%: 	68.5		22.8		-40.8		32.6		57.8		71.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 185.6		184.1		145.1		199.8		206.4
+QoQ%: 	11.8		-0.8		-21.2		37.7		3.3
+QOPM%: 	35.5		36.7		35.6		36.4		34.9
+QNPM%: 	25.2		27.4		24.0		25.2		24.1
+QPFT: 	46.8		50.4		34.8		50.4		49.7
+PQoQ%: 	1.4		7.7		-30.9		45.0		-1.5
+
+
 
 ***PROS***
-A DEBT-Free Company
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 90% YSales
-- Last 3QPROFIT is about 116% of YProfit
+A DEBT-Free Company for the last 2 yrs
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 22.8%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 72% of YProfit
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 22.1% while the Profit QoQ_growth is much better than Sales itself at 57.8%
 
-
-YSALES in Mar-2024 is at 570.4 showing a QoQ_growth of 23.7%. The YNETPROFIT grew by 32.6% to 119.1
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-570.40cr, QoQ 23.70% & YoY 83.06% SALES;
-176.00cr, QoQ 36.60% & YoY 78.86% OPERATING PROFIT;
-119.10cr, QoQ 32.60% & YoY 62.26% NET PROFIT;
-OPM %: 30.90% vs 28.0%
-NPM %: 20.90% vs 19.5%
+ 31-Mar-2025 #Result
+696.50cr, QoQ 22.10% & YoY 78.04% SALES;
+260.90cr, QoQ 48.20% & YoY 50.72% OPERATING PROFIT;
+188.00cr, QoQ 57.80% & YoY 52.10% NET PROFIT;
+OPM %: 37.50% vs 30.9%
+NPM %: 27.00% vs 20.9%
 

@@ -1,39 +1,44 @@
-CODE	NAME
-506528 
+CODES	506528	
+FULLNAME : Keltech Energies Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Explosives
+BestQ Dec 2025
 
-SECTOR : Chemicals
-INDUSTRY : Chemicals
-PRODUCT DEMAND
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 220.2		354.6		562.8		449.3		487.8		389.0
+SQoQ%: 	2.0		61.1		58.7		-20.2		8.6		79.7
+YOPM%: 	6.1		4.2		4.6		7.2		7.5
+YNPM%: 	0.9		1.9		2.1		4.3		5.1
+YPROFIT: 1.9		6.6		11.9		19.4		24.9		20.2
+PQoQ%: 	-60.3		252.7		79.8		62.8		28.5		81.1
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  215.9   |  220.2   |  354.6   |  562.8   |  449.3   |     347.8    
- SQoQ%:  |   -4.6   |   2.0    |   61.1   |   58.7   |  -20.2   |      77.4    
- YOPM%:  |   7.3    |   6.1    |   4.2    |   4.6    |   7.2    |              
- YNPM%:  |   2.2    |   0.9    |   1.9    |   2.1    |   4.3    |              
-YPROFIT: |   4.7    |   1.9    |   6.6    |   11.9   |   19.4   |      18.2    
- PQoQ%:  |  -21.4   |  -60.3   |  252.7   |   79.8   |   62.8   |      93.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   95.6   |  122.2   |  128.3   |  102.4   |  117.1  
- QoQ%:  |   -1.1   |   27.8   |   5.0    |  -20.1   |   14.3  
- QOPM%: |   7.8    |   7.9    |   7.5    |   7.2    |   8.0   
- QNPM%: |   4.6    |   5.1    |   5.3    |   5.4    |   4.9   
- QPFT:  |   4.4    |   6.2    |   6.8    |   5.6    |   5.8   
- PQoQ%: |   11.2   |   41.8   |   8.7    |  -17.6   |   3.4   
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 117.4		139.9		143.5		117.3		128.2
+QoQ%: 	14.3		19.2		2.5		-18.2		9.3
+QOPM%: 	8.2		7.2		8.8		7.0		7.4
+QNPM%: 	4.9		4.9		5.7		5.3		4.5
+QPFT: 	5.8		6.9		8.2		6.2		5.8
+PQoQ%: 	3.4		19.7		19.3		-24.5		-6.3
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 77% YSales
-- Last 3QPROFIT is about 94% of YProfit
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 16.0%
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 81% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-449.30cr, QoQ -20.20% & YoY 108.11% SALES;
-32.40cr, QoQ 25.20% & YoY 106.37% OPERATING PROFIT;
-19.40cr, QoQ 62.80% & YoY 312.77% NET PROFIT;
-OPM %: 7.20% vs 4.6%
-NPM %: 4.30% vs 2.1%
+ 31-Mar-2025 #Result
+487.80cr, QoQ 8.60% & YoY 121.53% SALES;
+36.40cr, QoQ 12.30% & YoY 169.63% OPERATING PROFIT;
+24.90cr, QoQ 28.50% & YoY 1210.53% NET PROFIT;
+OPM %: 7.50% vs 7.2%
+NPM %: 5.10% vs 4.3%
 

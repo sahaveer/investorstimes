@@ -1,35 +1,44 @@
-CODES
-532509	SUPRAJIT	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
+CODES	532509	SUPRAJIT	
+FULLNAME : Suprajit Engineering Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1562.8  |  1640.9  |  1840.5  |  2752.4  |  2895.9  |     2400.1   
- SQoQ%:  |   -1.7   |   5.0    |   12.2   |   49.5   |   5.2    |      82.9    
- YOPM%:  |   14.0   |   14.4   |   14.1   |   11.4   |   11.2   |              
- YNPM%:  |   6.7    |   8.7    |   9.4    |   5.5    |   5.8    |              
-YPROFIT: |  104.0   |  142.7   |  173.1   |  152.1   |  167.3   |      72.0    
- PQoQ%:  |  -22.3   |   37.3   |   21.3   |  -12.1   |   10.0   |      43.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  724.2   |  783.1   |  734.9   |  833.6   |  831.6  
- QoQ%:  |   2.2    |   8.1    |   -6.2   |   13.4   |   -0.2  
- QOPM%: |   12.1   |   12.1   |   11.8   |   7.6    |   11.7  
- QNPM%: |   5.6    |   7.6    |   5.2    |   0.1    |   4.0   
- QPFT:  |   40.2   |   59.2   |   38.1   |   0.5    |   33.4  
- PQoQ%: |   15.8   |   47.0   |  -35.5   |  -98.7   |  6860.4 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1640.9		1840.5		2752.4		2895.9		3277.0		2782.9
+SQoQ%: 	5.0		12.2		49.5		5.2		13.2		84.9
+YOPM%: 	14.4		14.1		11.4		11.2		10.2
+YNPM%: 	8.7		9.4		5.5		5.8		3.0
+YPROFIT: 142.7		173.1		152.1		167.3		99.3		111.6
+PQoQ%: 	37.3		21.3		-12.1		10.0		-40.7		112.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 831.6		876.9		862.9		941.0		979.0
+QoQ%: 	-0.2		5.5		-1.6		9.1		4.0
+QOPM%: 	11.7		9.9		9.5		10.6		9.7
+QNPM%: 	4.0		3.1		5.6		5.4		1.3
+QPFT: 	33.4		27.2		48.1		51.0		12.5
+PQoQ%: 	6860.4		-18.5		76.5		5.9		-75.4
+
+
 
 ***PROS***
-- Last 3QSALES is about 83% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 85% YSales
+- Last 3QPROFIT is about 112% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-2895.90cr, QoQ 5.20% & YoY 85.30% SALES;
-323.60cr, QoQ 3.20% & YoY 47.90% OPERATING PROFIT;
-167.30cr, QoQ 10.00% & YoY 60.87% NET PROFIT;
-OPM %: 11.20% vs 11.4%
-NPM %: 5.80% vs 5.5%
+ 31-Mar-2025 #Result
+3277.00cr, QoQ 13.20% & YoY 99.71% SALES;
+333.40cr, QoQ 3.00% & YoY 40.85% OPERATING PROFIT;
+99.30cr, QoQ -40.70% & YoY -30.41% NET PROFIT;
+OPM %: 10.20% vs 11.2%
+NPM %: 3.00% vs 5.8%
 

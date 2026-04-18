@@ -1,12 +1,14 @@
-CODES
-544161	DPABHUSHAN	
-SECTOR : Diamond, Gems and Jewellery
-INDUSTRY : Diamond Cutting / Jewellery
+CODES	544161	DPABHUSHAN	
+FULLNAME : D.P. Abhushan Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

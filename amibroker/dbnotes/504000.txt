@@ -1,42 +1,47 @@
-CODE	NAME
-504000 
-
+CODES	504000	
+FULLNAME : Elpro International Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  109.8   |   63.2   |   72.4   |  123.1   |  256.5   |     339.0    
- SQoQ%:  |  166.7   |  -42.5   |   14.7   |   70.0   |  108.4   |     132.2    
- YOPM%:  |   28.6   |   48.1   |   36.7   |   36.8   |   41.8   |              
- YNPM%:  |   12.7   |   31.3   |  1459.2  |   38.9   |   33.3   |              
-YPROFIT: |   14.0   |   19.7   |  1056.7  |   47.9   |   85.5   |      58.8    
- PQoQ%:  |  -86.0   |   41.3   |  5253.2  |  -95.5   |   78.3   |      68.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   52.4   |  113.3   |  139.3   |  206.7   |   -7.0  
- QoQ%:  |   48.7   |  116.1   |   22.9   |   48.4   |  -103.4 
- QOPM%: |   66.3   |   13.2   |   48.8   |   13.6   |   0.0   
- QNPM%: |   45.2   |   21.2   |   34.1   |   15.6   |   0.0   
- QPFT:  |   23.7   |   24.0   |   47.6   |   32.2   |  -21.0  
- PQoQ%: |   30.1   |   1.3    |   97.9   |  -32.2   |  -165.3 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 63.2		72.4		123.1		228.8		390.2		342.6
+SQoQ%: 	-42.5		14.7		70.0		85.8		70.6		87.8
+YOPM%: 	48.1		36.7		36.8		34.8		20.7
+YNPM%: 	31.3		1459.2		38.9		37.4		16.9
+YPROFIT: 19.7		1056.7		47.9		85.5		66.1		179.3
+PQoQ%: 	41.3		5253.2		-95.5		78.3		-22.7		271.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: -7.0		69.9		99.7		53.5		189.4
+QoQ%: 	-103.4		-1105.5		42.7		-46.3		253.9
+QOPM%: 	0.0		45.2		71.1		41.8		71.4
+QNPM%: 	0.0		10.5		74.5		21.0		49.5
+QPFT: 	-21.0		7.4		74.3		11.2		93.8
+PQoQ%: 	-165.3		-135.0		908.4		-84.9		736.0
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 132% YSales
-- Last 3QPROFIT is about 69% of YProfit
+- Last 3QSALES is about 88% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 271% of YProfit
 
 
-YSALES in Mar-2024 is at 256.5 showing a QoQ_growth of 108.4%. The YNETPROFIT grew by 78.3% to 85.5
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-256.50cr, QoQ 108.40% & YoY 133.61% SALES;
-107.30cr, QoQ 136.80% & YoY 241.72% OPERATING PROFIT;
-85.50cr, QoQ 78.30% & YoY 510.71% NET PROFIT;
-OPM %: 41.80% vs 36.8%
-NPM %: 33.30% vs 38.9%
+ 31-Mar-2025 #Result
+390.20cr, QoQ 70.60% & YoY 517.41% SALES;
+80.90cr, QoQ 1.70% & YoY 166.12% OPERATING PROFIT;
+66.10cr, QoQ -22.70% & YoY 235.53% NET PROFIT;
+OPM %: 20.70% vs 34.8%
+NPM %: 16.90% vs 37.4%
 

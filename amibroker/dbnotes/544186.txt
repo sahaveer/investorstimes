@@ -1,13 +1,14 @@
-CODE	NAME
-544186 
-
+CODES	544186	
+FULLNAME : Forbes Precision Tools & Machine Parts Ltd
 SECTOR : Capital Goods-Non Electrical Equipment
 INDUSTRY : Engineering
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

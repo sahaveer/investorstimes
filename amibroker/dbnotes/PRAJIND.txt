@@ -1,35 +1,42 @@
-CODES
-522205	PRAJIND	
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
+CODES	522205	PRAJIND	
+FULLNAME : Praj Industries Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1304.7  |  2343.3  |  3528.0  |  3466.3  |  3228.0 
- SQoQ%:  |   18.4   |   79.6   |   50.6   |   -1.8   |   -6.9  
- YOPM%:  |   8.6    |   8.3    |   8.7    |   10.7   |   10.1  
- YNPM%:  |   6.2    |   6.4    |   6.8    |   8.2    |   6.8   
-YPROFIT: |   81.0   |  150.2   |  239.8   |  283.4   |  218.9  
- PQoQ%:  |   15.1   |   85.4   |   59.6   |   18.2   |  -22.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1018.6  |  699.1   |  816.2   |  853.0   |  859.7  
- QoQ%:  |   22.9   |  -31.4   |   16.7   |   4.5    |   0.8   
- QOPM%: |   12.8   |   13.2   |   10.6   |   8.5    |   8.6   
- QNPM%: |   9.0    |   12.0   |   6.6    |   4.8    |   4.6   
- QPFT:  |   91.9   |   84.2   |   53.8   |   41.1   |   39.8  
- PQoQ%: |   30.6   |   -8.4   |  -36.1   |  -23.6   |   -3.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1304.7		2333.3		3528.0		3466.3		3228.0		2323.3
+SQoQ%: 	18.4		78.8		51.2		-1.8		-6.9		72.0
+YOPM%: 	8.6		8.3		8.7		10.7		9.8
+YNPM%: 	6.2		6.4		6.8		8.2		6.8
+YPROFIT: 81.0		150.2		239.8		283.4		218.9		12.2
+PQoQ%: 	15.1		85.4		59.6		18.2		-22.7		5.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 853.0		859.7		640.2		841.6		841.5
+QoQ%: 	4.5		0.8		-25.5		31.5		-0.0
+QOPM%: 	8.5		8.6		4.9		6.6		5.6
+QNPM%: 	4.8		4.6		0.8		2.3		0.0
+QPFT: 	41.1		39.8		5.3		19.3		-12.4
+PQoQ%: 	-23.6		-3.1		-86.6		261.0		-164.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 72% YSales
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 3228.00cr, QoQ -6.90% & YoY 147.41% SALES;
-324.80cr, QoQ -12.60% & YoY 188.97% OPERATING PROFIT;
+314.90cr, QoQ -15.30% & YoY 180.16% OPERATING PROFIT;
 218.90cr, QoQ -22.70% & YoY 170.25% NET PROFIT;
-OPM %: 10.10% vs 10.7%
+OPM %: 9.80% vs 10.7%
 NPM %: 6.80% vs 8.2%
 

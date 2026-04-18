@@ -1,38 +1,47 @@
-CODES
-TARACHAND	
-SECTOR : Diversified
-INDUSTRY : Diversified - Medium / Small
+CODES	TARACHAND	
+FULLNAME : Tara Chand Infralogistic Solutions Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 PRODUCT DEMAND
+BestQ Dec 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  110.1   |  128.0   |  141.0   |  171.8   |  247.8  
- SQoQ%:  |   -3.9   |   16.3   |   10.1   |   21.9   |   44.2  
- YOPM%:  |   31.0   |   23.6   |   27.2   |   32.3   |   31.4  
- YNPM%:  |   2.3    |   1.9    |   6.6    |   9.4    |   10.0  
-YPROFIT: |   2.6    |   2.4    |   9.4    |   16.1   |   24.9  
- PQoQ%:  |  -67.9   |   -7.4   |  294.9   |   72.3   |   54.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   46.5   |   45.7   |   56.2   |   64.4   |   81.6  
- QoQ%:  |   4.8    |   -1.8   |   23.0   |   14.6   |   26.8  
- QOPM%: |   35.5   |   31.3   |   31.2   |   32.5   |   30.8  
- QNPM%: |   13.6   |   9.9    |   12.9   |   8.1    |   9.6   
- QPFT:  |   6.3    |   4.5    |   7.2    |   5.2    |   7.9   
- PQoQ%: |   88.1   |  -27.9   |   59.0   |  -27.4   |   50.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 110.1		128.0		141.0		171.8		247.8		195.4
+SQoQ%: 	-3.9		16.3		10.1		21.9		44.2		78.9
+YOPM%: 	31.0		23.6		27.2		32.3		31.5
+YNPM%: 	2.3		1.9		6.6		9.4		10.0
+YPROFIT: 2.6		2.4		9.4		16.1		24.9		19.1
+PQoQ%: 	-67.9		-7.4		294.9		72.3		54.1		76.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 64.4		81.6		61.1		65.7		68.6
+QoQ%: 	14.6		26.8		-25.2		7.5		4.4
+QOPM%: 	32.5		30.8		36.8		37.9		36.5
+QNPM%: 	8.1		9.6		10.6		11.4		7.6
+QPFT: 	5.2		7.9		6.4		7.5		5.2
+PQoQ%: 	-27.4		50.0		-17.9		16.0		-30.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 77% of YProfit
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 44.2% while the Profit QoQ_growth is much better than Sales itself at 54.1%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 247.80cr, QoQ 44.20% & YoY 125.07% SALES;
-77.90cr, QoQ 40.30% & YoY 127.78% OPERATING PROFIT;
+78.10cr, QoQ 40.70% & YoY 128.36% OPERATING PROFIT;
 24.90cr, QoQ 54.10% & YoY 857.69% NET PROFIT;
-OPM %: 31.40% vs 32.3%
+OPM %: 31.50% vs 32.3%
 NPM %: 10.00% vs 9.4%
 

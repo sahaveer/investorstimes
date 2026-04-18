@@ -1,31 +1,39 @@
-CODE	NAME
-504882 
-
+CODES	504882	
+FULLNAME : National Standard (India) Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
+BestQ Dec 2025
 
-***CONS***
-  YPNL   |   :   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+-------+----------+----------+----------+----------+---------
-YSALES:  |  16.9 |   25.5   |   17.4   |   21.4   |   22.3   |         
- SQoQ%:  | 212.8 |   51.0   |  -31.9   |   23.2   |   4.5    |         
- YOPM%:  |  10.0 |   57.8   |   8.6    |   16.1   |   0.7    |         
- YNPM%:  |  65.5 |   96.7   |   47.6   |   69.0   |   59.1   |         
-YPROFIT: |  11.0 |   24.6   |   8.2    |   14.7   |   13.2   |         
- PQoQ%:  |  69.2 |  122.7   |  -66.5   |   78.7   |  -10.4   |         
-  QPNL  |   :   | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+-------+----------+----------+----------+----------+---------
-QSALES: |  5.6  |   0.0    |   3.8    |   15.7   |   2.8    |         
- QoQ%:  | -62.3 |  -99.5   | 12566.7  |  312.9   |  -82.1   |         
- QOPM%: |  26.3 |   0.0    |   53.7   |   0.0    |   0.0    |         
- QNPM%: |  75.5 |  8800.0  |  126.3   |   13.7   |  128.1   |         
- QPFT:  |  4.2  |   2.6    |   4.8    |   2.2    |   3.6    |         
- PQoQ%: | -14.2 |  -37.4   |   81.8   |  -55.2   |   67.4   |         
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 16.9		25.5		17.4		21.4		22.3		20.4
+SQoQ%: 	212.8		51.0		-31.9		23.2		4.5		91.5
+YOPM%: 	10.0		57.8		8.6		16.1		0.7
+YNPM%: 	65.5		96.7		47.6		69.0		59.1
+YPROFIT: 11.0		24.6		8.2		14.7		13.2		8.5
+PQoQ%: 	69.2		122.7		-66.5		78.7		-10.4		64.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 15.7		2.8		0.0		17.2		3.2
+QoQ%: 	312.9		-82.1		-100.0		inf		-81.6
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	13.7		128.1		inf		24.7		102.5
+QPFT: 	2.2		3.6		1.0		4.3		3.2
+PQoQ%: 	-55.2		67.4		-72.5		330.3		-23.7
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 91% YSales
+- Last 3QPROFIT is about 64% of YProfit
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

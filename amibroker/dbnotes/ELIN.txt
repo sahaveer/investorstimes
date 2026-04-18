@@ -1,39 +1,43 @@
-CODES
-543725	ELIN	
+CODES	543725	ELIN	
+FULLNAME : Elin Electronics Ltd
 SECTOR : Consumer Durables
-INDUSTRY : Electronics - Components
-BestQ Dec 2024
+INDUSTRY : Household Appliances
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 862.4		1093.8		1075.4		1041.7		1180.2		963.5
+SQoQ%: 	9.8		26.8		-1.7		-3.1		13.3		81.6
+YOPM%: 	7.7		7.2		6.1		3.9		4.4
+YNPM%: 	4.0		3.6		2.5		1.3		2.5
+YPROFIT: 34.9		39.2		26.8		13.9		29.3		23.4
+PQoQ%: 	87.6		12.4		-31.6		-48.2		111.4		79.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 266.3		315.8		295.5		374.5		293.5
+QoQ%: 	-12.6		18.6		-6.4		26.8		-21.6
+QOPM%: 	2.8		6.4		5.9		5.4		4.0
+QNPM%: 	0.5		5.5		3.2		2.8		1.2
+QPFT: 	1.4		17.2		9.4		10.3		3.7
+PQoQ%: 	-70.7		1130.0		-45.5		9.7		-64.5
+
+
+
+***PROS***
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 80% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  785.6   |  862.4   |  1093.8  |  1075.4  |  1041.7  |     864.5    
- SQoQ%:  |   -5.2   |   9.8    |   26.8   |   -1.7   |   -3.1   |      83.0    
- YOPM%:  |   7.0    |   7.7    |   7.2    |   6.1    |   3.9    |              
- YNPM%:  |   2.4    |   4.0    |   3.6    |   2.5    |   1.3    |              
-YPROFIT: |   18.6   |   34.9   |   39.2   |   26.8   |   13.9   |      12.1    
- PQoQ%:  |  -17.9   |   87.6   |   12.4   |  -31.6   |  -48.2   |      87.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  236.7   |  277.8   |  293.6   |  304.6   |  266.3  
- QoQ%:  |  -13.4   |   17.4   |   5.7    |   3.7    |  -12.6  
- QOPM%: |   3.6    |   4.5    |   4.5    |   3.7    |   2.8   
- QNPM%: |   1.1    |   1.3    |   2.0    |   1.6    |   0.5   
- QPFT:  |   2.6    |   3.5    |   5.9    |   4.8    |   1.4   
- PQoQ%: |  -32.7   |   34.1   |   67.2   |  -19.3   |  -70.7  
-
-***PROS***
-A DEBT-Free Company
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 83% YSales
-- Last 3QPROFIT is about 87% of YProfit
 
 Yearly 
- 31-Mar-2024 #Result
-1041.70cr, QoQ -3.10% & YoY 32.60% SALES;
-40.80cr, QoQ -37.40% & YoY -26.35% OPERATING PROFIT;
-13.90cr, QoQ -48.20% & YoY -25.27% NET PROFIT;
-OPM %: 3.90% vs 6.1%
-NPM %: 1.30% vs 2.5%
+ 31-Mar-2025 #Result
+1180.20cr, QoQ 13.30% & YoY 36.85% SALES;
+52.40cr, QoQ 28.50% & YoY -21.56% OPERATING PROFIT;
+29.30cr, QoQ 111.40% & YoY -16.05% NET PROFIT;
+OPM %: 4.40% vs 3.9%
+NPM %: 2.50% vs 1.3%
 

@@ -1,5 +1,5 @@
-CODES
-C2C	
+CODES	C2C	
+FULLNAME : C2C Advanced Systems Ltd
 SECTOR : Aerospace & Defence
 INDUSTRY : Engineering
 PRODUCT DEMAND
@@ -7,8 +7,7 @@ YSD YPD 2024
 YSD YPD 2023
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -22,6 +21,8 @@ ROCE in Mar2024 is at 16.7%
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
 
 YSALES in Mar-2024 is at 41.1 showing a QoQ_growth of 410.1%. The YNETPROFIT grew by 330.6% to 12.4
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

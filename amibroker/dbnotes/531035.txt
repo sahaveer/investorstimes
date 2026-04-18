@@ -1,22 +1,15 @@
-CODE	NAME
-531035 
+CODES	531035	
+FULLNAME : Eraaya Lifespaces Ltd
+SECTOR : Automobiles
+INDUSTRY : 2/3 Wheelers
 
-SECTOR : Finance
-INDUSTRY : Finance & Investments
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
 
-Quarterly 
-31-Dec-2024 #Result
-666.10cr, QoQ 218.10% SALES;
-65.00cr, QoQ 233.30% OPERATING PROFIT;
-9.70cr, QoQ -19.80% NET PROFIT;
-OPM %: 9.80% vs 9.3%
-NPM %: 1.50% vs 5.7%
-
+***CONS***
+- NEGATIVE YProfit : -358.7

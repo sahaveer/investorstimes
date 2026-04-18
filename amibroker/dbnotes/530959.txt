@@ -1,13 +1,14 @@
-CODE	NAME
-530959 
+CODES	530959	
+FULLNAME : Diana Tea Company Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Tea & Coffee
 
-SECTOR : Plantation & Plantation Products
-INDUSTRY : Tea
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

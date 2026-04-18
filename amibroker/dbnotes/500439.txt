@@ -1,38 +1,47 @@
-CODES
-500439	VHL	
+CODES	500439	VHL	
+FULLNAME : Vardhman Holdings Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Investment Company
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   19.8   |   33.1   |   5.9    |   14.9   |   22.8  
- SQoQ%:  |   59.1   |   67.2   |  -82.2   |  153.4   |   52.8  
- YOPM%:  |   88.9   |   90.8   |   25.9   |   70.9   |   72.9  
- YNPM%:  |  654.4   |  1296.7  |  3884.9  |  1240.8  |  1133.1 
-YPROFIT: |  129.5   |  429.1   |  228.4   |  184.9   |  258.0  
- PQoQ%:  |  -18.9   |  231.3   |  -46.8   |  -19.1   |   39.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   0.1    |   6.6    |   7.4    |   6.6    |   2.2   
- QoQ%:  |  -99.1   |  9328.6  |   12.1   |  -11.2   |  -66.5  
- QOPM%: |   0.0    |   80.6   |   65.9   |   78.8   |   55.5  
- QNPM%: | 36542.9  |  1108.0  |  667.3   |  1000.9  |  3169.5 
- QPFT:  |   25.6   |   73.1   |   49.4   |   65.8   |   69.7  
- PQoQ%: |  -52.3   |  185.9   |  -32.5   |   33.2   |   6.0   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 19.8		33.1		5.9		14.9		22.8		12.0
+SQoQ%: 	59.1		67.2		-82.2		153.4		52.9		52.6
+YOPM%: 	88.9		90.8		25.9		70.9		72.8
+YNPM%: 	654.4		1296.7		3884.9		1240.8		1132.6
+YPROFIT: 129.5		429.1		228.4		184.9		258.0		162.4
+PQoQ%: 	-18.9		231.3		-46.8		-19.1		39.5		62.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 6.6		2.2		3.4		2.8		5.8
+QoQ%: 	-11.2		-66.5		55.0		-19.4		109.5
+QOPM%: 	78.8		55.5		90.6		86.9		91.1
+QNPM%: 	1000.9		3169.5		1835.2		1677.1		932.5
+QPFT: 	65.8		69.7		62.6		46.1		53.7
+PQoQ%: 	33.2		6.0		-10.3		-26.3		16.5
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 53% YSales
+- Last 3QPROFIT is about 63% of YProfit
 
 
-YSALES in Mar-2025 is at 22.8 showing a QoQ_growth of 52.8%. The YNETPROFIT grew by 39.5% to 258.0
+YSALES in Mar-2025 is at 22.8 showing a QoQ_growth of 52.9%. The YNETPROFIT grew by 39.5% to 258.0
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-22.80cr, QoQ 52.80% & YoY 15.15% SALES;
+22.80cr, QoQ 52.90% & YoY 15.15% SALES;
 16.60cr, QoQ 57.10% & YoY -5.68% OPERATING PROFIT;
 258.00cr, QoQ 39.50% & YoY 99.23% NET PROFIT;
-OPM %: 72.90% vs 70.9%
-NPM %: 1133.10% vs 1240.8%
+OPM %: 72.80% vs 70.9%
+NPM %: 1132.60% vs 1240.8%
 

@@ -1,15 +1,16 @@
-CODES
-BARFLEX	
+CODES	BARFLEX	
+FULLNAME : Barflex Polyfilms Ltd
 SECTOR : Packaging
 INDUSTRY : Packaging
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.1
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

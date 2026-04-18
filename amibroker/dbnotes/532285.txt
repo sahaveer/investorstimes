@@ -1,38 +1,45 @@
-CODES
-532285	GEOJITFSL	
-SECTOR : Stock/ Commodity Brokers
-INDUSTRY : Finance & Investments
+CODES	532285	GEOJITFSL	
+FULLNAME : Geojit Financial Services Ltd
+SECTOR : Capital Markets
+INDUSTRY : Stockbroking & Allied
 PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  426.0   |  500.4   |  446.9   |  623.3   |  747.9  
- SQoQ%:  |   39.3   |   17.5   |  -10.7   |   39.5   |   20.0  
- YOPM%:  |   44.8   |   46.3   |   34.7   |   38.0   |   38.0  
- YNPM%:  |   28.9   |   30.1   |   21.7   |   23.2   |   22.4  
-YPROFIT: |  123.2   |  150.6   |   97.2   |  144.8   |  167.5  
- PQoQ%:  |  161.9   |   22.3   |  -35.5   |   49.1   |   15.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  208.1   |  181.1   |  218.5   |  171.7   |  176.7  
- QoQ%:  |   36.7   |  -13.0   |   20.6   |  -21.4   |   2.9   
- QOPM%: |   38.8   |   41.8   |   43.1   |   36.5   |   29.4  
- QNPM%: |   24.3   |   24.6   |   25.6   |   20.9   |   17.6  
- QPFT:  |   50.6   |   44.5   |   56.0   |   35.9   |   31.1  
- PQoQ%: |   37.1   |  -12.0   |   25.9   |  -36.0   |  -13.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 426.0		500.4		446.9		623.3		748.6		483.1
+SQoQ%: 	39.3		17.5		-10.7		39.5		20.1		64.5
+YOPM%: 	44.8		46.3		34.7		38.0		38.1
+YNPM%: 	28.9		30.1		21.7		23.2		22.4
+YPROFIT: 123.2		150.6		97.2		144.8		167.5		62.8
+PQoQ%: 	161.9		22.3		-35.5		49.1		15.7		37.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 171.7		176.7		153.2		169.8		160.1
+QoQ%: 	-21.4		2.9		-13.3		10.9		-5.7
+QOPM%: 	36.5		29.4		31.1		22.9		23.6
+QNPM%: 	20.9		17.6		18.1		13.2		8.0
+QPFT: 	35.9		31.1		27.7		22.4		12.7
+PQoQ%: 	-36.0		-13.2		-11.1		-19.2		-43.1
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 65% YSales
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
-As on Mar2025, Sales have increased by 20.0% while the Profit QoQ_growth is at 15.7%
+As on Mar2025, Sales have increased by 20.1% while the Profit QoQ_growth is at 15.7%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-747.90cr, QoQ 20.00% & YoY 75.56% SALES;
-284.40cr, QoQ 19.90% & YoY 49.13% OPERATING PROFIT;
+748.60cr, QoQ 20.10% & YoY 75.73% SALES;
+285.20cr, QoQ 20.20% & YoY 49.55% OPERATING PROFIT;
 167.50cr, QoQ 15.70% & YoY 35.96% NET PROFIT;
-OPM %: 38.00% vs 38.0%
+OPM %: 38.10% vs 38.0%
 NPM %: 22.40% vs 23.2%
 

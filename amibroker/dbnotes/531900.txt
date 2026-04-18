@@ -1,13 +1,14 @@
-CODE	NAME
-531900 
+CODES	531900	
+FULLNAME : CCL International Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
 
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

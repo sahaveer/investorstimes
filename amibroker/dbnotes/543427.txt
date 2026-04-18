@@ -1,39 +1,44 @@
-CODES
-543427	MEDPLUS	
-SECTOR : Retail
-INDUSTRY : Trading
-BestQ Dec 2024
+CODES	543427	MEDPLUS	
+FULLNAME : Medplus Health Services Ltd
+SECTOR : Retailing
+INDUSTRY : Pharmacy Retail
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  2870.6  |  3069.3  |  3779.3  |  4557.6  |  5624.9  |     4626.4   
- SQoQ%:  |   26.3   |   6.9    |   23.1   |   20.6   |   23.4   |      82.2    
- YOPM%:  |   4.7    |   7.1    |   7.2    |   5.8    |   6.3    |              
- YNPM%:  |   0.1    |   2.1    |   2.5    |   1.1    |   1.2    |              
-YPROFIT: |   2.2    |   63.9   |   95.8   |   49.8   |   65.5   |      99.0    
- PQoQ%:  |  -81.7   |  2829.4  |   50.0   |  -48.1   |   31.6   |     151.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  1441.5  |  1490.5  |  1488.8  |  1576.2  |  1561.4 
- QoQ%:  |   2.3    |   3.4    |   -0.1   |   5.9    |   -0.9  
- QOPM%: |   6.4    |   7.1    |   6.3    |   7.9    |   8.5   
- QNPM%: |   1.0    |   2.2    |   1.0    |   2.5    |   2.9   
- QPFT:  |   13.7   |   33.4   |   14.4   |   38.7   |   45.9  
- PQoQ%: |   -5.7   |  143.3   |  -57.0   |  169.8   |   18.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3069.3		3779.3		4557.6		5624.8		6136.1		5028.0
+SQoQ%: 	6.9		23.1		20.6		23.4		9.1		81.9
+YOPM%: 	7.1		7.2		5.8		6.3		8.0
+YNPM%: 	2.1		2.5		1.1		1.2		2.4
+YPROFIT: 63.9		95.8		49.8		65.5		150.3		155.7
+PQoQ%: 	2829.4		50.0		-48.1		31.6		129.6		103.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1561.4		1509.6		1542.6		1679.3		1806.1
+QoQ%: 	-0.9		-3.3		2.2		8.9		7.6
+QOPM%: 	8.5		9.0		8.5		8.9		8.8
+QNPM%: 	2.9		3.4		2.7		3.3		3.2
+QPFT: 	45.9		51.3		42.4		55.5		57.8
+PQoQ%: 	18.5		11.9		-17.5		31.0		4.2
+
+
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
 - Last 3QSALES is about 82% YSales
-- Last 3QPROFIT is about 151% of YProfit
+- Last 3QPROFIT is about 104% of YProfit
 
-YSALES in Mar-2024 is at 5624.9 showing a QoQ_growth of 23.4%. The YNETPROFIT grew by 31.6% to 65.5
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-5624.90cr, QoQ 23.40% & YoY 95.95% SALES;
-354.50cr, QoQ 33.30% & YoY 164.55% OPERATING PROFIT;
-65.50cr, QoQ 31.60% & YoY 2877.27% NET PROFIT;
-OPM %: 6.30% vs 5.8%
-NPM %: 1.20% vs 1.1%
+ 31-Mar-2025 #Result
+6136.10cr, QoQ 9.10% & YoY 99.92% SALES;
+488.00cr, QoQ 37.60% & YoY 125.09% OPERATING PROFIT;
+150.30cr, QoQ 129.60% & YoY 135.21% NET PROFIT;
+OPM %: 8.00% vs 6.3%
+NPM %: 2.40% vs 1.2%
 

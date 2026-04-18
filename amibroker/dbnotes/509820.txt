@@ -1,14 +1,13 @@
-CODES
-509820	HUHTAMAKI	
-SECTOR : Packaging
+CODES	509820	HUHTAMAKI	
+FULLNAME : Huhtamaki India Ltd
+SECTOR : Industrial Products
 INDUSTRY : Packaging
 BestQ Dec 2016
 
-***CONS***
-- NO PRODUCT DEMAND
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
@@ -16,6 +15,9 @@ BestQ Dec 2016
 - Last 3QPROFIT is about 65% of YProfit
 
 YSALES in Dec-2015 is at 2037.4 showing a QoQ_growth of 66.3%. The YNETPROFIT grew by 15.5% to 76.9
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Dec-2015 #Result

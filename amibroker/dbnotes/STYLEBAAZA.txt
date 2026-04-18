@@ -1,12 +1,14 @@
-CODES
-544243	STYLEBAAZA	
+CODES	544243	STYLEBAAZA	
+FULLNAME : Baazar Style Retail Ltd
 SECTOR : Retail
 INDUSTRY : Trading
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

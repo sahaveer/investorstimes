@@ -1,21 +1,11 @@
-CODES
-SWASTIK	
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
-PRODUCT DEMAND
+CODES	SWASTIK	
+FULLNAME : Swastik Pipe Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
 
-Yearly 
- 31-Mar-2024 #Result
-722.60cr, QoQ 1.90% & YoY 10.62% SALES;
-23.60cr, QoQ -13.40% & YoY 145.83% OPERATING PROFIT;
-5.10cr, QoQ -43.40% & YoY -136.69% NET PROFIT;
-OPM %: 3.30% vs 3.8%
-NPM %: 0.70% vs 1.3%
-
+***CONS***

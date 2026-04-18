@@ -1,17 +1,15 @@
-CODE	NAME
-544080 
-
+CODES	544080	
+FULLNAME : Sayaji Hotels (Indore) Ltd
 SECTOR : Hotels & Restaurants
 INDUSTRY : Hotels
 EXPANSION 2023
 BestQ Dec 2024
 YSD YPD 2023
 
-***CONS***
-- NO PRODUCT DEMAND
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
@@ -20,6 +18,9 @@ EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
 - Last 3QPROFIT is about 85% of YProfit
 - YProfits and YSales DOUBLED in Mar2023
 
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

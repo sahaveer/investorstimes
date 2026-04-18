@@ -1,29 +1,30 @@
-CODE	NAME
-542668 
-
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	542668	
+FULLNAME : Evans Electric Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 YSD YPD 2023
-LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
+DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 60.3%
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  have increased this year
+ROCE in Mar2025 is at 55.8%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+YSALES in Mar-2025 is at 25.5 showing a QoQ_growth of 23.3%. The YNETPROFIT grew by 49.3% to 7.6
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-20.70cr, QoQ 8.10% & YoY 183.56% SALES;
-6.40cr, QoQ 48.70% & YoY 300.00% OPERATING PROFIT;
-5.10cr, QoQ 38.50% & YoY 410.00% NET PROFIT;
-OPM %: 31.00% vs 22.5%
-NPM %: 24.50% vs 19.1%
+ 31-Mar-2025 #Result
+25.50cr, QoQ 23.30% & YoY 168.42% SALES;
+9.60cr, QoQ 49.10% & YoY 860.00% OPERATING PROFIT;
+7.60cr, QoQ 49.30% & YoY 1166.67% NET PROFIT;
+OPM %: 37.50% vs 31.0%
+NPM %: 29.70% vs 24.5%
 

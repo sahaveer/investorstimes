@@ -1,12 +1,14 @@
-CODES
-543645	HPIL	
-SECTOR : Chemicals
+CODES	543645	HPIL	
+FULLNAME : Hindprakash Industries Ltd
+SECTOR : Chemicals & Petrochemicals
 INDUSTRY : Dyes And Pigments
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

@@ -1,5 +1,5 @@
-CODES
-544292	ONESOURCE	
+CODES	544292	ONESOURCE	
+FULLNAME : OneSource Specialty Pharma Ltd
 SECTOR : Pharmaceuticals
 INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
 PRODUCT DEMAND
@@ -7,27 +7,33 @@ YSD YPD 2025
 YSD YPD 2024
 LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -18.0
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   21.4   |  128.2   |   38.7   |  171.9   |  1444.8 
- SQoQ%:  |   nan    |  499.3   |  -69.8   |  344.1   |  740.4  
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   32.3  
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
-YPROFIT: |  -120.8  |  -231.2  |  -799.8  |  -391.2  |  -18.0  
- PQoQ%:  |   nan    |   91.3   |  246.0   |  -51.1   |  -95.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   73.1   |   78.4   |  334.0   |  392.6   |  426.0  
- QoQ%:  |   30.1   |   7.2    |  326.1   |   17.5   |   8.5   
- QOPM%: |   0.0    |   6.9    |   23.1   |   36.1   |   42.8  
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   23.1  
- QPFT:  |  -40.2   |  -32.8   |  -42.1   |  -68.8   |   98.5  
- PQoQ%: |  -69.1   |  -18.3   |   28.2   |   63.6   |  -243.1 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 	21.4		128.2		38.7		171.9		1444.8
+SQoQ%: 	nan		499.3		-69.8		344.1		740.4
+YOPM%: 	0.0		0.0		0.0		0.0		32.3
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: 	-120.8		-231.2		-799.8		-391.2		-18.0
+PQoQ%: 	nan		91.3		246.0		-51.1		-95.4
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2024		Jun-2024	Sep-2024	Dec-2024		Mar-2025
+QSALES: 	73.1		78.4		334.0		392.6		426.0
+QoQ%: 	30.1		7.2		326.1		17.5		8.5
+QOPM%: 	0.0		6.9		23.1		36.1		42.8
+QNPM%: 	0.0		0.0		0.0		0.0		23.1
+QPFT: 	-40.2		-32.8		-42.1		-68.8		98.5
+PQoQ%: 	-69.1		-18.3		28.2		63.6		-243.1
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - YProfits and YSales DOUBLED in Mar2025
 - YProfits and YSales DOUBLED in Mar2024
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -18.0

@@ -1,37 +1,44 @@
-CODE	NAME
-523842 
+CODES	523842	
+FULLNAME : Super Tannery Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Leather And Leather Products
+PRODUCT DEMAND
+BestQ Dec 2025
 
-SECTOR : Leather
-INDUSTRY : Leather / Leather Products
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 191.2		221.0		226.7		228.8		285.1		189.9
+SQoQ%: 	2.9		15.6		2.6		0.9		24.6		66.6
+YOPM%: 	8.5		6.7		7.4		7.7		7.2
+YNPM%: 	2.5		2.1		2.8		2.6		2.3
+YPROFIT: 4.8		4.6		6.3		5.8		6.7		4.0
+PQoQ%: 	39.2		-4.0		38.1		-7.3		14.0		59.7
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  185.8   |  191.2   |  221.0   |  226.7   |  228.8   |     216.1    
- SQoQ%:  |   -6.0   |   2.9    |   15.6   |   2.6    |   0.9    |      94.4    
- YOPM%:  |   7.6    |   8.5    |   6.7    |   7.6    |   7.7    |              
- YNPM%:  |   1.8    |   2.5    |   2.1    |   2.8    |   2.6    |              
-YPROFIT: |   3.4    |   4.8    |   4.6    |   6.3    |   5.8    |      4.8     
- PQoQ%:  |  -15.1   |   39.2   |   -4.0   |   38.1   |   -7.3   |      82.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   56.6   |   63.2   |   64.6   |   78.1   |   73.4  
- QoQ%:  |   -7.6   |   11.7   |   2.2    |   20.9   |   -6.0  
- QOPM%: |   6.4    |   9.1    |   8.4    |   4.9    |   7.2   
- QNPM%: |   1.6    |   3.4    |   3.3    |   1.2    |   2.3   
- QPFT:  |   0.9    |   2.2    |   2.2    |   0.9    |   1.7   
- PQoQ%: |  -41.9   |  133.3   |   -0.5   |  -57.4   |   85.9  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 73.4		69.0		67.8		62.2		59.9
+QoQ%: 	-6.0		-6.0		-1.8		-8.3		-3.7
+QOPM%: 	7.2		8.8		8.4		6.8		7.3
+QNPM%: 	2.3		4.4		3.2		1.1		1.9
+QPFT: 	1.7		3.0		2.2		0.7		1.1
+PQoQ%: 	85.9		78.4		-28.5		-68.3		65.2
+
+
 
 ***PROS***
-- Last 3QSALES is about 94% YSales
-- Last 3QPROFIT is about 83% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 67% YSales
+- Last 3QPROFIT is about 60% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-228.80cr, QoQ 0.90% & YoY 23.14% SALES;
-17.60cr, QoQ 2.30% & YoY 23.94% OPERATING PROFIT;
-5.80cr, QoQ -7.30% & YoY 70.59% NET PROFIT;
-OPM %: 7.70% vs 7.6%
-NPM %: 2.60% vs 2.8%
+ 31-Mar-2025 #Result
+285.10cr, QoQ 24.60% & YoY 49.11% SALES;
+20.70cr, QoQ 16.90% & YoY 26.99% OPERATING PROFIT;
+6.70cr, QoQ 14.00% & YoY 39.58% NET PROFIT;
+OPM %: 7.20% vs 7.7%
+NPM %: 2.30% vs 2.6%
 

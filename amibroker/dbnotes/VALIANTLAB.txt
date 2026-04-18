@@ -1,13 +1,32 @@
-CODES
-543998	VALIANTLAB	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+CODES	543998	VALIANTLAB	
+FULLNAME : Valiant Laboratories Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 
-***CONS***
-- NEGATIVE YProfit : -2.2
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 182.4		291.5		333.9		182.0		133.4		151.7
+SQoQ%: 	nan		59.9		14.5		-45.5		-26.7		113.7
+YOPM%: 	27.4		14.5		10.5		0.0		0.0
+YNPM%: 	16.8		9.4		8.7		0.2		0.0
+YPROFIT: 30.6		27.5		29.0		0.3		-2.2		2.0
+PQoQ%: 	nan		-10.1		5.5		-98.8		-732.4		-90.9
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 35.2		57.8		51.0		46.0		54.7
+QoQ%: 	64.0		64.0		-11.7		-9.8		19.0
+QOPM%: 	1.8		6.6		4.6		0.1		0.4
+QNPM%: 	4.5		5.6		3.6		0.4		0.1
+QPFT: 	1.6		3.2		1.8		0.2		0.0
+PQoQ%: 	-126.8		102.5		-43.8		-90.7		-82.4
 
 
 
 ***PROS***
+- Last 3QSALES is about 114% YSales
+
+***CONS***
+- NEGATIVE YProfit : -2.2

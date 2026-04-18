@@ -1,16 +1,17 @@
-CODES
-REXPRO	
+CODES	REXPRO	
+FULLNAME : Rexpro Enterprises Ltd
 SECTOR : Consumer Durables
 INDUSTRY : Miscellaneous
 YS15 YPD 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
 As on Mar2024, Sales have increased by 21.5% while the Profit QoQ_growth is much better than Sales itself at 529.2%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

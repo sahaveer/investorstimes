@@ -1,34 +1,40 @@
-CODES
-AISL	
+CODES	AISL	
+FULLNAME : ANI Integrated Services Ltd
 SECTOR : Miscellaneous
 INDUSTRY : Miscellaneous
 PRODUCT DEMAND
 LYPD PM 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  102.2   |  143.6   |  157.6   |  187.5   |  227.5  
- SQoQ%:  |   -6.2   |   40.5   |   9.7    |   19.0   |   21.3  
- YOPM%:  |   4.7    |   4.9    |   2.5    |   5.2    |   6.2   
- YNPM%:  |   4.2    |   3.6    |   1.7    |   3.0    |   4.0   
-YPROFIT: |   4.3    |   5.2    |   2.6    |   5.7    |   9.0   
- PQoQ%:  |  -225.0  |   20.5   |  -49.6   |  116.9   |   59.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   52.9   |   53.0   |   56.2   |   58.7   |   59.6  
- QoQ%:  |   13.7   |   0.2    |   5.9    |   4.5    |   1.6   
- QOPM%: |   6.6    |   5.3    |   6.3    |   6.2    |   6.8   
- QNPM%: |   3.6    |   3.2    |   4.3    |   4.3    |   4.0   
- QPFT:  |   1.9    |   1.7    |   2.4    |   2.6    |   2.4   
- PQoQ%: |   15.6   |  -13.0   |   42.9   |   6.2    |   -7.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 	102.2		143.6		157.6		187.5		227.5
+SQoQ%: 	-6.2		40.5		9.7		19.0		21.3
+YOPM%: 	4.7		4.9		2.5		5.2		6.2
+YNPM%: 	4.2		3.6		1.7		3.0		4.0
+YPROFIT: 	4.3		5.2		2.6		5.7		9.0
+PQoQ%: 	-225.0		20.5		-49.6		116.9		59.0
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2024		Jun-2024	Sep-2024	Dec-2024		Mar-2025
+QSALES: 	52.9		53.0		56.2		58.7		59.6
+QoQ%: 	13.7		0.2		5.9		4.5		1.6
+QOPM%: 	6.6		5.3		6.3		6.2		6.8
+QNPM%: 	3.6		3.2		4.3		4.3		4.0
+QPFT: 	1.9		1.7		2.4		2.6		2.4
+PQoQ%: 	15.6		-13.0		42.9		6.2		-7.1
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 21.3% while the Profit QoQ_growth is much better than Sales itself at 59.0%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

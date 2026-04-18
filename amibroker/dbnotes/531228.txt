@@ -1,41 +1,33 @@
-CODE	NAME
-531228 
-
+CODES	531228	
+FULLNAME : Rander Corporation Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-PRODUCT DEMAND
-YSD YPD 2022
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.4    |   1.3    |   3.7    |   3.5    |   4.0    |      1.1     
- SQoQ%:  |  -72.4   |  260.0   |  190.5   |   -5.5   |   14.5   |      27.5    
- YOPM%:  |   11.4   |   10.3   |   31.4   |   25.4   |  127.8   |              
- YNPM%:  |   2.9    |   6.3    |   21.0   |   19.1   |   47.0   |              
-YPROFIT: |   0.0    |   0.1    |   0.8    |   0.7    |   1.9    |      0.2     
- PQoQ%:  |  -90.9   |  700.0   |  862.5   |  -14.3   |  181.8   |      10.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.1    |   1.1    |   0.2    |   0.2    |   0.7   
- QoQ%:  |  111.8   |   2.8    |  -80.2   |   -9.1   |  230.0  
- QOPM%: |   66.7   |   79.3   |   45.5   |   45.0   |   0.0   
- QNPM%: |   49.1   |   58.6   |   36.4   |   35.0   |   0.0   
- QPFT:  |   0.5    |   0.6    |   0.1    |   0.1    |   -0.0  
- PQoQ%: |  178.9   |   22.6   |  -87.7   |  -12.5   |  -128.6 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.3		3.7		3.5		4.0		1.4		3.2
+SQoQ%: 	260.0		190.5		-5.5		14.2		-65.3		228.6
+YOPM%: 	10.3		31.4		25.4		62.0		18.2
+YNPM%: 	6.3		21.0		19.1		47.1		0.0
+YPROFIT: 0.1		0.8		0.7		1.9		-0.5		0.7
+PQoQ%: 	700.0		862.5		-14.3		181.8		-129.0		-140.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.7		0.3		1.1		0.7		1.4
+QoQ%: 	230.0		-51.5		240.6		-34.9		94.4
+QOPM%: 	0.0		21.9		17.4		15.5		36.2
+QNPM%: 	0.0		0.0		13.8		11.3		26.8
+QPFT: 	-0.0		-0.7		0.2		0.1		0.4
+PQoQ%: 	-128.6		3250.0		-122.4		-46.7		362.5
+
+
 
 ***PROS***
-DEBT-Free Company for the last 3 yrs
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.2
-- YProfits and YSales DOUBLED in Mar2022
+- Last 3QSALES is about 229% YSales
 
 
-Yearly 
- 31-Mar-2024 #Result
-4.00cr, QoQ 14.50% & YoY 900.00% SALES;
-5.10cr, QoQ 475.00% & YoY inf% OPERATING PROFIT;
-1.90cr, QoQ 181.80% & YoY inf% NET PROFIT;
-OPM %: 127.80% vs 25.4%
-NPM %: 47.00% vs 19.1%
-
+***CONS***
+- NEGATIVE YProfit : -0.5

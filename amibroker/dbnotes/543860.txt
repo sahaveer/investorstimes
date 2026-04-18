@@ -1,28 +1,34 @@
-CODE	NAME
-543860 
-
+CODES	543860	
+FULLNAME : J A Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.8		3.2		2.2		3.1		2.3		2.1
+SQoQ%: 	nan		77.1		-31.2		40.4		-25.5		91.3
+YOPM%: 	61.5		74.4		57.8		72.2		63.2
+YNPM%: 	0.0		53.6		18.8		33.0		0.0
+YPROFIT: 0.0		1.7		0.4		1.0		-0.0		0.3
+PQoQ%: 	nan		inf		-75.9		146.3		-104.0		-inf
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.6		0.4		0.7		0.8		0.6
+QoQ%: 	1.7		-28.8		73.8		11.0		-32.1
+QOPM%: 	66.1		45.2		67.1		76.5		34.5
+QNPM%: 	40.7		0.0		26.0		29.6		0.0
+QPFT: 	0.2		-0.8		0.2		0.2		-0.1
+PQoQ%: 	9.1		-429.2		-124.1		26.3		-125.0
 
 
 
 ***PROS***
-- Last 3QSALES is about 61% YSales
-- Last 3QPROFIT is about 70% of YProfit
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 91% YSales
 
 
-YSALES in Mar-2024 is at 3.1 showing a QoQ_growth of 40.4%. The YNETPROFIT grew by 146.3% to 1.0
-
-Yearly 
- 31-Mar-2024 #Result
-3.10cr, QoQ 40.40% SALES;
-2.20cr, QoQ 75.40% OPERATING PROFIT;
-1.00cr, QoQ 146.30% NET PROFIT;
-OPM %: 72.20% vs 57.8%
-NPM %: 33.00% vs 18.8%
-
+***CONS***
+- NO PRODUCT DEMAND

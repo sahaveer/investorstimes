@@ -1,36 +1,45 @@
-CODES
-543981	RRKABEL	
-SECTOR : Cables
-INDUSTRY : Cables - Power
+CODES	543981	RRKABEL	
+FULLNAME : R R Kabel Ltd
+SECTOR : Industrial Products
+INDUSTRY : Cables - Electricals
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2723.9  |  4385.9  |  5599.2  |  6594.6  |  7618.2 
- SQoQ%:  |   9.9    |   61.0   |   27.7   |   17.8   |   15.5  
- YOPM%:  |   8.5    |   6.9    |   5.8    |   7.0    |   6.4   
- YNPM%:  |   5.0    |   4.9    |   3.4    |   4.5    |   4.1   
-YPROFIT: |  135.4   |  213.9   |  189.9   |  298.1   |  311.6  
- PQoQ%:  |   10.6   |   58.0   |  -11.3   |   57.0   |   4.5   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1754.1  |  1808.1  |  1810.1  |  1782.2  |  2217.8 
- QoQ%:  |   7.4    |   3.1    |   0.1    |   -1.5   |   24.4  
- QOPM%: |   6.6    |   5.3    |   4.7    |   6.2    |   8.8   
- QNPM%: |   4.5    |   3.6    |   2.7    |   3.8    |   5.8   
- QPFT:  |   78.7   |   64.4   |   49.5   |   68.6   |  129.1  
- PQoQ%: |   10.9   |  -18.2   |  -23.1   |   38.4   |   88.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2715.9		4385.9		5599.2		6594.6		7618.2		6758.3
+SQoQ%: 	9.8		61.5		27.7		17.8		15.5		88.7
+YOPM%: 	8.5		6.9		5.8		7.0		6.4
+YNPM%: 	4.9		4.8		3.4		4.5		4.1
+YPROFIT: 134.3		209.7		188.9		297.0		309.5		320.9
+PQoQ%: 	9.7		56.2		-9.9		57.2		4.2		103.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1782.2		2217.8		2058.6		2163.8		2535.9
+QoQ%: 	-1.5		24.4		-7.2		5.1		17.2
+QOPM%: 	6.2		8.8		6.9		8.1		8.1
+QNPM%: 	3.8		5.8		4.3		5.4		4.6
+QPFT: 	68.1		127.7		88.8		116.0		116.1
+PQoQ%: 	37.0		87.5		-30.5		30.6		0.1
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 16.1%
+ROCE in Mar2025 is at 16.2%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 89% YSales
+- Last 3QPROFIT is about 104% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-7618.20cr, QoQ 15.50% & YoY 179.68% SALES;
-485.60cr, QoQ 5.10% & YoY 109.13% OPERATING PROFIT;
-311.60cr, QoQ 4.50% & YoY 130.13% NET PROFIT;
+7618.20cr, QoQ 15.50% & YoY 180.50% SALES;
+486.80cr, QoQ 5.40% & YoY 109.65% OPERATING PROFIT;
+309.50cr, QoQ 4.20% & YoY 130.45% NET PROFIT;
 OPM %: 6.40% vs 7.0%
 NPM %: 4.10% vs 4.5%
 

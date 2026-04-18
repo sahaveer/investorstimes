@@ -1,27 +1,35 @@
-CODES
-533638	FLEXITUFF	
-SECTOR : Packaging
-INDUSTRY : Packaging
+CODES	533638	FLEXITUFF	
+FULLNAME : Flexituff Ventures International Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 PRODUCT DEMAND
+LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -183.5
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  885.2   |  847.4   |  1041.7  |  915.3   |  598.6   |     228.1    
- SQoQ%:  |  -28.9   |   -4.3   |   22.9   |  -12.1   |  -34.6   |      38.1    
- YOPM%:  |   0.0    |   0.0    |   1.6    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |  -168.5  |  -59.2   |  -86.8   |  -119.7  |  -183.5  |     249.3    
- PQoQ%:  |  618.9   |  -64.8   |   46.6   |   37.8   |   53.3   |     -135.9   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  147.2   |  113.2   |   80.0   |   85.1   |   63.0  
- QoQ%:  |  -16.9   |  -23.1   |  -29.4   |   6.4    |  -26.0  
- QOPM%: |   0.0    |   0.0    |   0.0    |   9.4    |   0.0   
- QNPM%: |   0.0    |   0.0    |  346.2   |   0.0    |   0.0   
- QPFT:  |  -54.2   |  -63.5   |  276.8   |  -11.9   |  -15.6  
- PQoQ%: |   96.6   |   17.3   |  -535.7  |  -104.3  |   31.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 847.4		1041.7		915.3		598.6		288.6		16.5
+SQoQ%: 	-4.3		22.9		-12.1		-34.6		-51.8		5.7
+YOPM%: 	0.0		1.6		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		82.4
+YPROFIT: -59.2		-86.8		-119.7		-183.5		237.7		-65.6
+PQoQ%: 	-64.8		46.6		37.8		53.3		-229.6		-27.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 63.0		60.6		11.1		5.7		-0.3
+QoQ%: 	-26.0		-3.8		-81.7		-48.8		-104.7
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-15.6		-11.6		-18.3		-18.0		-29.3
+PQoQ%: 	31.5		-25.9		58.6		-1.6		62.6
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- YProfit Turned POSITIVE this year Mar-2025 : 237.7
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***

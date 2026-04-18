@@ -1,11 +1,15 @@
-CODE	NAME
-543924 
+CODES	543924	
+FULLNAME : Sonalis Consumer Products Ltd
+SECTOR : Food Products
+INDUSTRY : Packaged Foods
+PRODUCT DEMAND
+YSD YPD 2025
 
-SECTOR : Retail
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2025
+
+***CONS***

@@ -1,13 +1,11 @@
-CODE	NAME
-544189 
-
+CODES	544189	
+FULLNAME : Sattrix Information Security Ltd
 SECTOR : IT - Software
 INDUSTRY : Computers - Software - Medium / Small
 EXPANSION 2024
 PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -16,6 +14,8 @@ EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2024 is at 20.8%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

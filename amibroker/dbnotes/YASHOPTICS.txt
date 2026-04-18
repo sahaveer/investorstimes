@@ -1,22 +1,22 @@
-CODES
-YASHOPTICS	
-SECTOR : FMCG
-INDUSTRY : Personal Care - Indian
+CODES	YASHOPTICS	
+FULLNAME : Yash Optics & Lens Ltd
+SECTOR : Consumer Discretionary
+INDUSTRY : Consumer Durables
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 21.8%
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-41.10cr, QoQ 3.60% SALES;
-14.60cr, QoQ 17.00% OPERATING PROFIT;
-9.00cr, QoQ 12.30% NET PROFIT;
-OPM %: 35.50% vs 31.4%
-NPM %: 21.90% vs 20.2%
+ 31-Mar-2025 #Result
+43.20cr, QoQ 5.10% & YoY 188.00% SALES;
+12.60cr, QoQ -13.80% & YoY 530.00% OPERATING PROFIT;
+9.60cr, QoQ 6.30% & YoY 772.73% NET PROFIT;
+OPM %: 29.10% vs 35.5%
+NPM %: 22.20% vs 21.9%
 

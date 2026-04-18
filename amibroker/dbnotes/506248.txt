@@ -1,38 +1,39 @@
-CODES
-506248	AMNPLST	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	506248	AMNPLST	
+FULLNAME : Amines & Plasticizers Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  399.2   |  441.9   |  563.2   |  597.3   |  647.0   |     494.9    
- SQoQ%:  |  -12.3   |   10.7   |   27.4   |   6.1    |   8.3    |      76.5    
- YOPM%:  |   10.4   |   11.9   |   7.1    |   7.1    |   10.7   |              
- YNPM%:  |   6.2    |   7.4    |   4.2    |   3.8    |   6.2    |              
-YPROFIT: |   24.6   |   32.6   |   23.9   |   22.9   |   39.8   |      28.3    
- PQoQ%:  |   49.7   |   32.5   |  -26.8   |   -4.1   |   74.2   |      71.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  175.3   |  177.3   |  137.5   |  166.6   |  190.8  
- QoQ%:  |   11.4   |   1.2    |  -22.5   |   21.2   |   14.5  
- QOPM%: |   9.7    |   12.4   |   10.8   |   9.8    |   8.9   
- QNPM%: |   5.6    |   7.3    |   6.3    |   5.9    |   5.1   
- QPFT:  |   9.9    |   12.9   |   8.7    |   9.8    |   9.8   
- PQoQ%: |   8.7    |   31.0   |  -33.1   |   12.9   |   -0.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Sep-2025
+YSALES: 441.9		563.2		597.3		647.0		660.7		273.4
+SQoQ%: 	10.7		27.4		6.1		8.3		2.1		41.4
+YOPM%: 	11.9		7.1		7.1		10.7		10.4
+YNPM%: 	7.4		4.2		3.8		6.2		6.2
+YPROFIT: 32.6		23.9		22.9		39.8		41.0		13.6
+PQoQ%: 	32.5		-26.8		-4.1		74.2		2.9		33.2
+
+
+
+***QUARTERLY***
+QPNL: 	Sep-2024	Dec-2024	Mar-2025	Jun-2025	Sep-2025
+QSALES: 166.6		190.8		165.8		140.3		133.1
+QoQ%: 	21.2		14.5		-13.1		-15.4		-5.1
+QOPM%: 	9.8		8.9		12.6		9.3		8.1
+QNPM%: 	5.9		5.1		7.7		5.3		4.6
+QPFT: 	9.8		9.8		12.8		7.4		6.2
+PQoQ%: 	12.9		-0.2		31.2		-42.0		-17.0
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 76% YSales
-- Last 3QPROFIT is about 71% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-647.00cr, QoQ 8.30% & YoY 62.07% SALES;
-69.10cr, QoQ 62.80% & YoY 65.71% OPERATING PROFIT;
-39.80cr, QoQ 74.20% & YoY 61.79% NET PROFIT;
-OPM %: 10.70% vs 7.1%
-NPM %: 6.20% vs 3.8%
+ 31-Mar-2025 #Result
+660.70cr, QoQ 2.10% & YoY 49.51% SALES;
+69.00cr, QoQ -0.10% & YoY 30.68% OPERATING PROFIT;
+41.00cr, QoQ 2.90% & YoY 25.77% NET PROFIT;
+OPM %: 10.40% vs 10.7%
+NPM %: 6.20% vs 6.2%
 

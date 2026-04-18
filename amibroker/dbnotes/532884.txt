@@ -1,38 +1,47 @@
-CODES
-532884	REFEX	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	532884	REFEX	
+FULLNAME : Refex Industries Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Industrial Gases
+BestQ Dec 2025
 YSD YPD 2023
+
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 660.7		632.7		1629.2		1382.9		2467.7		1356.7
+SQoQ%: 	43.3		-4.2		157.5		-15.1		78.4		55.0
+YOPM%: 	7.8		10.7		10.7		10.6		8.5
+YNPM%: 	5.0		6.5		7.1		6.8		6.4
+YPROFIT: 33.1		40.9		116.1		93.9		158.8		112.5
+PQoQ%: 	4.7		23.6		183.5		-19.1		69.1		70.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 686.0		626.5		366.0		414.7		576.0
+QoQ%: 	60.3		-8.7		-41.6		13.3		38.9
+QOPM%: 	7.7		10.2		10.2		17.1		15.6
+QNPM%: 	7.3		7.7		5.8		9.0		9.4
+QPFT: 	50.0		48.3		21.2		37.4		53.9
+PQoQ%: 	61.1		-3.5		-56.2		76.9		44.0
+
+
+
+***PROS***
+- Last 3QSALES is about 55% YSales
+- Last 3QPROFIT is about 71% of YProfit
+- YProfits and YSales DOUBLED in Mar2023
+
+YSALES in Mar-2025 is at 2467.7 showing a QoQ_growth of 78.4%. The YNETPROFIT grew by 69.1% to 158.8
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  632.7   |  444.0   |  1629.2  |  1370.6  |  2430.0 
- SQoQ%:  |   -4.2   |  -29.8   |  267.0   |  -15.9   |   77.3  
- YOPM%:  |   10.7   |   13.7   |   10.7   |   10.9   |   8.9   
- YNPM%:  |   6.5    |   10.2   |   7.1    |   7.4    |   7.8   
-YPROFIT: |   40.9   |   45.4   |  116.1   |  101.0   |  189.4  
- PQoQ%:  |   23.6   |   10.9   |  155.7   |  -13.0   |   87.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  337.4   |  589.6   |  519.8   |  708.2   |  612.3  
- QoQ%:  |   11.9   |   74.8   |  -11.8   |   36.3   |  -13.5  
- QOPM%: |   12.9   |   8.9    |   9.2    |   7.5    |   10.3  
- QNPM%: |   10.6   |   6.1    |   7.2    |   8.3    |   9.3   
- QPFT:  |   35.8   |   36.0   |   37.3   |   59.0   |   57.1  
- PQoQ%: |   80.7   |   0.6    |   3.8    |   58.2   |   -3.3  
-
-***PROS***
-- YProfits and YSales DOUBLED in Mar2023
-
-YSALES in Mar-2025 is at 2430.0 showing a QoQ_growth of 77.3%. The YNETPROFIT grew by 87.6% to 189.4
 
 Yearly 
  31-Mar-2025 #Result
-2430.00cr, QoQ 77.30% & YoY 284.07% SALES;
-216.40cr, QoQ 45.50% & YoY 219.65% OPERATING PROFIT;
-189.40cr, QoQ 87.60% & YoY 363.08% NET PROFIT;
-OPM %: 8.90% vs 10.9%
-NPM %: 7.80% vs 7.4%
+2467.70cr, QoQ 78.40% & YoY 273.50% SALES;
+209.80cr, QoQ 43.60% & YoY 308.97% OPERATING PROFIT;
+158.80cr, QoQ 69.10% & YoY 379.76% NET PROFIT;
+OPM %: 8.50% vs 10.6%
+NPM %: 6.40% vs 6.8%
 

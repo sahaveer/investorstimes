@@ -1,42 +1,46 @@
-CODES
-544111	PARKHOTELS	
-SECTOR : Hotels & Restaurants
-INDUSTRY : Hotels
-BestQ Dec 2024
+CODES	544111	PARKHOTELS	
+FULLNAME : Apeejay Surrendra Park Hotels Ltd
+SECTOR : Leisure Services
+INDUSTRY : Hotels & Resorts
+BestQ Dec 2025
 YSD YPD 2023
-LYPD PM 2024
 
-***CONS***
- YPNL:   | Mar-2019 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  421.3   |  178.8   |  255.0   |  510.4   |  579.0   |     454.2    
- SQoQ%:  |   10.0   |  -57.6   |   42.6   |  100.2   |   13.4   |      78.4    
- YOPM%:  |   20.2   |   6.5    |   18.2   |   32.0   |   33.3   |              
- YNPM%:  |   2.3    |   0.0    |   0.0    |   9.4    |   11.9   |              
-YPROFIT: |   9.8    |  -75.8   |  -28.1   |   48.1   |   68.8   |      57.1    
- PQoQ%:  |  -222.3  |  -877.2  |  -62.9   |  -271.3  |   43.0   |      83.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  158.9   |  155.7   |  135.1   |  141.6   |  177.5  
- QoQ%:  |   17.8   |   -2.0   |  -13.2   |   4.8    |   25.4  
- QOPM%: |   35.2   |   34.4   |   28.5   |   29.4   |   35.7  
- QNPM%: |   17.3   |   11.9   |   0.0    |   18.9   |   18.1  
- QPFT:  |   27.4   |   18.4   |   -1.9   |   26.8   |   32.2  
- PQoQ%: |   85.0   |  -32.7   |  -110.4  | -1500.5  |   20.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 178.8		255.0		510.4		579.0		631.4		521.7
+SQoQ%: 	-57.6		42.6		100.2		13.4		9.1		82.6
+YOPM%: 	6.5		18.2		32.0		33.3		32.4
+YNPM%: 	0.0		0.0		9.4		11.9		13.2
+YPROFIT: -75.8		-28.1		48.1		68.8		83.6		53.8
+PQoQ%: 	-877.2		-62.9		-271.3		43.0		21.5		64.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 177.5		177.3		154.2		167.4		200.1
+QoQ%: 	25.4		-0.1		-13.0		8.5		19.5
+QOPM%: 	36.3		35.1		29.4		29.3		35.3
+QNPM%: 	18.1		15.0		8.7		9.7		12.1
+QPFT: 	32.2		26.6		13.4		16.2		24.2
+PQoQ%: 	20.2		-17.4		-49.5		20.8		49.4
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 78% YSales
-- Last 3QPROFIT is about 83% of YProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 64% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-579.00cr, QoQ 13.40% & YoY 37.43% SALES;
-192.90cr, QoQ 18.10% & YoY 126.41% OPERATING PROFIT;
-68.80cr, QoQ 43.00% & YoY 602.04% NET PROFIT;
-OPM %: 33.30% vs 32.0%
-NPM %: 11.90% vs 9.4%
+ 31-Mar-2025 #Result
+631.40cr, QoQ 9.10% & YoY 253.13% SALES;
+204.50cr, QoQ 6.00% & YoY 1662.93% OPERATING PROFIT;
+83.60cr, QoQ 21.50% & YoY -210.29% NET PROFIT;
+OPM %: 32.40% vs 33.3%
+NPM %: 13.20% vs 11.9%
 

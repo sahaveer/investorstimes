@@ -1,35 +1,44 @@
-CODES
-531717	VIDHIING	
-SECTOR : Chemicals
-INDUSTRY : Dyes And Pigments
+CODES	531717	VIDHIING	
+FULLNAME : Vidhi Specialty Food Ingredients Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 266.4		537.0		404.0		303.4		382.3		257.3
+SQoQ%: 	18.6		101.6		-24.8		-24.9		26.0		67.3
+YOPM%: 	19.7		15.8		13.8		18.9		17.9
+YNPM%: 	13.7		10.9		9.3		12.0		11.4
+YPROFIT: 36.6		58.6		37.7		36.4		43.4		35.7
+PQoQ%: 	7.8		60.2		-35.6		-3.3		19.1		82.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 98.5		109.5		87.9		75.0		94.4
+QoQ%: 	7.9		11.2		-19.7		-14.7		26.0
+QOPM%: 	19.4		18.2		23.4		23.6		20.3
+QNPM%: 	12.9		10.9		14.4		14.1		13.1
+QPFT: 	12.7		11.9		12.7		10.6		12.4
+PQoQ%: 	23.4		-6.5		6.7		-16.9		17.6
+
+
+
+***PROS***
+- Last 3QSALES is about 67% YSales
+- Last 3QPROFIT is about 82% of YProfit
+
+YSALES in Mar-2025 is at 382.3 showing a QoQ_growth of 26.0%. The YNETPROFIT grew by 19.1% to 43.4
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  266.4   |  537.0   |  404.0   |  303.4   |  382.3  
- SQoQ%:  |   18.6   |  101.6   |  -24.8   |  -24.9   |   26.0  
- YOPM%:  |   20.0   |   15.8   |   13.8   |   18.9   |   17.9  
- YNPM%:  |   13.7   |   10.9   |   9.3    |   12.0   |   11.4  
-YPROFIT: |   36.6   |   58.6   |   37.7   |   36.4   |   43.4  
- PQoQ%:  |   7.8    |   60.2   |  -35.6   |   -3.3   |   19.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   78.1   |   83.0   |   91.3   |   98.5   |  109.5  
- QoQ%:  |   24.0   |   6.2    |   10.0   |   7.9    |   11.2  
- QOPM%: |   20.4   |   17.0   |   16.6   |   19.4   |   18.2  
- QNPM%: |   13.4   |   10.2   |   11.3   |   12.9   |   10.9  
- QPFT:  |   10.5   |   8.4    |   10.3   |   12.7   |   11.9  
- PQoQ%: |   22.0   |  -19.4   |   22.1   |   23.4   |   -6.5  
-
-***PROS***
-
-YSALES in Mar-2025 is at 382.3 showing a QoQ_growth of 26.0%. The YNETPROFIT grew by 19.1% to 43.4
 
 Yearly 
  31-Mar-2025 #Result
 382.30cr, QoQ 26.00% & YoY 43.51% SALES;
-68.50cr, QoQ 19.60% & YoY 28.52% OPERATING PROFIT;
+68.50cr, QoQ 19.70% & YoY 30.23% OPERATING PROFIT;
 43.40cr, QoQ 19.10% & YoY 18.58% NET PROFIT;
 OPM %: 17.90% vs 18.9%
 NPM %: 11.40% vs 12.0%

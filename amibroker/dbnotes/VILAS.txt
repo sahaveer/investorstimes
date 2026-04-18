@@ -1,15 +1,16 @@
-CODES
-VILAS	
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
+CODES	VILAS	
+FULLNAME : Vilas Transcore Ltd
+SECTOR : Industrials
+INDUSTRY : Capital Goods
 EXPANSION 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 EXPANSION ??- EXPANSION underway in Mar-2025, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

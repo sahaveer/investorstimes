@@ -1,6 +1,5 @@
-CODE	NAME
-538451 
-
+CODES	538451	
+FULLNAME : Worth Investment & Trading Company Ltd
 SECTOR : Finance
 INDUSTRY : Finance & Investments
 BestQ Dec 2024
@@ -9,23 +8,27 @@ YSD YPD 2022
 LYPD PM 2024
 YS15 YPD 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.2    |   0.2    |   1.6    |   3.6    |   4.4    |      3.9     
- SQoQ%:  |  -46.4   |   6.7    |  912.5   |  125.3   |   20.5   |      88.6    
- YOPM%:  |   40.0   |   37.5   |   63.6   |   65.8   |   78.9   |              
- YNPM%:  |   26.7   |   25.0   |   18.5   |   24.7   |   42.0   |              
-YPROFIT: |   0.0    |   0.0    |   0.3    |   0.9    |   1.8    |      1.9     
- PQoQ%:  |   33.3   |   0.0    |  650.0   |  200.0   |  105.6   |     105.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.1    |   1.4    |   1.3    |   1.3    |   1.3   
- QoQ%:  |   9.1    |   31.5   |  -10.6   |   3.1    |   -0.8  
- QOPM%: |   93.5   |   57.7   |   85.8   |   88.5   |   70.0  
- QNPM%: |  125.9   |   0.0    |   63.0   |   45.0   |   40.8  
- QPFT:  |   1.4    |   -0.6   |   0.8    |   0.6    |   0.5   
- PQoQ%: |  156.6   |  -142.6  |  -237.9  |  -26.3   |  -10.2  
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2022	Mar-2023	Mar-2024	QSUM:Dec-2024
+YSALES: 	0.2		0.2		1.6		3.6		4.4		3.9
+SQoQ%: 	-46.4		6.7		912.5		125.3		20.5		88.6
+YOPM%: 	40.0		37.5		63.6		65.8		78.9
+YNPM%: 	26.7		25.0		18.5		24.7		42.0
+YPROFIT: 	0.0		0.0		0.3		0.9		1.8		1.9
+PQoQ%: 	33.3		0.0		650.0		200.0		105.6		105.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2023		Mar-2024	Jun-2024	Sep-2024		Dec-2024
+QSALES: 	1.1		1.4		1.3		1.3		1.3
+QoQ%: 	9.1		31.5		-10.6		3.1		-0.8
+QOPM%: 	93.5		57.7		85.8		88.5		70.0
+QNPM%: 	125.9		0.0		63.0		45.0		40.8
+QPFT: 	1.4		-0.6		0.8		0.6		0.5
+PQoQ%: 	156.6		-142.6		-237.9		-26.3		-10.2
+
+
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
@@ -37,6 +40,8 @@ QSALES: |   1.1    |   1.4    |   1.3    |   1.3    |   1.3
 - YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
 As on Mar2024, Sales have increased by 20.5% while the Profit QoQ_growth is much better than Sales itself at 105.6%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

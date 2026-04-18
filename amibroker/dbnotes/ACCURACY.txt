@@ -1,38 +1,44 @@
-CODES
-ACCURACY	
-SECTOR : Logistics
-INDUSTRY : Miscellaneous
-BestQ Dec 2024
-YSD YPD 2022
+CODES	544598	ACCURACY	
+FULLNAME : Accuracy Shipping Ltd
+SECTOR : Transport Services
+INDUSTRY : Logistics Solution Provider
+PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  348.1   |  374.6   |  823.9   |  877.2   |  708.2   |     709.6    
- SQoQ%:  |   2.8    |   7.6    |  119.9   |   6.5    |  -19.3   |     100.2    
- YOPM%:  |   8.1    |   8.0    |   5.8    |   4.0    |   3.5    |              
- YNPM%:  |   1.2    |   2.4    |   2.2    |   0.9    |   0.1    |              
-YPROFIT: |   4.1    |   8.8    |   18.1   |   8.2    |   0.5    |      3.9     
- PQoQ%:  |  -48.9   |  114.8   |  104.5   |  -54.6   |  -93.9   |     780.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  187.5   |  171.4   |  202.2   |  253.2   |  254.2  
- QoQ%:  |   -9.6   |   -8.6   |   18.0   |   25.2   |   0.4   
- QOPM%: |   2.4    |   8.4    |   4.4    |   2.6    |   2.9   
- QNPM%: |   0.0    |   5.4    |   1.2    |   0.2    |   0.4   
- QPFT:  |   -2.9   |   9.2    |   2.5    |   0.4    |   1.0   
- PQoQ%: |   38.9   |  -417.6  |  -73.0   |  -82.3   |  120.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 374.6		823.9		877.2		708.2		945.4		509.7
+SQoQ%: 	7.6		119.9		6.5		-19.3		33.5		53.9
+YOPM%: 	8.0		5.8		4.0		3.5		3.2
+YNPM%: 	2.4		2.2		0.9		0.1		0.5
+YPROFIT: 8.8		18.1		8.2		0.5		4.6		1.7
+PQoQ%: 	114.8		104.5		-54.6		-93.9		830.0		37.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 254.2		236.5		161.7		190.5		157.5
+QoQ%: 	0.4		-7.0		-31.6		17.8		-17.3
+QOPM%: 	2.9		3.0		3.2		3.6		4.1
+QNPM%: 	0.4		0.3		0.3		0.3		0.4
+QPFT: 	1.0		0.8		0.4		0.6		0.7
+PQoQ%: 	120.5		-20.6		-46.8		46.3		15.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 100% YSales
-- Last 3QPROFIT is about 780% of YProfit
-- YProfits and YSales DOUBLED in Mar2022
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 54% YSales
+
+YSALES in Mar-2025 is at 945.4 showing a QoQ_growth of 33.5%. The YNETPROFIT grew by 830.0% to 4.6
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-708.20cr, QoQ -19.30% & YoY 103.45% SALES;
-24.50cr, QoQ -30.70% & YoY -13.73% OPERATING PROFIT;
-0.50cr, QoQ -93.90% & YoY -87.80% NET PROFIT;
-OPM %: 3.50% vs 4.0%
-NPM %: 0.10% vs 0.9%
+ 31-Mar-2025 #Result
+945.40cr, QoQ 33.50% & YoY 152.38% SALES;
+30.60cr, QoQ 25.20% & YoY 2.00% OPERATING PROFIT;
+4.60cr, QoQ 830.00% & YoY -47.73% NET PROFIT;
+OPM %: 3.20% vs 3.5%
+NPM %: 0.50% vs 0.1%
 

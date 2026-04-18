@@ -1,24 +1,27 @@
-CODES
-KONTOR	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	KONTOR	
+FULLNAME : Kontor Space Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 YSD YPD 2023
-LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+YSALES in Mar-2025 is at 19.8 showing a QoQ_growth of 79.1%. The YNETPROFIT grew by 111.3% to 4.1
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-13.00cr, QoQ 20.10% SALES;
-3.50cr, QoQ -13.10% OPERATING PROFIT;
-2.00cr, QoQ 3.70% NET PROFIT;
-OPM %: 27.10% vs 37.4%
-NPM %: 15.00% vs 17.4%
+ 31-Mar-2025 #Result
+19.80cr, QoQ 79.10% & YoY 407.69% SALES;
+6.10cr, QoQ 74.40% & YoY 771.43% OPERATING PROFIT;
+4.10cr, QoQ 111.30% & YoY -783.33% NET PROFIT;
+OPM %: 31.10% vs 31.9%
+NPM %: 20.90% vs 17.7%
 

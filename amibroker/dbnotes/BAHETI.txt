@@ -1,22 +1,23 @@
-CODES
-BAHETI	
-SECTOR : Non Ferrous Metals
-INDUSTRY : Aluminium and Aluminium Products
+CODES	BAHETI	
+FULLNAME : Baheti Recycling Industries Ltd
+SECTOR : Industrial Products
+INDUSTRY : Aluminium, Copper & Zinc Products
 YS15 YPD 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
-As on Mar2025, Sales have increased by 22.4% while the Profit QoQ_growth is much better than Sales itself at 150.1%
+As on Mar2025, Sales have increased by 22.2% while the Profit QoQ_growth is much better than Sales itself at 150.1%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-524.30cr, QoQ 22.40% & YoY 311.86% SALES;
+523.80cr, QoQ 22.20% & YoY 311.47% SALES;
 40.60cr, QoQ 99.90% & YoY 866.67% OPERATING PROFIT;
 18.00cr, QoQ 150.10% & YoY 3500.00% NET PROFIT;
-OPM %: 7.70% vs 4.7%
+OPM %: 7.80% vs 4.7%
 NPM %: 3.40% vs 1.7%
 

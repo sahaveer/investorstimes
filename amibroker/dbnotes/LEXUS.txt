@@ -1,29 +1,34 @@
-CODES
-LEXUS	
-SECTOR : Ceramic Products
-INDUSTRY : Ceramics - Tiles / Sanitaryware
-PRODUCT DEMAND
+CODES	LEXUS	
+FULLNAME : Lexus Granito (India) Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Furniture, Home Furnishing
+LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -16.6
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  100.4   |  101.5   |  138.5   |  101.0   |  117.8   |      54.3    
- SQoQ%:  |  -25.3   |   1.1    |   36.4   |  -27.1   |   16.7   |      46.1    
- YOPM%:  |   14.3   |   0.0    |   10.3   |   5.1    |   2.0    |              
- YNPM%:  |   0.0    |   0.0    |   8.4    |   0.0    |   0.0    |              
-YPROFIT: |   -1.9   |  -48.7   |   11.6   |  -11.8   |  -16.6   |      -5.6    
- PQoQ%:  |  -666.7  |  2502.1  |  -123.8  |  -202.2  |   40.2   |      33.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   26.6   |   27.8   |   17.8   |   17.4   |   19.1  
- QoQ%:  |  -16.6   |   4.6    |  -36.0   |   -2.3   |   10.1  
- QOPM%: |   0.0    |   0.0    |   0.0    |   4.7    |   15.3  
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.4   
- QPFT:  |   -3.9   |   -8.2   |   -3.8   |   -1.9   |   0.1   
- PQoQ%: |  263.6   |  109.5   |  -53.9   |  -50.3   |  -104.3 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 101.5		138.5		101.0		117.8		75.2		50.3
+SQoQ%: 	1.1		36.4		-27.1		16.7		-36.1		66.9
+YOPM%: 	0.0		10.3		5.1		2.0		8.8
+YNPM%: 	0.0		8.4		0.0		0.0		0.0
+YPROFIT: -48.7		11.6		-11.8		-16.6		-5.0		1.7
+PQoQ%: 	2502.1		-123.8		-202.2		40.2		-69.7		-34.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 19.1		21.0		18.0		18.6		13.7
+QoQ%: 	10.1		9.6		-14.0		3.1		-26.3
+QOPM%: 	15.3		17.4		17.4		0.0		0.0
+QNPM%: 	0.4		2.5		3.4		2.0		5.2
+QPFT: 	0.1		0.5		0.6		0.4		0.7
+PQoQ%: 	-104.3		550.0		19.2		-40.3		91.9
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 67% YSales
+- LastYr YProfits Doubled and maintained in Mar2025
 
-YSALES in Mar-2024 is at 117.8 showing a QoQ_growth of 16.7%. The YNETPROFIT grew by 40.2% to -16.6
+***CONS***
+- NEGATIVE YProfit : -5.0

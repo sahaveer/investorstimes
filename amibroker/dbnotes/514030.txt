@@ -1,15 +1,14 @@
-CODE	NAME
-514030 
-
-SECTOR : Textiles
-INDUSTRY : Textiles - Spinning - Synthetic / Blended
+CODES	514030	
+FULLNAME : Deepak Spinners Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 PRODUCT DEMAND
 LYPD PM 2012
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
@@ -17,6 +16,8 @@ LYPD PM 2012
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
 - YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
 - LastYr YProfits Doubled and maintained in Mar2012
+
+***CONS***
 
 Yearly 
  31-Mar-2012 #Result

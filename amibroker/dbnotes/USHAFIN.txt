@@ -1,16 +1,17 @@
-CODES
-USHAFIN	
+CODES	USHAFIN	
+FULLNAME : Usha Financial Services Ltd
 SECTOR : Finance
 INDUSTRY : Finance & Investments
 EXPANSION 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

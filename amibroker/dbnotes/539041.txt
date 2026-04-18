@@ -1,15 +1,14 @@
-CODE	NAME
-539041 
-
-SECTOR : Retail
-INDUSTRY : Textiles - Products
-PRODUCT DEMAND
+CODES	539041	
+FULLNAME : Ganesha Ecoverse Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 YSD YPD 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
 - YProfits and YSales DOUBLED in Mar2024
+
+
+***CONS***

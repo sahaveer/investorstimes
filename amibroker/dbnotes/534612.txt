@@ -1,30 +1,34 @@
-CODE	NAME
-534612 
-
-SECTOR : Capital Goods - Electrical Equipment
-INDUSTRY : Electric Equipment
+CODES	534612	
+FULLNAME : Advance Metering Technology Ltd
+SECTOR : Power
+INDUSTRY : Power Generation
 PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -2.0
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   28.1   |   15.6   |   17.0   |   18.4   |   16.5   |      12.2    
- SQoQ%:  |  -67.9   |  -44.3   |   8.8    |   8.2    |  -10.4   |      73.9    
- YOPM%:  |   0.0    |   0.0    |   4.4    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   29.8   |   0.0    |              
-YPROFIT: |  -19.0   |   -8.4   |   -2.7   |   5.5    |   -2.0   |      -2.2    
- PQoQ%:  | -3971.4  |  -55.8   |  -68.0   |  -305.2  |  -136.5  |     110.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   3.6    |   2.8    |   4.8    |   4.1    |   3.3   
- QoQ%:  |  -34.0   |  -21.6   |   73.5   |  -14.5   |  -20.0  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   12.9   |   0.0    |   43.4   |   5.8    |   0.0   
- QPFT:  |   0.5    |   -2.9   |   2.1    |   0.2    |   -4.5  
- PQoQ%: |   -9.8   |  -723.9  |  -173.2  |  -88.6   | -1987.5 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 14.6		15.4		15.6		15.0		14.1		11.2
+SQoQ%: 	-47.8		4.9		1.5		-3.5		-6.1		79.4
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		10.4		0.0		0.0
+YPROFIT: -8.3		-2.8		1.6		-1.8		-9.4		-3.7
+PQoQ%: 	-55.3		-65.7		-157.0		-208.6		432.4		39.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2.9		3.1		4.8		4.1		2.3
+QoQ%: 	-20.4		6.8		53.4		-15.4		-42.6
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		51.3		0.0		0.0
+QPFT: 	-4.5		-7.2		2.5		-3.0		-3.2
+PQoQ%: 	-1908.0		59.3		-134.2		-224.0		5.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 74% YSales
+- Last 3QSALES is about 79% YSales
 
+***CONS***
+- NEGATIVE YProfit : -9.4

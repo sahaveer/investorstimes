@@ -1,16 +1,17 @@
-CODE	NAME
-539090 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	539090	
+FULLNAME : Rajputana Investment & Finance Ltd
+SECTOR : Finance
+INDUSTRY : Non Banking Financial Company (NBFC)
 PRODUCT DEMAND
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
+
+***CONS***

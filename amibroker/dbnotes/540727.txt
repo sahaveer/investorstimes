@@ -1,41 +1,42 @@
-CODE	NAME
-540727 
+CODES	540727	
+FULLNAME : Poojawestern Metaliks Ltd
+SECTOR : Industrial Products
+INDUSTRY : Other Industrial Products
+BestQ Dec 2025
 
-SECTOR : Non Ferrous Metals
-INDUSTRY : Mining / Minerals / Metals
-PRODUCT DEMAND
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 15.2		20.8		31.1		61.3		50.4		52.0
+SQoQ%: 	-34.5		37.4		49.4		97.0		-17.8		103.2
+YOPM%: 	7.8		9.1		10.0		6.8		7.1
+YNPM%: 	1.6		3.7		3.4		2.9		3.1
+YPROFIT: 0.2		0.8		1.1		1.8		1.6		1.7
+PQoQ%: 	-68.8		220.8		37.7		65.1		-11.4		106.2
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   23.1   |   15.2   |   20.8   |   31.1   |   61.3   |      35.6    
- SQoQ%:  |   nan    |  -34.5   |   37.4   |   49.4   |   97.0   |      58.1    
- YOPM%:  |   6.4    |   7.8    |   9.1    |   10.0   |   6.8    |              
- YNPM%:  |   3.3    |   1.6    |   3.7    |   3.4    |   2.9    |              
-YPROFIT: |   0.8    |   0.2    |   0.8    |   1.1    |   1.8    |      1.1     
- PQoQ%:  |   nan    |  -68.8   |  220.8   |   37.7   |   65.1   |      61.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   15.6   |   16.0   |   6.3    |   14.1   |   15.2  
- QoQ%:  |   6.9    |   2.9    |  -60.8   |  124.8   |   7.6   
- QOPM%: |   7.1    |   6.4    |   10.4   |   6.4    |   5.3   
- QNPM%: |   3.0    |   2.6    |   4.6    |   2.5    |   2.4   
- QPFT:  |   0.5    |   0.4    |   0.3    |   0.4    |   0.4   
- PQoQ%: |   23.7   |  -12.8   |  -29.3   |   24.1   |   0.0   
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 15.2		14.8		10.9		16.3		24.8
+QoQ%: 	7.6		-2.7		-26.2		49.6		51.7
+QOPM%: 	5.3		8.2		10.9		8.4		5.5
+QNPM%: 	2.4		3.7		4.3		5.0		1.5
+QPFT: 	0.4		0.6		0.5		0.8		0.4
+PQoQ%: 	0.0		52.8		-14.5		74.5		-54.9
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 58% YSales
-- Last 3QPROFIT is about 61% of YProfit
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
-As on Mar2024, Sales have increased by 97.0% while the Profit QoQ_growth is at 65.1%
+- Last 3QSALES is about 103% YSales
+- Last 3QPROFIT is about 106% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-61.30cr, QoQ 97.00% & YoY 165.37% SALES;
-4.10cr, QoQ 33.50% & YoY 173.33% OPERATING PROFIT;
-1.80cr, QoQ 65.10% & YoY 125.00% NET PROFIT;
-OPM %: 6.80% vs 10.0%
-NPM %: 2.90% vs 3.4%
+ 31-Mar-2025 #Result
+50.40cr, QoQ -17.80% & YoY 231.58% SALES;
+3.60cr, QoQ -13.50% & YoY 200.00% OPERATING PROFIT;
+1.60cr, QoQ -11.40% & YoY 700.00% NET PROFIT;
+OPM %: 7.10% vs 6.8%
+NPM %: 3.10% vs 2.9%
 

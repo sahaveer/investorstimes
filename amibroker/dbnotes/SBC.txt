@@ -1,37 +1,46 @@
-CODES
-542725	SBC	
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
+CODES	542725	SBC	
+FULLNAME : SBC Exports Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Garments & Apparels
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  129.9   |  205.8   |  222.2   |  212.5   |  300.0  
- SQoQ%:  |   nan    |   58.5   |   8.0    |   -4.4   |   41.2  
- YOPM%:  |   3.2    |   3.8    |   4.8    |   8.2    |   6.1   
- YNPM%:  |   1.4    |   1.7    |   3.1    |   4.4    |   4.5   
-YPROFIT: |   1.8    |   3.5    |   6.9    |   9.3    |   13.4  
- PQoQ%:  |   nan    |   88.0   |   99.7   |   34.3   |   44.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   69.4   |   65.7   |   66.0   |   72.0   |   96.3  
- QoQ%:  |   33.5   |   -5.3   |   0.4    |   9.2    |   33.7  
- QOPM%: |   5.7    |   9.2    |   8.7    |   2.6    |   4.7   
- QNPM%: |   4.8    |   8.1    |   8.1    |   5.1    |   4.2   
- QPFT:  |   3.3    |   5.3    |   5.4    |   3.7    |   4.0   
- PQoQ%: |   15.3   |   60.7   |   0.9    |  -31.8   |   9.6   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 129.9		205.8		222.2		212.5		298.5		261.6
+SQoQ%: 	nan		58.5		8.0		-4.4		40.5		87.6
+YOPM%: 	3.2		3.8		4.8		8.2		6.3
+YNPM%: 	1.4		1.7		3.1		4.4		4.5
+YPROFIT: 1.8		3.5		6.9		9.3		13.4		26.1
+PQoQ%: 	nan		88.0		99.7		34.3		44.1		194.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 72.0		96.3		72.5		84.7		104.4
+QoQ%: 	9.2		33.7		-24.8		16.9		23.3
+QOPM%: 	2.6		4.7		7.5		12.1		11.3
+QNPM%: 	5.1		4.2		4.8		13.4		10.7
+QPFT: 	3.7		4.0		3.5		11.4		11.2
+PQoQ%: 	-31.8		9.6		-13.5		227.7		-1.5
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 88% YSales
+- Last 3QPROFIT is about 195% of YProfit
 
-YSALES in Mar-2025 is at 300.0 showing a QoQ_growth of 41.2%. The YNETPROFIT grew by 44.1% to 13.4
+YSALES in Mar-2025 is at 298.5 showing a QoQ_growth of 40.5%. The YNETPROFIT grew by 44.1% to 13.4
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-300.00cr, QoQ 41.20% & YoY 130.95% SALES;
-18.20cr, QoQ 4.50% & YoY 333.33% OPERATING PROFIT;
+298.50cr, QoQ 40.50% & YoY 129.79% SALES;
+18.70cr, QoQ 7.60% & YoY 345.24% OPERATING PROFIT;
 13.40cr, QoQ 44.10% & YoY 644.44% NET PROFIT;
-OPM %: 6.10% vs 8.2%
+OPM %: 6.30% vs 8.2%
 NPM %: 4.50% vs 4.4%
 

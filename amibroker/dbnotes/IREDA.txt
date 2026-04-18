@@ -1,38 +1,49 @@
-CODES
-544026	IREDA	
+CODES	544026	IREDA	
+FULLNAME : Indian Renewable Energy Development Agency Ltd
 SECTOR : Finance
-INDUSTRY : Finance - Term-Lending Institutions
+INDUSTRY : Financial Institution
 PRODUCT DEMAND
+BestQ Dec 2025
 LYPD PM 2025
 
-***CONS***
+***YEARLY***
+YPNL: 	Mar-2019	Mar-2020	Mar-2021	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2019.8		2368.9		2614.2		4965.2		6754.9		6135.1
+SQoQ%: 	11.6		17.3		10.4		89.9		36.0		90.8
+YOPM%: 	78.7		72.6		81.0		98.3		93.0
+YNPM%: 	12.4		9.1		13.2		25.2		25.1
+YPROFIT: 249.9		214.6		346.4		1252.2		1698.3		1381.4
+PQoQ%: 	-38.4		-14.1		61.4		261.5		35.6		81.3
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1698.4		1904.2		1947.6		2057.3		2130.2
+QoQ%: 	4.2		12.1		2.3		5.6		3.5
+QOPM%: 	93.0		91.1		78.1		93.3		91.6
+QNPM%: 	25.0		26.4		12.7		26.7		27.5
+QPFT: 	425.4		501.8		246.9		549.3		585.2
+PQoQ%: 	9.7		18.0		-50.8		122.5		6.5
 
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 91% YSales
+- Last 3QPROFIT is about 81% of YProfit
 - LastYr YProfits Doubled and maintained in Mar2025
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
-As on Mar2025, Sales have increased by 35.8% while the Profit QoQ_growth is at 35.6%
-- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Mar-2025 is at 12.2%. The QPROFIT QoQ_growth by 17.9%
+As on Mar2025, Sales have increased by 36.0% while the Profit QoQ_growth is at 35.6%
 
-Quarterly 
-31-Mar-2025 #Result
-1905.10cr, QoQ 12.20% SALES;
-1733.70cr, QoQ 9.70% OPERATING PROFIT;
-501.60cr, QoQ 17.90% NET PROFIT;
-OPM %: 91.00% vs 93.0%
-NPM %: 26.30% vs 25.0%
-
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-6743.30cr, QoQ 35.80% & YoY 233.86% SALES;
-6271.10cr, QoQ 28.50% & YoY 294.61% OPERATING PROFIT;
+6754.90cr, QoQ 36.00% & YoY 234.43% SALES;
+6283.20cr, QoQ 28.70% & YoY 295.37% OPERATING PROFIT;
 1698.30cr, QoQ 35.60% & YoY 579.59% NET PROFIT;
 OPM %: 93.00% vs 98.3%
-NPM %: 25.20% vs 25.2%
+NPM %: 25.10% vs 25.2%
 

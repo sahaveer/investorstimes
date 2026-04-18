@@ -1,10 +1,11 @@
-CODES
-DHANLAXMI	
+CODES	DHANLAXMI	
+FULLNAME : Dhanlaxmi Crop Science Ltd
 SECTOR : FMCG
 INDUSTRY : Miscellaneous
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

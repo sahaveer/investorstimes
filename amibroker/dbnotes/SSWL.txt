@@ -1,22 +1,27 @@
-CODES
-513262	SSWL	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
+CODES	513262	SSWL	
+FULLNAME : Steel Strips Wheels Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
+
+***YEARLY***
+
+
+***QUARTERLY***
+
+
+***PROS***
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 66% of YProfit
+
 
 ***CONS***
 - NO PRODUCT DEMAND
 
-
-
-
-
-***PROS***
-
-
 Yearly 
  31-Mar-2025 #Result
 4429.00cr, QoQ 1.70% SALES;
-484.20cr, QoQ 4.50% OPERATING PROFIT;
+484.30cr, QoQ 4.50% OPERATING PROFIT;
 195.30cr, QoQ -71.10% NET PROFIT;
 OPM %: 10.90% vs 10.6%
 NPM %: 4.40% vs 15.5%

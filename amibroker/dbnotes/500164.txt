@@ -1,34 +1,43 @@
-CODES
-500164	GODREJIND	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	500164	GODREJIND	
+FULLNAME : Godrej Industries Ltd
+SECTOR : Diversified
+INDUSTRY : Diversified
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  9333.5  | 14130.2  | 16740.2  | 16600.6  | 19657.4 
- SQoQ%:  |  -17.3   |   51.4   |   18.5   |   -0.8   |   18.4  
- YOPM%:  |   3.4    |   7.4    |   9.0    |   7.2    |   10.7  
- YNPM%:  |   3.6    |   4.6    |   5.8    |   0.4    |   5.0   
-YPROFIT: |  334.6   |  653.7   |  974.8   |   60.0   |  981.4  
- PQoQ%:  |  -39.6   |   95.4   |   49.1   |  -93.8   |  1536.5 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  4567.3  |  4247.9  |  4805.0  |  4824.8  |  5779.7 
- QoQ%:  |   27.2   |   -7.0   |   13.1   |   0.4    |   19.8  
- QOPM%: |   1.2    |   7.9    |   12.0   |   12.4   |   10.3  
- QNPM%: |   0.0    |   7.6    |   6.0    |   3.9    |   3.2   
- QPFT:  |  -311.8  |  322.5   |  287.6   |  188.2   |  183.1  
- PQoQ%: |  -393.0  |  -203.4  |  -10.8   |  -34.6   |   -2.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 9333.5		14130.2		16740.2		16600.6		19657.4		14543.1
+SQoQ%: 	-17.3		51.4		18.5		-0.8		18.4		74.0
+YOPM%: 	3.4		7.4		9.0		7.2		10.7
+YNPM%: 	3.6		4.6		5.8		0.4		5.0
+YPROFIT: 334.6		653.7		974.8		60.0		981.4		796.3
+PQoQ%: 	-39.6		95.4		49.1		-93.8		1536.5		81.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4824.8		5779.7		4459.8		5032.1		5051.2
+QoQ%: 	0.4		19.8		-22.8		12.8		0.4
+QOPM%: 	12.4		10.3		8.9		2.7		10.8
+QNPM%: 	3.9		3.2		7.8		4.8		4.0
+QPFT: 	188.2		183.1		349.2		242.5		204.6
+PQoQ%: 	-34.6		-2.7		90.7		-30.6		-15.6
+
+
 
 ***PROS***
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 81% of YProfit
 
 YSALES in Mar-2025 is at 19657.4 showing a QoQ_growth of 18.4%. The YNETPROFIT grew by 1536.5% to 981.4
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 19657.40cr, QoQ 18.40% & YoY 110.61% SALES;
-2098.90cr, QoQ 75.60% & YoY 568.87% OPERATING PROFIT;
+2104.20cr, QoQ 76.10% & YoY 570.55% OPERATING PROFIT;
 981.40cr, QoQ 1536.50% & YoY 193.31% NET PROFIT;
 OPM %: 10.70% vs 7.2%
 NPM %: 5.00% vs 0.4%

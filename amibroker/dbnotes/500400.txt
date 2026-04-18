@@ -1,35 +1,44 @@
-CODES
-500400	TATAPOWER	
-SECTOR : Power Generation & Distribution
-INDUSTRY : Power Generation And Supply
+CODES	500400	TATAPOWER	
+FULLNAME : Tata Power Company Ltd
+SECTOR : Power
+INDUSTRY : Integrated Power Utilities
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 32703.3  | 42815.7  | 55109.1  | 61448.9  | 65478.2 
- SQoQ%:  |   12.2   |   30.9   |   28.7   |   11.5   |   6.6   
- YOPM%:  |   21.2   |   16.4   |   14.0   |   17.5   |   19.8  
- YNPM%:  |   3.4    |   4.1    |   6.1    |   6.0    |   6.1   
-YPROFIT: |  1127.4  |  1741.5  |  3336.4  |  3696.2  |  3971.0 
- PQoQ%:  |   10.8   |   54.5   |   91.6   |   10.8   |   7.4   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 15846.6  | 17293.6  | 15697.7  | 15391.1  | 17095.9 
- QoQ%:  |   8.2    |   9.1    |   -9.2   |   -2.0   |   11.1  
- QOPM%: |   14.6   |   17.7   |   20.8   |   20.0   |   17.9  
- QNPM%: |   5.6    |   5.6    |   5.9    |   6.7    |   6.1   
- QPFT:  |  895.2   |  970.9   |  926.5   |  1030.7  |  1042.8 
- PQoQ%: |   -6.1   |   8.5    |   -4.6   |   11.2   |   1.2   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 32703.3		42815.7		55109.1		61448.9		65478.2		47528.4
+SQoQ%: 	12.2		30.9		28.7		11.5		6.6		72.6
+YOPM%: 	21.2		16.4		14.0		17.5		18.6
+YNPM%: 	3.4		4.1		6.1		6.0		6.1
+YPROFIT: 1127.4		1741.5		3336.4		3696.2		3971.0		2751.3
+PQoQ%: 	10.8		54.5		91.6		10.8		7.4		69.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 15391.1		17095.9		18035.1		15544.9		13948.4
+QoQ%: 	-2.0		11.1		5.5		-13.8		-10.3
+QOPM%: 	20.0		17.9		19.8		21.2		21.8
+QNPM%: 	6.7		6.1		5.9		5.9		5.5
+QPFT: 	1030.7		1042.8		1059.9		919.4		772.0
+PQoQ%: 	11.2		1.2		1.6		-13.2		-16.0
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 73% YSales
+- Last 3QPROFIT is about 69% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 65478.20cr, QoQ 6.60% & YoY 100.22% SALES;
-12953.70cr, QoQ 20.70% & YoY 87.17% OPERATING PROFIT;
+12165.60cr, QoQ 13.30% & YoY 75.78% OPERATING PROFIT;
 3971.00cr, QoQ 7.40% & YoY 252.23% NET PROFIT;
-OPM %: 19.80% vs 17.5%
+OPM %: 18.60% vs 17.5%
 NPM %: 6.10% vs 6.0%
 

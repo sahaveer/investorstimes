@@ -1,13 +1,14 @@
-CODE	NAME
-526211 
+CODES	526211	
+FULLNAME : Suraj Industries Ltd
+SECTOR : Beverages
+INDUSTRY : Breweries & Distilleries
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

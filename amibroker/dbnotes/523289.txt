@@ -1,37 +1,43 @@
-CODE	NAME
-523289 
+CODES	523289	
+FULLNAME : Rama Vision Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+BestQ Dec 2025
 
-SECTOR : Trading
-INDUSTRY : Trading
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 55.0		61.8		81.9		89.6		113.9		116.5
+SQoQ%: 	27.1		12.2		32.6		9.4		27.1		102.3
+YOPM%: 	3.7		4.2		5.7		7.3		6.4
+YNPM%: 	0.6		2.4		3.1		3.8		2.5
+YPROFIT: 0.3		1.5		2.5		3.4		2.8		4.5
+PQoQ%: 	675.0		371.0		74.0		33.5		-16.5		160.7
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   43.3   |   55.0   |   61.8   |   81.9   |   89.6   |      84.3    
- SQoQ%:  |   22.6   |   27.1   |   12.2   |   32.6   |   9.4    |      94.1    
- YOPM%:  |   3.5    |   3.7    |   4.2    |   5.7    |   7.3    |              
- YNPM%:  |   0.1    |   0.6    |   2.4    |   3.1    |   3.8    |              
-YPROFIT: |   0.0    |   0.3    |   1.5    |   2.5    |   3.4    |      2.3     
- PQoQ%:  |  -42.9   |  675.0   |  371.0   |   74.0   |   33.5   |      67.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   24.4   |   23.0   |   26.8   |   28.0   |   29.5  
- QoQ%:  |   11.2   |   -6.0   |   16.9   |   4.2    |   5.4   
- QOPM%: |   7.7    |   8.8    |   9.0    |   6.6    |   5.2   
- QNPM%: |   4.1    |   3.9    |   4.4    |   2.5    |   1.4   
- QPFT:  |   1.0    |   0.9    |   1.2    |   0.7    |   0.4   
- PQoQ%: |   27.8   |  -11.9   |   33.7   |  -42.0   |  -40.6  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 29.5		29.6		34.0		40.6		41.9
+QoQ%: 	5.4		0.6		14.7		19.4		3.4
+QOPM%: 	5.2		5.0		6.8		7.4		10.2
+QNPM%: 	1.4		1.8		3.1		4.0		4.5
+QPFT: 	0.4		0.5		1.0		1.6		1.9
+PQoQ%: 	-40.6		31.7		92.6		56.7		16.6
+
+
 
 ***PROS***
-- Last 3QSALES is about 94% YSales
-- Last 3QPROFIT is about 68% of YProfit
+- Last 3QSALES is about 102% YSales
+- Last 3QPROFIT is about 161% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-89.60cr, QoQ 9.40% & YoY 106.93% SALES;
-6.50cr, QoQ 39.30% & YoY 333.33% OPERATING PROFIT;
-3.40cr, QoQ 33.50% & YoY inf% NET PROFIT;
-OPM %: 7.30% vs 5.7%
-NPM %: 3.80% vs 3.1%
+ 31-Mar-2025 #Result
+113.90cr, QoQ 27.10% & YoY 107.09% SALES;
+7.30cr, QoQ 11.50% & YoY 265.00% OPERATING PROFIT;
+2.80cr, QoQ -16.50% & YoY 833.33% NET PROFIT;
+OPM %: 6.40% vs 7.3%
+NPM %: 2.50% vs 3.8%
 

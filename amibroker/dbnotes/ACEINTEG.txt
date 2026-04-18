@@ -1,12 +1,15 @@
-CODES
-ACEINTEG	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	ACEINTEG	
+FULLNAME : Ace Integrated Solutions Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -1.6

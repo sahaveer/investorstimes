@@ -1,32 +1,41 @@
-CODES
-532779	TORNTPOWER	
-SECTOR : Power Generation & Distribution
-INDUSTRY : Power Generation And Supply
+CODES	532779	TORNTPOWER	
+FULLNAME : Torrent Power Ltd
+SECTOR : Power
+INDUSTRY : Integrated Power Utilities
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 12172.7  | 14257.6  | 25694.1  | 27183.2  | 29165.3 
- SQoQ%:  |  -10.8   |   17.1   |   80.2   |   5.8    |   7.3   
- YOPM%:  |   28.6   |   25.4   |   18.6   |   16.9   |   18.2  
- YNPM%:  |   10.6   |   3.2    |   8.2    |   6.7    |   10.2  
-YPROFIT: |  1290.9  |  454.0   |  2117.4  |  1833.2  |  2988.5 
- PQoQ%:  |   9.9    |  -64.8   |  366.4   |  -13.4   |   63.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  6528.6  |  9033.7  |  7175.8  |  6499.4  |  6456.3 
- QoQ%:  |   2.6    |   38.4   |  -20.6   |   -9.4   |   -0.7  
- QOPM%: |   17.0   |   20.6   |   16.8   |   17.1   |   17.5  
- QNPM%: |   6.6    |   10.8   |   6.7    |   7.3    |   16.4  
- QPFT:  |  430.2   |  972.2   |  481.0   |  475.7   |  1059.6 
- PQoQ%: |   19.6   |  126.0   |  -50.5   |   -1.1   |  122.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 12172.7		14257.6		25694.1		27183.2		29165.3		22560.3
+SQoQ%: 	-10.8		17.1		80.2		5.8		7.3		77.4
+YOPM%: 	28.6		25.4		18.6		16.9		18.2
+YNPM%: 	10.6		3.2		8.2		6.7		10.2
+YPROFIT: 1290.9		454.0		2117.4		1833.2		2988.5		2098.2
+PQoQ%: 	9.9		-64.8		366.4		-13.4		63.0		70.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 6499.4		6456.3		7906.4		7876.0		6777.9
+QoQ%: 	-9.4		-0.7		22.5		-0.4		-13.9
+QOPM%: 	17.1		17.5		18.8		19.1		20.7
+QNPM%: 	7.3		16.4		9.3		9.2		9.5
+QPFT: 	475.7		1059.6		731.4		723.7		643.1
+PQoQ%: 	-1.1		122.8		-31.0		-1.1		-11.1
+
+
 
 ***PROS***
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 70% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 29165.30cr, QoQ 7.30% & YoY 139.60% SALES;
-5307.40cr, QoQ 15.50% & YoY 52.63% OPERATING PROFIT;
+5321.60cr, QoQ 15.80% & YoY 53.04% OPERATING PROFIT;
 2988.50cr, QoQ 63.00% & YoY 131.51% NET PROFIT;
 OPM %: 18.20% vs 16.9%
 NPM %: 10.20% vs 6.7%

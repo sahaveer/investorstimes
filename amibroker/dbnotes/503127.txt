@@ -1,31 +1,34 @@
-CODE	NAME
-503127 
-
+CODES	503127	
+FULLNAME : Raja Bahadur International Ltd
 SECTOR : Realty
-INDUSTRY : Construction
-EXPANSION 2023
-LYPD PM 2024
+INDUSTRY : Residential, Commercial Projects
+PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   8.8    |   93.9   |   30.7   |   18.9   |   21.2   |      20.7    
- SQoQ%:  |   -6.8   |  964.5   |  -67.3   |  -38.5   |   12.4   |      97.6    
- YOPM%:  |   0.0    |   10.4   |   6.9    |   23.5   |   54.2   |              
- YNPM%:  |  365.3   |   18.5   |   0.0    |   0.0    |   5.8    |              
-YPROFIT: |   32.2   |   17.3   |   -5.0   |   -4.4   |   1.2    |      -2.0    
- PQoQ%:  |  -318.9  |  -46.2   |  -129.0  |  -11.5   |  -127.9  |     -166.7   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   6.6    |   5.8    |   7.2    |   6.7    |   6.8   
- QoQ%:  |   45.3   |  -11.9   |   24.0   |   -6.7   |   0.6   
- QOPM%: |   59.6   |   80.0   |   63.3   |   68.4   |   63.1  
- QNPM%: |   10.3   |   33.6   |   0.0    |   0.0    |   11.0  
- QPFT:  |   0.7    |   2.0    |   -1.7   |   -1.0   |   0.7   
- PQoQ%: |  -383.3  |  186.8   |  -186.2  |  -38.1   |  -171.2 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 93.9		30.7		18.9		21.2		27.8		21.4
+SQoQ%: 	964.5		-67.3		-38.5		12.4		30.7		77.0
+YOPM%: 	10.4		6.9		23.5		54.2		62.8
+YNPM%: 	18.5		0.0		0.0		5.8		0.0
+YPROFIT: 17.3		-5.0		-4.4		1.2		-1.0		0.5
+PQoQ%: 	-46.2		-129.0		-11.5		-127.9		-177.4		-50.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 6.8		7.1		7.0		7.0		7.4
+QoQ%: 	0.6		5.2		-2.1		0.6		5.9
+QOPM%: 	63.1		56.6		15.7		62.8		44.3
+QNPM%: 	11.0		14.2		0.0		10.9		12.6
+QPFT: 	0.7		1.0		-1.2		0.8		0.9
+PQoQ%: 	-171.2		36.5		-219.8		-162.8		22.4
+
+
 
 ***PROS***
-EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
-- Last 3QSALES is about 98% YSales
-- YProfit Turned POSITIVE this year Mar-2024 : 1.2
-- LastYr YProfits Doubled and maintained in Mar2024
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 77% YSales
+
+***CONS***
+- NEGATIVE YProfit : -1.0

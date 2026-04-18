@@ -1,41 +1,50 @@
-CODES
-505283	KIRLPNU	
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Compressors / Drilling Equipment
+CODES	505283	KIRLPNU	
+FULLNAME : Kirloskar Pneumatic Company Ltd
+SECTOR : Industrial Products
+INDUSTRY : Compressors, Pumps & Diesel Engines
+BestQ Dec 2025
 YSD YPD 2025
 LYPD PM 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2013 | Mar-2014 | Mar-2015 | Mar-2016 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  537.9   |  483.7   |  440.7   |  508.8   |  1640.2 
- SQoQ%:  |  -19.3   |  -10.1   |   -8.9   |   15.5   |  222.3  
- YOPM%:  |   13.4   |   11.8   |   6.6    |   10.0   |   17.8  
- YNPM%:  |   9.1    |   7.6    |   4.1    |   7.2    |   12.9  
-YPROFIT: |   48.7   |   36.5   |   17.9   |   36.8   |  211.2  
- PQoQ%:  |  -21.4   |  -25.0   |  -50.9   |  105.4   |  473.9  
- QPNL:  | Mar-2015 | Dec-2015 | Mar-2016 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  177.7   |  103.6   |  183.8   |  342.6   |  591.6  
- QoQ%:  |   74.5   |  -41.7   |   77.4   |   86.4   |   72.7  
- QOPM%: |   15.7   |   7.1    |   17.1   |   14.4   |   18.5  
- QNPM%: |   12.0   |   5.0    |   11.6   |   10.6   |   13.6  
- QPFT:  |   21.3   |   5.2    |   21.3   |   36.4   |   80.3  
- PQoQ%: |  748.2   |  -75.8   |  314.2   |   70.8   |  120.5  
+***YEARLY***
+YPNL: 	Mar-2013	Mar-2014	Mar-2015	Mar-2016	Mar-2025	QSUM:Dec-2025
+YSALES: 537.9		483.7		440.7		508.8		1640.2		1075.0
+SQoQ%: 	-19.3		-10.1		-8.9		15.5		222.3		65.5
+YOPM%: 	13.4		11.8		6.6		10.0		17.9
+YNPM%: 	9.1		7.6		4.1		7.2		12.9
+YPROFIT: 48.7		36.5		17.9		36.8		211.2		112.3
+PQoQ%: 	-21.4		-25.0		-50.9		105.4		473.9		53.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 342.6		591.6		281.7		386.4		406.9
+QoQ%: 	24.4		72.7		-52.4		37.2		5.3
+QOPM%: 	14.4		18.6		11.8		15.1		15.0
+QNPM%: 	10.6		13.6		9.4		11.3		10.4
+QPFT: 	36.4		80.3		26.6		43.5		42.2
+PQoQ%: 	35.3		120.6		-66.9		63.5		-3.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
+- Last 3QSALES is about 66% YSales
+- Last 3QPROFIT is about 53% of YProfit
 - YProfits and YSales DOUBLED in Mar2025
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 222.3% while the Profit QoQ_growth is much better than Sales itself at 473.9%
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 1640.20cr, QoQ 222.30% & YoY 204.93% SALES;
-291.90cr, QoQ 473.70% & YoY 305.42% OPERATING PROFIT;
+294.40cr, QoQ 478.60% & YoY 308.89% OPERATING PROFIT;
 211.20cr, QoQ 473.90% & YoY 333.68% NET PROFIT;
-OPM %: 17.80% vs 10.0%
+OPM %: 17.90% vs 10.0%
 NPM %: 12.90% vs 7.2%
 

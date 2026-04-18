@@ -1,30 +1,51 @@
-CODES
-522163	DIACABS	
-SECTOR : Cables
-INDUSTRY : Cables - Power
+CODES	522163	DIACABS	
+FULLNAME : Diamond Power Infrastructure Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Other Electrical Equipment
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
+YSD YPD 2025
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2014 | Mar-2015 | Mar-2016 | Mar-2017 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  3152.7  |  2778.0  |  2234.5  |  1131.2  |  343.4   |     781.6    
- SQoQ%:  |   23.0   |  -11.9   |  -19.6   |  -49.4   |  -69.6   |     227.6    
- YOPM%:  |   8.9    |   2.3    |   0.0    |   0.0    |   12.4   |              
- YNPM%:  |   3.5    |   0.0    |   0.0    |   0.0    |   5.0    |              
-YPROFIT: |  110.9   |  -184.4  |  -272.8  |  -804.8  |   17.0   |      26.9    
- PQoQ%:  |   6.6    |  -266.3  |   47.9   |  195.0   |  -102.1  |     158.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   60.0   |  134.4   |  223.9   |  250.3   |  307.4  
- QoQ%:  |  -19.6   |  124.2   |   66.6   |   11.8   |   22.8  
- QOPM%: |   5.0    |   13.4   |   10.8   |   5.2    |   5.2   
- QNPM%: |   0.0    |   10.7   |   7.4    |   1.6    |   2.0   
- QPFT:  |   -5.3   |   14.4   |   16.6   |   4.0    |   6.3   
- PQoQ%: |  -322.8  |  -373.1  |   14.8   |  -75.8   |   56.7  
+***YEARLY***
+YPNL: 	Mar-2015	Mar-2016	Mar-2017	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2778.0		2234.5		1131.2		343.4		1115.4		1214.2
+SQoQ%: 	-11.9		-19.6		-49.4		-69.6		224.8		108.9
+YOPM%: 	2.3		0.0		0.0		12.4		6.0
+YNPM%: 	0.0		0.0		0.0		5.0		3.1
+YPROFIT: -184.4		-272.8		-804.8		17.0		34.5		97.5
+PQoQ%: 	-266.3		47.9		195.0		-102.1		102.6		282.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 307.4		333.8		301.8		438.3		474.1
+QoQ%: 	22.8		8.6		-9.6		45.2		8.2
+QOPM%: 	5.2		4.1		10.2		10.5		14.6
+QNPM%: 	2.0		2.3		6.7		6.3		10.5
+QPFT: 	6.3		7.7		20.1		27.7		49.7
+PQoQ%: 	56.7		22.2		162.5		37.9		79.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 228% YSales
-- Last 3QPROFIT is about 158% of YProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 17.0
+- Last 3QSALES is about 109% YSales
+- Last 3QPROFIT is about 283% of YProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2025
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 1115.4 showing a QoQ_growth of 224.8%. The YNETPROFIT grew by 102.6% to 34.5
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+1115.40cr, QoQ 224.80% & YoY -59.85% SALES;
+66.80cr, QoQ 56.30% & YoY 5.36% OPERATING PROFIT;
+34.50cr, QoQ 102.60% & YoY -118.71% NET PROFIT;
+OPM %: 6.00% vs 12.4%
+NPM %: 3.10% vs 5.0%
+

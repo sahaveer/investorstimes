@@ -1,6 +1,5 @@
-CODE	NAME
-544224 
-
+CODES	544224	
+FULLNAME : Afcom Holdings Ltd
 SECTOR : Air Transport Service
 INDUSTRY : Transport - Airlines
 EXPANSION 2023
@@ -9,8 +8,7 @@ PRODUCT DEMAND
 LYPD PM 2024
 PROFIT GROWTH BETTER THAN SALES GROWTH 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -22,6 +20,8 @@ ROCE in Mar2024 is at 24.5%
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2024, Sales have increased by 75.4% while the Profit QoQ_growth is much better than Sales itself at 85.7%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

@@ -1,12 +1,10 @@
-CODES
-EXCELLENT	
+CODES	EXCELLENT	
+FULLNAME : Excellent Wires and Packaging Ltd
 SECTOR : Steel
 INDUSTRY : Steel - Medium / Small
 LYPD PM 2025
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
@@ -15,6 +13,9 @@ A DEBT-Free Company
 - LastYr YProfits Doubled and maintained in Mar2025
 
 YSALES in Mar-2025 is at 22.2 showing a QoQ_growth of 44.0%. The YNETPROFIT grew by 37.3% to 1.1
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

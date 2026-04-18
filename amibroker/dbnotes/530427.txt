@@ -1,30 +1,51 @@
-CODE	NAME
-530427 
+CODES	530427	
+FULLNAME : Choksi Asia Ltd
+SECTOR : Healthcare Equipment & Supplies
+INDUSTRY : Medical Equipment & Supplies
+BestQ Dec 2025
+YSD YPD 2025
+YSD YPD 2024
+LYPD PM 2025
 
-SECTOR : FMCG
-INDUSTRY : Photographic And Allied Products
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 11.2		2.5		0.8		16.0		37.0		37.5
+SQoQ%: 	-30.2		-78.0		-68.7		1976.6		131.3		101.4
+YOPM%: 	0.0		0.0		0.0		0.0		10.3
+YNPM%: 	17.1		0.0		0.0		8.7		8.4
+YPROFIT: 1.9		-0.4		-0.5		1.4		3.1		4.6
+PQoQ%: 	-441.1		-122.0		14.3		-389.6		123.0		148.4
 
-***CONS***
-- NEGATIVE YProfit : -0.5
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   16.0   |   11.2   |   2.5    |   0.8    |   1.3    |      18.4    
- SQoQ%:  |   -7.7   |  -30.2   |  -78.0   |  -68.7   |   64.9   |     1415.4   
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   17.1   |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -0.6   |   1.9    |   -0.4   |   -0.5   |   -0.5   |      1.4     
- PQoQ%:  |  -165.1  |  -441.1  |  -122.0  |   14.3   |   -4.2   |     -280.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   3.0    |   0.2    |   1.4    |   8.4    |   8.6   
- QoQ%:  |  484.6   |  -95.1   |  813.3   |  515.3   |   2.5   
- QOPM%: |   0.0    |   0.0    |   20.4   |   11.6   |   0.0   
- QNPM%: |   20.7   |  206.7   |   26.3   |   9.1    |   2.4   
- QPFT:  |   0.6    |   0.3    |   0.4    |   0.8    |   0.2   
- PQoQ%: |  -234.0  |  -50.8   |   16.1   |  113.9   |  -72.7  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 8.7		12.2		11.9		13.3		12.3
+QoQ%: 	3.0		40.1		-2.1		11.7		-7.8
+QOPM%: 	0.0		10.2		11.7		12.0		14.6
+QNPM%: 	2.5		5.8		9.0		10.2		17.4
+QPFT: 	0.2		0.7		1.1		1.4		2.1
+PQoQ%: 	-66.2		222.7		50.7		26.2		57.8
+
+
 
 ***PROS***
-DEBT-Free Company for the last 3 yrs
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 1415% YSales
+- Last 3QSALES is about 101% YSales
+- Last 3QPROFIT is about 148% of YProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- YProfits and YSales DOUBLED in Mar2025
+- YProfits and YSales DOUBLED in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 37.0 showing a QoQ_growth of 131.3%. The YNETPROFIT grew by 123.0% to 3.1
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+37.00cr, QoQ 131.30% & YoY 230.36% SALES;
+3.80cr, QoQ -19150.00% & YoY -323.53% OPERATING PROFIT;
+3.10cr, QoQ 123.00% & YoY 63.16% NET PROFIT;
+OPM %: 10.30% vs 0.0%
+NPM %: 8.40% vs 8.7%
+

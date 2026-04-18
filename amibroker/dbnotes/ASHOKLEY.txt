@@ -1,38 +1,47 @@
-CODES
-500477	ASHOKLEY	
-SECTOR : Automobile
-INDUSTRY : Automobiles - LCVs / HCVs
+CODES	500477	ASHOKLEY	
+FULLNAME : Ashok Leyland Ltd
+SECTOR : Agricultural, Commercial & Construction Vehicles
+INDUSTRY : Commercial Vehicles
 PRODUCT DEMAND
+BestQ Dec 2025
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 19454.1  | 26237.2  | 41672.6  | 45790.6  | 48535.1 
- SQoQ%:  |  -11.4   |   34.9   |   58.8   |   9.9    |   6.0   
- YOPM%:  |   12.7   |   10.5   |   12.2   |   17.3   |   19.0  
- YNPM%:  |   0.0    |   0.0    |   3.0    |   5.4    |   6.4   
-YPROFIT: |  -165.2  |  -358.6  |  1238.7  |  2483.5  |  3106.8 
- PQoQ%:  |  -149.1  |  117.0   |  -445.4  |  100.5   |   25.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 13542.4  | 10724.5  | 11147.6  | 11995.2  | 14695.6 
- QoQ%:  |   22.1   |  -20.8   |   3.9    |   7.6    |   22.5  
- QOPM%: |   19.0   |   17.4   |   18.3   |   19.5   |   20.4  
- QNPM%: |   6.3    |   4.7    |   6.3    |   6.4    |   7.7   
- QPFT:  |  853.4   |  509.2   |  705.6   |  761.9   |  1130.1 
- PQoQ%: |   52.3   |  -40.3   |   38.6   |   8.0    |   48.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 19454.1		26237.2		41672.6		45703.3		48535.1		39115.6
+SQoQ%: 	-11.4		34.9		58.8		9.7		6.2		80.6
+YOPM%: 	12.7		10.5		12.2		17.2		19.0
+YNPM%: 	0.0		0.0		3.0		5.4		6.4
+YPROFIT: -165.2		-358.6		1238.7		2483.5		3106.8		2180.4
+PQoQ%: 	-149.1		117.0		-445.4		100.5		25.1		70.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 11995.2		14695.6		11708.5		12576.9		14830.2
+QoQ%: 	7.6		22.5		-20.3		7.4		17.9
+QOPM%: 	19.5		20.4		18.6		19.4		19.0
+QNPM%: 	6.4		7.7		5.2		6.0		5.5
+QPFT: 	761.9		1130.1		611.1		755.8		813.5
+PQoQ%: 	8.0		48.3		-45.9		23.7		7.6
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 70% of YProfit
 - YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 - LastYr YProfits Doubled and maintained in Mar2025
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
-48535.10cr, QoQ 6.00% & YoY 149.49% SALES;
-9207.80cr, QoQ 15.90% & YoY 274.01% OPERATING PROFIT;
+48535.10cr, QoQ 6.20% & YoY 149.49% SALES;
+9207.80cr, QoQ 17.20% & YoY 274.01% OPERATING PROFIT;
 3106.80cr, QoQ 25.10% & YoY -1980.63% NET PROFIT;
-OPM %: 19.00% vs 17.3%
+OPM %: 19.00% vs 17.2%
 NPM %: 6.40% vs 5.4%
 

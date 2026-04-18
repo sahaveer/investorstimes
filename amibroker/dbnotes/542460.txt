@@ -1,36 +1,45 @@
-CODES
-542460	ANUP	
-SECTOR : Engineering
-INDUSTRY : Engineering
+CODES	542460	ANUP	
+FULLNAME : The Anup Engineering Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  245.5   |  279.1   |  288.2   |  411.3   |  732.8  
- SQoQ%:  |   nan    |   13.7   |   3.3    |   42.7   |   78.1  
- YOPM%:  |   28.4   |   25.2   |   24.6   |   20.4   |   22.5  
- YNPM%:  |   17.5   |   19.2   |   21.5   |   12.5   |   16.1  
-YPROFIT: |   43.0   |   53.5   |   62.0   |   51.4   |  118.3  
- PQoQ%:  |   nan    |   24.6   |   15.9   |  -17.1   |  130.0  
- QPNL:  | Sep-2023 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  139.8   |  146.0   |  193.1   |  171.7   |  221.7  
- QoQ%:  |   11.7   |   4.4    |   32.3   |  -11.1   |   29.1  
- QOPM%: |   22.4   |   22.6   |   22.4   |   22.7   |   22.4  
- QNPM%: |   15.5   |   16.5   |   16.8   |   17.6   |   14.2  
- QPFT:  |   21.7   |   24.0   |   32.5   |   30.2   |   31.5  
- PQoQ%: |   17.0   |   10.6   |   35.4   |   -7.1   |   4.4   
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2022	Mar-2023	Mar-2025	QSUM:Dec-2025
+YSALES: 245.5		279.1		288.2		411.3		732.8		614.4
+SQoQ%: 	nan		13.7		3.3		42.7		78.1		83.8
+YOPM%: 	28.4		25.2		24.6		20.4		22.9
+YNPM%: 	17.5		19.2		21.5		12.5		16.1
+YPROFIT: 43.0		53.5		62.0		51.4		118.3		83.8
+PQoQ%: 	nan		24.6		15.9		-17.1		130.0		70.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 171.7		221.7		175.2		232.3		206.9
+QoQ%: 	-11.1		29.1		-21.0		32.6		-10.9
+QOPM%: 	22.7		22.4		23.0		22.2		21.3
+QNPM%: 	17.6		14.2		15.0		13.8		12.3
+QPFT: 	30.2		31.5		26.3		32.0		25.5
+PQoQ%: 	-7.1		4.4		-16.7		22.0		-20.3
+
+
 
 ***PROS***
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 71% of YProfit
 
 
 YSALES in Mar-2025 is at 732.8 showing a QoQ_growth of 78.1%. The YNETPROFIT grew by 130.0% to 118.3
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 732.80cr, QoQ 78.10% & YoY 198.49% SALES;
-165.20cr, QoQ 96.70% & YoY 136.68% OPERATING PROFIT;
+167.50cr, QoQ 99.50% & YoY 139.97% OPERATING PROFIT;
 118.30cr, QoQ 130.00% & YoY 175.12% NET PROFIT;
-OPM %: 22.50% vs 20.4%
+OPM %: 22.90% vs 20.4%
 NPM %: 16.10% vs 12.5%
 

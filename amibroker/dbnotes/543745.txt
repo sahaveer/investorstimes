@@ -1,43 +1,46 @@
-CODE	NAME
-543745 
-
-SECTOR : Construction
-INDUSTRY : Construction
-BestQ Sep 2024
-BestQ Sep 2024
+CODES	543745	
+FULLNAME : SVS Ventures Ltd
+SECTOR : Realty
+INDUSTRY : Residential, Commercial Projects
+PRODUCT DEMAND
+BestQ Sep 2025
 YSD YPD 2023
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Sep-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   13.5   |   13.6   |   0.2    |   6.6    |   1.4    |      0.3     
- SQoQ%:  |   nan    |   0.5    |  -98.7   |  3800.0  |  -78.4   |      21.4    
- YOPM%:  |   8.2    |   7.9    |   94.1   |   14.9   |   8.4    |              
- YNPM%:  |   1.9    |   2.0    |   70.6   |   10.6   |   5.6    |              
-YPROFIT: |   0.2    |   0.3    |   0.1    |   0.7    |   0.1    |      0.1     
- PQoQ%:  |   nan    |   8.0    |  -55.6   |  483.3   |  -88.6   |     100.0    
- QPNL:  | Sep-2022 | Mar-2023 | Sep-2023 | Jun-2024 | Sep-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.3    |   5.3    |   0.9    |   0.0    |   0.3   
- QoQ%:  |   0.0    |  310.0   |  -83.1   |  -100.0  |   inf   
- QOPM%: |   41.5   |   8.4    |   0.0    |   0.0    |   58.1  
- QNPM%: |   40.0   |   3.4    |   0.0    |   0.0    |   51.6  
- QPFT:  |   0.5    |   0.2    |   -0.1   |   -0.1   |   0.2   
- PQoQ%: |  271.4   |  -65.4   |  -138.9  |   28.6   |  -277.8 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Sep-2025
+YSALES: 13.6		0.2		6.6		1.4		0.0		0.2
+SQoQ%: 	0.5		-98.7		3800.0		-78.4		-100.0		inf
+YOPM%: 	7.9		94.1		14.9		8.4		inf
+YNPM%: 	2.0		70.6		10.6		5.6		inf
+YPROFIT: 0.3		0.1		0.7		0.1		0.1		0.0
+PQoQ%: 	8.0		-55.6		483.3		-88.6		0.0		0.0
+
+
+
+***QUARTERLY***
+QPNL: 	Sep-2023	Jun-2024	Sep-2024	Jun-2025	Sep-2025
+QSALES: 0.9		0.0		0.3		0.0		0.2
+QoQ%: 	-83.1		-100.0		inf		-100.0		inf
+QOPM%: 	0.0		0.0		58.1		0.0		64.7
+QNPM%: 	0.0		0.0		51.6		0.0		58.8
+QPFT: 	-0.1		-0.1		0.2		-0.1		0.1
+PQoQ%: 	-138.9		28.6		-277.8		-150.0		-225.0
+
+
 
 ***PROS***
-A DEBT-Free Company
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+A DEBT-Free Company for the last 2 yrs
+- PRODUCT DEMAND is rising since 3 years
 - QSales and QProfit doubled
-- Last 2QPROFIT is about 100% of YProfit
 - YProfits and YSales DOUBLED in Mar2023
 
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1.40cr, QoQ -78.40% & YoY -89.63% SALES;
-0.10cr, QoQ -87.90% & YoY -90.91% OPERATING PROFIT;
-0.10cr, QoQ -88.60% & YoY -50.00% NET PROFIT;
-OPM %: 8.40% vs 14.9%
-NPM %: 5.60% vs 10.6%
+ 31-Mar-2025 #Result
+0.00cr, QoQ -100.00% & YoY -100.00% SALES;
+0.00cr, QoQ -58.30% & YoY -100.00% OPERATING PROFIT;
+0.10cr, QoQ 0.00% & YoY -66.67% NET PROFIT;
+OPM %: inf% vs 8.4%
+NPM %: inf% vs 5.6%
 

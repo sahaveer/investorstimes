@@ -1,40 +1,45 @@
-CODE	NAME
-524828 
+CODES	524828	
+FULLNAME : BDH Industries Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+PRODUCT DEMAND
+BestQ Dec 2025
 
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Formulations
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 57.4		69.4		74.5		85.8		66.5		66.9
+SQoQ%: 	-3.4		20.8		7.3		15.3		-22.5		100.6
+YOPM%: 	14.8		13.1		14.7		14.5		17.4
+YNPM%: 	11.1		10.4		11.0		11.5		13.9
+YPROFIT: 6.4		7.2		8.2		9.9		9.3		7.9
+PQoQ%: 	7.1		13.5		13.6		20.4		-6.1		84.9
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   59.5   |   57.4   |   69.4   |   74.5   |   85.8   |      48.7    
- SQoQ%:  |   15.1   |   -3.4   |   20.8   |   7.3    |   15.3   |      56.8    
- YOPM%:  |   15.1   |   14.8   |   13.1   |   14.7   |   14.5   |              
- YNPM%:  |   10.0   |   11.1   |   10.4   |   11.0   |   11.5   |              
-YPROFIT: |   5.9    |   6.4    |   7.2    |   8.2    |   9.9    |      6.8     
- PQoQ%:  |   23.0   |   7.1    |   13.5   |   13.6   |   20.4   |      68.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   21.1   |   27.1   |   16.3   |   16.2   |   16.2  
- QoQ%:  |   8.8    |   28.7   |  -40.0   |   -0.2   |   -0.2  
- QOPM%: |   16.6   |   14.1   |   12.1   |   18.8   |   21.8  
- QNPM%: |   13.2   |   10.9   |   9.7    |   14.8   |   17.3  
- QPFT:  |   2.8    |   3.0    |   1.6    |   2.4    |   2.8   
- PQoQ%: |   10.8   |   6.5    |  -47.0   |   53.5   |   16.6  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 16.2		17.8		18.6		19.0		29.3
+QoQ%: 	-0.2		10.0		4.5		1.8		54.7
+QOPM%: 	21.8		17.2		11.4		17.6		14.4
+QNPM%: 	17.3		14.0		9.8		13.8		11.9
+QPFT: 	2.8		2.5		1.8		2.6		3.5
+PQoQ%: 	16.6		-11.4		-26.5		43.2		33.2
+
+
 
 ***PROS***
-- Last 3QSALES is about 57% YSales
-- Last 3QPROFIT is about 69% of YProfit
+A DEBT-Free Company
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 101% YSales
+- Last 3QPROFIT is about 85% of YProfit
 
-YSALES in Mar-2024 is at 85.8 showing a QoQ_growth of 15.3%. The YNETPROFIT grew by 20.4% to 9.9
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-85.80cr, QoQ 15.30% & YoY 44.20% SALES;
-12.40cr, QoQ 13.40% & YoY 37.78% OPERATING PROFIT;
-9.90cr, QoQ 20.40% & YoY 67.80% NET PROFIT;
-OPM %: 14.50% vs 14.7%
-NPM %: 11.50% vs 11.0%
+ 31-Mar-2025 #Result
+66.50cr, QoQ -22.50% & YoY 15.85% SALES;
+11.60cr, QoQ -6.70% & YoY 36.47% OPERATING PROFIT;
+9.30cr, QoQ -6.10% & YoY 45.31% NET PROFIT;
+OPM %: 17.40% vs 14.5%
+NPM %: 13.90% vs 11.5%
 

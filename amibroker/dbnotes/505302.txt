@@ -1,38 +1,43 @@
-CODE	NAME
-505302 
+CODES	505302	
+FULLNAME : Lakshmi Engineering & Warehousing Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
+BestQ Dec 2025
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 10.2		11.8		12.7		14.8		12.8		10.3
+SQoQ%: 	-19.7		15.9		7.5		16.4		-13.5		80.5
+YOPM%: 	38.3		32.1		24.3		21.8		13.1
+YNPM%: 	24.9		22.0		16.8		15.6		6.6
+YPROFIT: 2.5		2.6		2.1		2.3		0.8		1.1
+PQoQ%: 	-24.2		2.4		-18.1		8.5		-63.6		137.5
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   12.7   |   10.2   |   11.8   |   12.7   |   14.8   |      9.6     
- SQoQ%:  |   55.4   |  -19.7   |   15.9   |   7.5    |   16.4   |      64.9    
- YOPM%:  |   39.7   |   38.3   |   32.1   |   24.3   |   21.8   |              
- YNPM%:  |   26.4   |   24.9   |   22.0   |   16.8   |   15.6   |              
-YPROFIT: |   3.4    |   2.5    |   2.6    |   2.1    |   2.3    |      0.6     
- PQoQ%:  |  165.9   |  -24.2   |   2.4    |  -18.1   |   8.5    |      26.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   4.1    |   3.3    |   3.2    |   3.3    |   3.1   
- QoQ%:  |   14.0   |  -19.9   |   -0.9   |   1.5    |   -6.1  
- QOPM%: |   15.7   |   18.0   |   19.1   |   20.1   |   0.0   
- QNPM%: |   13.7   |   13.8   |   9.0    |   16.1   |   0.0   
- QPFT:  |   0.6    |   0.4    |   0.3    |   0.5    |   -0.2  
- PQoQ%: |   -5.1   |  -19.6   |  -35.6   |   82.8   |  -135.8 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3.1		3.2		3.0		3.9		3.4
+QoQ%: 	-6.1		2.9		-4.7		29.0		-11.8
+QOPM%: 	0.0		13.5		19.1		29.2		27.0
+QNPM%: 	0.0		6.9		7.9		14.8		9.9
+QPFT: 	-0.2		0.2		0.2		0.6		0.3
+PQoQ%: 	-135.8		-215.8		9.1		141.7		-41.4
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 65% YSales
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 137% of YProfit
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-14.80cr, QoQ 16.40% & YoY 16.54% SALES;
-3.20cr, QoQ 4.50% & YoY -36.00% OPERATING PROFIT;
-2.30cr, QoQ 8.50% & YoY -32.35% NET PROFIT;
-OPM %: 21.80% vs 24.3%
-NPM %: 15.60% vs 16.8%
+ 31-Mar-2025 #Result
+12.80cr, QoQ -13.50% & YoY 25.49% SALES;
+1.70cr, QoQ -48.00% & YoY -56.41% OPERATING PROFIT;
+0.80cr, QoQ -63.60% & YoY -68.00% NET PROFIT;
+OPM %: 13.10% vs 21.8%
+NPM %: 6.60% vs 15.6%
 

@@ -1,31 +1,40 @@
-CODES
-542399	CHALET	
-SECTOR : Hotels & Restaurants
-INDUSTRY : Hotels
+CODES	542399	CHALET	
+FULLNAME : Chalet Hotels Ltd
+SECTOR : Leisure Services
+INDUSTRY : Hotels & Resorts
+BestQ Dec 2025
 YSD YPD 2023
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  285.6   |  507.8   |  1128.5  |  1417.2  |  1717.8 
- SQoQ%:  |  -70.9   |   77.8   |  122.2   |   25.6   |   21.2  
- YOPM%:  |   2.5    |   19.4   |   40.1   |   41.3   |   42.8  
- YNPM%:  |   0.0    |   0.0    |   16.2   |   19.6   |   8.3   
-YPROFIT: |  -139.1  |  -81.5   |  183.3   |  278.2   |  142.6  
- PQoQ%:  |  -235.4  |  -41.4   |  -324.9  |   51.7   |  -48.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  418.3   |  361.0   |  377.0   |  457.8   |  522.0  
- QoQ%:  |   11.9   |  -13.7   |   4.4    |   21.4   |   14.0  
- QOPM%: |   43.7   |   38.8   |   39.7   |   44.7   |   46.3  
- QNPM%: |   19.7   |   16.8   |   0.0    |   21.1   |   23.7  
- QPFT:  |   82.4   |   60.7   |  -138.5  |   96.5   |  123.8  
- PQoQ%: |   16.7   |  -26.4   |  -328.3  |  -169.7  |   28.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 285.6		507.8		1128.5		1417.2		1717.8		2211.6
+SQoQ%: 	-70.9		77.8		122.2		25.6		21.2		128.7
+YOPM%: 	2.5		19.4		40.1		41.3		42.8
+YNPM%: 	0.0		0.0		16.2		19.6		8.3
+YPROFIT: -139.1		-81.5		183.3		278.2		142.6		482.1
+PQoQ%: 	-235.4		-41.4		-324.9		51.7		-48.7		338.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 457.8		522.0		894.6		735.3		581.7
+QoQ%: 	21.4		14.0		71.4		-17.8		-20.9
+QOPM%: 	44.7		46.3		39.9		40.7		45.6
+QNPM%: 	21.1		23.7		22.7		21.1		21.3
+QPFT: 	96.5		123.8		203.2		154.8		124.1
+PQoQ%: 	-169.7		28.3		64.0		-23.8		-19.9
+
+
 
 ***PROS***
+- Last 3QSALES is about 129% YSales
+- Last 3QPROFIT is about 338% of YProfit
 - YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2023
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

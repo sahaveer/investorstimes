@@ -1,42 +1,31 @@
-CODE	NAME
-513005 
+CODES	513005	
+FULLNAME : Chrome Silicon Ltd
+SECTOR : Ferrous Metals
+INDUSTRY : Ferro & Silica Manganese
 
-SECTOR : Ferro Alloys
-INDUSTRY : Mining / Minerals / Metals
-PRODUCT DEMAND
-BestQ Dec 2024
-YSD YPD 2022
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.8		92.5		175.7		89.9		73.4		1.0
+SQoQ%: 	-95.9		5154.0		90.0		-48.8		-18.3		1.4
+YOPM%: 	0.0		2.3		0.6		0.0		0.0
+YNPM%: 	0.0		0.2		1.6		0.5		0.0
+YPROFIT: -45.6		0.2		2.7		0.4		-85.9		-7.3
+PQoQ%: 	103.4		-100.4		1336.8		-84.6		-20561.9		8.5
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   42.5   |   1.8    |   92.5   |  175.7   |   89.8   |      68.4    
- SQoQ%:  |  913.4   |  -95.9   |  5154.0  |   90.0   |  -48.9   |      76.2    
- YOPM%:  |   0.0    |   0.0    |   2.3    |   0.6    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.2    |   1.6    |   0.5    |              
-YPROFIT: |  -22.4   |  -45.6   |   0.2    |   2.7    |   0.4    |     -11.2    
- PQoQ%:  |  -85.0   |  103.4   |  -100.4  |  1336.8  |  -84.6   |    -2800.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   29.1   |   37.2   |   35.1   |   10.8   |   22.5  
- QoQ%:  |  117.4   |   27.9   |   -5.7   |  -69.2   |  107.8  
- QOPM%: |   6.4    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.3    |   0.3    |   0.0    |   0.0    |   0.0   
- QPFT:  |   0.1    |   0.1    |   -6.6   |   -2.2   |   -2.4  
- PQoQ%: |  100.0   |   0.0    | -6670.0  |  -67.3   |   13.5  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 22.5		5.0		0.2		0.3		0.5
+QoQ%: 	107.8		-77.6		-95.2		20.8		86.2
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-2.4		-74.8		-2.2		-3.0		-2.1
+PQoQ%: 	13.5		2964.8		-97.1		39.5		-29.0
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 76% YSales
-- Double QSales and QProfit
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
-- YProfits and YSales DOUBLED in Mar2022
 
-Yearly 
- 31-Mar-2024 #Result
-89.80cr, QoQ -48.90% & YoY 111.29% SALES;
--19.50cr, QoQ -2047.00% & YoY 59.84% OPERATING PROFIT;
-0.40cr, QoQ -84.60% & YoY -101.79% NET PROFIT;
-OPM %: 0.00% vs 0.6%
-NPM %: 0.50% vs 1.6%
-
+***CONS***
+- NEGATIVE YProfit : -85.9

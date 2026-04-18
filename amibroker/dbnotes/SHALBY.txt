@@ -1,37 +1,43 @@
-CODES
-540797	SHALBY	
-SECTOR : Healthcare
-INDUSTRY : Healthcare
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+CODES	540797	SHALBY	
+FULLNAME : Shalby Ltd
+SECTOR : Healthcare Services
+INDUSTRY : Hospital
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  486.8   |  430.9   |  699.0   |  804.9   |  933.8   |     822.0    
- SQoQ%:  |   5.3    |  -11.5   |   62.2   |   15.2   |   16.0   |      88.0    
- YOPM%:  |   17.0   |   20.6   |   17.4   |   17.2   |   19.1   |              
- YNPM%:  |   5.7    |   9.8    |   7.7    |   8.4    |   9.0    |              
-YPROFIT: |   27.6   |   42.4   |   54.1   |   67.7   |   84.1   |      17.3    
- PQoQ%:  |  -12.9   |   53.7   |   27.7   |   25.1   |   24.2   |      20.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  216.0   |  244.2   |  278.9   |  267.5   |  275.6  
- QoQ%:  |   -9.2   |   13.0   |   14.2   |   -4.1   |   3.0   
- QOPM%: |   19.6   |   15.9   |   16.2   |   12.2   |   12.3  
- QNPM%: |   8.8    |   6.8    |   5.6    |   1.3    |   0.0   
- QPFT:  |   19.1   |   16.6   |   15.7   |   3.4    |   -1.8  
- PQoQ%: |  -30.9   |  -13.0   |   -5.7   |  -78.4   |  -153.4 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 430.9		699.0		804.9		933.8		1087.0		853.9
+SQoQ%: 	-11.5		62.2		15.2		16.0		16.4		78.6
+YOPM%: 	20.6		17.4		17.2		19.1		12.4
+YNPM%: 	9.8		7.7		8.4		9.0		0.6
+YPROFIT: 42.4		54.1		67.7		84.1		6.2		19.1
+PQoQ%: 	53.7		27.7		25.1		24.2		-92.6		308.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 275.6		264.9		296.4		285.4		272.1
+QoQ%: 	3.0		-3.9		11.9		-3.7		-4.7
+QOPM%: 	12.3		7.9		14.0		14.6		11.1
+QNPM%: 	0.0		0.0		3.0		2.9		0.7
+QPFT: 	-1.8		-11.0		8.9		8.4		1.8
+PQoQ%: 	-153.4		508.8		-180.9		-5.9		-78.9
+
+
 
 ***PROS***
-- Last 3QSALES is about 88% YSales
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 16.0% while the Profit QoQ_growth is much better than Sales itself at 24.2%
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 308% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-933.80cr, QoQ 16.00% & YoY 91.82% SALES;
-178.70cr, QoQ 29.30% & YoY 115.82% OPERATING PROFIT;
-84.10cr, QoQ 24.20% & YoY 204.71% NET PROFIT;
-OPM %: 19.10% vs 17.2%
-NPM %: 9.00% vs 8.4%
+ 31-Mar-2025 #Result
+1087.00cr, QoQ 16.40% & YoY 152.26% SALES;
+134.70cr, QoQ -24.60% & YoY 51.69% OPERATING PROFIT;
+6.20cr, QoQ -92.60% & YoY -85.38% NET PROFIT;
+OPM %: 12.40% vs 19.1%
+NPM %: 0.60% vs 9.0%
 

@@ -1,21 +1,34 @@
-CODES
-BETA	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs
-PRODUCT DEMAND
+CODES	BETA	
+FULLNAME : Beta Drugs Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 
-***CONS***
+***YEARLY***
 
+
+***QUARTERLY***
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 22.5% while the Profit QoQ_growth is at 16.4%
+
+***CONS***
+
+Quarterly 
+31-Dec-2025 #Result
+87.30cr, QoQ -15.60% SALES;
+17.00cr, QoQ -20.30% OPERATING PROFIT;
+8.50cr, QoQ -30.30% NET PROFIT;
+OPM %: 19.50% vs 20.6%
+NPM %: 9.80% vs 11.8%
+
 
 Yearly 
  31-Mar-2025 #Result
-220.20cr, QoQ 11.60% & YoY 176.98% SALES;
-31.40cr, QoQ -6.30% & YoY 105.23% OPERATING PROFIT;
-15.40cr, QoQ -29.70% & YoY 120.00% NET PROFIT;
-OPM %: 14.30% vs 17.0%
-NPM %: 7.00% vs 11.1%
+362.40cr, QoQ 22.50% & YoY 212.14% SALES;
+74.60cr, QoQ 24.30% & YoY 202.02% OPERATING PROFIT;
+42.40cr, QoQ 16.40% & YoY 262.39% NET PROFIT;
+OPM %: 20.60% vs 20.3%
+NPM %: 11.70% vs 12.3%
 

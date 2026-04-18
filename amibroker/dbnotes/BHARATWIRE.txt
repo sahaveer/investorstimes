@@ -1,12 +1,14 @@
-CODES
-539799	BHARATWIRE	
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
+CODES	539799	BHARATWIRE	
+FULLNAME : Bharat Wire Ropes Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

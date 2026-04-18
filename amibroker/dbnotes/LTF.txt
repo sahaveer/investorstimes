@@ -1,30 +1,39 @@
-CODES
-533519	LTF	
+CODES	533519	LTF	
+FULLNAME : L&T Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 13352.8  | 11929.7  | 12775.0  | 14251.7  | 15924.2 
- SQoQ%:  |   -5.3   |  -10.7   |   7.1    |   11.6   |   11.7  
- YOPM%:  |   59.6   |   56.1   |   37.9   |   56.5   |   60.4  
- YNPM%:  |   7.3    |   9.0    |   12.7   |   16.3   |   16.6  
-YPROFIT: |  970.9   |  1070.1  |  1623.2  |  2320.1  |  2643.7 
- PQoQ%:  |  -42.9   |   10.2   |   51.7   |   42.9   |   13.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  3670.3  |  3784.4  |  4019.3  |  4097.6  |  4022.9 
- QoQ%:  |   3.9    |   3.1    |   6.2    |   1.9    |   -1.8  
- QOPM%: |   55.9   |   60.8   |   60.8   |   59.1   |   60.7  
- QNPM%: |   15.1   |   18.1   |   17.3   |   15.3   |   15.8  
- QPFT:  |  553.9   |  685.5   |  695.6   |  626.4   |  636.2  
- PQoQ%: |  -13.5   |   23.8   |   1.5    |   -9.9   |   1.6   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 13352.8		11929.7		12775.0		14251.7		15924.2		13173.7
+SQoQ%: 	-5.3		-10.7		7.1		11.6		11.7		82.7
+YOPM%: 	59.6		56.1		37.9		56.5		60.4
+YNPM%: 	7.3		9.0		12.7		16.3		16.6
+YPROFIT: 970.9		1070.1		1623.2		2320.1		2643.7		2174.5
+PQoQ%: 	-42.9		10.2		51.7		42.9		13.9		82.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4097.6		4022.9		4259.6		4335.8		4578.3
+QoQ%: 	1.9		-1.8		5.9		1.8		5.6
+QOPM%: 	59.1		60.7		61.5		61.7		60.7
+QNPM%: 	15.3		15.8		16.5		16.9		16.1
+QPFT: 	626.4		636.2		701.1		734.8		738.6
+PQoQ%: 	-9.9		1.6		10.2		4.8		0.5
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 82% of YProfit
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

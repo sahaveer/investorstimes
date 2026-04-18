@@ -1,30 +1,36 @@
-CODES
-KEN	
+CODES	KEN	
+FULLNAME : Ken Enterprises Ltd
 SECTOR : Textiles
 INDUSTRY : Textiles - Products
 PRODUCT DEMAND
 BestQ Dec 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  770.7   |  775.6   |  842.7   |  917.3   |  982.9   |     811.5    
- SQoQ%:  |   -5.3   |   0.6    |   8.6    |   8.9    |   7.1    |      82.6    
- YOPM%:  |   14.6   |   13.9   |   12.4   |   10.2   |   10.6   |              
- YNPM%:  |   9.2    |   9.2    |   8.4    |   0.0    |   6.5    |              
-YPROFIT: |   70.5   |   71.1   |   70.4   |  -126.8  |   64.0   |      60.5    
- PQoQ%:  |   -8.3   |   0.8    |   -0.9   |  -280.0  |  -150.5  |      94.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  245.4   |  247.8   |  261.9   |  270.7   |  278.9  
- QoQ%:  |   2.0    |   1.0    |   5.7    |   3.3    |   3.0   
- QOPM%: |   7.5    |   13.0   |   12.2   |   12.0   |   12.2  
- QNPM%: |   3.3    |   9.7    |   7.6    |   7.3    |   7.5   
- QPFT:  |   8.1    |   23.9   |   19.9   |   19.7   |   20.9  
- PQoQ%: |  -50.8   |  194.3   |  -16.7   |   -1.4   |   6.4   
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2022	Mar-2023	Mar-2024	QSUM:Dec-2024
+YSALES: 	770.7		775.6		842.7		917.3		982.9		811.5
+SQoQ%: 	-5.3		0.6		8.6		8.9		7.1		82.6
+YOPM%: 	14.6		13.9		12.4		10.2		10.6
+YNPM%: 	9.2		9.2		8.4		0.0		6.5
+YPROFIT: 	70.5		71.1		70.4		-126.8		64.0		60.5
+PQoQ%: 	-8.3		0.8		-0.9		-280.0		-150.5		94.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2023		Mar-2024	Jun-2024	Sep-2024		Dec-2024
+QSALES: 	245.4		247.8		261.9		270.7		278.9
+QoQ%: 	2.0		1.0		5.7		3.3		3.0
+QOPM%: 	7.5		13.0		12.2		12.0		12.2
+QNPM%: 	3.3		9.7		7.6		7.3		7.5
+QPFT: 	8.1		23.9		19.9		19.7		20.9
+PQoQ%: 	-50.8		194.3		-16.7		-1.4		6.4
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - Last 3QSALES is about 83% YSales
 - Last 3QPROFIT is about 95% of YProfit
 - YProfit Turned POSITIVE this year Mar-2024 : 64.0
+
+***CONS***

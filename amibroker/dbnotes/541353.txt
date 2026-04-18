@@ -1,29 +1,22 @@
-CODE	NAME
-541353 
-
-SECTOR : Construction
-INDUSTRY : Construction
-PRODUCT DEMAND
+CODES	541353	
+FULLNAME : Innovators Facade Systems Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 YSD YPD 2023
-LYPD PM 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 18.9% while the Profit QoQ_growth is much better than Sales itself at 79.5%
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-215.10cr, QoQ 18.90% & YoY 52.23% SALES;
-28.70cr, QoQ 59.00% & YoY 85.16% OPERATING PROFIT;
-15.20cr, QoQ 79.50% & YoY -285.37% NET PROFIT;
-OPM %: 13.30% vs 10.0%
-NPM %: 7.10% vs 4.7%
+ 31-Mar-2025 #Result
+221.40cr, QoQ 2.70% & YoY 235.96% SALES;
+32.30cr, QoQ 11.30% & YoY 289.16% OPERATING PROFIT;
+15.80cr, QoQ 4.00% & YoY 1875.00% NET PROFIT;
+OPM %: 14.60% vs 13.5%
+NPM %: 7.10% vs 7.0%
 

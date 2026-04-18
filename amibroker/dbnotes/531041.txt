@@ -1,13 +1,14 @@
-CODE	NAME
-531041 
+CODES	531041	
+FULLNAME : Competent Automobiles Company Ltd
+SECTOR : Automobiles
+INDUSTRY : Auto Dealer
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

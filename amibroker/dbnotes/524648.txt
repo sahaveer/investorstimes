@@ -1,34 +1,43 @@
-CODES
-524648	INDOAMIN	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	524648	INDOAMIN	
+FULLNAME : Indo Amines Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 540.5		786.0		945.0		943.5		1078.7		842.0
+SQoQ%: 	12.9		45.4		20.2		-0.2		14.3		78.1
+YOPM%: 	11.3		6.6		9.2		8.5		9.4
+YNPM%: 	6.9		2.9		4.3		4.5		5.1
+YPROFIT: 37.5		22.8		40.4		42.8		55.2		58.8
+PQoQ%: 	193.1		-39.2		77.2		5.7		29.2		106.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 258.8		285.4		287.6		277.0		277.4
+QoQ%: 	-3.9		10.3		0.8		-3.7		0.1
+QOPM%: 	9.4		8.7		10.9		11.5		9.1
+QNPM%: 	4.4		4.2		10.0		6.5		4.3
+QPFT: 	11.3		11.8		28.8		18.1		11.9
+PQoQ%: 	-18.0		4.8		143.4		-37.2		-34.5
+
+
+
+***PROS***
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 107% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  540.5   |  786.0   |  945.0   |  943.6   |  1078.7 
- SQoQ%:  |   12.9   |   45.4   |   20.2   |   -0.1   |   14.3  
- YOPM%:  |   11.3   |   6.6    |   9.2    |   8.4    |   9.4   
- YNPM%:  |   6.9    |   2.9    |   4.3    |   4.5    |   5.2   
-YPROFIT: |   37.5   |   22.8   |   40.4   |   42.6   |   55.9  
- PQoQ%:  |  193.1   |  -39.2   |   77.2   |   5.3    |   31.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  253.2   |  264.9   |  269.4   |  258.8   |  285.4  
- QoQ%:  |   30.6   |   4.6    |   1.7    |   -3.9   |   10.3  
- QOPM%: |   6.9    |   10.4   |   9.0    |   9.4    |   8.7   
- QNPM%: |   3.6    |   7.3    |   5.1    |   4.4    |   4.2   
- QPFT:  |   9.1    |   19.3   |   13.8   |   11.3   |   11.8  
- PQoQ%: |   -7.1   |  111.7   |  -28.7   |  -17.9   |   4.8   
-
-***PROS***
 
 Yearly 
  31-Mar-2025 #Result
 1078.70cr, QoQ 14.30% & YoY 99.57% SALES;
-101.10cr, QoQ 27.20% & YoY 64.93% OPERATING PROFIT;
-55.90cr, QoQ 31.30% & YoY 49.07% NET PROFIT;
-OPM %: 9.40% vs 8.4%
-NPM %: 5.20% vs 4.5%
+101.20cr, QoQ 26.40% & YoY 65.09% OPERATING PROFIT;
+55.20cr, QoQ 29.20% & YoY 47.20% NET PROFIT;
+OPM %: 9.40% vs 8.5%
+NPM %: 5.10% vs 4.5%
 

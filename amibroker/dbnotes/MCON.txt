@@ -1,30 +1,23 @@
-CODES
-MCON	
-SECTOR : Paints/Varnish
-INDUSTRY : Paints / Varnishes
-EXPANSION 2023
+CODES	MCON	
+FULLNAME : MCON Rasayan India Ltd
+SECTOR : Other Construction Materials
+INDUSTRY : Other Construction Materials
 EXPANSION 2024
-YSD YPD 2022
-LYPD PM 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+
+***YEARLY***
+
+
+***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
 
 ***CONS***
 - NO PRODUCT DEMAND
 
-
-
-***PROS***
-EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
-- YProfits and YSales DOUBLED in Mar2022
-- LastYr YProfits Doubled and maintained in Mar2024
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 35.0% while the Profit QoQ_growth is much better than Sales itself at 96.5%
-
 Yearly 
- 31-Mar-2024 #Result
-41.80cr, QoQ 35.00% & YoY 364.44% SALES;
-5.30cr, QoQ 97.00% & YoY 657.14% OPERATING PROFIT;
-2.20cr, QoQ 96.50% & YoY 2100.00% NET PROFIT;
-OPM %: 12.70% vs 8.7%
-NPM %: 5.40% vs 3.7%
+ 31-Mar-2025 #Result
+50.60cr, QoQ 21.00% & YoY 462.22% SALES;
+5.80cr, QoQ 10.40% & YoY 544.44% OPERATING PROFIT;
+2.30cr, QoQ 1.30% & YoY 1050.00% NET PROFIT;
+OPM %: 11.60% vs 12.7%
+NPM %: 4.50% vs 5.4%
 

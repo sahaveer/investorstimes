@@ -1,14 +1,12 @@
-CODE	NAME
-544108 
-
+CODES	544108	
+FULLNAME : Gabriel Pet Straps Ltd
 SECTOR : Textiles
 INDUSTRY : Textiles - Manmade
 PRODUCT DEMAND
 YSD YPD 2024
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,6 +15,8 @@ LYPD PM 2024
 - LastYr YProfits Doubled and maintained in Mar2024
 
 YSALES in Mar-2024 is at 10.7 showing a QoQ_growth of 152.2%. The YNETPROFIT grew by 282.4% to 0.6
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

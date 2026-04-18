@@ -1,40 +1,49 @@
-CODES
-AARON	
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
+CODES	AARON	
+FULLNAME : Aaron Industries Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 EXPANSION 2024
 EXPANSION 2025
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   25.0   |   37.7   |   55.8   |   63.2   |   77.9  
- SQoQ%:  |   16.6   |   51.2   |   48.0   |   13.2   |   23.2  
- YOPM%:  |   13.9   |   15.5   |   17.1   |   17.6   |   19.0  
- YNPM%:  |   7.7    |   9.8    |   9.7    |   10.0   |   10.6  
-YPROFIT: |   1.9    |   3.7    |   5.4    |   6.3    |   8.2   
- PQoQ%:  |   44.0   |   92.2   |   45.6   |   17.2   |   30.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   19.1   |   17.2   |   18.3   |   18.3   |   24.1  
- QoQ%:  |   30.5   |   -9.9   |   6.4    |   0.2    |   31.5  
- QOPM%: |   19.0   |   19.2   |   17.6   |   17.8   |   20.9  
- QNPM%: |   12.2   |   10.9   |   10.0   |   9.8    |   11.4  
- QPFT:  |   2.3    |   1.9    |   1.8    |   1.8    |   2.8   
- PQoQ%: |   94.2   |  -19.7   |   -2.7   |   -1.1   |   52.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 25.0		37.7		55.8		63.2		77.9		64.6
+SQoQ%: 	16.6		51.2		48.0		13.2		23.2		82.9
+YOPM%: 	13.9		15.5		17.1		17.6		19.0
+YNPM%: 	7.7		9.8		9.7		10.0		10.6
+YPROFIT: 1.9		3.7		5.4		6.3		8.2		4.5
+PQoQ%: 	44.0		92.2		45.6		17.2		30.2		54.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 18.3		24.1		19.2		22.2		23.2
+QoQ%: 	0.2		31.5		-20.2		15.6		4.3
+QOPM%: 	17.8		20.9		19.0		18.5		20.9
+QNPM%: 	9.8		11.4		5.5		6.2		8.7
+QPFT: 	1.8		2.8		1.1		1.4		2.0
+PQoQ%: 	-1.1		52.8		-61.5		31.1		45.3
+
+
 
 ***PROS***
 EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 22.1%
+ROCE in Mar2025 is at 22.2%
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 55% of YProfit
 
 YSALES in Mar-2025 is at 77.9 showing a QoQ_growth of 23.2%. The YNETPROFIT grew by 30.2% to 8.2
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
 77.90cr, QoQ 23.20% & YoY 211.60% SALES;
-14.80cr, QoQ 33.20% & YoY 322.86% OPERATING PROFIT;
+14.80cr, QoQ 33.50% & YoY 322.86% OPERATING PROFIT;
 8.20cr, QoQ 30.20% & YoY 331.58% NET PROFIT;
 OPM %: 19.00% vs 17.6%
 NPM %: 10.60% vs 10.0%

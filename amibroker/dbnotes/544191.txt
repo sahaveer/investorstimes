@@ -1,14 +1,15 @@
-CODE	NAME
-544191 
-
+CODES	544191	
+FULLNAME : Purple Finance Ltd
 SECTOR : Finance
 INDUSTRY : Finance & Investments
 
-***CONS***
-- NEGATIVE YProfit : -15.6
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -15.6

@@ -1,13 +1,18 @@
-CODES
-542729	DCMNVL	
-SECTOR : Textiles
-INDUSTRY : Textiles - Cotton/Blended
+CODES	542729	DCMNVL	
+FULLNAME : DCM Nouvelle Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -3.3
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 71% YSales
+- YProfit Turned POSITIVE this year Mar-2025 : 8.9
+
+***CONS***

@@ -1,34 +1,43 @@
-CODES
-500110	CHENNPETRO	
-SECTOR : Refineries
-INDUSTRY : Refineries
+CODES	500110	CHENNPETRO	
+FULLNAME : Chennai Petroleum Corporation Ltd
+SECTOR : Petroleum Products
+INDUSTRY : Refineries & Marketing
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 22222.4  | 43068.3  | 76271.4  | 66024.2  | 59356.0 
- SQoQ%:  |  -39.9   |   93.8   |   77.1   |  -13.4   |  -10.1  
- YOPM%:  |   9.1    |   6.3    |   7.5    |   6.8    |   1.7   
- YNPM%:  |   1.2    |   3.1    |   4.6    |   4.2    |   0.4   
-YPROFIT: |  257.3   |  1352.0  |  3531.5  |  2745.1  |  214.1  
- PQoQ%:  |  -112.5  |  425.6   |  161.2   |  -22.3   |  -92.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 17720.2  | 17095.0  | 12086.4  | 12925.4  | 17249.1 
- QoQ%:  |   2.0    |   -3.5   |  -29.3   |   6.9    |   33.5  
- QOPM%: |   5.9    |   3.9    |   0.0    |   1.9    |   4.5   
- QNPM%: |   3.5    |   2.1    |   0.0    |   0.2    |   2.7   
- QPFT:  |  627.9   |  357.0   |  -633.7  |   20.8   |  469.9  
- PQoQ%: |   71.9   |  -43.1   |  -277.5  |  -103.3  |  2161.5 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 22222.4		43068.3		76271.4		66024.2		58983.4		46822.7
+SQoQ%: 	-39.9		93.8		77.1		-13.4		-10.7		79.4
+YOPM%: 	9.1		6.3		7.5		6.8		1.7
+YNPM%: 	1.2		3.1		4.6		4.2		0.4
+YPROFIT: 257.3		1352.0		3531.5		2745.1		214.1		1680.7
+PQoQ%: 	-112.5		425.6		161.2		-22.3		-92.2		785.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 12925.4		17249.1		14812.2		16327.3		15683.2
+QoQ%: 	6.9		33.5		-14.1		10.2		-3.9
+QOPM%: 	1.9		4.5		0.7		7.0		9.4
+QNPM%: 	0.2		2.7		0.0		4.4		6.4
+QPFT: 	20.8		469.9		-40.1		719.2		1001.6
+PQoQ%: 	-103.3		2161.5		-108.5		-1893.5		39.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 785% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-59356.00cr, QoQ -10.10% & YoY 167.10% SALES;
-1015.50cr, QoQ -77.30% & YoY -49.53% OPERATING PROFIT;
+58983.40cr, QoQ -10.70% & YoY 165.42% SALES;
+1015.90cr, QoQ -77.30% & YoY -49.51% OPERATING PROFIT;
 214.10cr, QoQ -92.20% & YoY -16.79% NET PROFIT;
 OPM %: 1.70% vs 6.8%
 NPM %: 0.40% vs 4.2%

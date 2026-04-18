@@ -1,13 +1,14 @@
-CODE	NAME
-512099 
+CODES	512099	
+FULLNAME : Eyantra Ventures Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

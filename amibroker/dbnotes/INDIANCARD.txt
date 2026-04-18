@@ -1,40 +1,43 @@
-CODES
-509692	INDIANCARD	
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	509692	INDIANCARD	
+FULLNAME : Indian Card Clothing Company Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   51.3   |   44.6   |   55.5   |   57.0   |   49.1   |      27.2    
- SQoQ%:  |   10.8   |  -12.9   |   24.4   |   2.6    |  -13.8   |      55.4    
- YOPM%:  |   0.0    |   4.7    |   3.9    |   4.5    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |  344.6   |   9.7    |   16.1   |              
-YPROFIT: |   -4.2   |   -0.9   |  191.3   |   5.5    |   7.9    |      74.8    
- PQoQ%:  |  -78.7   |  -78.7   | -21598.9 |  -97.1   |   42.8   |     946.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   11.0   |   11.6   |   8.0    |   9.8    |   9.4   
- QoQ%:  |  -18.2   |   5.5    |  -30.8   |   21.5   |   -3.3  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   5.8    |  829.1   |   86.7   |   0.0   
- QPFT:  |   -0.3   |   0.7    |   66.6   |   8.5    |   -0.3  
- PQoQ%: |  -106.5  |  -297.1  |  9837.3  |  -87.3   |  -103.1 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 54.0		66.5		66.1		55.5		42.0		30.7
+SQoQ%: 	-12.0		23.2		-0.6		-16.1		-24.2		73.1
+YOPM%: 	1.1		2.4		1.7		0.0		0.0
+YNPM%: 	0.0		287.1		5.5		14.4		218.6
+YPROFIT: -2.3		190.9		3.7		8.0		91.9		7.1
+PQoQ%: 	-54.5		-8401.3		-98.1		117.8		1052.7		7.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 10.6		10.2		9.6		10.7		10.4
+QoQ%: 	-6.0		-3.2		-5.6		11.2		-3.0
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		171.0		23.7		50.4		0.0
+QPFT: 	-0.2		17.5		2.3		5.4		-0.6
+PQoQ%: 	-103.2		-7092.0		-86.9		136.2		-111.3
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 55% YSales
-- Last 3QPROFIT is about 947% of YProfit
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- Last 3QSALES is about 73% YSales
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
 
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-49.10cr, QoQ -13.80% & YoY -4.29% SALES;
--2.80cr, QoQ -207.80% & YoY 133.33% OPERATING PROFIT;
-7.90cr, QoQ 42.80% & YoY -288.10% NET PROFIT;
-OPM %: 0.00% vs 4.5%
-NPM %: 16.10% vs 9.7%
+ 31-Mar-2025 #Result
+42.00cr, QoQ -24.20% & YoY -22.22% SALES;
+-13.60cr, QoQ 186.70% & YoY -2366.67% OPERATING PROFIT;
+91.90cr, QoQ 1052.70% & YoY -4095.65% NET PROFIT;
+OPM %: 0.00% vs 0.0%
+NPM %: 218.60% vs 14.4%
 

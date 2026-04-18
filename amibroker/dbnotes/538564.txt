@@ -1,16 +1,15 @@
-CODE	NAME
-538564 
-
-SECTOR : Plantation & Plantation Products
-INDUSTRY : Tea
+CODES	538564	
+FULLNAME : James Warren Tea Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Tea & Coffee
 PRODUCT DEMAND
 BestQ Sep 2020
 BestQ Sep 2020
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
@@ -18,6 +17,8 @@ DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
 - QSales and QProfit doubled
 - Last 2QPROFIT is about 1690% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2020 #Result

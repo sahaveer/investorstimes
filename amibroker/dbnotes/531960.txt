@@ -1,26 +1,32 @@
-CODE	NAME
-531960 
+CODES	531960	
+FULLNAME : Kashyap Tele-Medicines Ltd
+SECTOR : IT - Services
+INDUSTRY : IT Enabled Services
+PRODUCT DEMAND
 
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.2		0.2		0.2		0.2		0.2		0.0
+SQoQ%: 	-5.0		5.3		0.0		-5.0		0.0		0.0
+YOPM%: 	5.3		0.0		0.0		0.0		0.0
+YNPM%: 	5.3		0.0		0.0		0.0		0.0
+YPROFIT: 0.0		-1.7		0.0		-0.0		0.0		-0.2
+PQoQ%: 	0.0		-17400.0		-100.0		-inf		-100.0		-inf
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.2    |   0.2    |   0.2    |   0.2    |   0.2    |      0.2     
- SQoQ%:  |   0.0    |   -5.0   |   5.3    |   0.0    |   -5.0   |     100.0    
- YOPM%:  |   5.0    |   5.3    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   5.0    |   5.3    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   0.0    |   0.0    |   -1.7   |   0.0    |   -0.0   |      0.0     
- PQoQ%:  |  -50.0   |   0.0    | -17400.0 |  -100.0  |   -inf   |      nan     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.1    |   0.1    |   0.0   
- QoQ%:  |  -16.7   |  -20.0   |   50.0   |   0.0    |  -33.3  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   0.0    |   -0.0   |   0.0    |   0.0    |   0.0   
- PQoQ%: |   nan    |   -inf   |  -100.0  |   nan    |   nan   
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	-33.3		0.0		-100.0		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	0.0		-0.0		-0.0		-0.1		-0.1
+PQoQ%: 	nan		-inf		200.0		100.0		50.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 100% YSales
+- PRODUCT DEMAND is rising since 3 years
+
+***CONS***

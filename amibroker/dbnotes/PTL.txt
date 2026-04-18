@@ -1,30 +1,39 @@
-CODES
-509220	PTL	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	509220	PTL	
+FULLNAME : PTL Enterprises Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   63.2   |   63.2   |   64.3   |   64.4   |   64.3  
- SQoQ%:  |   -0.0   |   0.0    |   1.8    |   0.0    |   -0.0  
- YOPM%:  |   90.9   |   90.1   |   90.0   |   86.9   |   90.6  
- YNPM%:  |  110.8   |   52.2   |   36.2   |   36.6   |   56.4  
-YPROFIT: |   70.0   |   33.0   |   23.3   |   23.6   |   36.3  
- PQoQ%:  |   59.4   |  -52.9   |  -29.4   |   1.2    |   54.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   16.1   |   16.1   |   16.1   |   16.1   |   16.1  
- QoQ%:  |   -0.1   |   0.0    |   0.1    |   0.0    |   -0.1  
- QOPM%: |   92.4   |   90.5   |   90.9   |   90.7   |   90.6  
- QNPM%: |   34.6   |   32.5   |   86.5   |   52.2   |   54.4  
- QPFT:  |   5.6    |   5.2    |   13.9   |   8.4    |   8.8   
- PQoQ%: |   5.1    |   -5.9   |  166.0   |  -39.6   |   4.2   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 63.2		63.2		64.3		64.4		64.3		48.3
+SQoQ%: 	-0.0		0.0		1.8		0.0		-0.0		75.1
+YOPM%: 	90.9		90.1		90.0		86.9		90.6
+YNPM%: 	110.8		52.2		36.2		36.6		56.4
+YPROFIT: 70.0		33.0		23.3		23.6		36.3		32.9
+PQoQ%: 	59.4		-52.9		-29.4		1.2		54.1		90.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 16.1		16.1		16.1		16.1		16.1
+QoQ%: 	0.0		-0.1		0.1		0.1		0.0
+QOPM%: 	90.7		90.6		90.9		91.9		89.7
+QNPM%: 	52.2		54.4		57.3		91.9		55.5
+QPFT: 	8.4		8.8		9.2		14.8		8.9
+PQoQ%: 	-39.6		4.2		5.4		60.3		-39.6
+
+
 
 ***PROS***
 A DEBT-Free Company for the last 2 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 91% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

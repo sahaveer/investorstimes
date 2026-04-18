@@ -1,24 +1,20 @@
-CODE	NAME
-541083 
-
+CODES	541083	
+FULLNAME : Inflame Appliances Ltd
 SECTOR : Consumer Durables
-INDUSTRY : Domestic Appliances
-EXPANSION 2023
-PRODUCT DEMAND
+INDUSTRY : Houseware
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
-- PRODUCT DEMAND is rising since 3 years
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-92.40cr, QoQ 19.60% & YoY 500.00% SALES;
-8.10cr, QoQ -19.60% & YoY -307.69% OPERATING PROFIT;
-1.00cr, QoQ -67.60% & YoY -123.26% NET PROFIT;
-OPM %: 8.70% vs 13.0%
-NPM %: 1.10% vs 4.2%
+ 31-Mar-2025 #Result
+106.20cr, QoQ 14.90% & YoY 433.67% SALES;
+12.20cr, QoQ 50.90% & YoY -742.11% OPERATING PROFIT;
+3.10cr, QoQ 198.10% & YoY -191.18% NET PROFIT;
+OPM %: 11.50% vs 8.7%
+NPM %: 2.90% vs 1.1%
 

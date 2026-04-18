@@ -1,14 +1,13 @@
-CODE	NAME
-540811 
+CODES	540811	
+FULLNAME : Diggi Multitrade Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+YSD YPD 2025
 
-SECTOR : Realty
-INDUSTRY : Construction
-PRODUCT DEMAND
-
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-DEBT-Free Company for the last 3 yrs
-- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2025
+
+***CONS***

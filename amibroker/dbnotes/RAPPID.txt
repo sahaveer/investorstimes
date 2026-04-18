@@ -1,5 +1,5 @@
-CODES
-RAPPID	
+CODES	RAPPID	
+FULLNAME : Rappid Valves India Ltd
 SECTOR : Capital Goods-Non Electrical Equipment
 INDUSTRY : Engineering
 PRODUCT DEMAND
@@ -7,8 +7,7 @@ YSD YPD 2024
 LYPD PM 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,6 +16,8 @@ PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 42.8% while the Profit QoQ_growth is much better than Sales itself at 46.2%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

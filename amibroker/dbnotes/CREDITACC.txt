@@ -1,34 +1,43 @@
-CODES
-541770	CREDITACC	
+CODES	541770	CREDITACC	
+FULLNAME : CreditAccess Grameen Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Microfinance Institutions
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2461.0  |  2668.7  |  3487.0  |  5119.0  |  5752.3 
- SQoQ%:  |   44.4   |   8.4    |   30.7   |   46.8   |   12.4  
- YOPM%:  |   46.8   |   53.7   |   66.2   |   71.8   |   47.2  
- YNPM%:  |   5.4    |   13.2   |   23.7   |   28.2   |   9.2   
-YPROFIT: |  134.0   |  353.1   |  826.1   |  1445.9  |  531.4  
- PQoQ%:  |  -59.8   |  163.4   |  134.0   |   75.0   |  -63.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1457.5  |  1512.0  |  1453.3  |  1380.4  |  1406.6 
- QoQ%:  |   12.8   |   3.7    |   -3.9   |   -5.0   |   1.9   
- QOPM%: |   70.2   |   70.0   |   51.8   |   26.1   |   38.6  
- QNPM%: |   27.2   |   26.3   |   12.8   |   0.0    |   3.4   
- QPFT:  |  397.1   |  397.7   |  186.1   |  -99.5   |   47.2  
- PQoQ%: |   12.4   |   0.1    |  -53.2   |  -153.5  |  -147.4 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2461.0		2668.7		3487.0		5166.7		5752.3		4461.7
+SQoQ%: 	44.4		8.4		30.7		48.2		11.3		77.6
+YOPM%: 	46.8		53.7		66.2		72.1		47.3
+YNPM%: 	5.4		13.2		23.7		28.0		9.2
+YPROFIT: 134.0		353.1		826.1		1445.9		531.4		438.1
+PQoQ%: 	-59.8		163.4		134.0		75.0		-63.2		82.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1380.4		1406.6		1462.9		1508.4		1490.4
+QoQ%: 	-5.0		1.9		4.0		3.1		-1.2
+QOPM%: 	26.1		38.6		39.5		44.0		54.5
+QNPM%: 	0.0		3.4		4.1		8.3		16.9
+QPFT: 	-99.5		47.2		60.2		125.8		252.1
+PQoQ%: 	-153.5		-147.4		27.5		109.0		100.4
+
+
 
 ***PROS***
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 82% of YProfit
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-5752.30cr, QoQ 12.40% & YoY 133.74% SALES;
-2714.80cr, QoQ -26.10% & YoY 135.52% OPERATING PROFIT;
+5752.30cr, QoQ 11.30% & YoY 133.74% SALES;
+2722.30cr, QoQ -26.90% & YoY 136.17% OPERATING PROFIT;
 531.40cr, QoQ -63.20% & YoY 296.57% NET PROFIT;
-OPM %: 47.20% vs 71.8%
-NPM %: 9.20% vs 28.2%
+OPM %: 47.30% vs 72.1%
+NPM %: 9.20% vs 28.0%
 

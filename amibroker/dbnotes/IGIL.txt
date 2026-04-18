@@ -1,12 +1,14 @@
-CODES
-544311	IGIL	
+CODES	544311	IGIL	
+FULLNAME : International Gemmological Institute (India) Ltd
 SECTOR : Miscellaneous
 INDUSTRY : Miscellaneous
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

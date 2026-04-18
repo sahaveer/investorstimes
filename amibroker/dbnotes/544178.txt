@@ -1,19 +1,19 @@
-CODE	NAME
-544178 
-
+CODES	544178	
+FULLNAME : Piotex Industries Ltd
 SECTOR : Textiles
 INDUSTRY : Textiles - Cotton/Blended
 LYPD PM 2024
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2024 is at 20.1%
 - LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

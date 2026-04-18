@@ -1,13 +1,14 @@
-CODE	NAME
-504132 
+CODES	504132	
+FULLNAME : Permanent Magnets Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Other Electrical Equipment
 
-SECTOR : Consumer Durables
-INDUSTRY : Electronics - Components
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

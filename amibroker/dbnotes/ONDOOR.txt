@@ -1,22 +1,24 @@
-CODES
-ONDOOR	
-SECTOR : Retail
-INDUSTRY : Trading
+CODES	ONDOOR	
+FULLNAME : On Door Concepts Ltd
+SECTOR : Retailing
+INDUSTRY : Diversified Retail
+PRODUCT DEMAND
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- PRODUCT DEMAND is rising since 3 years
+
+YSALES in Mar-2025 is at 273.0 showing a QoQ_growth of 16.9%. The YNETPROFIT grew by 28.4% to 7.8
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-233.50cr, QoQ 29.60% & YoY 99.57% SALES;
-9.50cr, QoQ 136.30% & YoY -159.75% OPERATING PROFIT;
-6.10cr, QoQ -52.70% & YoY -134.66% NET PROFIT;
-OPM %: 4.10% vs 2.2%
-NPM %: 2.60% vs 7.1%
+ 31-Mar-2025 #Result
+273.00cr, QoQ 16.90% & YoY 49.51% SALES;
+11.90cr, QoQ 25.20% & YoY 1600.00% OPERATING PROFIT;
+7.80cr, QoQ 28.40% & YoY -250.00% NET PROFIT;
+OPM %: 4.40% vs 4.1%
+NPM %: 2.80% vs 2.6%
 

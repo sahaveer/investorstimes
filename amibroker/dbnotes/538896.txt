@@ -1,13 +1,14 @@
-CODE	NAME
-538896 
+CODES	538896	
+FULLNAME : Kanchi Karpooram Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
 
-SECTOR : Chemicals
-INDUSTRY : Chemicals
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

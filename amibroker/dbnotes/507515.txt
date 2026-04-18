@@ -1,27 +1,33 @@
-CODE	NAME
-507515 
+CODES	507515	
+FULLNAME : C J Gelatine Products Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
 
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 39.0		39.5		36.8		40.9		41.3		30.7
+SQoQ%: 	38.0		1.3		-6.9		11.1		1.0		74.3
+YOPM%: 	4.8		5.2		4.3		4.7		4.1
+YNPM%: 	0.9		0.9		0.6		0.0		0.2
+YPROFIT: 0.4		0.4		0.2		-2.0		0.1		0.0
+PQoQ%: 	59.1		0.0		-34.3		-947.8		-104.1		0.0
 
-***CONS***
-- NEGATIVE YProfit : -2.0
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   28.3   |   39.0   |   39.5   |   36.8   |   40.9   |      29.9    
- SQoQ%:  |   9.6    |   38.0   |   1.3    |   -6.9   |   11.1   |      73.1    
- YOPM%:  |   6.0    |   4.8    |   5.2    |   4.3    |   4.7    |              
- YNPM%:  |   0.8    |   0.9    |   0.9    |   0.6    |   0.0    |              
-YPROFIT: |   0.2    |   0.4    |   0.4    |   0.2    |   -2.0   |      0.0     
- PQoQ%:  |  -40.5   |   59.1   |   0.0    |  -34.3   |  -947.8  |      -0.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   9.5    |   11.2   |   8.9    |   10.1   |   10.9  
- QoQ%:  |   -0.8   |   18.0   |  -20.7   |   12.8   |   8.6   
- QOPM%: |   7.7    |   6.7    |   5.6    |   0.7    |   5.6   
- QNPM%: |   0.0    |   0.0    |   0.6    |   0.0    |   1.6   
- QPFT:  |   -0.3   |   -0.2   |   0.0    |   -0.2   |   0.2   
- PQoQ%: |  -73.9   |  -27.6   |  -123.8  |  -580.0  |  -170.8 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 10.9		11.4		8.4		12.1		10.2
+QoQ%: 	8.6		4.1		-25.8		43.2		-15.6
+QOPM%: 	5.6		3.9		3.8		4.2		5.7
+QNPM%: 	1.6		0.4		0.0		0.3		1.1
+QPFT: 	0.2		0.0		-0.1		0.0		0.1
+PQoQ%: 	-170.8		-70.6		-380.0		-128.6		175.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 73% YSales
+- Last 3QSALES is about 74% YSales
+- YProfit Turned POSITIVE this year Mar-2025 : 0.1
+
+***CONS***
+- NO PRODUCT DEMAND

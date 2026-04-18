@@ -1,35 +1,44 @@
-CODES
-530517	RELAXO	
-SECTOR : 
-INDUSTRY : 
+CODES	530517	RELAXO	
+FULLNAME : Relaxo Footwears Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Footwear
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2359.2  |  2653.3  |  2782.8  |  2914.1  |  2789.6 
- SQoQ%:  |   -2.1   |   12.5   |   4.9    |   4.7    |   -4.3  
- YOPM%:  |   21.1   |   15.8   |   12.2   |   14.1   |   13.7  
- YNPM%:  |   12.4   |   8.8    |   5.6    |   6.9    |   6.1   
-YPROFIT: |  291.6   |  232.7   |  154.5   |  200.5   |  170.3  
- PQoQ%:  |   28.9   |  -20.2   |  -33.6   |   29.8   |  -15.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  747.2   |  748.2   |  679.4   |  666.9   |  695.2  
- QoQ%:  |   4.8    |   0.1    |   -9.2   |   -1.8   |   4.2   
- QOPM%: |   16.1   |   13.2   |   12.9   |   12.5   |   16.1  
- QNPM%: |   8.2    |   5.9    |   5.4    |   4.9    |   8.1   
- QPFT:  |   61.4   |   44.4   |   36.7   |   33.0   |   56.2  
- PQoQ%: |   59.2   |  -27.7   |  -17.2   |  -10.1   |   70.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2359.2		2653.3		2782.8		2914.1		2789.6		1951.0
+SQoQ%: 	-2.1		12.5		4.9		4.7		-4.3		69.9
+YOPM%: 	21.1		15.8		12.2		14.0		13.8
+YNPM%: 	12.4		8.8		5.6		6.9		6.1
+YPROFIT: 291.6		232.7		154.5		200.5		170.3		111.6
+PQoQ%: 	28.9		-20.2		-33.6		29.8		-15.0		65.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 666.9		695.2		654.5		628.5		668.0
+QoQ%: 	-1.8		4.2		-5.8		-4.0		6.3
+QOPM%: 	12.5		16.1		15.2		12.9		10.4
+QNPM%: 	4.9		8.1		7.5		5.8		4.0
+QPFT: 	33.0		56.2		48.9		36.2		26.5
+PQoQ%: 	-10.1		70.3		-13.0		-26.1		-26.6
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 70% YSales
+- Last 3QPROFIT is about 66% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 2789.60cr, QoQ -4.30% & YoY 18.24% SALES;
-382.00cr, QoQ -7.20% & YoY -23.26% OPERATING PROFIT;
+384.90cr, QoQ -5.90% & YoY -22.68% OPERATING PROFIT;
 170.30cr, QoQ -15.00% & YoY -41.60% NET PROFIT;
-OPM %: 13.70% vs 14.1%
+OPM %: 13.80% vs 14.0%
 NPM %: 6.10% vs 6.9%
 

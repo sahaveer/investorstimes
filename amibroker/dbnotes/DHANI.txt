@@ -1,29 +1,35 @@
-CODES
-532960	DHANI	
+CODES	DHANI	
+FULLNAME : Dhani Services Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Other Financial Services
 PRODUCT DEMAND
 LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -54.8
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1346.8  |  1434.4  |  611.8   |  448.4   |  394.8  
- SQoQ%:  |  -53.8   |   6.5    |  -57.3   |  -26.7   |  -12.0  
- YOPM%:  |   28.5   |   0.0    |   0.0    |   0.0    |   0.0   
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
-YPROFIT: |  -225.0  |  -866.4  |  -479.6  |  -375.2  |  -54.8  
- PQoQ%:  | -5297.5  |  285.0   |  -44.6   |  -21.8   |  -85.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  117.6   |  107.4   |  102.6   |   94.9   |   89.8  
- QoQ%:  |   35.0   |   -8.7   |   -4.4   |   -7.5   |   -5.3  
- QOPM%: |   0.0    |   0.0    |   22.5   |   39.7   |   0.0   
- QNPM%: |   0.0    |   0.0    |   15.5   |   4.9    |   8.0   
- QPFT:  |  -85.5   |  -82.6   |   15.9   |   4.7    |   7.2   
- PQoQ%: |   -4.4   |   -3.4   |  -119.3  |  -70.7   |   54.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 1346.8		1434.4		611.8		448.4		396.9
+SQoQ%: 	-53.8		6.5		-57.3		-26.7		-11.5
+YOPM%: 	28.5		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -225.0		-866.4		-479.6		-375.2		-54.8
+PQoQ%: 	-5297.5		285.0		-44.6		-21.8		-85.4
+
+
+
+***QUARTERLY***
+QPNL: 	Jun-2024	Sep-2024	Dec-2024	Mar-2025	Jun-2025
+QSALES: 107.4		102.6		94.9		89.8		85.9
+QoQ%: 	-8.7		-4.4		-7.5		-5.3		-4.4
+QOPM%: 	0.0		22.5		39.7		0.0		26.3
+QNPM%: 	0.0		15.5		4.9		8.0		7.2
+QPFT: 	-82.6		15.9		4.7		7.2		6.2
+PQoQ%: 	-3.4		-119.3		-70.7		54.1		-14.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -54.8

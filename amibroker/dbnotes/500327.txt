@@ -1,35 +1,44 @@
-CODES
-500327	PILITA	
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
+CODES	500327	PILITA	
+FULLNAME : Pil Italica Lifestyle Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Plastic Products - Consumer
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   54.2   |   67.6   |   83.4   |   95.4   |  100.2  
- SQoQ%:  |   13.8   |   24.6   |   23.5   |   14.4   |   4.9   
- YOPM%:  |   10.5   |   6.8    |   7.0    |   8.6    |   9.4   
- YNPM%:  |   6.8    |   3.7    |   3.6    |   4.8    |   5.2   
-YPROFIT: |   3.7    |   2.5    |   3.0    |   4.6    |   5.2   
- PQoQ%:  |  363.7   |  -32.3   |   21.1   |   52.0   |   13.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   24.9   |   21.2   |   21.8   |   30.2   |   26.9  
- QoQ%:  |   -7.3   |  -15.0   |   2.9    |   38.6   |  -10.9  
- QOPM%: |   5.4    |   11.4   |   10.7   |   6.7    |   9.6   
- QNPM%: |   2.2    |   7.1    |   5.0    |   5.2    |   4.0   
- QPFT:  |   0.6    |   1.5    |   1.1    |   1.6    |   1.1   
- PQoQ%: |  -69.8   |  174.5   |  -27.8   |   43.1   |  -31.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 54.2		67.6		83.4		95.4		98.8		81.4
+SQoQ%: 	13.8		24.6		23.5		14.4		3.5		82.4
+YOPM%: 	10.5		6.8		7.0		8.6		9.5
+YNPM%: 	6.8		3.7		3.6		4.8		5.3
+YPROFIT: 3.7		2.5		3.0		4.6		5.2		3.5
+PQoQ%: 	363.7		-32.3		21.1		52.0		13.4		67.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 30.2		26.9		24.0		27.6		29.8
+QoQ%: 	38.6		-10.9		-10.7		15.0		7.9
+QOPM%: 	6.7		9.6		11.4		7.4		6.4
+QNPM%: 	5.2		4.0		6.4		4.2		2.4
+QPFT: 	1.6		1.1		1.6		1.2		0.7
+PQoQ%: 	43.1		-31.4		44.9		-25.8		-37.4
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 67% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-100.20cr, QoQ 4.90% & YoY 84.87% SALES;
-9.40cr, QoQ 14.80% & YoY 64.91% OPERATING PROFIT;
+98.80cr, QoQ 3.50% & YoY 82.29% SALES;
+9.40cr, QoQ 15.40% & YoY 64.91% OPERATING PROFIT;
 5.20cr, QoQ 13.40% & YoY 40.54% NET PROFIT;
-OPM %: 9.40% vs 8.6%
-NPM %: 5.20% vs 4.8%
+OPM %: 9.50% vs 8.6%
+NPM %: 5.30% vs 4.8%
 

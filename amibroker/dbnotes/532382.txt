@@ -1,30 +1,46 @@
-CODES
-532382	BALAJITELE	
+CODES	532382	BALAJITELE	
+FULLNAME : Balaji Telefilms Ltd
 SECTOR : Entertainment
-INDUSTRY : Entertainment / Electronic Media Software
+INDUSTRY : Media & Entertainment
 PRODUCT DEMAND
-LYPD PM 2024
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  573.6   |  293.7   |  336.8   |  593.0   |  625.1   |     386.8    
- SQoQ%:  |   34.1   |  -48.8   |   14.7   |   76.0   |   5.4    |      61.9    
- YOPM%:  |   1.9    |   0.0    |   0.0    |   0.0    |   7.4    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   3.2    |              
-YPROFIT: |  -58.8   |  -118.8  |  -132.3  |  -37.1   |   19.8   |      -6.8    
- PQoQ%:  |  -39.6   |  102.2   |   11.4   |  -71.9   |  -153.3  |     -34.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  138.3   |  135.1   |  149.2   |  144.4   |   93.2  
- QoQ%:  |  -30.7   |   -2.3   |   10.4   |   -3.2   |  -35.4  
- QOPM%: |   3.0    |   1.7    |   3.0    |   8.2    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   3.9    |   0.0   
- QPFT:  |   -0.1   |   -2.5   |   -0.7   |   5.7    |  -11.8  
- PQoQ%: |  -100.6  |  3514.3  |  -72.7   |  -920.3  |  -307.6 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 293.7		336.8		593.0		625.1		453.1		163.2
+SQoQ%: 	-48.8		14.7		76.0		5.4		-27.5		36.0
+YOPM%: 	0.0		0.0		0.0		7.4		0.0
+YNPM%: 	0.0		0.0		0.0		3.2		19.2
+YPROFIT: -118.8		-132.3		-37.1		19.8		87.1		-35.0
+PQoQ%: 	102.2		11.4		-71.9		-153.3		340.0		-40.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 93.2		66.2		72.8		48.8		41.6
+QoQ%: 	-35.4		-29.0		9.9		-33.0		-14.8
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		141.7		0.0		0.0		0.0
+QPFT: 	-11.8		93.9		-5.8		-4.8		-24.4
+PQoQ%: 	-307.6		-898.9		-106.1		-16.1		404.8
+
+
 
 ***PROS***
+A DEBT-Free Company
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 62% YSales
-- YProfit Turned POSITIVE this year Mar-2024 : 19.8
-- LastYr YProfits Doubled and maintained in Mar2024
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+453.10cr, QoQ -27.50% & YoY 54.27% SALES;
+-13.70cr, QoQ -129.90% & YoY -86.83% OPERATING PROFIT;
+87.10cr, QoQ 340.00% & YoY -173.32% NET PROFIT;
+OPM %: 0.00% vs 7.4%
+NPM %: 19.20% vs 3.2%
+

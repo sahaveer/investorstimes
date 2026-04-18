@@ -1,36 +1,42 @@
-CODES
-532926	JYOTHYLAB	
-SECTOR : FMCG
-INDUSTRY : Personal Care - Indian
+CODES	532926	JYOTHYLAB	
+FULLNAME : Jyothy Labs Ltd
+SECTOR : Household Products
+INDUSTRY : Household Products
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1909.1  |  2196.5  |  2486.0  |  2756.9  |  2847.0 
- SQoQ%:  |   11.6   |   15.1   |   13.2   |   10.9   |   3.3   
- YOPM%:  |   16.5   |   11.3   |   12.7   |   17.4   |   17.5  
- YNPM%:  |   10.4   |   7.4    |   9.6    |   13.4   |   13.0  
-YPROFIT: |  199.4   |  162.0   |  239.7   |  369.4   |  370.4  
- PQoQ%:  |   17.1   |  -18.8   |   48.0   |   54.1   |   0.3   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  660.0   |  741.8   |  733.8   |  704.4   |  667.0  
- QoQ%:  |   -2.6   |   12.4   |   -1.1   |   -4.0   |   -5.3  
- QOPM%: |   16.4   |   18.0   |   18.9   |   16.4   |   16.8  
- QNPM%: |   11.8   |   13.7   |   14.3   |   12.4   |   11.4  
- QPFT:  |   78.2   |  101.7   |  105.0   |   87.4   |   76.3  
- PQoQ%: |  -14.0   |   30.2   |   3.2    |  -16.7   |  -12.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 1909.1		2196.5		2486.0		2756.9		2847.0
+SQoQ%: 	11.6		15.1		13.2		10.9		3.3
+YOPM%: 	16.5		11.3		12.7		17.4		17.6
+YNPM%: 	10.4		7.4		9.6		13.4		13.0
+YPROFIT: 199.4		162.0		239.7		369.4		370.4
+PQoQ%: 	17.1		-18.8		48.0		54.1		0.3
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2024	Jun-2024	Sep-2024	Dec-2024	Mar-2025
+QSALES: 660.0		741.8		733.8		704.4		667.0
+QoQ%: 	-2.6		12.4		-1.1		-4.0		-5.3
+QOPM%: 	16.4		18.0		18.9		16.4		16.8
+QNPM%: 	11.8		13.7		14.3		12.4		11.4
+QPFT: 	78.2		101.7		105.0		87.4		76.3
+PQoQ%: 	-14.0		30.2		3.2		-16.7		-12.7
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 19.9%
 
+***CONS***
+- NO PRODUCT DEMAND
+
 Yearly 
  31-Mar-2025 #Result
 2847.00cr, QoQ 3.30% & YoY 49.13% SALES;
-499.60cr, QoQ 4.10% & YoY 58.70% OPERATING PROFIT;
+499.90cr, QoQ 4.20% & YoY 58.80% OPERATING PROFIT;
 370.40cr, QoQ 0.30% & YoY 85.76% NET PROFIT;
-OPM %: 17.50% vs 17.4%
+OPM %: 17.60% vs 17.4%
 NPM %: 13.00% vs 13.4%
 

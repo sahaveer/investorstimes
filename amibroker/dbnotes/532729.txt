@@ -1,12 +1,14 @@
-CODES
-532729	UTTAMSUGAR	
-SECTOR : Sugar
+CODES	532729	UTTAMSUGAR	
+FULLNAME : Uttam Sugar Mills Ltd
+SECTOR : Agricultural Food & other Products
 INDUSTRY : Sugar
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

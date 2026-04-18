@@ -1,30 +1,32 @@
-CODE	NAME
-521178 
-
-SECTOR : Diversified
-INDUSTRY : Diversified - Medium / Small
+CODES	521178	
+FULLNAME : Sri Ramakrishna Mills (Coimbatore) Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 BestQ Sep 2021
 BestQ Sep 2021
 YSD YPD 2019
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2017 | Mar-2018 | Mar-2019 | Mar-2020 | Mar-2021 | QSUM:Sep-2021
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   10.9   |   13.3   |   27.1   |   31.4   |   21.0   |      19.6    
- SQoQ%:  |   nan    |   22.5   |  103.1   |   16.0   |  -33.0   |      93.3    
- YOPM%:  |   0.0    |   0.0    |   38.5   |   45.3   |   26.1   |              
- YNPM%:  |   0.4    |   0.0    |   13.4   |   17.3   |   3.1    |              
-YPROFIT: |   0.0    |   -3.8   |   3.6    |   5.4    |   0.6    |      2.3     
- PQoQ%:  |   nan    | -9700.0  |  -194.8  |   49.2   |  -88.0   |     383.3    
- QPNL:  | Sep-2020 | Dec-2020 | Mar-2021 | Jun-2021 | Sep-2021
---------+----------+----------+----------+----------+---------
-QSALES: |   4.4    |   6.2    |   10.1   |   7.5    |   12.1  
- QoQ%:  |  1834.8  |   39.8   |   63.0   |  -25.6   |   60.6  
- QOPM%: |   25.4   |   39.2   |   29.2   |   2.8    |   34.3  
- QNPM%: |   4.9    |   26.8   |   4.9    |   0.0    |   21.8  
- QPFT:  |   0.2    |   1.7    |   0.5    |   -0.3   |   2.6   
- PQoQ%: |  -112.6  |  659.1   |  -70.1   |  -168.0  |  -876.5 
+***YEARLY***
+YPNL: 	Mar-2017	Mar-2018	Mar-2019	Mar-2020	Mar-2021	QSUM:Sep-2021
+YSALES: 10.9		13.3		27.1		31.4		21.0		19.6
+SQoQ%: 	nan		22.5		103.1		16.0		-33.0		93.3
+YOPM%: 	0.0		0.0		38.5		45.3		26.1
+YNPM%: 	0.4		0.0		13.4		17.3		3.1
+YPROFIT: 0.0		-3.8		3.6		5.4		0.6		2.3
+PQoQ%: 	nan		-9700.0		-194.8		49.2		-88.0		383.3
+
+
+
+***QUARTERLY***
+QPNL: 	Sep-2020	Dec-2020	Mar-2021	Jun-2021	Sep-2021
+QSALES: 4.4		6.2		10.1		7.5		12.1
+QoQ%: 	1834.8		39.8		63.0		-25.6		60.6
+QOPM%: 	25.4		39.2		29.2		2.8		34.3
+QNPM%: 	4.9		26.8		4.9		0.0		21.8
+QPFT: 	0.2		1.7		0.5		-0.3		2.6
+PQoQ%: 	-112.6		659.1		-70.1		-168.0		-876.5
+
+
 
 ***PROS***
 - Last 2QSALES is about 93% YSales
@@ -32,6 +34,9 @@ QSALES: |   4.4    |   6.2    |   10.1   |   7.5    |   12.1
 - Last 2QPROFIT is about 383% of YProfit
 - YProfits and YSales DOUBLED in Mar2019
 
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2021 #Result

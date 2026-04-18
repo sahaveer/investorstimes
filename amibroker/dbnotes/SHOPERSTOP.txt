@@ -1,30 +1,37 @@
-CODES
-532638	SHOPERSTOP	
-SECTOR : Retail
-INDUSTRY : Textiles - Products
+CODES	532638	SHOPERSTOP	
+FULLNAME : Shoppers Stop Ltd
+SECTOR : Retailing
+INDUSTRY : Diversified Retail
 PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1749.0  |  2518.8  |  4022.1  |  4316.6  |  4627.6 
- SQoQ%:  |  -49.5   |   44.0   |   59.7   |   7.3    |   7.2   
- YOPM%:  |   2.5    |   10.7   |   17.3   |   16.6   |   15.3  
- YNPM%:  |   0.0    |   0.0    |   2.9    |   1.8    |   0.2   
-YPROFIT: |  -267.2  |  -47.0   |  116.0   |   77.2   |   10.9  
- PQoQ%:  |   88.1   |  -82.4   |  -346.8  |  -33.4   |  -85.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1046.3  |  1069.3  |  1114.9  |  1379.5  |  1064.0 
- QoQ%:  |  -15.4   |   2.2    |   4.3    |   23.7   |  -22.9  
- QOPM%: |   15.9   |   13.4   |   13.4   |   17.8   |   16.0  
- QNPM%: |   2.2    |   0.0    |   0.0    |   3.8    |   0.2   
- QPFT:  |   23.2   |  -22.7   |  -20.6   |   52.2   |   2.0   
- PQoQ%: |  -37.1   |  -198.0  |   -9.4   |  -353.7  |  -96.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1749.0		2518.8		4022.1		4316.6		4627.6		3833.5
+SQoQ%: 	-49.5		44.0		59.7		7.3		7.2		82.8
+YOPM%: 	2.5		10.7		17.3		16.6		15.3
+YNPM%: 	0.0		0.0		2.9		1.8		0.2
+YPROFIT: -267.2		-47.0		116.0		77.2		10.9		-19.7
+PQoQ%: 	88.1		-82.4		-346.8		-33.4		-85.9		-180.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1379.5		1064.0		1161.1		1256.6		1415.8
+QoQ%: 	23.7		-22.9		9.1		8.2		12.7
+QOPM%: 	17.8		16.0		14.8		13.6		15.4
+QNPM%: 	3.8		0.2		0.0		0.0		1.1
+QPFT: 	52.2		2.0		-15.7		-20.1		16.1
+PQoQ%: 	-353.7		-96.2		-891.0		27.8		-180.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 83% YSales
 - YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

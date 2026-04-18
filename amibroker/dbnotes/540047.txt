@@ -1,34 +1,48 @@
-CODES
-540047	DBL	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
+CODES	540047	DBL	
+FULLNAME : Dilip Buildcon Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
+EXPANSION 2024
+EXPANSION 2025
+BestQ Dec 2025
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  9206.8  |  9003.3  | 10105.9  | 10537.1  |  9004.5 
- SQoQ%:  |   2.8    |   -2.2   |   12.2   |   4.3    |  -14.5  
- YOPM%:  |   16.0   |   8.4    |   9.8    |   12.3   |   10.0  
- YNPM%:  |   3.5    |   0.0    |   2.2    |   4.0    |   3.5   
-YPROFIT: |  319.3   |  -86.0   |  221.8   |  422.0   |  311.2  
- PQoQ%:  |  -24.9   |  -126.9  |  -358.0  |   90.3   |  -26.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2930.8  |  2357.9  |  2176.9  |  2154.9  |  2314.8 
- QoQ%:  |   14.0   |  -19.5   |   -7.7   |   -1.0   |   7.4   
- QOPM%: |   12.0   |   11.1   |   10.2   |   9.7    |   9.0   
- QNPM%: |   4.2    |   2.0    |   5.9    |   4.1    |   2.0   
- QPFT:  |  123.7   |   47.4   |  129.0   |   87.6   |   47.3  
- PQoQ%: |   29.8   |  -61.7   |  172.2   |  -32.1   |  -46.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 10165.8		9563.6		10630.0		12011.7		11316.7		6684.1
+SQoQ%: 	4.8		-5.9		11.2		13.0		-5.8		59.1
+YOPM%: 	21.0		8.1		9.0		11.8		19.1
+YNPM%: 	2.6		0.0		0.0		1.6		5.7
+YPROFIT: 266.6		-548.9		0.9		194.0		640.8		1240.3
+PQoQ%: 	-25.5		-305.9		-100.2		20763.4		230.3		193.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2589.7		3096.1		2620.3		1925.9		2137.9
+QoQ%: 	3.7		19.6		-15.4		-26.5		11.0
+QOPM%: 	18.4		21.3		19.9		24.4		17.9
+QNPM%: 	4.5		5.5		8.7		9.4		38.8
+QPFT: 	115.3		170.8		229.0		181.5		829.8
+PQoQ%: 	-51.0		48.2		34.0		-20.7		357.2
+
+
 
 ***PROS***
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
+- Last 3QSALES is about 59% YSales
+- Last 3QPROFIT is about 194% of YProfit
 - YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-9004.50cr, QoQ -14.50% & YoY -2.20% SALES;
-903.30cr, QoQ -30.50% & YoY -38.71% OPERATING PROFIT;
-311.20cr, QoQ -26.30% & YoY -2.54% NET PROFIT;
-OPM %: 10.00% vs 12.3%
-NPM %: 3.50% vs 4.0%
+11316.70cr, QoQ -5.80% & YoY 11.32% SALES;
+2159.20cr, QoQ 51.90% & YoY 1.21% OPERATING PROFIT;
+640.80cr, QoQ 230.30% & YoY 140.36% NET PROFIT;
+OPM %: 19.10% vs 11.8%
+NPM %: 5.70% vs 1.6%
 

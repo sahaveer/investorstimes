@@ -1,32 +1,37 @@
-CODE	NAME
-542753 
-
-SECTOR : Shipping
-INDUSTRY : Shipping
+CODES	542753	
+FULLNAME : Seacoast Shipping Services Ltd
+SECTOR : Transport Services
+INDUSTRY : Logistics Solution Provider
 YSD YPD 2023
 LYPD PM 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024
----------+----------+----------+----------+----------+---------
-YSALES:  |   0.5    |  243.2   |  127.8   |  429.6   |  374.2  
- SQoQ%:  |   92.6   | 46661.5  |  -47.4   |  236.1   |  -12.9  
- YOPM%:  |   0.0    |   6.5    |   5.1    |   7.2    |   9.4   
- YNPM%:  |   5.8    |   4.6    |   2.0    |   3.3    |   5.4   
-YPROFIT: |   0.0    |   11.1   |   2.6    |   14.3   |   20.3  
- PQoQ%:  |  200.0   | 36900.0  |  -77.0   |  460.0   |   42.1  
- QPNL:  | Jun-2023 | Sep-2023 | Dec-2023 | Mar-2024 | Jun-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   99.7   |  121.4   |   28.0   |  125.0   |  151.5  
- QoQ%:  |  -13.7   |   21.7   |  -76.9   |  346.7   |   21.2  
- QOPM%: |   7.6    |   8.8    |   2.0    |   13.0   |   6.4   
- QNPM%: |   5.0    |   6.4    |   0.3    |   6.0    |   4.6   
- QPFT:  |   5.0    |   7.7    |   0.1    |   7.5    |   7.0   
- PQoQ%: |  311.5   |   54.0   |  -99.1   | 10614.3  |   -6.7  
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2022	Mar-2023	Mar-2024
+YSALES: 0.5		243.2		127.8		429.6		374.2
+SQoQ%: 	92.6		46661.5		-47.4		236.1		-12.9
+YOPM%: 	0.0		6.5		5.1		7.2		9.4
+YNPM%: 	5.8		4.6		2.0		3.3		5.4
+YPROFIT: 0.0		11.1		2.6		14.3		20.3
+PQoQ%: 	200.0		36900.0		-77.0		460.0		42.1
+
+
+
+***QUARTERLY***
+QPNL: 	Jun-2023	Sep-2023	Dec-2023	Mar-2024	Jun-2024
+QSALES: 99.7		121.4		28.0		125.0		151.5
+QoQ%: 	-13.7		21.7		-76.9		346.7		21.2
+QOPM%: 	7.6		8.8		2.0		13.0		6.4
+QNPM%: 	5.0		6.4		0.3		6.0		4.6
+QPFT: 	5.0		7.7		0.1		7.5		7.0
+PQoQ%: 	311.5		54.0		-99.1		10614.3		-6.7
+
+
 
 ***PROS***
 - YProfits and YSales DOUBLED in Mar2023
 - LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

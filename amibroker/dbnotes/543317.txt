@@ -1,30 +1,39 @@
-CODES
-543317	GRINFRA	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
+CODES	543317	GRINFRA	
+FULLNAME : G R Infraprojects Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  7844.1  |  8458.4  |  9481.5  |  8980.2  |  7394.7 
- SQoQ%:  |   23.1   |   7.8    |   12.1   |   -5.3   |  -17.7  
- YOPM%:  |   23.6   |   20.5   |   26.9   |   23.6   |   22.1  
- YNPM%:  |   12.2   |   9.8    |   15.3   |   14.7   |   13.7  
-YPROFIT: |  954.8   |  831.9   |  1454.4  |  1323.6  |  1014.3 
- PQoQ%:  |   19.2   |  -12.9   |   74.8   |   -9.0   |  -23.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2485.1  |  2030.3  |  1394.3  |  1694.5  |  2275.6 
- QoQ%:  |   16.5   |  -18.3   |  -31.3   |   21.5   |   34.3  
- QOPM%: |   21.7   |   18.1   |   25.3   |   21.8   |   24.0  
- QNPM%: |   22.3   |   7.7    |   13.9   |   15.4   |   17.7  
- QPFT:  |  553.9   |  155.4   |  193.3   |  261.7   |  403.9  
- PQoQ%: |  128.2   |  -71.9   |   24.3   |   35.4   |   54.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 7844.1		8458.4		9481.5		8980.2		7394.7		5898.2
+SQoQ%: 	23.1		7.8		12.1		-5.3		-17.7		79.8
+YOPM%: 	23.6		20.5		26.9		23.6		22.1
+YNPM%: 	12.2		9.8		15.3		14.7		13.7
+YPROFIT: 954.8		831.9		1454.4		1323.6		1014.3		695.9
+PQoQ%: 	19.2		-12.9		74.8		-9.0		-23.4		68.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1694.5		2275.6		1987.8		1602.1		2308.3
+QoQ%: 	21.5		34.3		-12.6		-19.4		44.1
+QOPM%: 	21.8		24.0		20.0		24.2		20.3
+QNPM%: 	15.4		17.7		12.3		12.0		11.2
+QPFT: 	261.7		403.9		244.1		192.6		259.2
+PQoQ%: 	35.4		54.3		-39.6		-21.1		34.6
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 69% of YProfit
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

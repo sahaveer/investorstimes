@@ -1,40 +1,42 @@
-CODE	NAME
-537707 
-
+CODES	537707	
+FULLNAME : Laddu Gopal Online Services Ltd
 SECTOR : Realty
-INDUSTRY : Construction
-BestQ Dec 2024
+INDUSTRY : Residential, Commercial Projects
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   3.0    |   2.9    |   3.0    |   0.8    |   0.0    |      0.0     
- SQoQ%:  |   3.8    |   -4.6   |   3.8    |  -73.3   |  -100.0  |      nan     
- YOPM%:  |   14.2   |   48.1   |   41.7   |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   1.4    |   0.0    |  1062.5  |   inf    |              
-YPROFIT: |   -1.1   |   0.0    |   -0.2   |   8.5    |   1.7    |      1.7     
- PQoQ%:  |  -66.7   |  -103.7  |  -525.0  | -5100.0  |  -79.6   |     100.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   inf    |   inf    |   inf    |   inf    |   inf   
- QPFT:  |   0.4    |   0.4    |   0.6    |   0.6    |   0.5   
- PQoQ%: |  -10.4   |   -7.0   |   40.0   |   16.1   |  -18.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2.9		3.0		0.8		0.0		0.0		13.2
+SQoQ%: 	-4.6		3.8		-73.3		-100.0		nan		inf
+YOPM%: 	48.1		41.7		0.0		0.0		0.0
+YNPM%: 	1.4		0.0		1062.5		inf		inf
+YPROFIT: 0.0		-0.2		8.5		1.7		1.2		1.0
+PQoQ%: 	-103.7		-525.0		-5100.0		-79.6		-30.6		83.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		13.2
+QoQ%: 	nan		nan		nan		nan		inf
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	inf		0.0		inf		inf		0.0
+QPFT: 	0.5		-0.6		0.4		0.6		-0.0
+PQoQ%: 	-18.5		-211.3		-171.2		38.1		-101.7
+
+
 
 ***PROS***
-DEBT-Free Company for the last 3 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QPROFIT is about 100% of YProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- Last 3QPROFIT is about 83% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-0.00cr, QoQ -100.00% & YoY -100.00% SALES;
--0.40cr, QoQ 123.50% & YoY -200.00% OPERATING PROFIT;
-1.70cr, QoQ -79.60% & YoY -254.55% NET PROFIT;
+ 31-Mar-2025 #Result
+-1.60cr, QoQ 310.50% & YoY -214.29% OPERATING PROFIT;
+1.20cr, QoQ -30.60% & YoY inf% NET PROFIT;
 OPM %: 0.00% vs 0.0%
-NPM %: inf% vs 1062.5%
+NPM %: inf% vs inf%
 

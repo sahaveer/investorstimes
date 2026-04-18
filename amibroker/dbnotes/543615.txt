@@ -1,25 +1,23 @@
-CODE	NAME
-543615 
+CODES	543615	
+FULLNAME : Silicon Rental Solutions Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
+PRODUCT DEMAND
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 19.0%
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+- PRODUCT DEMAND is rising since 3 years
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 
-YSALES in Mar-2024 is at 63.2 showing a QoQ_growth of 74.2%. The YNETPROFIT grew by 20.9% to 12.9
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-63.20cr, QoQ 74.20% & YoY 413.82% SALES;
-38.90cr, QoQ 30.30% & YoY 386.25% OPERATING PROFIT;
-12.90cr, QoQ 20.90% & YoY 486.36% NET PROFIT;
-OPM %: 61.50% vs 82.2%
-NPM %: 20.40% vs 29.4%
+ 31-Mar-2025 #Result
+101.80cr, QoQ 61.00% & YoY 637.68% SALES;
+45.20cr, QoQ 16.10% & YoY 370.83% OPERATING PROFIT;
+13.20cr, QoQ 2.30% & YoY 388.89% NET PROFIT;
+OPM %: 44.30% vs 61.5%
+NPM %: 13.00% vs 20.4%
 

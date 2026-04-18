@@ -1,10 +1,11 @@
-CODES
-DHARIWAL	
+CODES	DHARIWAL	
+FULLNAME : Dhariwalcorp Ltd
 SECTOR : Trading
 INDUSTRY : Trading
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

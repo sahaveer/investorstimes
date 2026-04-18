@@ -1,39 +1,47 @@
-CODE	NAME
-533202 
-
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	533202	
+FULLNAME : Satchmo Holdings Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
+BestQ Dec 2025
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  124.8   |   94.3   |   99.8   |   44.0   |   11.8  
- SQoQ%:  |  199.7   |  -24.5   |   5.9    |  -55.9   |  -73.1  
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- YNPM%:  |   0.0    |   0.0    |   0.0    |   35.9   |  155.5  
-YPROFIT: |  -205.1  |  -65.3   |  -74.7   |   15.8   |   18.4  
- PQoQ%:  |  -71.5   |  -68.2   |   14.4   |  -121.1  |   16.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   6.4    |   1.8    |   6.0    |   3.8    |   0.2   
- QoQ%:  |   2.4    |  -71.2   |  228.4   |  -36.8   |  -95.3  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |  184.4   |  1603.8  |   0.0    |   0.0    |   0.0   
- QPFT:  |   11.7   |   29.4   |   -0.6   |   -1.9   |   -8.4  
- PQoQ%: |  -145.6  |  150.6   |  -102.2  |  198.5   |  332.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 73.7		22.6		76.1		19.3		1.6		12.1
+SQoQ%: 	284.0		-69.3		236.5		-74.6		-91.8		756.2
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		18.5		975.5
+YPROFIT: -81.3		-10.4		-56.9		3.6		15.5		1046.8
+PQoQ%: 	-91.9		-87.2		445.3		-106.3		335.7		6753.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.1		0.2		0.1		8.8		3.2
+QoQ%: 	-91.3		77.8		-50.0		10962.5		-64.4
+QOPM%: 	0.0		0.0		0.0		57.7		0.0
+QNPM%: 	0.0		0.0		0.0		412.9		32147.0
+QPFT: 	-2.4		-9.9		-2.3		36.5		1012.6
+PQoQ%: 	71.9		315.9		-77.2		-1709.7		2671.3
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 756% YSales
+- Last 3QPROFIT is about 6754% of YProfit
 - YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
 - LastYr YProfits Doubled and maintained in Mar2025
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
 
+***CONS***
+- NO PRODUCT DEMAND
+
 Yearly 
  31-Mar-2025 #Result
-11.80cr, QoQ -73.10% & YoY -90.54% SALES;
--17.10cr, QoQ -76.80% & YoY -93.87% OPERATING PROFIT;
-18.40cr, QoQ 16.30% & YoY -108.97% NET PROFIT;
+1.60cr, QoQ -91.80% & YoY -97.83% SALES;
+-20.30cr, QoQ -67.50% & YoY -71.61% OPERATING PROFIT;
+15.50cr, QoQ 335.70% & YoY -119.07% NET PROFIT;
 OPM %: 0.00% vs 0.0%
-NPM %: 155.50% vs 35.9%
+NPM %: 975.50% vs 18.5%
 

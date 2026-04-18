@@ -1,13 +1,33 @@
-CODE	NAME
-543546 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	543546	
+FULLNAME : Healthy Life Agritec Ltd
+SECTOR : Food Products
+INDUSTRY : Dairy Products
+EXPANSION 2025
 PRODUCT DEMAND
+BestQ Dec 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
+***YEARLY***
 
+
+***QUARTERLY***
 
 
 ***PROS***
+EXPANSION ??- EXPANSION underway in Mar-2025, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 88% of YProfit
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 29.3% while the Profit QoQ_growth is much better than Sales itself at 29.9%
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+171.90cr, QoQ 29.30% SALES;
+4.90cr, QoQ 35.50% OPERATING PROFIT;
+3.30cr, QoQ 29.90% NET PROFIT;
+OPM %: 2.90% vs 2.7%
+NPM %: 1.90% vs 1.9%
+

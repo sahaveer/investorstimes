@@ -1,30 +1,36 @@
-CODE	NAME
-531626 
-
-SECTOR : Diamond, Gems and Jewellery
-INDUSTRY : Diamond Cutting / Jewellery
+CODES	531626	
+FULLNAME : Orosil Smiths India Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
 YSD YPD 2025
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   0.5    |   0.9    |   0.7    |   0.5    |   2.8   
- SQoQ%:  |  -70.2   |   88.0   |  -21.3   |  -32.4   |  462.0  
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   21.7  
-YPROFIT: |   -0.4   |   -0.2   |   -0.4   |   -0.4   |   0.6   
- PQoQ%:  |   53.8   |  -52.5   |   84.2   |   17.1   |  -248.8 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   0.1    |   0.0    |   0.1    |   0.3    |   2.4   
- QoQ%:  |  -35.0   |  -61.5   |   20.0   |  333.3   |  838.5  
- QOPM%: |   0.0    |   0.0    |   0.0    |   23.1   |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   11.5   |   33.2  
- QPFT:  |   -0.1   |   -0.1   |   -0.1   |   0.0    |   0.8   
- PQoQ%: |   0.0    |  100.0   |  -28.6   |  -130.0  |  2600.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.5		0.9		0.7		0.5		2.8		2.1
+SQoQ%: 	-70.2		88.0		-21.3		-32.4		462.0		75.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		21.7
+YPROFIT: -0.4		-0.2		-0.4		-0.4		0.6		0.1
+PQoQ%: 	53.8		-52.5		84.2		17.1		-248.8		16.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.3		2.4		0.9		0.8		0.4
+QoQ%: 	333.3		838.5		-63.9		-3.4		-51.8
+QOPM%: 	23.1		0.0		0.0		0.0		0.0
+QNPM%: 	11.5		33.2		3.4		28.2		0.0
+QPFT: 	0.0		0.8		0.0		0.2		-0.1
+PQoQ%: 	-130.0		2600.0		-96.3		700.0		-129.2
+
+
 
 ***PROS***
+- Last 3QSALES is about 75% YSales
 - YProfit Turned POSITIVE this year Mar-2025 : 0.6
 - YProfits and YSales DOUBLED in Mar2025
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***

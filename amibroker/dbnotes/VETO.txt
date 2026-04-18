@@ -1,39 +1,42 @@
-CODES
-539331	VETO	
-SECTOR : Capital Goods - Electrical Equipment
-INDUSTRY : Electric Equipment
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	539331	VETO	
+FULLNAME : Veto Switchgears & Cables Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Consumer Electronics
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  150.2   |  181.2   |  267.2   |  290.2   |  300.1   |     211.2    
- SQoQ%:  |  -31.2   |   20.6   |   47.5   |   8.6    |   3.4    |      70.4    
- YOPM%:  |   12.6   |   13.0   |   12.7   |   11.3   |   10.3   |              
- YNPM%:  |   6.2    |   8.2    |   7.5    |   7.0    |   6.0    |              
-YPROFIT: |   9.3    |   14.8   |   20.0   |   20.2   |   18.0   |      14.4    
- PQoQ%:  |  -19.8   |   59.4   |   35.4   |   1.1    |  -11.4   |      80.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   82.0   |   79.4   |   61.2   |   74.3   |   75.7  
- QoQ%:  |   14.5   |   -3.2   |  -22.9   |   21.4   |   1.9   
- QOPM%: |   10.6   |   5.4    |   11.6   |   11.5   |   6.9   
- QNPM%: |   5.8    |   2.7    |   7.9    |   8.0    |   4.9   
- QPFT:  |   4.8    |   2.1    |   4.8    |   5.9    |   3.7   
- PQoQ%: |  -20.1   |  -55.6   |  128.8   |   21.9   |  -36.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 181.2		267.2		290.2		300.1		300.4		247.9
+SQoQ%: 	20.6		47.5		8.6		3.4		0.1		82.5
+YOPM%: 	13.0		12.7		11.3		10.3		10.5
+YNPM%: 	8.2		7.5		7.0		6.0		7.4
+YPROFIT: 14.8		20.0		20.2		18.0		22.1		16.4
+PQoQ%: 	59.4		35.4		1.1		-11.4		23.3		74.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 75.7		89.2		64.9		88.8		94.2
+QoQ%: 	1.9		17.8		-27.3		36.8		6.1
+QOPM%: 	6.9		12.2		9.7		9.4		10.4
+QNPM%: 	4.9		8.5		5.7		6.8		7.0
+QPFT: 	3.7		7.5		3.7		6.1		6.6
+PQoQ%: 	-36.7		101.6		-51.1		64.5		8.6
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 70% YSales
-- Last 3QPROFIT is about 80% of YProfit
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 74% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-300.10cr, QoQ 3.40% & YoY 99.80% SALES;
-30.90cr, QoQ -5.60% & YoY 63.49% OPERATING PROFIT;
-18.00cr, QoQ -11.40% & YoY 93.55% NET PROFIT;
-OPM %: 10.30% vs 11.3%
-NPM %: 6.00% vs 7.0%
+ 31-Mar-2025 #Result
+300.40cr, QoQ 0.10% & YoY 65.78% SALES;
+31.70cr, QoQ 2.60% & YoY 34.32% OPERATING PROFIT;
+22.10cr, QoQ 23.30% & YoY 49.32% NET PROFIT;
+OPM %: 10.50% vs 10.3%
+NPM %: 7.40% vs 6.0%
 

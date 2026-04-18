@@ -1,43 +1,46 @@
-CODES
-543528	VENUSPIPES	
-SECTOR : 
-INDUSTRY : 
-EXPANSION 2023
-BestQ Dec 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+CODES	543528	VENUSPIPES	
+FULLNAME : Venus Pipes & Tubes Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  177.8   |  309.3   |  387.0   |  552.4   |  802.2   |     700.4    
- SQoQ%:  |   49.7   |   74.0   |   25.1   |   42.8   |   45.2   |      87.3    
- YOPM%:  |   6.5    |   11.2   |   12.7   |   12.5   |   18.2   |              
- YNPM%:  |   2.3    |   7.6    |   8.2    |   8.0    |   10.7   |              
-YPROFIT: |   4.1    |   23.6   |   31.7   |   44.2   |   86.0   |      69.3    
- PQoQ%:  |   10.1   |  472.2   |   34.0   |   39.6   |   94.5   |      80.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  207.1   |  224.1   |  240.1   |  229.0   |  231.3  
- QoQ%:  |   8.2    |   8.2    |   7.2    |   -4.7   |   1.0   
- QOPM%: |   18.8   |   20.1   |   20.0   |   17.9   |   16.0  
- QNPM%: |   11.2   |   11.2   |   11.5   |   10.3   |   7.8   
- QPFT:  |   23.3   |   25.0   |   27.6   |   23.7   |   18.0  
- PQoQ%: |   14.9   |   7.6    |   10.1   |  -14.2   |  -24.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 309.3		387.0		552.4		802.2		958.5		864.6
+SQoQ%: 	74.0		25.1		42.8		45.2		19.5		90.2
+YOPM%: 	11.2		12.7		12.5		18.2		17.5
+YNPM%: 	7.6		8.2		8.0		10.7		9.7
+YPROFIT: 23.6		31.7		44.2		86.0		92.9		76.5
+PQoQ%: 	472.2		34.0		39.6		94.5		8.0		82.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 231.3		258.1		276.4		291.5		296.7
+QoQ%: 	1.0		11.6		7.1		5.5		1.8
+QOPM%: 	16.0		16.1		16.2		16.3		16.5
+QNPM%: 	7.8		9.2		9.0		8.9		8.6
+QPFT: 	18.0		23.7		24.8		26.1		25.6
+PQoQ%: 	-24.0		31.9		4.4		5.4		-1.8
+
+
 
 ***PROS***
-EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
+- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 19.4%
-- Last 3QSALES is about 87% YSales
-- Last 3QPROFIT is about 81% of YProfit
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 45.2% while the Profit QoQ_growth is much better than Sales itself at 94.5%
+ROCE in Mar2025 is at 17.9%
+- Last 3QSALES is about 90% YSales
+- Last 3QPROFIT is about 82% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-802.20cr, QoQ 45.20% & YoY 351.18% SALES;
-146.30cr, QoQ 111.70% & YoY 1161.21% OPERATING PROFIT;
-86.00cr, QoQ 94.50% & YoY 1997.56% NET PROFIT;
-OPM %: 18.20% vs 12.5%
-NPM %: 10.70% vs 8.0%
+ 31-Mar-2025 #Result
+958.50cr, QoQ 19.50% & YoY 209.89% SALES;
+167.60cr, QoQ 14.60% & YoY 381.61% OPERATING PROFIT;
+92.90cr, QoQ 8.00% & YoY 293.64% NET PROFIT;
+OPM %: 17.50% vs 18.2%
+NPM %: 9.70% vs 10.7%
 

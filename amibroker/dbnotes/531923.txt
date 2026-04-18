@@ -1,41 +1,48 @@
-CODE	NAME
-531923 
-
-SECTOR : Sugar
+CODES	531923	
+FULLNAME : Dhampure Speciality Sugars Ltd
+SECTOR : Agricultural Food & other Products
 INDUSTRY : Sugar
-BestQ Dec 2024
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   7.5    |   15.8   |   23.7   |   21.6   |   29.0   |      26.8    
- SQoQ%:  |   -8.4   |  111.4   |   50.3   |   -9.0   |   34.6   |      92.4    
- YOPM%:  |   0.9    |   1.6    |   2.1    |   0.0    |   2.6    |              
- YNPM%:  |   0.0    |   10.4   |   1.9    |   9.6    |   3.2    |              
-YPROFIT: |   -0.2   |   1.6    |   0.4    |   2.1    |   0.9    |      2.4     
- PQoQ%:  |  -148.1  |  -756.0  |  -73.2   |  368.2   |  -54.4   |     266.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   8.5    |   8.5    |   7.0    |   8.4    |   11.4  
- QoQ%:  |   12.4   |   -0.4   |  -17.5   |   19.9   |   35.6  
- QOPM%: |   9.0    |   0.0    |   10.1   |   21.1   |   6.5   
- QNPM%: |   6.3    |   0.0    |   8.0    |   13.1   |   6.4   
- QPFT:  |   0.5    |   -0.8   |   0.6    |   1.1    |   0.7   
- PQoQ%: |  -53.0   |  -246.3  |  -170.9  |   96.4   |  -33.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 15.8		23.7		21.6		29.0		39.8		41.2
+SQoQ%: 	111.4		50.3		-9.0		34.6		37.0		103.5
+YOPM%: 	1.6		2.1		0.0		2.6		8.8
+YNPM%: 	10.4		1.9		9.6		3.2		7.2
+YPROFIT: 1.6		0.4		2.1		0.9		2.9		5.0
+PQoQ%: 	-756.0		-73.2		368.2		-54.4		206.4		172.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 11.4		12.9		10.0		14.8		16.4
+QoQ%: 	35.6		13.3		-23.0		48.0		10.8
+QOPM%: 	6.5		2.1		10.9		21.1		15.2
+QNPM%: 	6.4		3.8		9.7		13.2		12.5
+QPFT: 	0.7		0.5		1.0		2.0		2.0
+PQoQ%: 	-33.6		-32.9		98.0		101.0		4.6
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 92% YSales
-- Last 3QPROFIT is about 267% of YProfit
-- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- Last 3QSALES is about 104% YSales
+- Last 3QPROFIT is about 172% of YProfit
+
+YSALES in Mar-2025 is at 39.8 showing a QoQ_growth of 37.0%. The YNETPROFIT grew by 206.4% to 2.9
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-29.00cr, QoQ 34.60% & YoY 286.67% SALES;
-0.70cr, QoQ -535.30% & YoY 600.00% OPERATING PROFIT;
-0.90cr, QoQ -54.40% & YoY -550.00% NET PROFIT;
-OPM %: 2.60% vs 0.0%
-NPM %: 3.20% vs 9.6%
+ 31-Mar-2025 #Result
+39.80cr, QoQ 37.00% & YoY 151.90% SALES;
+3.50cr, QoQ 374.30% & YoY 1066.67% OPERATING PROFIT;
+2.90cr, QoQ 206.40% & YoY 81.25% NET PROFIT;
+OPM %: 8.80% vs 2.6%
+NPM %: 7.20% vs 3.2%
 

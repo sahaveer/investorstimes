@@ -1,15 +1,15 @@
-CODE	NAME
-541945 
+CODES	541945	
+FULLNAME : Ranjeet Mechatronics Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
 
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
-
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

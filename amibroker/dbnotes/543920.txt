@@ -1,12 +1,10 @@
-CODE	NAME
-543920 
-
-SECTOR : Aerospace & Defence
-INDUSTRY : Engineering
+CODES	543920	
+FULLNAME : CFF Fluid Control Ltd
+SECTOR : Aerospace & Defense
+INDUSTRY : Aerospace & Defense
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -15,10 +13,12 @@ PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 36.2% while the Profit QoQ_growth is much better than Sales itself at 39.6%
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 145.60cr, QoQ 36.20% & YoY 904.14% SALES;
-40.80cr, QoQ 32.40% & YoY 1357.14% OPERATING PROFIT;
+40.80cr, QoQ 32.60% & YoY 1357.14% OPERATING PROFIT;
 23.80cr, QoQ 39.60% & YoY 11800.00% NET PROFIT;
 OPM %: 28.00% vs 28.8%
 NPM %: 16.40% vs 16.0%

@@ -1,21 +1,25 @@
-CODE	NAME
-543656 
+CODES	543656	
+FULLNAME : Technopack Polymers Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Plastic Products - Consumer
+PRODUCT DEMAND
 
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
-
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
 
+
+YSALES in Mar-2025 is at 17.3 showing a QoQ_growth of 35.4%. The YNETPROFIT grew by 52.2% to 1.7
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-12.80cr, QoQ 10.80% & YoY 300.00% SALES;
-3.80cr, QoQ 3.60% & YoY 1166.67% OPERATING PROFIT;
-1.10cr, QoQ -52.30% & YoY inf% NET PROFIT;
-OPM %: 29.60% vs 31.7%
-NPM %: 8.90% vs 20.6%
+ 31-Mar-2025 #Result
+17.30cr, QoQ 35.40% & YoY 198.28% SALES;
+4.10cr, QoQ 7.40% & YoY 583.33% OPERATING PROFIT;
+1.70cr, QoQ 52.20% & YoY inf% NET PROFIT;
+OPM %: 23.50% vs 29.6%
+NPM %: 10.00% vs 8.9%
 

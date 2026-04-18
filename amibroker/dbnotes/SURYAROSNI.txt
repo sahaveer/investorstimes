@@ -1,28 +1,37 @@
-CODES
-500336	SURYAROSNI	
-SECTOR : Steel
-INDUSTRY : Steel - Large
+CODES	500336	SURYAROSNI	
+FULLNAME : Surya Roshni Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  5561.4  |  7730.8  |  7996.7  |  7809.3  |  7435.9 
- SQoQ%:  |   1.7    |   39.0   |   3.4    |   -2.3   |   -4.8  
- YOPM%:  |   6.8    |   5.7    |   7.7    |   7.3    |   7.8   
- YNPM%:  |   2.8    |   2.7    |   4.2    |   4.2    |   4.7   
-YPROFIT: |  158.3   |  204.9   |  335.5   |  329.2   |  346.6  
- PQoQ%:  |   54.4   |   29.4   |   63.7   |   -1.9   |   5.3   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2080.5  |  1893.2  |  1528.9  |  1868.0  |  2145.8 
- QoQ%:  |   7.4    |   -9.0   |  -19.2   |   22.2   |   14.9  
- QOPM%: |   8.0    |   8.0    |   5.0    |   8.0    |   9.4   
- QNPM%: |   5.0    |   4.9    |   2.2    |   4.8    |   6.1   
- QPFT:  |  103.9   |   92.4   |   34.2   |   89.9   |  130.1  
- PQoQ%: |   15.3   |  -11.0   |  -63.1   |  163.2   |   44.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 5561.4		7730.8		7996.7		7809.3		7435.9		5377.2
+SQoQ%: 	1.7		39.0		3.4		-2.3		-4.8		72.3
+YOPM%: 	6.8		5.7		7.7		7.3		7.8
+YNPM%: 	2.8		2.7		4.2		4.2		4.7
+YPROFIT: 158.3		204.9		335.5		329.2		346.6		187.5
+PQoQ%: 	54.4		29.4		63.7		-1.9		5.3		54.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1868.0		2145.8		1604.5		1845.2		1927.5
+QoQ%: 	22.2		14.9		-25.2		15.0		4.5
+QOPM%: 	8.0		9.4		4.3		6.4		7.5
+QNPM%: 	4.8		6.1		2.1		4.0		4.1
+QPFT: 	89.9		130.1		33.6		74.2		79.7
+PQoQ%: 	163.2		44.7		-74.1		120.6		7.4
+
+
 
 ***PROS***
 A DEBT-Free Company for the last 2 yrs
+- Last 3QSALES is about 72% YSales
+- Last 3QPROFIT is about 54% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

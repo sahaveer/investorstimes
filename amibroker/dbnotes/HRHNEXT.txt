@@ -1,17 +1,18 @@
-CODES
-HRHNEXT	
+CODES	HRHNEXT	
+FULLNAME : HRH Next Services Ltd
 SECTOR : IT - Software
 INDUSTRY : Computers - Software - Medium / Small
 PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 
 YSALES in Mar-2025 is at 57.8 showing a QoQ_growth of 27.5%. The YNETPROFIT grew by 70.7% to 3.1
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

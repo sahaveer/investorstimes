@@ -1,18 +1,20 @@
-CODE	NAME
-526731 
-
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
+CODES	526731	
+FULLNAME : Bright Brothers Ltd
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial
 PRODUCT DEMAND
 LYPD PM 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 84% YSales
 - YProfit Turned POSITIVE this year Mar-2025 : 8.5
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***

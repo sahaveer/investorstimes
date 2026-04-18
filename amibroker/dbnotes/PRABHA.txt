@@ -1,13 +1,15 @@
-CODES
-544379	PRABHA	
+CODES	544379	PRABHA	
+FULLNAME : Prabha Energy Ltd
 SECTOR : Power Generation & Distribution
 INDUSTRY : Power Generation And Supply
 
-***CONS***
-- NEGATIVE YProfit : -1.4
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -1.4

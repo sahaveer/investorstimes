@@ -1,16 +1,16 @@
-CODE	NAME
-541445 
+CODES	541445	
+FULLNAME : Waa Solar Ltd
+SECTOR : Power
+INDUSTRY : Power Generation
 
-SECTOR : Power Generation & Distribution
-INDUSTRY : Power Generation And Supply
-
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

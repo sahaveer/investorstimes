@@ -1,13 +1,25 @@
-CODE	NAME
-524602 
+CODES	524602	
+FULLNAME : Bandaram Pharma Packtech Ltd
+SECTOR : Healthcare Services
+INDUSTRY : Healthcare Service Provider
 
-SECTOR : Healthcare
-INDUSTRY : Healthcare
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+- Last 3QSALES is about 99% YSales
+
+***CONS***
+- NO PRODUCT DEMAND
+
+Yearly 
+ 31-Mar-2025 #Result
+37.00cr, QoQ 8.50% SALES;
+2.80cr, QoQ 0.40% OPERATING PROFIT;
+1.00cr, QoQ 4.20% NET PROFIT;
+OPM %: 7.70% vs 8.3%
+NPM %: 2.70% vs 2.8%
+

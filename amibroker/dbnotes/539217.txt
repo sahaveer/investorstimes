@@ -1,13 +1,15 @@
-CODE	NAME
-539217 
-
+CODES	539217	
+FULLNAME : Srestha Finvest Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Investment Company
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -35.1

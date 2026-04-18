@@ -1,13 +1,14 @@
-CODE	NAME
-530139 
-
+CODES	530139	
+FULLNAME : Kreon Finnancial Services Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

@@ -1,44 +1,14 @@
-CODE	NAME
-519299 
+CODES	519299	
+FULLNAME : Prime Industries Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Edible Oil
 
-SECTOR : Finance
-INDUSTRY : Finance & Investments
-YSD YPD 2024
-YSD YPD 2023
-LYPD PM 2024
+***YEARLY***
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   12.8   |   8.2    |   1.7    |   6.8    |   15.5   |      0.0     
- SQoQ%:  |   57.8   |  -36.2   |  -79.2   |  299.4   |  128.1   |      0.0     
- YOPM%:  |   9.2    |   4.9    |   15.3   |   12.8   |   89.5   |              
- YNPM%:  |   5.8    |   2.1    |   0.0    |   23.1   |   70.0   |              
-YPROFIT: |   0.8    |   0.2    |   -0.2   |   1.6    |   10.8   |      1.1     
- PQoQ%:  |  650.0   |  -77.3   |  -200.0  | -1023.5  |  590.4   |      10.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.9    |   0.5    |   0.0    |   0.0    |   0.0   
- QoQ%:  |  -39.9   |  -48.3   |  -100.0  |   nan    |   nan   
- QOPM%: |   87.6   |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   51.7   |   0.0    |   inf    |   inf    |   inf   
- QPFT:  |   0.5    |   -0.2   |   0.1    |   0.2    |   0.8   
- PQoQ%: |  -173.0  |  -143.5  |  -170.0  |   57.1   |  272.7  
+
+***QUARTERLY***
+
 
 ***PROS***
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
-- YProfits and YSales DOUBLED in Mar2024
-- YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
 
-YSALES in Mar-2024 is at 15.5 showing a QoQ_growth of 128.1%. The YNETPROFIT grew by 590.4% to 10.8
-
-Yearly 
- 31-Mar-2024 #Result
-15.50cr, QoQ 128.10% & YoY 21.09% SALES;
-13.90cr, QoQ 1493.10% & YoY 1058.33% OPERATING PROFIT;
-10.80cr, QoQ 590.40% & YoY 1250.00% NET PROFIT;
-OPM %: 89.50% vs 12.8%
-NPM %: 70.00% vs 23.1%
-
+***CONS***

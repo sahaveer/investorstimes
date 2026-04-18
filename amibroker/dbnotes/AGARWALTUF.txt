@@ -1,12 +1,10 @@
-CODES
-AGARWALTUF	
+CODES	AGARWALTUF	
+FULLNAME : Agarwal Toughened Glass India Ltd
 SECTOR : Glass & Glass Products
 INDUSTRY : Glass & Glass Products
 LYPD PM 2025
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
@@ -14,6 +12,9 @@ LYPD PM 2025
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
 
 YSALES in Mar-2025 is at 55.3 showing a QoQ_growth of 44.3%. The YNETPROFIT grew by 74.6% to 15.2
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

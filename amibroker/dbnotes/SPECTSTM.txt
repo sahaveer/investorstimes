@@ -1,21 +1,21 @@
-CODES
-SPECTSTM	
-SECTOR : Diversified
-INDUSTRY : Diversified - Medium / Small
+CODES	SPECTSTM	
+FULLNAME : Spectrum Talent Management Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-A DEBT-Free Company
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-999.00cr, QoQ 32.70% & YoY 209.10% SALES;
-8.50cr, QoQ -62.10% & YoY -4.49% OPERATING PROFIT;
-11.00cr, QoQ -59.30% & YoY 61.76% NET PROFIT;
-OPM %: 0.90% vs 3.0%
-NPM %: 1.10% vs 3.6%
+ 31-Mar-2025 #Result
+1253.40cr, QoQ 25.50% & YoY 318.08% SALES;
+7.80cr, QoQ -8.50% & YoY 62.50% OPERATING PROFIT;
+6.90cr, QoQ -37.40% & YoY 53.33% NET PROFIT;
+OPM %: 0.60% vs 0.9%
+NPM %: 0.50% vs 1.1%
 

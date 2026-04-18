@@ -1,27 +1,33 @@
-CODE	NAME
-511116 
+CODES	511116	
+FULLNAME : Quadrant Televentures Ltd
+SECTOR : Telecom - Services
+INDUSTRY : Telecom - Cellular & Fixed line services
 
-SECTOR : Telecomm-Service
-INDUSTRY : Telecommunications - Service Provider
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 428.9		437.9		396.2		269.5		236.2		158.3
+SQoQ%: 	-6.2		2.1		-9.5		-32.0		-12.3		67.0
+YOPM%: 	2.0		4.8		8.3		12.0		13.3
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -296.2		-117.2		-105.0		-131.9		-276.3		-28.8
+PQoQ%: 	536.6		-60.4		-10.4		25.6		109.5		10.4
 
-***CONS***
-- NEGATIVE YProfit : -114.0
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  457.3   |  428.9   |  437.9   |  396.2   |  269.5   |     180.2    
- SQoQ%:  |   15.0   |   -6.2   |   2.1    |   -9.5   |  -32.0   |      66.9    
- YOPM%:  |   4.2    |   2.0    |   4.8    |   8.3    |   12.0   |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |  -46.5   |  -296.2  |  -117.2  |  -105.0  |  -114.0  |     -227.4   
- PQoQ%:  |  -63.6   |  536.6   |  -60.4   |  -10.4   |   8.5    |     199.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   64.9   |   64.7   |   63.1   |   58.8   |   58.3  
- QoQ%:  |   -5.9   |   -0.4   |   -2.5   |   -6.8   |   -0.8  
- QOPM%: |   15.3   |   4.9    |   12.8   |   10.3   |   15.2  
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |  -27.6   |  -31.8   |  -30.1   |  -32.3   |  -165.0 
- PQoQ%: |   -0.1   |   15.2   |   -5.4   |   7.4    |  410.1  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 58.3		56.0		54.4		52.5		51.4
+QoQ%: 	-0.8		-4.0		-2.8		-3.6		-2.0
+QOPM%: 	15.2		15.0		14.3		15.5		17.4
+QNPM%: 	0.0		0.0		0.0		0.0		3.3
+QPFT: 	-165.0		-48.9		-13.8		-16.7		1.7
+PQoQ%: 	410.1		-70.4		-71.7		20.8		-110.3
+
+
 
 ***PROS***
 - Last 3QSALES is about 67% YSales
+
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -276.3

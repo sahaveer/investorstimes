@@ -1,28 +1,47 @@
-CODE	NAME
-531413 
+CODES	531413	
+FULLNAME : Kiran Print Pack Ltd
+SECTOR : Printing & Publication
+INDUSTRY : Printing & Publication
+EXPANSION 2024
+BestQ Dec 2025
 
-SECTOR : Trading
-INDUSTRY : Trading
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 27.5		25.4		26.3		33.0		48.2		37.6
+SQoQ%: 	159.9		-7.6		3.3		25.6		46.2		78.0
+YOPM%: 	8.1		9.7		9.3		10.2		8.0
+YNPM%: 	5.1		5.9		5.8		6.8		5.5
+YPROFIT: 1.4		1.5		1.5		2.2		2.6		2.7
+PQoQ%: 	18.5		7.1		1.3		45.8		17.9		103.8
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.6    |   0.9    |   0.8    |   0.9    |   0.9    |      0.7     
- SQoQ%:  |  -31.4   |   59.3   |  -17.0   |   15.4   |   -3.3   |      77.8    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   5.1    |   0.0    |   3.4    |              
-YPROFIT: |   -0.0   |   -0.5   |   0.0    |   -0.2   |   0.0    |      0.0     
- PQoQ%:  |  -157.1  |  1050.0  |  -108.7  |  -600.0  |  -115.0  |      nan     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.4    |   0.0    |   0.2    |   0.3    |   0.2   
- QoQ%:  |   95.0   |  -94.9   |  1000.0  |   22.7   |  -14.8  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   13.6   |   7.4    |   13.0  
- QPFT:  |   -0.1   |   -0.2   |   0.0    |   0.0    |   0.0   
- PQoQ%: |  -120.6  |  228.6   |  -113.0  |  -33.3   |   50.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 15.7		12.3		8.0		12.1		17.5
+QoQ%: 	17.5		-21.6		-34.5		50.4		44.4
+QOPM%: 	9.3		7.9		10.1		8.4		8.2
+QNPM%: 	6.4		5.5		7.8		5.9		8.1
+QPFT: 	1.0		0.7		0.6		0.7		1.4
+PQoQ%: 	138.1		-33.0		-6.0		12.7		100.0
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
 - Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 104% of YProfit
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 46.2% while the Profit QoQ_growth is at 17.9%
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+48.20cr, QoQ 46.20% & YoY 75.27% SALES;
+3.90cr, QoQ 14.80% & YoY 77.27% OPERATING PROFIT;
+2.60cr, QoQ 17.90% & YoY 85.71% NET PROFIT;
+OPM %: 8.00% vs 10.2%
+NPM %: 5.50% vs 6.8%
+

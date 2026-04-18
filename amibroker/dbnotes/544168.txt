@@ -1,12 +1,10 @@
-CODE	NAME
-544168 
-
+CODES	544168	
+FULLNAME : Varyaa Creations Ltd
 SECTOR : Trading
 INDUSTRY : Trading
 YSD YPD 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,6 +15,8 @@ ROCE in Mar2024 is at 71.7%
 - YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2024, Sales have increased by 309.2% while the Profit QoQ_growth is at 282.3%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

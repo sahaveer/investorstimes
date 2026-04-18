@@ -1,35 +1,44 @@
-CODES
-543066	SBICARD	
-SECTOR : 
-INDUSTRY : 
+CODES	543066	SBICARD	
+FULLNAME : SBI Cards & Payment Services Ltd
+SECTOR : Finance
+INDUSTRY : Non Banking Financial Company (NBFC)
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  9300.6  | 10678.9  | 13670.4  | 16985.7  | 18072.2 
- SQoQ%:  |   0.2    |   14.8   |   28.0   |   24.3   |   6.4   
- YOPM%:  |   22.3   |   25.5   |   30.9   |   32.5   |   29.6  
- YNPM%:  |   10.6   |   15.1   |   16.5   |   14.2   |   10.6  
-YPROFIT: |  984.5   |  1616.1  |  2258.5  |  2407.9  |  1916.4 
- PQoQ%:  |  -20.9   |   64.2   |   39.7   |   6.6    |  -20.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  4347.7  |  4358.6  |  4421.0  |  4618.7  |  4674.0 
- QoQ%:  |   -5.9   |   0.3    |   1.4    |   4.5    |   1.2   
- QOPM%: |   35.3   |   34.2   |   28.2   |   27.0   |   29.0  
- QNPM%: |   15.2   |   13.6   |   9.1    |   8.3    |   11.4  
- QPFT:  |  662.4   |  594.4   |  404.4   |  383.2   |  534.2  
- PQoQ%: |   20.6   |  -10.3   |  -32.0   |   -5.2   |   39.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 9300.6		10678.9		13670.4		16985.7		18074.0		14965.2
+SQoQ%: 	0.2		14.8		28.0		24.3		6.4		82.8
+YOPM%: 	22.3		25.5		30.9		32.5		29.6
+YNPM%: 	10.6		15.1		16.5		14.2		10.6
+YPROFIT: 984.5		1616.1		2258.5		2407.9		1916.4		1557.4
+PQoQ%: 	-20.9		64.2		39.7		6.6		-20.4		81.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4618.7		4674.0		4876.9		4961.0		5127.3
+QoQ%: 	4.5		1.2		4.3		1.7		3.4
+QOPM%: 	27.0		29.0		29.5		24.6		26.2
+QNPM%: 	8.3		11.4		11.4		9.0		10.9
+QPFT: 	383.2		534.2		556.0		444.8		556.6
+PQoQ%: 	-5.2		39.4		4.1		-20.0		25.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 81% of YProfit
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-18072.20cr, QoQ 6.40% & YoY 94.31% SALES;
-5341.00cr, QoQ -3.30% & YoY 157.08% OPERATING PROFIT;
+18074.00cr, QoQ 6.40% & YoY 94.33% SALES;
+5342.70cr, QoQ -3.30% & YoY 157.16% OPERATING PROFIT;
 1916.40cr, QoQ -20.40% & YoY 94.66% NET PROFIT;
 OPM %: 29.60% vs 32.5%
 NPM %: 10.60% vs 14.2%

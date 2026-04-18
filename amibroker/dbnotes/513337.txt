@@ -1,13 +1,14 @@
-CODE	NAME
-513337 
+CODES	513337	
+FULLNAME : Gujarat Toolroom Ltd
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial
 
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

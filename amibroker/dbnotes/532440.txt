@@ -1,36 +1,45 @@
-CODES
-532440	MPSLTD	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	532440	MPSLTD	
+FULLNAME : MPS Ltd
+SECTOR : Other Consumer Services
+INDUSTRY : E-Learning
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  422.6   |  448.9   |  501.0   |  545.3   |  726.9  
- SQoQ%:  |   27.4   |   6.2    |   11.6   |   8.8    |   33.3  
- YOPM%:  |   25.3   |   28.1   |   31.3   |   31.2   |   29.0  
- YNPM%:  |   13.9   |   19.4   |   21.8   |   21.8   |   20.5  
-YPROFIT: |   58.6   |   87.1   |  109.2   |  118.8   |  148.9  
- PQoQ%:  |   -2.2   |   48.8   |   25.3   |   8.8    |   25.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  149.4   |  180.7   |  177.7   |  186.4   |  182.1  
- QoQ%:  |   11.7   |   20.9   |   -1.7   |   4.9    |   -2.3  
- QOPM%: |   28.6   |   22.7   |   30.1   |   32.4   |   30.8  
- QNPM%: |   19.2   |   14.3   |   19.8   |   21.8   |   25.8  
- QPFT:  |   28.7   |   25.9   |   35.2   |   40.7   |   47.1  
- PQoQ%: |   -3.4   |   -9.8   |   36.1   |   15.5   |   15.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 422.6		448.9		501.0		545.3		726.9		563.2
+SQoQ%: 	27.4		6.2		11.6		8.8		33.3		77.5
+YOPM%: 	25.3		28.1		31.3		31.2		29.0
+YNPM%: 	13.9		19.4		21.8		21.8		20.5
+YPROFIT: 58.6		87.1		109.2		118.8		148.9		126.1
+PQoQ%: 	-2.2		48.8		25.3		8.8		25.4		84.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 186.4		182.1		186.3		194.4		182.5
+QoQ%: 	4.9		-2.3		2.3		4.4		-6.1
+QOPM%: 	32.4		30.8		27.0		31.1		31.6
+QNPM%: 	21.8		25.8		18.9		28.5		19.5
+QPFT: 	40.7		47.1		35.2		55.4		35.5
+PQoQ%: 	15.5		15.6		-25.1		57.3		-36.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 28.5%
+ROCE in Mar2025 is at 28.7%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 85% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 
 YSALES in Mar-2025 is at 726.9 showing a QoQ_growth of 33.3%. The YNETPROFIT grew by 25.4% to 148.9
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

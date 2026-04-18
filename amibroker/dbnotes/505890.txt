@@ -1,16 +1,15 @@
-CODES
-505890	KENNAMET	
-SECTOR : Castings, Forgings & Fastners
-INDUSTRY : Castings & Forgings
+CODES	505890	KENNAMET	
+FULLNAME : Kennametal India Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 BestQ Sep 2022
 LYPD PM 2022
 PROFIT GROWTH BETTER THAN SALES GROWTH 2022
 
-***CONS***
-- NO PRODUCT DEMAND
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
@@ -21,6 +20,9 @@ DEBT-Free Company for the last 3 yrs
 - LastYr YProfits Doubled and maintained in Jun2022
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Jun2022, Sales have increased by 16.0% while the Profit QoQ_growth is much better than Sales itself at 55.7%
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  30-Jun-2022 #Result

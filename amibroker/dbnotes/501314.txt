@@ -1,19 +1,35 @@
-CODE	NAME
-501314 
+CODES	501314	
+FULLNAME : Prismx Global Ventures Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+BestQ Dec 2025
 
-SECTOR : Trading
-INDUSTRY : Trading
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 7.9		9.0		13.5		12.7		14.5		10.9
+SQoQ%: 	nan		13.9		49.4		-5.6		13.6		75.2
+YOPM%: 	18.2		7.2		0.0		0.0		10.9
+YNPM%: 	16.9		3.7		30.6		0.0		4.0
+YPROFIT: 1.3		0.3		4.1		-16.7		0.6		3.8
+PQoQ%: 	nan		-75.4		1151.5		-504.4		-103.5		633.3
 
-***CONS***
-- NEGATIVE YProfit : -16.7
 
 
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.4		0.6		5.6		5.0		0.3
+QoQ%: 	-95.8		72.2		803.2		-11.1		-94.6
+QOPM%: 	13.9		111.3		23.0		15.5		0.0
+QNPM%: 	291.7		0.0		25.9		19.1		537.0
+QPFT: 	1.0		-1.9		1.4		1.0		1.4
+PQoQ%: 	133.3		-282.9		-175.5		-34.5		52.6
 
 
 
 ***PROS***
-A DEBT-Free Company
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 109% YSales
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 633% of YProfit
+- YProfit Turned POSITIVE this year Mar-2025 : 0.6
 
+
+***CONS***

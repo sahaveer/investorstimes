@@ -1,15 +1,16 @@
-CODES
-MEGATHERM	
-SECTOR : Engineering
-INDUSTRY : Engineering
+CODES	MEGATHERM	
+FULLNAME : Megatherm Induction Ltd
+SECTOR : Industrial Products
+INDUSTRY : Other Industrial Products
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

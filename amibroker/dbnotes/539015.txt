@@ -1,16 +1,18 @@
-CODES
-539015	ORTEL	
+CODES	539015	ORTEL	
+FULLNAME : Ortel Communications Ltd
 SECTOR : Entertainment
 INDUSTRY : Entertainment / Electronic Media Software
 LYPD PM 2021
 
-***CONS***
-- NO PRODUCT DEMAND
-- NEGATIVE YProfit : -22.0
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - LastYr YProfits Doubled and maintained in Mar2021
+
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -22.0

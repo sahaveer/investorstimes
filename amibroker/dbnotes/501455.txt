@@ -1,26 +1,35 @@
-CODES
-501455	GREAVESCOT	
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engines
+CODES	501455	GREAVESCOT	
+FULLNAME : Greaves Cotton Ltd
+SECTOR : Industrial Products
+INDUSTRY : Compressors, Pumps & Diesel Engines
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1500.4		1709.7		2699.4		2633.2		2918.4		2436.4
+SQoQ%: 	-21.5		13.9		57.9		-2.5		10.8		83.5
+YOPM%: 	5.3		1.5		4.7		3.4		4.7
+YNPM%: 	0.0		0.0		2.9		0.0		2.0
+YPROFIT: -18.8		-35.3		78.0		-135.3		58.4		84.6
+PQoQ%: 	-114.5		88.0		-321.0		-273.4		-143.2		144.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 750.6		822.8		745.4		815.5		875.5
+QoQ%: 	6.4		9.6		-9.4		9.4		7.4
+QOPM%: 	5.3		5.6		7.6		6.4		7.1
+QNPM%: 	2.8		2.9		4.4		3.2		2.9
+QPFT: 	20.8		24.0		33.1		26.0		25.5
+PQoQ%: 	546.3		15.6		37.6		-21.4		-2.0
+
+
+
+***PROS***
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 145% of YProfit
+- YProfit Turned POSITIVE this year Mar-2025 : 58.4
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1500.4  |  1709.7  |  2699.4  |  2633.2  |  2918.4 
- SQoQ%:  |  -21.5   |   13.9   |   57.9   |   -2.5   |   10.8  
- YOPM%:  |   5.3    |   1.5    |   4.7    |   3.4    |   4.7   
- YNPM%:  |   0.0    |   0.0    |   2.9    |   0.0    |   2.0   
-YPROFIT: |  -18.8   |  -35.3   |   78.0   |  -135.3  |   58.4  
- PQoQ%:  |  -114.5  |   88.0   |  -321.0  |  -273.4  |  -143.2 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  672.5   |  639.7   |  705.3   |  750.6   |  822.8  
- QoQ%:  |   1.1    |   -4.9   |   10.3   |   6.4    |   9.6   
- QOPM%: |   3.5    |   4.3    |   3.3    |   5.3    |   5.6   
- QNPM%: |   0.4    |   1.6    |   0.5    |   2.8    |   2.9   
- QPFT:  |   2.6    |   10.3   |   3.2    |   20.8   |   24.0  
- PQoQ%: |  -95.6   |  303.1   |  -68.8   |  546.3   |   15.6  
-
-***PROS***
-- YProfit Turned POSITIVE this year Mar-2025 : 58.4

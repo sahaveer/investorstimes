@@ -1,44 +1,52 @@
-CODE	NAME
-526269 
+CODES	526269	
+FULLNAME : Crestchem Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
+BestQ Dec 2025
+LYPD PM 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-SECTOR : Chemicals
-INDUSTRY : Chemicals
-BestQ Dec 2024
-YS15 YPD 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 7.6		7.9		16.7		21.2		25.0		19.4
+SQoQ%: 	23.9		3.7		110.9		27.1		17.9		77.6
+YOPM%: 	8.8		9.5		4.9		13.1		13.3
+YNPM%: 	7.5		7.2		4.1		10.2		10.9
+YPROFIT: 0.6		0.6		0.7		2.2		2.7		1.6
+PQoQ%: 	29.5		0.0		21.1		211.6		27.0		59.3
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   6.2    |   7.6    |   7.9    |   16.7   |   21.2   |      17.8    
- SQoQ%:  |  6050.0  |   23.9   |   3.7    |  110.9   |   27.1   |      84.0    
- YOPM%:  |   9.1    |   8.8    |   9.5    |   4.9    |   13.1   |              
- YNPM%:  |   7.2    |   7.5    |   7.2    |   4.1    |   10.2   |              
-YPROFIT: |   0.4    |   0.6    |   0.6    |   0.7    |   2.2    |      2.1     
- PQoQ%:  |  -358.8  |   29.5   |   0.0    |   21.1   |  211.6   |      95.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   7.4    |   5.6    |   5.2    |   7.8    |   4.8   
- QoQ%:  |   63.9   |  -23.5   |   -6.7   |   48.6   |  -38.5  
- QOPM%: |   16.7   |   15.1   |   14.5   |   16.3   |   13.5  
- QNPM%: |   12.4   |   11.7   |   11.4   |   12.8   |   10.8  
- QPFT:  |   0.9    |   0.7    |   0.6    |   1.0    |   0.5   
- PQoQ%: |  167.6   |  -27.5   |   -9.1   |   66.7   |  -48.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4.8		7.2		5.0		7.2		7.2
+QoQ%: 	-38.5		50.6		-30.4		42.9		-0.4
+QOPM%: 	13.5		8.3		7.2		8.5		11.3
+QNPM%: 	10.8		8.4		7.0		7.5		10.1
+QPFT: 	0.5		0.6		0.4		0.5		0.7
+PQoQ%: 	-48.0		17.3		-42.6		54.3		33.3
+
+
 
 ***PROS***
-A DEBT-Free Company
+A DEBT-Free Company for the last 2 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 38.8%
+ROCE in Mar2025 is at 31.3%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 84% YSales
-- Last 3QPROFIT is about 95% of YProfit
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
-As on Mar2024, Sales have increased by 27.1% while the Profit QoQ_growth is much better than Sales itself at 211.6%
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 59% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 17.9% while the Profit QoQ_growth is much better than Sales itself at 27.0%
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-21.20cr, QoQ 27.10% & YoY 241.94% SALES;
-2.80cr, QoQ 239.00% & YoY 366.67% OPERATING PROFIT;
-2.20cr, QoQ 211.60% & YoY 450.00% NET PROFIT;
-OPM %: 13.10% vs 4.9%
-NPM %: 10.20% vs 4.1%
+ 31-Mar-2025 #Result
+25.00cr, QoQ 17.90% & YoY 228.95% SALES;
+3.30cr, QoQ 19.40% & YoY 371.43% OPERATING PROFIT;
+2.70cr, QoQ 27.00% & YoY 350.00% NET PROFIT;
+OPM %: 13.30% vs 13.1%
+NPM %: 10.90% vs 10.2%
 

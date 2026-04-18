@@ -1,42 +1,46 @@
-CODE	NAME
-539875 
-
+CODES	539875	
+FULLNAME : RSD Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-PRODUCT DEMAND
-BestQ Dec 2024
+INDUSTRY : Non Banking Financial Company (NBFC)
+BestQ Dec 2025
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   70.7   |   54.6   |   97.2   |   96.8   |  108.3   |      93.3    
- SQoQ%:  |   20.6   |  -22.9   |   78.1   |   -0.4   |   11.8   |      86.1    
- YOPM%:  |   26.3   |   28.7   |   37.2   |   31.7   |   30.2   |              
- YNPM%:  |   10.5   |   13.0   |   16.5   |   11.4   |   12.9   |              
-YPROFIT: |   7.5    |   7.1    |   16.0   |   11.1   |   14.0   |      12.8    
- PQoQ%:  |  -26.5   |   -5.0   |  126.0   |  -30.8   |   26.4   |      91.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   28.1   |   30.7   |   32.6   |   29.4   |   31.3  
- QoQ%:  |   48.5   |   9.2    |   6.1    |   -9.6   |   6.4   
- QOPM%: |   32.8   |   26.2   |   29.1   |   25.9   |   27.4  
- QNPM%: |   14.4   |   15.9   |   16.4   |   16.3   |   8.5   
- QPFT:  |   4.0    |   4.9    |   5.4    |   4.8    |   2.6   
- PQoQ%: |   87.9   |   20.5   |   9.9    |  -10.3   |  -44.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 54.6		97.2		96.8		108.3		132.1		32.0
+SQoQ%: 	-22.9		78.1		-0.4		11.8		22.0		24.2
+YOPM%: 	28.7		37.2		31.7		30.0		26.0
+YNPM%: 	13.0		16.5		11.4		12.9		10.0
+YPROFIT: 7.1		16.0		11.1		14.0		13.2		15.8
+PQoQ%: 	-5.0		126.0		-30.8		26.4		-5.4		119.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 31.3		36.7		11.5		6.3		14.2
+QoQ%: 	6.4		17.2		-68.8		-45.2		126.9
+QOPM%: 	27.4		17.5		57.9		22.9		53.6
+QNPM%: 	8.5		1.2		54.8		41.4		48.4
+QPFT: 	2.7		0.4		6.3		2.6		6.9
+PQoQ%: 	-44.4		-83.9		1362.8		-58.7		165.4
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 31.9%
-- Last 3QSALES is about 86% YSales
-- Last 3QPROFIT is about 91% of YProfit
+ROCE in Mar2025 is at 36.2%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Double QSales and QProfit
+- Last 3QPROFIT is about 120% of YProfit
 
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-108.30cr, QoQ 11.80% & YoY 53.18% SALES;
-32.70cr, QoQ 6.60% & YoY 75.81% OPERATING PROFIT;
-14.00cr, QoQ 26.40% & YoY 86.67% NET PROFIT;
-OPM %: 30.20% vs 31.7%
-NPM %: 12.90% vs 11.4%
+ 31-Mar-2025 #Result
+132.10cr, QoQ 22.00% & YoY 141.94% SALES;
+34.30cr, QoQ 5.50% & YoY 118.47% OPERATING PROFIT;
+13.20cr, QoQ -5.40% & YoY 85.92% NET PROFIT;
+OPM %: 26.00% vs 30.0%
+NPM %: 10.00% vs 12.9%
 

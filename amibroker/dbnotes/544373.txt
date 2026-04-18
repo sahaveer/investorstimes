@@ -1,11 +1,11 @@
-CODE	NAME
-544373 
-
+CODES	544373	
+FULLNAME : NAPS Global India Ltd
 SECTOR : Trading
 INDUSTRY : Trading
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

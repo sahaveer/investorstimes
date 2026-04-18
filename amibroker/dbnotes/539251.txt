@@ -1,13 +1,15 @@
-CODES
-539251	BALKRISHNA	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	539251	BALKRISHNA	
+FULLNAME : Balkrishna Paper Mills Ltd
+SECTOR : Paper, Forest & Jute Products
+INDUSTRY : Paper & Paper Products
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - YProfit Turned POSITIVE this year Mar-2016 : 16.8
+
+***CONS***

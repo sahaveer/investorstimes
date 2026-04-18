@@ -1,22 +1,24 @@
-CODES
-SCML	
-SECTOR : Castings, Forgings & Fastners
+CODES	SCML	
+FULLNAME : Sharp Chucks and Machines Ltd
+SECTOR : Industrial Products
 INDUSTRY : Castings & Forgings
 PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+YSALES in Mar-2025 is at 241.6 showing a QoQ_growth of 22.2%. The YNETPROFIT grew by 30.2% to 7.9
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-197.60cr, QoQ 13.60% & YoY 77.54% SALES;
-24.20cr, QoQ 16.30% & YoY 86.15% OPERATING PROFIT;
-6.10cr, QoQ 29.00% & YoY 103.33% NET PROFIT;
-OPM %: 12.30% vs 12.0%
-NPM %: 3.10% vs 2.7%
+ 31-Mar-2025 #Result
+241.60cr, QoQ 22.20% & YoY 80.57% SALES;
+28.90cr, QoQ 19.40% & YoY 95.27% OPERATING PROFIT;
+7.90cr, QoQ 30.20% & YoY 139.39% NET PROFIT;
+OPM %: 12.00% vs 12.3%
+NPM %: 3.30% vs 3.1%
 

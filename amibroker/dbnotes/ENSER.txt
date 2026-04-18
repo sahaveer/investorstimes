@@ -1,13 +1,11 @@
-CODES
-ENSER	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	ENSER	
+FULLNAME : Enser Communications Ltd
+SECTOR : IT - Services
+INDUSTRY : IT Enabled Services
 LYPD PM 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
@@ -16,6 +14,9 @@ ROCE in Mar2025 is at 21.8%
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 52.6% while the Profit QoQ_growth is much better than Sales itself at 55.2%
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

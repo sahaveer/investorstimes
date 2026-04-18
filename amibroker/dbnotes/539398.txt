@@ -1,37 +1,32 @@
-CODE	NAME
-539398 
+CODES	539398	
+FULLNAME : Vishal Bearings Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
 
-SECTOR : Bearings
-INDUSTRY : Bearings
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 57.7		108.2		115.5		98.7		86.6		64.6
+SQoQ%: 	11.0		87.4		6.8		-14.6		-12.2		74.6
+YOPM%: 	11.1		14.0		17.1		10.1		8.9
+YNPM%: 	0.7		6.2		6.9		1.1		0.0
+YPROFIT: 0.4		6.8		8.0		1.1		-2.6		-2.3
+PQoQ%: 	3800.0		1633.3		18.5		-86.1		-333.3		88.5
 
-***CONS***
-  YPNL   |   :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+-------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  52.0 |   57.7   |  108.2   |  115.5   |   98.7   |   64.5   |              
- SQoQ%:  | -35.5 |   11.0   |   87.4   |   6.8    |  -14.6   |   65.3   |              
- YOPM%:  |  11.3 |   11.1   |   14.0   |   17.1   |   10.1   |          |              
- YNPM%:  |  0.0  |   0.7    |   6.2    |   6.9    |   1.1    |          |              
-YPROFIT: |  0.0  |   0.4    |   6.8    |   8.0    |   1.1    |   -3.2   |              
- PQoQ%:  | -99.8 |  3800.0  |  1633.3  |   18.5   |  -86.1   |  -290.9  |              
-  QPNL  |   :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+-------+----------+----------+----------+----------+---------
-QSALES: |  23.1 |   18.6   |   23.2   |   22.1   |   19.2   |         
- QoQ%:  | -19.7 |  -19.6   |   25.0   |   -4.9   |  -13.2   |         
- QOPM%: |  9.0  |   9.8    |   5.5    |   14.9   |   0.0    |         
- QNPM%: |  0.3  |   0.0    |   0.0    |   4.1    |   0.0    |         
- QPFT:  |  0.1  |   -0.4   |   -1.4   |   0.9    |   -2.7   |         
- PQoQ%: | -78.1 |  -685.7  |  234.1   |  -165.7  |  -397.8  |         
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 19.2		22.1		22.2		21.8		20.6
+QoQ%: 	-13.2		15.4		0.4		-2.2		-5.3
+QOPM%: 	0.0		16.0		3.0		19.7		1.0
+QNPM%: 	0.0		4.4		0.0		8.2		0.0
+QPFT: 	-2.7		1.0		-1.7		1.8		-2.4
+PQoQ%: 	-397.8		-136.6		-270.4		-206.6		-237.6
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 65% YSales
+- Last 3QSALES is about 75% YSales
 
-Yearly 
- 31-Mar-2024 #Result
-98.70cr, QoQ -14.60% & YoY 89.81% SALES;
-10.00cr, QoQ -49.60% & YoY 69.49% OPERATING PROFIT;
-1.10cr, QoQ -86.10% & YoY inf% NET PROFIT;
-OPM %: 10.10% vs 17.1%
-NPM %: 1.10% vs 6.9%
-
+***CONS***
+- NEGATIVE YProfit : -2.6

@@ -1,14 +1,15 @@
-CODE	NAME
-526025 
+CODES	526025	
+FULLNAME : Globus Power Generation Ltd
+SECTOR : Power
+INDUSTRY : Power Generation
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-
-***CONS***
-- NEGATIVE YProfit : -12.6
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -12.6

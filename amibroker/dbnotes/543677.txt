@@ -1,4 +1,3 @@
-CODES
-543677	FINIETF	
-SECTOR : 
-INDUSTRY : 
+CODES	543677	FINIETF	
+FULLNAME : ICICI Prudential Nifty Financial Serv. Ex-Bank ETF
+

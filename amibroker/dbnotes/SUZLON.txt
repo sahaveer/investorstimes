@@ -1,41 +1,49 @@
-CODES
-532667	SUZLON	
-SECTOR : Capital Goods - Electrical Equipment
-INDUSTRY : Electric Equipment
-BestQ Dec 2024
+CODES	532667	SUZLON	
+FULLNAME : Suzlon Energy Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Heavy Electrical Equipment
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  2972.8  |  3345.7  |  6581.8  |  5970.5  |  6529.1  |     7099.8   
- SQoQ%:  |  -40.8   |   12.5   |   96.7   |   -9.3   |   9.4    |     108.7    
- YOPM%:  |   0.0    |   16.0   |   13.7   |   14.0   |   15.9   |              
- YNPM%:  |   0.0    |   3.1    |   0.0    |   47.7   |   10.1   |              
-YPROFIT: | -2642.2  |  104.2   |  -199.6  |  2849.0  |  660.4   |     889.4    
- PQoQ%:  |   73.0   |  -103.9  |  -291.6  | -1527.4  |  -76.8   |     134.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  1560.5  |  2196.2  |  2021.6  |  2103.4  |  2974.8 
- QoQ%:  |   9.8    |   40.7   |   -8.0   |   4.0    |   41.4  
- QOPM%: |   15.9   |   16.3   |   18.3   |   14.0   |   16.8  
- QNPM%: |   13.0   |   11.6   |   15.0   |   9.5    |   13.0  
- QPFT:  |  203.0   |  254.1   |  302.3   |  200.2   |  386.9  
- PQoQ%: |   98.5   |   25.2   |   19.0   |  -33.8   |   93.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3345.7		6581.8		5970.5		6529.1		10889.7		11238.6
+SQoQ%: 	12.5		96.7		-9.3		9.4		66.8		103.2
+YOPM%: 	16.0		13.7		14.0		15.9		17.1
+YNPM%: 	3.1		0.0		47.7		10.1		19.0
+YPROFIT: 104.2		-199.6		2849.0		660.4		2071.6		2049.0
+PQoQ%: 	-103.9		-291.6		-1527.4		-76.8		213.7		98.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2974.8		3789.9		3131.7		3870.8		4236.1
+QoQ%: 	41.4		27.4		-17.4		23.6		9.4
+QOPM%: 	16.8		18.3		19.1		18.6		17.4
+QNPM%: 	13.0		31.2		10.4		33.1		10.5
+QPFT: 	386.9		1182.2		324.3		1279.4		445.3
+PQoQ%: 	93.3		205.5		-72.6		294.5		-65.2
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 21.0%
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 109% YSales
-- Last 3QPROFIT is about 135% of YProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+ROCE in Mar2025 is at 35.5%
+- Last 3QSALES is about 103% YSales
+- Last 3QPROFIT is about 99% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 
+
+YSALES in Mar-2025 is at 10889.7 showing a QoQ_growth of 66.8%. The YNETPROFIT grew by 213.7% to 2071.6
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-6529.10cr, QoQ 9.40% & YoY 119.63% SALES;
-1037.20cr, QoQ 24.50% & YoY -221.20% OPERATING PROFIT;
-660.40cr, QoQ -76.80% & YoY -124.99% NET PROFIT;
-OPM %: 15.90% vs 14.0%
-NPM %: 10.10% vs 47.7%
+ 31-Mar-2025 #Result
+10889.70cr, QoQ 66.80% & YoY 225.48% SALES;
+1863.40cr, QoQ 79.70% & YoY 247.20% OPERATING PROFIT;
+2071.60cr, QoQ 213.70% & YoY 1888.10% NET PROFIT;
+OPM %: 17.10% vs 15.9%
+NPM %: 19.00% vs 10.1%
 

@@ -1,28 +1,33 @@
-CODE	NAME
-523449 
-
+CODES	523449	
+FULLNAME : Sharp India Ltd
 SECTOR : Consumer Durables
 INDUSTRY : Electronics - Consumer
 YSD YPD 2022
 
-***CONS***
-- NEGATIVE YProfit : -17.8
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   0.0    |   0.1    |   0.0    |   0.0    |      0.0     
- SQoQ%:  |  -94.4   |  -100.0  |   inf    |  -75.0   |  -100.0  |      nan     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |  -14.0   |  -18.5   |  -14.7   |  -15.8   |  -17.8   |     -14.7    
- PQoQ%:  |   13.0   |   32.3   |  -20.5   |   7.1    |   13.3   |      82.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -4.6   |   -4.8   |   -4.8   |   -4.8   |   -5.1  
- PQoQ%: |   10.0   |   4.8    |   -0.2   |   -1.0   |   6.3   
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2022	Mar-2023	Mar-2024	QSUM:Dec-2024
+YSALES: 	0.0		0.0		0.1		0.0		0.0		0.0
+SQoQ%: 	-94.4		-100.0		inf		-75.0		-100.0		nan
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: 	-14.0		-18.5		-14.7		-15.8		-17.8		-14.7
+PQoQ%: 	13.0		32.3		-20.5		7.1		13.3		82.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2023		Mar-2024	Jun-2024	Sep-2024		Dec-2024
+QSALES: 	0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-4.6		-4.8		-4.8		-4.8		-5.1
+PQoQ%: 	10.0		4.8		-0.2		-1.0		6.3
+
+
 
 ***PROS***
 - YProfits and YSales DOUBLED in Mar2022
+
+***CONS***
+- NEGATIVE YProfit : -17.8

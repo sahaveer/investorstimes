@@ -1,40 +1,50 @@
-CODES
-BSHSL	
-SECTOR : FMCG
-INDUSTRY : Miscellaneous
-BestQ Dec 2024
-BestQ Dec 2024
+CODES	BSHSL	
+FULLNAME : Bombay Super Hybrid Seeds Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Other Agricultural Products
+PRODUCT DEMAND
+BestQ Dec 2025
+BestQ Dec 2025
 
-***CONS***
-  YPNL   |   :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+-------+----------+----------+----------+----------+----------+--------------
-YSALES:  | 103.0 |  170.8   |  191.4   |  227.6   |  256.4   |  312.9   |              
- SQoQ%:  |  38.1 |   65.8   |   12.1   |   18.9   |   12.7   |  122.0   |              
- YOPM%:  |  5.9  |   5.1    |   7.2    |   9.5    |   11.1   |          |              
- YNPM%:  |  2.6  |   3.4    |   5.5    |   7.4    |   8.7    |          |              
-YPROFIT: |  2.7  |   5.8    |   10.5   |   16.8   |   22.2   |   22.2   |              
- PQoQ%:  |  27.9 |  118.0   |   81.0   |   59.8   |   32.4   |  100.0   |              
-  QPNL  |   :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+-------+----------+----------+----------+----------+---------
-QSALES: |  76.3 |   30.1   |  156.8   |   28.2   |  127.9   |         
- QoQ%:  | 126.1 |  -60.5   |  420.5   |  -82.0   |  353.2   |         
- QOPM%: |  12.1 |   11.7   |   8.7    |   11.0   |   7.8    |         
- QNPM%: |  9.0  |   10.4   |   7.1    |   7.3    |   7.0    |         
- QPFT:  |  6.9  |   3.1    |   11.1   |   2.1    |   9.0    |         
- PQoQ%: | 338.2 |  -54.5   |  255.3   |  -81.4   |  334.8   |         
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 170.8		191.4		227.6		256.4		357.9		287.2
+SQoQ%: 	65.8		12.1		18.9		12.7		39.6		80.2
+YOPM%: 	5.1		7.2		9.5		11.1		9.2
+YNPM%: 	3.4		5.5		7.4		8.7		7.4
+YPROFIT: 5.8		10.5		16.8		22.2		26.4		22.2
+PQoQ%: 	118.0		81.0		59.8		32.4		18.8		84.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 127.9		45.9		152.9		26.8		107.5
+QoQ%: 	353.2		-64.1		233.1		-82.4		300.3
+QOPM%: 	7.8		13.4		10.0		15.5		8.9
+QNPM%: 	7.0		9.2		8.0		8.3		7.2
+QPFT: 	9.0		4.2		12.3		2.2		7.7
+PQoQ%: 	334.8		-53.1		190.8		-81.7		245.5
+
+
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 20.4%
-- Last 3QSALES is about 122% YSales
+ROCE in Mar2025 is at 15.2%
+- Last 3QSALES is about 80% YSales
 - Double QSales and QProfit
-- Last 3QPROFIT is about 100% of YProfit
+- Last 3QPROFIT is about 84% of YProfit
+
+YSALES in Mar-2025 is at 357.9 showing a QoQ_growth of 39.6%. The YNETPROFIT grew by 18.8% to 26.4
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-256.40cr, QoQ 12.70% & YoY 148.93% SALES;
-28.50cr, QoQ 32.30% & YoY 367.21% OPERATING PROFIT;
-22.20cr, QoQ 32.40% & YoY 722.22% NET PROFIT;
-OPM %: 11.10% vs 9.5%
-NPM %: 8.70% vs 7.4%
+ 31-Mar-2025 #Result
+357.90cr, QoQ 39.60% & YoY 109.54% SALES;
+32.80cr, QoQ 15.00% & YoY 277.01% OPERATING PROFIT;
+26.40cr, QoQ 18.80% & YoY 355.17% NET PROFIT;
+OPM %: 9.20% vs 11.1%
+NPM %: 7.40% vs 8.7%
 

@@ -1,12 +1,14 @@
-CODES
-500280	CENTENKA	
-SECTOR : Textiles
-INDUSTRY : Textiles - Manmade
+CODES	500280	CENTENKA	
+FULLNAME : Century Enka Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

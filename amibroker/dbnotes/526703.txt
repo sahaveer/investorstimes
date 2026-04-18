@@ -1,46 +1,45 @@
-CODE	NAME
-526703 
+CODES	526703	
+FULLNAME : Ecoplast Ltd
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial
+BestQ Dec 2025
 
-SECTOR : Packaging
-INDUSTRY : Packaging
-PRODUCT DEMAND
-BestQ Dec 2024
-LYPD PM 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 75.6		94.2		96.2		113.1		126.6		106.1
+SQoQ%: 	-23.3		24.5		2.2		17.5		12.0		83.8
+YOPM%: 	4.4		0.7		5.9		11.5		9.7
+YNPM%: 	0.3		0.0		4.6		8.1		6.7
+YPROFIT: 0.2		-1.8		4.4		9.2		8.5		5.5
+PQoQ%: 	-94.3		-985.0		-351.4		106.1		-7.7		64.7
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   98.6   |   75.6   |   94.2   |   96.2   |  113.1   |      94.2    
- SQoQ%:  |   -2.9   |  -23.3   |   24.5   |   2.2    |   17.5   |      83.3    
- YOPM%:  |   7.1    |   4.4    |   0.7    |   5.9    |   11.5   |              
- YNPM%:  |   3.6    |   0.3    |   0.0    |   4.6    |   8.1    |              
-YPROFIT: |   3.5    |   0.2    |   -1.8   |   4.4    |   9.2    |      6.5     
- PQoQ%:  |   22.1   |  -94.3   |  -985.0  |  -351.4  |  106.1   |      70.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   28.4   |   29.7   |   30.4   |   30.4   |   33.4  
- QoQ%:  |   -5.2   |   4.4    |   2.5    |   -0.2   |   10.0  
- QOPM%: |   9.8    |   12.5   |   9.7    |   8.6    |   10.1  
- QNPM%: |   6.5    |   9.2    |   8.5    |   5.8    |   6.3   
- QPFT:  |   1.8    |   2.7    |   2.6    |   1.8    |   2.1   
- PQoQ%: |  -34.2   |   48.1   |   -5.8   |  -32.2   |   21.1  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 33.4		32.4		34.3		35.7		36.1
+QoQ%: 	10.0		-2.8		5.8		4.1		1.0
+QOPM%: 	10.1		10.2		8.4		8.9		7.2
+QNPM%: 	6.3		6.2		6.1		5.7		3.9
+QPFT: 	2.1		2.0		2.1		2.0		1.4
+PQoQ%: 	21.1		-5.7		4.0		-2.9		-30.2
+
+
 
 ***PROS***
-A DEBT-Free Company
-- PRODUCT DEMAND is rising since 3 years
+A DEBT-Free Company for the last 2 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 83% YSales
-- Last 3QPROFIT is about 71% of YProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
-- LastYr YProfits Doubled and maintained in Mar2024
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 65% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 
-YSALES in Mar-2024 is at 113.1 showing a QoQ_growth of 17.5%. The YNETPROFIT grew by 106.1% to 9.2
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-113.10cr, QoQ 17.50% & YoY 14.71% SALES;
-13.00cr, QoQ 130.30% & YoY 85.71% OPERATING PROFIT;
-9.20cr, QoQ 106.10% & YoY 162.86% NET PROFIT;
-OPM %: 11.50% vs 5.9%
-NPM %: 8.10% vs 4.6%
+ 31-Mar-2025 #Result
+126.60cr, QoQ 12.00% & YoY 67.46% SALES;
+12.30cr, QoQ -5.50% & YoY 272.73% OPERATING PROFIT;
+8.50cr, QoQ -7.70% & YoY 4150.00% NET PROFIT;
+OPM %: 9.70% vs 11.5%
+NPM %: 6.70% vs 8.1%
 

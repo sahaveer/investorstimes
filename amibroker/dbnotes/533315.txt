@@ -1,15 +1,31 @@
-CODE	NAME
-533315 
-
+CODES	533315	
+FULLNAME : Innovassynth Technologies (India) Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Investment Company
 
-***CONS***
-- NEGATIVE YProfit : -0.8
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		0.0		0.0		0.0		0.0		39.3
+SQoQ%: 	nan		nan		nan		nan		nan		inf
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -0.5		-0.6		-0.7		-0.7		-1.2		-22.3
+PQoQ%: 	-5.5		25.0		1.5		6.1		64.3		1858.3
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 49.9		0.0		0.0		17.3		22.0
+QoQ%: 	inf		-100.0		nan		inf		27.1
+QOPM%: 	22.9		0.0		0.0		0.0		0.0
+QNPM%: 	18.4		0.0		0.0		0.0		0.0
+QPFT: 	9.2		-0.2		-0.2		-14.3		-7.8
+PQoQ%: 	-1938.0		-102.3		4.8		6390.9		-45.4
 
 
 
 ***PROS***
 
+***CONS***
+- NEGATIVE YProfit : -1.2

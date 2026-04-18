@@ -1,12 +1,11 @@
-CODES
-DANISH	
+CODES	DANISH	
+FULLNAME : Danish Power Ltd
 SECTOR : Capital Goods - Electrical Equipment
 INDUSTRY : Electric Equipment
 LYPD PM 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,6 +16,8 @@ ROCE in Mar2025 is at 20.1%
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 28.0% while the Profit QoQ_growth is much better than Sales itself at 53.2%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

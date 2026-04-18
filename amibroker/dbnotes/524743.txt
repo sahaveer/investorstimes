@@ -1,13 +1,14 @@
-CODE	NAME
-524743 
+CODES	524743	FISCHER	
+FULLNAME : Fischer Medical Ventures Ltd
+SECTOR : Healthcare Equipment & Supplies
+INDUSTRY : Medical Equipment & Supplies
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

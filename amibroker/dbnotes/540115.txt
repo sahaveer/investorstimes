@@ -1,29 +1,38 @@
-CODES
-540115	LTTS	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Large
+CODES	540115	LTTS	
+FULLNAME : L&T Technology Services Ltd
+SECTOR : IT - Services
+INDUSTRY : IT Enabled Services
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  5449.7  |  6569.7  |  8815.5  |  9647.3  | 10670.1 
- SQoQ%:  |   -3.0   |   20.6   |   34.2   |   9.4    |   10.6  
- YOPM%:  |   18.5   |   21.5   |   20.0   |   19.9   |   17.7  
- YNPM%:  |   12.2   |   14.6   |   13.7   |   13.5   |   11.9  
-YPROFIT: |  663.3   |  957.0   |  1212.1  |  1303.7  |  1266.7 
- PQoQ%:  |  -19.0   |   44.3   |   26.7   |   7.6    |   -2.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2537.5  |  2461.9  |  2572.9  |  2653.0  |  2982.4 
- QoQ%:  |   4.8    |   -3.0   |   4.5    |   3.1    |   12.4  
- QOPM%: |   19.8   |   18.5   |   18.1   |   18.6   |   15.9  
- QNPM%: |   13.4   |   12.7   |   12.4   |   12.2   |   10.4  
- QPFT:  |  340.9   |  313.6   |  319.6   |  322.4   |  311.1  
- PQoQ%: |   1.4    |   -8.0   |   1.9    |   0.9    |   -3.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 5449.7		6569.7		8815.5		9647.3		10670.1		8769.0
+SQoQ%: 	-3.0		20.6		34.2		9.4		10.6		82.2
+YOPM%: 	18.5		21.5		20.0		19.9		17.7
+YNPM%: 	12.2		14.6		13.7		13.5		11.9
+YPROFIT: 663.3		957.0		1212.1		1303.7		1266.7		947.0
+PQoQ%: 	-19.0		44.3		26.7		7.6		-2.8		74.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2653.0		2982.4		2866.0		2979.5		2923.5
+QoQ%: 	3.1		12.4		-3.9		4.0		-1.9
+QOPM%: 	18.6		15.9		16.1		16.5		17.6
+QNPM%: 	12.2		10.4		11.0		11.0		10.4
+QPFT: 	322.4		311.1		315.7		328.7		302.6
+PQoQ%: 	0.9		-3.5		1.5		4.1		-7.9
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 20.9%
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 75% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

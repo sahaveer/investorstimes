@@ -1,33 +1,42 @@
-CODES
-544120	CAPITALSFB	
-SECTOR : 
-INDUSTRY : 
+CODES	544120	CAPITALSFB	
+FULLNAME : Capital Small Finance Bank Ltd
+SECTOR : Banks
+INDUSTRY : Other Bank
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  511.4   |  578.2   |  676.0   |  794.3   |  908.5  
- SQoQ%:  |   11.6   |   13.1   |   16.9   |   17.5   |   14.4  
- YOPM%:  |   65.9   |   63.9   |   66.5   |   68.8   |   64.7  
- YNPM%:  |   8.0    |   10.8   |   13.8   |   14.0   |   14.5  
-YPROFIT: |   40.8   |   62.6   |   93.6   |  111.5   |  131.6  
- PQoQ%:  |   60.7   |   53.4   |   49.6   |   19.2   |   18.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  204.2   |  218.5   |  223.6   |  235.0   |  231.5  
- QoQ%:  |   0.0    |   7.0    |   2.3    |   5.1    |   -1.5  
- QOPM%: |   65.9   |   65.4   |   63.2   |   66.1   |   63.9  
- QNPM%: |   13.8   |   13.7   |   14.9   |   14.5   |   14.8  
- QPFT:  |   28.2   |   30.0   |   33.3   |   34.0   |   34.2  
- PQoQ%: |   -2.5   |   6.4    |   11.1   |   2.1    |   0.6   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 511.4		578.2		676.0		794.3		908.5		775.5
+SQoQ%: 	11.6		13.1		16.9		17.5		14.4		85.4
+YOPM%: 	65.9		63.9		66.5		68.8		66.5
+YNPM%: 	8.0		10.8		13.8		14.0		14.5
+YPROFIT: 40.8		62.6		93.6		111.5		131.6		101.3
+PQoQ%: 	60.7		53.4		49.6		19.2		18.0		77.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 235.0		231.5		247.1		256.5		271.9
+QoQ%: 	5.1		-1.5		6.7		3.8		6.0
+QOPM%: 	66.1		63.9		63.5		65.5		63.3
+QNPM%: 	14.5		14.8		13.0		13.6		12.7
+QPFT: 	34.0		34.2		32.0		34.9		34.4
+PQoQ%: 	2.1		0.6		-6.5		9.0		-1.4
+
+
 
 ***PROS***
+- Last 3QSALES is about 85% YSales
+- Last 3QPROFIT is about 77% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 908.50cr, QoQ 14.40% & YoY 77.65% SALES;
-587.40cr, QoQ 7.50% & YoY 74.20% OPERATING PROFIT;
+604.40cr, QoQ 10.70% & YoY 79.24% OPERATING PROFIT;
 131.60cr, QoQ 18.00% & YoY 222.55% NET PROFIT;
-OPM %: 64.70% vs 68.8%
+OPM %: 66.50% vs 68.8%
 NPM %: 14.50% vs 14.0%
 

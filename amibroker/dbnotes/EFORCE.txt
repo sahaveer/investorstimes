@@ -1,25 +1,25 @@
-CODES
-EFORCE	
-SECTOR : Capital Goods - Electrical Equipment
-INDUSTRY : Electric Equipment
-PRODUCT DEMAND
-YSD YPD 2022
+CODES	EFORCE	
+FULLNAME : Electro Force (India) Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Other Electrical Equipment
+EXPANSION 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
-- PRODUCT DEMAND is rising since 3 years
-- YProfits and YSales DOUBLED in Mar2022
+DEBT-Free Company for the last 3 yrs
+EXPANSION ??- EXPANSION underway in Mar-2025, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-36.40cr, QoQ 20.50% & YoY 151.03% SALES;
-8.90cr, QoQ -24.00% & YoY -3066.67% OPERATING PROFIT;
-5.80cr, QoQ -25.50% & YoY 1833.33% NET PROFIT;
-OPM %: 24.40% vs 38.7%
-NPM %: 15.80% vs 25.5%
+ 31-Mar-2025 #Result
+52.40cr, QoQ 43.80% & YoY 233.76% SALES;
+1.60cr, QoQ -82.50% & YoY -206.67% OPERATING PROFIT;
+1.30cr, QoQ -77.70% & YoY -159.09% NET PROFIT;
+OPM %: 3.00% vs 24.4%
+NPM %: 2.40% vs 15.8%
 

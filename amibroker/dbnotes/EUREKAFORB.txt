@@ -1,34 +1,43 @@
-CODES
-543482	EUREKAFORB	
+CODES	543482	EUREKAFORB	
+FULLNAME : Eureka Forbes Ltd
 SECTOR : Consumer Durables
-INDUSTRY : Domestic Appliances
+INDUSTRY : Household Appliances
+BestQ Dec 2025
 YSD YPD 2023
 LYPD PM 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   7.8    |  381.8   |  2084.5  |  2189.2  |  2436.9 
- SQoQ%:  |   nan    |  4763.1  |  446.0   |   5.0    |   11.3  
- YOPM%:  |   0.0    |   4.8    |   7.0    |   9.1    |   10.9  
- YNPM%:  |   0.0    |   0.7    |   1.3    |   4.4    |   6.7   
-YPROFIT: |   -1.6   |   2.6    |   26.6   |   95.6   |  164.4  
- PQoQ%:  |   nan    |  -259.5  |  921.5   |  260.1   |   71.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  553.6   |  553.4   |  673.1   |  597.7   |  612.6  
- QoQ%:  |   2.6    |   -0.0   |   21.6   |  -11.2   |   2.5   
- QOPM%: |   9.6    |   10.2   |   10.9   |   9.9    |   12.6  
- QNPM%: |   3.9    |   5.8    |   7.1    |   5.9    |   8.1   
- QPFT:  |   21.4   |   32.2   |   47.7   |   35.0   |   49.5  
- PQoQ%: |   -6.9   |   50.3   |   48.4   |  -26.5   |   41.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 7.8		381.8		2084.5		2189.2		2436.9		2025.4
+SQoQ%: 	nan		4763.1		446.0		5.0		11.3		83.1
+YOPM%: 	0.0		4.8		7.0		9.1		10.9
+YNPM%: 	0.0		0.7		1.3		4.4		6.7
+YPROFIT: -1.6		2.6		26.6		95.6		164.4		111.6
+PQoQ%: 	nan		-259.5		921.5		260.1		71.9		67.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 597.7		612.6		607.9		772.1		645.4
+QoQ%: 	-11.2		2.5		-0.8		27.0		-16.4
+QOPM%: 	9.9		12.6		10.1		12.6		10.6
+QNPM%: 	5.9		8.1		6.4		8.1		1.6
+QPFT: 	35.0		49.5		38.7		62.9		10.0
+PQoQ%: 	-26.5		41.2		-21.9		62.6		-84.1
+
+
 
 ***PROS***
 A DEBT-Free Company for the last 2 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 68% of YProfit
 - YProfits and YSales DOUBLED in Mar2023
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

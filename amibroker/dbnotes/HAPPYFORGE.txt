@@ -1,34 +1,43 @@
-CODES
-544057	HAPPYFORGE	
-SECTOR : Castings, Forgings & Fastners
+CODES	544057	HAPPYFORGE	
+FULLNAME : Happy Forgings Ltd
+SECTOR : Industrial Products
 INDUSTRY : Castings & Forgings
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 585.0		860.0		1196.5		1358.2		1408.9		1122.5
+SQoQ%: 	nan		47.0		39.1		13.5		3.7		79.7
+YOPM%: 	27.1		26.8		28.5		28.5		28.9
+YNPM%: 	14.8		16.5		17.4		17.9		19.0
+YPROFIT: 86.4		142.3		208.7		243.0		267.4		218.0
+PQoQ%: 	nan		64.6		46.7		16.4		10.1		81.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 354.3		352.0		353.8		377.4		391.3
+QoQ%: 	-1.9		-0.7		0.5		6.7		3.7
+QOPM%: 	28.6		29.1		28.6		30.7		30.8
+QNPM%: 	18.2		19.2		18.6		19.5		20.2
+QPFT: 	64.6		67.6		65.7		73.4		78.9
+PQoQ%: 	-9.6		4.8		-2.9		11.8		7.5
+
+
+
+***PROS***
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 82% of YProfit
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  585.0   |  860.0   |  1196.5  |  1358.2  |  1408.9 
- SQoQ%:  |   nan    |   47.0   |   39.1   |   13.5   |   3.7   
- YOPM%:  |   27.1   |   26.8   |   28.5   |   28.5   |   28.9  
- YNPM%:  |   14.8   |   16.5   |   17.4   |   17.9   |   19.0  
-YPROFIT: |   86.4   |  142.3   |  208.7   |  243.0   |  267.4  
- PQoQ%:  |   nan    |   64.6   |   46.7   |   16.4   |   10.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  343.3   |  341.5   |  361.1   |  354.3   |  352.0  
- QoQ%:  |   0.4    |   -0.5   |   5.8    |   -1.9   |   -0.7  
- QOPM%: |   28.3   |   28.6   |   29.2   |   28.6   |   29.1  
- QNPM%: |   19.2   |   18.7   |   19.8   |   18.2   |   19.2  
- QPFT:  |   65.8   |   63.8   |   71.4   |   64.6   |   67.6  
- PQoQ%: |   13.6   |   -3.0   |   11.9   |   -9.6   |   4.8   
-
-***PROS***
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 
 Yearly 
  31-Mar-2025 #Result
 1408.90cr, QoQ 3.70% & YoY 140.84% SALES;
-406.70cr, QoQ 4.90% & YoY 156.27% OPERATING PROFIT;
+406.80cr, QoQ 5.00% & YoY 156.33% OPERATING PROFIT;
 267.40cr, QoQ 10.10% & YoY 209.49% NET PROFIT;
 OPM %: 28.90% vs 28.5%
 NPM %: 19.00% vs 17.9%

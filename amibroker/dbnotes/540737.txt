@@ -1,32 +1,46 @@
-CODE	NAME
-540737 
-
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+CODES	540737	
+FULLNAME : Shree Ganesh Remedies Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 EXPANSION 2024
-BestQ Dec 2024
 YSD YPD 2024
 
-***CONS***
+***YEARLY***
+YPNL: 	Mar-2019	Mar-2020	Mar-2021	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 35.2		64.0		49.1		125.9		108.6		76.1
+SQoQ%: 	nan		81.7		-23.3		156.5		-13.7		70.1
+YOPM%: 	24.8		19.5		27.8		33.2		36.1
+YNPM%: 	17.7		16.4		19.9		22.3		21.2
+YPROFIT: 6.2		10.5		9.8		28.1		23.1		11.5
+PQoQ%: 	nan		67.8		-6.9		188.3		-17.9		49.8
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 27.0		24.4		24.7		30.3		21.1
+QoQ%: 	-16.3		-9.7		1.0		22.9		-30.4
+QOPM%: 	36.6		40.4		29.6		31.7		31.9
+QNPM%: 	20.0		27.0		14.0		16.4		14.6
+QPFT: 	5.4		6.6		3.4		5.0		3.1
+PQoQ%: 	-15.4		21.6		-47.6		43.8		-37.7
 
 
 
 ***PROS***
-EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
-- Last 3QSALES is about 67% YSales
-- Last 3QPROFIT is about 58% of YProfit
+EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
+- Last 3QSALES is about 70% YSales
 - YProfits and YSales DOUBLED in Mar2024
 
 
-YSALES in Mar-2024 is at 125.9 showing a QoQ_growth of 156.5%. The YNETPROFIT grew by 188.3% to 28.1
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-125.90cr, QoQ 156.50% SALES;
-41.80cr, QoQ 206.30% OPERATING PROFIT;
-28.10cr, QoQ 188.30% NET PROFIT;
-OPM %: 33.20% vs 27.8%
-NPM %: 22.30% vs 19.9%
+ 31-Mar-2025 #Result
+108.60cr, QoQ -13.70% & YoY 208.52% SALES;
+39.20cr, QoQ -6.20% & YoY 350.57% OPERATING PROFIT;
+23.10cr, QoQ -17.90% & YoY 272.58% NET PROFIT;
+OPM %: 36.10% vs 33.2%
+NPM %: 21.20% vs 22.3%
 

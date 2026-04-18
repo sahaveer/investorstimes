@@ -1,40 +1,44 @@
-CODES
-500342	PRUDMOULI	
-SECTOR : Trading
-INDUSTRY : Trading
-BestQ Dec 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+CODES	500342	PRUDMOULI	
+FULLNAME : Prudential Sugar Corporation Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Sugar
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   0.0    |   53.2   |   80.7   |  104.8   |      85.4    
- SQoQ%:  |   nan    |   nan    |   inf    |   51.6   |   29.9   |      81.5    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.3    |   1.8    |              
- YNPM%:  |   inf    |   inf    |   2.9    |   3.4    |   3.4    |              
-YPROFIT: |   0.7    |   0.8    |   1.5    |   2.7    |   3.6    |      1.1     
- PQoQ%:  |  -34.5   |   4.2    |  102.7   |   78.9   |   31.6   |      30.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   25.7   |   71.0   |   34.0   |   19.1   |   32.3  
- QoQ%:  |  2469.0  |  176.2   |  -52.0   |  -43.8   |   68.9  
- QOPM%: |   4.3    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   5.8    |   0.5    |   0.5    |   1.3    |   2.1   
- QPFT:  |   1.5    |   0.3    |   0.2    |   0.2    |   0.7   
- PQoQ%: |   74.1   |  -78.4   |  -46.9   |   41.2   |  183.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		53.2		80.7		104.8		92.4		80.9
+SQoQ%: 	nan		inf		51.6		29.9		-11.9		87.6
+YOPM%: 	0.0		0.0		0.0		1.6		0.0
+YNPM%: 	inf		4.8		5.9		6.0		6.2
+YPROFIT: 1.7		2.5		4.7		6.3		5.7		4.7
+PQoQ%: 	-19.4		45.4		87.0		32.3		-8.3		82.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 32.3		6.9		5.2		9.0		66.7
+QoQ%: 	68.9		-78.5		-24.9		73.5		637.4
+QOPM%: 	0.0		0.0		0.0		0.0		0.5
+QNPM%: 	3.4		15.7		26.9		16.5		2.7
+QPFT: 	1.1		1.1		1.4		1.5		1.8
+PQoQ%: 	-49.1		-1.8		28.4		6.4		18.8
+
+
 
 ***PROS***
-- Last 3QSALES is about 81% YSales
-- Double QSales and QProfit
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 29.9% while the Profit QoQ_growth is much better than Sales itself at 31.6%
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 88% YSales
+- Last 3QPROFIT is about 82% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-104.80cr, QoQ 29.90% & YoY inf% SALES;
-1.90cr, QoQ 777.30% & YoY -226.67% OPERATING PROFIT;
-3.60cr, QoQ 31.60% & YoY 414.29% NET PROFIT;
-OPM %: 1.80% vs 0.3%
-NPM %: 3.40% vs 3.4%
+ 31-Mar-2025 #Result
+92.40cr, QoQ -11.90% & YoY inf% SALES;
+-1.50cr, QoQ -190.40% & YoY -16.67% OPERATING PROFIT;
+5.70cr, QoQ -8.30% & YoY 235.29% NET PROFIT;
+OPM %: 0.00% vs 1.6%
+NPM %: 6.20% vs 6.0%
 

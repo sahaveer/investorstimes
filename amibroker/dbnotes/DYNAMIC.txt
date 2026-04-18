@@ -1,24 +1,25 @@
-CODES
-DYNAMIC	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-EXPANSION 2023
+CODES	DYNAMIC	
+FULLNAME : Dynamic Services & Security Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 EXPANSION 2024
-PRODUCT DEMAND
+EXPANSION 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
-- PRODUCT DEMAND is rising since 3 years
+
+YSALES in Mar-2025 is at 153.0 showing a QoQ_growth of 46.5%. The YNETPROFIT grew by 43.7% to 12.3
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-104.40cr, QoQ 42.80% & YoY 20780.00% SALES;
-15.20cr, QoQ 166.80% & YoY inf% OPERATING PROFIT;
-8.60cr, QoQ -11.60% & YoY inf% NET PROFIT;
-OPM %: 14.50% vs 7.8%
-NPM %: 8.20% vs 13.2%
+ 31-Mar-2025 #Result
+153.00cr, QoQ 46.50% & YoY 118.57% SALES;
+23.00cr, QoQ 51.40% & YoY 475.00% OPERATING PROFIT;
+12.30cr, QoQ 43.70% & YoY 925.00% NET PROFIT;
+OPM %: 15.00% vs 14.5%
+NPM %: 8.00% vs 8.2%
 

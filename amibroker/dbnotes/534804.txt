@@ -1,31 +1,40 @@
-CODES
-534804	CARERATING	
-SECTOR : Credit Rating Agencies
-INDUSTRY : Miscellaneous
+CODES	534804	CARERATING	
+FULLNAME : CARE Ratings Ltd
+SECTOR : Capital Markets
+INDUSTRY : Ratings
+BestQ Dec 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  248.4   |  247.6   |  279.0   |  331.7   |  402.3  
- SQoQ%:  |   2.0    |   -0.3   |   12.7   |   18.9   |   21.3  
- YOPM%:  |   38.6   |   32.1   |   35.6   |   33.8   |   38.6  
- YNPM%:  |   36.0   |   30.3   |   29.9   |   30.3   |   34.1  
-YPROFIT: |   89.5   |   75.1   |   83.5   |  100.5   |  137.2  
- PQoQ%:  |   8.7    |  -16.1   |   11.2   |   20.3   |   36.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   90.2   |   78.9   |  117.4   |   96.4   |  109.6  
- QoQ%:  |   14.6   |  -12.5   |   48.7   |  -17.9   |   13.8  
- QOPM%: |   32.2   |   27.6   |   47.5   |   31.6   |   43.2  
- QNPM%: |   26.7   |   26.3   |   39.3   |   28.8   |   38.9  
- QPFT:  |   24.1   |   20.7   |   46.1   |   27.8   |   42.6  
- PQoQ%: |   2.6    |  -13.9   |  122.3   |  -39.7   |   53.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 248.4		247.6		279.0		331.7		402.3		342.4
+SQoQ%: 	2.0		-0.3		12.7		18.9		21.3		85.1
+YOPM%: 	38.6		32.1		35.6		33.8		38.6
+YNPM%: 	36.0		30.3		29.9		30.3		34.1
+YPROFIT: 89.5		75.1		83.5		100.5		137.2		118.4
+PQoQ%: 	8.7		-16.1		11.2		20.3		36.5		86.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 96.4		109.6		93.9		136.4		112.1
+QoQ%: 	-17.9		13.8		-14.4		45.2		-17.8
+QOPM%: 	31.6		43.2		29.5		50.2		36.0
+QNPM%: 	28.8		38.9		27.5		41.6		32.0
+QPFT: 	27.8		42.6		25.8		56.7		35.9
+PQoQ%: 	-39.7		53.3		-39.5		119.8		-36.7
+
+
 
 ***PROS***
+- Last 3QSALES is about 85% YSales
+- Last 3QPROFIT is about 86% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 21.3% while the Profit QoQ_growth is much better than Sales itself at 36.5%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

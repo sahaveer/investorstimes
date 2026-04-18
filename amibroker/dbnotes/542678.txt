@@ -1,23 +1,11 @@
-CODE	NAME
-542678 
+CODES	542678	
+FULLNAME : Cian Healthcare Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
-PRODUCT DEMAND
-
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
 
-Yearly 
- 31-Mar-2024 #Result
-58.80cr, QoQ -13.00% & YoY 3.16% SALES;
-7.60cr, QoQ -16.60% & YoY -1.30% OPERATING PROFIT;
-0.40cr, QoQ -63.90% & YoY -500.00% NET PROFIT;
-OPM %: 12.90% vs 13.4%
-NPM %: 0.70% vs 1.6%
-
+***CONS***

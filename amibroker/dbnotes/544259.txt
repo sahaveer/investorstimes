@@ -1,16 +1,16 @@
-CODE	NAME
-544259 
-
+CODES	544259	
+FULLNAME : Popular Foundations Ltd
 SECTOR : Construction
 INDUSTRY : Construction
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

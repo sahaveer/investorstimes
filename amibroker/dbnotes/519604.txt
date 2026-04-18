@@ -1,28 +1,41 @@
-CODE	NAME
-519604 
+CODES	519604	
+FULLNAME : Suryo Foods & Industries Ltd
+SECTOR : Food Products
+INDUSTRY : Packaged Foods
 
-SECTOR : FMCG
-INDUSTRY : Aquaculture
-LYPD PM 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		0.0		0.0		0.0		0.0		0.0
+SQoQ%: 	-100.0		nan		nan		nan		nan		nan
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		inf		inf
+YPROFIT: -0.7		-0.4		-0.2		1.1		0.2		-0.1
+PQoQ%: 	9.4		-45.7		-57.9		-806.2		-77.9		-50.0
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.6    |   0.0    |   0.0    |   0.0    |   0.0    |      0.0     
- SQoQ%:  |  -32.5   |  -100.0  |   nan    |   nan    |   nan    |      nan     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   inf    |              
-YPROFIT: |   -0.6   |   -0.7   |   -0.4   |   -0.2   |   1.1    |      0.0     
- PQoQ%:  |   68.4   |   9.4    |  -45.7   |  -57.9   |  -806.2  |      0.0     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   inf    |   0.0    |   0.0    |   inf    |   0.0   
- QPFT:  |   0.2    |   -0.1   |   -0.0   |   0.0    |   -0.0  
- PQoQ%: |   0.0    |  -181.2  |  -84.6   |  -200.0  |  -150.0 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		inf		inf		inf		0.0
+QPFT: 	-0.0		0.2		0.0		0.0		-0.1
+PQoQ%: 	-150.0		-2200.0		-90.5		150.0		-220.0
+
+
 
 ***PROS***
-- YProfit Turned POSITIVE this year Mar-2024 : 1.1
-- LastYr YProfits Doubled and maintained in Mar2024
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+-0.30cr, QoQ 42.10% & YoY -50.00% OPERATING PROFIT;
+0.20cr, QoQ -77.90% & YoY -128.57% NET PROFIT;
+OPM %: 0.00% vs 0.0%
+NPM %: inf% vs inf%
+

@@ -1,37 +1,46 @@
-CODES
-532259	APARINDS	
-SECTOR : Capital Goods - Electrical Equipment
-INDUSTRY : Electric Equipment
+CODES	532259	APARINDS	
+FULLNAME : Apar Industries Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Other Electrical Equipment
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  6388.0  |  9316.6  | 14336.3  | 16153.0  | 18581.2 
- SQoQ%:  |  -14.0   |   45.8   |   53.9   |   12.7   |   15.0  
- YOPM%:  |   6.9    |   6.2    |   8.8    |   9.7    |   8.3   
- YNPM%:  |   2.5    |   2.8    |   4.4    |   5.1    |   4.4   
-YPROFIT: |  160.5   |  256.7   |  637.7   |  825.1   |  821.3  
- PQoQ%:  |   18.8   |   60.0   |  148.4   |   29.4   |   -0.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  4455.1  |  4010.5  |  4644.5  |  4716.4  |  5209.8 
- QoQ%:  |   11.1   |  -10.0   |   15.8   |   1.5    |   10.5  
- QOPM%: |   9.6    |   9.4    |   7.7    |   7.5    |   8.8   
- QNPM%: |   5.3    |   5.1    |   4.2    |   3.7    |   4.8   
- QPFT:  |  236.2   |  202.5   |  193.9   |  174.9   |  250.0  
- PQoQ%: |   8.6    |  -14.3   |   -4.3   |   -9.8   |   42.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 6388.0		9316.6		14336.3		16153.0		18581.2		16299.3
+SQoQ%: 	-14.0		45.8		53.9		12.7		15.0		87.7
+YOPM%: 	6.9		6.2		8.8		9.7		8.5
+YNPM%: 	2.5		2.8		4.4		5.1		4.4
+YPROFIT: 160.5		256.7		637.7		825.1		821.3		723.5
+PQoQ%: 	18.8		60.0		148.4		29.4		-0.5		88.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4716.4		5209.8		5104.2		5715.4		5479.7
+QoQ%: 	1.5		10.5		-2.0		12.0		-4.1
+QOPM%: 	7.5		8.8		8.9		8.1		8.1
+QNPM%: 	3.7		4.8		5.2		4.4		3.8
+QPFT: 	174.9		250.0		262.9		251.7		208.9
+PQoQ%: 	-9.8		42.9		5.2		-4.3		-17.0
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 23.9%
+ROCE in Mar2025 is at 24.6%
+- Last 3QSALES is about 88% YSales
+- Last 3QPROFIT is about 88% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 18581.20cr, QoQ 15.00% & YoY 190.88% SALES;
-1547.30cr, QoQ -1.30% & YoY 251.74% OPERATING PROFIT;
+1581.80cr, QoQ 0.90% & YoY 259.58% OPERATING PROFIT;
 821.30cr, QoQ -0.50% & YoY 411.71% NET PROFIT;
-OPM %: 8.30% vs 9.7%
+OPM %: 8.50% vs 9.7%
 NPM %: 4.40% vs 5.1%
 

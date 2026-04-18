@@ -1,34 +1,43 @@
-CODES
-500292	HEIDELBERG	
-SECTOR : Cement
-INDUSTRY : Cement - North India
+CODES	500292	HEIDELBERG	
+FULLNAME : HeidelbergCement India Ltd
+SECTOR : Cement & Cement Products
+INDUSTRY : Cement & Cement Products
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  2169.6  |  2116.7  |  2297.0  |  2238.1  |  2365.8  |     1536.4   
- SQoQ%:  |   1.7    |   -2.4   |   8.5    |   -2.6   |   5.7    |      64.9    
- YOPM%:  |   24.3   |   23.9   |   18.9   |   11.1   |   13.4   |              
- YNPM%:  |   12.4   |   14.9   |   11.0   |   4.4    |   7.1    |              
-YPROFIT: |  268.1   |  315.0   |  252.3   |   99.2   |  167.8   |      56.3    
- PQoQ%:  |   21.5   |   17.5   |  -19.9   |  -60.7   |   69.2   |      33.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  607.1   |  596.6   |  532.2   |  461.4   |  542.8  
- QoQ%:  |   7.2    |   -1.7   |  -10.8   |  -13.3   |   17.6  
- QOPM%: |   10.8   |   14.9   |   14.7   |   8.1    |   6.1   
- QNPM%: |   5.2    |   8.1    |   7.5    |   2.4    |   1.0   
- QPFT:  |   31.5   |   48.2   |   39.9   |   11.2   |   5.2   
- PQoQ%: |  -12.1   |   53.0   |  -17.2   |  -71.9   |  -53.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2116.7		2297.0		2238.1		2365.8		2148.9		1683.4
+SQoQ%: 	-2.4		8.5		-2.6		5.7		-9.2		78.3
+YOPM%: 	23.9		18.9		11.1		13.4		11.2
+YNPM%: 	14.9		11.0		4.4		7.1		5.0
+YPROFIT: 315.0		252.3		99.2		167.8		106.8		88.7
+PQoQ%: 	17.5		-19.9		-60.7		69.2		-36.4		83.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 542.8		612.5		597.5		511.7		574.2
+QoQ%: 	17.6		12.8		-2.4		-14.4		12.2
+QOPM%: 	6.1		14.8		14.8		11.2		9.2
+QNPM%: 	1.0		8.2		8.1		4.9		2.7
+QPFT: 	5.2		50.4		48.2		24.9		15.6
+PQoQ%: 	-53.7		872.1		-4.4		-48.3		-37.4
+
+
 
 ***PROS***
-- Last 3QSALES is about 65% YSales
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 83% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-2365.80cr, QoQ 5.70% & YoY 9.04% SALES;
-316.70cr, QoQ 27.30% & YoY -40.00% OPERATING PROFIT;
-167.80cr, QoQ 69.20% & YoY -37.41% NET PROFIT;
-OPM %: 13.40% vs 11.1%
-NPM %: 7.10% vs 4.4%
+ 31-Mar-2025 #Result
+2148.90cr, QoQ -9.20% & YoY 1.52% SALES;
+239.90cr, QoQ -24.30% & YoY -52.65% OPERATING PROFIT;
+106.80cr, QoQ -36.40% & YoY -66.10% NET PROFIT;
+OPM %: 11.20% vs 13.4%
+NPM %: 5.00% vs 7.1%
 

@@ -1,40 +1,49 @@
-CODES
-530343	GENUSPOWER	
-SECTOR : Consumer Durables
-INDUSTRY : Electronics - Components
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	530343	GENUSPOWER	
+FULLNAME : Genus Power Infrastructures Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Other Electrical Equipment
+BestQ Dec 2025
+YSD YPD 2025
+LYPD PM 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1060.4  |  608.6   |  685.1   |  808.4   |  1200.6  |     1505.3   
- SQoQ%:  |   0.5    |  -42.6   |   12.6   |   18.0   |   48.5   |     125.4    
- YOPM%:  |   14.8   |   17.0   |   8.7    |   9.7    |   11.3   |              
- YNPM%:  |   6.8    |   11.3   |   8.4    |   3.6    |   7.2    |              
-YPROFIT: |   72.6   |   68.6   |   57.5   |   29.0   |   86.7   |     188.1    
- PQoQ%:  |   51.3   |   -5.5   |  -16.2   |  -49.6   |  199.2   |     217.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  259.8   |  420.1   |  414.2   |  486.9   |  604.2  
- QoQ%:  |   0.3    |   61.7   |   -1.4   |   17.6   |   24.1  
- QOPM%: |   5.2    |   12.9   |   15.3   |   16.7   |   15.4  
- QNPM%: |   0.0    |   5.8    |   11.7   |   17.1   |   9.4   
- QPFT:  |   -9.9   |   24.4   |   48.3   |   83.1   |   56.7  
- PQoQ%: |  -120.2  |  -345.5  |   98.5   |   71.9   |  -31.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 608.6		685.1		808.4		1200.6		2442.0		3213.8
+SQoQ%: 	-42.6		12.6		18.0		48.5		103.4		131.6
+YOPM%: 	17.0		8.7		9.7		11.3		19.2
+YNPM%: 	11.3		8.4		3.6		7.2		12.8
+YPROFIT: 68.6		57.5		29.0		86.7		311.4		420.5
+PQoQ%: 	-5.5		-16.2		-49.6		199.2		259.3		135.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 604.2		936.8		942.4		1149.0		1122.4
+QoQ%: 	24.1		55.0		0.6		21.9		-2.3
+QOPM%: 	15.4		21.0		21.2		20.4		18.9
+QNPM%: 	9.4		13.2		14.6		12.4		12.5
+QPFT: 	56.7		123.3		137.3		143.0		140.2
+PQoQ%: 	-31.8		117.6		11.4		4.1		-1.9
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 125% YSales
-- Last 3QPROFIT is about 217% of YProfit
+- Last 3QSALES is about 132% YSales
+- Last 3QPROFIT is about 135% of YProfit
+- YProfits and YSales DOUBLED in Mar2025
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 103.4% while the Profit QoQ_growth is much better than Sales itself at 259.3%
 
-YSALES in Mar-2024 is at 1200.6 showing a QoQ_growth of 48.5%. The YNETPROFIT grew by 199.2% to 86.7
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1200.60cr, QoQ 48.50% & YoY 13.22% SALES;
-135.30cr, QoQ 71.70% & YoY -13.93% OPERATING PROFIT;
-86.70cr, QoQ 199.20% & YoY 19.42% NET PROFIT;
-OPM %: 11.30% vs 9.7%
-NPM %: 7.20% vs 3.6%
+ 31-Mar-2025 #Result
+2442.00cr, QoQ 103.40% & YoY 301.25% SALES;
+469.90cr, QoQ 246.30% & YoY 354.89% OPERATING PROFIT;
+311.40cr, QoQ 259.30% & YoY 353.94% NET PROFIT;
+OPM %: 19.20% vs 11.3%
+NPM %: 12.80% vs 7.2%
 

@@ -1,29 +1,35 @@
-CODE	NAME
-539314 
+CODES	539314	
+FULLNAME : Universal Autofoundry Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
 
-SECTOR : Castings, Forgings & Fastners
-INDUSTRY : Castings & Forgings
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 127.7		162.4		236.2		202.5		193.4		150.7
+SQoQ%: 	44.6		27.2		45.4		-14.3		-4.5		77.9
+YOPM%: 	9.3		3.4		10.4		7.5		8.5
+YNPM%: 	1.6		0.0		4.4		2.4		1.2
+YPROFIT: 2.1		-2.7		10.5		4.9		2.4		-1.8
+PQoQ%: 	-150.9		-232.5		-484.2		-53.4		-51.9		-75.0
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  127.7   |  162.4   |  236.2   |  202.5   |  193.4  
- SQoQ%:  |   44.6   |   27.2   |   45.4   |  -14.3   |   -4.5  
- YOPM%:  |   9.3    |   3.4    |   10.4   |   7.5    |   8.5   
- YNPM%:  |   1.6    |   0.0    |   4.4    |   2.4    |   1.2   
-YPROFIT: |   2.1    |   -2.7   |   10.5   |   4.9    |   2.4   
- PQoQ%:  |  -150.9  |  -232.5  |  -484.2  |  -53.4   |  -51.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   48.2   |   45.6   |   49.8   |   46.5   |   51.5  
- QoQ%:  |   8.4    |   -5.5   |   9.4    |   -6.8   |   10.9  
- QOPM%: |   9.8    |   8.5    |   9.3    |   2.4    |   13.3  
- QNPM%: |   3.7    |   2.3    |   1.9    |   0.0    |   4.7   
- QPFT:  |   1.8    |   1.1    |   0.9    |   -2.1   |   2.4   
- PQoQ%: |  -213.5  |  -39.8   |  -11.3   |  -319.1  |  -217.0 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 46.5		51.5		46.6		54.9		49.2
+QoQ%: 	-6.8		10.9		-9.5		17.6		-10.4
+QOPM%: 	2.4		13.3		6.4		6.5		0.8
+QNPM%: 	0.0		4.7		1.5		1.1		0.0
+QPFT: 	-2.1		2.4		0.7		0.6		-3.1
+PQoQ%: 	-319.1		-217.0		-71.8		-10.3		-606.6
+
+
 
 ***PROS***
+- Last 3QSALES is about 78% YSales
 - YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

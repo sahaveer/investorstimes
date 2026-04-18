@@ -1,12 +1,9 @@
-CODE	NAME
-544121 
-
+CODES	544121	
+FULLNAME : Rudra Gas Enterprise Ltd
 SECTOR : Infrastructure Developers & Operators
 INDUSTRY : Construction
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
@@ -14,6 +11,9 @@ INDUSTRY : Construction
 ROCE in Mar2024 is at 15.3%
 
 YSALES in Mar-2024 is at 63.8 showing a QoQ_growth of 29.1%. The YNETPROFIT grew by 30.7% to 4.7
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

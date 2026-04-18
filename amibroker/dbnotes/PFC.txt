@@ -1,37 +1,45 @@
-CODES
-532810	PFC	
+CODES	532810	PFC	
+FULLNAME : Power Finance Corporation Ltd
 SECTOR : Finance
-INDUSTRY : Finance - Term-Lending Institutions
-PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+INDUSTRY : Financial Institution
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 71656.1  | 76261.7  | 77807.2  | 91691.2  | 106501.6
- SQoQ%:  |   15.2   |   6.4    |   2.0    |   17.8   |   16.2  
- YOPM%:  |   90.1   |   89.2   |   94.5   |   99.8   |   97.0  
- YNPM%:  |   16.4   |   18.4   |   20.4   |   21.6   |   21.6  
-YPROFIT: | 11747.8  | 14014.8  | 15889.3  | 19761.2  | 22990.8 
- PQoQ%:  |   64.9   |   19.3   |   13.4   |   24.4   |   16.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 24141.4  | 24716.8  | 25721.8  | 26798.0  | 29265.0 
- QoQ%:  |   2.4    |   2.4    |   4.1    |   4.2    |   9.2   
- QOPM%: |  102.4   |   98.7   |   98.6   |   98.4   |   92.7  
- QNPM%: |   23.3   |   22.4   |   20.6   |   21.8   |   21.6  
- QPFT:  |  5624.4  |  5543.1  |  5302.4  |  5828.8  |  6316.4 
- PQoQ%: |   19.0   |   -1.4   |   -4.3   |   9.9    |   8.4   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 71656.1		76261.7		77807.2		91508.0		107106.4		86524.0
+SQoQ%: 	15.2		6.4		2.0		17.6		17.0		80.8
+YOPM%: 	90.1		89.2		94.5		100.0		96.4
+YNPM%: 	16.4		18.4		20.4		21.6		21.5
+YPROFIT: 11747.8		14014.8		15889.3		19761.2		22990.8		18902.0
+PQoQ%: 	64.9		19.3		13.4		24.4		16.3		82.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 26798.0		29265.0		28539.0		28890.2		29094.8
+QoQ%: 	4.2		9.2		-2.5		1.2		0.7
+QOPM%: 	98.4		92.7		99.3		94.8		96.5
+QNPM%: 	21.8		21.6		24.1		19.9		21.6
+QPFT: 	5828.8		6316.4		6866.3		5743.2		6292.5
+PQoQ%: 	9.9		8.4		8.7		-16.4		9.6
+
+
 
 ***PROS***
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 82% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2025, Sales have increased by 16.2% while the Profit QoQ_growth is much better than Sales itself at 16.3%
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 17.0% while the Profit QoQ_growth is at 16.3%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-106501.60cr, QoQ 16.20% & YoY 48.63% SALES;
-103260.70cr, QoQ 12.80% & YoY 59.96% OPERATING PROFIT;
+107106.40cr, QoQ 17.00% & YoY 49.47% SALES;
+103273.20cr, QoQ 12.80% & YoY 59.98% OPERATING PROFIT;
 22990.80cr, QoQ 16.30% & YoY 95.70% NET PROFIT;
-OPM %: 97.00% vs 99.8%
-NPM %: 21.60% vs 21.6%
+OPM %: 96.40% vs 100.0%
+NPM %: 21.50% vs 21.6%
 

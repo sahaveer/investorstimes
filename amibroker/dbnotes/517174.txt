@@ -1,34 +1,43 @@
-CODES
-517174	HONAUT	
-SECTOR : 
-INDUSTRY : 
+CODES	517174	HONAUT	
+FULLNAME : Honeywell Automation India Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  3042.8  |  2948.3  |  3447.6  |  4058.2  |  4189.6 
- SQoQ%:  |   -7.5   |   -3.1   |   16.9   |   17.7   |   3.2   
- YOPM%:  |   19.5   |   14.8   |   15.1   |   14.7   |   14.0  
- YNPM%:  |   15.1   |   11.5   |   12.7   |   12.4   |   12.5  
-YPROFIT: |  460.0   |  339.1   |  438.0   |  501.4   |  523.6  
- PQoQ%:  |   -6.4   |  -26.3   |   29.2   |   14.5   |   4.4   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  950.7   |  960.4   |  1023.9  |  1090.8  |  1114.5 
- QoQ%:  |  -11.2   |   1.0    |   6.6    |   6.5    |   2.2   
- QOPM%: |   17.9   |   16.1   |   12.6   |   13.0   |   14.3  
- QNPM%: |   15.6   |   14.2   |   11.2   |   12.1   |   12.6  
- QPFT:  |  148.2   |  136.5   |  115.1   |  132.1   |  139.9  
- PQoQ%: |   15.9   |   -7.9   |  -15.7   |   14.8   |   5.9   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3042.8		2948.3		3447.6		4058.2		4189.6		3501.2
+SQoQ%: 	-7.5		-3.1		16.9		17.7		3.2		83.6
+YOPM%: 	19.5		14.8		15.1		14.7		14.1
+YNPM%: 	15.1		11.5		12.7		12.4		12.5
+YPROFIT: 460.0		339.1		438.0		501.4		523.6		365.3
+PQoQ%: 	-6.4		-26.3		29.2		14.5		4.4		69.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1090.8		1114.5		1183.1		1149.4		1168.7
+QoQ%: 	6.5		2.2		6.2		-2.8		1.7
+QOPM%: 	13.0		14.3		12.0		11.4		12.6
+QNPM%: 	12.1		12.6		10.5		10.4		10.4
+QPFT: 	132.1		139.9		124.6		119.5		121.2
+PQoQ%: 	14.8		5.9		-10.9		-4.1		1.4
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 70% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 4189.60cr, QoQ 3.20% & YoY 37.69% SALES;
-584.60cr, QoQ -1.70% & YoY -1.23% OPERATING PROFIT;
+590.50cr, QoQ -0.70% & YoY -0.24% OPERATING PROFIT;
 523.60cr, QoQ 4.40% & YoY 13.83% NET PROFIT;
-OPM %: 14.00% vs 14.7%
+OPM %: 14.10% vs 14.7%
 NPM %: 12.50% vs 12.4%
 

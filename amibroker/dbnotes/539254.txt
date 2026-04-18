@@ -1,27 +1,38 @@
-CODES
-539254	ADANIENSOL	
-SECTOR : Power Generation & Distribution
-INDUSTRY : Power Generation And Supply
+CODES	539254	ADANIENSOL	
+FULLNAME : Adani Energy Solutions Ltd
+SECTOR : Power
+INDUSTRY : Power Distribution
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  9926.3  | 11257.5  | 13292.7  | 16607.4  | 23767.1 
- SQoQ%:  |  -13.0   |   13.4   |   18.1   |   24.9   |   43.1  
- YOPM%:  |   39.8   |   37.4   |   34.0   |   34.4   |   29.7  
- YNPM%:  |   12.3   |   10.7   |   9.5    |   6.8    |   4.5   
-YPROFIT: |  1224.0  |  1204.6  |  1256.3  |  1137.3  |  1060.0 
- PQoQ%:  |   65.0   |   -1.6   |   4.3    |   -9.5   |   -6.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  4706.8  |  5378.6  |  6183.7  |  5830.3  |  6374.6 
- QoQ%:  |   3.2    |   14.3   |   15.0   |   -5.7   |   9.3   
- QOPM%: |   33.3   |   30.7   |   27.7   |   28.5   |   32.0  
- QNPM%: |   7.7    |   0.0    |   10.9   |   9.6    |   10.2  
- QPFT:  |  361.4   |  -823.9  |  675.0   |  561.8   |  647.2  
- PQoQ%: |   11.2   |  -328.0  |  -181.9  |  -16.8   |   15.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 9926.3		11257.5		13292.7		16607.4		23767.1		20144.7
+SQoQ%: 	-13.0		13.4		18.1		24.9		43.1		84.8
+YOPM%: 	39.8		37.4		34.0		34.4		29.7
+YNPM%: 	12.3		10.7		9.5		6.8		4.5
+YPROFIT: 1224.0		1204.6		1256.3		1137.3		1060.0		1598.8
+PQoQ%: 	65.0		-1.6		4.3		-9.5		-6.8		150.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 5830.3		6374.6		6819.3		6595.8		6729.6
+QoQ%: 	-5.7		9.3		7.0		-3.3		2.0
+QOPM%: 	28.5		32.0		26.6		29.6		29.7
+QNPM%: 	9.6		10.2		7.5		8.1		8.2
+QPFT: 	561.8		647.2		512.5		534.0		552.3
+PQoQ%: 	-16.8		15.2		-20.8		4.2		3.4
+
+
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 85% YSales
+- Last 3QPROFIT is about 151% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

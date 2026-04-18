@@ -1,37 +1,52 @@
-CODE	NAME
-539506 
-
+CODES	539506	
+FULLNAME : Adcon Capital Services Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 PRODUCT DEMAND
-BestQ Dec 2024
 YSD YPD 2024
-YSD YPD 2022
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.3    |   0.3    |   0.7    |   0.6    |   1.7    |      2.4     
- SQoQ%:  |   8.3    |   7.7    |  146.4   |  -18.8   |  200.0   |     141.2    
- YOPM%:  |   7.7    |   50.0   |   72.5   |   0.0    |   62.5   |              
- YNPM%:  |   7.7    |   42.9   |   59.4   |   0.0    |   53.6   |              
-YPROFIT: |   0.0    |   0.1    |   0.4    |   -0.7   |   0.9    |      1.7     
- PQoQ%:  |  -66.7   |  500.0   |  241.7   |  -265.9  |  -232.4  |     188.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.4    |   0.4    |   0.5    |   1.3    |   0.6   
- QoQ%:  |   -2.4   |  -12.2   |   30.6   |  174.5   |  -54.3  
- QOPM%: |   43.9   |   38.9   |   48.9   |   95.3   |   74.6  
- QNPM%: |   31.7   |   61.1   |   36.2   |   89.1   |   55.9  
- QPFT:  |   0.1    |   0.2    |   0.2    |   1.2    |   0.3   
- PQoQ%: |  -45.8   |   69.2   |  -22.7   |  576.5   |  -71.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.3		0.7		0.6		1.7		3.2		2.3
+SQoQ%: 	7.7		146.4		-18.8		200.0		92.9		71.9
+YOPM%: 	50.0		72.5		0.0		27.4		84.9
+YNPM%: 	42.9		59.4		0.0		18.5		67.3
+YPROFIT: 0.1		0.4		-0.7		0.3		2.2		0.9
+PQoQ%: 	500.0		241.7		-265.9		-145.6		603.2		40.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.6		0.8		0.9		0.8		0.6
+QoQ%: 	-54.3		42.4		10.7		-11.8		-24.4
+QOPM%: 	74.6		84.5		93.5		96.3		96.8
+QNPM%: 	55.9		63.1		51.6		34.1		14.5
+QPFT: 	0.3		0.5		0.5		0.3		0.1
+PQoQ%: 	-71.3		60.6		-9.4		-41.7		-67.9
+
+
 
 ***PROS***
-A DEBT-Free Company
+A DEBT-Free Company for the last 2 yrs
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 141% YSales
-- Last 3QPROFIT is about 189% of YProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 0.9
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 72% YSales
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2024
-- YProfits and YSales DOUBLED in Mar2022
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+YSALES in Mar-2025 is at 3.2 showing a QoQ_growth of 92.9%. The YNETPROFIT grew by 603.2% to 2.2
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+3.20cr, QoQ 92.90% & YoY 966.67% SALES;
+2.80cr, QoQ 497.80% & YoY 2700.00% OPERATING PROFIT;
+2.20cr, QoQ 603.20% & YoY 2100.00% NET PROFIT;
+OPM %: 84.90% vs 27.4%
+NPM %: 67.30% vs 18.5%
 

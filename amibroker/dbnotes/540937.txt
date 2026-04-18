@@ -1,28 +1,37 @@
-CODES
-540937	MEDICO	
-SECTOR : 
-INDUSTRY : 
+CODES	540937	MEDICO	
+FULLNAME : Medico Remedies Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 122.4		121.0		140.4		144.9		150.9		149.5
+SQoQ%: 	38.1		-1.1		16.0		3.2		4.2		99.1
+YOPM%: 	4.3		6.1		6.8		8.9		9.9
+YNPM%: 	2.1		4.0		5.2		5.7		6.7
+YPROFIT: 2.6		4.8		7.2		8.3		10.1		7.3
+PQoQ%: 	58.9		85.7		50.5		14.5		21.7		72.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 39.5		41.3		38.2		52.6		58.7
+QoQ%: 	0.4		4.6		-7.4		37.6		11.5
+QOPM%: 	7.9		16.1		7.4		5.2		7.4
+QNPM%: 	6.6		10.5		4.8		4.9		4.9
+QPFT: 	2.6		4.3		1.8		2.6		2.9
+PQoQ%: 	69.0		65.6		-58.1		41.2		11.7
+
+
+
+***PROS***
+- Last 3QSALES is about 99% YSales
+- Last 3QPROFIT is about 72% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  122.4   |  121.0   |  140.4   |  144.9   |  150.9  
- SQoQ%:  |   38.1   |   -1.1   |   16.0   |   3.2    |   4.2   
- YOPM%:  |   4.3    |   6.1    |   6.8    |   8.9    |   9.9   
- YNPM%:  |   2.1    |   4.0    |   5.2    |   5.7    |   6.7   
-YPROFIT: |   2.6    |   4.8    |   7.2    |   8.3    |   10.1  
- PQoQ%:  |   58.9   |   85.7   |   50.5   |   14.5   |   21.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   41.3   |   30.8   |   39.4   |   39.5   |   41.3  
- QoQ%:  |   38.8   |  -25.5   |   27.8   |   0.4    |   4.6   
- QOPM%: |   11.3   |   9.2    |   6.1    |   7.9    |   16.1  
- QNPM%: |   7.5    |   5.1    |   3.9    |   6.6    |   10.5  
- QPFT:  |   3.1    |   1.6    |   1.6    |   2.6    |   4.3   
- PQoQ%: |  113.8   |  -49.0   |   -1.9   |   69.0   |   65.6  
-
-***PROS***
 
 Yearly 
  31-Mar-2025 #Result

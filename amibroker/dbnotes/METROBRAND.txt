@@ -1,34 +1,43 @@
-CODES
-543426	METROBRAND	
-SECTOR : Leather
-INDUSTRY : Leather / Leather Products
+CODES	543426	METROBRAND	
+FULLNAME : Metro Brands Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Footwear
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  800.0   |  1342.9  |  2127.1  |  2356.7  |  2507.4 
- SQoQ%:  |  -37.7   |   67.9   |   58.4   |   10.8   |   6.4   
- YOPM%:  |   21.9   |   30.7   |   32.0   |   29.9   |   30.2  
- YNPM%:  |   8.5    |   15.8   |   17.0   |   17.5   |   14.0  
-YPROFIT: |   68.2   |  211.6   |  361.4   |  412.5   |  350.6  
- PQoQ%:  |  -56.5   |  210.2   |   70.8   |   14.1   |  -15.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  583.0   |  576.1   |  585.4   |  703.1   |  642.8  
- QoQ%:  |   -8.3   |   -1.2   |   1.6    |   20.1   |   -8.6  
- QOPM%: |   27.2   |   31.3   |   26.4   |   32.0   |   30.7  
- QNPM%: |   26.6   |   15.9   |   11.9   |   13.5   |   14.7  
- QPFT:  |  155.2   |   91.7   |   69.6   |   94.6   |   94.8  
- PQoQ%: |   58.6   |  -40.9   |  -24.2   |   36.0   |   0.2   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 800.0		1342.9		2127.1		2356.7		2507.4		2090.6
+SQoQ%: 	-37.7		67.9		58.4		10.8		6.4		83.4
+YOPM%: 	21.9		30.7		32.0		29.9		30.3
+YNPM%: 	8.5		15.8		17.0		17.5		14.0
+YPROFIT: 68.2		211.6		361.4		412.5		350.6		294.6
+PQoQ%: 	-56.5		210.2		70.8		14.1		-15.0		84.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 703.1		642.8		628.2		651.1		811.3
+QoQ%: 	20.1		-8.6		-2.3		3.6		24.6
+QOPM%: 	32.0		30.7		30.9		26.2		32.7
+QNPM%: 	13.5		14.7		15.7		10.4		15.8
+QPFT: 	94.6		94.8		98.5		67.7		128.4
+PQoQ%: 	36.0		0.2		4.0		-31.3		89.6
+
+
 
 ***PROS***
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 84% of YProfit
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 2507.40cr, QoQ 6.40% & YoY 213.43% SALES;
-757.40cr, QoQ 7.60% & YoY 332.06% OPERATING PROFIT;
+759.50cr, QoQ 7.90% & YoY 333.26% OPERATING PROFIT;
 350.60cr, QoQ -15.00% & YoY 414.08% NET PROFIT;
-OPM %: 30.20% vs 29.9%
+OPM %: 30.30% vs 29.9%
 NPM %: 14.00% vs 17.5%
 

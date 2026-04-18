@@ -1,36 +1,45 @@
-CODES
-524558	NEULANDLAB	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs
+CODES	524558	NEULANDLAB	
+FULLNAME : Neuland Laboratories Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  936.9   |  951.1   |  1191.2  |  1558.6  |  1476.8 
- SQoQ%:  |   22.8   |   1.5    |   25.2   |   30.8   |   -5.2  
- YOPM%:  |   15.7   |   15.2   |   22.9   |   29.7   |   21.9  
- YNPM%:  |   8.6    |   6.7    |   13.7   |   19.3   |   17.6  
-YPROFIT: |   80.6   |   63.8   |  163.5   |  300.1   |  260.1  
- PQoQ%:  |  397.4   |  -20.8   |  156.2   |   83.5   |  -13.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  385.0   |  439.6   |  310.8   |  398.0   |  328.4  
- QoQ%:  |   -2.0   |   14.2   |  -29.3   |   28.0   |  -17.5  
- QOPM%: |   27.8   |   28.1   |   20.0   |   21.8   |   15.6  
- QNPM%: |   17.5   |   22.3   |   10.6   |   25.5   |   8.5   
- QPFT:  |   67.6   |   97.9   |   32.8   |  101.6   |   27.8  
- PQoQ%: |  -17.0   |   44.9   |  -66.4   |  209.3   |  -72.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 936.9		951.1		1191.2		1558.6		1476.8		1246.8
+SQoQ%: 	22.8		1.5		25.2		30.8		-5.2		84.4
+YOPM%: 	15.7		15.2		22.9		29.7		22.4
+YNPM%: 	8.6		6.7		13.7		19.3		17.6
+YPROFIT: 80.6		63.8		163.5		300.1		260.1		151.3
+PQoQ%: 	397.4		-20.8		156.2		83.5		-13.3		58.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 398.0		328.4		292.8		514.3		439.7
+QoQ%: 	28.0		-17.5		-10.8		75.7		-14.5
+QOPM%: 	21.8		15.6		11.8		30.2		17.5
+QNPM%: 	25.5		8.5		4.7		18.8		9.2
+QPFT: 	101.6		27.8		13.9		96.8		40.6
+PQoQ%: 	209.3		-72.6		-50.0		596.8		-58.1
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 58% of YProfit
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 1476.80cr, QoQ -5.20% & YoY 57.63% SALES;
-323.30cr, QoQ -30.20% & YoY 119.78% OPERATING PROFIT;
+330.60cr, QoQ -28.60% & YoY 124.75% OPERATING PROFIT;
 260.10cr, QoQ -13.30% & YoY 222.70% NET PROFIT;
-OPM %: 21.90% vs 29.7%
+OPM %: 22.40% vs 29.7%
 NPM %: 17.60% vs 19.3%
 

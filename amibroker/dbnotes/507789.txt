@@ -1,31 +1,40 @@
-CODES
-507789	JAGSNPHARM	
-SECTOR : 
-INDUSTRY : 
+CODES	507789	JAGSNPHARM	
+FULLNAME : Jagsonpal Pharmaceuticals Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  188.0   |  217.6   |  236.7   |  208.7   |  268.7  
- SQoQ%:  |   18.5   |   15.8   |   8.8    |  -11.8   |   28.8  
- YOPM%:  |   10.2   |   11.7   |   14.4   |   11.0   |   19.0  
- YNPM%:  |   9.1    |   8.7    |   11.3   |   10.8   |   20.6  
-YPROFIT: |   17.1   |   18.9   |   26.7   |   22.5   |   55.4  
- PQoQ%:  |  116.8   |   10.6   |   41.7   |  -15.9   |  146.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   43.5   |   61.4   |   74.7   |   74.0   |   58.6  
- QoQ%:  |   -7.9   |   41.3   |   21.6   |   -0.9   |  -20.9  
- QOPM%: |   6.1    |   16.7   |   21.8   |   21.4   |   14.9  
- QNPM%: |   8.2    |   8.7    |   15.3   |   43.2   |   11.2  
- QPFT:  |   3.6    |   5.3    |   11.5   |   32.0   |   6.6   
- PQoQ%: |  -10.4   |   50.1   |  115.0   |  179.1   |  -79.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 188.0		217.6		236.7		208.7		268.7		223.1
+SQoQ%: 	18.5		15.8		8.8		-11.8		28.8		83.0
+YOPM%: 	10.2		11.7		14.4		11.0		19.0
+YNPM%: 	9.1		8.7		11.3		10.8		20.6
+YPROFIT: 17.1		18.9		26.7		22.5		55.4		34.4
+PQoQ%: 	116.8		10.6		41.7		-15.9		146.5		62.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 74.0		58.6		75.6		74.5		73.0
+QoQ%: 	-0.9		-20.9		29.1		-1.5		-2.0
+QOPM%: 	21.4		14.9		18.8		22.1		22.3
+QNPM%: 	43.2		11.2		14.3		16.9		15.0
+QPFT: 	32.0		6.6		10.8		12.6		11.0
+PQoQ%: 	179.1		-79.4		64.1		16.4		-12.9
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 62% of YProfit
 
 YSALES in Mar-2025 is at 268.7 showing a QoQ_growth of 28.8%. The YNETPROFIT grew by 146.5% to 55.4
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

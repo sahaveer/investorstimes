@@ -1,15 +1,16 @@
-CODE	NAME
-544371 
-
+CODES	544371	
+FULLNAME : Vikram Aroma Ltd
 SECTOR : Chemicals
 INDUSTRY : Chemicals
 
-***CONS***
-- NEGATIVE YProfit : -0.4
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2024 is at 94.4%. The QPROFIT QoQ_growth by -66.7%
+
+***CONS***
+- NEGATIVE YProfit : -0.4

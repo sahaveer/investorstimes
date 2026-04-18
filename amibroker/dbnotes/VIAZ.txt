@@ -1,4 +1,4 @@
-CODES
-VIAZ	
+CODES	VIAZ	
+FULLNAME : Viaz Tyres Ltd
 SECTOR : 
 INDUSTRY : 

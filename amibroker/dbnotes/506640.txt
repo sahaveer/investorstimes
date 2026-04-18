@@ -1,13 +1,14 @@
-CODE	NAME
-506640 
+CODES	506640	
+FULLNAME : ZR2 Bioenergy Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

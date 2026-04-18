@@ -1,36 +1,34 @@
-CODE	NAME
-531246 
+CODES	531246	
+FULLNAME : Prima Industries Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Edible Oil
+PRODUCT DEMAND
 
-SECTOR : Edible Oil
-INDUSTRY : Solvent Extraction
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 17.7		17.3		7.6		7.9		7.6		5.9
+SQoQ%: 	3.6		-2.3		-56.2		4.9		-4.9		77.6
+YOPM%: 	24.4		15.8		11.5		1.0		0.0
+YNPM%: 	21.3		8.8		5.9		5.7		0.0
+YPROFIT: 3.8		1.5		0.4		0.4		-0.3		0.1
+PQoQ%: 	45.2		-59.6		-70.4		0.0		-166.7		-33.3
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   17.1   |   17.7   |   17.3   |   7.6    |   7.9    |      5.7     
- SQoQ%:  |   88.1   |   3.6    |   -2.3   |  -56.2   |   4.9    |      72.2    
- YOPM%:  |   16.6   |   24.4   |   15.8   |   11.5   |   1.0    |              
- YNPM%:  |   15.2   |   21.3   |   8.8    |   5.9    |   5.7    |              
-YPROFIT: |   2.6    |   3.8    |   1.5    |   0.4    |   0.4    |      -0.5    
- PQoQ%:  |   15.6   |   45.2   |  -59.6   |  -70.4   |   0.0    |     -125.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.6    |   1.3    |   1.6    |   2.0    |   2.1   
- QoQ%:  |  -40.4   |  -18.0   |   22.0   |   21.1   |   6.2   
- QOPM%: |   0.0    |   0.0    |   1.2    |   0.0    |   0.0   
- QNPM%: |   0.0    |   23.5   |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.5   |   0.3    |   -0.1   |   -0.2   |   -0.2  
- PQoQ%: |  -233.3  |  -159.6  |  -141.9  |   69.2   |   9.1   
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2.1		1.9		2.1		1.8		2.0
+QoQ%: 	6.2		-7.2		8.3		-14.4		10.1
+QOPM%: 	0.0		0.0		0.0		1.7		17.9
+QNPM%: 	0.0		15.6		0.0		0.0		12.8
+QPFT: 	-0.2		0.3		-0.1		-0.0		0.2
+PQoQ%: 	9.1		-225.0		-140.0		-66.7		-725.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 72% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 78% YSales
 
-Yearly 
- 31-Mar-2024 #Result
-7.90cr, QoQ 4.90% & YoY -53.80% SALES;
-0.10cr, QoQ -90.80% & YoY -96.43% OPERATING PROFIT;
-0.40cr, QoQ 0.00% & YoY -84.62% NET PROFIT;
-OPM %: 1.00% vs 11.5%
-NPM %: 5.70% vs 5.9%
-
+***CONS***
+- NEGATIVE YProfit : -0.3

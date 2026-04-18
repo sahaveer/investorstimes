@@ -1,11 +1,11 @@
-CODE	NAME
-544334 
-
+CODES	544334	
+FULLNAME : Indobell Insulations Ltd
 SECTOR : Plastic products
 INDUSTRY : Plastics Products
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

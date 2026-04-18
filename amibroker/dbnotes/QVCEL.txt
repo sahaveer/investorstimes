@@ -1,5 +1,5 @@
-CODES
-QVCEL	
+CODES	QVCEL	
+FULLNAME : QVC Exports Ltd
 SECTOR : Trading
 INDUSTRY : Trading
 PRODUCT DEMAND
@@ -7,8 +7,7 @@ YSD YPD 2024
 LYPD PM 2024
 PROFIT GROWTH BETTER THAN SALES GROWTH 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,6 +16,8 @@ PROFIT GROWTH BETTER THAN SALES GROWTH 2024
 - LastYr YProfits Doubled and maintained in Mar2024
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2024, Sales have increased by 115.2% while the Profit QoQ_growth is much better than Sales itself at 129.8%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

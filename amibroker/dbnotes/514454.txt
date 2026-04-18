@@ -1,35 +1,40 @@
-CODE	NAME
-514454 
+CODES	514454	
+FULLNAME : Southern Latex Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		0.0		0.0		0.0		0.0		0.0
+SQoQ%: 	nan		nan		nan		nan		nan		nan
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	inf		inf		inf		inf		inf
+YPROFIT: 0.2		0.2		0.2		0.2		0.2		0.0
+PQoQ%: 	0.0		5.3		20.0		0.0		-4.2		0.0
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |      0.0     
- SQoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan    |      nan     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   inf    |   inf    |   inf    |   inf    |   inf    |              
-YPROFIT: |   0.2    |   0.2    |   0.2    |   0.2    |   0.2    |      0.0     
- PQoQ%:  |   0.0    |   0.0    |   5.3    |   20.0   |   0.0    |      0.0     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   inf    |   inf    |   inf    |   inf    |   inf   
- QPFT:  |   0.0    |   0.2    |   0.0    |   0.0    |   0.0   
- PQoQ%: |   inf    |  1700.0  |  -94.4   |   0.0    |   0.0   
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	inf		inf		inf		inf		inf
+QPFT: 	0.0		0.2		0.0		0.0		0.0
+PQoQ%: 	0.0		2000.0		-95.2		0.0		100.0
+
+
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
 
 
+***CONS***
+
 Yearly 
- 31-Mar-2024 #Result
--0.20cr, QoQ -26.10% & YoY -0.00% OPERATING PROFIT;
-0.20cr, QoQ 0.00% & YoY 0.00% NET PROFIT;
+ 31-Mar-2025 #Result
+-0.20cr, QoQ -3.80% & YoY -0.00% OPERATING PROFIT;
+0.20cr, QoQ -4.20% & YoY 0.00% NET PROFIT;
 OPM %: 0.00% vs 0.0%
 NPM %: inf% vs inf%
 

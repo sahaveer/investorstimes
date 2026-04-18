@@ -1,27 +1,33 @@
-CODE	NAME
-540147 
+CODES	540147	
+FULLNAME : Shashijit Infraprojects Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
 
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 16.8		28.5		35.3		27.4		22.8		16.8
+SQoQ%: 	-41.4		69.3		24.0		-22.5		-16.6		73.7
+YOPM%: 	6.2		7.2		6.9		8.4		0.0
+YNPM%: 	0.0		0.5		1.3		0.0		0.0
+YPROFIT: -0.2		0.1		0.4		-0.6		-3.1		0.1
+PQoQ%: 	-75.4		-186.7		246.2		-235.6		409.8		-3.2
 
-***CONS***
-- NEGATIVE YProfit : -0.6
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   28.7   |   16.8   |   28.5   |   35.3   |   27.4   |      17.4    
- SQoQ%:  |   9.1    |  -41.4   |   69.3   |   24.0   |  -22.5   |      63.5    
- YOPM%:  |   1.8    |   6.2    |   7.2    |   6.9    |   8.4    |              
- YNPM%:  |   0.0    |   0.0    |   0.5    |   1.3    |   0.0    |              
-YPROFIT: |   -0.6   |   -0.2   |   0.1    |   0.4    |   -0.6   |      -1.3    
- PQoQ%:  |  -421.1  |  -75.4   |  -186.7  |  246.2   |  -235.6  |     216.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   6.3    |   6.7    |   7.6    |   4.8    |   5.0   
- QoQ%:  |   2.4    |   5.8    |   13.0   |  -36.6   |   4.6   
- QOPM%: |   9.3    |   2.4    |   12.0   |   0.0    |   0.0   
- QNPM%: |   1.3    |   0.0    |   1.7    |   0.0    |   0.0   
- QPFT:  |   0.1    |   -1.0   |   0.1    |   -0.5   |   -0.9  
- PQoQ%: |  -27.3   | -1375.0  |  -112.7  |  -500.0  |   80.8  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 5.0		5.5		6.8		6.0		4.0
+QoQ%: 	4.6		9.2		24.8		-12.1		-34.3
+QOPM%: 	0.0		0.0		6.3		8.8		4.1
+QNPM%: 	0.0		0.0		5.7		0.0		0.0
+QPFT: 	-0.9		-1.8		0.4		-0.2		-0.1
+PQoQ%: 	80.8		89.4		-121.9		-138.5		-26.7
+
+
 
 ***PROS***
-- Last 3QSALES is about 64% YSales
+- Last 3QSALES is about 74% YSales
+
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -3.1

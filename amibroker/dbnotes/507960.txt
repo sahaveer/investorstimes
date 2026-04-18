@@ -1,33 +1,41 @@
-CODE	NAME
-507960 
+CODES	507960	
+FULLNAME : Gujarat Hotels Ltd
+SECTOR : Leisure Services
+INDUSTRY : Hotels & Resorts
+BestQ Dec 2025
 
-SECTOR : Hotels & Restaurants
-INDUSTRY : Hotels
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.0		2.1		3.7		3.4		4.1		3.0
+SQoQ%: 	-73.6		115.2		71.8		-6.0		19.2		73.2
+YOPM%: 	68.7		82.2		88.8		87.5		89.0
+YNPM%: 	229.3		127.7		116.1		137.2		129.3
+YPROFIT: 2.3		2.7		4.2		4.7		5.3		4.1
+PQoQ%: 	-47.2		19.8		56.2		11.1		12.3		77.4
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   1.0    |   2.1    |   3.7    |   3.4    |   4.1   
- SQoQ%:  |  -73.6   |  115.2   |   71.8   |   -6.0   |   19.2  
- YOPM%:  |   68.7   |   82.2   |   88.8   |   87.5   |   89.0  
- YNPM%:  |  229.3   |  127.7   |  116.1   |  137.2   |  129.3  
-YPROFIT: |   2.3    |   2.7    |   4.2    |   4.7    |   5.3   
- PQoQ%:  |  -47.2   |   19.8   |   56.2   |   11.1   |   12.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   1.1    |   0.7    |   0.7    |   1.4    |   1.3   
- QoQ%:  |   2.9    |  -37.0   |   4.4    |   98.6   |   -7.1  
- QOPM%: |   90.7   |   83.8   |   83.1   |   90.8   |   90.8  
- QNPM%: |  124.1   |  183.8   |  101.4   |  116.3   |  128.2  
- QPFT:  |   1.3    |   1.2    |   0.7    |   1.6    |   1.7   
- PQoQ%: |   10.7   |   -6.7   |  -42.4   |  127.8   |   2.4   
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1.4		1.3		0.8		0.9		1.3
+QoQ%: 	98.6		-7.1		-38.2		13.6		39.1
+QOPM%: 	90.8		90.8		85.2		82.6		90.6
+QNPM%: 	116.3		128.2		172.8		129.3		116.4
+QPFT: 	1.6		1.7		1.4		1.2		1.5
+PQoQ%: 	127.8		2.4		-16.7		-15.0		25.2
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 230.6%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 73% YSales
+- Last 3QPROFIT is about 77% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

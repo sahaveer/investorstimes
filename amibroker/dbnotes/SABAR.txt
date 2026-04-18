@@ -1,22 +1,21 @@
-CODES
-SABAR	
-SECTOR : Packaging
+CODES	SABAR	
+FULLNAME : Sabar Flex India Ltd
+SECTOR : Industrial Products
 INDUSTRY : Packaging
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 
-YSALES in Mar-2024 is at 126.2 showing a QoQ_growth of 32.4%. The YNETPROFIT grew by 137.2% to 4.3
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-126.20cr, QoQ 32.40% & YoY 98.43% SALES;
-9.60cr, QoQ 76.70% & YoY 166.67% OPERATING PROFIT;
-4.30cr, QoQ 137.20% & YoY 377.78% NET PROFIT;
-OPM %: 7.60% vs 5.7%
-NPM %: 3.40% vs 1.9%
+ 31-Mar-2025 #Result
+147.70cr, QoQ 17.10% & YoY 99.86% SALES;
+4.60cr, QoQ -52.40% & YoY 2.22% OPERATING PROFIT;
+0.70cr, QoQ -83.60% & YoY -50.00% NET PROFIT;
+OPM %: 3.10% vs 7.6%
+NPM %: 0.50% vs 3.4%
 

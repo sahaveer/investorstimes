@@ -1,20 +1,22 @@
-CODES
-MHHL	
-SECTOR : Healthcare
-INDUSTRY : Healthcare
+CODES	MHHL	
+FULLNAME : Mohini Health & Hygiene Ltd
+SECTOR : Healthcare Equipment & Supplies
+INDUSTRY : Medical Equipment & Supplies
+PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- PRODUCT DEMAND is rising since 3 years
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-199.60cr, QoQ 4.00% & YoY 56.55% SALES;
-14.00cr, QoQ 9.00% & YoY 29.63% OPERATING PROFIT;
-10.80cr, QoQ 58.30% & YoY 71.43% NET PROFIT;
-OPM %: 7.00% vs 6.7%
-NPM %: 5.40% vs 3.5%
+ 31-Mar-2025 #Result
+167.80cr, QoQ -16.00% & YoY 24.11% SALES;
+12.40cr, QoQ -11.00% & YoY -26.19% OPERATING PROFIT;
+5.90cr, QoQ -44.80% & YoY 5.36% NET PROFIT;
+OPM %: 7.40% vs 7.0%
+NPM %: 3.50% vs 5.4%
 

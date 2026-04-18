@@ -1,29 +1,32 @@
-CODE	NAME
-540786 
+CODES	540786	
+FULLNAME : Sharika Enterprises Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 
-SECTOR : Trading
-INDUSTRY : Trading
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 49.9		39.2		50.4		78.4		81.7		54.4
+SQoQ%: 	78.5		-21.5		28.5		55.7		4.2		66.6
+YOPM%: 	4.7		4.1		0.0		1.6		2.3
+YNPM%: 	0.0		0.0		0.0		2.0		0.0
+YPROFIT: -0.0		-0.3		-3.4		1.5		-0.2		-6.4
+PQoQ%: 	-128.6		725.0		915.2		-145.7		-115.0		3200.0
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   28.0   |   49.9   |   39.2   |   50.4   |   78.4   |      64.4    
- SQoQ%:  |   16.3   |   78.5   |  -21.5   |   28.5   |   55.7   |      82.1    
- YOPM%:  |   9.5    |   4.7    |   4.1    |   0.0    |   1.7    |              
- YNPM%:  |   0.5    |   0.0    |   0.0    |   0.0    |   1.7    |              
-YPROFIT: |   0.1    |   -0.0   |   -0.3   |   -3.4   |   1.3    |      -5.3    
- PQoQ%:  |  -70.8   |  -128.6  |  725.0   |  915.2   |  -140.0  |     -407.7   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   24.4   |   29.4   |   18.0   |   24.5   |   21.9  
- QoQ%:  |  111.3   |   20.1   |  -38.8   |   36.0   |  -10.5  
- QOPM%: |   0.0    |   29.8   |   0.0    |   0.0    |   3.4   
- QNPM%: |   0.0    |   26.3   |   0.0    |   0.0    |   1.3   
- QPFT:  |   -1.9   |   7.7    |   -2.5   |   -3.1   |   0.3   
- PQoQ%: |   -0.5   |  -510.1  |  -132.2  |   23.4   |  -109.2 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 21.9		17.4		17.5		21.0		15.9
+QoQ%: 	-10.5		-20.6		0.8		19.9		-24.2
+QOPM%: 	3.4		24.7		0.0		0.0		0.0
+QNPM%: 	1.3		28.9		0.0		0.0		0.0
+QPFT: 	0.3		5.0		-1.6		-1.9		-2.9
+PQoQ%: 	-109.2		1696.4		-131.8		20.6		49.2
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 82% YSales
-- YProfit Turned POSITIVE this year Mar-2024 : 1.3
+- Last 3QSALES is about 67% YSales
+
+***CONS***
+- NEGATIVE YProfit : -0.2

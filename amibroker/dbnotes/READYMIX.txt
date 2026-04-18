@@ -1,11 +1,10 @@
-CODES
-READYMIX	
+CODES	READYMIX	
+FULLNAME : Readymix Construction Machinery Ltd
 SECTOR : Engineering
 INDUSTRY : Engineering
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -14,6 +13,8 @@ ROCE in Mar2024 is at 38.0%
 - LastYr YProfits Doubled and maintained in Mar2024
 
 YSALES in Mar-2024 is at 69.8 showing a QoQ_growth of 27.1%. The YNETPROFIT grew by 233.8% to 9.3
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

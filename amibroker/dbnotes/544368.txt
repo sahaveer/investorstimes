@@ -1,11 +1,11 @@
-CODE	NAME
-544368 
-
+CODES	544368	
+FULLNAME : Swasth Foodtech India Ltd
 SECTOR : Edible Oil
 INDUSTRY : Solvent Extraction
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

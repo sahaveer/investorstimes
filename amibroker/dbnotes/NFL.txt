@@ -1,35 +1,43 @@
-CODES
-523630	NFL	
-SECTOR : Fertilizers
+CODES	523630	NFL	
+FULLNAME : National Fertilizer Ltd
+SECTOR : Fertilizers & Agrochemicals
 INDUSTRY : Fertilizers
+PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  | 13135.4  | 11905.7  | 15857.1  | 29586.6  | 23555.9  |    15338.0   
- SQoQ%:  |   5.7    |   -9.4   |   33.2   |   86.6   |  -20.4   |      65.1    
- YOPM%:  |   6.5    |   7.6    |   2.4    |   3.6    |   2.7    |              
- YNPM%:  |   0.0    |   2.0    |   0.0    |   1.5    |   0.6    |              
-YPROFIT: |  -181.1  |  237.1   |  -95.1   |  458.3   |  150.0   |      49.2    
- PQoQ%:  |  -161.6  |  -230.9  |  -140.1  |  -581.8  |  -67.3   |      32.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  7584.3  |  5284.2  |  5091.8  |  4390.4  |  5855.8 
- QoQ%:  |   34.0   |  -30.3   |   -3.6   |  -13.8   |   33.4  
- QOPM%: |   4.2    |   7.2    |   2.1    |   2.8    |   2.5   
- QNPM%: |   2.0    |   3.9    |   0.0    |   0.3    |   0.8   
- QPFT:  |  150.9   |  207.7   |   -8.7   |   12.1   |   45.8  
- PQoQ%: |  -273.2  |   37.6   |  -104.2  |  -238.9  |  279.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 11905.7		15857.1		29586.6		23555.9		19797.6		17167.1
+SQoQ%: 	-9.4		33.2		86.6		-20.4		-16.0		86.7
+YOPM%: 	7.6		2.4		3.6		2.6		3.1
+YNPM%: 	2.0		0.0		1.5		0.6		0.9
+YPROFIT: 237.1		-95.1		458.3		150.0		184.0		60.0
+PQoQ%: 	-230.9		-140.1		-581.8		-67.3		22.6		32.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 5855.8		4456.5		3534.2		6763.1		6869.8
+QoQ%: 	33.4		-23.9		-20.7		91.4		1.6
+QOPM%: 	2.5		5.3		2.3		1.5		4.3
+QNPM%: 	0.8		3.0		0.0		0.0		2.0
+QPFT: 	45.8		134.8		-39.4		-35.8		135.2
+PQoQ%: 	279.5		194.2		-129.3		-9.2		-477.5
+
+
 
 ***PROS***
-- Last 3QSALES is about 65% YSales
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 87% YSales
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-23555.90cr, QoQ -20.40% & YoY 79.33% SALES;
-627.60cr, QoQ -41.70% & YoY -26.36% OPERATING PROFIT;
-150.00cr, QoQ -67.30% & YoY -182.83% NET PROFIT;
-OPM %: 2.70% vs 3.6%
-NPM %: 0.60% vs 1.5%
+ 31-Mar-2025 #Result
+19797.60cr, QoQ -16.00% & YoY 66.29% SALES;
+615.30cr, QoQ -0.20% & YoY -31.95% OPERATING PROFIT;
+184.00cr, QoQ 22.60% & YoY -22.40% NET PROFIT;
+OPM %: 3.10% vs 2.6%
+NPM %: 0.90% vs 0.6%
 

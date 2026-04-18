@@ -1,30 +1,26 @@
-CODES
-TGL	
-SECTOR : Infrastructure Developers & Operators
+CODES	TGL	
+FULLNAME : Teerth Gopicon Ltd
+SECTOR : Industrials
 INDUSTRY : Construction
 PRODUCT DEMAND
 YSD YPD 2024
-LYPD PM 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+LYPD PM 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 41.3%
 - YProfits and YSales DOUBLED in Mar2024
-- LastYr YProfits Doubled and maintained in Mar2024
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 168.5% while the Profit QoQ_growth is much better than Sales itself at 580.0%
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-104.90cr, QoQ 168.50% & YoY 649.29% SALES;
-18.10cr, QoQ 503.70% & YoY 3520.00% OPERATING PROFIT;
-11.60cr, QoQ 580.00% & YoY 2220.00% NET PROFIT;
-OPM %: 17.30% vs 7.7%
-NPM %: 11.00% vs 4.4%
+ 31-Mar-2025 #Result
+118.30cr, QoQ 12.70% & YoY 156.06% SALES;
+24.60cr, QoQ 35.90% & YoY 2136.36% OPERATING PROFIT;
+12.80cr, QoQ 11.10% & YoY 2460.00% NET PROFIT;
+OPM %: 20.80% vs 17.3%
+NPM %: 10.90% vs 11.0%
 

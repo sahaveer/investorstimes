@@ -1,16 +1,17 @@
-CODE	NAME
-505712 
+CODES	505712	
+FULLNAME : Him Teknoforge Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
 
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
 
 Quarterly 
 31-Dec-2024 #Result

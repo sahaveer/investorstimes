@@ -1,36 +1,42 @@
-CODES
-500078	OAL	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
-BestQ Dec 2024
+CODES	500078	OAL	
+FULLNAME : Oriental Aromatics Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
+PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  759.4   |  708.8   |  872.7   |  853.6   |  842.3   |     675.2    
- SQoQ%:  |   0.9    |   -6.7   |   23.1   |   -2.2   |   -1.3   |      80.2    
- YOPM%:  |   16.9   |   22.0   |   10.7   |   6.5    |   5.6    |              
- YNPM%:  |   11.4   |   14.5   |   6.2    |   2.4    |   1.1    |              
-YPROFIT: |   86.8   |  102.4   |   54.1   |   20.6   |   9.5    |      38.6    
- PQoQ%:  |   73.9   |   18.1   |  -47.2   |  -61.9   |  -54.0   |     406.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  197.4   |  216.5   |  215.8   |  236.8   |  222.6  
- QoQ%:  |  -13.0   |   9.7    |   -0.3   |   9.7    |   -6.0  
- QOPM%: |   7.2    |   9.7    |   10.6   |   12.2   |   10.9  
- QNPM%: |   1.4    |   4.7    |   5.4    |   6.9    |   4.8   
- QPFT:  |   2.7    |   10.2   |   11.6   |   16.3   |   10.7  
- PQoQ%: |   8.4    |  276.4   |   14.1   |   40.1   |  -34.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 708.8		872.7		853.6		842.3		934.7		748.4
+SQoQ%: 	-6.7		23.1		-2.2		-1.3		11.0		80.1
+YOPM%: 	22.0		10.6		6.4		5.6		10.0
+YNPM%: 	14.4		6.1		2.3		1.1		3.7
+YPROFIT: 101.9		53.3		19.7		9.1		34.3		-0.7
+PQoQ%: 	18.3		-47.7		-63.0		-53.9		277.3		-2.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 222.6		253.2		225.5		271.3		251.6
+QoQ%: 	-6.0		13.7		-10.9		20.3		-7.3
+QOPM%: 	10.1		7.6		8.0		6.4		5.3
+QNPM%: 	3.2		0.6		0.2		0.3		0.0
+QPFT: 	7.1		1.4		0.5		0.7		-1.9
+PQoQ%: 	-51.7		-80.1		-64.8		48.0		-359.5
+
+
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
 - Last 3QSALES is about 80% YSales
-- Last 3QPROFIT is about 406% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-842.30cr, QoQ -1.30% & YoY 10.92% SALES;
-47.40cr, QoQ -14.20% & YoY -63.06% OPERATING PROFIT;
-9.50cr, QoQ -54.00% & YoY -89.06% NET PROFIT;
-OPM %: 5.60% vs 6.5%
-NPM %: 1.10% vs 2.4%
+ 31-Mar-2025 #Result
+934.70cr, QoQ 11.00% & YoY 31.87% SALES;
+93.50cr, QoQ 99.10% & YoY -39.99% OPERATING PROFIT;
+34.30cr, QoQ 277.30% & YoY -66.34% NET PROFIT;
+OPM %: 10.00% vs 5.6%
+NPM %: 3.70% vs 1.1%
 

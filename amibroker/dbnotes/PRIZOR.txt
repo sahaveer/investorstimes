@@ -1,10 +1,11 @@
-CODES
-PRIZOR	
+CODES	PRIZOR	
+FULLNAME : Prizor Viztech Ltd
 SECTOR : Consumer Durables
 INDUSTRY : Electronics - Consumer
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

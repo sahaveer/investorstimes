@@ -1,13 +1,14 @@
-CODE	NAME
-511700 
-
+CODES	511700	
+FULLNAME : Standard Capital Markets Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

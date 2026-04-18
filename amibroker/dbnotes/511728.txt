@@ -1,35 +1,34 @@
-CODE	NAME
-511728 
-
+CODES	511728	
+FULLNAME : K Z Leasing & Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
+YSD YPD 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.1    |   1.3    |   2.2    |   2.0    |   0.6    |      0.5     
- SQoQ%:  |   28.7   |   17.0   |   71.0   |  -12.9   |  -68.7   |      83.3    
- YOPM%:  |   56.2   |   50.4   |   34.8   |   46.7   |   0.0    |              
- YNPM%:  |   21.4   |   11.5   |   9.8    |   14.9   |  118.0   |              
-YPROFIT: |   0.2    |   0.2    |   0.2    |   0.3    |   0.7    |      -0.7    
- PQoQ%:  |  380.0   |  -37.5   |   46.7   |   31.8   |  148.3   |     -100.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.3    |   -0.0   |   0.1    |   0.2    |   0.2   
- QoQ%:  |   58.8   |  -103.7  | -1300.0  |   50.0   |   27.8  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |  137.0   |   0.0    |  1783.3  |  650.0   |   0.0   
- QPFT:  |   0.4    |   -1.6   |   2.1    |   1.2    |   -4.0  
- PQoQ%: |   8.8    |  -543.2  |  -230.5  |  -45.3   |  -445.3 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.3		2.2		2.0		4.9		2.3		0.3
+SQoQ%: 	17.0		71.0		-12.9		149.2		-52.1		13.0
+YOPM%: 	50.4		34.8		46.7		44.4		9.0
+YNPM%: 	11.5		9.8		14.9		14.8		0.0
+YPROFIT: 0.2		0.2		0.3		0.7		-0.2		-0.9
+PQoQ%: 	-37.5		46.7		31.8		148.3		-126.4		450.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.2		0.2		0.1		0.1		0.1
+QoQ%: 	27.8		-26.1		-17.6		-28.6		0.0
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		323.5		450.0		0.0		0.0
+QPFT: 	-4.0		0.6		0.6		-0.9		-0.6
+PQoQ%: 	-445.3		-113.6		14.5		-236.5		-31.4
+
+
 
 ***PROS***
-- Last 3QSALES is about 83% YSales
+- YProfits and YSales DOUBLED in Mar2024
 
-Yearly 
- 31-Mar-2024 #Result
-0.60cr, QoQ -68.70% & YoY -45.45% SALES;
--2.10cr, QoQ -329.70% & YoY -450.00% OPERATING PROFIT;
-0.70cr, QoQ 148.30% & YoY 250.00% NET PROFIT;
-OPM %: 0.00% vs 46.7%
-NPM %: 118.00% vs 14.9%
-
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -0.2

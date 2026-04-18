@@ -1,38 +1,49 @@
-CODES
-543919	MKPL	
-SECTOR : 
-INDUSTRY : 
+CODES	543919	MKPL	
+FULLNAME : M K Proteins Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Edible Oil
 EXPANSION 2024
 EXPANSION 2025
 PRODUCT DEMAND
+BestQ Dec 2025
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  311.1   |  255.9   |  314.8   |  245.2   |  267.7  
- SQoQ%:  |   60.3   |  -17.7   |   23.0   |  -22.1   |   9.2   
- YOPM%:  |   5.1    |   6.1    |   5.5    |   6.8    |   4.6   
- YNPM%:  |   3.3    |   4.0    |   3.5    |   4.6    |   3.1   
-YPROFIT: |   10.4   |   10.2   |   10.9   |   11.2   |   8.4   
- PQoQ%:  |  470.9   |   -2.0   |   7.4    |   2.6    |  -25.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   86.9   |   57.3   |   33.7   |   39.5   |  137.2  
- QoQ%:  |   26.2   |  -34.0   |  -41.2   |   17.2   |  247.5  
- QOPM%: |   9.7    |   6.5    |   6.6    |   4.5    |   3.4   
- QNPM%: |   6.7    |   4.3    |   5.2    |   3.5    |   2.0   
- QPFT:  |   5.8    |   2.5    |   1.7    |   1.4    |   2.8   
- PQoQ%: |  135.1   |  -57.5   |  -29.8   |  -20.7   |  102.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 311.1		255.9		314.8		245.2		267.7		237.0
+SQoQ%: 	60.3		-17.7		23.0		-22.1		9.2		88.5
+YOPM%: 	5.1		6.1		5.5		6.8		4.7
+YNPM%: 	3.3		4.0		3.5		4.6		3.1
+YPROFIT: 10.4		10.2		10.9		11.2		8.4		5.7
+PQoQ%: 	470.9		-2.0		7.4		2.6		-25.1		67.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 39.5		137.2		115.0		32.4		89.6
+QoQ%: 	17.2		247.5		-16.2		-71.8		176.2
+QOPM%: 	4.5		3.4		4.8		3.2		2.6
+QNPM%: 	3.5		2.0		3.1		2.3		1.6
+QPFT: 	1.4		2.8		3.5		0.8		1.4
+PQoQ%: 	-20.7		102.9		25.4		-78.6		90.7
+
+
 
 ***PROS***
 EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 89% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 68% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 267.70cr, QoQ 9.20% & YoY -13.95% SALES;
-12.40cr, QoQ -25.30% & YoY -22.50% OPERATING PROFIT;
+12.50cr, QoQ -24.90% & YoY -21.88% OPERATING PROFIT;
 8.40cr, QoQ -25.10% & YoY -19.23% NET PROFIT;
-OPM %: 4.60% vs 6.8%
+OPM %: 4.70% vs 6.8%
 NPM %: 3.10% vs 4.6%
 

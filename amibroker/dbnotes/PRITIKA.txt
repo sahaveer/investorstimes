@@ -1,12 +1,14 @@
-CODES
-PRITIKA	
-SECTOR : Castings, Forgings & Fastners
-INDUSTRY : Castings & Forgings
+CODES	PRITIKA	
+FULLNAME : Pritika Engineering Components Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

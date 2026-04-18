@@ -1,15 +1,16 @@
-CODE	NAME
-526773 
-
-SECTOR : Packaging
-INDUSTRY : Packaging
+CODES	526773	
+FULLNAME : Pressure Sensitive Systems (India) Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 BestQ Sep 2024
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - QSales and QProfit doubled
+
+***CONS***

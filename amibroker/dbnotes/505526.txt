@@ -1,42 +1,48 @@
-CODES
-505526	DOLATALGO	
-SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+CODES	505526	DOLATALGO	
+FULLNAME : Dolat Algotech Ltd
+SECTOR : Capital Markets
+INDUSTRY : Stockbroking & Allied
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  157.8   |  285.4   |  322.1   |  279.1   |  376.8   |     416.0    
- SQoQ%:  |   36.3   |   80.9   |   12.9   |  -13.4   |   35.0   |     110.4    
- YOPM%:  |   74.6   |   79.5   |   79.5   |   68.0   |   66.1   |              
- YNPM%:  |   45.0   |   51.4   |   52.0   |   41.6   |   41.8   |              
-YPROFIT: |   71.0   |  146.7   |  167.4   |  116.0   |  157.3   |     175.8    
- PQoQ%:  |   40.5   |  106.5   |   14.1   |  -30.7   |   35.6   |     111.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   99.4   |  144.0   |  151.7   |  145.6   |  118.7  
- QoQ%:  |   15.4   |   44.9   |   5.4    |   -4.1   |  -18.4  
- QOPM%: |   64.8   |   72.2   |   72.6   |   71.6   |   54.5  
- QNPM%: |   41.7   |   47.3   |   47.2   |   45.8   |   31.5  
- QPFT:  |   41.4   |   68.0   |   71.7   |   66.7   |   37.4  
- PQoQ%: |   18.5   |   64.2   |   5.3    |   -6.9   |  -44.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 285.4		322.1		279.1		376.8		529.9		277.7
+SQoQ%: 	80.9		12.9		-13.4		35.0		40.6		52.4
+YOPM%: 	79.5		79.5		68.0		66.1		65.6
+YNPM%: 	51.4		52.0		41.6		41.8		40.7
+YPROFIT: 146.7		167.4		116.0		157.3		215.4		82.2
+PQoQ%: 	106.5		14.1		-30.7		35.6		36.9		38.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 118.7		113.9		110.6		58.9		108.2
+QoQ%: 	-18.4		-4.0		-2.9		-46.7		83.6
+QOPM%: 	54.5		60.2		58.8		34.1		60.5
+QNPM%: 	31.5		34.8		35.1		7.7		36.0
+QPFT: 	37.4		39.7		38.8		4.5		38.9
+PQoQ%: 	-44.0		6.1		-2.2		-88.4		762.3
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 23.3%
+ROCE in Mar2025 is at 26.6%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 110% YSales
-- Last 3QPROFIT is about 112% of YProfit
+- Last 3QSALES is about 52% YSales
+- Double QSales and QProfit
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 40.6% while the Profit QoQ_growth is at 36.9%
 
-
-YSALES in Mar-2024 is at 376.8 showing a QoQ_growth of 35.0%. The YNETPROFIT grew by 35.6% to 157.3
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-376.80cr, QoQ 35.00% & YoY 138.78% SALES;
-249.20cr, QoQ 31.30% & YoY 111.72% OPERATING PROFIT;
-157.30cr, QoQ 35.60% & YoY 121.55% NET PROFIT;
-OPM %: 66.10% vs 68.0%
-NPM %: 41.80% vs 41.6%
+ 31-Mar-2025 #Result
+529.90cr, QoQ 40.60% & YoY 85.67% SALES;
+347.70cr, QoQ 39.60% & YoY 53.17% OPERATING PROFIT;
+215.40cr, QoQ 36.90% & YoY 46.83% NET PROFIT;
+OPM %: 65.60% vs 66.1%
+NPM %: 40.70% vs 41.8%
 

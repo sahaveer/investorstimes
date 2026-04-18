@@ -1,33 +1,39 @@
-CODES
-544207	RELIABLE	
+CODES	544207	RELIABLE	
+FULLNAME : Reliable Data Services Ltd
 SECTOR : IT - Software
 INDUSTRY : Computers - Software - Medium / Small
 EXPANSION 2023
 EXPANSION 2024
 BestQ Dec 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   45.9   |   44.4   |   53.4   |   72.8   |   79.4   |      77.6    
- SQoQ%:  |   -1.6   |   -3.4   |   20.2   |   36.4   |   9.0    |      97.7    
- YOPM%:  |   16.1   |   9.2    |   14.2   |   12.7   |   16.5   |              
- YNPM%:  |   7.2    |   3.7    |   6.5    |   5.5    |   5.7    |              
-YPROFIT: |   3.3    |   1.7    |   3.5    |   4.0    |   4.5    |      6.7     
- PQoQ%:  |  -22.2   |  -49.7   |  109.6   |   14.1   |   13.9   |     148.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   20.5   |   27.8   |   20.5   |   23.7   |   33.4  
- QoQ%:  |   13.7   |   35.5   |  -26.5   |   15.9   |   40.9  
- QOPM%: |   13.2   |   17.0   |   18.0   |   12.6   |   20.7  
- QNPM%: |   3.6    |   5.6    |   6.3    |   5.4    |   12.3  
- QPFT:  |   0.7    |   1.6    |   1.3    |   1.3    |   4.1   
- PQoQ%: |  -41.1   |  115.1   |  -18.5   |   0.0    |  221.9  
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2022	Mar-2023	Mar-2024	QSUM:Dec-2024
+YSALES: 	45.9		44.4		53.4		72.8		79.4		77.6
+SQoQ%: 	-1.6		-3.4		20.2		36.4		9.0		97.7
+YOPM%: 	16.1		9.2		14.2		12.7		16.5
+YNPM%: 	7.2		3.7		6.5		5.5		5.7
+YPROFIT: 	3.3		1.7		3.5		4.0		4.5		6.7
+PQoQ%: 	-22.2		-49.7		109.6		14.1		13.9		148.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2023		Mar-2024	Jun-2024	Sep-2024		Dec-2024
+QSALES: 	20.5		27.8		20.5		23.7		33.4
+QoQ%: 	13.7		35.5		-26.5		15.9		40.9
+QOPM%: 	13.2		17.0		18.0		12.6		20.7
+QNPM%: 	3.6		5.6		6.3		5.4		12.3
+QPFT: 	0.7		1.6		1.3		1.3		4.1
+PQoQ%: 	-41.1		115.1		-18.5		0.0		221.9
+
+
 
 ***PROS***
 EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
 - Last 3QSALES is about 98% YSales
 - Last 3QPROFIT is about 149% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

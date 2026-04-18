@@ -1,17 +1,17 @@
-CODE	NAME
-544035 
-
+CODES	544035	
+FULLNAME : Swashthik Plascon Ltd
 SECTOR : Plastic products
 INDUSTRY : Plastics Products
 LYPD PM 2024
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 - LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

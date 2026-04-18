@@ -1,33 +1,40 @@
-CODES
-507205	TI	
-SECTOR : Alcoholic Beverages
+CODES	507205	TI	
+FULLNAME : Tilaknagar Industries Ltd
+SECTOR : Beverages
 INDUSTRY : Breweries & Distilleries
 PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  548.8   |  783.4   |  1164.4  |  1394.0  |  1434.2 
- SQoQ%:  |  -15.9   |   42.8   |   48.6   |   19.7   |   2.9   
- YOPM%:  |   9.9    |   14.3   |   11.8   |   13.3   |   17.8  
- YNPM%:  |   0.0    |   5.8    |   12.9   |   9.9    |   16.0  
-YPROFIT: |  -38.4   |   45.2   |  149.9   |  138.0   |  229.6  
- PQoQ%:  |  -114.2  |  -217.7  |  231.7   |   -7.9   |   66.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  358.8   |  313.1   |  374.9   |  340.4   |  405.8  
- QoQ%:  |   -4.8   |  -12.7   |   19.7   |   -9.2   |   19.2  
- QOPM%: |   13.4   |   16.0   |   17.6   |   17.7   |   19.3  
- QNPM%: |   8.8    |   12.8   |   15.5   |   15.8   |   19.1  
- QPFT:  |   31.4   |   40.1   |   58.2   |   53.9   |   77.4  
- PQoQ%: |  -28.1   |   27.5   |   45.2   |   -7.4   |   43.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 548.8		783.4		1164.4		1394.0		1434.2		1471.0
+SQoQ%: 	-15.9		42.8		48.6		19.7		2.9		102.6
+YOPM%: 	9.9		14.3		11.8		13.3		17.8
+YNPM%: 	0.0		5.8		12.9		9.9		16.0
+YPROFIT: -38.4		45.2		149.9		138.0		229.6		35.8
+PQoQ%: 	-114.2		-217.7		231.7		-7.9		66.4		15.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 340.4		405.8		409.1		398.2		663.7
+QoQ%: 	-9.2		19.2		0.8		-2.7		66.7
+QOPM%: 	17.7		19.3		23.1		15.1		16.6
+QNPM%: 	15.8		19.1		21.6		13.2		0.0
+QPFT: 	53.9		77.4		88.5		52.7		-105.4
+PQoQ%: 	-7.4		43.4		14.4		-40.5		-300.1
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 25.1%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 103% YSales
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

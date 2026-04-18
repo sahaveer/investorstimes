@@ -1,13 +1,14 @@
-CODE	NAME
-538975 
-
+CODES	538975	
+FULLNAME : Shree Securities Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

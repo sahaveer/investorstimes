@@ -1,15 +1,15 @@
-CODE	NAME
-543613 
-
+CODES	543613	
+FULLNAME : Mafia Trends Ltd
 SECTOR : Retail
 INDUSTRY : Trading
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

@@ -1,15 +1,17 @@
-CODES
-532651	SPLIL	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	532651	SPLIL	
+FULLNAME : SPL Industries Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Trading - Textile Products
 PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -70.1
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+
+***CONS***
+- NEGATIVE YProfit : -70.1

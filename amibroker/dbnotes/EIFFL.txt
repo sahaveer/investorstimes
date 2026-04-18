@@ -1,38 +1,44 @@
-CODES
-EIFFL	
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
+CODES	EIFFL	
+FULLNAME : Euro India Fresh Foods Ltd
+SECTOR : Food Products
+INDUSTRY : Packaged Foods
 PRODUCT DEMAND
-BestQ Dec 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   92.8   |   98.2   |  116.4   |  143.0   |  111.2   |     108.7    
- SQoQ%:  |   29.6   |   5.9    |   18.5   |   22.8   |  -22.2   |      97.8    
- YOPM%:  |   5.4    |   6.5    |   6.5    |   5.5    |   8.4    |              
- YNPM%:  |   0.4    |   1.3    |   1.2    |   0.8    |   2.0    |              
-YPROFIT: |   0.4    |   1.3    |   1.4    |   1.2    |   2.2    |      3.1     
- PQoQ%:  |  -60.2   |  277.1   |   5.3    |  -12.9   |   81.0   |     140.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   30.1   |   26.4   |   28.2   |   32.7   |   47.8  
- QoQ%:  |   12.0   |  -12.5   |   7.2    |   15.8   |   46.0  
- QOPM%: |   9.0    |   8.9    |   7.4    |   7.8    |   8.0   
- QNPM%: |   3.6    |   0.0    |   1.7    |   2.4    |   3.7   
- QPFT:  |   1.1    |   -0.2   |   0.5    |   0.8    |   1.8   
- PQoQ%: |   31.7   |  -113.9  |  -426.7  |   59.2   |  124.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 98.2		116.4		143.0		111.2		143.7		92.1
+SQoQ%: 	5.9		18.5		22.8		-22.2		29.2		64.1
+YOPM%: 	6.5		6.5		5.5		8.4		9.3
+YNPM%: 	1.3		1.2		0.8		2.0		3.9
+YPROFIT: 1.3		1.4		1.2		2.2		5.6		0.3
+PQoQ%: 	277.1		5.3		-12.9		81.0		155.7		5.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 47.8		35.0		31.2		32.5		28.4
+QoQ%: 	46.0		-26.8		-10.9		4.2		-12.6
+QOPM%: 	8.0		14.2		7.1		2.5		10.3
+QNPM%: 	3.7		7.4		1.1		0.0		3.2
+QPFT: 	1.8		2.6		0.3		-0.9		0.9
+PQoQ%: 	124.4		47.4		-87.2		-372.7		-200.0
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 98% YSales
-- Last 3QPROFIT is about 141% of YProfit
+- Last 3QSALES is about 64% YSales
+
+YSALES in Mar-2025 is at 143.7 showing a QoQ_growth of 29.2%. The YNETPROFIT grew by 155.7% to 5.6
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-111.20cr, QoQ -22.20% & YoY 19.83% SALES;
-9.30cr, QoQ 19.20% & YoY 86.00% OPERATING PROFIT;
-2.20cr, QoQ 81.00% & YoY 450.00% NET PROFIT;
-OPM %: 8.40% vs 5.5%
-NPM %: 2.00% vs 0.8%
+ 31-Mar-2025 #Result
+143.70cr, QoQ 29.20% & YoY 46.33% SALES;
+13.40cr, QoQ 43.80% & YoY 109.38% OPERATING PROFIT;
+5.60cr, QoQ 155.70% & YoY 330.77% NET PROFIT;
+OPM %: 9.30% vs 8.4%
+NPM %: 3.90% vs 2.0%
 

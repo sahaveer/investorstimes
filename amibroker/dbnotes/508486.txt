@@ -1,42 +1,45 @@
-CODE	NAME
-508486 
-
+CODES	508486	
+FULLNAME : Hawkins Cookers Ltd
 SECTOR : Consumer Durables
-INDUSTRY : Domestic Appliances
-PRODUCT DEMAND
-BestQ Dec 2024
+INDUSTRY : Houseware
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  673.9   |  768.5   |  958.0   |  1005.8  |  1024.2  |     809.0    
- SQoQ%:  |   3.2    |   14.0   |   24.7   |   5.0    |   1.8    |      79.0    
- YOPM%:  |   15.4   |   14.4   |   12.5   |   13.5   |   14.7   |              
- YNPM%:  |   10.8   |   10.5   |   8.8    |   9.4    |   10.7   |              
-YPROFIT: |   72.5   |   80.6   |   83.9   |   94.8   |  109.8   |      80.3    
- PQoQ%:  |   33.7   |   11.2   |   4.0    |   13.0   |   15.9   |      73.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  272.4   |  276.8   |  227.5   |  295.8   |  285.7  
- QoQ%:  |   0.3    |   1.6    |  -17.8   |   30.0   |   -3.4  
- QOPM%: |   9.9    |   16.6   |   14.6   |   15.4   |   10.0  
- QNPM%: |   7.2    |   12.3   |   11.0   |   11.5   |   7.4   
- QPFT:  |   19.7   |   34.1   |   25.0   |   34.1   |   21.2  
- PQoQ%: |  -44.0   |   73.2   |  -26.6   |   36.0   |  -37.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 768.5		958.0		1005.8		1024.2		1115.8		887.6
+SQoQ%: 	14.0		24.7		5.0		1.8		8.9		79.5
+YOPM%: 	14.4		12.5		13.5		14.7		13.8
+YNPM%: 	10.5		8.8		9.4		10.7		10.3
+YPROFIT: 80.6		83.9		94.8		109.8		114.7		91.4
+PQoQ%: 	11.2		4.0		13.0		15.9		4.4		79.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 285.7		306.7		239.1		316.5		332.0
+QoQ%: 	-3.4		7.3		-22.0		32.4		4.9
+QOPM%: 	10.0		15.3		14.6		13.9		14.0
+QNPM%: 	7.4		11.2		10.8		10.1		10.1
+QPFT: 	21.2		34.4		25.9		32.0		33.5
+PQoQ%: 	-37.8		62.1		-24.5		23.2		4.9
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 29.4%
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 79% YSales
-- Last 3QPROFIT is about 73% of YProfit
+ROCE in Mar2025 is at 27.1%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 80% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1024.20cr, QoQ 1.80% & YoY 51.98% SALES;
-150.20cr, QoQ 11.00% & YoY 44.56% OPERATING PROFIT;
-109.80cr, QoQ 15.90% & YoY 51.45% NET PROFIT;
-OPM %: 14.70% vs 13.5%
-NPM %: 10.70% vs 9.4%
+ 31-Mar-2025 #Result
+1115.80cr, QoQ 8.90% & YoY 45.19% SALES;
+154.50cr, QoQ 2.90% & YoY 39.44% OPERATING PROFIT;
+114.70cr, QoQ 4.40% & YoY 42.31% NET PROFIT;
+OPM %: 13.80% vs 14.7%
+NPM %: 10.30% vs 10.7%
 

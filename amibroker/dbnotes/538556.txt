@@ -1,27 +1,34 @@
-CODE	NAME
-538556 
+CODES	538556	
+FULLNAME : Arman Holdings Ltd
+SECTOR : Finance
+INDUSTRY : Investment Company
+PRODUCT DEMAND
 
-SECTOR : Trading
-INDUSTRY : Trading
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.6		4.1		4.2		4.4		3.7		1.8
+SQoQ%: 	-61.5		159.2		2.2		5.5		-16.4		48.6
+YOPM%: 	0.6		1.0		1.0		0.7		0.0
+YNPM%: 	0.0		0.5		0.5		0.5		0.0
+YPROFIT: 0.0		0.0		0.0		0.0		-0.0		0.3
+PQoQ%: 	-100.0		inf		0.0		0.0		-200.0		-inf
 
-***CONS***
-- NO PRODUCT DEMAND
-  YPNL   |  :  | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+-----+----------+----------+----------+----------+----------+--------------
-YSALES:  | 4.1 |   1.6    |   4.1    |   4.2    |   4.4    |   0.0    |              
- SQoQ%:  | 8.2 |  -61.5   |  159.2   |   2.2    |   5.5    |   0.0    |              
- YOPM%:  | 0.7 |   0.6    |   1.0    |   1.0    |   0.7    |          |              
- YNPM%:  | 0.7 |   0.0    |   0.5    |   0.5    |   0.5    |          |              
-YPROFIT: | 0.0 |   0.0    |   0.0    |   0.0    |   0.0    |   -0.1   |              
- PQoQ%:  | 0.0 |  -100.0  |   inf    |   0.0    |   0.0    |   -inf   |              
-  QPNL  |   :    | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+--------+----------+----------+----------+----------+---------
-QSALES: |  0.2   |   0.8    |   0.0    |   0.0    |   0.0    |         
- QoQ%:  | -84.3  |  216.7   |  -100.0  |   nan    |   nan    |         
- QOPM%: |  0.0   |   1.3    |   0.0    |   0.0    |   0.0    |         
- QNPM%: |  0.0   |   1.3    |   0.0    |   0.0    |   0.0    |         
- QPFT:  |  0.0   |   0.0    |   -0.1   |   -0.0   |   -0.0   |         
- PQoQ%: | -100.0 |   inf    |  -800.0  |  -57.1   |   33.3   |         
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		3.7		0.3		0.4		1.1
+QoQ%: 	nan		inf		-91.0		6.1		214.3
+QOPM%: 	0.0		3.5		0.0		2.9		38.2
+QNPM%: 	0.0		3.5		0.0		2.9		29.1
+QPFT: 	-0.0		0.1		-0.0		0.0		0.3
+PQoQ%: 	33.3		-425.0		-107.7		-200.0		3100.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+
+***CONS***

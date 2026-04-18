@@ -1,27 +1,33 @@
-CODES
-532798	NETWORK18	
-SECTOR : Media - Print/Television/Radio
-INDUSTRY : Entertainment / Electronic Media Software
+CODES	532798	NETWORK18	
+FULLNAME : Network 18 Media & Investments Ltd
+SECTOR : Entertainment
+INDUSTRY : Media & Entertainment
 PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -1687.0
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  4705.1  |  5880.2  |  6223.0  |  9297.4  |  6887.9 
- SQoQ%:  |  -12.2   |   25.0   |   5.8    |   49.4   |  -25.9  
- YOPM%:  |   16.4   |   18.4   |   2.2    |   0.0    |   0.0   
- YNPM%:  |   0.7    |   3.5    |   0.0    |   0.0    |   0.0   
-YPROFIT: |   32.3   |  207.5   |  -84.3   |  -206.3  | -1687.0 
- PQoQ%:  |  -113.6  |  542.9   |  -140.6  |  144.8   |  717.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2419.3  |  3140.9  |  1825.2  |  1360.5  |  561.3  
- QoQ%:  |   36.4   |   29.8   |  -41.9   |  -25.5   |  -58.7  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   3.4   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |  -110.1  |  -125.4  |  -95.8   | -1435.4  |  -30.3  
- PQoQ%: |   87.2   |   13.9   |  -23.6   |  1397.8  |  -97.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 4705.1		5880.2		6223.0		9297.4		6887.9		1505.1
+SQoQ%: 	-12.2		25.0		5.8		49.4		-25.9		21.9
+YOPM%: 	16.4		18.4		2.2		0.0		0.0
+YNPM%: 	0.7		3.5		0.0		0.0		0.0
+YPROFIT: 32.3		207.5		-84.3		-206.3		-1687.0		182.7
+PQoQ%: 	-113.6		542.9		-140.6		144.8		717.7		-10.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1360.5		561.3		467.9		497.8		539.4
+QoQ%: 	-25.5		-58.7		-16.7		6.4		8.3
+QOPM%: 	0.0		3.4		0.9		0.0		1.8
+QNPM%: 	0.0		0.0		31.6		8.2		0.0
+QPFT: 	-1435.4		-30.3		148.0		40.7		-6.0
+PQoQ%: 	1397.8		-97.9		-588.4		-72.5		-114.7
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+
+***CONS***
+- NEGATIVE YProfit : -1687.0

@@ -1,10 +1,11 @@
-CODES
-DIVINEHIRA	
+CODES	DIVINEHIRA	
+FULLNAME : Divine Hira Jewellers Ltd
 SECTOR : Diamond, Gems and Jewellery
 INDUSTRY : Diamond Cutting / Jewellery
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

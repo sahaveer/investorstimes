@@ -1,12 +1,11 @@
-CODES
-NEPHROCARE	
+CODES	NEPHROCARE	
+FULLNAME : Nephro Care India Ltd
 SECTOR : Healthcare
 INDUSTRY : Healthcare
 YSD YPD 2023
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -18,6 +17,8 @@ ROCE in Mar2024 is at 55.2%
 - LastYr YProfits Doubled and maintained in Mar2024
 
 YSALES in Mar-2024 is at 27.2 showing a QoQ_growth of 59.3%. The YNETPROFIT grew by 86.1% to 4.4
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

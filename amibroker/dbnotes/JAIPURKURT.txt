@@ -1,38 +1,45 @@
-CODES
-JAIPURKURT	
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
+CODES	JAIPURKURT	
+FULLNAME : Nandani Creation Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Garments & Apparels
 LYPD PM 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 47.7		62.6		48.8		45.1		69.6		82.5
+SQoQ%: 	3.3		31.4		-22.0		-7.6		54.4		118.5
+YOPM%: 	9.7		4.6		7.9		9.4		13.1
+YNPM%: 	3.4		0.8		0.2		1.2		5.3
+YPROFIT: 1.6		0.5		0.1		0.6		3.7		1.2
+PQoQ%: 	89.4		-68.9		-78.0		409.1		562.5		32.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 13.4		19.8		27.2		28.4		26.9
+QoQ%: 	-27.1		47.4		37.3		4.4		-5.2
+QOPM%: 	15.2		8.9		7.8		6.9		6.7
+QNPM%: 	4.9		3.4		2.7		1.0		0.9
+QPFT: 	0.7		0.7		0.7		0.3		0.2
+PQoQ%: 	-45.9		3.0		5.9		-61.1		-17.9
+
+
+
+***PROS***
+- Last 3QSALES is about 119% YSales
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 69.6 showing a QoQ_growth of 54.4%. The YNETPROFIT grew by 562.5% to 3.7
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   47.7   |   62.6   |   48.8   |   45.1   |   69.6  
- SQoQ%:  |   3.3    |   31.4   |  -22.0   |   -7.7   |   54.4  
- YOPM%:  |   9.7    |   4.6    |   7.9    |   9.5    |   13.1  
- YNPM%:  |   3.4    |   0.8    |   0.2    |   1.2    |   5.3   
-YPROFIT: |   1.6    |   0.5    |   0.1    |   0.6    |   3.7   
- PQoQ%:  |   89.4   |  -68.9   |  -78.0   |  400.0   |  574.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   19.6   |   18.0   |   18.4   |   13.4   |   19.8  
- QoQ%:  |  133.5   |   -7.9   |   2.0    |  -27.1   |   47.4  
- QOPM%: |   22.9   |   14.5   |   14.7   |   15.2   |   8.9   
- QNPM%: |   14.0   |   6.3    |   6.6    |   4.9    |   3.4   
- QPFT:  |   2.7    |   1.1    |   1.2    |   0.7    |   0.7   
- PQoQ%: |  508.9   |  -58.4   |   7.0    |  -45.9   |   3.0   
-
-***PROS***
-- LastYr YProfits Doubled and maintained in Mar2025
-
-YSALES in Mar-2025 is at 69.6 showing a QoQ_growth of 54.4%. The YNETPROFIT grew by 574.5% to 3.7
 
 Yearly 
  31-Mar-2025 #Result
 69.60cr, QoQ 54.40% & YoY 45.91% SALES;
-9.10cr, QoQ 112.10% & YoY 97.83% OPERATING PROFIT;
-3.70cr, QoQ 574.50% & YoY 131.25% NET PROFIT;
-OPM %: 13.10% vs 9.5%
+9.10cr, QoQ 114.10% & YoY 97.83% OPERATING PROFIT;
+3.70cr, QoQ 562.50% & YoY 131.25% NET PROFIT;
+OPM %: 13.10% vs 9.4%
 NPM %: 5.30% vs 1.2%
 

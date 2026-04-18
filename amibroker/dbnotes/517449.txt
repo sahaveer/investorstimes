@@ -1,39 +1,45 @@
-CODE	NAME
-517449 
-
-SECTOR : Castings, Forgings & Fastners
+CODES	517449	
+FULLNAME : Magna Electro Castings Ltd
+SECTOR : Industrial Products
 INDUSTRY : Castings & Forgings
-BestQ Dec 2024
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   96.3   |   97.8   |  135.8   |  164.6   |  143.7   |     130.9    
- SQoQ%:  |  -21.6   |   1.5    |   38.9   |   21.2   |  -12.7   |      91.1    
- YOPM%:  |   11.3   |   10.3   |   10.0   |   15.6   |   16.3   |              
- YNPM%:  |   6.9    |   5.3    |   5.7    |   10.4   |   10.5   |              
-YPROFIT: |   6.7    |   5.2    |   7.7    |   17.1   |   15.1   |      18.3    
- PQoQ%:  |  -41.3   |  -22.6   |   49.2   |  121.5   |  -11.7   |     121.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   35.2   |   36.4   |   42.2   |   45.6   |   43.1  
- QoQ%:  |   -4.5   |   3.4    |   16.0   |   8.3    |   -5.5  
- QOPM%: |   16.1   |   17.2   |   22.8   |   21.3   |   17.2  
- QNPM%: |   10.0   |   11.3   |   15.9   |   14.7   |   11.3  
- QPFT:  |   3.5    |   4.1    |   6.7    |   6.7    |   4.9   
- PQoQ%: |   -6.4   |   15.9   |   64.3   |   0.0    |  -27.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 97.8		135.8		164.6		143.7		176.4		148.8
+SQoQ%: 	1.5		38.9		21.2		-12.7		22.8		84.4
+YOPM%: 	10.3		10.0		15.6		16.3		19.4
+YNPM%: 	5.3		5.7		10.4		10.5		13.1
+YPROFIT: 5.2		7.7		17.1		15.1		23.1		15.9
+PQoQ%: 	-22.6		49.2		121.5		-11.7		53.0		68.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 43.1		45.5		48.5		52.3		48.0
+QoQ%: 	-5.5		5.5		6.6		7.9		-8.3
+QOPM%: 	17.2		16.3		20.2		18.1		15.3
+QNPM%: 	11.3		10.6		13.7		10.3		7.8
+QPFT: 	4.9		4.8		6.7		5.4		3.8
+PQoQ%: 	-27.7		-0.8		38.2		-18.8		-30.7
+
+
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 91% YSales
-- Last 3QPROFIT is about 121% of YProfit
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 69% of YProfit
+
+YSALES in Mar-2025 is at 176.4 showing a QoQ_growth of 22.8%. The YNETPROFIT grew by 53.0% to 23.1
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-143.70cr, QoQ -12.70% & YoY 49.22% SALES;
-23.40cr, QoQ -9.00% & YoY 116.67% OPERATING PROFIT;
-15.10cr, QoQ -11.70% & YoY 125.37% NET PROFIT;
-OPM %: 16.30% vs 15.6%
-NPM %: 10.50% vs 10.4%
+ 31-Mar-2025 #Result
+176.40cr, QoQ 22.80% & YoY 80.37% SALES;
+34.20cr, QoQ 46.40% & YoY 238.61% OPERATING PROFIT;
+23.10cr, QoQ 53.00% & YoY 344.23% NET PROFIT;
+OPM %: 19.40% vs 16.3%
+NPM %: 13.10% vs 10.5%
 

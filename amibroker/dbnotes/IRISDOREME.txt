@@ -1,34 +1,43 @@
-CODES
-IRISDOREME	
-SECTOR : Readymade Garments/ Apparells
-INDUSTRY : Textiles - Products
+CODES	IRISDOREME	
+FULLNAME : Iris Clothings Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Garments & Apparels
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 86.9		110.0		111.6		120.4		144.1		130.4
+SQoQ%: 	44.4		26.6		1.5		7.8		19.7		90.5
+YOPM%: 	19.3		19.4		17.4		21.9		19.4
+YNPM%: 	7.5		9.2		7.4		10.1		9.1
+YPROFIT: 6.5		10.2		8.3		12.2		13.1		9.7
+PQoQ%: 	65.7		55.4		-18.6		47.8		7.5		74.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 33.4		40.2		37.4		44.3		48.7
+QoQ%: 	-19.1		20.4		-7.0		18.5		9.8
+QOPM%: 	18.1		20.2		14.1		15.9		12.4
+QNPM%: 	7.1		11.1		7.0		9.3		6.2
+QPFT: 	2.4		4.5		2.6		4.1		3.0
+PQoQ%: 	-38.3		89.0		-41.3		56.7		-26.9
+
+
+
+***PROS***
+- Last 3QSALES is about 90% YSales
+- Last 3QPROFIT is about 74% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   86.9   |  110.0   |  111.6   |  120.4   |  146.3  
- SQoQ%:  |   44.4   |   26.6   |   1.5    |   7.8    |   21.5  
- YOPM%:  |   19.3   |   19.4   |   17.4   |   21.9   |   19.1  
- YNPM%:  |   7.5    |   9.2    |   7.4    |   10.1   |   9.0   
-YPROFIT: |   6.5    |   10.2   |   8.3    |   12.2   |   13.1  
- PQoQ%:  |   65.7   |   55.4   |  -18.6   |   47.8   |   7.5   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   42.1   |   31.4   |   41.3   |   33.4   |   40.2  
- QoQ%:  |   79.4   |  -25.4   |   31.3   |  -19.1   |   20.4  
- QOPM%: |   16.8   |   18.9   |   19.2   |   18.1   |   20.2  
- QNPM%: |   8.3    |   7.7    |   9.3    |   7.1    |   11.1  
- QPFT:  |   3.5    |   2.4    |   3.8    |   2.4    |   4.5   
- PQoQ%: |   75.4   |  -30.7   |   58.7   |  -38.3   |   89.0  
-
-***PROS***
 
 Yearly 
  31-Mar-2025 #Result
-146.30cr, QoQ 21.50% & YoY 68.35% SALES;
+144.10cr, QoQ 19.70% & YoY 65.82% SALES;
 28.00cr, QoQ 6.40% & YoY 66.67% OPERATING PROFIT;
 13.10cr, QoQ 7.50% & YoY 101.54% NET PROFIT;
-OPM %: 19.10% vs 21.9%
-NPM %: 9.00% vs 10.1%
+OPM %: 19.40% vs 21.9%
+NPM %: 9.10% vs 10.1%
 

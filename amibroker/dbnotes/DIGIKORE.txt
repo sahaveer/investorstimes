@@ -1,31 +1,15 @@
-CODES
-DIGIKORE	
+CODES	DIGIKORE	
+FULLNAME : Digikore Studios Ltd
 SECTOR : Entertainment
-INDUSTRY : Entertainment / Electronic Media Software
+INDUSTRY : Media & Entertainment
 EXPANSION 2024
-YSD YPD 2022
-LYPD PM 2024
-YS15 YPD 2024
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
-EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 19.6%
-- YProfits and YSales DOUBLED in Mar2022
-- LastYr YProfits Doubled and maintained in Mar2024
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
-As on Mar2024, Sales have increased by 30.5% while the Profit QoQ_growth is much better than Sales itself at 118.3%
+EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
 
-Yearly 
- 31-Mar-2024 #Result
-45.00cr, QoQ 30.50% & YoY 417.24% SALES;
-12.90cr, QoQ 102.20% & YoY 2050.00% OPERATING PROFIT;
-9.50cr, QoQ 118.30% & YoY 9400.00% NET PROFIT;
-OPM %: 28.60% vs 18.5%
-NPM %: 21.20% vs 12.7%
 
+***CONS***
+- NO PRODUCT DEMAND

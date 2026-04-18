@@ -1,29 +1,35 @@
-CODES
-532019	LCCINFOTEC	
-SECTOR : Education
-INDUSTRY : Computers - Education
+CODES	532019	LCCINFOTEC	
+FULLNAME : LCC Infotech Ltd
+SECTOR : Other Consumer Services
+INDUSTRY : Education
 PRODUCT DEMAND
 YSD YPD 2022
 
-***CONS***
-- NEGATIVE YProfit : -53.3
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   4.2    |   0.0    |   1.2    |   1.6    |   1.8    |      0.0     
- SQoQ%:  |  -61.6   |  -99.5   |  5700.0  |   37.9   |   10.0   |      0.0     
- YOPM%:  |   1.6    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -0.0   |   -1.5   |   -0.7   |   -0.6   |  -53.3   |      -1.8    
- PQoQ%:  |   50.0   |  4900.0  |  -50.7   |  -13.5   |  8232.8  |      3.4     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.2    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |  121.2   |  -98.3   |  -50.0   |   0.0    |   0.0   
- QOPM%: |   5.2    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   4.3    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   0.0    |  -35.7   |   -0.3   |   -1.1   |   -0.4  
- PQoQ%: |  -100.3  | -71540.0 |  -99.2   |  303.7   |  -58.7  
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2022	Mar-2023	Mar-2024	QSUM:Dec-2024
+YSALES: 4.2		0.0		1.2		1.6		1.8		0.0
+SQoQ%: 	-61.6		-99.5		5700.0		37.9		10.0		0.0
+YOPM%: 	1.6		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -0.0		-1.5		-0.7		-0.6		-53.3		-1.8
+PQoQ%: 	50.0		4900.0		-50.7		-13.5		8232.8		3.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2023	Mar-2024	Jun-2024	Sep-2024	Dec-2024
+QSALES: 1.2		0.0		0.0		0.0		0.0
+QoQ%: 	121.2		-98.3		-50.0		0.0		0.0
+QOPM%: 	5.2		0.0		0.0		0.0		0.0
+QNPM%: 	4.3		0.0		0.0		0.0		0.0
+QPFT: 	0.0		-35.7		-0.3		-1.1		-0.4
+PQoQ%: 	-100.3		-71540.0		-99.2		303.7		-58.7
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - YProfits and YSales DOUBLED in Mar2022
+
+***CONS***
+- NEGATIVE YProfit : -53.3

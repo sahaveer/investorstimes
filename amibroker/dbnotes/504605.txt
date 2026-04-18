@@ -1,41 +1,45 @@
-CODE	NAME
-504605 
+CODES	504605	
+FULLNAME : Uni Abex Alloy Products Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
+BestQ Dec 2025
 
-SECTOR : Castings, Forgings & Fastners
-INDUSTRY : Castings & Forgings
-PRODUCT DEMAND
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 104.7		136.7		163.0		180.0		193.1		140.5
+SQoQ%: 	2.2		30.5		19.3		10.4		7.3		72.8
+YOPM%: 	19.8		15.5		17.2		27.4		22.8
+YNPM%: 	10.2		9.0		11.4		19.7		17.4
+YPROFIT: 10.7		12.3		18.5		35.5		33.6		22.3
+PQoQ%: 	99.4		15.1		50.7		91.4		-5.3		66.4
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  102.4   |  104.7   |  136.7   |  163.0   |  180.0   |     132.7    
- SQoQ%:  |   14.0   |   2.2    |   30.5   |   19.3   |   10.4   |      73.7    
- YOPM%:  |   18.7   |   19.8   |   15.5   |   17.2   |   27.4   |              
- YNPM%:  |   5.2    |   10.2   |   9.0    |   11.4   |   19.7   |              
-YPROFIT: |   5.4    |   10.7   |   12.3   |   18.5   |   35.5   |      21.0    
- PQoQ%:  |  -43.0   |   99.4   |   15.1   |   50.7   |   91.4   |      59.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   45.1   |   33.6   |   44.0   |   46.6   |   42.1  
- QoQ%:  |  -18.6   |  -25.4   |   30.9   |   6.0    |   -9.7  
- QOPM%: |   31.7   |   14.1   |   22.0   |   22.0   |   19.4  
- QNPM%: |   23.2   |   10.2   |   16.5   |   18.0   |   12.6  
- QPFT:  |   10.5   |   3.4    |   7.3    |   8.4    |   5.3   
- PQoQ%: |  -19.4   |  -67.1   |  111.0   |   15.6   |  -36.9  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 42.1		60.4		39.2		55.8		45.5
+QoQ%: 	-9.7		43.7		-35.2		42.4		-18.4
+QOPM%: 	19.4		26.3		17.4		26.4		12.7
+QNPM%: 	12.6		20.9		14.2		20.1		12.0
+QPFT: 	5.3		12.6		5.6		11.2		5.5
+PQoQ%: 	-36.9		138.9		-56.0		101.4		-51.2
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 30.7%
-- Last 3QSALES is about 74% YSales
-- Last 3QPROFIT is about 59% of YProfit
+ROCE in Mar2025 is at 24.1%
+- Last 3QSALES is about 73% YSales
+- Last 3QPROFIT is about 66% of YProfit
+
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-180.00cr, QoQ 10.40% & YoY 75.78% SALES;
-49.20cr, QoQ 75.40% & YoY 156.25% OPERATING PROFIT;
-35.50cr, QoQ 91.40% & YoY 557.41% NET PROFIT;
-OPM %: 27.40% vs 17.2%
-NPM %: 19.70% vs 11.4%
+ 31-Mar-2025 #Result
+193.10cr, QoQ 7.30% & YoY 84.43% SALES;
+44.00cr, QoQ -10.70% & YoY 111.54% OPERATING PROFIT;
+33.60cr, QoQ -5.30% & YoY 214.02% NET PROFIT;
+OPM %: 22.80% vs 27.4%
+NPM %: 17.40% vs 19.7%
 

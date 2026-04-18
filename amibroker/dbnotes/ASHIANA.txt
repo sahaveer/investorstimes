@@ -1,44 +1,47 @@
-CODES
-523716	ASHIANA	
+CODES	523716	ASHIANA	
+FULLNAME : Ashiana Housing Ltd
 SECTOR : Realty
-INDUSTRY : Construction
-PRODUCT DEMAND
-BestQ Dec 2024
+INDUSTRY : Residential, Commercial Projects
+BestQ Dec 2025
+BestQ Dec 2025
 YSD YPD 2024
-LYPD PM 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  303.6   |  242.0   |  221.7   |  409.7   |  943.8   |     310.8    
- SQoQ%:  |  -10.1   |  -20.3   |   -8.4   |   84.8   |  130.4   |      32.9    
- YOPM%:  |   0.0    |   0.4    |   0.0    |   7.4    |   10.2   |              
- YNPM%:  |   0.0    |   0.7    |   0.0    |   6.8    |   8.8    |              
-YPROFIT: |  -30.2   |   1.7    |   -7.0   |   27.9   |   83.4   |      -2.1    
- PQoQ%:  |  -319.4  |  -105.7  |  -509.3  |  -496.0  |  199.1   |      -2.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  184.5   |  289.7   |  123.1   |   54.5   |  133.2  
- QoQ%:  |  -46.7   |   57.0   |  -57.5   |  -55.7   |  144.2  
- QOPM%: |   17.7   |   7.0    |   0.0    |   0.0    |   12.9  
- QNPM%: |   15.1   |   6.0    |   0.0    |   0.0    |   8.2   
- QPFT:  |   27.8   |   17.4   |   -5.4   |   -7.6   |   10.9  
- PQoQ%: |   1.6    |  -37.5   |  -131.4  |   38.5   |  -244.2 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 242.0		221.7		409.7		943.8		528.7		820.3
+SQoQ%: 	-20.3		-8.4		84.8		130.4		-44.0		155.2
+YOPM%: 	0.4		0.0		7.4		10.2		3.3
+YNPM%: 	0.7		0.0		6.8		8.8		3.4
+YPROFIT: 1.7		-7.0		27.9		83.4		18.2		96.8
+PQoQ%: 	-105.7		-509.3		-496.0		199.1		-78.1		531.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 133.2		217.9		292.8		165.6		361.9
+QoQ%: 	144.2		63.6		34.3		-43.4		118.6
+QOPM%: 	12.9		8.2		4.0		17.6		18.9
+QNPM%: 	8.2		9.3		4.3		16.6		15.7
+QPFT: 	10.9		20.3		12.7		27.5		56.6
+PQoQ%: 	-244.2		86.8		-37.5		116.5		105.7
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 155% YSales
 - Double QSales and QProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- Last 3QPROFIT is about 532% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2024
-- LastYr YProfits Doubled and maintained in Mar2024
 
-YSALES in Mar-2024 is at 943.8 showing a QoQ_growth of 130.4%. The YNETPROFIT grew by 199.1% to 83.4
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-943.80cr, QoQ 130.40% & YoY 210.87% SALES;
-96.60cr, QoQ 219.00% & YoY -843.08% OPERATING PROFIT;
-83.40cr, QoQ 199.10% & YoY -376.16% NET PROFIT;
-OPM %: 10.20% vs 7.4%
-NPM %: 8.80% vs 6.8%
+ 31-Mar-2025 #Result
+528.70cr, QoQ -44.00% & YoY 118.47% SALES;
+17.50cr, QoQ -81.90% & YoY 1844.44% OPERATING PROFIT;
+18.20cr, QoQ -78.10% & YoY 970.59% NET PROFIT;
+OPM %: 3.30% vs 10.2%
+NPM %: 3.40% vs 8.8%
 

@@ -1,13 +1,14 @@
-CODES
-VEEKAYEM	
+CODES	VEEKAYEM	
+FULLNAME : Veekayem Fashion & Apparels Ltd
 SECTOR : Readymade Garments/ Apparells
 INDUSTRY : Textiles - Products
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

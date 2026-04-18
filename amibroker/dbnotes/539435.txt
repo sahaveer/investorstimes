@@ -1,31 +1,45 @@
-CODE	NAME
-539435 
-
+CODES	539435	
+FULLNAME : Richfield Financial Services Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Other Financial Services
+BestQ Dec 2025
 YSD YPD 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.4    |   1.1    |   0.4    |   0.3    |   1.8    |      2.6     
- SQoQ%:  |  -20.0   |  197.2   |  -59.8   |  -20.9   |  423.5   |     144.4    
- YOPM%:  |   0.0    |   47.7   |   34.9   |   8.8    |   44.4   |              
- YNPM%:  |   0.0    |   41.1   |   32.6   |   2.9    |   36.5   |              
-YPROFIT: |   -0.3   |   0.4    |   0.1    |   0.0    |   0.6    |      0.0     
- PQoQ%:  |  -252.6  |  -251.7  |  -68.2   |  -92.9   |  6400.0  |      0.0     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.6    |   0.7    |   0.7    |   0.8    |   1.1   
- QoQ%:  |   40.0   |   19.6   |   10.4   |   6.8    |   41.8  
- QOPM%: |   50.0   |   46.3   |   8.1    |   0.0    |   0.0   
- QNPM%: |   57.1   |   50.7   |   6.8    |   0.0    |   0.9   
- QPFT:  |   0.3    |   0.3    |   0.0    |   -0.0   |   0.0   
- PQoQ%: |   68.4   |   6.2    |  -85.3   |  -160.0  |  -133.3 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.1		0.4		0.3		1.8		4.4		7.9
+SQoQ%: 	197.2		-59.8		-20.9		423.5		144.4		179.5
+YOPM%: 	47.7		34.9		8.8		44.4		21.8
+YNPM%: 	41.1		32.6		2.9		36.5		3.0
+YPROFIT: 0.4		0.1		0.0		0.6		0.1		0.5
+PQoQ%: 	-251.7		-68.2		-92.9		6400.0		-80.0		500.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1.1		1.7		2.2		2.7		3.0
+QoQ%: 	41.8		53.6		27.3		23.7		10.7
+QOPM%: 	0.0		0.0		41.1		46.1		36.0
+QNPM%: 	0.9		6.4		4.1		12.5		3.0
+QPFT: 	0.0		0.1		0.1		0.3		0.1
+PQoQ%: 	-133.3		1000.0		-18.2		277.8		-73.5
+
+
 
 ***PROS***
-- Last 3QSALES is about 144% YSales
+- Last 3QSALES is about 180% YSales
+- Last 3QPROFIT is about 500% of YProfit
 - YProfits and YSales DOUBLED in Mar2024
 
 
-YSALES in Mar-2024 is at 1.8 showing a QoQ_growth of 423.5%. The YNETPROFIT grew by 6400.0% to 0.6
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+4.40cr, QoQ 144.40% & YoY 300.00% SALES;
+0.90cr, QoQ 20.30% & YoY 80.00% OPERATING PROFIT;
+0.10cr, QoQ -80.00% & YoY -75.00% NET PROFIT;
+OPM %: 21.80% vs 44.4%
+NPM %: 3.00% vs 36.5%
+

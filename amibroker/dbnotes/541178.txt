@@ -1,13 +1,12 @@
-CODE	NAME
-541178 
+CODES	541178	
+FULLNAME : Benara Bearings & Pistons Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 
-SECTOR : Bearings
-INDUSTRY : Bearings
-LYPD PM 2024
-
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
+- NO PRODUCT DEMAND

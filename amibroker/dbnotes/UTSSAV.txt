@@ -1,18 +1,19 @@
-CODES
-UTSSAV	
+CODES	UTSSAV	
+FULLNAME : Utssav CZ Gold Jewels Ltd
 SECTOR : Diamond, Gems and Jewellery
 INDUSTRY : Diamond Cutting / Jewellery
 LYPD PM 2024
 PROFIT GROWTH BETTER THAN SALES GROWTH 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - LastYr YProfits Doubled and maintained in Mar2024
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2024, Sales have increased by 42.8% while the Profit QoQ_growth is much better than Sales itself at 79.7%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

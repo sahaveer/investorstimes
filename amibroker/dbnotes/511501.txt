@@ -1,41 +1,34 @@
-CODE	NAME
-511501 
-
+CODES	511501	
+FULLNAME : Bharat Bhushan Finance & Commodity Brokers Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+INDUSTRY : Other Financial Services
 
-***CONS***
-  YPNL   |   :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+-------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  0.6  |   0.4    |   0.5    |   0.6    |   0.7    |   0.4    |              
- SQoQ%:  |  14.0 |  -35.1   |   32.4   |   18.4   |   22.4   |   57.1   |              
- YOPM%:  |  45.6 |   18.9   |   26.5   |   31.0   |   38.0   |          |              
- YNPM%:  |  36.8 |   8.1    |   20.4   |   20.7   |   31.0   |          |              
-YPROFIT: |  0.2  |   0.0    |   0.1    |   0.1    |   0.2    |   0.1    |              
- PQoQ%:  | 162.5 |  -85.7   |  233.3   |   20.0   |   83.3   |   50.0   |              
-  QPNL  |   :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+-------+----------+----------+----------+----------+---------
-QSALES: |  0.2  |   0.2    |   0.2    |   0.2    |   0.0    |         
- QoQ%:  | -21.1 |   40.0   |   14.3   |  -25.0   |  -94.4   |         
- QOPM%: |  20.0 |   42.9   |   58.3   |   50.0   |   0.0    |         
- QNPM%: |  6.7  |   47.6   |   45.8   |   33.3   |   0.0    |         
- QPFT:  |  0.0  |   0.1    |   0.1    |   0.1    |   -0.1   |         
- PQoQ%: | -85.7 |  900.0   |   10.0   |  -45.5   |  -300.0  |         
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.4		0.5		0.6		0.8		0.3		1.0
+SQoQ%: 	-35.1		32.4		18.4		29.3		-57.3		333.3
+YOPM%: 	18.9		26.5		31.0		36.0		0.0
+YNPM%: 	8.1		20.4		20.7		29.3		0.0
+YPROFIT: 0.0		0.1		0.1		0.2		-0.1		0.5
+PQoQ%: 	-85.7		233.3		20.0		83.3		-159.1		-500.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		-0.1		0.6		0.2		0.2
+QoQ%: 	-94.4		-1500.0		-521.4		-64.4		-28.6
+QOPM%: 	0.0		0.0		78.0		47.6		20.0
+QNPM%: 	0.0		0.0		69.5		33.3		26.7
+QPFT: 	-0.1		-0.2		0.4		0.1		0.0
+PQoQ%: 	-300.0		58.3		-315.8		-82.9		-42.9
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 57% YSales
+- Last 3QSALES is about 333% YSales
 
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 22.4% while the Profit QoQ_growth is much better than Sales itself at 83.3%
 
-Yearly 
- 31-Mar-2024 #Result
-0.70cr, QoQ 22.40% & YoY 16.67% SALES;
-0.30cr, QoQ 50.00% & YoY 0.00% OPERATING PROFIT;
-0.20cr, QoQ 83.30% & YoY 0.00% NET PROFIT;
-OPM %: 38.00% vs 31.0%
-NPM %: 31.00% vs 20.7%
-
+***CONS***
+- NEGATIVE YProfit : -0.1

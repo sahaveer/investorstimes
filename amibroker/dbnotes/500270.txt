@@ -1,40 +1,46 @@
-CODE	NAME
-500270 
-
+CODES	500270	
+FULLNAME : Baroda Rayon Corporation Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
 PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   0.0    |   0.0    |   58.4   |   76.8   |      42.9    
- SQoQ%:  |   nan    |   nan    |   nan    |   inf    |   31.5   |      55.9    
- YOPM%:  |   0.0    |   0.0    |   inf    |  406.5   |   12.1   |              
- YNPM%:  |   inf    |   0.0    |   inf    |  466.7   |   44.5   |              
-YPROFIT: |   18.0   |  -123.7  |  374.6   |  272.7   |   34.2   |      16.0    
- PQoQ%:  |  -408.0  |  -785.1  |  -402.9  |  -27.2   |  -87.5   |      46.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   9.0    |   7.1    |   10.5   |   17.3   |   15.1  
- QoQ%:  |   41.0   |  -21.1   |   47.1   |   64.5   |  -12.5  
- QOPM%: |   27.2   |   17.3   |   21.9   |   29.7   |   27.0  
- QNPM%: |  125.8   |   64.8   |   60.1   |   31.4   |   28.2  
- QPFT:  |   11.4   |   4.6    |   6.3    |   5.4    |   4.3   
- PQoQ%: |   13.0   |  -59.4   |   36.4   |  -14.0   |  -21.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		0.0		58.4		76.8		99.6		48.1
+SQoQ%: 	nan		nan		inf		31.5		29.6		48.3
+YOPM%: 	0.0		inf		406.5		12.1		27.5
+YNPM%: 	0.0		inf		466.7		44.5		40.5
+YPROFIT: -123.7		374.6		272.7		34.2		40.4		17.3
+PQoQ%: 	-785.1		-402.9		-27.2		-87.5		17.9		42.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 15.1		56.8		22.4		13.1		12.6
+QoQ%: 	-12.5		275.8		-60.6		-41.6		-3.2
+QOPM%: 	27.0		27.4		33.4		34.5		30.8
+QNPM%: 	28.2		42.9		31.8		46.2		33.5
+QPFT: 	4.3		24.4		7.1		6.0		4.2
+PQoQ%: 	-21.4		471.8		-70.9		-14.9		-30.0
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 56% YSales
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 
+
+YSALES in Mar-2025 is at 99.6 showing a QoQ_growth of 29.6%. The YNETPROFIT grew by 17.9% to 40.4
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-76.80cr, QoQ 31.50% & YoY inf% SALES;
-9.30cr, QoQ -96.10% & YoY -522.73% OPERATING PROFIT;
-34.20cr, QoQ -87.50% & YoY 90.00% NET PROFIT;
-OPM %: 12.10% vs 406.5%
-NPM %: 44.50% vs 466.7%
+ 31-Mar-2025 #Result
+99.60cr, QoQ 29.60% & YoY inf% SALES;
+27.30cr, QoQ 194.40% & YoY -122.34% OPERATING PROFIT;
+40.40cr, QoQ 17.90% & YoY -132.66% NET PROFIT;
+OPM %: 27.50% vs 12.1%
+NPM %: 40.50% vs 44.5%
 

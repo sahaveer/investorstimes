@@ -1,30 +1,35 @@
-CODE	NAME
-517201 
-
-SECTOR : Capital Goods - Electrical Equipment
-INDUSTRY : Electric Equipment
+CODES	517201	
+FULLNAME : Switching Technologies Gunther Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Other Electrical Equipment
 PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -3.2
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   13.0   |   10.9   |   10.6   |   11.5   |   8.7    |      5.9     
- SQoQ%:  |  -28.9   |  -16.5   |   -2.7   |   8.6    |  -24.7   |      67.8    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   98.4   |   0.0    |              
-YPROFIT: |   -1.6   |   -4.0   |   -6.6   |   11.3   |   -3.2   |      -5.3    
- PQoQ%:  |  -427.1  |  156.7   |   64.0   |  -271.6  |  -128.1  |     165.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.9    |   2.0    |   1.9    |   2.0    |   2.0   
- QoQ%:  |  -20.3   |   3.2    |   -4.6   |   6.5    |   1.5   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |  205.6   |   0.0    |   0.0    |   0.0   
- QPFT:  |   -3.3   |   4.0    |   -1.6   |   -1.9   |   -1.8  
- PQoQ%: |   78.9   |  -221.1  |  -140.6  |   17.2   |   -6.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 10.9		10.6		11.5		8.7		7.7		6.1
+SQoQ%: 	-16.5		-2.7		8.6		-24.7		-11.1		79.2
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		98.4		0.0		0.0
+YPROFIT: -4.0		-6.6		11.3		-3.2		-6.7		-5.6
+PQoQ%: 	156.7		64.0		-271.6		-128.1		109.7		83.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2.0		1.9		2.0		2.2		1.9
+QoQ%: 	1.5		-7.0		7.5		10.4		-13.1
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-1.8		-1.4		-1.7		-1.8		-2.1
+PQoQ%: 	-6.8		-23.0		22.6		4.2		20.6
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 68% YSales
+- Last 3QSALES is about 79% YSales
 
+
+***CONS***
+- NEGATIVE YProfit : -6.7

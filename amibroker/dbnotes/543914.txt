@@ -1,26 +1,34 @@
-CODE	NAME
-543914 
-
+CODES	543914	
+FULLNAME : Swati Projects Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.8		1.0		1.5		1.5		1.4		26.6
+SQoQ%: 	nan		22.4		43.3		-1.3		-3.4		1900.0
+YOPM%: 	83.5		65.4		74.5		55.8		27.5
+YNPM%: 	62.4		44.2		57.7		37.4		0.0
+YPROFIT: 0.5		0.5		0.9		0.6		-0.1		4.0
+PQoQ%: 	nan		-13.2		87.0		-36.0		-123.6		-4000.0
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.5		0.2		0.6		23.6		2.4
+QoQ%: 	21.4		-64.7		250.0		3647.6		-90.0
+QOPM%: 	49.0		0.0		0.0		28.2		39.4
+QNPM%: 	45.1		0.0		0.0		16.4		20.8
+QPFT: 	0.2		-0.1		-0.4		3.9		0.5
+PQoQ%: 	-8.0		-156.5		238.5		-981.8		-87.4
 
 
 
 ***PROS***
-- Last 3QSALES is about 87% YSales
-- Last 3QPROFIT is about 100% of YProfit
+- Last 3QSALES is about 1900% YSales
 
 
-Yearly 
- 31-Mar-2024 #Result
-1.50cr, QoQ -1.30% SALES;
-0.80cr, QoQ -26.10% OPERATING PROFIT;
-0.60cr, QoQ -36.00% NET PROFIT;
-OPM %: 55.80% vs 74.5%
-NPM %: 37.40% vs 57.7%
-
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -0.1

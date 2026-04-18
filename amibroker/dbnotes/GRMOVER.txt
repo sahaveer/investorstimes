@@ -1,36 +1,45 @@
-CODES
-531449	GRMOVER	
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
-BestQ Dec 2024
+CODES	531449	GRMOVER	
+FULLNAME : GRM Overseas Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Other Agricultural Products
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  749.4   |  769.7   |  1134.1  |  1379.5  |  1312.4  |     1056.8   
- SQoQ%:  |  -32.3   |   2.7    |   47.3   |   21.6   |   -4.9   |      80.5    
- YOPM%:  |   6.4    |   8.8    |   8.2    |   7.1    |   5.5    |              
- YNPM%:  |   4.2    |   5.9    |   7.4    |   4.5    |   4.6    |              
-YPROFIT: |   31.7   |   45.2   |   83.8   |   62.7   |   59.8   |      40.7    
- PQoQ%:  |  249.5   |   42.6   |   85.4   |  -25.2   |   -4.6   |      68.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  382.5   |  405.9   |  370.1   |  315.5   |  371.2  
- QoQ%:  |   87.8   |   6.1    |   -8.8   |  -14.8   |   17.7  
- QOPM%: |   4.8    |   5.4    |   6.3    |   3.5    |   3.3   
- QNPM%: |   4.0    |   5.2    |   4.9    |   2.9    |   3.6   
- QPFT:  |   15.5   |   21.2   |   18.0   |   9.2    |   13.5  
- PQoQ%: |  134.0   |   36.7   |  -14.9   |  -49.0   |   47.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 769.7		1134.1		1379.5		1312.4		1346.8		1172.0
+SQoQ%: 	2.7		47.3		21.6		-4.9		2.6		87.0
+YOPM%: 	8.8		8.2		7.1		5.5		5.9
+YNPM%: 	5.9		7.4		4.5		4.6		4.5
+YPROFIT: 45.2		83.8		62.7		59.8		60.6		52.9
+PQoQ%: 	42.6		85.4		-25.2		-4.6		1.4		87.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 371.2		291.4		326.8		362.4		482.8
+QoQ%: 	17.7		-21.5		12.1		10.9		33.2
+QOPM%: 	3.3		11.2		7.3		4.1		4.4
+QNPM%: 	3.6		7.0		5.8		4.0		4.0
+QPFT: 	13.5		20.5		19.1		14.7		19.1
+PQoQ%: 	47.3		51.3		-6.8		-23.2		30.6
+
+
 
 ***PROS***
-- Last 3QSALES is about 81% YSales
-- Last 3QPROFIT is about 68% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 87% YSales
+- Last 3QPROFIT is about 87% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1312.40cr, QoQ -4.90% & YoY 75.13% SALES;
-72.20cr, QoQ -26.70% & YoY 51.68% OPERATING PROFIT;
-59.80cr, QoQ -4.60% & YoY 88.64% NET PROFIT;
-OPM %: 5.50% vs 7.1%
-NPM %: 4.60% vs 4.5%
+ 31-Mar-2025 #Result
+1346.80cr, QoQ 2.60% & YoY 74.98% SALES;
+79.60cr, QoQ 10.30% & YoY 18.10% OPERATING PROFIT;
+60.60cr, QoQ 1.40% & YoY 34.07% NET PROFIT;
+OPM %: 5.90% vs 5.5%
+NPM %: 4.50% vs 4.6%
 

@@ -1,26 +1,47 @@
-CODES
-544012	CELLO	
-SECTOR : Trading
-INDUSTRY : Trading
-BestQ Dec 2024
+CODES	544012	CELLO	
+FULLNAME : Cello World Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Houseware
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1049.5		1359.2		1796.7		2000.3		2136.4		1670.1
+SQoQ%: 	nan		29.5		32.2		11.3		6.8		78.2
+YOPM%: 	26.4		24.5		23.4		25.5		23.9
+YNPM%: 	14.4		15.0		14.8		16.6		15.9
+YPROFIT: 151.2		204.0		266.1		331.1		338.8		222.3
+PQoQ%: 	nan		34.9		30.5		24.4		2.3		65.6
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 556.8		588.8		529.0		587.4		553.7
+QoQ%: 	13.6		5.7		-10.2		11.0		-5.8
+QOPM%: 	22.9		23.0		20.6		21.7		19.1
+QNPM%: 	15.5		15.0		13.8		14.6		11.5
+QPFT: 	86.4		88.2		73.0		85.7		63.6
+PQoQ%: 	5.8		2.1		-17.2		17.3		-25.7
 
 
 
 ***PROS***
+A DEBT-Free Company
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 28.5%
-- Last 3QSALES is about 77% YSales
-- Last 3QPROFIT is about 76% of YProfit
+ROCE in Mar2025 is at 20.7%
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 66% of YProfit
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-2000.30cr, QoQ 11.30% SALES;
-509.20cr, QoQ 21.10% OPERATING PROFIT;
-331.10cr, QoQ 24.40% NET PROFIT;
-OPM %: 25.50% vs 23.4%
-NPM %: 16.60% vs 14.8%
+ 31-Mar-2025 #Result
+2136.40cr, QoQ 6.80% & YoY 103.56% SALES;
+510.10cr, QoQ 0.20% & YoY 84.35% OPERATING PROFIT;
+338.80cr, QoQ 2.30% & YoY 124.07% NET PROFIT;
+OPM %: 23.90% vs 25.5%
+NPM %: 15.90% vs 16.6%
 

@@ -1,41 +1,14 @@
-CODE	NAME
-539195 
+CODES	539195	
+FULLNAME : POCL Enterprises Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
 
-SECTOR : Non Ferrous Metals
-INDUSTRY : Mining / Minerals / Metals
-PRODUCT DEMAND
-PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+***YEARLY***
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  318.9   |  497.8   |  874.4   |  1120.4  |  1450.1 
- SQoQ%:  |   -8.1   |   56.1   |   75.6   |   28.1   |   29.4  
- YOPM%:  |   2.8    |   2.4    |   3.3    |   3.5    |   4.3   
- YNPM%:  |   0.5    |   0.7    |   1.5    |   1.6    |   2.2   
-YPROFIT: |   1.4    |   3.4    |   12.9   |   17.7   |   31.2  
- PQoQ%:  |  -337.7  |  132.4   |  282.5   |   37.6   |   75.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  307.7   |  363.7   |  372.9   |  341.1   |  372.4  
- QoQ%:  |   20.1   |   18.2   |   2.5    |   -8.5   |   9.2   
- QOPM%: |   4.3    |   3.5    |   5.0    |   3.8    |   5.0   
- QNPM%: |   2.3    |   1.7    |   2.6    |   1.6    |   2.8   
- QPFT:  |   7.1    |   6.3    |   9.6    |   5.6    |   10.5  
- PQoQ%: |   54.0   |  -11.9   |   53.2   |  -41.7   |   87.5  
+
+***QUARTERLY***
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 23.9%
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2025, Sales have increased by 29.4% while the Profit QoQ_growth is much better than Sales itself at 75.8%
 
-Yearly 
- 31-Mar-2025 #Result
-1450.10cr, QoQ 29.40% & YoY 354.72% SALES;
-62.70cr, QoQ 59.10% & YoY 612.50% OPERATING PROFIT;
-31.20cr, QoQ 75.80% & YoY 2128.57% NET PROFIT;
-OPM %: 4.30% vs 3.5%
-NPM %: 2.20% vs 1.6%
-
+***CONS***

@@ -1,23 +1,25 @@
-CODE	NAME
-500240 
+CODES	500240	
+FULLNAME : Kinetic Engineering Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
 
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
+***YEARLY***
+
+
+***QUARTERLY***
+
+
+***PROS***
+- Last 3QSALES is about 80% YSales
 
 ***CONS***
 - NO PRODUCT DEMAND
 
-
-
-
-
-***PROS***
-
 Yearly 
  31-Mar-2025 #Result
-142.40cr, QoQ -0.50% SALES;
-5.00cr, QoQ -30.90% OPERATING PROFIT;
-6.40cr, QoQ 28.90% NET PROFIT;
-OPM %: 3.50% vs 5.1%
-NPM %: 4.50% vs 3.5%
+141.70cr, QoQ -1.00% SALES;
+4.30cr, QoQ -41.10% OPERATING PROFIT;
+6.40cr, QoQ 23.20% NET PROFIT;
+OPM %: 3.00% vs 5.1%
+NPM %: 4.50% vs 3.6%
 

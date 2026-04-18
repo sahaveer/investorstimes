@@ -1,28 +1,35 @@
-CODES
-532216	HBSL	
+CODES	532216	HBSL	
+FULLNAME : HB Stockholdings Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 YSD YPD 2024
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 13.2		17.7		3.0		44.4		1.6		11.9
+SQoQ%: 	570.1		34.2		-83.1		1386.0		-96.5		743.8
+YOPM%: 	90.1		89.8		0.0		93.7		0.0
+YNPM%: 	89.0		85.8		0.0		84.5		0.0
+YPROFIT: 11.8		15.2		-2.0		37.5		-12.0		-0.8
+PQoQ%: 	-259.9		29.3		-113.2		-1967.7		-132.0		6.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.3		0.3		10.1		0.4		1.4
+QoQ%: 	-84.1		-12.5		3507.1		-95.9		239.0
+QOPM%: 	0.0		0.0		89.2		0.0		0.0
+QNPM%: 	0.0		0.0		73.9		0.0		0.0
+QPFT: 	-11.4		-7.2		7.5		-4.6		-3.7
+PQoQ%: 	-8900.0		-37.4		-204.2		-161.7		-18.7
+
+
+
+***PROS***
+- Last 3QSALES is about 744% YSales
+- YProfits and YSales DOUBLED in Mar2024
+
 
 ***CONS***
 - NEGATIVE YProfit : -12.0
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   13.2   |   17.7   |   3.0    |   44.4   |   1.5   
- SQoQ%:  |  570.1   |   34.2   |  -83.1   |  1386.0  |  -96.6  
- YOPM%:  |   90.1   |   89.8   |   0.0    |   93.7   |   0.0   
- YNPM%:  |   89.0   |   85.8   |   0.0    |   84.5   |   0.0   
-YPROFIT: |   11.8   |   15.2   |   -2.0   |   37.5   |  -12.0  
- PQoQ%:  |  -259.9  |   29.3   |  -113.2  | -1967.7  |  -132.0 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   5.7    |   10.0   |   2.0    |   0.3    |   0.3   
- QoQ%:  |  -62.1   |   74.6   |  -79.9   |  -84.1   |  -12.5  
- QOPM%: |   87.1   |   91.7   |   40.8   |   0.0    |   0.0   
- QNPM%: |   75.8   |   64.4   |   6.5    |   0.0    |   0.0   
- QPFT:  |   4.4    |   6.4    |   0.1    |  -11.4   |   -7.2  
- PQoQ%: |  -65.9   |   48.3   |  -98.0   | -8900.0  |  -37.4  
-
-***PROS***
-- YProfits and YSales DOUBLED in Mar2024
-

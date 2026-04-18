@@ -1,12 +1,14 @@
-CODES
-524598	AKSHARCHEM	
-SECTOR : Chemicals
+CODES	524598	AKSHARCHEM	
+FULLNAME : AksharChem (India) Ltd
+SECTOR : Chemicals & Petrochemicals
 INDUSTRY : Dyes And Pigments
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

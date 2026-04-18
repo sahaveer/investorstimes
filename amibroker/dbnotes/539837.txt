@@ -1,41 +1,50 @@
-CODES
-539837	RPEL	
-SECTOR : Refractories
-INDUSTRY : Refractories / Intermediates
+CODES	539837	RPEL	
+FULLNAME : Raghav Productivity Enhancers Ltd
+SECTOR : Industrial Products
+INDUSTRY : Electrodes & Refractories
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   64.6   |   99.9   |  137.4   |  132.8   |  199.6  
- SQoQ%:  |   nan    |   54.7   |   37.5   |   -3.4   |   50.4  
- YOPM%:  |   23.1   |   24.8   |   26.1   |   30.2   |   26.9  
- YNPM%:  |   14.2   |   17.8   |   18.4   |   19.6   |   18.5  
-YPROFIT: |   9.1    |   17.8   |   25.2   |   26.0   |   37.0  
- PQoQ%:  |   nan    |   95.1   |   41.4   |   3.0    |   42.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   38.5   |   44.8   |   49.1   |   55.0   |   50.6  
- QoQ%:  |   21.5   |   16.4   |   9.5    |   12.1   |   -8.0  
- QOPM%: |   31.1   |   27.5   |   25.7   |   26.1   |   28.4  
- QNPM%: |   20.5   |   18.5   |   17.8   |   17.8   |   20.0  
- QPFT:  |   7.9    |   8.3    |   8.8    |   9.8    |   10.1  
- PQoQ%: |   32.5   |   4.8    |   5.5    |   12.1   |   3.3   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 64.6		99.9		137.4		132.8		199.6		186.5
+SQoQ%: 	nan		54.7		37.5		-3.4		50.4		93.4
+YOPM%: 	23.1		24.8		26.1		30.2		27.0
+YNPM%: 	14.2		17.8		18.4		19.6		18.5
+YPROFIT: 9.1		17.8		25.2		26.0		37.0		39.6
+PQoQ%: 	nan		95.1		41.4		3.0		42.4		107.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 55.0		50.6		58.4		63.6		64.5
+QoQ%: 	12.1		-8.0		15.4		8.8		1.4
+QOPM%: 	26.1		28.4		27.2		29.4		29.6
+QNPM%: 	17.8		20.0		20.0		21.8		21.9
+QPFT: 	9.8		10.1		11.7		13.8		14.1
+PQoQ%: 	12.1		3.3		15.3		18.5		2.0
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 22.2%
+ROCE in Mar2025 is at 22.3%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 93% YSales
+- Last 3QPROFIT is about 107% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 
 YSALES in Mar-2025 is at 199.6 showing a QoQ_growth of 50.4%. The YNETPROFIT grew by 42.4% to 37.0
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 199.60cr, QoQ 50.40% & YoY 208.98% SALES;
-53.70cr, QoQ 33.90% & YoY 260.40% OPERATING PROFIT;
+53.80cr, QoQ 34.20% & YoY 261.07% OPERATING PROFIT;
 37.00cr, QoQ 42.40% & YoY 306.59% NET PROFIT;
-OPM %: 26.90% vs 30.2%
+OPM %: 27.00% vs 30.2%
 NPM %: 18.50% vs 19.6%
 

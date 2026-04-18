@@ -1,35 +1,44 @@
-CODES
-542323	KPIGREEN	
-SECTOR : Power Generation & Distribution
-INDUSTRY : Power Generation And Supply
+CODES	542323	KPIGREEN	
+FULLNAME : KPI Green Energy Ltd
+SECTOR : Power
+INDUSTRY : Power Generation
 PRODUCT DEMAND
+BestQ Dec 2025
 YSD YPD 2023
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  102.3   |  229.9   |  643.8   |  1023.9  |  1735.4 
- SQoQ%:  |   73.0   |  124.8   |  180.0   |   59.0   |   69.5  
- YOPM%:  |   57.1   |   47.4   |   32.4   |   32.9   |   32.5  
- YNPM%:  |   21.4   |   18.8   |   17.0   |   15.8   |   18.4  
-YPROFIT: |   21.9   |   43.2   |  109.6   |  161.7   |  319.6  
- PQoQ%:  |  240.4   |   97.3   |  153.5   |   47.5   |   97.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  289.4   |  348.0   |  359.7   |  458.4   |  569.4  
- QoQ%:  |  -12.3   |   20.3   |   3.4    |   27.4   |   24.2  
- QOPM%: |   32.1   |   38.0   |   37.2   |   29.9   |   28.3  
- QNPM%: |   14.9   |   19.0   |   19.4   |   18.4   |   17.4  
- QPFT:  |   43.0   |   66.1   |   69.9   |   84.5   |   99.1  
- PQoQ%: |  -15.0   |   53.6   |   5.8    |   20.8   |   17.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 102.3		229.9		643.8		1023.9		1735.4		1900.1
+SQoQ%: 	73.0		124.8		180.0		59.0		69.5		109.5
+YOPM%: 	57.1		47.4		32.4		32.9		32.5
+YNPM%: 	21.4		18.8		17.0		15.8		18.4
+YPROFIT: 21.9		43.2		109.6		161.7		319.6		330.9
+PQoQ%: 	240.4		97.3		153.5		47.5		97.7		103.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 458.4		569.4		602.9		634.3		662.9
+QoQ%: 	27.4		24.2		5.9		5.2		4.5
+QOPM%: 	29.9		28.3		34.2		35.6		35.6
+QNPM%: 	18.4		17.4		17.2		17.2		17.8
+QPFT: 	84.5		99.1		104.0		109.1		117.8
+PQoQ%: 	20.8		17.3		4.9		5.0		8.0
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 109% YSales
+- Last 3QPROFIT is about 104% of YProfit
 - YProfits and YSales DOUBLED in Mar2023
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 69.5% while the Profit QoQ_growth is much better than Sales itself at 97.7%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

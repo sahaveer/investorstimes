@@ -1,34 +1,43 @@
-CODE	NAME
-530253 
+CODES	530253	
+FULLNAME : Rajasthan Tube Manufacturing Co Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
+BestQ Dec 2025
+BestQ Dec 2025
 
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 42.3		53.2		99.9		94.9		56.3		16.9
+SQoQ%: 	2.1		25.8		87.9		-5.0		-40.6		30.0
+YOPM%: 	4.8		4.1		2.4		2.3		3.2
+YNPM%: 	1.0		1.1		1.0		0.8		0.9
+YPROFIT: 0.4		0.6		1.0		0.7		0.5		1.8
+PQoQ%: 	-114.0		33.3		71.4		-25.0		-31.9		360.0
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   42.3   |   53.2   |   99.9   |   94.9   |   56.3  
- SQoQ%:  |   2.1    |   25.8   |   87.9   |   -5.0   |  -40.6  
- YOPM%:  |   4.8    |   4.1    |   2.4    |   2.3    |   3.2   
- YNPM%:  |   1.0    |   1.1    |   1.0    |   0.8    |   0.9   
-YPROFIT: |   0.4    |   0.6    |   1.0    |   0.7    |   0.5   
- PQoQ%:  |  -114.0  |   33.3   |   71.4   |  -25.0   |  -31.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   18.9   |   24.5   |   6.4    |   17.6   |   7.9   
- QoQ%:  |  -28.6   |   29.7   |  -74.0   |  176.5   |  -55.3  
- QOPM%: |   2.0    |   1.7    |   0.0    |   0.3    |   16.9  
- QNPM%: |   0.0    |   0.4    |   0.0    |   0.0    |   14.0  
- QPFT:  |   -0.1   |   0.1    |   -0.4   |   -0.3   |   1.1   
- PQoQ%: |  -123.1  |  -250.0  |  -566.7  |  -33.3   |  -492.9 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 17.6		7.9		13.4		0.0		3.5
+QoQ%: 	-28.1		-55.3		70.7		-99.7		8675.0
+QOPM%: 	0.3		16.9		0.0		125.0		82.9
+QNPM%: 	0.0		14.0		0.0		0.0		82.3
+QPFT: 	-0.3		1.1		-1.1		0.0		2.9
+PQoQ%: 	-411.1		-492.9		-199.1		-100.0		inf
+
+
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Double QSales and QProfit
+- Last 3QPROFIT is about 360% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 56.30cr, QoQ -40.60% & YoY 33.10% SALES;
-1.80cr, QoQ -20.20% & YoY -10.00% OPERATING PROFIT;
+1.80cr, QoQ -17.90% & YoY -10.00% OPERATING PROFIT;
 0.50cr, QoQ -31.90% & YoY 25.00% NET PROFIT;
 OPM %: 3.20% vs 2.3%
 NPM %: 0.90% vs 0.8%

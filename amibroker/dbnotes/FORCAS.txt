@@ -1,12 +1,11 @@
-CODES
-FORCAS	
+CODES	FORCAS	
+FULLNAME : Forcas Studio Ltd
 SECTOR : E-Commerce/App based Aggregator
 INDUSTRY : Textiles - Products
 PRODUCT DEMAND
 YSD YPD 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -14,6 +13,8 @@ YSD YPD 2024
 - YProfits and YSales DOUBLED in Mar2024
 
 YSALES in Mar-2024 is at 112.4 showing a QoQ_growth of 365.5%. The YNETPROFIT grew by 330.8% to 5.0
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

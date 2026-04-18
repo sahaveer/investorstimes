@@ -1,5 +1,4 @@
-CODE	NAME
-544295 
-
+CODES	544295	
+FULLNAME : Property Share Investment Trust- Propshare Platina
 SECTOR : Real Estate Investment Trusts
 INDUSTRY : Construction

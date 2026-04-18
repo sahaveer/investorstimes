@@ -1,26 +1,31 @@
-CODE	NAME
-511525 
-
+CODES	511525	
+FULLNAME : Pan India Corporation Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Investment Company
+
+***YEARLY***
+YPNL: 	Mar-2019	Mar-2020	Mar-2021	Mar-2022	Mar-2023
+YSALES: 0.0		0.0		0.0		0.0		0.0
+SQoQ%: 	-100.0		inf		-100.0		inf		-100.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		800.0		0.0		0.0		0.0
+YPROFIT: -4.4		0.1		-1.1		-0.2		-1.0
+PQoQ%: 	692.9		-101.8		-1425.0		-84.9		493.8
+
+
+
+***QUARTERLY***
+QPNL: 	Jun-2022	Sep-2022	Dec-2022	Mar-2023	Jun-2023
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		inf		0.0		0.0
+QPFT: 	-0.1		-0.6		0.6		-0.5		-0.7
+PQoQ%: 	125.0		600.0		-196.8		-188.5		35.2
+
+
+
+***PROS***
 
 ***CONS***
 - NEGATIVE YProfit : -1.0
- YPNL:   | Mar-2019 | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023
----------+----------+----------+----------+----------+---------
-YSALES:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- SQoQ%:  |  -100.0  |   inf    |  -100.0  |   inf    |  -100.0 
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- YNPM%:  |   0.0    |  800.0   |   0.0    |   0.0    |   0.0   
-YPROFIT: |   -4.4   |   0.1    |   -1.1   |   -0.2   |   -1.0  
- PQoQ%:  |  692.9   |  -101.8  | -1425.0  |  -84.9   |  493.8  
- QPNL:  | Jun-2022 | Sep-2022 | Dec-2022 | Mar-2023 | Jun-2023
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   inf    |   0.0    |   0.0   
- QPFT:  |   -0.1   |   -0.6   |   0.6    |   -0.5   |   -0.7  
- PQoQ%: |  125.0   |  600.0   |  -196.8  |  -188.5  |   35.2  
-
-***PROS***

@@ -1,29 +1,31 @@
-CODES
-512161	SECURKLOUD	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
-PRODUCT DEMAND
-LYPD PM 2024
+CODES	512161	SECURKLOUD	
+FULLNAME : SecureKloud Technologies Ltd
+SECTOR : IT - Services
+INDUSTRY : IT Enabled Services
 
-***CONS***
-- NEGATIVE YProfit : -36.4
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  382.1   |  350.6   |  379.4   |  458.4   |  340.3   |     131.6    
- SQoQ%:  |  -54.6   |   -8.3   |   8.2    |   20.8   |  -25.8   |      38.7    
- YOPM%:  |   0.0    |   10.6   |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.5    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |  -501.8  |   1.6    |  -66.3   |  -48.6   |  -36.4   |     -16.4    
- PQoQ%:  |  -830.2  |  -100.3  | -4267.3  |  -26.7   |  -25.1   |      45.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   87.6   |   59.7   |   47.4   |   43.4   |   40.8  
- QoQ%:  |   -6.7   |  -31.9   |  -20.5   |   -8.4   |   -6.1  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -5.5   |  -17.4   |   -6.4   |   -0.4   |   -9.6  
- PQoQ%: |   -8.3   |  215.2   |  -63.5   |  -93.7   |  2307.5 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 350.6		379.4		458.4		340.3		167.7		51.6
+SQoQ%: 	-8.3		8.2		20.8		-25.8		-50.7		30.8
+YOPM%: 	10.6		0.0		0.0		0.0		0.0
+YNPM%: 	0.5		0.0		0.0		0.0		0.0
+YPROFIT: 1.6		-66.3		-48.6		-36.4		-45.8		-85.2
+PQoQ%: 	-100.3		-4267.3		-26.7		-25.1		25.9		186.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 27.9		36.0		33.7		8.3		9.6
+QoQ%: 	-35.7		28.7		-6.4		-75.4		15.9
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		6.9		0.0		0.0		0.0
+QPFT: 	-7.2		2.5		-79.7		-3.4		-2.1
+PQoQ%: 	1697.5		-134.4		-3326.7		-95.8		-36.5
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
+- NEGATIVE YProfit : -45.8

@@ -1,12 +1,10 @@
-CODES
-CHANDAN	
+CODES	CHANDAN	
+FULLNAME : Chandan Healthcare Ltd
 SECTOR : Healthcare
 INDUSTRY : Healthcare
 LYPD PM 2024
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
@@ -15,6 +13,9 @@ ROCE in Mar2024 is at 29.7%
 - LastYr YProfits Doubled and maintained in Mar2024
 
 YSALES in Mar-2024 is at 99.9 showing a QoQ_growth of 31.7%. The YNETPROFIT grew by 296.5% to 16.0
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

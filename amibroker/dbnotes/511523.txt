@@ -1,39 +1,47 @@
-CODE	NAME
-511523 
+CODES	511523	
+FULLNAME : Veerhealth Care Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+PRODUCT DEMAND
+BestQ Dec 2025
+BestQ Dec 2025
 
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Formulations
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 10.6		9.6		13.3		13.2		16.7		15.8
+SQoQ%: 	-9.4		-9.2		37.8		-0.5		26.1		94.6
+YOPM%: 	0.6		0.0		3.8		4.6		2.8
+YNPM%: 	3.6		0.0		11.9		3.1		2.3
+YPROFIT: 0.4		-0.1		1.6		0.4		0.4		0.8
+PQoQ%: 	18.8		-118.4		-2357.1		-74.1		-4.9		200.0
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   11.7   |   10.6   |   9.6    |   13.3   |   13.2   |      11.1    
- SQoQ%:  |   96.0   |   -9.4   |   -9.2   |   37.8   |   -0.5   |      84.1    
- YOPM%:  |   5.8    |   0.6    |   0.0    |   3.8    |   4.6    |              
- YNPM%:  |   2.7    |   3.6    |   0.0    |   11.9   |   3.1    |              
-YPROFIT: |   0.3    |   0.4    |   -0.1   |   1.6    |   0.4    |      0.5     
- PQoQ%:  |  100.0   |   18.8   |  -118.4  | -2357.1  |  -74.1   |     125.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   2.9    |   3.4    |   2.1    |   5.2    |   3.8   
- QoQ%:  |  -25.1   |   17.4   |  -38.9   |  150.0   |  -25.4  
- QOPM%: |   5.9    |   5.0    |   0.0    |   9.3    |   3.9   
- QNPM%: |   6.6    |   0.0    |   5.8    |   5.8    |   1.8   
- QPFT:  |   0.2    |   -0.6   |   0.1    |   0.3    |   0.1   
- PQoQ%: |  -51.3   |  -389.5  |  -121.8  |  150.0   |  -76.7  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3.8		5.6		4.5		4.0		7.3
+QoQ%: 	-25.4		46.4		-20.1		-11.4		82.4
+QOPM%: 	3.9		0.0		0.0		13.3		17.1
+QNPM%: 	1.8		0.0		5.3		6.3		5.5
+QPFT: 	0.1		-0.1		0.2		0.2		0.4
+PQoQ%: 	-76.7		-242.9		-340.0		4.2		60.0
+
+
 
 ***PROS***
-DEBT-Free Company for the last 3 yrs
-- Last 3QSALES is about 84% YSales
-- Last 3QPROFIT is about 125% of YProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 95% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 200% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-13.20cr, QoQ -0.50% & YoY 12.82% SALES;
-0.60cr, QoQ 22.00% & YoY -14.29% OPERATING PROFIT;
-0.40cr, QoQ -74.10% & YoY 33.33% NET PROFIT;
-OPM %: 4.60% vs 3.8%
-NPM %: 3.10% vs 11.9%
+ 31-Mar-2025 #Result
+16.70cr, QoQ 26.10% & YoY 57.55% SALES;
+0.50cr, QoQ -24.60% & YoY 400.00% OPERATING PROFIT;
+0.40cr, QoQ -4.90% & YoY 0.00% NET PROFIT;
+OPM %: 2.80% vs 4.6%
+NPM %: 2.30% vs 3.1%
 

@@ -1,13 +1,14 @@
-CODE	NAME
-512038 
+CODES	512038	TCC	
+FULLNAME : TCC Concept Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 
-SECTOR : Realty
-INDUSTRY : Construction
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

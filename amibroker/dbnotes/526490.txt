@@ -1,37 +1,50 @@
-CODE	NAME
-526490 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	526490	
+FULLNAME : Pratik Panels Ltd
+SECTOR : Paper, Forest & Jute Products
+INDUSTRY : Forest Products
 PRODUCT DEMAND
+BestQ Dec 2025
 YSD YPD 2024
 YSD YPD 2023
-LYPD PM 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   0.0    |   0.0    |   0.3    |   2.6    |      2.7     
- SQoQ%:  |   nan    |   nan    |   nan    |   inf    |  735.5   |     103.8    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   25.8   |   15.8   |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   12.9   |   18.1   |              
-YPROFIT: |   -0.1   |   -0.4   |   -0.2   |   0.0    |   0.5    |      0.0     
- PQoQ%:  |   -9.1   |  350.0   |  -66.7   |  -126.7  |  1075.0  |      0.0     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.8    |   1.8    |   0.8    |   1.0    |   0.9   
- QoQ%:  |   inf    |  123.7   |  -57.0   |   31.2   |   -9.9  
- QOPM%: |   56.2   |   6.7    |   0.0    |   5.0    |   2.2   
- QNPM%: |   57.5   |   9.5    |   6.5    |   5.0    |   2.2   
- QPFT:  |   0.5    |   0.2    |   0.0    |   0.0    |   0.0   
- PQoQ%: |  -675.0  |  -63.0   |  -70.6   |   0.0    |  -60.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		0.0		0.3		2.6		3.1		7.7
+SQoQ%: 	nan		nan		inf		735.5		18.1		248.4
+YOPM%: 	0.0		0.0		25.8		15.8		1.6
+YNPM%: 	0.0		0.0		12.9		18.1		8.5
+YPROFIT: -0.4		-0.2		0.0		0.5		0.3		1.2
+PQoQ%: 	350.0		-66.7		-126.7		1075.0		-44.7		400.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.9		0.4		1.7		2.3		3.7
+QoQ%: 	-9.9		-60.4		377.8		34.3		59.7
+QOPM%: 	2.2		0.0		5.8		19.9		20.1
+QNPM%: 	2.2		38.9		14.0		18.6		17.3
+QPFT: 	0.0		0.1		0.2		0.4		0.6
+PQoQ%: 	-60.0		600.0		71.4		79.2		48.8
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 104% YSales
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.3
+- Last 3QSALES is about 248% YSales
+- Last 3QPROFIT is about 400% of YProfit
 - YProfits and YSales DOUBLED in Mar2024
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
 
-YSALES in Mar-2024 is at 2.6 showing a QoQ_growth of 735.5%. The YNETPROFIT grew by 1075.0% to 0.5
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+3.10cr, QoQ 18.10% & YoY inf% SALES;
+0.10cr, QoQ -87.80% & YoY -125.00% OPERATING PROFIT;
+0.30cr, QoQ -44.70% & YoY -175.00% NET PROFIT;
+OPM %: 1.60% vs 15.8%
+NPM %: 8.50% vs 18.1%
+

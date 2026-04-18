@@ -1,24 +1,21 @@
-CODES
-INFINIUM	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+CODES	INFINIUM	
+FULLNAME : Infinium Pharmachem Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 17.2%
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 20.8% while the Profit QoQ_growth is much better than Sales itself at 21.2%
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-122.40cr, QoQ 20.80% & YoY 240.00% SALES;
-17.40cr, QoQ 14.50% & YoY 569.23% OPERATING PROFIT;
-11.10cr, QoQ 21.20% & YoY 1010.00% NET PROFIT;
-OPM %: 14.20% vs 15.0%
-NPM %: 9.10% vs 9.0%
+ 31-Mar-2025 #Result
+136.90cr, QoQ 11.90% & YoY 150.73% SALES;
+15.20cr, QoQ -12.90% & YoY 210.20% OPERATING PROFIT;
+8.50cr, QoQ -23.60% & YoY 214.81% NET PROFIT;
+OPM %: 11.10% vs 14.2%
+NPM %: 6.20% vs 9.1%
 

@@ -1,37 +1,44 @@
-CODES
-532630	GOKEX	
-SECTOR : Readymade Garments/ Apparells
-INDUSTRY : Textiles - Products
-BestQ Dec 2024
+CODES	532630	GOKEX	
+FULLNAME : Gokaldas Exports Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Garments & Apparels
+PRODUCT DEMAND
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1371.0  |  1210.7  |  1790.3  |  2222.2  |  2378.9  |     2848.9   
- SQoQ%:  |   16.7   |  -11.7   |   47.9   |   24.1   |   7.1    |     119.8    
- YOPM%:  |   6.3    |   8.4    |   11.5   |   12.2   |   10.7   |              
- YNPM%:  |   2.2    |   2.2    |   6.5    |   7.8    |   5.5    |              
-YPROFIT: |   30.4   |   26.5   |  117.1   |  173.0   |  131.0   |     105.7    
- PQoQ%:  |   18.8   |  -12.8   |  342.0   |   47.7   |  -24.3   |      80.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  551.6   |  812.4   |  932.1   |  929.0   |  987.8  
- QoQ%:  |   10.3   |   47.3   |   14.7   |   -0.3   |   6.3   
- QOPM%: |   11.3   |   10.4   |   8.0    |   7.5    |   10.5  
- QNPM%: |   5.5    |   5.5    |   2.9    |   3.0    |   5.1   
- QPFT:  |   30.4   |   44.3   |   27.2   |   28.2   |   50.3  
- PQoQ%: |   28.3   |   45.6   |  -38.6   |   3.6    |   78.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1210.7		1790.3		2222.2		2378.9		3864.2		2918.8
+SQoQ%: 	-11.7		47.9		24.1		7.1		62.4		75.5
+YOPM%: 	8.4		11.5		12.2		10.7		9.6
+YNPM%: 	2.2		6.5		7.8		5.5		4.1
+YPROFIT: 26.5		117.1		173.0		131.0		158.5		64.2
+PQoQ%: 	-12.8		342.0		47.7		-24.3		21.1		40.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 987.8		1015.3		955.8		984.4		978.6
+QoQ%: 	6.3		2.8		-5.9		3.0		-0.6
+QOPM%: 	10.5		12.1		10.2		6.6		7.9
+QNPM%: 	5.1		5.2		4.3		0.8		1.5
+QPFT: 	50.3		52.9		41.5		8.1		14.6
+PQoQ%: 	78.8		5.0		-21.5		-80.5		80.8
+
+
 
 ***PROS***
-- Last 3QSALES is about 120% YSales
-- Last 3QPROFIT is about 81% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 76% YSales
+
+YSALES in Mar-2025 is at 3864.2 showing a QoQ_growth of 62.4%. The YNETPROFIT grew by 21.1% to 158.5
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-2378.90cr, QoQ 7.10% & YoY 73.52% SALES;
-254.00cr, QoQ -6.20% & YoY 196.04% OPERATING PROFIT;
-131.00cr, QoQ -24.30% & YoY 330.92% NET PROFIT;
-OPM %: 10.70% vs 12.2%
-NPM %: 5.50% vs 7.8%
+ 31-Mar-2025 #Result
+3864.20cr, QoQ 62.40% & YoY 219.17% SALES;
+371.00cr, QoQ 46.00% & YoY 265.52% OPERATING PROFIT;
+158.50cr, QoQ 21.10% & YoY 498.11% NET PROFIT;
+OPM %: 9.60% vs 10.7%
+NPM %: 4.10% vs 5.5%
 

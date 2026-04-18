@@ -1,36 +1,33 @@
-CODE	NAME
-530977 
+CODES	530977	
+FULLNAME : Shri Keshav Cements & Infra Ltd
+SECTOR : Cement & Cement Products
+INDUSTRY : Cement & Cement Products
 
-SECTOR : Cement
-INDUSTRY : Cement - South India
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 80.4		113.8		123.2		126.4		121.4		114.0
+SQoQ%: 	18.3		41.5		8.3		2.6		-4.0		93.9
+YOPM%: 	32.6		31.1		28.5		30.8		20.7
+YNPM%: 	0.0		8.0		2.4		7.2		0.0
+YPROFIT: -8.4		9.1		2.9		9.1		-6.2		3.3
+PQoQ%: 	10.5		-207.8		-68.0		213.7		-167.6		-53.2
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   68.0   |   80.4   |  113.8   |  123.2   |  126.4   |      83.0    
- SQoQ%:  |   -2.9   |   18.3   |   41.5   |   8.3    |   2.6    |      65.7    
- YOPM%:  |   39.1   |   32.6   |   31.1   |   28.5   |   30.8   |              
- YNPM%:  |   0.0    |   0.0    |   8.0    |   2.4    |   7.2    |              
-YPROFIT: |   -7.6   |   -8.4   |   9.1    |   2.9    |   9.1    |      -1.8    
- PQoQ%:  |  -62.3   |   10.5   |  -207.8  |  -68.0   |  213.7   |     -19.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   34.0   |   36.0   |   30.4   |   24.5   |   28.1  
- QoQ%:  |   35.2   |   5.9    |  -15.5   |  -19.6   |   14.8  
- QOPM%: |   32.5   |   29.8   |   26.5   |   12.4   |   22.9  
- QNPM%: |   11.7   |   6.7    |   5.8    |   0.0    |   2.3   
- QPFT:  |   4.0    |   2.4    |   1.8    |   -4.2   |   0.6   
- PQoQ%: |  5571.4  |  -39.3   |  -26.1   |  -334.8  |  -115.3 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 28.1		38.4		40.7		35.4		37.9
+QoQ%: 	14.8		36.8		5.9		-13.0		7.1
+QOPM%: 	22.9		19.8		25.6		23.6		27.7
+QNPM%: 	2.3		0.0		7.6		1.9		0.0
+QPFT: 	0.6		-4.4		3.1		0.7		-0.5
+PQoQ%: 	-115.3		-789.1		-170.1		-77.7		-178.3
+
+
 
 ***PROS***
-- Last 3QSALES is about 66% YSales
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- Last 3QSALES is about 94% YSales
 
-Yearly 
- 31-Mar-2024 #Result
-126.40cr, QoQ 2.60% & YoY 85.88% SALES;
-38.90cr, QoQ 11.00% & YoY 46.24% OPERATING PROFIT;
-9.10cr, QoQ 213.70% & YoY -219.74% NET PROFIT;
-OPM %: 30.80% vs 28.5%
-NPM %: 7.20% vs 2.4%
-
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -6.2

@@ -1,32 +1,40 @@
-CODE	NAME
-524458 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	524458	
+FULLNAME : Indo Euro Indchem Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
 EXPANSION 2024
-YSD YPD 2022
+EXPANSION 2025
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 7.6		22.6		10.1		10.8		13.9		5.6
+SQoQ%: 	20.0		197.5		-55.5		7.3		28.4		40.3
+YOPM%: 	0.0		2.5		0.0		0.0		1.7
+YNPM%: 	0.9		2.3		2.2		0.4		2.6
+YPROFIT: 0.1		0.5		0.2		0.0		0.4		0.3
+PQoQ%: 	133.3		628.6		-56.9		-81.8		800.0		75.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4.2		3.8		1.5		2.8		1.3
+QoQ%: 	364.8		-9.7		-59.7		82.5		-55.2
+QOPM%: 	4.3		0.0		7.1		0.0		0.0
+QNPM%: 	5.0		0.0		9.7		3.2		0.8
+QPFT: 	0.2		-0.1		0.2		0.1		0.0
+PQoQ%: 	2000.0		-138.1		-287.5		-40.0		-88.9
+
+
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QPROFIT is about 75% of YProfit
+
+YSALES in Mar-2025 is at 13.9 showing a QoQ_growth of 28.4%. The YNETPROFIT grew by 800.0% to 0.4
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   6.3    |   7.6    |   22.6   |   10.1   |   10.8   |      10.0    
- SQoQ%:  |  682.7   |   20.0   |  197.5   |  -55.5   |   7.3    |      92.6    
- YOPM%:  |   0.0    |   0.0    |   2.5    |   0.0    |   0.0    |              
- YNPM%:  |   0.5    |   0.9    |   2.3    |   2.2    |   0.4    |              
-YPROFIT: |   0.0    |   0.1    |   0.5    |   0.2    |   0.0    |      0.4     
- PQoQ%:  |  -40.0   |  133.3   |  628.6   |  -56.9   |  -81.8   |      inf     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.0    |   7.4    |   4.9    |   0.9    |   4.2   
- QoQ%:  |   4.1    |  633.7   |  -33.5   |  -81.5   |  364.8  
- QOPM%: |   1.0    |   0.0    |   3.4    |   0.0    |   4.3   
- QNPM%: |   1.0    |   0.3    |   4.5    |   1.1    |   5.0   
- QPFT:  |   0.0    |   0.0    |   0.2    |   0.0    |   0.2   
- PQoQ%: |  -125.0  |  100.0   |  1000.0  |  -95.5   |  2000.0 
-
-***PROS***
-A DEBT-Free Company for the last 2 yrs
-EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
-- Last 3QSALES is about 93% YSales
-- YProfits and YSales DOUBLED in Mar2022

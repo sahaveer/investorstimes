@@ -1,31 +1,36 @@
-CODE	NAME
-511092 
-
-SECTOR : Finance
-INDUSTRY : Finance & Investments
+CODES	511092	
+FULLNAME : JMD Ventures Ltd
+SECTOR : Entertainment
+INDUSTRY : Film Production, Distribution & Exhibition
 PRODUCT DEMAND
 LYPD PM 2020
 
-***CONS***
-- NEGATIVE YProfit : -0.7
- YPNL:   | Mar-2016 | Mar-2017 | Mar-2018 | Mar-2019 | Mar-2020
----------+----------+----------+----------+----------+---------
-YSALES:  |  218.6   |   61.6   |   40.2   |   3.0    |   3.7   
- SQoQ%:  |  -56.6   |  -71.8   |  -34.7   |  -92.5   |   21.5  
- YOPM%:  |   0.3    |   0.0    |   0.0    |   0.0    |   0.0   
- YNPM%:  |   0.1    |   0.0    |   0.0    |   0.0    |   0.0   
-YPROFIT: |   0.1    |   -0.4   |   -2.0   |   -1.7   |   -0.7  
- PQoQ%:  |  -85.9   |  -475.0  |  353.3   |  -18.1   |  -58.1  
- QPNL:  | Jun-2019 | Sep-2019 | Dec-2019 | Mar-2020 | Jun-2020
---------+----------+----------+----------+----------+---------
-QSALES: |   0.5    |   0.6    |   0.5    |   1.7    |   0.3   
- QoQ%:  |  -22.9   |   5.6    |  -17.5   |  257.4   |  -80.4  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   15.8   |   0.0    |   25.6   |   0.0   
- QPFT:  |   -0.5   |   0.1    |   -0.5   |   0.4    |   -3.2  
- PQoQ%: |   41.2   |  -118.8  |  -677.8  |  -182.7  |  -853.5 
+***YEARLY***
+YPNL: 	Mar-2016	Mar-2017	Mar-2018	Mar-2019	Mar-2020
+YSALES: 218.6		61.6		40.2		3.0		3.7
+SQoQ%: 	-56.6		-71.8		-34.7		-92.5		21.5
+YOPM%: 	0.3		0.0		0.0		0.0		0.0
+YNPM%: 	0.1		0.0		0.0		0.0		0.0
+YPROFIT: 0.1		-0.4		-2.0		-1.7		-0.7
+PQoQ%: 	-85.9		-475.0		353.3		-18.1		-58.1
+
+
+
+***QUARTERLY***
+QPNL: 	Jun-2019	Sep-2019	Dec-2019	Mar-2020	Jun-2020
+QSALES: 0.5		0.6		0.5		1.7		0.3
+QoQ%: 	-22.9		5.6		-17.5		257.4		-80.4
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		15.8		0.0		25.6		0.0
+QPFT: 	-0.5		0.1		-0.5		0.4		-3.2
+PQoQ%: 	41.2		-118.8		-677.8		-182.7		-853.5
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
 - LastYr YProfits Doubled and maintained in Mar2020
+
+***CONS***
+- NEGATIVE YProfit : -0.7

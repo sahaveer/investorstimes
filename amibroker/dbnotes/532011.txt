@@ -1,42 +1,45 @@
-CODE	NAME
-532011 
-
+CODES	532011	
+FULLNAME : Vashu Bhagnani Industries Ltd
 SECTOR : Entertainment
-INDUSTRY : Entertainment / Electronic Media Software
-PRODUCT DEMAND
-BestQ Dec 2024
-YSD YPD 2022
+INDUSTRY : Film Production, Distribution & Exhibition
+BestQ Dec 2025
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   44.3   |   3.0    |   24.5   |   46.5   |   58.1   |      11.5    
- SQoQ%:  |   34.2   |  -93.3   |  722.8   |   89.6   |   24.9   |      19.8    
- YOPM%:  |   54.5   |   24.2   |   12.9   |   7.8    |   20.1   |              
- YNPM%:  |   56.9   |   20.8   |   11.4   |   6.2    |   13.9   |              
-YPROFIT: |   25.2   |   0.6    |   2.8    |   2.9    |   8.1    |      5.4     
- PQoQ%:  | 17928.6  |  -97.5   |  351.6   |   2.5    |  181.9   |      66.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   20.2   |   7.5    |   9.4    |   1.0    |   1.1   
- QoQ%:  |   38.1   |  -62.8   |   24.6   |  -89.0   |   7.8   
- QOPM%: |   4.3    |  108.2   |   75.3   |   33.0   |   0.0   
- QNPM%: |   3.4    |   74.1   |   60.8   |   19.4   |   0.0   
- QPFT:  |   0.7    |   5.6    |   5.7    |   0.2    |   -0.5  
- PQoQ%: |  112.5   |  719.1   |   2.3    |  -96.5   |  -330.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3.0		24.5		46.5		58.1		16.0		12.2
+SQoQ%: 	-93.3		722.8		89.6		24.9		-72.5		76.2
+YOPM%: 	24.2		12.9		7.8		20.1		37.9
+YNPM%: 	20.8		11.4		6.2		13.9		39.0
+YPROFIT: 0.6		2.8		2.9		8.1		6.2		5.5
+PQoQ%: 	-97.5		351.6		2.5		181.9		-23.0		88.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1.1		4.5		1.5		1.8		8.9
+QoQ%: 	7.8		303.6		-67.4		21.2		401.7
+QOPM%: 	0.0		0.0		64.4		84.7		41.7
+QNPM%: 	0.0		17.6		65.1		81.4		34.8
+QPFT: 	-0.5		0.8		1.0		1.4		3.1
+PQoQ%: 	-330.0		-271.7		20.3		51.6		114.6
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QPROFIT is about 67% of YProfit
-- YProfits and YSales DOUBLED in Mar2022
+- Last 3QSALES is about 76% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 89% of YProfit
 
-YSALES in Mar-2024 is at 58.1 showing a QoQ_growth of 24.9%. The YNETPROFIT grew by 181.9% to 8.1
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-58.10cr, QoQ 24.90% & YoY 31.15% SALES;
-11.70cr, QoQ 223.50% & YoY -51.65% OPERATING PROFIT;
-8.10cr, QoQ 181.90% & YoY -67.86% NET PROFIT;
-OPM %: 20.10% vs 7.8%
-NPM %: 13.90% vs 6.2%
+ 31-Mar-2025 #Result
+16.00cr, QoQ -72.50% & YoY 433.33% SALES;
+6.10cr, QoQ -48.10% & YoY 771.43% OPERATING PROFIT;
+6.20cr, QoQ -23.00% & YoY 933.33% NET PROFIT;
+OPM %: 37.90% vs 20.1%
+NPM %: 39.00% vs 13.9%
 

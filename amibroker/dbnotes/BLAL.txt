@@ -1,13 +1,15 @@
-CODES
-543898	BLAL	
-SECTOR : 
-INDUSTRY : 
+CODES	543898	BLAL	
+FULLNAME : BEML Land Assets Ltd
+SECTOR : Finance
+INDUSTRY : Investment Company
 
-***CONS***
-- NEGATIVE YProfit : -3.8
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -3.8

@@ -1,27 +1,34 @@
-CODE	NAME
-509196 
+CODES	509196	
+FULLNAME : M M Rubber Co Ltd
+SECTOR : Auto Components
+INDUSTRY : Tyres & Rubber Products
+PRODUCT DEMAND
 
-SECTOR : Plantation & Plantation Products
-INDUSTRY : Miscellaneous
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 26.4		35.0		39.1		39.4		39.0		30.1
+SQoQ%: 	-11.6		32.8		11.9		0.6		-0.9		77.2
+YOPM%: 	0.0		7.2		10.7		0.3		0.0
+YNPM%: 	0.0		4.1		6.5		0.0		0.0
+YPROFIT: -3.8		1.4		2.6		-1.6		-3.7		-1.6
+PQoQ%: 	-1804.5		-138.7		76.6		-164.5		123.0		43.2
 
-***CONS***
-- NEGATIVE YProfit : -1.6
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   29.8   |   26.4   |   35.0   |   39.1   |   39.4   |      31.5    
- SQoQ%:  |   5.9    |  -11.6   |   32.8   |   11.9   |   0.6    |      79.9    
- YOPM%:  |   0.0    |   0.0    |   7.2    |   10.7   |   0.3    |              
- YNPM%:  |   0.7    |   0.0    |   4.1    |   6.5    |   0.0    |              
-YPROFIT: |   0.2    |   -3.8   |   1.4    |   2.6    |   -1.6   |      -3.9    
- PQoQ%:  |  -54.2   | -1804.5  |  -138.7  |   76.6   |  -164.5  |     243.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   10.9   |   9.9    |   10.3   |   10.8   |   10.4  
- QoQ%:  |   5.2    |   -9.0   |   3.6    |   5.8    |   -3.7  
- QOPM%: |   1.2    |   0.0    |   4.9    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   1.4    |   0.0    |   0.0   
- QPFT:  |   -0.1   |   -1.7   |   0.1    |   -2.6   |   -1.4  
- PQoQ%: |  -800.0  |  1114.3  |  -108.2  | -1942.9  |  -46.1  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 10.4		9.4		9.2		10.3		10.6
+QoQ%: 	-3.7		-9.8		-2.4		12.0		2.8
+QOPM%: 	0.0		7.0		0.0		0.0		0.0
+QNPM%: 	0.0		1.6		0.0		0.0		0.0
+QPFT: 	-1.4		0.2		-0.5		-0.4		-0.7
+PQoQ%: 	-46.1		-110.8		-426.7		-16.3		65.9
+
+
 
 ***PROS***
-- Last 3QSALES is about 80% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 77% YSales
+
+***CONS***
+- NEGATIVE YProfit : -3.7

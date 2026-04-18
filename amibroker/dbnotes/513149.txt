@@ -1,27 +1,34 @@
-CODE	NAME
-513149 
+CODES	513149	
+FULLNAME : Acrow India Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
 
-SECTOR : Diversified
-INDUSTRY : Diversified - Medium / Small
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		0.0		0.0		0.0		3.2		9.0
+SQoQ%: 	-100.0		nan		nan		nan		inf		281.2
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		inf		inf		inf		0.0
+YPROFIT: -0.1		0.9		0.0		1.0		-0.9		0.4
+PQoQ%: 	-53.3		-714.3		-97.7		5000.0		-186.3		-44.4
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   -0.1   |   0.0    |   0.0    |   0.0    |   0.0    |      0.0     
- SQoQ%:  |   -inf   |  -100.0  |   nan    |   nan    |   nan    |      nan     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   inf    |   inf    |   inf    |              
-YPROFIT: |   -0.3   |   -0.1   |   0.9    |   0.0    |   1.0    |      -0.7    
- PQoQ%:  |  -242.9  |  -53.3   |  -714.3  |  -97.7   |  5000.0  |     -70.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   inf    |   inf    |   inf    |   0.0    |   inf   
- QPFT:  |   0.4    |   0.2    |   0.1    |   -1.2   |   0.4   
- PQoQ%: |  100.0   |  -47.2   |  -26.3   |  -921.4  |  -135.7 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		3.2		0.0		1.8		7.2
+QoQ%: 	nan		inf		-100.0		inf		309.1
+QOPM%: 	0.0		0.0		0.0		0.0		2.9
+QNPM%: 	inf		0.0		inf		0.0		6.3
+QPFT: 	0.4		-0.3		0.1		-0.1		0.4
+PQoQ%: 	-135.7		-165.9		-133.3		-188.9		-662.5
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
+- Last 3QSALES is about 281% YSales
 
+
+***CONS***
+- NEGATIVE YProfit : -0.9

@@ -1,36 +1,32 @@
-CODES
-532951	GSS	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	532951	GSS	
+FULLNAME : GSS Infotech Ltd
+SECTOR : IT - Services
+INDUSTRY : IT Enabled Services
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 114.9		116.8		114.4		170.8		125.2		59.9
+SQoQ%: 	-17.2		1.6		-2.1		49.3		-26.7		47.8
+YOPM%: 	0.0		2.8		13.1		2.3		1.0
+YNPM%: 	0.0		26.0		13.0		4.4		0.0
+YPROFIT: -3.7		30.4		14.8		7.4		-1.4		-1.0
+PQoQ%: 	-160.7		-924.7		-51.1		-49.8		-118.4		71.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 20.9		40.8		24.1		19.1		16.7
+QoQ%: 	-37.8		95.1		-41.0		-20.5		-12.5
+QOPM%: 	0.0		0.0		0.0		0.0		5.4
+QNPM%: 	0.0		0.0		0.0		1.4		1.2
+QPFT: 	-0.9		-0.7		-1.5		0.3		0.2
+PQoQ%: 	-980.0		-21.6		120.3		-117.1		-23.1
+
+
+
+***PROS***
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  138.8   |  114.9   |  116.8   |  114.4   |  170.8   |      84.3    
- SQoQ%:  |  -12.1   |  -17.2   |   1.6    |   -2.1   |   49.3   |      49.4    
- YOPM%:  |   5.6    |   0.0    |   2.8    |   13.1   |   2.3    |              
- YNPM%:  |   4.4    |   0.0    |   26.0   |   13.0   |   4.4    |              
-YPROFIT: |   6.1    |   -3.7   |   30.4   |   14.8   |   7.4    |      -0.7    
- PQoQ%:  |  -47.9   |  -160.7  |  -924.7  |  -51.1   |  -49.8   |      -9.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   42.1   |   40.6   |   29.8   |   33.6   |   20.9  
- QoQ%:  |   -5.7   |   -3.6   |  -26.7   |   12.9   |  -37.8  
- QOPM%: |   7.9    |   2.2    |   4.1    |   3.1    |   0.0   
- QNPM%: |   6.7    |   16.9   |   0.3    |   0.3    |   0.0   
- QPFT:  |   2.8    |   6.9    |   0.1    |   0.1    |   -0.9  
- PQoQ%: |  3914.3  |  144.1   |  -98.5   |   0.0    |  -980.0 
-
-***PROS***
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
-
-
-Yearly 
- 31-Mar-2024 #Result
-170.80cr, QoQ 49.30% & YoY 23.05% SALES;
-4.00cr, QoQ -73.30% & YoY -48.72% OPERATING PROFIT;
-7.40cr, QoQ -49.80% & YoY 21.31% NET PROFIT;
-OPM %: 2.30% vs 13.1%
-NPM %: 4.40% vs 13.0%
-
+- NEGATIVE YProfit : -1.4

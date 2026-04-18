@@ -1,16 +1,15 @@
-CODE	NAME
-543391 
-
+CODES	543391	
+FULLNAME : Suyog Gurbaxani Funicular Ropeways Ltd
 SECTOR : Construction
-INDUSTRY : Construction
+INDUSTRY : Civil Construction
 EXPANSION 2017
 EXPANSION 2018
-YSD YPD 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
-- YProfits and YSales DOUBLED in Mar2024
+
+
+***CONS***

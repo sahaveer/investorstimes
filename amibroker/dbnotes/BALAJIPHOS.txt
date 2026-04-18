@@ -1,13 +1,14 @@
-CODES
-BALAJIPHOS	
+CODES	BALAJIPHOS	
+FULLNAME : Balaji Phosphates Ltd
 SECTOR : Fertilizers
 INDUSTRY : Fertilizers
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

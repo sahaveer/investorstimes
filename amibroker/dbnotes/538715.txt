@@ -1,42 +1,42 @@
-CODE	NAME
-538715 
+CODES	538715	
+FULLNAME : Dhabriya Polywood Ltd
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial
+BestQ Dec 2025
 
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
-PRODUCT DEMAND
-BestQ Dec 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 106.3		133.7		171.2		211.5		234.9		194.8
+SQoQ%: 	-4.8		25.7		28.0		23.5		11.1		82.9
+YOPM%: 	12.7		10.3		10.8		14.7		16.0
+YNPM%: 	4.2		3.8		5.0		6.7		7.7
+YPROFIT: 4.5		5.1		8.5		14.1		18.0		21.8
+PQoQ%: 	1.4		13.9		66.8		65.8		28.1		121.1
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  111.7   |  106.3   |  133.7   |  171.2   |  211.5   |     171.6    
- SQoQ%:  |   -7.3   |   -4.8   |   25.7   |   28.0   |   23.5   |      81.1    
- YOPM%:  |   13.1   |   12.7   |   10.3   |   10.8   |   14.7   |              
- YNPM%:  |   3.9    |   4.2    |   3.8    |   5.0    |   6.7    |              
-YPROFIT: |   4.4    |   4.5    |   5.1    |   8.5    |   14.1   |      12.6    
- PQoQ%:  |  -20.7   |   1.4    |   13.9   |   66.8   |   65.8   |      89.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   52.0   |   54.8   |   58.7   |   58.0   |   54.9  
- QoQ%:  |   -4.8   |   5.3    |   7.1    |   -1.1   |   -5.4  
- QOPM%: |   15.0   |   15.9   |   15.7   |   15.8   |   16.1  
- QNPM%: |   6.4    |   7.4    |   7.9    |   7.2    |   7.0   
- QPFT:  |   3.3    |   4.1    |   4.6    |   4.2    |   3.8   
- PQoQ%: |   -7.2   |   21.9   |   14.5   |  -10.1   |   -8.6  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 54.9		63.5		62.1		67.0		65.7
+QoQ%: 	-5.4		15.6		-2.2		7.9		-2.0
+QOPM%: 	16.1		16.1		19.9		20.4		21.1
+QNPM%: 	7.0		8.5		10.5		11.4		11.7
+QPFT: 	3.8		5.4		6.5		7.6		7.7
+PQoQ%: 	-8.6		40.6		21.8		16.4		0.7
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 81% YSales
-- Last 3QPROFIT is about 89% of YProfit
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 23.5% while the Profit QoQ_growth is much better than Sales itself at 65.8%
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 121% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-211.50cr, QoQ 23.50% & YoY 89.35% SALES;
-31.00cr, QoQ 68.40% & YoY 110.88% OPERATING PROFIT;
-14.10cr, QoQ 65.80% & YoY 220.45% NET PROFIT;
-OPM %: 14.70% vs 10.8%
-NPM %: 6.70% vs 5.0%
+ 31-Mar-2025 #Result
+234.90cr, QoQ 11.10% & YoY 120.98% SALES;
+37.50cr, QoQ 20.90% & YoY 177.78% OPERATING PROFIT;
+18.00cr, QoQ 28.10% & YoY 300.00% NET PROFIT;
+OPM %: 16.00% vs 14.7%
+NPM %: 7.70% vs 6.7%
 

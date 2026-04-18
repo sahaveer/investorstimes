@@ -1,15 +1,18 @@
-CODES
-544008	MAXESTATES	
+CODES	544008	MAXESTATES	
+FULLNAME : Max Estates Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+- Last 3QSALES is about 94% YSales
 - YProfit Turned POSITIVE this year Mar-2025 : 40.8
 
+
+***CONS***
+- NO PRODUCT DEMAND

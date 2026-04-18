@@ -1,10 +1,11 @@
-CODES
-MASON	
+CODES	MASON	
+FULLNAME : Mason Infratech Ltd
 SECTOR : Realty
 INDUSTRY : Construction
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

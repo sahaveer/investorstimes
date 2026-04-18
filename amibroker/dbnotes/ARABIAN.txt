@@ -1,19 +1,23 @@
-CODES
-ARABIAN	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	ARABIAN	
+FULLNAME : Arabian Petroleum Ltd
+SECTOR : Petroleum Products
+INDUSTRY : Lubricants
+PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-261.50cr, QoQ 7.80% & YoY 212.43% SALES;
-14.00cr, QoQ 50.10% & YoY 164.15% OPERATING PROFIT;
-6.80cr, QoQ 44.30% & YoY 142.86% NET PROFIT;
-OPM %: 5.40% vs 3.9%
-NPM %: 2.60% vs 1.9%
+ 31-Mar-2025 #Result
+285.00cr, QoQ 9.00% & YoY 159.33% SALES;
+16.40cr, QoQ 16.70% & YoY 160.32% OPERATING PROFIT;
+9.10cr, QoQ 33.90% & YoY 213.79% NET PROFIT;
+OPM %: 5.80% vs 5.4%
+NPM %: 3.20% vs 2.6%
 

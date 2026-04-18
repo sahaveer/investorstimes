@@ -1,26 +1,31 @@
-CODE	NAME
-501622 
+CODES	501622	
+FULLNAME : Amalgamated Electricity Company Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		0.0		0.0		0.0		0.0		0.0
+SQoQ%: 	-100.0		nan		inf		0.0		-100.0		nan
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -0.1		-0.1		-0.1		-0.1		-0.2		-0.2
+PQoQ%: 	-73.7		20.0		-8.3		-27.3		87.5		100.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-0.0		-0.0		-0.0		-0.0		-0.2
+PQoQ%: 	0.0		150.0		0.0		0.0		220.0
+
+
+
+***PROS***
 
 ***CONS***
 - NEGATIVE YProfit : -0.2
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- SQoQ%:  |  -100.0  |   nan    |   inf    |   0.0    |  -100.0 
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
-YPROFIT: |   -0.1   |   -0.1   |   -0.1   |   -0.1   |   -0.2  
- PQoQ%:  |  -73.7   |   20.0   |   -8.3   |  -27.3   |   87.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   inf    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   0.0    |   -0.0   |   -0.0   |   -0.0   |   -0.0  
- PQoQ%: |  -200.0  |  -600.0  |  -60.0   |   0.0    |  150.0  
-
-***PROS***

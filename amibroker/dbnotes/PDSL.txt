@@ -1,35 +1,42 @@
-CODES
-538730	PDSL	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	538730	PDSL	
+FULLNAME : PDS Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Trading - Textile Products
 PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  6212.9  |  8828.2  | 10577.0  | 10372.6  | 12578.0 
- SQoQ%:  |   -6.5   |   42.1   |   19.8   |   -1.9   |   21.3  
- YOPM%:  |   3.9    |   3.8    |   4.5    |   4.0    |   3.6   
- YNPM%:  |   1.4    |   2.8    |   2.5    |   1.4    |   1.2   
-YPROFIT: |   84.3   |  248.4   |  265.0   |  144.2   |  156.9  
- PQoQ%:  |   83.2   |  194.6   |   6.7    |  -45.6   |   8.8   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  3215.2  |  2621.1  |  3306.3  |  3124.9  |  3525.8 
- QoQ%:  |   24.6   |  -18.5   |   26.1   |   -5.5   |   12.8  
- QOPM%: |   3.5    |   2.8    |   4.5    |   3.0    |   4.0   
- QNPM%: |   1.4    |   0.8    |   2.2    |   0.8    |   1.1   
- QPFT:  |   45.8   |   19.9   |   71.8   |   24.8   |   40.3  
- PQoQ%: |  214.0   |  -56.5   |  261.0   |  -65.4   |   62.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 6212.9		8828.2		10577.0		10372.6		12578.0		9591.1
+SQoQ%: 	-6.5		42.1		19.8		-1.9		21.3		76.3
+YOPM%: 	3.9		3.8		4.5		4.0		3.8
+YNPM%: 	1.4		2.8		2.5		1.4		1.2
+YPROFIT: 84.3		248.4		265.0		144.2		156.9		62.6
+PQoQ%: 	83.2		194.6		6.7		-45.6		8.8		39.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3124.9		3525.8		2999.4		3419.2		3172.5
+QoQ%: 	-5.5		12.8		-14.9		14.0		-7.2
+QOPM%: 	3.1		4.0		1.7		3.0		3.4
+QNPM%: 	0.9		1.1		0.4		0.9		0.6
+QPFT: 	27.7		40.3		13.0		30.0		19.6
+PQoQ%: 	-58.9		45.4		-67.8		131.2		-34.7
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 76% YSales
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 12578.00cr, QoQ 21.30% & YoY 102.45% SALES;
-456.20cr, QoQ 10.30% & YoY 89.45% OPERATING PROFIT;
+480.60cr, QoQ 16.20% & YoY 99.58% OPERATING PROFIT;
 156.90cr, QoQ 8.80% & YoY 86.12% NET PROFIT;
-OPM %: 3.60% vs 4.0%
+OPM %: 3.80% vs 4.0%
 NPM %: 1.20% vs 1.4%
 

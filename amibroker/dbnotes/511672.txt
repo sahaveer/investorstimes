@@ -1,13 +1,14 @@
-CODE	NAME
-511672 
+CODES	511672	
+FULLNAME : Scan Steels Ltd
+SECTOR : Ferrous Metals
+INDUSTRY : Iron & Steel
 
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

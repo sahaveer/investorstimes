@@ -1,39 +1,44 @@
-CODES
-526612	BLUEDART	
-SECTOR : Logistics
-INDUSTRY : Couriers
-BestQ Dec 2024
+CODES	526612	BLUEDART	
+FULLNAME : Blue Dart Express Ltd
+SECTOR : Transport Services
+INDUSTRY : Logistics Solution Provider
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  3175.1  |  3288.1  |  4410.5  |  5172.2  |  5267.8  |     4302.9   
- SQoQ%:  |   0.0    |   3.6    |   34.1   |   17.3   |   1.8    |      81.7    
- YOPM%:  |   14.9   |   20.9   |   22.7   |   18.1   |   16.2   |              
- YNPM%:  |   0.0    |   3.1    |   8.7    |   7.2    |   5.7    |              
-YPROFIT: |  -41.9   |  101.8   |  382.2   |  370.5   |  301.0   |     197.2    
- PQoQ%:  |  -146.6  |  -343.2  |  275.4   |   -3.1   |  -18.8   |      65.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  1382.9  |  1322.9  |  1342.7  |  1448.5  |  1511.7 
- QoQ%:  |   4.4    |   -4.3   |   1.5    |   7.9    |   4.4   
- QOPM%: |   15.4   |   17.1   |   15.1   |   15.1   |   15.8  
- QNPM%: |   6.4    |   5.9    |   4.0    |   4.3    |   5.4   
- QPFT:  |   88.9   |   77.8   |   53.4   |   62.8   |   81.0  
- PQoQ%: |   21.7   |  -12.5   |  -31.3   |   17.6   |   28.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3288.1		4410.5		5172.2		5267.8		5720.2		4607.4
+SQoQ%: 	3.6		34.1		17.3		1.8		8.6		80.5
+YOPM%: 	20.9		22.7		18.1		16.2		15.3
+YNPM%: 	3.1		8.7		7.2		5.7		4.4
+YPROFIT: 101.8		382.2		370.5		301.0		252.4		198.5
+PQoQ%: 	-343.2		275.4		-3.1		-18.8		-16.1		78.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1511.7		1417.3		1441.9		1549.3		1616.2
+QoQ%: 	4.4		-6.2		1.7		7.4		4.3
+QOPM%: 	15.8		15.0		13.6		16.3		17.4
+QNPM%: 	5.4		3.9		3.4		5.3		4.2
+QPFT: 	81.0		55.2		48.8		81.4		68.3
+PQoQ%: 	28.9		-31.9		-11.5		66.7		-16.0
+
+
 
 ***PROS***
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 16.0%
-- Last 3QSALES is about 82% YSales
-- Last 3QPROFIT is about 66% of YProfit
-- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 79% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-5267.80cr, QoQ 1.80% & YoY 65.91% SALES;
-853.00cr, QoQ -9.00% & YoY 79.73% OPERATING PROFIT;
-301.00cr, QoQ -18.80% & YoY -818.38% NET PROFIT;
-OPM %: 16.20% vs 18.1%
-NPM %: 5.70% vs 7.2%
+ 31-Mar-2025 #Result
+5720.20cr, QoQ 8.60% & YoY 73.97% SALES;
+876.30cr, QoQ 2.70% & YoY 27.68% OPERATING PROFIT;
+252.40cr, QoQ -16.10% & YoY 147.94% NET PROFIT;
+OPM %: 15.30% vs 16.2%
+NPM %: 4.40% vs 5.7%
 

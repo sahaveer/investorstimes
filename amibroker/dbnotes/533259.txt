@@ -1,32 +1,35 @@
-CODES
-533259	SASTASUNDR	
-SECTOR : Finance
-INDUSTRY : Finance & Investments
+CODES	533259	SASTASUNDR	
+FULLNAME : Sastasundar Ventures Ltd
+SECTOR : Healthcare Services
+INDUSTRY : Healthcare Service Provider
 PRODUCT DEMAND
-YSD YPD 2022
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  387.8   |  550.6   |  1797.7  |  1060.4  |  1432.0  |     825.1    
- SQoQ%:  |   74.8   |   42.0   |  226.5   |  -41.0   |   35.0   |      57.6    
- YOPM%:  |   0.0    |   0.0    |   62.0   |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   34.9   |   0.0    |   0.6    |              
-YPROFIT: |  -38.8   |  -10.4   |  626.8   |  -72.2   |   8.9    |     -105.1   
- PQoQ%:  |   3.3    |  -73.2   | -6127.0  |  -111.5  |  -112.3  |    -1180.9   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  374.5   |  306.7   |  270.3   |  273.5   |  281.3  
- QoQ%:  |   4.5    |  -18.1   |  -11.9   |   1.2    |   2.8   
- QOPM%: |   0.9    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   5.4    |   11.5   |   0.0    |   0.0   
- QPFT:  |   -0.8   |   16.4   |   31.2   |  -109.4  |  -26.9  
- PQoQ%: |  -90.8   | -2292.0  |   89.5   |  -451.2  |  -75.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 550.6		1797.7		1060.4		1432.0		1158.6		945.4
+SQoQ%: 	42.0		226.5		-41.0		35.0		-19.1		81.6
+YOPM%: 	0.0		62.0		0.0		0.0		0.0
+YNPM%: 	0.0		34.9		0.0		0.6		0.0
+YPROFIT: -10.4		626.8		-72.2		8.9		-91.2		12.3
+PQoQ%: 	-73.2		-6127.0		-111.5		-112.3		-1126.7		-13.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 281.3		285.8		298.4		301.3		345.7
+QoQ%: 	2.8		1.6		4.4		1.0		14.7
+QOPM%: 	0.0		0.0		2.0		0.0		0.0
+QNPM%: 	0.0		4.8		8.0		0.0		0.3
+QPFT: 	-26.9		13.7		23.9		-12.7		1.1
+PQoQ%: 	-75.4		-150.7		74.9		-153.1		-108.9
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 58% YSales
-- YProfit Turned POSITIVE this year Mar-2024 : 8.9
-- YProfits and YSales DOUBLED in Mar2022
+- Last 3QSALES is about 82% YSales
 
+***CONS***
+- NEGATIVE YProfit : -91.2

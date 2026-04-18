@@ -1,37 +1,44 @@
-CODES
-526849	BANARBEADS	
-SECTOR : 
-INDUSTRY : 
-BestQ Dec 2024
+CODES	526849	BANARBEADS	
+FULLNAME : Banaras Beads Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   25.8   |   20.5   |   25.1   |   27.0   |   28.2   |      24.4    
- SQoQ%:  |   48.9   |  -20.6   |   22.7   |   7.4    |   4.6    |      86.5    
- YOPM%:  |   15.0   |   16.4   |   12.5   |   13.5   |   9.4    |              
- YNPM%:  |   9.1    |   11.7   |   11.6   |   9.4    |   9.7    |              
-YPROFIT: |   2.3    |   2.4    |   2.9    |   2.5    |   2.8    |      2.4     
- PQoQ%:  |  101.7   |   2.1    |   22.2   |  -13.0   |   8.3    |      85.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   3.8    |   8.7    |   7.1    |   11.6   |   5.7   
- QoQ%:  |  -60.1   |  128.7   |  -18.5   |   63.1   |  -50.3  
- QOPM%: |   11.1   |   6.3    |   8.1    |   15.3   |   14.3  
- QNPM%: |   11.8   |   8.9    |   7.6    |   12.0   |   8.7   
- QPFT:  |   0.4    |   0.8    |   0.5    |   1.4    |   0.5   
- PQoQ%: |  -58.3   |   71.1   |  -29.9   |  157.4   |  -64.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 20.5		25.1		27.0		28.2		31.6		18.9
+SQoQ%: 	-20.6		22.7		7.4		4.6		11.8		59.8
+YOPM%: 	16.4		12.5		13.5		9.4		13.1
+YNPM%: 	11.7		11.6		9.4		9.7		9.8
+YPROFIT: 2.4		2.9		2.5		2.8		3.1		1.2
+PQoQ%: 	2.1		22.2		-13.0		8.3		12.4		38.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 5.7		7.2		6.2		5.0		7.7
+QoQ%: 	-50.3		25.4		-13.8		-18.7		52.9
+QOPM%: 	14.3		13.3		14.8		6.1		14.0
+QNPM%: 	8.7		9.2		9.8		0.8		7.5
+QPFT: 	0.5		0.7		0.6		0.0		0.6
+PQoQ%: 	-64.0		32.0		-7.6		-93.4		1350.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 87% YSales
-- Last 3QPROFIT is about 86% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 60% YSales
+- Double QSales and QProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-28.20cr, QoQ 4.60% & YoY 9.30% SALES;
-2.60cr, QoQ -27.50% & YoY -33.33% OPERATING PROFIT;
-2.80cr, QoQ 8.30% & YoY 21.74% NET PROFIT;
-OPM %: 9.40% vs 13.5%
-NPM %: 9.70% vs 9.4%
+ 31-Mar-2025 #Result
+31.60cr, QoQ 11.80% & YoY 54.15% SALES;
+4.10cr, QoQ 56.40% & YoY 20.59% OPERATING PROFIT;
+3.10cr, QoQ 12.40% & YoY 29.17% NET PROFIT;
+OPM %: 13.10% vs 9.4%
+NPM %: 9.80% vs 9.7%
 

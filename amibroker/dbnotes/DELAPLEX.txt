@@ -1,25 +1,26 @@
-CODES
-DELAPLEX	
+CODES	DELAPLEX	
+FULLNAME : Delaplex Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+INDUSTRY : Computers - Software & Consulting
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 25.8%
+ROCE in Mar2025 is at 15.9%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-55.40cr, QoQ 2.50% SALES;
-11.30cr, QoQ 7.60% OPERATING PROFIT;
-10.10cr, QoQ 22.50% NET PROFIT;
-OPM %: 20.30% vs 19.4%
-NPM %: 18.20% vs 15.2%
+ 31-Mar-2025 #Result
+55.80cr, QoQ 0.70% & YoY 54.14% SALES;
+10.90cr, QoQ -1.60% & YoY 84.75% OPERATING PROFIT;
+10.30cr, QoQ 2.60% & YoY 157.50% NET PROFIT;
+OPM %: 19.50% vs 20.0%
+NPM %: 18.50% vs 18.2%
 

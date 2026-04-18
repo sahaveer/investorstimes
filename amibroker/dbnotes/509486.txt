@@ -1,14 +1,15 @@
-CODE	NAME
-509486 
+CODES	509486	
+FULLNAME : Caprihans India Ltd
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial
 
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
-
-***CONS***
-- NEGATIVE YProfit : -51.6
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -62.2

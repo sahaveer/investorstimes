@@ -1,43 +1,50 @@
-CODES
-532386	CALSOFT	
+CODES	532386	CALSOFT	
+FULLNAME : California Software Company Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+INDUSTRY : Computers - Software & Consulting
 PRODUCT DEMAND
-BestQ Dec 2024
-YSD YPD 2022
+BestQ Dec 2025
+BestQ Dec 2025
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.2    |   1.5    |   10.9   |   2.8    |   4.3    |      3.5     
- SQoQ%:  |  -18.6   |   23.7   |  643.8   |  -74.6   |   55.1   |      81.4    
- YOPM%:  |   0.0    |   38.4   |   68.4   |   43.5   |   36.7   |              
- YNPM%:  |   5.1    |   13.0   |   41.9   |   8.0    |   14.5   |              
-YPROFIT: |   0.1    |   0.2    |   4.6    |   0.2    |   0.6    |      0.5     
- PQoQ%:  |  -128.6  |  216.7   |  2294.7  |  -95.2   |  181.8   |      83.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.3    |   1.0    |   1.1    |   1.1    |   1.3   
- QoQ%:  |   22.3   |  -19.8   |   6.9    |   -0.9   |   22.4  
- QOPM%: |   45.2   |   38.6   |   35.2   |   23.4   |   32.1  
- QNPM%: |   17.5   |   14.9   |   15.7   |   7.5    |   15.3  
- QPFT:  |   0.2    |   0.2    |   0.2    |   0.1    |   0.2   
- PQoQ%: |  450.0   |  -31.8   |   13.3   |  -52.9   |  150.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.5		10.9		2.8		4.3		5.4		5.6
+SQoQ%: 	23.7		643.8		-74.6		55.1		27.3		103.7
+YOPM%: 	38.4		68.4		43.5		36.7		29.0
+YNPM%: 	13.0		41.9		8.0		14.5		13.2
+YPROFIT: 0.2		4.6		0.2		0.6		0.7		1.4
+PQoQ%: 	216.7		2294.7		-95.2		181.8		16.1		200.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1.3		2.0		1.6		1.5		2.5
+QoQ%: 	22.4		51.9		-22.1		-0.6		64.9
+QOPM%: 	32.1		26.1		25.8		29.2		59.1
+QNPM%: 	15.3		15.1		12.3		14.9		39.8
+QPFT: 	0.2		0.3		0.2		0.2		1.0
+PQoQ%: 	150.0		50.0		-36.7		21.1		339.1
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 81% YSales
-- Last 3QPROFIT is about 83% of YProfit
-- YProfits and YSales DOUBLED in Mar2022
+- Last 3QSALES is about 104% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 200% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 27.3% while the Profit QoQ_growth is at 16.1%
 
-
-YSALES in Mar-2024 is at 4.3 showing a QoQ_growth of 55.1%. The YNETPROFIT grew by 181.8% to 0.6
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-4.30cr, QoQ 55.10% & YoY 258.33% SALES;
-1.60cr, QoQ 30.80% & YoY -1700.00% OPERATING PROFIT;
-0.60cr, QoQ 181.80% & YoY 500.00% NET PROFIT;
-OPM %: 36.70% vs 43.5%
-NPM %: 14.50% vs 8.0%
+ 31-Mar-2025 #Result
+5.40cr, QoQ 27.30% & YoY 260.00% SALES;
+1.60cr, QoQ 0.60% & YoY 166.67% OPERATING PROFIT;
+0.70cr, QoQ 16.10% & YoY 250.00% NET PROFIT;
+OPM %: 29.00% vs 36.7%
+NPM %: 13.20% vs 14.5%
 

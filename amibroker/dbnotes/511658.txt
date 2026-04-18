@@ -1,32 +1,46 @@
-CODE	NAME
-511658 
-
-SECTOR : Telecomm-Service
-INDUSTRY : Telecommunications - Service Provider
-EXPANSION 2023
+CODES	511658	
+FULLNAME : Nettlinx Ltd
+SECTOR : Telecom - Services
+INDUSTRY : Other Telecom Services
 EXPANSION 2024
-BestQ Dec 2024
+EXPANSION 2025
+LYPD PM 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   46.8   |   35.3   |   34.4   |   21.6   |   32.8   |      23.5    
- SQoQ%:  |  127.2   |  -24.5   |   -2.6   |  -37.1   |   51.3   |      71.6    
- YOPM%:  |   6.9    |   10.0   |   14.8   |   4.5    |   40.2   |              
- YNPM%:  |   3.7    |   0.0    |   8.1    |   0.0    |   24.9   |              
-YPROFIT: |   1.7    |   -0.7   |   2.8    |   -0.0   |   8.2    |      8.4     
- PQoQ%:  |  -45.9   |  -139.9  |  -502.9  |  -101.1  | -27300.0 |     102.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   6.4    |   11.9   |   7.2    |   7.3    |   9.0   
- QoQ%:  |  -14.2   |   86.1   |  -39.3   |   0.7    |   23.4  
- QOPM%: |   35.4   |   43.1   |   30.1   |   21.8   |   30.4  
- QNPM%: |   18.5   |   29.2   |   15.5   |   8.0    |   74.9  
- QPFT:  |   1.2    |   3.5    |   1.1    |   0.6    |   6.7   
- PQoQ%: |  -29.8   |  194.1   |  -67.7   |  -48.2   |  1056.9 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 35.3		34.4		21.6		32.8		33.5		14.9
+SQoQ%: 	-24.5		-2.6		-37.1		51.3		2.4		44.5
+YOPM%: 	10.0		14.8		4.5		40.2		30.0
+YNPM%: 	0.0		8.1		0.0		24.9		24.6
+YPROFIT: -0.7		2.8		-0.0		8.2		8.3		-6.1
+PQoQ%: 	-139.9		-502.9		-101.1		-27300.0		1.2		-73.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 9.0		10.1		4.8		5.3		4.8
+QoQ%: 	23.4		12.6		-52.2		10.6		-9.0
+QOPM%: 	30.4		3.2		2.1		0.0		0.0
+QNPM%: 	74.9		0.0		0.0		0.0		0.0
+QPFT: 	6.7		-0.2		-0.5		-5.3		-0.3
+PQoQ%: 	1056.9		-102.2		220.0		1000.0		-94.1
+
+
 
 ***PROS***
 EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
-- Last 3QSALES is about 72% YSales
-- Last 3QPROFIT is about 102% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+***CONS***
+- NO PRODUCT DEMAND
+
+Yearly 
+ 31-Mar-2025 #Result
+33.50cr, QoQ 2.40% & YoY -5.10% SALES;
+10.10cr, QoQ -23.60% & YoY 188.57% OPERATING PROFIT;
+8.30cr, QoQ 1.20% & YoY -1285.71% NET PROFIT;
+OPM %: 30.00% vs 40.2%
+NPM %: 24.60% vs 24.9%
+

@@ -1,35 +1,45 @@
-CODES
-500041	BANARISUG	
-SECTOR : 
-INDUSTRY : 
+CODES	500041	BANARISUG	
+FULLNAME : Bannari Amman Sugars Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Sugar
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1609.3  |  1562.8  |  1998.1  |  2525.6  |  2220.3  |     1299.1   
- SQoQ%:  |   43.0   |   -2.9   |   27.9   |   26.4   |  -12.1   |      58.5    
- YOPM%:  |   14.4   |   13.5   |   10.9   |   12.0   |   13.8   |              
- YNPM%:  |   5.9    |   5.9    |   4.0    |   5.7    |   6.9    |              
-YPROFIT: |   95.6   |   92.1   |   80.0   |  143.4   |  152.3   |      69.5    
- PQoQ%:  |   25.9   |   -3.7   |  -13.2   |   79.3   |   6.2    |      45.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  768.2   |  421.2   |  404.0   |  473.7   |  421.4  
- QoQ%:  |   28.0   |  -45.2   |   -4.1   |   17.3   |  -11.0  
- QOPM%: |   15.6   |   12.1   |   7.2    |   14.2   |   14.6  
- QNPM%: |   8.9    |   5.2    |   1.6    |   7.2    |   6.8   
- QPFT:  |   68.1   |   21.8   |   6.4    |   34.3   |   28.8  
- PQoQ%: |   39.5   |  -67.9   |  -70.5   |  433.0   |  -15.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1562.8		1998.1		2525.6		2220.3		1793.0		1634.3
+SQoQ%: 	-2.9		27.9		26.4		-12.1		-19.2		91.1
+YOPM%: 	13.5		10.9		12.0		13.8		11.7
+YNPM%: 	5.9		4.0		5.7		6.9		5.8
+YPROFIT: 92.1		80.0		143.4		152.3		104.7		106.3
+PQoQ%: 	-3.7		-13.2		79.3		6.2		-31.3		101.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 421.4		493.9		418.6		571.6		644.1
+QoQ%: 	-11.0		17.2		-15.2		36.6		12.7
+QOPM%: 	14.6		10.7		8.7		13.1		12.8
+QNPM%: 	6.8		7.1		3.6		7.5		7.5
+QPFT: 	28.8		35.2		15.2		42.7		48.4
+PQoQ%: 	-15.9		22.0		-56.6		180.0		13.3
+
+
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 59% YSales
+- Last 3QSALES is about 91% YSales
+- Last 3QPROFIT is about 102% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-2220.30cr, QoQ -12.10% & YoY 37.97% SALES;
-306.40cr, QoQ 0.70% & YoY 32.35% OPERATING PROFIT;
-152.30cr, QoQ 6.20% & YoY 59.31% NET PROFIT;
-OPM %: 13.80% vs 12.0%
-NPM %: 6.90% vs 5.7%
+ 31-Mar-2025 #Result
+1793.00cr, QoQ -19.20% & YoY 14.73% SALES;
+210.30cr, QoQ -31.40% & YoY -0.14% OPERATING PROFIT;
+104.70cr, QoQ -31.30% & YoY 13.68% NET PROFIT;
+OPM %: 11.70% vs 13.8%
+NPM %: 5.80% vs 6.9%
 

@@ -1,13 +1,15 @@
-CODES
-590068	KHAITANLTD	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	590068	KHAITANLTD	
+FULLNAME : Khaitan (India) Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Consumer Electronics
 
-***CONS***
-- NEGATIVE YProfit : -3.3
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+- YProfit Turned POSITIVE this year Mar-2025 : 7.0
+
+***CONS***

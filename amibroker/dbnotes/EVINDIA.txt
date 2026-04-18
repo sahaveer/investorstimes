@@ -1,4 +1,4 @@
-CODES
-544212	EVINDIA	
+CODES	544212	EVINDIA	
+FULLNAME : Mirae Asset Nifty EV and New Age Automotive ETF
 SECTOR : 
 INDUSTRY : 

@@ -1,28 +1,36 @@
-CODE	NAME
-531594 
+CODES	531594	
+FULLNAME : Incon Engineers Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
+YSD YPD 2025
+LYPD PM 2025
 
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2.5		1.2		0.1		0.0		0.2		0.2
+SQoQ%: 	1071.4		-50.8		-89.3		-100.0		inf		100.0
+YOPM%: 	30.1		0.0		0.0		0.0		0.0
+YNPM%: 	32.1		0.0		0.0		0.0		0.0
+YPROFIT: 0.8		-0.0		-0.4		-0.5		-0.4		-0.2
+PQoQ%: 	-429.2		-101.3		3500.0		30.6		-12.8		50.0
 
-***CONS***
-- NEGATIVE YProfit : -0.5
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.2    |   2.5    |   1.2    |   0.1    |   0.0    |      0.2     
- SQoQ%:  |  -58.0   |  1071.4  |  -50.8   |  -89.3   |  -100.0  |      inf     
- YOPM%:  |   0.0    |   30.1   |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   32.1   |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -0.2   |   0.8    |   -0.0   |   -0.4   |   -0.5   |      -0.3    
- PQoQ%:  |   84.6   |  -429.2  |  -101.3  |  3500.0  |   30.6   |      60.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.2   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   inf   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.1   |   -0.1   |   -0.1   |   -0.1   |   -0.1  
- PQoQ%: |   7.7    |  -35.7   |   44.4   |  -15.4   |  -36.4  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.2		0.0		0.2		0.0		0.0
+QoQ%: 	inf		-100.0		inf		-100.0		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-0.1		-0.1		-0.0		-0.1		-0.1
+PQoQ%: 	-36.4		28.6		-55.6		250.0		-7.1
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 100% YSales
+- YProfits and YSales DOUBLED in Mar2025
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -0.4

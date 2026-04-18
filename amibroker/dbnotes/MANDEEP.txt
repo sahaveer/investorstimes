@@ -1,10 +1,11 @@
-CODES
-MANDEEP	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
+CODES	MANDEEP	
+FULLNAME : Mandeep Auto Industries Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

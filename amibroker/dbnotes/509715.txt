@@ -1,37 +1,46 @@
-CODES
-509715	JAYSREETEA	
-SECTOR : Plantation & Plantation Products
-INDUSTRY : Tea
+CODES	509715	JAYSREETEA	
+FULLNAME : Jay Shree Tea & Industries Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Tea & Coffee
 LYPD PM 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  801.8   |  725.8   |  812.6   |  761.0   |  858.1  
- SQoQ%:  |   11.8   |   -9.5   |   12.0   |   -6.3   |   12.8  
- YOPM%:  |   7.6    |   0.0    |   1.4    |   0.0    |   4.4   
- YNPM%:  |   2.4    |   3.3    |   0.0    |   1.7    |   14.7  
-YPROFIT: |   19.0   |   23.6   |  -47.1   |   13.0   |  126.5  
- PQoQ%:  |  -118.6  |   24.0   |  -299.6  |  -127.6  |  873.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  134.2   |  160.5   |  301.4   |  234.8   |  161.5  
- QoQ%:  |  -34.9   |   19.6   |   87.8   |  -22.1   |  -31.2  
- QOPM%: |   0.0    |   1.7    |   17.0   |   3.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   10.1   |   31.3   |   19.5  
- QPFT:  |  -15.0   |   -9.0   |   30.4   |   73.6   |   31.5  
- PQoQ%: | -8010.5  |  -40.2   |  -438.7  |  141.7   |  -57.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 801.8		725.8		812.6		742.4		858.1		752.4
+SQoQ%: 	11.8		-9.5		12.0		-8.6		15.6		87.7
+YOPM%: 	7.6		0.0		1.4		0.0		4.4
+YNPM%: 	2.4		3.3		0.0		1.7		14.7
+YPROFIT: 19.0		23.6		-47.1		13.0		126.5		9.1
+PQoQ%: 	-118.6		24.0		-299.6		-127.6		873.8		7.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 234.8		161.5		189.8		267.4		295.2
+QoQ%: 	-22.1		-31.2		17.5		40.9		10.4
+QOPM%: 	3.0		0.0		0.0		12.6		3.9
+QNPM%: 	31.3		19.5		0.0		7.3		0.0
+QPFT: 	73.6		31.5		-9.0		19.6		-1.5
+PQoQ%: 	141.7		-57.2		-128.5		-318.0		-107.7
+
+
 
 ***PROS***
+- Last 3QSALES is about 88% YSales
 - YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
 - LastYr YProfits Doubled and maintained in Mar2025
 
+YSALES in Mar-2025 is at 858.1 showing a QoQ_growth of 15.6%. The YNETPROFIT grew by 873.8% to 126.5
+
+***CONS***
+- NO PRODUCT DEMAND
+
 Yearly 
  31-Mar-2025 #Result
-858.10cr, QoQ 12.80% & YoY 7.02% SALES;
-37.80cr, QoQ -177.00% & YoY -38.13% OPERATING PROFIT;
-126.50cr, QoQ 873.90% & YoY 565.79% NET PROFIT;
+858.10cr, QoQ 15.60% & YoY 7.02% SALES;
+37.90cr, QoQ -181.00% & YoY -37.97% OPERATING PROFIT;
+126.50cr, QoQ 873.80% & YoY 565.79% NET PROFIT;
 OPM %: 4.40% vs 0.0%
 NPM %: 14.70% vs 1.7%
 

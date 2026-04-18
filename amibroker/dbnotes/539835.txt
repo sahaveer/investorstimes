@@ -1,13 +1,14 @@
-CODE	NAME
-539835 
-
+CODES	539835	
+FULLNAME : Superior Finlease Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

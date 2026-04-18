@@ -1,26 +1,30 @@
-CODES
-526367	GANESHHOUC	
+CODES	526367	GANESHHOUC	
+FULLNAME : Ganesh Housing Corporation Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  168.2   |  382.7   |  615.6   |  891.2   |  959.8  
- SQoQ%:  |  -37.1   |  127.6   |   60.9   |   44.8   |   7.7   
- YOPM%:  |   0.0    |   35.1   |   40.9   |   70.0   |   81.2  
- YNPM%:  |   0.0    |   18.5   |   16.6   |   51.7   |   62.3  
-YPROFIT: |  -105.2  |   70.6   |  102.2   |  460.7   |  598.1  
- PQoQ%:  |  -12.0   |  -167.1  |   44.6   |  351.0   |   29.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  276.8   |  214.1   |  237.2   |  257.0   |  251.4  
- QoQ%:  |   52.6   |  -22.6   |   10.8   |   8.3    |   -2.2  
- QOPM%: |   53.9   |   69.6   |   85.4   |   82.1   |   86.2  
- QNPM%: |   40.8   |   53.2   |   66.8   |   62.6   |   65.6  
- QPFT:  |  112.8   |  113.8   |  158.5   |  160.8   |  164.9  
- PQoQ%: |   12.2   |   0.9    |   39.2   |   1.5    |   2.5   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 168.2		382.7		615.6		891.2		959.8
+SQoQ%: 	-37.1		127.6		60.9		44.8		7.7
+YOPM%: 	0.0		35.1		40.9		70.0		81.2
+YNPM%: 	0.0		18.5		16.6		51.7		62.3
+YPROFIT: -105.2		70.6		102.2		460.7		598.1
+PQoQ%: 	-12.0		-167.1		44.6		351.0		29.8
+
+
+
+***QUARTERLY***
+QPNL: 	Jun-2024	Sep-2024	Dec-2024	Mar-2025	Jun-2025
+QSALES: 214.1		237.2		257.0		251.4		150.8
+QoQ%: 	-22.6		10.8		8.3		-2.2		-40.0
+QOPM%: 	69.6		85.4		82.1		86.2		84.8
+QNPM%: 	53.2		66.8		62.6		65.6		61.7
+QPFT: 	113.8		158.5		160.8		164.9		93.1
+PQoQ%: 	0.9		39.2		1.5		2.5		-43.6
+
+
 
 ***PROS***
 A DEBT-Free Company
@@ -29,6 +33,8 @@ ROCE in Mar2025 is at 33.0%
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 - LastYr YProfits Doubled and maintained in Mar2025
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

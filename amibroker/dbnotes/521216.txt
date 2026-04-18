@@ -1,39 +1,44 @@
-CODE	NAME
-521216 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	521216	
+FULLNAME : Dhanalaxmi Roto Spinners Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   71.4   |   72.8   |  119.3   |  201.2   |  196.6   |     143.9    
- SQoQ%:  |  -26.9   |   1.9    |   63.7   |   68.7   |   -2.3   |      73.2    
- YOPM%:  |   1.6    |   4.8    |   6.6    |   2.1    |   4.1    |              
- YNPM%:  |   2.7    |   5.6    |   6.1    |   3.3    |   6.6    |              
-YPROFIT: |   1.9    |   4.0    |   7.3    |   6.6    |   13.1   |      4.8     
- PQoQ%:  |  -26.2   |  108.8   |   81.0   |   -9.3   |   96.5   |      36.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   49.5   |   56.1   |   29.7   |   45.3   |   68.9  
- QoQ%:  |   23.4   |   13.3   |  -47.1   |   52.7   |   52.0  
- QOPM%: |   4.1    |   2.9    |   0.5    |   0.2    |   4.7   
- QNPM%: |   7.4    |   6.3    |   3.5    |   2.9    |   3.6   
- QPFT:  |   3.7    |   3.6    |   1.0    |   1.3    |   2.5   
- PQoQ%: |   9.9    |   -3.0   |  -70.8   |   26.9   |   88.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 72.8		119.3		201.2		196.6		185.5		202.5
+SQoQ%: 	1.9		63.7		68.7		-2.3		-5.7		109.2
+YOPM%: 	4.8		6.6		2.1		4.1		3.2
+YNPM%: 	5.6		6.1		3.3		6.6		4.6
+YPROFIT: 4.0		7.3		6.6		13.1		8.5		6.3
+PQoQ%: 	108.8		81.0		-9.3		96.5		-34.7		74.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 68.9		41.6		79.6		67.6		55.3
+QoQ%: 	52.0		-39.6		91.6		-15.2		-18.2
+QOPM%: 	4.7		5.7		2.5		0.0		1.5
+QNPM%: 	3.6		8.9		3.1		3.2		2.9
+QPFT: 	2.5		3.7		2.5		2.2		1.6
+PQoQ%: 	88.6		48.2		-33.1		-11.7		-25.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 73% YSales
-- Double QSales and QProfit
+- Last 3QSALES is about 109% YSales
+- Last 3QPROFIT is about 74% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-196.60cr, QoQ -2.30% & YoY 175.35% SALES;
-8.00cr, QoQ 88.30% & YoY 627.27% OPERATING PROFIT;
-13.10cr, QoQ 96.50% & YoY 589.47% NET PROFIT;
-OPM %: 4.10% vs 2.1%
-NPM %: 6.60% vs 3.3%
+ 31-Mar-2025 #Result
+185.50cr, QoQ -5.70% & YoY 154.81% SALES;
+5.90cr, QoQ -27.20% & YoY 68.57% OPERATING PROFIT;
+8.50cr, QoQ -34.70% & YoY 112.50% NET PROFIT;
+OPM %: 3.20% vs 4.1%
+NPM %: 4.60% vs 6.6%
 

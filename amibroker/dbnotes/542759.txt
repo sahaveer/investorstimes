@@ -1,36 +1,32 @@
-CODES
-542759	SPANDANA	
+CODES	542759	SPANDANA	
+FULLNAME : Spandana Sphoorty Financial Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Microfinance Institutions
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1435.3  |  1482.6  |  1462.8  |  1400.8  |  2423.7  |     1951.1   
- SQoQ%:  |   37.6   |   3.3    |   -1.3   |   -4.2   |   73.0   |      80.5    
- YOPM%:  |   66.4   |   41.2   |   43.1   |   29.4   |   62.3   |              
- YNPM%:  |   24.5   |   9.8    |   4.7    |   0.9    |   20.7   |              
-YPROFIT: |  351.5   |  145.0   |   69.5   |   12.3   |  500.7   |     -600.8   
- PQoQ%:  |   12.7   |  -58.7   |  -52.1   |  -82.3   |  3967.1  |     -120.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  626.0   |  675.8   |  709.9   |  686.4   |  554.8  
- QoQ%:  |   2.6    |   8.0    |   5.0    |   -3.3   |  -19.2  
- QOPM%: |   63.2   |   58.4   |   43.9   |   0.0    |   0.0   
- QNPM%: |   20.4   |   19.0   |   7.8    |   0.0    |   0.0   
- QPFT:  |  127.4   |  128.6   |   55.7   |  -216.3  |  -440.2 
- PQoQ%: |   1.8    |   1.0    |  -56.7   |  -488.3  |  103.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1482.6		1462.8		1400.8		2400.6		2355.2		764.4
+SQoQ%: 	3.3		-1.3		-4.2		71.4		-1.9		32.5
+YOPM%: 	41.2		43.1		29.4		62.9		0.0
+YNPM%: 	9.8		4.7		0.9		20.9		0.0
+YPROFIT: 145.0		69.5		12.3		500.7		-1035.1		-704.3
+PQoQ%: 	-58.7		-52.1		-82.3		3967.1		-306.7		68.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 551.6		414.8		300.5		229.6		234.3
+QoQ%: 	-19.1		-24.8		-27.6		-23.6		2.1
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-440.2		-434.3		-360.2		-249.1		-95.0
+PQoQ%: 	103.5		-1.3		-17.1		-30.8		-61.9
+
+
 
 ***PROS***
-- Last 3QSALES is about 81% YSales
 
-YSALES in Mar-2024 is at 2423.7 showing a QoQ_growth of 73.0%. The YNETPROFIT grew by 3967.1% to 500.7
 
-Yearly 
- 31-Mar-2024 #Result
-2423.70cr, QoQ 73.00% & YoY 68.86% SALES;
-1510.40cr, QoQ 266.60% & YoY 58.47% OPERATING PROFIT;
-500.70cr, QoQ 3967.10% & YoY 42.45% NET PROFIT;
-OPM %: 62.30% vs 29.4%
-NPM %: 20.70% vs 0.9%
-
+***CONS***
+- NEGATIVE YProfit : -1035.1

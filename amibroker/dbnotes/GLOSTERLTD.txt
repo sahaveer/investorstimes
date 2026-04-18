@@ -1,35 +1,33 @@
-CODES
-542351	GLOSTERLTD	
-SECTOR : Textiles
-INDUSTRY : Textiles - Jute - Yarn / Products
+CODES	542351	GLOSTERLTD	
+FULLNAME : Gloster Ltd
+SECTOR : Paper, Forest & Jute Products
+INDUSTRY : Jute & Jute Products
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 493.1		733.8		710.2		646.4		734.8		1048.3
+SQoQ%: 	-0.4		48.8		-3.2		-9.0		13.7		142.7
+YOPM%: 	13.9		13.1		11.8		10.0		6.4
+YNPM%: 	8.4		8.9		7.7		3.8		0.0
+YPROFIT: 41.3		65.3		54.4		24.4		-13.4		10.0
+PQoQ%: 	110.8		58.2		-16.7		-55.2		-154.8		-74.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 177.7		278.3		305.6		360.1		382.6
+QoQ%: 	24.4		56.6		9.8		17.8		6.2
+QOPM%: 	8.4		5.2		9.8		11.0		9.6
+QNPM%: 	0.5		0.0		1.0		2.1		0.0
+QPFT: 	0.8		-2.3		3.0		7.7		-0.7
+PQoQ%: 	-124.3		-379.5		-229.3		155.7		-109.6
+
+
+
+***PROS***
+- Last 3QSALES is about 143% YSales
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  494.9   |  493.1   |  733.8   |  710.2   |  646.4   |     456.4    
- SQoQ%:  |   -1.3   |   -0.4   |   48.8   |   -3.2   |   -9.0   |      70.6    
- YOPM%:  |   13.5   |   13.9   |   13.1   |   11.8   |   10.0   |              
- YNPM%:  |   4.0    |   8.4    |   8.9    |   7.7    |   3.8    |              
-YPROFIT: |   19.6   |   41.3   |   65.3   |   54.4   |   24.4   |     -11.0    
- PQoQ%:  |  -56.5   |  110.8   |   58.2   |  -16.7   |  -55.2   |     -45.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  137.0   |  185.0   |  135.9   |  142.8   |  177.7  
- QoQ%:  |  -15.7   |   35.1   |  -26.5   |   5.1    |   24.4  
- QOPM%: |   8.0    |   10.9   |   4.4    |   7.8    |   8.4   
- QNPM%: |   1.6    |   4.2    |   0.0    |   0.0    |   0.5   
- QPFT:  |   2.2    |   7.7    |   -8.4   |   -3.4   |   0.8   
- PQoQ%: |  -67.4   |  252.3   |  -210.0  |  -59.6   |  -124.3 
-
-***PROS***
-- Last 3QSALES is about 71% YSales
-
-Yearly 
- 31-Mar-2024 #Result
-646.40cr, QoQ -9.00% & YoY 30.61% SALES;
-64.90cr, QoQ -22.40% & YoY -2.55% OPERATING PROFIT;
-24.40cr, QoQ -55.20% & YoY 24.49% NET PROFIT;
-OPM %: 10.00% vs 11.8%
-NPM %: 3.80% vs 7.7%
-
+- NEGATIVE YProfit : -13.4

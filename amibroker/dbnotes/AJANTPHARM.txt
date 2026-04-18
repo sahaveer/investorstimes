@@ -1,40 +1,48 @@
-CODES
-532331	AJANTPHARM	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Formulations
+CODES	532331	AJANTPHARM	
+FULLNAME : Ajanta Pharma Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2889.7  |  3341.0  |  3742.6  |  4208.7  |  4648.1 
- SQoQ%:  |   11.7   |   15.6   |   12.0   |   12.5   |   10.4  
- YOPM%:  |   34.6   |   27.9   |   21.6   |   27.8   |   27.1  
- YNPM%:  |   22.6   |   21.3   |   15.7   |   19.4   |   19.8  
-YPROFIT: |  653.9   |  712.7   |  588.0   |  816.2   |  920.4  
- PQoQ%:  |   39.8   |   9.0    |  -17.5   |   38.8   |   12.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1054.1  |  1144.9  |  1186.6  |  1146.1  |  1170.4 
- QoQ%:  |   -4.6   |   8.6    |   3.6    |   -3.4   |   2.1   
- QOPM%: |   26.4   |   28.9   |   26.2   |   28.0   |   25.4  
- QNPM%: |   19.2   |   21.5   |   18.2   |   20.3   |   19.2  
- QPFT:  |  202.7   |  245.8   |  216.5   |  232.9   |  225.3  
- PQoQ%: |   -3.5   |   21.2   |  -11.9   |   7.6    |   -3.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2889.7		3341.0		3742.6		4208.7		4648.1		4031.1
+SQoQ%: 	11.7		15.6		12.0		12.5		10.4		86.7
+YOPM%: 	34.6		27.9		21.6		27.8		27.3
+YNPM%: 	22.6		21.3		15.7		19.4		19.8
+YPROFIT: 653.9		712.7		588.0		816.2		920.4		789.3
+PQoQ%: 	39.8		9.0		-17.5		38.8		12.8		85.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1146.1		1170.4		1302.6		1353.7		1374.8
+QoQ%: 	-3.4		2.1		11.3		3.9		1.6
+QOPM%: 	28.0		25.4		27.0		24.2		27.8
+QNPM%: 	20.3		19.2		19.6		19.2		19.9
+QPFT: 	232.9		225.3		255.3		260.2		273.8
+PQoQ%: 	7.6		-3.3		13.4		1.9		5.2
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 28.2%
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+ROCE in Mar2025 is at 26.8%
+- Last 3QSALES is about 87% YSales
+- Last 3QPROFIT is about 86% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 4648.10cr, QoQ 10.40% & YoY 60.85% SALES;
-1259.50cr, QoQ 7.50% & YoY 25.85% OPERATING PROFIT;
+1268.90cr, QoQ 8.30% & YoY 26.79% OPERATING PROFIT;
 920.40cr, QoQ 12.80% & YoY 40.76% NET PROFIT;
-OPM %: 27.10% vs 27.8%
+OPM %: 27.30% vs 27.8%
 NPM %: 19.80% vs 19.4%
 

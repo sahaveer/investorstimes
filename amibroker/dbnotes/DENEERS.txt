@@ -1,10 +1,25 @@
-CODES
-DENEERS	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	DENEERS	
+FULLNAME : De Neers Tools Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
+PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+
+YSALES in Mar-2025 is at 143.8 showing a QoQ_growth of 32.6%. The YNETPROFIT grew by 103.6% to 17.6
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+143.80cr, QoQ 32.60% SALES;
+27.80cr, QoQ 88.80% OPERATING PROFIT;
+17.60cr, QoQ 103.60% NET PROFIT;
+OPM %: 19.30% vs 13.5%
+NPM %: 12.30% vs 8.0%
+

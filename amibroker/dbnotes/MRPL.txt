@@ -1,35 +1,44 @@
-CODES
-500109	MRPL	
-SECTOR : Refineries
-INDUSTRY : Refineries
+CODES	500109	MRPL	
+FULLNAME : Mangalore Refinery And Petrochemicals Ltd
+SECTOR : Petroleum Products
+INDUSTRY : Refineries & Marketing
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 31959.0  | 69757.8  | 109026.0 | 90406.7  | 94681.6 
- SQoQ%:  |  -36.4   |  118.3   |   56.3   |  -17.1   |   4.7   
- YOPM%:  |   2.2    |   7.1    |   6.0    |   8.7    |   2.4   
- YNPM%:  |   0.0    |   4.2    |   2.4    |   4.0    |   0.1   
-YPROFIT: |  -765.0  |  2958.2  |  2655.4  |  3597.1  |   56.2  
- PQoQ%:  |  -77.2   |  -486.7  |  -10.2   |   35.5   |  -98.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 25328.7  | 23247.0  | 24967.9  | 21870.9  | 24595.9 
- QoQ%:  |   2.7    |   -8.2   |   7.4    |  -12.4   |   12.5  
- QOPM%: |   9.2    |   2.6    |   0.0    |   4.7    |   4.6   
- QNPM%: |   4.5    |   0.3    |   0.0    |   1.4    |   1.5   
- QPFT:  |  1138.5  |   73.2   |  -696.9  |  309.3   |  370.6  
- PQoQ%: |  190.4   |  -93.6   | -1051.8  |  -144.4  |   19.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 31959.0		69757.8		109026.0		90406.7		94681.6		64716.4
+SQoQ%: 	-36.4		118.3		56.3		-17.1		4.7		68.4
+YOPM%: 	2.2		7.1		6.0		8.7		2.4
+YNPM%: 	0.0		4.2		2.4		4.0		0.1
+YPROFIT: -765.0		2958.2		2655.4		3597.1		56.2		1807.6
+PQoQ%: 	-77.2		-486.7		-10.2		35.5		-98.4		3216.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 21870.9		24595.9		17356.2		22648.6		24711.6
+QoQ%: 	-12.4		12.5		-29.4		30.5		9.1
+QOPM%: 	4.7		4.6		1.0		6.6		11.3
+QNPM%: 	1.4		1.5		0.0		2.8		5.9
+QPFT: 	309.3		370.6		-270.7		627.4		1450.9
+PQoQ%: 	-144.4		19.8		-173.0		-331.8		131.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 68% YSales
+- Last 3QPROFIT is about 3216% of YProfit
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 94681.60cr, QoQ 4.70% & YoY 196.26% SALES;
-2292.80cr, QoQ -70.80% & YoY 224.07% OPERATING PROFIT;
+2306.40cr, QoQ -70.60% & YoY 225.99% OPERATING PROFIT;
 56.20cr, QoQ -98.40% & YoY -107.35% NET PROFIT;
 OPM %: 2.40% vs 8.7%
 NPM %: 0.10% vs 4.0%

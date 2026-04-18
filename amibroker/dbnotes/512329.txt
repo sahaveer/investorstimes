@@ -1,46 +1,52 @@
-CODE	NAME
-512329 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	512329	SGMART	
+FULLNAME : SG Mart Ltd
+SECTOR : Metals & Minerals Trading
+INDUSTRY : Trading - Metals
 EXPANSION 2024
-PRODUCT DEMAND
-BestQ Dec 2024
+EXPANSION 2025
+BestQ Dec 2025
 YSD YPD 2024
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2016 | Mar-2017 | Mar-2018 | Mar-2019 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.1    |   9.3    |   4.9    |   3.4    |  2682.9  |     4305.2   
- SQoQ%:  |   nan    |  780.2   |  -47.9   |  -30.7   | 79511.3  |     160.5    
- YOPM%:  |   53.8   |   89.1   |   70.2   |   56.1   |   2.3    |              
- YNPM%:  |   12.3   |   54.9   |   12.6   |   26.4   |   2.3    |              
-YPROFIT: |   0.1    |   5.1    |   0.6    |   0.9    |   60.9   |      70.3    
- PQoQ%:  |   nan    |  3838.5  |  -88.1   |   45.9   |  6747.2  |     115.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  748.3   |  1277.5  |  1144.4  |  1815.5  |  1345.3 
- QoQ%:  |   47.8   |   70.7   |  -10.4   |   58.6   |  -25.9  
- QOPM%: |   2.3    |   2.5    |   2.2    |   0.8    |   1.6   
- QNPM%: |   2.3    |   2.6    |   2.3    |   0.9    |   2.1   
- QPFT:  |   17.2   |   33.6   |   26.3   |   16.0   |   28.0  
- PQoQ%: |   92.1   |   95.2   |  -21.7   |  -39.3   |   75.8  
+***YEARLY***
+YPNL: 	Mar-2017	Mar-2018	Mar-2019	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 9.3		4.9		3.4		2682.9		5856.2		4492.4
+SQoQ%: 	780.2		-47.9		-30.7		79511.3		118.3		76.7
+YOPM%: 	89.1		70.2		56.1		2.3		1.8
+YNPM%: 	54.9		12.6		26.4		2.3		1.8
+YPROFIT: 5.1		0.6		0.9		60.9		103.4		69.5
+PQoQ%: 	3838.5		-88.1		45.9		6747.2		69.7		67.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1334.7		1595.0		1143.8		1704.2		1644.4
+QoQ%: 	-25.6		19.5		-28.3		49.0		-3.5
+QOPM%: 	1.6		2.3		3.1		1.6		1.0
+QNPM%: 	2.1		2.1		2.8		1.6		0.7
+QPFT: 	28.0		33.1		32.3		26.5		10.7
+PQoQ%: 	75.8		18.2		-2.5		-17.9		-59.5
+
+
 
 ***PROS***
-EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 160% YSales
-- Last 3QPROFIT is about 115% of YProfit
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 67% of YProfit
 - YProfits and YSales DOUBLED in Mar2024
-- YMargins improvised by more than 15% since Mar2019 and PROFITS been maintaining ever since.
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2019 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 118.3% while the Profit QoQ_growth is at 69.7%
 
-YSALES in Mar-2024 is at 2682.9 showing a QoQ_growth of 79511.3%. The YNETPROFIT grew by 6747.2% to 60.9
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-2682.90cr, QoQ 79511.30% & YoY 243800.00% SALES;
-61.80cr, QoQ 3170.90% & YoY 10200.00% OPERATING PROFIT;
-60.90cr, QoQ 6747.20% & YoY 60800.00% NET PROFIT;
-OPM %: 2.30% vs 56.1%
-NPM %: 2.30% vs 26.4%
+ 31-Mar-2025 #Result
+5856.20cr, QoQ 118.30% & YoY 62869.89% SALES;
+103.10cr, QoQ 66.80% & YoY 1142.17% OPERATING PROFIT;
+103.40cr, QoQ 69.70% & YoY 1927.45% NET PROFIT;
+OPM %: 1.80% vs 2.3%
+NPM %: 1.80% vs 2.3%
 

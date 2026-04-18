@@ -1,33 +1,42 @@
-CODES
-520073	RACLGEAR	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
+CODES	520073	RACLGEAR	
+FULLNAME : RACL Geartech Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 203.6		271.2		358.2		409.5		415.1		358.2
+SQoQ%: 	-4.1		33.2		32.1		14.3		1.4		86.3
+YOPM%: 	25.2		21.1		22.8		23.4		19.9
+YNPM%: 	11.5		8.8		10.4		9.6		5.7
+YPROFIT: 23.5		23.9		37.4		39.4		23.7		36.6
+PQoQ%: 	38.4		1.8		56.5		5.3		-39.7		154.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 112.8		87.3		100.6		120.3		137.3
+QoQ%: 	6.3		-22.6		15.3		19.5		14.1
+QOPM%: 	21.2		21.9		18.7		20.3		22.8
+QNPM%: 	5.8		7.4		8.2		10.0		11.9
+QPFT: 	6.5		6.5		8.3		12.0		16.3
+PQoQ%: 	0.0		-0.6		27.1		45.9		35.2
+
+
+
+***PROS***
+- Last 3QSALES is about 86% YSales
+- Last 3QPROFIT is about 154% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  203.6   |  271.2   |  358.2   |  409.5   |  415.1  
- SQoQ%:  |   -4.1   |   33.2   |   32.1   |   14.3   |   1.4   
- YOPM%:  |   25.2   |   21.1   |   22.8   |   23.4   |   19.9  
- YNPM%:  |   11.5   |   8.8    |   10.4   |   9.6    |   5.7   
-YPROFIT: |   23.5   |   23.9   |   37.4   |   39.4   |   23.7  
- PQoQ%:  |   38.4   |   1.8    |   56.5   |   5.3    |  -39.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  106.2   |  108.9   |  106.1   |  112.8   |   87.3  
- QoQ%:  |   -6.3   |   2.5    |   -2.5   |   6.3    |  -22.6  
- QOPM%: |   22.0   |   18.2   |   18.5   |   21.2   |   21.9  
- QNPM%: |   7.9    |   3.8    |   6.2    |   5.8    |   7.4   
- QPFT:  |   8.4    |   4.2    |   6.5    |   6.5    |   6.5   
- PQoQ%: |  -30.0   |  -50.7   |   57.6   |   0.0    |   -0.6  
-
-***PROS***
 
 Yearly 
  31-Mar-2025 #Result
 415.10cr, QoQ 1.40% & YoY 103.88% SALES;
-82.50cr, QoQ -13.90% & YoY 60.82% OPERATING PROFIT;
+82.50cr, QoQ -14.00% & YoY 60.82% OPERATING PROFIT;
 23.70cr, QoQ -39.70% & YoY 0.85% NET PROFIT;
 OPM %: 19.90% vs 23.4%
 NPM %: 5.70% vs 9.6%

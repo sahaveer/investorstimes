@@ -1,13 +1,14 @@
-CODES
-NMSTEEL	
+CODES	NMSTEEL	
+FULLNAME : Newmalayalam Steel Ltd
 SECTOR : Steel
 INDUSTRY : Steel - Medium / Small
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

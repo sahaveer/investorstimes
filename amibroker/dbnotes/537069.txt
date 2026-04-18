@@ -1,44 +1,43 @@
-CODE	NAME
-537069 
-
+CODES	537069	
+FULLNAME : Arnold Holdings Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
-YSD YPD 2022
-LYPD PM 2024
-YS15 YPD 2024
+INDUSTRY : Non Banking Financial Company (NBFC)
+BestQ Dec 2025
 
-***CONS***
-  YPNL   |   :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+-------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  24.1 |   37.3   |  118.7   |  163.0   |  204.6   |  155.8   |              
- SQoQ%:  |  46.7 |   54.7   |  217.8   |   37.3   |   25.5   |   76.1   |              
- YOPM%:  |  9.2  |   2.4    |   6.7    |   6.7    |   8.3    |          |              
- YNPM%:  |  6.5  |   1.8    |   1.3    |   2.3    |   4.3    |          |              
-YPROFIT: |  1.6  |   0.7    |   1.5    |   3.8    |   8.8    |   10.5   |              
- PQoQ%:  | 460.7 |  -56.1   |  118.8   |  152.3   |  131.5   |  119.3   |              
-  QPNL  |   :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+-------+----------+----------+----------+----------+---------
-QSALES: |  55.1 |   63.1   |   65.0   |   51.6   |   39.2   |         
- QoQ%:  |  5.2  |   14.4   |   3.0    |  -20.5   |  -24.0   |         
- QOPM%: |  4.2  |   20.8   |   11.9   |   9.9    |   12.9   |         
- QNPM%: |  1.4  |   10.2   |   7.3    |   5.7    |   7.5    |         
- QPFT:  |  0.8  |   6.4    |   4.7    |   2.9    |   2.9    |         
- PQoQ%: | -27.6 |  743.4   |  -26.1   |  -38.0   |   0.0    |         
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 37.3		118.7		163.0		205.8		201.3		121.2
+SQoQ%: 	54.7		217.8		37.3		26.3		-2.2		60.2
+YOPM%: 	2.4		6.7		6.7		9.9		6.3
+YNPM%: 	1.8		1.3		2.3		4.3		2.6
+YPROFIT: 0.7		1.5		3.8		8.8		5.3		6.4
+PQoQ%: 	-56.1		118.8		152.3		131.5		-39.6		120.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 39.2		45.6		44.4		38.8		38.0
+QoQ%: 	-24.0		16.1		-2.4		-12.6		-2.0
+QOPM%: 	12.9		0.0		14.0		10.7		10.1
+QNPM%: 	7.5		0.0		7.2		4.3		4.0
+QPFT: 	2.9		-5.3		3.2		1.7		1.5
+PQoQ%: 	0.0		-279.9		-160.7		-48.3		-9.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 76% YSales
-- Last 3QPROFIT is about 119% of YProfit
-- YProfits and YSales DOUBLED in Mar2022
-- LastYr YProfits Doubled and maintained in Mar2024
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
-As on Mar2024, Sales have increased by 25.5% while the Profit QoQ_growth is much better than Sales itself at 131.5%
+- Last 3QSALES is about 60% YSales
+- Last 3QPROFIT is about 121% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-204.60cr, QoQ 25.50% & YoY 748.96% SALES;
-17.00cr, QoQ 56.50% & YoY 672.73% OPERATING PROFIT;
-8.80cr, QoQ 131.50% & YoY 450.00% NET PROFIT;
-OPM %: 8.30% vs 6.7%
-NPM %: 4.30% vs 2.3%
+ 31-Mar-2025 #Result
+201.30cr, QoQ -2.20% & YoY 439.68% SALES;
+12.60cr, QoQ -38.00% & YoY 1300.00% OPERATING PROFIT;
+5.30cr, QoQ -39.60% & YoY 657.14% NET PROFIT;
+OPM %: 6.30% vs 9.9%
+NPM %: 2.60% vs 4.3%
 

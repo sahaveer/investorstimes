@@ -1,37 +1,34 @@
-CODE	NAME
-531380 
-
-SECTOR : Healthcare
-INDUSTRY : Healthcare
+CODES	531380	
+FULLNAME : Centenial Surgical Suture Ltd
+SECTOR : Healthcare Equipment & Supplies
+INDUSTRY : Medical Equipment & Supplies
 PRODUCT DEMAND
 
-***CONS***
-  YPNL   |   :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+-------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  55.6 |   36.9   |   44.4   |   52.7   |   51.2   |   40.2   |              
- SQoQ%:  |  -0.8 |  -33.6   |   20.3   |   18.5   |   -2.8   |   78.5   |              
- YOPM%:  |  10.7 |   13.8   |   10.1   |   8.4    |   10.1   |          |              
- YNPM%:  |  2.3  |   2.6    |   1.4    |   1.7    |   2.2    |          |              
-YPROFIT: |  1.3  |   1.0    |   0.6    |   0.9    |   1.1    |   -0.4   |              
- PQoQ%:  | -35.6 |  -26.2   |  -34.4   |   41.3   |   27.0   |  -36.4   |              
-  QPNL  |  :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+------+----------+----------+----------+----------+---------
-QSALES: | 12.4 |   12.0   |   13.7   |   14.3   |   12.2   |         
- QoQ%:  | -5.5 |   -2.7   |   14.0   |   3.9    |  -14.5   |         
- QOPM%: | 9.6  |   12.5   |   12.5   |   12.1   |   6.1    |         
- QNPM%: | 2.5  |   1.6    |   2.2    |   0.9    |   0.0    |         
- QPFT:  | 0.3  |   0.2    |   0.3    |   0.1    |   -0.8   |         
- PQoQ%: | 29.2 |  -38.7   |   57.9   |  -56.7   |  -753.8  |         
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 36.9		44.4		52.7		51.2		53.5		41.3
+SQoQ%: 	-33.6		20.3		18.5		-2.8		4.5		77.2
+YOPM%: 	13.8		10.1		8.4		10.1		12.0
+YNPM%: 	2.6		1.4		1.7		2.2		0.0
+YPROFIT: 1.0		0.6		0.9		1.1		-1.5		0.2
+PQoQ%: 	-26.2		-34.4		41.3		27.0		-229.2		-13.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 12.2		13.3		12.9		13.5		14.9
+QoQ%: 	-14.5		9.1		-2.8		4.0		10.4
+QOPM%: 	6.1		15.5		9.5		10.3		10.3
+QNPM%: 	0.0		0.0		0.0		0.0		1.0
+QPFT: 	-0.8		-1.2		-0.0		-0.0		0.2
+PQoQ%: 	-753.8		38.8		-96.6		-75.0		-1600.0
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 79% YSales
+- Last 3QSALES is about 77% YSales
 
-Yearly 
- 31-Mar-2024 #Result
-51.20cr, QoQ -2.80% & YoY -7.91% SALES;
-5.10cr, QoQ 17.00% & YoY -13.56% OPERATING PROFIT;
-1.10cr, QoQ 27.00% & YoY -15.38% NET PROFIT;
-OPM %: 10.10% vs 8.4%
-NPM %: 2.20% vs 1.7%
-
+***CONS***
+- NEGATIVE YProfit : -1.5

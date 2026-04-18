@@ -1,13 +1,10 @@
-CODE	NAME
-539521 
-
+CODES	539521	
+FULLNAME : Navigant Corporate Advisors Ltd
 SECTOR : Finance
 INDUSTRY : Finance & Investments
 YSD YPD 2022
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
@@ -19,6 +16,9 @@ ROCE in Mar2024 is at 62.3%
 
 
 YSALES in Mar-2024 is at 7.4 showing a QoQ_growth of 19.6%. The YNETPROFIT grew by 37.2% to 1.2
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

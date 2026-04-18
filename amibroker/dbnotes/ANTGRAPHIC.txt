@@ -1,30 +1,36 @@
-CODES
-ANTGRAPHIC	
-SECTOR : Packaging
+CODES	ANTGRAPHIC	
+FULLNAME : Antarctica Ltd
+SECTOR : Industrial Products
 INDUSTRY : Packaging
 PRODUCT DEMAND
+YSD YPD 2025
 
-***CONS***
-- NEGATIVE YProfit : -0.4
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.3    |   1.1    |   1.0    |   0.7    |   0.8    |      18.2    
- SQoQ%:  |  -15.9   |  -18.2   |   -4.6   |  -34.0   |   23.5   |     2275.0   
- YOPM%:  |   12.9   |   0.0    |   10.7   |   0.0    |   0.0    |              
- YNPM%:  |   3.0    |   1.9    |   1.9    |   0.0    |   0.0    |              
-YPROFIT: |   0.0    |   0.0    |   0.0    |   -0.0   |   -0.4   |      -1.0    
- PQoQ%:  |  -128.6  |  -50.0   |   0.0    |  -150.0  |  4200.0  |     250.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.2    |   0.2    |   0.1    |   0.3    |   17.8  
- QoQ%:  |   9.1    |  -12.5   |  -33.3   |  107.1   |  6048.3 
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   3.4   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   3.3   
- QPFT:  |   -0.1   |   -0.2   |   -0.2   |   -1.4   |   0.6   
- PQoQ%: |  -22.2   |  228.6   |   -4.3   |  513.6   |  -143.7 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.1		1.0		0.7		0.8		25.0		32.4
+SQoQ%: 	-18.2		-4.6		-34.0		23.5		2882.1		129.6
+YOPM%: 	0.0		10.7		0.0		0.0		3.2
+YNPM%: 	1.9		1.9		0.0		0.0		0.0
+YPROFIT: 0.0		0.0		-0.0		-0.4		-0.3		1.3
+PQoQ%: 	-50.0		0.0		-150.0		4200.0		-25.6		-433.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 17.8		6.8		5.0		5.0		22.4
+QoQ%: 	4357.5		-61.9		-26.5		0.2		348.8
+QOPM%: 	3.4		25.6		20.2		19.6		0.1
+QNPM%: 	3.3		9.6		13.8		8.0		1.0
+QPFT: 	0.6		0.6		0.7		0.4		0.2
+PQoQ%: 	-395.0		10.2		6.2		-42.0		-45.0
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 2275% YSales
+- Last 3QSALES is about 130% YSales
+- YProfits and YSales DOUBLED in Mar2025
 
-YSALES in Mar-2024 is at 0.8 showing a QoQ_growth of 23.5%. The YNETPROFIT grew by 4200.0% to -0.4
+***CONS***
+- NEGATIVE YProfit : -0.3

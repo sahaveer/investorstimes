@@ -1,29 +1,38 @@
-CODES
-532732	KKCL	
-SECTOR : Readymade Garments/ Apparells
-INDUSTRY : Textiles - Products
+CODES	532732	KKCL	
+FULLNAME : Kewal Kiran Clothing Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Garments & Apparels
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 302.7		607.6		779.4		860.5		1002.8		889.0
+SQoQ%: 	-42.8		100.7		28.3		10.4		16.5		88.7
+YOPM%: 	6.2		16.4		19.5		20.6		19.0
+YNPM%: 	6.5		13.4		15.3		17.9		14.4
+YPROFIT: 19.8		81.6		119.0		154.1		144.5		110.4
+PQoQ%: 	-72.9		312.3		45.8		29.5		-6.2		76.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 255.2		288.1		233.8		354.1		301.1
+QoQ%: 	-17.2		12.9		-18.9		51.5		-15.0
+QOPM%: 	18.4		18.1		17.8		20.0		20.9
+QNPM%: 	9.6		10.1		13.4		12.7		11.3
+QPFT: 	24.6		29.1		31.3		44.9		34.2
+PQoQ%: 	-62.5		18.4		7.4		43.5		-23.9
+
+
+
+***PROS***
+- Last 3QSALES is about 89% YSales
+- Last 3QPROFIT is about 76% of YProfit
+
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  302.7   |  607.6   |  779.4   |  860.5   |  1002.8 
- SQoQ%:  |  -42.8   |  100.7   |   28.3   |   10.4   |   16.5  
- YOPM%:  |   6.2    |   16.4   |   19.5   |   20.6   |   19.0  
- YNPM%:  |   6.5    |   13.4   |   15.3   |   17.9   |   14.4  
-YPROFIT: |   19.8   |   81.6   |  119.0   |  154.1   |  144.5  
- PQoQ%:  |  -72.9   |  312.3   |   45.8   |   29.5   |   -6.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  219.4   |  151.2   |  308.2   |  255.2   |  288.1  
- QoQ%:  |   9.6    |  -31.1   |  103.8   |  -17.2   |   12.9  
- QOPM%: |   19.3   |   18.2   |   20.7   |   18.4   |   18.1  
- QNPM%: |   17.3   |   16.7   |   21.3   |   9.6    |   10.1  
- QPFT:  |   37.8   |   25.2   |   65.5   |   24.6   |   29.1  
- PQoQ%: |   13.9   |  -33.4   |  159.9   |  -62.5   |   18.4  
-
-***PROS***
-
 
 Yearly 
  31-Mar-2025 #Result

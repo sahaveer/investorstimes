@@ -1,13 +1,14 @@
-CODES
-PRECISION	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
+CODES	PRECISION	
+FULLNAME : Precision Metaliks Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

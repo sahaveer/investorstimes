@@ -1,37 +1,45 @@
-CODE	NAME
-539545 
-
+CODES	539545	
+FULLNAME : Apoorva Leasing Finance & Investment Co Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Other Financial Services
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   22.0   |   5.5    |   10.0   |   5.1    |   3.7    |      1.6     
- SQoQ%:  |   7.2    |  -74.9   |   81.7   |  -49.6   |  -27.0   |      43.2    
- YOPM%:  |   20.9   |   74.7   |   60.6   |   55.2   |   67.0   |              
- YNPM%:  |   15.6   |   62.2   |   66.8   |   40.6   |   55.7   |              
-YPROFIT: |   3.4    |   3.4    |   6.7    |   2.1    |   2.1    |      0.7     
- PQoQ%:  |  -27.6   |   0.0    |   95.1   |  -69.3   |   0.0    |      33.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.0    |   0.6    |   0.7    |   0.7    |   0.2   
- QoQ%:  |   5.2    |  -38.2   |   6.3    |   4.5    |  -72.9  
- QOPM%: |   81.4   |   9.5    |   59.7   |   77.1   |   15.8  
- QNPM%: |   87.3   |   0.0    |   44.8   |   55.7   |   15.8  
- QPFT:  |   0.9    |   -0.2   |   0.3    |   0.4    |   0.0   
- PQoQ%: |   3.5    |  -123.6  |  -242.9  |   30.0   |  -92.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 5.5		10.0		5.1		3.7		1.2		0.6
+SQoQ%: 	-74.9		81.7		-49.6		-27.0		-66.2		50.0
+YOPM%: 	74.7		60.6		55.2		67.0		39.2
+YNPM%: 	62.2		66.8		40.6		55.7		32.8
+YPROFIT: 3.4		6.7		2.1		2.1		0.4		0.3
+PQoQ%: 	0.0		95.1		-69.3		0.0		-80.1		75.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.2		-0.4		0.2		0.2		0.2
+QoQ%: 	-72.9		-284.2		-157.1		10.0		-4.5
+QOPM%: 	15.8		0.0		15.0		31.8		66.7
+QNPM%: 	15.8		0.0		10.0		27.3		85.7
+QPFT: 	0.0		-0.3		0.0		0.1		0.2
+PQoQ%: 	-92.3		-1100.0		-106.7		200.0		200.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 50% YSales
+- Last 3QPROFIT is about 75% of YProfit
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-3.70cr, QoQ -27.00% & YoY -83.18% SALES;
-2.50cr, QoQ -11.40% & YoY -45.65% OPERATING PROFIT;
-2.10cr, QoQ 0.00% & YoY -38.24% NET PROFIT;
-OPM %: 67.00% vs 55.2%
-NPM %: 55.70% vs 40.6%
+ 31-Mar-2025 #Result
+1.20cr, QoQ -66.20% & YoY -78.18% SALES;
+0.50cr, QoQ -80.20% & YoY -87.80% OPERATING PROFIT;
+0.40cr, QoQ -80.10% & YoY -88.24% NET PROFIT;
+OPM %: 39.20% vs 67.0%
+NPM %: 32.80% vs 55.7%
 

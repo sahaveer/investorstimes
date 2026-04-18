@@ -1,40 +1,45 @@
-CODE	NAME
-531310 
-
+CODES	531310	
+FULLNAME : Available Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+INDUSTRY : Other Financial Services
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.1    |   0.6    |   0.7    |   0.6    |   0.6    |      0.3     
- SQoQ%:  |  103.6   |  -51.8   |   25.5   |  -11.6   |   -9.8   |      50.0    
- YOPM%:  |   88.6   |   67.3   |   65.2   |   65.6   |   52.7   |              
- YNPM%:  |  4312.3  | 15450.9  | 30282.6  | 28226.2  | 21603.6  |              
-YPROFIT: |   49.2   |   85.0   |  209.0   |  172.2   |  118.8   |      72.1    
- PQoQ%:  |   39.3   |   72.9   |  145.9   |  -17.6   |  -31.0   |      60.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.1    |   0.1    |   0.1    |   0.1    |   0.1   
- QoQ%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QOPM%: |   64.3   |   57.1   |   57.1   |   42.9   |   50.0  
- QNPM%: | 34714.3  | 23507.1  | 25328.6  | 11457.1  | 14742.9 
- QPFT:  |   48.6   |   32.9   |   35.5   |   16.0   |   20.6  
- PQoQ%: |  212.7   |  -32.3   |   7.7    |  -54.8   |   28.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.6		0.7		0.6		0.6		0.6		0.6
+SQoQ%: 	-51.8		25.5		-11.6		-9.8		3.6		100.0
+YOPM%: 	67.3		65.2		65.6		52.7		52.6
+YNPM%: 	15450.9		30282.6		28226.2		21603.6		18282.5
+YPROFIT: 85.0		209.0		172.2		118.8		104.2		87.5
+PQoQ%: 	72.9		145.9		-17.6		-31.0		-12.3		84.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.1		0.1		0.2		0.2		0.2
+QoQ%: 	0.0		0.0		7.1		0.0		0.0
+QOPM%: 	50.0		64.3		33.3		66.7		53.3
+QNPM%: 	14742.9		22900.0		24993.3		15566.7		17746.7
+QPFT: 	20.6		32.1		37.5		23.4		26.6
+PQoQ%: 	28.7		55.3		16.9		-37.7		14.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 50% YSales
-- Last 3QPROFIT is about 61% of YProfit
+- Last 3QSALES is about 100% YSales
+- Last 3QPROFIT is about 84% of YProfit
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-0.60cr, QoQ -9.80% & YoY -45.45% SALES;
-0.30cr, QoQ -27.50% & YoY -70.00% OPERATING PROFIT;
-118.80cr, QoQ -31.00% & YoY 141.46% NET PROFIT;
-OPM %: 52.70% vs 65.6%
-NPM %: 21603.60% vs 28226.2%
+ 31-Mar-2025 #Result
+0.60cr, QoQ 3.60% & YoY 0.00% SALES;
+0.30cr, QoQ 3.40% & YoY -25.00% OPERATING PROFIT;
+104.20cr, QoQ -12.30% & YoY 22.59% NET PROFIT;
+OPM %: 52.60% vs 52.7%
+NPM %: 18282.50% vs 21603.6%
 

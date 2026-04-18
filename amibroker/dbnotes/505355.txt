@@ -1,31 +1,40 @@
-CODES
-505355	NESCO	
-SECTOR : Realty
-INDUSTRY : Construction
+CODES	505355	NESCO	
+FULLNAME : NESCO Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  291.1   |  337.4   |  546.0   |  678.2   |  732.0  
- SQoQ%:  |  -32.6   |   15.9   |   61.8   |   24.2   |   7.9   
- YOPM%:  |   63.8   |   65.3   |   67.3   |   62.9   |   59.8  
- YNPM%:  |   59.2   |   56.1   |   53.2   |   53.5   |   51.3  
-YPROFIT: |  172.5   |  189.2   |  290.6   |  362.8   |  375.2  
- PQoQ%:  |  -26.3   |   9.7    |   53.6   |   24.8   |   3.4   
- QPNL:  | Sep-2023 | Dec-2023 | Mar-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  174.8   |  177.8   |  189.0   |  206.5   |  192.0  
- QoQ%:  |   28.0   |   1.7    |   6.3    |   9.3    |   -7.0  
- QOPM%: |   62.3   |   64.0   |   62.1   |   60.7   |   55.6  
- QNPM%: |   50.2   |   52.7   |   55.6   |   53.2   |   46.1  
- QPFT:  |   87.8   |   93.8   |  105.1   |  109.9   |   88.6  
- PQoQ%: |   15.4   |   6.8    |   12.1   |   4.6    |  -19.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 291.1		337.4		546.0		678.2		732.0		680.4
+SQoQ%: 	-32.6		15.9		61.8		24.2		7.9		93.0
+YOPM%: 	63.8		65.3		67.3		62.9		59.8
+YNPM%: 	59.2		56.1		53.2		53.5		51.3
+YPROFIT: 172.5		189.2		290.6		362.8		375.2		319.6
+PQoQ%: 	-26.3		9.7		53.6		24.8		3.4		85.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 206.5		192.0		193.3		239.2		247.9
+QoQ%: 	7.5		-7.0		0.7		23.7		3.7
+QOPM%: 	60.7		55.6		57.1		56.9		50.8
+QNPM%: 	53.2		46.2		49.7		49.7		42.2
+QPFT: 	109.9		88.6		96.1		118.9		104.6
+PQoQ%: 	2.9		-19.4		8.5		23.7		-12.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 36.9%
+- Last 3QSALES is about 93% YSales
+- Last 3QPROFIT is about 85% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

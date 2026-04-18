@@ -1,33 +1,36 @@
-CODE	NAME
-511451 
-
+CODES	511451	
+FULLNAME : Dharani Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-PRODUCT DEMAND
+INDUSTRY : Non Banking Financial Company (NBFC)
+BestQ Dec 2025
 
-***CONS***
-- NEGATIVE YProfit : -0.3
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.0    |   0.5    |   1.0    |   0.6    |   0.7    |      1.0     
- SQoQ%:  |   -9.4   |  -43.7   |   87.0   |  -42.6   |   27.6   |     142.9    
- YOPM%:  |   31.2   |   38.9   |   39.6   |   5.2    |   0.0    |              
- YNPM%:  |   0.0    |   1.9    |   29.7   |   0.0    |   0.0    |              
-YPROFIT: |   -0.3   |   0.0    |   0.3    |   -0.1   |   -0.3   |      0.6     
- PQoQ%:  |  833.3   |  -103.6  |  2900.0  |  -143.3  |  130.8   |     -200.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.4    |   -0.1   |   0.4    |   0.2    |   0.4   
- QoQ%:  |   69.2   |  -115.9  |  -642.9  |  -39.5   |   82.6  
- QOPM%: |   36.4   |   0.0    |   89.5   |   56.5   |   59.5  
- QNPM%: |   38.6   |   0.0    |   81.6   |   47.8   |   54.8  
- QPFT:  |   0.2    |   -0.3   |   0.3    |   0.1    |   0.2   
- PQoQ%: |  -342.9  |  -264.7  |  -210.7  |  -64.5   |  109.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.5		1.0		0.6		0.7		1.4		1.1
+SQoQ%: 	-43.7		87.0		-42.6		27.6		89.2		78.6
+YOPM%: 	38.9		39.6		5.2		0.0		67.1
+YNPM%: 	1.9		29.7		0.0		0.0		60.0
+YPROFIT: 0.0		0.3		-0.1		-0.3		0.8		0.5
+PQoQ%: 	-103.6		2900.0		-143.3		130.8		-380.0		62.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.4		0.4		0.4		0.3		0.4
+QoQ%: 	82.6		-9.5		-5.3		-8.3		12.1
+QOPM%: 	59.5		55.3		66.7		69.7		81.1
+QNPM%: 	54.8		50.0		44.4		30.3		43.2
+QPFT: 	0.2		0.2		0.2		0.1		0.2
+PQoQ%: 	109.1		-17.4		-15.8		-37.5		60.0
+
+
 
 ***PROS***
-A DEBT-Free Company
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 143% YSales
+A DEBT-Free Company for the last 2 yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 62% of YProfit
+- YProfit Turned POSITIVE this year Mar-2025 : 0.8
 
-
-YSALES in Mar-2024 is at 0.7 showing a QoQ_growth of 27.6%. The YNETPROFIT grew by 130.8% to -0.3
+***CONS***

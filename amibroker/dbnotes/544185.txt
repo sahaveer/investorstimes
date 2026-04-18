@@ -1,13 +1,14 @@
-CODE	NAME
-544185 
-
+CODES	544185	
+FULLNAME : Adtech Systems Ltd
 SECTOR : IT - Hardware
 INDUSTRY : Computers - Hardware
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

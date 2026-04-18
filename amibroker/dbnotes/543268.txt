@@ -1,12 +1,37 @@
-CODES
-543268	DRCSYSTEMS	
+CODES	543268	DRCSYSTEMS	
+FULLNAME : DRC Systems India Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+INDUSTRY : Computers - Software & Consulting
+EXPANSION 2024
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+DEBT-Free Company for the last 3 yrs
+EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
+- PRODUCT DEMAND is rising since 3 years
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 33.5%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.5
+- Last 3QSALES is about 104% YSales
+- Last 3QPROFIT is about 94% of YProfit
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 37.1% while the Profit QoQ_growth is at 29.4%
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+65.40cr, QoQ 37.10% SALES;
+20.90cr, QoQ 40.60% OPERATING PROFIT;
+15.10cr, QoQ 29.40% NET PROFIT;
+OPM %: 32.00% vs 31.2%
+NPM %: 23.00% vs 24.4%
+

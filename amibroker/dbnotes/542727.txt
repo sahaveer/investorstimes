@@ -1,13 +1,14 @@
-CODE	NAME
-542727 
+CODES	542727	
+FULLNAME : City Pulse Multiventures Ltd
+SECTOR : Retailing
+INDUSTRY : Speciality Retail
 
-SECTOR : Entertainment
-INDUSTRY : Entertainment / Electronic Media Software
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

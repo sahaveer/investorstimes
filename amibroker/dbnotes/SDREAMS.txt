@@ -1,16 +1,17 @@
-CODES
-SDREAMS	
+CODES	SDREAMS	
+FULLNAME : S D Retail Ltd
 SECTOR : Textiles
 INDUSTRY : Textiles - Products
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 
 YSALES in Mar-2024 is at 141.6 showing a QoQ_growth of 16.7%. The YNETPROFIT grew by 76.7% to 7.6
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

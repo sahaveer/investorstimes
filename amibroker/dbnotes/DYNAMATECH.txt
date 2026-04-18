@@ -1,38 +1,44 @@
-CODES
-505242	DYNAMATECH	
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
-LYPD PM 2024
+CODES	505242	DYNAMATECH	
+FULLNAME : Dynamatic Technologies Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
+PRODUCT DEMAND
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1230.1  |  1118.2  |  1253.4  |  1315.8  |  1429.3  |     1023.1   
- SQoQ%:  |  -18.0   |   -9.1   |   12.1   |   5.0    |   8.6    |      71.6    
- YOPM%:  |   12.9   |   11.4   |   13.7   |   14.0   |   11.3   |              
- YNPM%:  |   3.2    |   0.0    |   1.2    |   3.3    |   8.5    |              
-YPROFIT: |   39.1   |  -21.9   |   15.5   |   42.8   |  121.8   |      26.9    
- PQoQ%:  |   42.2   |  -156.0  |  -170.7  |  176.6   |  184.7   |      22.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  345.5   |  370.4   |  346.3   |  361.4   |  315.4  
- QoQ%:  |   -1.5   |   7.2    |   -6.5   |   4.4    |  -12.7  
- QOPM%: |   11.8   |   11.6   |   11.6   |   11.4   |   12.5  
- QNPM%: |   3.3    |   15.4   |   3.3    |   3.3    |   1.1   
- QPFT:  |   11.2   |   57.1   |   11.4   |   12.0   |   3.5   
- PQoQ%: |   -7.1   |  408.1   |  -80.1   |   5.6    |  -70.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1118.2		1253.4		1315.8		1429.3		1403.8		1188.2
+SQoQ%: 	-9.1		12.1		5.0		8.6		-1.8		84.6
+YOPM%: 	11.4		13.7		14.0		11.3		11.4
+YNPM%: 	0.0		1.2		3.3		8.5		3.1
+YPROFIT: -21.9		15.5		42.8		121.8		43.0		19.9
+PQoQ%: 	-156.0		-170.7		176.6		184.7		-64.7		46.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 315.4		380.7		370.9		392.4		424.9
+QoQ%: 	-12.7		20.7		-2.6		5.8		8.3
+QOPM%: 	12.5		10.0		10.2		11.8		11.8
+QNPM%: 	1.1		4.2		2.9		0.8		1.4
+QPFT: 	3.5		16.1		10.8		3.3		5.8
+PQoQ%: 	-70.7		355.8		-33.1		-69.3		74.3
+
+
 
 ***PROS***
-- Last 3QSALES is about 72% YSales
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
-- LastYr YProfits Doubled and maintained in Mar2024
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 85% YSales
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1429.30cr, QoQ 8.60% & YoY 16.19% SALES;
-161.50cr, QoQ -12.10% & YoY 1.38% OPERATING PROFIT;
-121.80cr, QoQ 184.70% & YoY 211.51% NET PROFIT;
-OPM %: 11.30% vs 14.0%
-NPM %: 8.50% vs 3.3%
+ 31-Mar-2025 #Result
+1403.80cr, QoQ -1.80% & YoY 25.54% SALES;
+160.30cr, QoQ -0.70% & YoY 25.92% OPERATING PROFIT;
+43.00cr, QoQ -64.70% & YoY -296.35% NET PROFIT;
+OPM %: 11.40% vs 11.3%
+NPM %: 3.10% vs 8.5%
 

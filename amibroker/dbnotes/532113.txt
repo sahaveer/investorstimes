@@ -1,26 +1,46 @@
-CODE	NAME
-532113 
-
+CODES	532113	
+FULLNAME : Brijlaxmi Leasing & Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.4    |   0.4    |   0.8    |   2.2    |   3.2    |      1.6     
- SQoQ%:  |  -27.1   |  -11.6   |  110.5   |  170.0   |   47.2   |      50.0    
- YOPM%:  |   11.6   |   2.6    |   42.5   |   0.0    |   72.6   |              
- YNPM%:  |   7.0    |   0.0    |   8.8    |   0.0    |   23.9   |              
-YPROFIT: |   0.0    |   0.0    |   0.1    |   -0.1   |   0.8    |      -1.9    
- PQoQ%:  |  -66.7   |  -100.0  |   inf    |  -214.3  | -1050.0  |     -237.5   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.9    |   0.6    |   0.5    |   0.6    |   0.5   
- QoQ%:  |   -7.9   |  -37.6   |  -13.8   |   12.0   |   -8.9  
- QOPM%: |   77.4   |   32.8   |   60.0   |   58.9   |   60.8  
- QNPM%: |   29.0   |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   0.3    |   -0.0   |   -0.6   |   -0.7   |   -0.6  
- PQoQ%: |  -28.9   |  -107.4  |  3050.0  |   14.3   |  -15.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.4		0.8		2.2		2.5		6.3		2.0
+SQoQ%: 	-11.6		110.5		170.0		17.1		150.6		31.7
+YOPM%: 	2.6		42.5		0.0		66.0		84.5
+YNPM%: 	0.0		8.8		0.0		30.0		24.9
+YPROFIT: 0.0		0.1		-0.1		0.8		1.6		0.7
+PQoQ%: 	-100.0		inf		-214.3		-1050.0		107.9		43.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.5		4.8		0.6		0.8		0.6
+QoQ%: 	-8.9		839.2		-88.3		35.7		-14.5
+QOPM%: 	60.8		92.5		78.6		78.9		29.2
+QNPM%: 	0.0		74.1		33.9		50.0		10.8
+QPFT: 	-0.6		3.6		0.2		0.4		0.1
+PQoQ%: 	-15.3		-682.0		-94.6		100.0		-81.6
+
+
 
 ***PROS***
-- YProfit Turned POSITIVE this year Mar-2024 : 0.8
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+YSALES in Mar-2025 is at 6.3 showing a QoQ_growth of 150.6%. The YNETPROFIT grew by 107.9% to 1.6
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+6.30cr, QoQ 150.60% & YoY 1475.00% SALES;
+5.40cr, QoQ 221.00% & YoY inf% OPERATING PROFIT;
+1.60cr, QoQ 107.90% & YoY inf% NET PROFIT;
+OPM %: 84.50% vs 66.0%
+NPM %: 24.90% vs 30.0%
+

@@ -1,12 +1,14 @@
-CODES
-544254	TOLINS	
+CODES	544254	TOLINS	
+FULLNAME : Tolins Tyres Ltd
 SECTOR : Tyres
 INDUSTRY : Tyres
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

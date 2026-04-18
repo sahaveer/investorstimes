@@ -1,18 +1,19 @@
-CODES
-OBSCP	
+CODES	OBSCP	
+FULLNAME : OBSC Perfection Ltd
 SECTOR : Auto Ancillaries
 INDUSTRY : Auto Ancillaries
 LYPD PM 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 24.6% while the Profit QoQ_growth is much better than Sales itself at 37.3%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

@@ -1,12 +1,11 @@
-CODES
-VIVIANA	
-SECTOR : Capital Goods - Electrical Equipment
-INDUSTRY : Transmisson Line Towers / Equipment
+CODES	VIVIANA	
+FULLNAME : Viviana Power Tech Ltd
+SECTOR : Industrials
+INDUSTRY : Construction
 YSD YPD 2025
 LYPD PM 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -16,6 +15,8 @@ ROCE in Mar2025 is at 21.8%
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2025, Sales have increased by 187.5% while the Profit QoQ_growth is at 159.7%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

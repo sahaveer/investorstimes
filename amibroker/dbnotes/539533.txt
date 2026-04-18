@@ -1,13 +1,14 @@
-CODE	NAME
-539533 
-
+CODES	539533	
+FULLNAME : Elitecon International Ltd
 SECTOR : Tobacco Products
 INDUSTRY : Miscellaneous
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

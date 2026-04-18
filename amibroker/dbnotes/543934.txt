@@ -1,13 +1,14 @@
-CODE	NAME
-543934 
+CODES	543934	
+FULLNAME : Machhar Industries Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

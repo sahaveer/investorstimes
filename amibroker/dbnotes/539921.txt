@@ -1,13 +1,14 @@
-CODE	NAME
-539921 
+CODES	539921	
+FULLNAME : Shanti Educational Initiatives Ltd
+SECTOR : Other Consumer Services
+INDUSTRY : Education
 
-SECTOR : Education
-INDUSTRY : Miscellaneous
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

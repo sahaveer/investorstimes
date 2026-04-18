@@ -1,14 +1,12 @@
-CODE	NAME
-543443 
-
-SECTOR : Education
-INDUSTRY : Miscellaneous
+CODES	543443	
+FULLNAME : Ascensive Educare Ltd
+SECTOR : Other Consumer Services
+INDUSTRY : Education
 EXPANSION 2025
 PRODUCT DEMAND
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -16,6 +14,8 @@ EXPANSION ??- EXPANSION underway in Mar-2025, Better to Check the next Quarterly
 - PRODUCT DEMAND is rising since 3 years
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 69.1% while the Profit QoQ_growth is much better than Sales itself at 97.7%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

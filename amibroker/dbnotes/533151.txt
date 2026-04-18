@@ -1,35 +1,44 @@
-CODES
-533151	DBCORP	
-SECTOR : Media - Print/Television/Radio
-INDUSTRY : Entertainment / Electronic Media Software
+CODES	533151	DBCORP	
+FULLNAME : D B Corp Ltd
+SECTOR : Media
+INDUSTRY : Print Media
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1507.7  |  1768.5  |  2129.2  |  2402.1  |  2339.1 
- SQoQ%:  |  -32.2   |   17.3   |   20.4   |   12.8   |   -2.6  
- YOPM%:  |   20.4   |   17.3   |   15.2   |   25.9   |   23.3  
- YNPM%:  |   9.4    |   8.1    |   7.9    |   17.7   |   15.9  
-YPROFIT: |  141.4   |  142.6   |  169.1   |  425.5   |  371.0  
- PQoQ%:  |  -48.6   |   0.8    |   18.6   |  151.7   |  -12.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  617.1   |  589.8   |  559.0   |  642.6   |  547.7  
- QoQ%:  |   -4.3   |   -4.4   |   -5.2   |   15.0   |  -14.8  
- QOPM%: |   27.9   |   27.9   |   21.6   |   27.6   |   15.1  
- QNPM%: |   19.9   |   20.0   |   14.8   |   18.4   |   9.6   
- QPFT:  |  122.5   |  117.9   |   82.6   |  118.2   |   52.3  
- PQoQ%: |   -1.2   |   -3.8   |  -29.9   |   43.2   |  -55.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1507.7		1768.5		2129.2		2402.1		2339.1		1779.1
+SQoQ%: 	-32.2		17.3		20.4		12.8		-2.6		76.1
+YOPM%: 	20.4		17.3		15.2		25.9		23.3
+YNPM%: 	9.4		8.1		7.9		17.7		15.9
+YPROFIT: 141.4		142.6		169.1		425.5		371.0		269.8
+PQoQ%: 	-48.6		0.8		18.6		151.7		-12.8		72.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 642.6		547.7		559.4		614.4		605.3
+QoQ%: 	15.0		-14.8		2.2		9.8		-1.5
+QOPM%: 	27.6		15.1		19.8		22.5		22.3
+QNPM%: 	18.4		9.6		14.4		15.2		15.8
+QPFT: 	118.2		52.3		80.8		93.5		95.5
+PQoQ%: 	43.2		-55.7		54.5		15.6		2.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 73% of YProfit
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 2339.10cr, QoQ -2.60% & YoY 55.14% SALES;
-544.90cr, QoQ -12.50% & YoY 77.49% OPERATING PROFIT;
+546.10cr, QoQ -12.30% & YoY 77.88% OPERATING PROFIT;
 371.00cr, QoQ -12.80% & YoY 162.38% NET PROFIT;
 OPM %: 23.30% vs 25.9%
 NPM %: 15.90% vs 17.7%

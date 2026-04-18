@@ -1,38 +1,47 @@
-CODES
-509631	HEG	
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Electrodes - Graphites
-BestQ Dec 2024
+CODES	509631	HEG	
+FULLNAME : HEG Ltd
+SECTOR : Industrial Products
+INDUSTRY : Electrodes & Refractories
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  2144.8  |  1254.3  |  2200.5  |  2462.6  |  2393.3  |     1617.5   
- SQoQ%:  |  -67.5   |  -41.5   |   75.4   |   11.9   |   -2.8   |      67.6    
- YOPM%:  |   0.0    |   0.0    |   24.1   |   25.1   |   16.0   |              
- YNPM%:  |   3.2    |   0.0    |   19.6   |   21.6   |   13.0   |              
-YPROFIT: |   67.6   |  -17.9   |  431.0   |  532.4   |  311.7   |     188.7    
- PQoQ%:  |  -97.8   |  -126.5  | -2502.7  |   23.5   |  -41.5   |      60.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  562.4   |  546.9   |  571.5   |  567.6   |  478.4  
- QoQ%:  |   -8.4   |   -2.8   |   4.5    |   -0.7   |  -15.7  
- QOPM%: |   15.4   |   7.5    |   6.8    |   17.0   |   14.0  
- QNPM%: |   7.8    |   6.0    |   4.0    |   14.5   |   17.4  
- QPFT:  |   43.7   |   32.9   |   23.0   |   82.3   |   83.4  
- PQoQ%: |  -54.5   |  -24.6   |  -30.0   |  257.1   |   1.4   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1254.3		2200.5		2462.6		2393.3		2157.5		1972.4
+SQoQ%: 	-41.5		75.4		11.9		-2.8		-9.9		91.4
+YOPM%: 	0.0		24.1		25.1		16.0		11.8
+YNPM%: 	0.0		19.6		21.6		13.0		5.3
+YPROFIT: -17.9		431.0		532.4		311.7		115.1		455.1
+PQoQ%: 	-126.5		-2502.7		23.5		-41.5		-63.1		395.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 478.4		542.2		616.9		699.2		656.3
+QoQ%: 	-15.7		13.4		13.8		13.3		-6.1
+QOPM%: 	14.0		0.0		17.1		16.9		21.7
+QNPM%: 	17.4		0.0		17.0		20.5		31.5
+QPFT: 	83.4		-73.7		104.8		143.3		207.0
+PQoQ%: 	1.4		-188.3		-242.3		36.7		44.4
+
+
 
 ***PROS***
-- Last 3QSALES is about 68% YSales
-- Last 3QPROFIT is about 61% of YProfit
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 91% YSales
+- Last 3QPROFIT is about 395% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-2393.30cr, QoQ -2.80% & YoY 11.59% SALES;
-382.40cr, QoQ -38.20% & YoY -7904.08% OPERATING PROFIT;
-311.70cr, QoQ -41.50% & YoY 361.09% NET PROFIT;
-OPM %: 16.00% vs 25.1%
-NPM %: 13.00% vs 21.6%
+ 31-Mar-2025 #Result
+2157.50cr, QoQ -9.90% & YoY 72.01% SALES;
+255.20cr, QoQ -33.30% & YoY -579.70% OPERATING PROFIT;
+115.10cr, QoQ -63.10% & YoY -743.02% NET PROFIT;
+OPM %: 11.80% vs 16.0%
+NPM %: 5.30% vs 13.0%
 

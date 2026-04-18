@@ -1,23 +1,46 @@
-CODES
-GICL	
-SECTOR : Logistics
-INDUSTRY : Miscellaneous
+CODES	GICL	
+FULLNAME : Globe International Carriers Ltd
+SECTOR : Transport Services
+INDUSTRY : Logistics Solution Provider
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 80.2		107.7		113.7		114.5		156.7		120.3
+SQoQ%: 	-8.5		34.4		5.5		0.7		36.8		76.8
+YOPM%: 	4.1		3.7		4.4		4.9		5.8
+YNPM%: 	1.1		1.3		1.7		2.2		3.1
+YPROFIT: 0.9		1.4		1.9		2.6		4.8		8.0
+PQoQ%: 	130.8		60.0		33.3		33.3		87.5		166.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 38.3		48.1		35.4		37.6		47.3
+QoQ%: 	-3.0		25.6		-26.4		6.1		25.9
+QOPM%: 	7.0		7.3		8.9		9.4		21.5
+QNPM%: 	4.0		4.0		5.0		4.7		9.2
+QPFT: 	1.5		1.9		1.8		1.8		4.4
+PQoQ%: 	240.0		26.1		-8.8		0.6		146.9
 
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 167% of YProfit
 
-YSALES in Mar-2025 is at 156.5 showing a QoQ_growth of 36.7%. The YNETPROFIT grew by 98.8% to 4.9
+YSALES in Mar-2025 is at 156.7 showing a QoQ_growth of 36.8%. The YNETPROFIT grew by 87.5% to 4.8
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-156.50cr, QoQ 36.70% & YoY 95.62% SALES;
-9.20cr, QoQ 65.70% & YoY 178.79% OPERATING PROFIT;
-4.90cr, QoQ 98.80% & YoY 444.44% NET PROFIT;
-OPM %: 5.90% vs 4.9%
+156.70cr, QoQ 36.80% & YoY 95.39% SALES;
+9.10cr, QoQ 61.70% & YoY 175.76% OPERATING PROFIT;
+4.80cr, QoQ 87.50% & YoY 433.33% NET PROFIT;
+OPM %: 5.80% vs 4.9%
 NPM %: 3.10% vs 2.2%
 

@@ -1,36 +1,41 @@
-CODES
-532998	LOTUSEYE	
-SECTOR : 
-INDUSTRY : 
+CODES	532998	LOTUSEYE	
+FULLNAME : Lotus Eye Hospital & Institute Ltd
+SECTOR : Healthcare Services
+INDUSTRY : Hospital
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 32.4		38.9		47.0		48.2		49.6		40.1
+SQoQ%: 	-20.2		20.2		20.9		2.5		2.8		80.8
+YOPM%: 	11.2		15.2		16.3		13.8		7.2
+YNPM%: 	4.9		7.7		8.7		6.0		1.5
+YPROFIT: 1.6		3.0		4.1		2.9		0.7		0.3
+PQoQ%: 	48.1		89.8		36.9		-28.7		-74.6		42.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 12.2		11.5		13.5		13.0		13.6
+QoQ%: 	-5.1		-6.0		17.5		-3.6		3.9
+QOPM%: 	6.4		0.0		10.9		5.9		4.9
+QNPM%: 	0.0		2.2		4.0		0.9		0.0
+QPFT: 	-0.2		0.2		0.5		0.1		-0.3
+PQoQ%: 	-340.0		-204.2		116.0		-77.8		-316.7
+
+
+
+***PROS***
+- Last 3QSALES is about 81% YSales
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   40.6   |   32.4   |   38.9   |   47.0   |   48.2   |      38.0    
- SQoQ%:  |   5.5    |  -20.2   |   20.2   |   20.9   |   2.5    |      78.8    
- YOPM%:  |   9.8    |   11.2   |   15.2   |   16.3   |   13.8   |              
- YNPM%:  |   2.6    |   4.9    |   7.7    |   8.7    |   6.0    |              
-YPROFIT: |   1.1    |   1.6    |   3.0    |   4.1    |   2.9    |      0.5     
- PQoQ%:  |   49.3   |   48.1   |   89.8   |   36.9   |  -28.7   |      17.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   12.0   |   10.9   |   12.9   |   12.9   |   12.2  
- QoQ%:  |   -5.5   |   -9.6   |   18.5   |   0.2    |   -5.1  
- QOPM%: |   13.1   |   7.0    |   12.9   |   8.9    |   6.4   
- QNPM%: |   5.5    |   0.2    |   4.8    |   0.8    |   0.0   
- QPFT:  |   0.7    |   0.0    |   0.6    |   0.1    |   -0.2  
- PQoQ%: |  -22.4   |  -97.0   |  3000.0  |  -83.9   |  -340.0 
-
-***PROS***
-A DEBT-Free Company for the last 2 yrs
-- Last 3QSALES is about 79% YSales
 
 Yearly 
- 31-Mar-2024 #Result
-48.20cr, QoQ 2.50% & YoY 18.72% SALES;
-6.60cr, QoQ -13.70% & YoY 65.00% OPERATING PROFIT;
-2.90cr, QoQ -28.70% & YoY 163.64% NET PROFIT;
-OPM %: 13.80% vs 16.3%
-NPM %: 6.00% vs 8.7%
+ 31-Mar-2025 #Result
+49.60cr, QoQ 2.80% & YoY 53.09% SALES;
+3.60cr, QoQ -46.30% & YoY 0.00% OPERATING PROFIT;
+0.70cr, QoQ -74.60% & YoY -56.25% NET PROFIT;
+OPM %: 7.20% vs 13.8%
+NPM %: 1.50% vs 6.0%
 

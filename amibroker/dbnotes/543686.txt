@@ -1,37 +1,45 @@
-CODES
-543686	SIRCA	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	543686	SIRCA	
+FULLNAME : Sirca Paints India Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Paints
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  140.6   |  196.0   |  264.0   |  311.2   |  374.0  
- SQoQ%:  |   4.8    |   39.4   |   34.7   |   17.9   |   20.2  
- YOPM%:  |   8.7    |   19.5   |   23.4   |   22.1   |   18.0  
- YNPM%:  |   11.8   |   14.1   |   17.5   |   16.5   |   13.1  
-YPROFIT: |   16.6   |   27.7   |   46.1   |   51.4   |   49.1  
- PQoQ%:  |  -34.1   |   67.2   |   66.3   |   11.5   |   -4.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   82.6   |   78.7   |  105.5   |   88.7   |  101.1  
- QoQ%:  |   14.0   |   -4.8   |   34.1   |  -15.9   |   14.0  
- QOPM%: |   19.7   |   17.9   |   18.0   |   17.4   |   18.8  
- QNPM%: |   15.1   |   13.0   |   12.6   |   12.9   |   14.0  
- QPFT:  |   12.5   |   10.2   |   13.3   |   11.5   |   14.1  
- PQoQ%: |   19.0   |  -18.4   |   30.1   |  -13.7   |   23.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 140.6		196.0		264.0		311.2		372.2		358.2
+SQoQ%: 	4.8		39.4		34.7		17.9		19.6		96.2
+YOPM%: 	8.7		19.5		23.4		22.1		18.1
+YNPM%: 	11.8		14.1		17.5		16.5		13.2
+YPROFIT: 16.6		27.7		46.1		51.4		49.1		47.3
+PQoQ%: 	-34.1		67.2		66.3		11.5		-4.6		96.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 88.6		100.9		114.2		131.2		112.8
+QoQ%: 	-15.9		13.8		13.2		14.8		-14.0
+QOPM%: 	17.4		18.8		19.7		20.9		20.4
+QNPM%: 	12.9		14.0		12.4		13.8		13.3
+QPFT: 	11.5		14.1		14.2		18.1		15.0
+PQoQ%: 	-13.7		23.1		0.6		27.5		-17.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 96% YSales
+- Last 3QPROFIT is about 96% of YProfit
 
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
-374.00cr, QoQ 20.20% & YoY 166.00% SALES;
-67.40cr, QoQ -1.80% & YoY 452.46% OPERATING PROFIT;
+372.20cr, QoQ 19.60% & YoY 164.72% SALES;
+67.50cr, QoQ -1.70% & YoY 453.28% OPERATING PROFIT;
 49.10cr, QoQ -4.60% & YoY 195.78% NET PROFIT;
-OPM %: 18.00% vs 22.1%
-NPM %: 13.10% vs 16.5%
+OPM %: 18.10% vs 22.1%
+NPM %: 13.20% vs 16.5%
 

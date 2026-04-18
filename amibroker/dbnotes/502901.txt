@@ -1,30 +1,36 @@
-CODE	NAME
-502901 
+CODES	502901	
+FULLNAME : Jamshri Realty Ltd
+SECTOR : Realty
+INDUSTRY : Residential, Commercial Projects
+PRODUCT DEMAND
+LYPD PM 2025
 
-SECTOR : Diversified
-INDUSTRY : Diversified - Medium / Small
-LYPD PM 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.8		3.0		3.9		5.4		7.0		5.5
+SQoQ%: 	19.7		65.4		29.2		38.6		30.4		78.6
+YOPM%: 	0.0		0.0		0.0		0.0		9.5
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -3.6		-5.9		-4.3		-3.4		-1.2		0.0
+PQoQ%: 	-38.0		64.6		-27.3		-20.2		-63.5		-0.0
 
-***CONS***
-- NO PRODUCT DEMAND
-- NEGATIVE YProfit : -3.4
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.5    |   1.8    |   3.0    |   3.9    |   5.4    |      5.4     
- SQoQ%:  |   inf    |   19.7   |   65.4   |   29.2   |   38.6   |     100.0    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -5.7   |   -3.6   |   -5.9   |   -4.3   |   -3.4   |      -0.8    
- PQoQ%:  |   70.8   |  -38.0   |   64.6   |  -27.3   |  -20.2   |      23.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.5    |   1.6    |   1.7    |   1.8    |   1.9   
- QoQ%:  |   19.2   |   7.4    |   4.4    |   6.6    |   6.2   
- QOPM%: |   1.3    |   0.6    |   9.0    |   5.6    |   17.5  
- QNPM%: |   0.0    |   0.0    |   0.6    |   0.0    |   0.0   
- QPFT:  |   -0.4   |   -0.3   |   0.0    |   -0.4   |   -0.4  
- PQoQ%: |  -71.6   |  -17.5   |  -103.0  | -4000.0  |   0.0   
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1.9		1.7		1.8		1.9		1.8
+QoQ%: 	6.2		-11.1		9.5		4.9		-5.7
+QOPM%: 	17.5		6.5		31.0		28.0		37.9
+QNPM%: 	0.0		0.0		4.9		0.0		0.0
+QPFT: 	-0.4		-0.5		0.1		-0.1		0.0
+PQoQ%: 	0.0		17.9		-119.6		-188.9		-100.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 100% YSales
-- LastYr YProfits Doubled and maintained in Mar2024
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 79% YSales
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -1.2

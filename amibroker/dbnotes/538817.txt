@@ -1,13 +1,14 @@
-CODE	NAME
-538817 
+CODES	538817	
+FULLNAME : Captain Pipes Ltd
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial
 
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

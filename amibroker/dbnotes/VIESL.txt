@@ -1,10 +1,11 @@
-CODES
-VIESL	
+CODES	VIESL	
+FULLNAME : Vision Infra Equipment Solutions Ltd
 SECTOR : Trading
 INDUSTRY : Trading
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

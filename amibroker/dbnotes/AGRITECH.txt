@@ -1,13 +1,15 @@
-CODES
-537292	AGRITECH	
-SECTOR : FMCG
-INDUSTRY : Miscellaneous
+CODES	537292	AGRITECH	
+FULLNAME : Agri-Tech (India) Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Other Agricultural Products
 
-***CONS***
-- NEGATIVE YProfit : -3.0
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -3.0

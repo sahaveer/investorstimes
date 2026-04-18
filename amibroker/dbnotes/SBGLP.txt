@@ -1,12 +1,30 @@
-CODES
-543218	SBGLP	
+CODES	543218	SBGLP	
+FULLNAME : Suratwwala Business Group Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
+EXPANSION 2025
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+EXPANSION ??- EXPANSION underway in Mar-2025, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+- Last 3QSALES is about 236% YSales
+- Last 3QPROFIT is about 224% of YProfit
+
+
+***CONS***
+- NO PRODUCT DEMAND
+
+Yearly 
+ 31-Mar-2025 #Result
+35.60cr, QoQ -50.50% SALES;
+14.20cr, QoQ -63.20% OPERATING PROFIT;
+11.00cr, QoQ -60.40% NET PROFIT;
+OPM %: 39.80% vs 53.5%
+NPM %: 30.90% vs 38.6%
+

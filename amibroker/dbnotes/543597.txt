@@ -1,24 +1,14 @@
-CODE	NAME
-543597 
-
+CODES	543597	
+FULLNAME : Virtuoso Optoelectronics Ltd
 SECTOR : Consumer Durables
-INDUSTRY : Domestic Appliances
-PRODUCT DEMAND
+INDUSTRY : Diversified consumer products
 
-***CONS***
+***YEARLY***
 
+
+***QUARTERLY***
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
-As on Mar2024, Sales have increased by 57.5% while the Profit QoQ_growth is at 30.4%
 
-Yearly 
- 31-Mar-2024 #Result
-531.10cr, QoQ 57.50% & YoY 678.74% SALES;
-51.50cr, QoQ 53.20% & YoY 543.75% OPERATING PROFIT;
-10.10cr, QoQ 30.40% & YoY 621.43% NET PROFIT;
-OPM %: 9.70% vs 10.0%
-NPM %: 1.90% vs 2.3%
-
+***CONS***

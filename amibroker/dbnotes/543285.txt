@@ -1,17 +1,17 @@
-CODE	NAME
-543285 
-
+CODES	543285	
+FULLNAME : Rajeshwari Cans Ltd
 SECTOR : Packaging
 INDUSTRY : Packaging
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
 - LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

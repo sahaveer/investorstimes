@@ -1,28 +1,39 @@
-CODES
-534076	RHIM	
-SECTOR : Refractories
-INDUSTRY : Refractories / Intermediates
+CODES	534076	RHIM	
+FULLNAME : RHI Magnesita India Ltd
+SECTOR : Industrial Products
+INDUSTRY : Electrodes & Refractories
 PRODUCT DEMAND
+BestQ Dec 2025
+LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -100.4
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1387.6  |  1370.4  |  1999.4  |  2726.3  |  3781.1  |     2756.6   
- SQoQ%:  |   85.5   |   -1.2   |   45.9   |   36.4   |   38.7   |      72.9    
- YOPM%:  |   15.5   |   15.3   |   19.5   |   13.2   |   14.7   |              
- YNPM%:  |   9.8    |   10.0   |   13.5   |   0.0    |   0.0    |              
-YPROFIT: |  135.9   |  136.6   |  269.0   |  -466.1  |  -100.4  |     166.3    
- PQoQ%:  |   51.3   |   0.5    |   96.9   |  -273.3  |  -78.4   |     -165.6   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  922.9   |  943.3   |  878.8   |  867.1   |  1010.7 
- QoQ%:  |   -6.5   |   2.2    |   -6.8   |   -1.3   |   16.6  
- QOPM%: |   12.7   |   15.7   |   17.5   |   12.4   |   12.4  
- QNPM%: |   4.3    |   0.0    |   8.3    |   5.3    |   4.7   
- QPFT:  |   39.4   |  -257.9  |   72.9   |   45.9   |   47.5  
- PQoQ%: |  -44.8   |  -754.9  |  -128.3  |  -37.0   |   3.6   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1370.4		1999.4		2726.3		3781.1		3674.5		3087.7
+SQoQ%: 	-1.2		45.9		36.4		38.7		-2.8		84.0
+YOPM%: 	15.3		19.5		13.2		14.7		13.1
+YNPM%: 	10.0		13.5		0.0		0.0		5.5
+YPROFIT: 136.6		269.0		-466.1		-100.4		202.5		135.3
+PQoQ%: 	0.5		96.9		-273.3		-78.4		-301.6		66.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1010.7		918.0		960.3		1035.4		1092.0
+QoQ%: 	16.6		-9.2		4.6		7.8		5.5
+QOPM%: 	12.4		10.1		10.6		10.6		13.1
+QNPM%: 	4.7		3.9		3.7		3.7		5.6
+QPFT: 	47.5		36.2		35.3		38.4		61.6
+PQoQ%: 	3.6		-23.9		-2.5		8.7		60.5
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 73% YSales
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 67% of YProfit
+- YProfit Turned POSITIVE this year Mar-2025 : 202.5
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***

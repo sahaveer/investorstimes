@@ -1,11 +1,11 @@
-CODE	NAME
-544366 
-
+CODES	544366	
+FULLNAME : L.K.Mehta Polymers Ltd
 SECTOR : Plastic products
 INDUSTRY : Plastics Products
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

@@ -1,39 +1,43 @@
-CODE	NAME
-530213 
+CODES	530213	
+FULLNAME : Fortune International Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+BestQ Dec 2025
 
-SECTOR : Trading
-INDUSTRY : Trading
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3.8		2.1		0.0		0.0		0.0		0.0
+SQoQ%: 	inf		-45.5		-100.0		nan		nan		nan
+YOPM%: 	89.0		78.8		0.0		0.0		0.0
+YNPM%: 	295.3		313.9		inf		inf		inf
+YPROFIT: 11.3		6.5		7.2		5.0		4.2		2.7
+PQoQ%: 	-1890.5		-42.1		9.5		-29.4		-16.8		64.3
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   3.8    |   2.1    |   0.0    |   0.0    |      0.0     
- SQoQ%:  |  -100.0  |   inf    |  -45.5   |  -100.0  |   nan    |      nan     
- YOPM%:  |   0.0    |   89.0   |   78.8   |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |  295.3   |  313.9   |   inf    |   inf    |              
-YPROFIT: |   -0.6   |   11.3   |   6.5    |   7.2    |   5.0    |      3.6     
- PQoQ%:  |  -108.1  | -1890.5  |  -42.1   |   9.5    |  -29.4   |      72.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   inf    |   inf    |   inf    |   inf    |   inf   
- QPFT:  |   0.7    |   2.0    |   1.4    |   1.6    |   0.6   
- PQoQ%: |  -770.0  |  197.0   |  -28.6   |   15.5   |  -61.6  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	inf		inf		inf		inf		inf
+QPFT: 	0.6		0.5		1.7		0.4		0.6
+PQoQ%: 	-61.6		-19.0		239.2		-75.1		34.9
+
+
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
+DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.4
-- Last 3QPROFIT is about 72% of YProfit
-- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- Last 3QPROFIT is about 64% of YProfit
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
--0.20cr, QoQ 0.00% & YoY -95.65% OPERATING PROFIT;
-5.00cr, QoQ -29.40% & YoY -933.33% NET PROFIT;
+ 31-Mar-2025 #Result
+-0.20cr, QoQ -11.80% & YoY -105.88% OPERATING PROFIT;
+4.20cr, QoQ -16.80% & YoY -62.83% NET PROFIT;
 OPM %: 0.00% vs 0.0%
 NPM %: inf% vs inf%
 

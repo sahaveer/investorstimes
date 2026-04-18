@@ -1,26 +1,31 @@
-CODE	NAME
-523888 
-
+CODES	523888	
+FULLNAME : V R Woodart Ltd
 SECTOR : Plantation & Plantation Products
 INDUSTRY : Miscellaneous
 
-***CONS***
-- NEGATIVE YProfit : -0.1
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |      0.0     
- SQoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan    |      nan     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -0.1   |   -0.2   |   -0.1   |   -0.1   |   -0.1   |      -0.0    
- PQoQ%:  |   20.0   |   33.3   |  -18.8   |   7.7    |  -35.7   |      0.0     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.0   |   -0.0   |   -0.0   |   -0.0   |   -0.0  
- PQoQ%: |   0.0    |   0.0    |   0.0    |   0.0    |   50.0  
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2022	Mar-2023	Mar-2024	QSUM:Dec-2024
+YSALES: 	0.0		0.0		0.0		0.0		0.0		0.0
+SQoQ%: 	nan		nan		nan		nan		nan		nan
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: 	-0.1		-0.2		-0.1		-0.1		-0.1		-0.0
+PQoQ%: 	20.0		33.3		-18.8		7.7		-35.7		0.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2023		Mar-2024	Jun-2024	Sep-2024		Dec-2024
+QSALES: 	0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-0.0		-0.0		-0.0		-0.0		-0.0
+PQoQ%: 	0.0		0.0		0.0		0.0		50.0
+
+
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -0.1

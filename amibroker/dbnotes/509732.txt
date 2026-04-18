@@ -1,31 +1,34 @@
-CODE	NAME
-509732 
+CODES	509732	
+FULLNAME : Kothari Industrial Corporation Ltd
+SECTOR : Fertilizers & Agrochemicals
+INDUSTRY : Fertilizers
 
-SECTOR : Trading
-INDUSTRY : Trading
-PRODUCT DEMAND
-LYPD PM 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 11.9		9.5		9.6		13.6		86.6		139.2
+SQoQ%: 	-32.6		-20.4		1.3		42.4		535.2		160.7
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		232.3		0.0
+YPROFIT: -0.7		-11.0		-19.8		31.7		-16.2		-27.0
+PQoQ%: 	-90.4		1516.2		79.9		-260.3		-151.0		166.7
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   17.6   |   11.9   |   9.5    |   9.6    |   13.6   |      60.2    
- SQoQ%:  |   -3.9   |  -32.6   |  -20.4   |   1.3    |   42.4   |     442.6    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |  232.3   |              
-YPROFIT: |   -7.0   |   -0.7   |  -11.0   |  -19.8   |   31.7   |      -3.1    
- PQoQ%:  | -1255.7  |  -90.4   |  1516.2  |   79.9   |  -260.3  |      -9.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   2.2    |   3.5    |   13.4   |   21.7   |   25.1  
- QoQ%:  |  -63.9   |   61.3   |  284.3   |   61.4   |   15.6  
- QOPM%: |   0.0    |   0.0    |   2.8    |   2.1    |   0.0   
- QNPM%: |   0.0    |   0.0    |   2.0    |   0.4    |   0.0   
- QPFT:  |   -4.1   |  -15.5   |   0.3    |   0.1    |   -3.5  
- PQoQ%: |  -106.3  |  281.3   |  -101.7  |  -66.7   | -4011.1 
+
+
+***QUARTERLY***
+QPNL: 	Sep-2024	Dec-2024	Jun-2025	Sep-2025	Dec-2025
+QSALES: 21.7		25.1		39.2		49.4		50.6
+QoQ%: 	61.4		15.6		56.2		25.9		2.6
+QOPM%: 	2.1		0.0		0.0		0.0		0.0
+QNPM%: 	0.4		0.0		0.0		0.0		0.0
+QPFT: 	0.1		-3.5		-1.9		-6.6		-18.5
+PQoQ%: 	-66.7		-4011.1		-45.5		241.7		182.6
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 443% YSales
-- YProfit Turned POSITIVE this year Mar-2024 : 31.7
-- LastYr YProfits Doubled and maintained in Mar2024
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 161% YSales
+
+
+***CONS***
+- NEGATIVE YProfit : -16.2

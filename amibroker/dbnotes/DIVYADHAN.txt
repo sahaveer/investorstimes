@@ -1,15 +1,16 @@
-CODES
-DIVYADHAN	
+CODES	DIVYADHAN	
+FULLNAME : Divyadhan Recycling Industries Ltd
 SECTOR : Textiles
 INDUSTRY : Textiles - Processing
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

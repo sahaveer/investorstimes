@@ -1,38 +1,42 @@
-CODE	NAME
-531397 
+CODES	531397	
+FULLNAME : Polycon International Ltd
+SECTOR : Industrial Products
+INDUSTRY : Packaging
 
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 27.6		30.6		26.2		23.0		22.1		13.1
+SQoQ%: 	-8.0		10.6		-14.2		-12.2		-4.2		59.3
+YOPM%: 	11.1		10.8		11.7		13.6		6.2
+YNPM%: 	0.0		0.0		0.2		0.3		0.6
+YPROFIT: -0.3		-0.1		0.1		0.1		0.1		-2.0
+PQoQ%: 	-89.6		-66.7		-160.0		0.0		133.3		-2000.0
 
-***CONS***
-  YPNL   |    :    | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+---------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   30.0  |   27.6   |   30.6   |   26.2   |   23.0   |   17.1   |              
- SQoQ%:  |  -20.0  |   -8.0   |   10.6   |  -14.2   |  -12.2   |   74.3   |              
- YOPM%:  |   7.0   |   11.1   |   10.8   |   11.7   |   13.6   |          |              
- YNPM%:  |   0.0   |   0.0    |   0.0    |   0.2    |   0.3    |          |              
-YPROFIT: |   -2.9  |   -0.3   |   -0.1   |   0.1    |   0.1    |   0.5    |              
- PQoQ%:  | -2020.0 |  -89.6   |  -66.7   |  -160.0  |   0.0    |  500.0   |              
-  QPNL  |   :    | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+--------+----------+----------+----------+----------+---------
-QSALES: |  6.1   |   5.6    |   5.8    |   5.9    |   5.4    |         
- QoQ%:  |  14.1  |   -8.1   |   4.8    |   1.0    |   -8.0   |         
- QOPM%: |  11.6  |   23.7   |   8.7    |   14.4   |   0.0    |         
- QNPM%: |  0.0   |   10.1   |   0.0    |   0.0    |   14.7   |         
- QPFT:  |  -0.1  |   0.6    |   -0.3   |   0.0    |   0.8    |         
- PQoQ%: | -275.0 |  -900.0  |  -158.9  |  -100.0  |   inf    |         
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 5.4		4.9		4.4		3.9		4.8
+QoQ%: 	-8.0		-10.1		-10.7		-11.5		25.4
+QOPM%: 	0.0		11.3		13.8		0.0		2.7
+QNPM%: 	14.7		0.0		0.0		0.0		0.0
+QPFT: 	0.8		-0.3		-0.3		-1.0		-0.7
+PQoQ%: 	inf		-141.2		-21.2		292.3		-32.4
+
+
 
 ***PROS***
-- Last 3QSALES is about 74% YSales
-- Last 3QPROFIT is about 500% of YProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- Last 3QSALES is about 59% YSales
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-23.00cr, QoQ -12.20% & YoY -23.33% SALES;
-3.10cr, QoQ 2.30% & YoY 47.62% OPERATING PROFIT;
-0.10cr, QoQ 0.00% & YoY -103.45% NET PROFIT;
-OPM %: 13.60% vs 11.7%
-NPM %: 0.30% vs 0.2%
+ 31-Mar-2025 #Result
+22.10cr, QoQ -4.20% & YoY -19.93% SALES;
+1.40cr, QoQ -56.50% & YoY -54.84% OPERATING PROFIT;
+0.10cr, QoQ 133.30% & YoY -133.33% NET PROFIT;
+OPM %: 6.20% vs 13.6%
+NPM %: 0.60% vs 0.3%
 

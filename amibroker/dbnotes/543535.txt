@@ -1,31 +1,40 @@
-CODES
-543535	WEWIN	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	543535	WEWIN	
+FULLNAME : We Win Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO)
 EXPANSION 2024
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   36.1   |   41.6   |   48.8   |   65.0   |   78.5  
- SQoQ%:  |   -9.7   |   15.1   |   17.3   |   33.3   |   20.7  
- YOPM%:  |   8.2    |   10.1   |   9.8    |   8.7    |   8.2   
- YNPM%:  |   3.1    |   5.1    |   4.9    |   3.8    |   2.1   
-YPROFIT: |   1.1    |   2.1    |   2.4    |   2.4    |   1.6   
- PQoQ%:  |  -49.8   |   91.1   |   12.1   |   1.7    |  -32.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   19.4   |   18.8   |   20.4   |   19.3   |   20.3  
- QoQ%:  |   16.0   |   -2.8   |   8.3    |   -5.5   |   5.3   
- QOPM%: |   9.5    |   8.4    |   6.6    |   3.4    |   13.8  
- QNPM%: |   4.7    |   3.6    |   0.9    |   0.0    |   5.3   
- QPFT:  |   0.9    |   0.7    |   0.2    |   -0.3   |   1.1   
- PQoQ%: |   21.1   |  -27.2   |  -71.6   |  -252.6  |  -472.4 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 36.1		41.6		48.8		65.0		78.5		62.9
+SQoQ%: 	-9.7		15.1		17.3		33.3		20.7		80.1
+YOPM%: 	8.2		10.1		9.8		8.7		8.2
+YNPM%: 	3.1		5.1		4.9		3.8		2.1
+YPROFIT: 1.1		2.1		2.4		2.4		1.6		3.6
+PQoQ%: 	-49.8		91.1		12.1		1.7		-32.4		225.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 19.3		20.3		20.3		20.8		21.8
+QoQ%: 	-5.5		5.3		0.2		2.1		4.9
+QOPM%: 	3.4		13.8		7.8		4.1		8.8
+QNPM%: 	0.0		5.3		2.9		8.6		5.4
+QPFT: 	-0.3		1.1		0.6		1.8		1.2
+PQoQ%: 	-252.6		-472.4		-45.4		203.4		-34.6
+
+
 
 ***PROS***
 EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 225% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

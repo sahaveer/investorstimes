@@ -1,14 +1,14 @@
-CODE	NAME
-544270 
-
+CODES	544270	
+FULLNAME : Khyati Global Ventures Ltd
 SECTOR : Trading
 INDUSTRY : Trading
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

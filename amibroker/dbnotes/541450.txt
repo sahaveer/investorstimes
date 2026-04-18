@@ -1,37 +1,46 @@
-CODES
-541450	ADANIGREEN	
-SECTOR : Power Generation & Distribution
-INDUSTRY : Power Generation And Supply
+CODES	541450	ADANIGREEN	
+FULLNAME : Adani Green Energy Ltd
+SECTOR : Power
+INDUSTRY : Power Generation
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  3124.0  |  5133.0  |  7776.0  |  9220.0  | 11212.0 
- SQoQ%:  |   22.6   |   64.3   |   51.5   |   18.6   |   21.6  
- YOPM%:  |   71.7   |   68.4   |   63.9   |   79.4   |   79.2  
- YNPM%:  |   6.7    |   9.5    |   12.5   |   11.9   |   12.9  
-YPROFIT: |  210.0   |  489.0   |  974.0   |  1100.0  |  1444.0 
- PQoQ%:  | -1004.0  |  132.9   |   99.2   |   12.9   |   31.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2527.0  |  2835.0  |  3055.0  |  2340.0  |  3073.0 
- QoQ%:  |   9.3    |   12.2   |   7.8    |  -23.4   |   31.3  
- QOPM%: |   72.6   |   86.2   |   72.2   |   80.3   |   78.2  
- QNPM%: |   5.9    |   15.7   |   9.0    |   21.0   |   7.5   
- QPFT:  |  150.0   |  446.0   |  276.0   |  492.0   |  230.0  
- PQoQ%: |  -41.4   |  197.3   |  -38.1   |   78.3   |  -53.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3124.0		5133.0		7792.0		9220.0		11212.0		9426.0
+SQoQ%: 	22.6		64.3		51.8		18.3		21.6		84.1
+YOPM%: 	71.7		68.4		63.8		79.6		79.3
+YNPM%: 	6.7		9.5		12.5		11.9		12.9
+YPROFIT: 210.0		489.0		974.0		1100.0		1444.0		1255.0
+PQoQ%: 	-1004.0		132.9		99.2		12.9		31.3		86.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2340.0		3073.0		3800.0		3008.0		2618.0
+QoQ%: 	-22.1		31.3		23.7		-20.8		-13.0
+QOPM%: 	80.3		77.9		80.1		86.5		85.6
+QNPM%: 	21.0		7.5		18.8		19.4		0.0
+QPFT: 	492.0		230.0		713.0		583.0		-41.0
+PQoQ%: 	78.3		-53.3		210.0		-18.2		-107.0
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 87% of YProfit
 
 YSALES in Mar-2025 is at 11212.0 showing a QoQ_growth of 21.6%. The YNETPROFIT grew by 31.3% to 1444.0
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 11212.00cr, QoQ 21.60% & YoY 258.90% SALES;
-8877.00cr, QoQ 21.30% & YoY 296.12% OPERATING PROFIT;
+8889.00cr, QoQ 21.10% & YoY 296.65% OPERATING PROFIT;
 1444.00cr, QoQ 31.30% & YoY 587.62% NET PROFIT;
-OPM %: 79.20% vs 79.4%
+OPM %: 79.30% vs 79.6%
 NPM %: 12.90% vs 11.9%
 

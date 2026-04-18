@@ -1,13 +1,14 @@
-CODES
-ETML	
+CODES	ETML	
+FULLNAME : Emerald Tyre Manufacturers Ltd
 SECTOR : Tyres
 INDUSTRY : Tyres
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

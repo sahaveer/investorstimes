@@ -1,28 +1,21 @@
-CODES
-PARAGON	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
-PRODUCT DEMAND
-LYPD PM 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+CODES	PARAGON	
+FULLNAME : Paragon Fine and Speciality Chemical Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Dyes And Pigments
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 15.3%
-- LastYr YProfits Doubled and maintained in Mar2024
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 16.6% while the Profit QoQ_growth is much better than Sales itself at 45.1%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-121.30cr, QoQ 16.60% SALES;
-19.80cr, QoQ 35.50% OPERATING PROFIT;
-14.30cr, QoQ 45.10% NET PROFIT;
-OPM %: 16.30% vs 14.0%
-NPM %: 11.80% vs 9.5%
+ 31-Mar-2025 #Result
+116.10cr, QoQ -4.30% & YoY 39.38% SALES;
+8.50cr, QoQ -56.90% & YoY 32.81% OPERATING PROFIT;
+5.90cr, QoQ -58.60% & YoY 34.09% NET PROFIT;
+OPM %: 7.30% vs 16.3%
+NPM %: 5.10% vs 11.8%
 

@@ -1,38 +1,45 @@
-CODES
-505744	FMGOETZE	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
-BestQ Dec 2024
+CODES	505744	FMGOETZE	
+FULLNAME : Federal-Mogul Goetze (India) Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1085.4  |  1107.2  |  1342.6  |  1634.1  |  1695.6  |     1341.4   
- SQoQ%:  |  -19.1   |   2.0    |   21.3   |   21.7   |   3.8    |      79.1    
- YOPM%:  |   12.2   |   11.5   |   12.4   |   12.9   |   14.3   |              
- YNPM%:  |   3.0    |   0.0    |   4.0    |   6.2    |   7.5    |              
-YPROFIT: |   32.5   |   0.5    |   54.0   |  100.9   |  126.9   |     102.6    
- PQoQ%:  |  -62.8   |  -98.4   | 10096.2  |   86.7   |   25.8   |      80.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  414.8   |  427.8   |  444.6   |  463.7   |  433.1  
- QoQ%:  |   -6.2   |   3.1    |   3.9    |   4.3    |   -6.6  
- QOPM%: |   11.5   |   16.9   |   14.1   |   14.9   |   12.7  
- QNPM%: |   5.9    |   9.4    |   8.0    |   8.2    |   6.7   
- QPFT:  |   24.5   |   40.3   |   35.5   |   38.2   |   28.9  
- PQoQ%: |  -23.9   |   64.7   |  -12.0   |   7.7    |  -24.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1107.2		1342.6		1634.1		1695.6		1800.2		1469.8
+SQoQ%: 	2.0		21.3		21.7		3.8		6.2		81.6
+YOPM%: 	11.5		12.4		12.9		14.3		16.3
+YNPM%: 	0.0		4.0		6.2		7.5		9.0
+YPROFIT: 0.5		54.0		100.9		126.9		162.0		121.4
+PQoQ%: 	-98.4		10096.2		86.7		25.8		27.7		74.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 433.1		458.8		483.7		490.5		495.6
+QoQ%: 	-6.6		5.9		5.4		1.4		1.0
+QOPM%: 	12.7		21.2		14.6		16.6		13.8
+QNPM%: 	6.7		12.9		8.9		10.0		5.9
+QPFT: 	28.9		59.4		43.2		49.2		29.0
+PQoQ%: 	-24.4		105.4		-27.2		13.8		-41.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 79% YSales
-- Last 3QPROFIT is about 81% of YProfit
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 75% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-1695.60cr, QoQ 3.80% & YoY 56.22% SALES;
-242.90cr, QoQ 14.90% & YoY 83.88% OPERATING PROFIT;
-126.90cr, QoQ 25.80% & YoY 290.46% NET PROFIT;
-OPM %: 14.30% vs 12.9%
-NPM %: 7.50% vs 6.2%
+ 31-Mar-2025 #Result
+1800.20cr, QoQ 6.20% & YoY 62.59% SALES;
+293.50cr, QoQ 20.80% & YoY 129.84% OPERATING PROFIT;
+162.00cr, QoQ 27.70% & YoY 32300.00% NET PROFIT;
+OPM %: 16.30% vs 14.3%
+NPM %: 9.00% vs 7.5%
 

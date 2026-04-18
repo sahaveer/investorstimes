@@ -1,37 +1,43 @@
-CODES
-543969	PYRAMID	
-SECTOR : 
-INDUSTRY : 
-BestQ Dec 2024
+CODES	543969	PYRAMID	
+FULLNAME : Pyramid Technoplast Ltd
+SECTOR : Industrial Products
+INDUSTRY : Packaging
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  259.3   |  313.5   |  400.4   |  480.0   |  532.4   |     420.1    
- SQoQ%:  |   nan    |   20.9   |   27.7   |   19.9   |   10.9   |      78.9    
- YOPM%:  |   6.9    |   9.5    |   10.5   |   10.4   |   8.3    |              
- YNPM%:  |   2.1    |   5.4    |   6.5    |   6.6    |   5.5    |              
-YPROFIT: |   5.6    |   17.0   |   26.2   |   31.8   |   29.3   |      20.1    
- PQoQ%:  |   nan    |  206.1   |   53.9   |   21.5   |   -7.6   |      68.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  128.3   |  133.6   |  133.6   |  133.1   |  153.4  
- QoQ%:  |   -2.7   |   4.2    |   -0.0   |   -0.4   |   15.2  
- QOPM%: |   7.2    |   8.9    |   8.5    |   7.1    |   7.1   
- QNPM%: |   5.0    |   5.5    |   5.7    |   4.3    |   4.4   
- QPFT:  |   6.4    |   7.3    |   7.6    |   5.7    |   6.8   
- PQoQ%: |  -18.0   |   13.2   |   3.8    |  -24.6   |   18.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 313.5		400.4		480.0		532.4		591.3		486.1
+SQoQ%: 	20.9		27.7		19.9		10.9		11.1		82.2
+YOPM%: 	9.5		10.5		10.4		8.3		7.3
+YNPM%: 	5.4		6.5		6.6		5.5		4.5
+YPROFIT: 17.0		26.2		31.8		29.3		26.7		18.8
+PQoQ%: 	206.1		53.9		21.5		-7.6		-9.1		70.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 153.4		171.2		163.8		160.8		161.5
+QoQ%: 	15.2		11.7		-4.3		-1.8		0.4
+QOPM%: 	7.1		6.7		8.1		7.4		7.0
+QNPM%: 	4.4		3.9		4.8		3.8		2.9
+QPFT: 	6.8		6.6		7.9		6.2		4.7
+PQoQ%: 	18.9		-2.7		19.7		-22.3		-22.9
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 79% YSales
-- Last 3QPROFIT is about 69% of YProfit
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 70% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-532.40cr, QoQ 10.90% & YoY 105.32% SALES;
-44.10cr, QoQ -11.50% & YoY 147.75% OPERATING PROFIT;
-29.30cr, QoQ -7.60% & YoY 423.21% NET PROFIT;
-OPM %: 8.30% vs 10.4%
-NPM %: 5.50% vs 6.6%
+ 31-Mar-2025 #Result
+591.30cr, QoQ 11.10% & YoY 88.61% SALES;
+43.00cr, QoQ -2.60% & YoY 43.81% OPERATING PROFIT;
+26.70cr, QoQ -9.10% & YoY 57.06% NET PROFIT;
+OPM %: 7.30% vs 8.3%
+NPM %: 4.50% vs 5.5%
 

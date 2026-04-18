@@ -1,13 +1,12 @@
-CODES
-DPEL	
+CODES	DPEL	
+FULLNAME : Divine Power Energy Ltd
 SECTOR : Non Ferrous Metals
 INDUSTRY : Mining / Minerals / Metals
 PRODUCT DEMAND
 LYPD PM 2024
 YS15 YPD 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -15,6 +14,8 @@ YS15 YPD 2024
 - LastYr YProfits Doubled and maintained in Mar2024
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
 As on Mar2024, Sales have increased by 47.5% while the Profit QoQ_growth is much better than Sales itself at 124.9%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

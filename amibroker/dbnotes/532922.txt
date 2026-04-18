@@ -1,35 +1,46 @@
-CODES
-532922	EDELWEISS	
+CODES	532922	EDELWEISS	
+FULLNAME : Edelweiss Financial Services Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Holding Company
+BestQ Dec 2025
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 10775.0  |  7150.9  |  8500.2  |  9523.0  |  9081.2 
- SQoQ%:  |   13.3   |  -33.6   |   18.9   |   12.0   |   -4.6  
- YOPM%:  |   38.7   |   44.8   |   33.3   |   34.4   |   33.6  
- YNPM%:  |   2.5    |   2.6    |   4.0    |   4.4    |   4.4   
-YPROFIT: |  265.3   |  188.8   |  344.2   |  420.7   |  398.8  
- PQoQ%:  |  -113.0  |  -28.9   |   82.3   |   22.2   |   -5.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2926.5  |  2325.1  |  2831.7  |  1849.7  |  2222.8 
- QoQ%:  |   22.0   |  -20.6   |   21.8   |  -34.7   |   20.2  
- QOPM%: |   29.7   |   35.6   |   35.9   |   36.9   |   30.1  
- QNPM%: |   5.8    |   2.5    |   3.9    |   6.7    |   4.7   
- QPFT:  |  169.1   |   58.9   |  110.2   |  124.4   |  105.3  
- PQoQ%: |   35.2   |  -65.2   |   87.2   |   12.8   |  -15.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 10775.0		7150.9		8500.2		9523.0		9414.8		8510.9
+SQoQ%: 	13.3		-33.6		18.9		12.0		-1.1		90.4
+YOPM%: 	38.7		44.8		33.3		34.4		35.9
+YNPM%: 	2.5		2.6		4.0		4.4		4.2
+YPROFIT: 265.3		188.8		344.2		420.7		398.8		459.0
+PQoQ%: 	-113.0		-28.9		82.3		22.2		-5.2		115.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1897.7		2285.5		2245.6		1860.9		4404.4
+QoQ%: 	-32.1		20.4		-1.7		-17.1		136.7
+QOPM%: 	38.5		32.0		35.5		32.5		27.3
+QNPM%: 	6.6		4.6		3.0		6.9		6.0
+QPFT: 	124.4		105.3		66.8		128.4		263.8
+PQoQ%: 	12.8		-15.3		-36.6		92.3		105.5
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 54.3%
+ROCE in Mar2025 is at 61.4%
+- Last 3QSALES is about 90% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 115% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-9081.20cr, QoQ -4.60% & YoY -15.72% SALES;
-3048.20cr, QoQ -6.80% & YoY -26.83% OPERATING PROFIT;
+9414.80cr, QoQ -1.10% & YoY -12.62% SALES;
+3381.80cr, QoQ 3.40% & YoY -18.82% OPERATING PROFIT;
 398.80cr, QoQ -5.20% & YoY 50.32% NET PROFIT;
-OPM %: 33.60% vs 34.4%
-NPM %: 4.40% vs 4.4%
+OPM %: 35.90% vs 34.4%
+NPM %: 4.20% vs 4.4%
 

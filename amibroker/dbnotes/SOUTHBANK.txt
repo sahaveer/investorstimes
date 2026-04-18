@@ -1,21 +1,26 @@
-CODES
-532218	SOUTHBANK	
+CODES	532218	SOUTHBANK	
+FULLNAME : South Indian Bank Ltd
 SECTOR : Banks
-INDUSTRY : Banks - Private Sector
+INDUSTRY : Private Sector Bank
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 80% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 9413.30cr, QoQ 9.30% SALES;
-5871.80cr, QoQ 9.00% OPERATING PROFIT;
+5973.50cr, QoQ 10.90% OPERATING PROFIT;
 1303.10cr, QoQ 21.80% NET PROFIT;
-OPM %: 62.40% vs 62.5%
+OPM %: 63.50% vs 62.5%
 NPM %: 13.80% vs 12.4%
 

@@ -1,6 +1,5 @@
-CODE	NAME
-543499 
-
+CODES	543499	
+FULLNAME : Achyut Healthcare Ltd
 SECTOR : Pharmaceuticals
 INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
 EXPANSION 2023
@@ -9,8 +8,7 @@ PRODUCT DEMAND
 YSD YPD 2024
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -22,6 +20,8 @@ EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SAL
 - LastYr YProfits Doubled and maintained in Mar2024
 
 YSALES in Mar-2024 is at 6.1 showing a QoQ_growth of 127.4%. The YNETPROFIT grew by 147.8% to 0.6
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

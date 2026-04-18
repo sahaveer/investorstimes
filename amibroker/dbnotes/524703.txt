@@ -1,14 +1,27 @@
-CODE	NAME
-524703 
+CODES	524703	
+FULLNAME : Sandu Pharmaceuticals Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+PRODUCT DEMAND
 
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Formulations
-
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
-- Last 2QSALES is about 52% YSales
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+67.20cr, QoQ -0.10% SALES;
+2.80cr, QoQ 20.00% OPERATING PROFIT;
+1.60cr, QoQ 6.20% NET PROFIT;
+OPM %: 4.10% vs 3.4%
+NPM %: 2.30% vs 2.2%
+

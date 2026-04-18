@@ -1,14 +1,15 @@
-CODE	NAME
-526125 
+CODES	526125	
+FULLNAME : BN Agrochem Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-- NEGATIVE YProfit : -3.1
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- YProfit Turned POSITIVE this year Mar-2025 : 19.8
+
+***CONS***

@@ -1,40 +1,44 @@
-CODES
-520113	VESUVIUS	
-SECTOR : 
-INDUSTRY : 
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+CODES	520113	VESUVIUS	
+FULLNAME : Vesuvius India Ltd
+SECTOR : Industrial Products
+INDUSTRY : Electrodes & Refractories
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Dec-2020 | Dec-2021 | Dec-2022 | Dec-2023 | Dec-2024
----------+----------+----------+----------+----------+---------
-YSALES:  |  791.5   |  1047.2  |  1342.6  |  1603.1  |  1868.6 
- SQoQ%:  |  -10.8   |   32.3   |   28.2   |   19.4   |   16.6  
- YOPM%:  |   9.8    |   9.6    |   12.3   |   18.0   |   18.7  
- YNPM%:  |   6.7    |   6.5    |   8.7    |   13.3   |   14.2  
-YPROFIT: |   53.0   |   68.0   |  116.8   |  212.9   |  264.5  
- PQoQ%:  |  -38.0   |   28.3   |   71.6   |   82.3   |   24.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  453.4   |  462.4   |  444.2   |  508.6   |  482.2  
- QoQ%:  |   8.8    |   2.0    |   -3.9   |   14.5   |   -5.2  
- QOPM%: |   20.9   |   19.8   |   17.8   |   16.1   |   17.2  
- QNPM%: |   15.2   |   14.6   |   15.4   |   11.8   |   12.3  
- QPFT:  |   68.8   |   67.4   |   68.5   |   59.9   |   59.3  
- PQoQ%: |   20.5   |   -2.1   |   1.6    |  -12.5   |   -1.0  
+***YEARLY***
+YPNL: 	Dec-2021	Dec-2022	Dec-2023	Dec-2024	Dec-2025	QSUM:Dec-2025
+YSALES: 1047.2		1342.6		1603.1		1868.6		2104.3		1622.1
+SQoQ%: 	32.3		28.2		19.4		16.6		12.6		77.1
+YOPM%: 	9.6		12.3		18.0		18.7		17.1
+YNPM%: 	6.5		8.7		13.3		14.2		12.5
+YPROFIT: 68.0		116.8		212.9		264.5		264.1		204.7
+PQoQ%: 	28.3		71.6		82.3		24.2		-0.2		77.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 508.6		482.2		524.3		547.0		550.8
+QoQ%: 	14.5		-5.2		8.7		4.3		0.7
+QOPM%: 	16.1		17.2		17.4		16.9		17.0
+QNPM%: 	11.8		12.3		12.0		11.2		14.6
+QPFT: 	59.9		59.3		63.0		61.5		80.2
+PQoQ%: 	-12.5		-1.0		6.2		-2.3		30.4
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Dec2024 is at 17.6%
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Dec2024, Sales have increased by 16.6% while the Profit QoQ_growth is much better than Sales itself at 24.2%
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 78% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Dec-2024 #Result
-1868.60cr, QoQ 16.60% & YoY 136.08% SALES;
-350.10cr, QoQ 21.30% & YoY 352.33% OPERATING PROFIT;
-264.50cr, QoQ 24.20% & YoY 399.06% NET PROFIT;
-OPM %: 18.70% vs 18.0%
-NPM %: 14.20% vs 13.3%
+ 31-Dec-2025 #Result
+2104.30cr, QoQ 12.60% & YoY 100.95% SALES;
+360.30cr, QoQ 2.90% & YoY 259.58% OPERATING PROFIT;
+264.10cr, QoQ -0.20% & YoY 288.38% NET PROFIT;
+OPM %: 17.10% vs 18.7%
+NPM %: 12.50% vs 14.2%
 

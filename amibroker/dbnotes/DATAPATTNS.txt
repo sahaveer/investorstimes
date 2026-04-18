@@ -1,31 +1,40 @@
-CODES
-543428	DATAPATTNS	
-SECTOR : 
-INDUSTRY : 
+CODES	543428	DATAPATTNS	
+FULLNAME : Data Patterns (India) Ltd
+SECTOR : Aerospace & Defense
+INDUSTRY : Aerospace & Defense
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  224.0   |  310.8   |  453.4   |  519.8   |  708.4  
- SQoQ%:  |   43.5   |   38.8   |   45.9   |   14.6   |   36.3  
- YOPM%:  |   41.1   |   45.4   |   37.9   |   42.6   |   38.8  
- YNPM%:  |   24.8   |   30.2   |   27.3   |   35.0   |   31.3  
-YPROFIT: |   55.6   |   94.0   |  124.0   |  181.7   |  221.8  
- PQoQ%:  |  163.9   |   69.1   |   31.9   |   46.5   |   22.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  182.3   |  104.1   |   91.0   |  117.0   |  396.2  
- QoQ%:  |   30.7   |  -42.9   |  -12.5   |   28.6   |  238.5  
- QOPM%: |   51.0   |   35.7   |   37.7   |   46.2   |   37.7  
- QNPM%: |   39.0   |   31.5   |   33.3   |   38.2   |   28.8  
- QPFT:  |   71.1   |   32.8   |   30.3   |   44.7   |  114.1  
- PQoQ%: |   39.5   |  -53.9   |   -7.7   |   47.5   |  155.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 224.0		310.8		453.4		519.8		708.4		579.9
+SQoQ%: 	43.5		38.8		45.9		14.6		36.3		81.9
+YOPM%: 	41.1		45.4		37.9		42.6		38.8
+YNPM%: 	24.8		30.2		27.3		35.0		31.3
+YPROFIT: 55.6		94.0		124.0		181.7		221.8		133.0
+PQoQ%: 	163.9		69.1		32.0		46.5		22.1		60.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 117.0		396.2		99.3		307.5		173.1
+QoQ%: 	28.6		238.5		-74.9		209.5		-43.7
+QOPM%: 	46.2		37.7		32.3		22.3		46.5
+QNPM%: 	38.2		28.8		25.7		16.0		33.7
+QPFT: 	44.7		114.1		25.5		49.2		58.3
+PQoQ%: 	47.5		155.4		-77.6		92.9		18.5
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 60% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 
 YSALES in Mar-2025 is at 708.4 showing a QoQ_growth of 36.3%. The YNETPROFIT grew by 22.1% to 221.8
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

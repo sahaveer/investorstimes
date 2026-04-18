@@ -1,40 +1,43 @@
-CODE	NAME
-502445 
-
+CODES	502445	
+FULLNAME : Citadel Realty & Developers Ltd
 SECTOR : Realty
-INDUSTRY : Construction
-BestQ Dec 2024
-LYPD PM 2024
+INDUSTRY : Residential, Commercial Projects
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   2.0    |   2.2    |   2.5    |   2.8    |   3.2    |      2.7     
- SQoQ%:  |   -8.5   |   9.8    |   12.0   |   11.1   |   13.2   |      84.4    
- YOPM%:  |   82.4   |   89.3   |   91.3   |   90.7   |   91.8   |              
- YNPM%:  |   26.8   |   15.6   |   17.1   |   36.4   |   36.3   |              
-YPROFIT: |   0.6    |   0.4    |   0.4    |   1.0    |   1.2    |      0.8     
- PQoQ%:  |   19.6   |  -36.4   |   22.9   |  137.2   |   12.7   |      66.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.8    |   0.8    |   0.9    |   0.9    |   0.9   
- QoQ%:  |   0.0    |   -1.2   |   11.4   |   1.1    |   0.0   
- QOPM%: |   92.5   |   91.1   |   94.3   |   86.5   |   94.4  
- QNPM%: |   37.5   |   35.4   |   35.2   |   28.1   |   38.2  
- QPFT:  |   0.3    |   0.3    |   0.3    |   0.2    |   0.3   
- PQoQ%: |   7.1    |   -6.7   |   10.7   |  -19.4   |   36.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2.2		2.5		2.8		3.2		3.5		3.0
+SQoQ%: 	9.8		12.0		11.1		13.2		11.7		85.7
+YOPM%: 	89.3		91.3		90.7		91.8		89.3
+YNPM%: 	15.6		17.1		36.4		36.3		33.1
+YPROFIT: 0.4		0.4		1.0		1.2		1.2		1.2
+PQoQ%: 	-36.4		22.9		137.2		12.7		1.7		100.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.9		0.9		1.0		1.0		1.0
+QoQ%: 	0.0		-2.2		13.8		0.0		0.0
+QOPM%: 	94.4		83.9		93.9		92.9		90.9
+QNPM%: 	38.2		29.9		41.4		37.4		37.4
+QPFT: 	0.3		0.3		0.4		0.4		0.4
+PQoQ%: 	36.0		-23.5		57.7		-9.8		0.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 84% YSales
-- Last 3QPROFIT is about 67% of YProfit
-- LastYr YProfits Doubled and maintained in Mar2024
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+- Last 3QSALES is about 86% YSales
+- Last 3QPROFIT is about 100% of YProfit
+
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-3.20cr, QoQ 13.20% & YoY 60.00% SALES;
-2.90cr, QoQ 14.60% & YoY 70.59% OPERATING PROFIT;
-1.20cr, QoQ 12.70% & YoY 100.00% NET PROFIT;
-OPM %: 91.80% vs 90.7%
-NPM %: 36.30% vs 36.4%
+ 31-Mar-2025 #Result
+3.50cr, QoQ 11.70% & YoY 59.09% SALES;
+3.20cr, QoQ 8.60% & YoY 60.00% OPERATING PROFIT;
+1.20cr, QoQ 1.70% & YoY 200.00% NET PROFIT;
+OPM %: 89.30% vs 91.8%
+NPM %: 33.10% vs 36.3%
 

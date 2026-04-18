@@ -1,11 +1,11 @@
-CODE	NAME
-544347 
-
+CODES	544347	
+FULLNAME : CLN Energy Ltd
 SECTOR : Dry cells
 INDUSTRY : Dry Cells
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

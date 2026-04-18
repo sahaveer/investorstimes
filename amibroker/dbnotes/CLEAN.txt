@@ -1,40 +1,47 @@
-CODES
-543318	CLEAN	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
-BestQ Dec 2024
+CODES	543318	CLEAN	
+FULLNAME : Clean Science & Technology Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  419.3   |  512.4   |  684.9   |  935.8   |  791.5   |     702.9    
- SQoQ%:  |   6.6    |   22.2   |   33.7   |   36.6   |  -15.4   |      88.8    
- YOPM%:  |   44.3   |   50.6   |   43.8   |   43.0   |   42.0   |              
- YNPM%:  |   33.3   |   38.7   |   33.4   |   31.5   |   30.8   |              
-YPROFIT: |  139.6   |  198.4   |  228.5   |  295.2   |  244.0   |     190.3    
- PQoQ%:  |   43.0   |   42.1   |   15.2   |   29.2   |  -17.3   |      78.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  194.7   |  227.5   |  224.0   |  238.1   |  240.8  
- QoQ%:  |   7.5    |   16.8   |   -1.5   |   6.3    |   1.1   
- QOPM%: |   44.5   |   41.5   |   42.3   |   37.7   |   40.9  
- QNPM%: |   32.2   |   30.9   |   29.4   |   24.7   |   27.3  
- QPFT:  |   62.6   |   70.3   |   65.9   |   58.8   |   65.6  
- PQoQ%: |   20.0   |   12.2   |   -6.2   |  -10.9   |   11.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 512.4		684.9		935.8		791.5		966.6		707.4
+SQoQ%: 	22.2		33.7		36.6		-15.4		22.1		73.2
+YOPM%: 	50.6		43.8		43.0		42.0		40.1
+YNPM%: 	38.7		33.4		31.5		30.8		27.4
+YPROFIT: 198.4		228.5		295.2		244.0		264.4		171.4
+PQoQ%: 	42.1		15.2		29.2		-17.3		8.4		64.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 240.8		263.7		242.9		244.8		219.7
+QoQ%: 	1.1		9.5		-7.9		0.8		-10.2
+QOPM%: 	40.9		39.7		41.1		35.6		32.9
+QNPM%: 	27.3		28.1		28.8		22.6		20.9
+QPFT: 	65.6		74.1		70.1		55.4		45.9
+PQoQ%: 	11.7		12.9		-5.4		-20.9		-17.2
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 25.2%
-- Last 3QSALES is about 89% YSales
-- Last 3QPROFIT is about 78% of YProfit
+ROCE in Mar2025 is at 22.5%
+- Last 3QSALES is about 73% YSales
+- Last 3QPROFIT is about 65% of YProfit
 
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-791.50cr, QoQ -15.40% & YoY 88.77% SALES;
-332.40cr, QoQ -17.40% & YoY 79.09% OPERATING PROFIT;
-244.00cr, QoQ -17.30% & YoY 74.79% NET PROFIT;
-OPM %: 42.00% vs 43.0%
-NPM %: 30.80% vs 31.5%
+ 31-Mar-2025 #Result
+966.60cr, QoQ 22.10% & YoY 88.64% SALES;
+388.10cr, QoQ 16.70% & YoY 49.56% OPERATING PROFIT;
+264.40cr, QoQ 8.40% & YoY 33.27% NET PROFIT;
+OPM %: 40.10% vs 42.0%
+NPM %: 27.40% vs 30.8%
 

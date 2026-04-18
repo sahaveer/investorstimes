@@ -1,16 +1,17 @@
-CODES
-SHIGAN	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
+CODES	SHIGAN	
+FULLNAME : Shigan Quantum Technologies Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 
 YSALES in Mar-2025 is at 210.6 showing a QoQ_growth of 38.6%. The YNETPROFIT grew by 57.8% to 8.5
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

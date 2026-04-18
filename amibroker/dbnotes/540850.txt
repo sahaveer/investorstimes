@@ -1,26 +1,25 @@
-CODE	NAME
-540850 
-
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
+CODES	540850	
+FULLNAME : Jhandewalas Foods Ltd
+SECTOR : Food Products
+INDUSTRY : Packaged Foods
 PRODUCT DEMAND
 YSD YPD 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
 - YProfits and YSales DOUBLED in Mar2024
 
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
-85.40cr, QoQ 224.80% & YoY 205.00% SALES;
-6.70cr, QoQ -325.40% & YoY -138.29% OPERATING PROFIT;
+85.10cr, QoQ 223.50% & YoY 203.93% SALES;
+6.70cr, QoQ -325.80% & YoY -138.29% OPERATING PROFIT;
 6.00cr, QoQ -75.20% & YoY -132.26% NET PROFIT;
 OPM %: 7.90% vs 0.0%
-NPM %: 7.00% vs 92.1%
+NPM %: 7.10% vs 92.1%
 

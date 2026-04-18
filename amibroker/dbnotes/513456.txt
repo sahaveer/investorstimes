@@ -1,14 +1,15 @@
-CODE	NAME
-513456 
+CODES	513456	
+FULLNAME : Kanishk Steel Industries Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
 
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
 - YProfit Turned POSITIVE this year Mar-2016 : 5.0
+
+***CONS***

@@ -1,34 +1,43 @@
-CODES
-532156	VAIBHAVGBL	
-SECTOR : Diamond, Gems and Jewellery
-INDUSTRY : Diamond Cutting / Jewellery
+CODES	532156	VAIBHAVGBL	
+FULLNAME : Vaibhav Global Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2540.1  |  2752.4  |  2690.9  |  3041.0  |  3379.6 
- SQoQ%:  |   27.9   |   8.4    |   -2.2   |   13.0   |   11.1  
- YOPM%:  |   14.6   |   10.2   |   7.4    |   8.8    |   8.6   
- YNPM%:  |   10.7   |   8.6    |   3.9    |   4.2    |   4.5   
-YPROFIT: |  271.8   |  237.7   |  105.0   |  127.9   |  153.4  
- PQoQ%:  |   42.8   |  -12.5   |  -55.8   |   21.9   |   19.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  789.4   |  756.0   |  796.4   |  977.3   |  849.8  
- QoQ%:  |  -11.1   |   -4.2   |   5.3    |   22.7   |  -13.0  
- QOPM%: |   6.8    |   7.6    |   7.6    |   11.2   |   7.3   
- QNPM%: |   2.7    |   3.7    |   3.5    |   6.5    |   4.0   
- QPFT:  |   21.4   |   27.6   |   27.8   |   63.8   |   34.1  
- PQoQ%: |  -54.8   |   29.0   |   0.5    |  129.6   |  -46.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2540.1		2752.4		2690.9		3041.0		3379.6		2757.0
+SQoQ%: 	27.9		8.4		-2.2		13.0		11.1		81.6
+YOPM%: 	14.6		10.2		7.4		8.8		8.6
+YNPM%: 	10.7		8.6		3.9		4.2		4.5
+YPROFIT: 271.8		237.7		105.0		127.9		153.4		175.0
+PQoQ%: 	42.8		-12.5		-55.8		21.9		19.9		114.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 977.3		849.8		813.7		877.3		1066.0
+QoQ%: 	22.7		-13.0		-4.2		7.8		21.5
+QOPM%: 	11.2		7.3		7.6		8.8		12.7
+QNPM%: 	6.5		4.0		4.6		5.4		8.4
+QPFT: 	63.8		34.1		37.6		47.6		89.8
+PQoQ%: 	129.6		-46.6		10.4		26.4		88.9
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 114% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 3379.60cr, QoQ 11.10% & YoY 33.05% SALES;
-289.20cr, QoQ 7.70% & YoY -21.92% OPERATING PROFIT;
+289.80cr, QoQ 7.90% & YoY -21.76% OPERATING PROFIT;
 153.40cr, QoQ 19.90% & YoY -43.56% NET PROFIT;
 OPM %: 8.60% vs 8.8%
 NPM %: 4.50% vs 4.2%

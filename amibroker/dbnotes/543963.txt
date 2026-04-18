@@ -1,27 +1,27 @@
-CODE	NAME
-543963 
-
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs
+CODES	543963	
+FULLNAME : Shelter Pharma Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 PRODUCT DEMAND
-LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-A DEBT-Free Company
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 18.1%
-- LastYr YProfits Doubled and maintained in Mar2024
+ROCE in Mar2025 is at 16.8%
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+YSALES in Mar-2025 is at 50.6 showing a QoQ_growth of 26.8%. The YNETPROFIT grew by 16.8% to 7.2
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-39.90cr, QoQ 10.50% & YoY 32.56% SALES;
-8.90cr, QoQ 9.30% & YoY 4350.00% OPERATING PROFIT;
-6.20cr, QoQ 19.00% & YoY 6100.00% NET PROFIT;
-OPM %: 22.30% vs 22.5%
-NPM %: 15.50% vs 14.4%
+ 31-Mar-2025 #Result
+50.60cr, QoQ 26.80% & YoY 124.89% SALES;
+10.10cr, QoQ 14.60% & YoY 4950.00% OPERATING PROFIT;
+7.20cr, QoQ 16.80% & YoY inf% NET PROFIT;
+OPM %: 19.90% vs 22.0%
+NPM %: 14.30% vs 15.5%
 

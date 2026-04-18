@@ -1,43 +1,44 @@
-CODE	NAME
-526073 
-
-SECTOR : Bearings
-INDUSTRY : Bearings
+CODES	526073	
+FULLNAME : Galaxy Bearings Ltd
+SECTOR : Industrial Products
+INDUSTRY : Abrasives & Bearings
 EXPANSION 2024
-PRODUCT DEMAND
-BestQ Dec 2024
+EXPANSION 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   48.2   |   62.7   |  104.1   |  118.7   |  127.1   |      74.3    
- SQoQ%:  |  -35.2   |   30.0   |   66.1   |   14.0   |   7.1    |      58.5    
- YOPM%:  |   14.8   |   18.6   |   17.7   |   17.8   |   16.6   |              
- YNPM%:  |   11.6   |   12.5   |   12.8   |   13.4   |   14.8   |              
-YPROFIT: |   5.6    |   7.9    |   13.3   |   16.0   |   18.8   |      9.5     
- PQoQ%:  |  -15.0   |   40.4   |   69.1   |   20.0   |   18.1   |      50.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   26.0   |   39.0   |   22.8   |   35.9   |   15.6  
- QoQ%:  |  -21.8   |   50.0   |  -41.6   |   58.0   |  -56.6  
- QOPM%: |   20.0   |   19.2   |   14.1   |   15.5   |   24.6  
- QNPM%: |   19.4   |   15.7   |   14.6   |   13.2   |   9.8   
- QPFT:  |   5.0    |   6.1    |   3.3    |   4.7    |   1.5   
- PQoQ%: |   20.2   |   21.2   |  -45.8   |   42.5   |  -67.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 62.7		104.1		118.7		127.1		104.2		46.7
+SQoQ%: 	30.0		66.1		14.0		7.1		-18.0		44.8
+YOPM%: 	18.6		17.7		17.8		16.6		18.5
+YNPM%: 	12.5		12.8		13.4		14.8		13.2
+YPROFIT: 7.9		13.3		16.0		18.8		13.7		2.2
+PQoQ%: 	40.4		69.1		20.0		18.1		-27.2		16.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 15.6		30.0		16.9		15.1		14.7
+QoQ%: 	-56.6		92.2		-43.6		-10.6		-2.6
+QOPM%: 	24.6		22.0		11.5		0.0		10.3
+QNPM%: 	9.8		13.8		15.3		0.0		12.2
+QPFT: 	1.5		4.1		2.6		-2.2		1.8
+PQoQ%: 	-67.7		170.6		-37.4		-183.0		-183.3
+
+
 
 ***PROS***
-EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
-- PRODUCT DEMAND is rising since 3 years
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 22.1%
-- Last 3QSALES is about 58% YSales
-- Last 3QPROFIT is about 51% of YProfit
+ROCE in Mar2025 is at 17.1%
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-127.10cr, QoQ 7.10% & YoY 163.69% SALES;
-21.10cr, QoQ -0.00% & YoY 197.18% OPERATING PROFIT;
-18.80cr, QoQ 18.10% & YoY 235.71% NET PROFIT;
-OPM %: 16.60% vs 17.8%
-NPM %: 14.80% vs 13.4%
+ 31-Mar-2025 #Result
+104.20cr, QoQ -18.00% & YoY 66.19% SALES;
+19.30cr, QoQ -8.50% & YoY 66.38% OPERATING PROFIT;
+13.70cr, QoQ -27.20% & YoY 73.42% NET PROFIT;
+OPM %: 18.50% vs 16.6%
+NPM %: 13.20% vs 14.8%
 

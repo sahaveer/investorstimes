@@ -1,12 +1,14 @@
-CODES
-TEJASCARGO	
+CODES	TEJASCARGO	
+FULLNAME : Tejas Cargo India Ltd
 SECTOR : Logistics
 INDUSTRY : Miscellaneous
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

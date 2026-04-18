@@ -1,22 +1,24 @@
-CODE	NAME
-543239 
+CODES	543239	
+FULLNAME : G M Polyplast Ltd
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial
 
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
-
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 22.1%
+ROCE in Mar2025 is at 19.7%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-92.00cr, QoQ 11.90% & YoY 45.57% SALES;
-11.30cr, QoQ 43.20% & YoY 205.41% OPERATING PROFIT;
-7.10cr, QoQ 44.10% & YoY 208.70% NET PROFIT;
-OPM %: 12.30% vs 9.6%
-NPM %: 7.70% vs 6.0%
+ 31-Mar-2025 #Result
+96.20cr, QoQ 4.50% & YoY 84.64% SALES;
+11.70cr, QoQ 3.20% & YoY 108.93% OPERATING PROFIT;
+7.40cr, QoQ 4.90% & YoY 111.43% NET PROFIT;
+OPM %: 12.20% vs 12.3%
+NPM %: 7.70% vs 7.7%
 

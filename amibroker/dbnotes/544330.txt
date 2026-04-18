@@ -1,16 +1,16 @@
-CODE	NAME
-544330 
-
+CODES	544330	
+FULLNAME : Parmeshwar Metal Ltd
 SECTOR : Mining & Mineral products
 INDUSTRY : Mining / Minerals / Metals
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 
 YSALES in Mar-2025 is at 1382.4 showing a QoQ_growth of 25.6%. The YNETPROFIT grew by 52.1% to 11.0
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

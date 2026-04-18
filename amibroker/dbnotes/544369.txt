@@ -1,13 +1,14 @@
-CODE	NAME
-544369 
-
+CODES	544369	
+FULLNAME : Beezaasan Explotech Ltd
 SECTOR : Chemicals
 INDUSTRY : Chemicals
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

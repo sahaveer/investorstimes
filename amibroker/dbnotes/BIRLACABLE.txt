@@ -1,12 +1,14 @@
-CODES
-500060	BIRLACABLE	
-SECTOR : Cables
-INDUSTRY : Cables - Telephone
+CODES	500060	BIRLACABLE	
+FULLNAME : Birla Cable Ltd
+SECTOR : Telecom - Equipment & Accessories
+INDUSTRY : Telecom - Equipment & Accessories
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

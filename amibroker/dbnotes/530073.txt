@@ -1,20 +1,25 @@
-CODES
-530073	SANGHVIMOV	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	530073	SANGHVIMOV	
+FULLNAME : Sanghvi Movers Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
+BestQ Dec 2025
 LYPD PM 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- Last 3QSALES is about 92% YSales
+- Last 3QPROFIT is about 74% of YProfit
 - LastYr YProfits Doubled and maintained in Mar2025
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2025, Sales have increased by 71.6% while the Profit QoQ_growth is at 39.7%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

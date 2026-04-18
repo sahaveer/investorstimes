@@ -1,46 +1,52 @@
-CODES
-534139	SCHNEIDER	
-SECTOR : 
-INDUSTRY : 
+CODES	534139	SCHNEIDER	
+FULLNAME : Schneider Electric Infrastructure Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Heavy Electrical Equipment
 PRODUCT DEMAND
-BestQ Dec 2024
-LYPD PM 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+BestQ Dec 2025
+BestQ Dec 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1384.4  |  1297.1  |  1530.3  |  1777.2  |  2206.7  |     2049.8   
- SQoQ%:  |   -0.4   |   -6.3   |   18.0   |   16.1   |   24.2   |      92.9    
- YOPM%:  |   1.9    |   4.9    |   5.6    |   9.4    |   13.4   |              
- YNPM%:  |   0.0    |   0.0    |   1.8    |   7.0    |   7.8    |              
-YPROFIT: |  -29.6   |   -1.0   |   27.6   |  123.6   |  172.0   |     213.3    
- PQoQ%:  |   21.4   |  -96.6   | -2834.7  |  347.6   |   39.1   |     124.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  743.9   |  471.8   |  592.9   |  599.7   |  857.2  
- QoQ%:  |   50.0   |  -36.6   |   25.7   |   1.1    |   42.9  
- QOPM%: |   14.8   |   15.5   |   13.8   |   12.4   |   16.4  
- QNPM%: |   12.2   |   0.7    |   8.2    |   9.0    |   12.9  
- QPFT:  |   91.0   |   3.3    |   48.5   |   54.3   |  110.5  
- PQoQ%: |  112.2   |  -96.4   |  1378.0  |   11.9   |  103.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1297.1		1530.3		1777.2		2206.7		2636.7		2300.9
+SQoQ%: 	-6.3		18.0		16.1		24.2		19.5		87.3
+YOPM%: 	4.9		5.6		9.4		13.4		14.5
+YNPM%: 	0.0		1.8		7.0		7.8		10.2
+YPROFIT: -1.0		27.6		123.6		172.0		267.9		190.5
+PQoQ%: 	-96.6		-2834.7		347.6		39.1		55.7		71.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 857.2		586.9		621.6		650.1		1029.2
+QoQ%: 	42.9		-31.5		5.9		4.6		58.3
+QOPM%: 	16.4		14.8		11.2		12.9		16.8
+QNPM%: 	12.9		9.3		6.6		8.0		9.4
+QPFT: 	110.5		54.6		41.2		52.3		97.0
+PQoQ%: 	103.7		-50.6		-24.5		26.9		85.5
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 29.1%
-- Last 3QSALES is about 93% YSales
-- Last 3QPROFIT is about 124% of YProfit
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
-- LastYr YProfits Doubled and maintained in Mar2024
+ROCE in Mar2025 is at 27.6%
+- Last 3QSALES is about 87% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 71% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 24.2% while the Profit QoQ_growth is much better than Sales itself at 39.1%
+As on Mar2025, Sales have increased by 19.5% while the Profit QoQ_growth is much better than Sales itself at 55.7%
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-2206.70cr, QoQ 24.20% & YoY 59.40% SALES;
-295.70cr, QoQ 76.20% & YoY 999.26% OPERATING PROFIT;
-172.00cr, QoQ 39.10% & YoY -681.08% NET PROFIT;
-OPM %: 13.40% vs 9.4%
-NPM %: 7.80% vs 7.0%
+ 31-Mar-2025 #Result
+2636.70cr, QoQ 19.50% & YoY 103.28% SALES;
+383.30cr, QoQ 29.60% & YoY 500.78% OPERATING PROFIT;
+267.90cr, QoQ 55.70% & YoY -26890.00% NET PROFIT;
+OPM %: 14.50% vs 13.4%
+NPM %: 10.20% vs 7.8%
 

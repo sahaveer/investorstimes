@@ -1,13 +1,14 @@
-CODE	NAME
-544112 
-
+CODES	544112	
+FULLNAME : Jasch Gauging Technologies Ltd
 SECTOR : Electronics
 INDUSTRY : Electronics - Components
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

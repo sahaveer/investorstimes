@@ -1,26 +1,31 @@
-CODES
-511611	DCMFINSERV	
+CODES	511611	DCMFINSERV	
+FULLNAME : DCM Financial Services Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Investment Company
 
-***CONS***
-- NEGATIVE YProfit : -0.9
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.8    |   2.0    |   1.8    |   1.0    |   0.8    |      0.0     
- SQoQ%:  |  -13.8   |   12.2   |  -11.3   |  -42.2   |  -26.9   |      0.0     
- YOPM%:  |   0.0    |   31.5   |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   26.7   |   0.0    |   0.0    |              
-YPROFIT: |   -0.3   |   -0.1   |   0.5    |   -4.8   |   -0.9   |      -0.4    
- PQoQ%:  |  -64.8   |  -59.4   |  -469.2  | -1110.4  |  -80.6   |      44.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.3   |   -0.3   |   -0.1   |   -0.1   |   -0.2  
- PQoQ%: |  -20.0   |   3.6    |  -79.3   |   16.7   |  242.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2.0		1.8		1.0		0.8		0.6		0.0
+SQoQ%: 	12.2		-11.3		-42.2		-26.9		-19.7		0.0
+YOPM%: 	31.5		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		26.7		0.0		0.0		0.0
+YPROFIT: -0.1		0.5		-4.8		-0.9		-1.2		-1.0
+PQoQ%: 	-59.4		-469.2		-1110.4		-80.6		26.6		83.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-0.2		-0.8		-0.3		-0.4		-0.3
+PQoQ%: 	242.9		237.5		-67.9		46.2		-31.6
+
+
 
 ***PROS***
 
+***CONS***
+- NEGATIVE YProfit : -1.2

@@ -1,38 +1,48 @@
-CODES
-511034	JINDRILL	
-SECTOR : Oil Drill/Allied
-INDUSTRY : Oil Drilling / Allied Services
-BestQ Dec 2024
+CODES	511034	JINDRILL	
+FULLNAME : Jindal Drilling & Industries Ltd
+SECTOR : Oil
+INDUSTRY : Offshore Support Solution Drilling
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  216.2   |  397.9   |  419.9   |  512.2   |  617.0   |     583.0    
- SQoQ%:  |   4.2    |   84.0   |   5.5    |   22.0   |   20.5   |      94.5    
- YOPM%:  |   0.0    |   10.5   |   26.1   |   31.8   |   22.5   |              
- YNPM%:  |   0.0    |   0.0    |   15.4   |   18.9   |   8.3    |              
-YPROFIT: |  -590.7  |   -5.9   |   64.5   |   96.9   |   51.1   |     144.4    
- PQoQ%:  |  -966.0  |  -99.0   | -1198.3  |   50.3   |  -47.2   |     282.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  183.1   |  197.9   |  171.0   |  172.5   |  239.5  
- QoQ%:  |   28.8   |   8.1    |  -13.6   |   0.9    |   38.8  
- QOPM%: |   30.1   |   1.3    |   22.5   |   18.1   |   33.7  
- QNPM%: |   17.4   |   0.0    |   25.7   |   20.0   |   27.5  
- QPFT:  |   31.9   |  -15.0   |   43.9   |   34.5   |   66.0  
- PQoQ%: |   44.4   |  -147.0  |  -392.4  |  -21.4   |   91.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 397.9		419.9		512.2		617.0		828.0		733.7
+SQoQ%: 	84.0		5.5		22.0		20.5		34.2		88.6
+YOPM%: 	10.5		26.1		31.8		22.5		29.1
+YNPM%: 	0.0		15.4		18.9		8.3		26.1
+YPROFIT: -5.9		64.5		96.9		51.1		215.9		165.2
+PQoQ%: 	-99.0		-1198.3		50.3		-47.2		322.2		76.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 239.5		245.0		254.1		238.0		241.6
+QoQ%: 	38.8		2.3		3.7		-6.3		1.5
+QOPM%: 	33.7		35.5		42.0		38.9		29.7
+QNPM%: 	27.5		29.2		26.0		55.7		0.0
+QPFT: 	66.0		71.6		66.1		132.5		-33.4
+PQoQ%: 	91.3		8.6		-7.7		100.5		-125.2
+
+
 
 ***PROS***
-- Last 3QSALES is about 94% YSales
-- Last 3QPROFIT is about 283% of YProfit
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 89% YSales
+- Last 3QPROFIT is about 77% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 
+
+YSALES in Mar-2025 is at 828.0 showing a QoQ_growth of 34.2%. The YNETPROFIT grew by 322.2% to 215.9
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-617.00cr, QoQ 20.50% & YoY 185.38% SALES;
-138.90cr, QoQ -14.80% & YoY -124.07% OPERATING PROFIT;
-51.10cr, QoQ -47.20% & YoY -108.65% NET PROFIT;
-OPM %: 22.50% vs 31.8%
-NPM %: 8.30% vs 18.9%
+ 31-Mar-2025 #Result
+828.00cr, QoQ 34.20% & YoY 108.09% SALES;
+240.50cr, QoQ 73.10% & YoY 473.99% OPERATING PROFIT;
+215.90cr, QoQ 322.20% & YoY -3759.32% NET PROFIT;
+OPM %: 29.10% vs 22.5%
+NPM %: 26.10% vs 8.3%
 

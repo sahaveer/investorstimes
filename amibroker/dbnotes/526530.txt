@@ -1,13 +1,14 @@
-CODE	NAME
-526530 
+CODES	526530	
+FULLNAME : IIRM Holdings India Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Consulting Services
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

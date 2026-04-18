@@ -1,32 +1,41 @@
-CODES
-532698	NITINSPIN	
-SECTOR : 
-INDUSTRY : 
+CODES	532698	NITINSPIN	
+FULLNAME : Nitin Spinners Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1622.2		2690.4		2404.1		2902.2		3300.3		2354.1
+SQoQ%: 	12.9		65.9		-10.6		20.7		13.7		71.3
+YOPM%: 	15.9		24.2		12.4		13.0		14.3
+YNPM%: 	4.2		12.1		6.9		4.5		5.3
+YPROFIT: 68.9		326.1		164.8		131.5		175.4		120.2
+PQoQ%: 	189.1		373.6		-49.5		-20.2		33.4		68.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 838.9		841.3		793.3		760.1		800.7
+QoQ%: 	2.0		0.3		-5.7		-4.2		5.3
+QOPM%: 	14.0		14.3		14.0		13.1		13.9
+QNPM%: 	5.3		5.5		5.2		4.6		5.5
+QPFT: 	44.8		46.4		41.0		34.8		44.4
+PQoQ%: 	6.2		3.6		-11.6		-15.1		27.7
+
+
+
+***PROS***
+- Last 3QSALES is about 71% YSales
+- Last 3QPROFIT is about 69% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1622.2  |  2690.4  |  2404.1  |  2902.2  |  3305.6 
- SQoQ%:  |   12.9   |   65.9   |  -10.6   |   20.7   |   13.9  
- YOPM%:  |   15.9   |   24.2   |   12.4   |   13.0   |   14.3  
- YNPM%:  |   4.2    |   12.1   |   6.9    |   4.5    |   5.3   
-YPROFIT: |   68.9   |  326.1   |  164.8   |  131.5   |  175.4  
- PQoQ%:  |  189.1   |  373.6   |  -49.5   |  -20.2   |   33.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  800.7   |  803.0   |  822.5   |  838.9   |  841.3  
- QoQ%:  |   6.7    |   0.3    |   2.4    |   2.0    |   0.3   
- QOPM%: |   14.5   |   14.8   |   14.0   |   14.0   |   14.3  
- QNPM%: |   4.9    |   5.2    |   5.1    |   5.3    |   5.5   
- QPFT:  |   39.2   |   42.1   |   42.2   |   44.8   |   46.4  
- PQoQ%: |   23.4   |   7.5    |   0.1    |   6.2    |   3.6   
-
-***PROS***
 
 Yearly 
  31-Mar-2025 #Result
-3305.60cr, QoQ 13.90% & YoY 103.77% SALES;
+3300.30cr, QoQ 13.70% & YoY 103.45% SALES;
 471.40cr, QoQ 25.00% & YoY 83.21% OPERATING PROFIT;
 175.40cr, QoQ 33.40% & YoY 154.57% NET PROFIT;
 OPM %: 14.30% vs 13.0%

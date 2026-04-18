@@ -1,16 +1,17 @@
-CODE	NAME
-544361 
-
+CODES	544361	
+FULLNAME : Covance Softsol Ltd
 SECTOR : IT - Software
 INDUSTRY : Computers - Software - Medium / Small
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
 
 Quarterly 
 31-Dec-2024 #Result

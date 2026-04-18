@@ -1,28 +1,26 @@
-CODE	NAME
-539273 
-
-SECTOR : Hotels & Restaurants
-INDUSTRY : Hotels
-PRODUCT DEMAND
+CODES	539273	
+FULLNAME : Pecos Hotels & Pubs Ltd
+SECTOR : Leisure Services
+INDUSTRY : Restaurants
 YSD YPD 2023
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 18.0%
+ROCE in Mar2025 is at 17.5%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
 - YProfits and YSales DOUBLED in Mar2023
 
+***CONS***
+
 Yearly 
- 31-Mar-2024 #Result
-9.70cr, QoQ 10.20% & YoY 19.75% SALES;
-1.60cr, QoQ 7.90% & YoY 128.57% OPERATING PROFIT;
-1.20cr, QoQ 0.00% & YoY 300.00% NET PROFIT;
-OPM %: 16.80% vs 17.1%
-NPM %: 11.90% vs 13.2%
+ 31-Mar-2025 #Result
+10.60cr, QoQ 8.50% & YoY 292.59% SALES;
+1.90cr, QoQ 13.50% & YoY -575.00% OPERATING PROFIT;
+1.40cr, QoQ 23.30% & YoY -300.00% NET PROFIT;
+OPM %: 17.50% vs 16.8%
+NPM %: 13.60% vs 11.9%
 

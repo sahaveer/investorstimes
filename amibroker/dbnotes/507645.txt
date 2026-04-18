@@ -1,39 +1,44 @@
-CODE	NAME
-507645 
+CODES	507645	
+FULLNAME : Polson Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
+PRODUCT DEMAND
+BestQ Dec 2025
 
-SECTOR : Chemicals
-INDUSTRY : Dyes And Pigments
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 88.6		97.5		83.9		96.4		93.3		67.3
+SQoQ%: 	-8.4		10.1		-14.0		14.9		-3.2		72.1
+YOPM%: 	17.7		16.0		17.0		16.5		16.1
+YNPM%: 	9.6		6.4		5.8		5.4		5.6
+YPROFIT: 8.5		6.2		4.8		5.2		5.2		3.6
+PQoQ%: 	20.1		-27.0		-22.5		7.7		0.6		69.2
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   96.7   |   88.6   |   97.5   |   83.9   |   96.4   |      68.5    
- SQoQ%:  |  -11.2   |   -8.4   |   10.1   |  -14.0   |   14.9   |      71.1    
- YOPM%:  |   17.2   |   17.7   |   16.0   |   17.0   |   16.5   |              
- YNPM%:  |   7.3    |   9.6    |   6.4    |   5.8    |   5.4    |              
-YPROFIT: |   7.1    |   8.5    |   6.2    |   4.8    |   5.2    |      3.8     
- PQoQ%:  |  -28.5   |   20.1   |  -27.0   |  -22.5   |   7.7    |      73.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   20.3   |   24.2   |   24.7   |   21.2   |   22.6  
- QoQ%:  |   -8.8   |   19.2   |   2.2    |  -14.3   |   6.8   
- QOPM%: |   20.4   |   12.8   |   16.2   |   17.4   |   16.2  
- QNPM%: |   6.9    |   2.3    |   5.8    |   5.4    |   5.5   
- QPFT:  |   1.4    |   0.6    |   1.4    |   1.2    |   1.2   
- PQoQ%: |   13.8   |  -60.7   |  160.0   |  -19.6   |   8.7   
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 22.6		24.8		23.6		21.6		22.1
+QoQ%: 	6.8		10.0		-5.2		-8.5		2.6
+QOPM%: 	16.3		14.7		15.9		16.5		16.7
+QNPM%: 	5.5		5.6		5.2		5.7		5.5
+QPFT: 	1.2		1.4		1.2		1.2		1.2
+PQoQ%: 	8.7		12.0		-12.1		-0.8		-0.8
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 71% YSales
-- Last 3QPROFIT is about 73% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 72% YSales
+- Last 3QPROFIT is about 69% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-96.40cr, QoQ 14.90% & YoY -0.31% SALES;
-15.90cr, QoQ 11.30% & YoY -4.22% OPERATING PROFIT;
-5.20cr, QoQ 7.70% & YoY -26.76% NET PROFIT;
-OPM %: 16.50% vs 17.0%
-NPM %: 5.40% vs 5.8%
+ 31-Mar-2025 #Result
+93.30cr, QoQ -3.20% & YoY 5.30% SALES;
+15.00cr, QoQ -5.50% & YoY -3.85% OPERATING PROFIT;
+5.20cr, QoQ 0.60% & YoY -38.82% NET PROFIT;
+OPM %: 16.10% vs 16.5%
+NPM %: 5.60% vs 5.4%
 

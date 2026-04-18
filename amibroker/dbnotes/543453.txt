@@ -1,13 +1,28 @@
-CODE	NAME
-543453 
+CODES	543453	
+FULLNAME : Alkosign Ltd
+SECTOR : Household Products
+INDUSTRY : Stationary
+YSD YPD 2023
+LYPD PM 2025
 
-SECTOR : Printing & Stationery
-INDUSTRY : Printing & Stationery
-
-***CONS***
-
-
-
+***YEARLY***
 
 
 ***PROS***
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 51.5 showing a QoQ_growth of 44.4%. The YNETPROFIT grew by 383.3% to 3.8
+
+***CONS***
+- NO PRODUCT DEMAND
+
+Yearly 
+ 31-Mar-2025 #Result
+51.50cr, QoQ 44.40% & YoY 290.15% SALES;
+7.80cr, QoQ 73.20% & YoY 457.14% OPERATING PROFIT;
+3.80cr, QoQ 383.30% & YoY 442.86% NET PROFIT;
+OPM %: 15.20% vs 12.6%
+NPM %: 7.30% vs 2.2%
+

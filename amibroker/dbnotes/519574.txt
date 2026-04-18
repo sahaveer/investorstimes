@@ -1,38 +1,33 @@
-CODE	NAME
-519574 
+CODES	519574	
+FULLNAME : Hindustan Agrigenetics Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Other Agricultural Products
 
-SECTOR : FMCG
-INDUSTRY : Miscellaneous
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.1		0.1		0.1		0.1		0.1		0.0
+SQoQ%: 	-68.4		0.0		16.7		0.0		14.3		0.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		14085.7		671.4		0.0
+YPROFIT: -0.2		-0.1		9.9		0.5		-0.3		0.6
+PQoQ%: 	-145.5		-33.3		-9960.0		-95.2		-166.0		-200.0
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.2    |   0.1    |   0.1    |   0.1    |   0.1    |      0.0     
- SQoQ%:  |  216.7   |  -68.4   |   0.0    |   16.7   |   0.0    |      0.0     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |  173.7   |   0.0    |   0.0    | 14085.7  |  671.4   |              
-YPROFIT: |   0.3    |   -0.2   |   -0.1   |   9.9    |   0.5    |      0.1     
- PQoQ%:  |  -375.0  |  -145.5  |  -33.3   | -9960.0  |  -95.2   |      20.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   inf    |  -100.0  |   inf    |  -100.0  |   inf   
- QOPM%: |  300.0   |   0.0    |   75.0   |   0.0    |   0.0   
- QNPM%: |  733.3   |   inf    |  100.0   |   inf    |   66.7  
- QPFT:  |   0.2    |   0.1    |   0.0    |   0.1    |   0.0   
- PQoQ%: |  214.3   |  -40.9   |  -69.2   |  250.0   |  -85.7  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	inf		-100.0		inf		-100.0		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	66.7		0.0		1000.0		inf		0.0
+QPFT: 	0.0		-0.5		0.4		0.2		-0.0
+PQoQ%: 	-85.7		-2700.0		-176.9		-52.5		-121.1
+
+
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+DEBT-Free Company for the last 3 yrs
 
 
-Yearly 
- 31-Mar-2024 #Result
-0.10cr, QoQ 0.00% & YoY -50.00% SALES;
--0.30cr, QoQ -50.80% & YoY -25.00% OPERATING PROFIT;
-0.50cr, QoQ -95.20% & YoY 66.67% NET PROFIT;
-OPM %: 0.00% vs 0.0%
-NPM %: 671.40% vs 14085.7%
-
+***CONS***
+- NEGATIVE YProfit : -0.3

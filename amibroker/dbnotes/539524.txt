@@ -1,36 +1,45 @@
-CODES
-539524	LALPATHLAB	
-SECTOR : Healthcare
-INDUSTRY : Healthcare
+CODES	539524	LALPATHLAB	
+FULLNAME : Dr Lal Pathlabs Ltd
+SECTOR : Healthcare Services
+INDUSTRY : Healthcare Service Provider
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1581.3  |  2087.4  |  2016.9  |  2226.6  |  2461.4 
- SQoQ%:  |   18.9   |   32.0   |   -3.4   |   10.4   |   10.5  
- YOPM%:  |   27.6   |   26.9   |   24.3   |   27.4   |   28.3  
- YNPM%:  |   18.4   |   16.5   |   11.8   |   16.1   |   19.8  
-YPROFIT: |  291.6   |  344.8   |  238.8   |  357.7   |  487.1  
- PQoQ%:  |   29.1   |   18.2   |  -30.7   |   49.8   |   36.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  545.4   |  601.9   |  660.2   |  596.7   |  602.6  
- QoQ%:  |   1.2    |   10.4   |   9.7    |   -9.6   |   1.0   
- QOPM%: |   26.5   |   28.2   |   30.7   |   25.8   |   28.0  
- QNPM%: |   15.5   |   17.7   |   19.6   |   16.2   |   25.7  
- QPFT:  |   84.5   |  106.4   |  129.2   |   96.7   |  154.8  
- PQoQ%: |   3.9    |   25.9   |   21.4   |  -25.2   |   60.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1581.3		2087.4		2016.9		2226.6		2461.4		2060.2
+SQoQ%: 	18.9		32.0		-3.4		10.4		10.5		83.7
+YOPM%: 	27.6		26.9		24.3		27.4		28.3
+YNPM%: 	18.4		16.5		11.8		16.1		19.8
+YPROFIT: 291.6		344.8		238.8		357.7		487.1		373.5
+PQoQ%: 	29.1		18.2		-30.7		49.8		36.2		76.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 596.7		602.6		669.8		730.6		659.8
+QoQ%: 	-9.6		1.0		11.2		9.1		-9.7
+QOPM%: 	25.8		28.0		28.7		30.7		27.2
+QNPM%: 	16.2		25.7		19.8		20.6		13.7
+QPFT: 	96.7		154.8		132.4		150.6		90.5
+PQoQ%: 	-25.2		60.1		-14.5		13.7		-39.9
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 21.1%
+ROCE in Mar2025 is at 21.2%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 77% of YProfit
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 2461.40cr, QoQ 10.50% & YoY 55.66% SALES;
-695.50cr, QoQ 14.10% & YoY 59.37% OPERATING PROFIT;
+697.80cr, QoQ 14.50% & YoY 59.90% OPERATING PROFIT;
 487.10cr, QoQ 36.20% & YoY 67.04% NET PROFIT;
 OPM %: 28.30% vs 27.4%
 NPM %: 19.80% vs 16.1%

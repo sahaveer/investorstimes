@@ -1,16 +1,17 @@
-CODES
-KTL	
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
+CODES	KTL	
+FULLNAME : Kalahridhaan Trendz Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 LYPD PM 2024
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 - LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

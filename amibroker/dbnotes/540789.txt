@@ -1,38 +1,43 @@
-CODES
-540789	DNAMEDIA	
-SECTOR : 
-INDUSTRY : 
-YSD YPD 2022
+CODES	540789	DNAMEDIA	
+FULLNAME : Diligent Media Corporation Ltd
+SECTOR : Media
+INDUSTRY : Electronic Media
+PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.4    |   3.2    |   6.5    |   9.4    |   9.7    |      7.5     
- SQoQ%:  |   -8.5   |  125.0   |  105.7   |   45.7   |   2.8    |      77.3    
- YOPM%:  |   0.0    |   90.2   |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |  369.6   |  1702.3  |  1410.5  |              
-YPROFIT: |  -64.8   |  -45.6   |   24.0   |  160.7   |  136.8   |      9.5     
- PQoQ%:  |   12.4   |  -29.5   |  -152.5  |  571.0   |  -14.9   |      6.9     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   2.6    |   3.2    |   3.0    |   2.8    |   1.7   
- QoQ%:  |   12.3   |   20.0   |   -6.9   |   -3.7   |  -40.0  
- QOPM%: |   15.5   |   0.0    |   0.0    |   36.8   |   0.0   
- QNPM%: |  204.2   |  3952.8  |   82.8   |  162.8   |  148.5  
- QPFT:  |   5.4    |  125.7   |   2.4    |   4.6    |   2.5   
- PQoQ%: |   51.5   |  2223.5  |  -98.1   |   89.4   |  -45.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3.2		6.5		9.4		9.7		13.2		4.9
+SQoQ%: 	125.0		105.7		45.7		2.8		36.0		37.1
+YOPM%: 	90.2		0.0		0.0		0.0		8.7
+YNPM%: 	0.0		369.6		1702.3		1410.5		103.3
+YPROFIT: -45.6		24.0		160.7		136.8		13.6		-2.9
+PQoQ%: 	-29.5		-152.5		571.0		-14.9		-90.0		-21.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1.7		5.7		0.8		2.7		1.4
+QoQ%: 	-40.0		231.0		-86.0		240.5		-47.6
+QOPM%: 	0.0		47.3		0.0		0.0		0.0
+QNPM%: 	148.5		70.3		0.0		0.0		0.0
+QPFT: 	2.5		4.0		-1.9		-0.7		-0.3
+PQoQ%: 	-45.3		56.7		-147.5		-64.6		-55.2
+
+
 
 ***PROS***
-- Last 3QSALES is about 77% YSales
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
-- YProfits and YSales DOUBLED in Mar2022
+- PRODUCT DEMAND is rising since 3 years
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-9.70cr, QoQ 2.80% & YoY 592.86% SALES;
--10.60cr, QoQ 19.70% & YoY -83.64% OPERATING PROFIT;
-136.80cr, QoQ -14.90% & YoY -311.11% NET PROFIT;
-OPM %: 0.00% vs 0.0%
-NPM %: 1410.50% vs 1702.3%
+ 31-Mar-2025 #Result
+13.20cr, QoQ 36.00% & YoY 312.50% SALES;
+1.10cr, QoQ -110.90% & YoY -60.71% OPERATING PROFIT;
+13.60cr, QoQ -90.00% & YoY -129.82% NET PROFIT;
+OPM %: 8.70% vs 0.0%
+NPM %: 103.30% vs 1410.5%
 

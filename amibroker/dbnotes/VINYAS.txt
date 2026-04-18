@@ -1,23 +1,26 @@
-CODES
-VINYAS	
-SECTOR : Electronics
-INDUSTRY : Electronics - Components
-LYPD PM 2024
+CODES	VINYAS	
+FULLNAME : Vinyas Innovative Technologies Ltd
+SECTOR : Industrials
+INDUSTRY : Capital Goods
+LYPD PM 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- LastYr YProfits Doubled and maintained in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 25.0% while the Profit QoQ_growth is much better than Sales itself at 26.5%
 
-YSALES in Mar-2024 is at 317.2 showing a QoQ_growth of 35.3%. The YNETPROFIT grew by 109.1% to 15.4
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-317.20cr, QoQ 35.30% & YoY 111.89% SALES;
-33.40cr, QoQ 61.00% & YoY 195.58% OPERATING PROFIT;
-15.40cr, QoQ 109.10% & YoY 1084.62% NET PROFIT;
-OPM %: 10.50% vs 8.9%
-NPM %: 4.80% vs 3.1%
+ 31-Mar-2025 #Result
+396.60cr, QoQ 25.00% & YoY 93.46% SALES;
+40.80cr, QoQ 22.20% & YoY 216.28% OPERATING PROFIT;
+19.40cr, QoQ 26.50% & YoY 1285.71% NET PROFIT;
+OPM %: 10.30% vs 10.5%
+NPM %: 4.90% vs 4.8%
 

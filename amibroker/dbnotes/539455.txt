@@ -1,13 +1,14 @@
-CODE	NAME
-539455 
-
+CODES	539455	
+FULLNAME : Ecofinity Atomix Ltd
 SECTOR : Trading
 INDUSTRY : Trading
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

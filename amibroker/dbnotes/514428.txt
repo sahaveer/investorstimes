@@ -1,39 +1,44 @@
-CODE	NAME
-514428 
+CODES	514428	
+FULLNAME : Hindustan Adhesives Ltd
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial
+PRODUCT DEMAND
+BestQ Dec 2025
 
-SECTOR : Packaging
-INDUSTRY : Packaging
-BestQ Dec 2024
-YSD YPD 2022
+***YEARLY***
+YPNL: 	Mar-2017	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 76.0		449.1		321.2		303.5		284.5		197.9
+SQoQ%: 	8.0		490.6		-28.5		-5.5		-6.2		69.6
+YOPM%: 	14.8		7.4		6.3		10.8		12.0
+YNPM%: 	6.3		2.8		1.5		5.4		5.4
+YPROFIT: 4.8		12.5		4.9		16.4		15.4		14.0
+PQoQ%: 	171.0		162.5		-61.2		237.7		-6.2		90.9
 
-***CONS***
- YPNL:   | Mar-2016 | Mar-2017 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   70.4   |   76.0   |  449.1   |  321.2   |  303.5   |     221.1    
- SQoQ%:  |   nan    |   8.0    |  490.6   |  -28.5   |   -5.5   |      72.9    
- YOPM%:  |   13.6   |   14.8   |   7.4    |   6.3    |   10.8   |              
- YNPM%:  |   2.5    |   6.3    |   2.8    |   1.5    |   5.4    |              
-YPROFIT: |   1.8    |   4.8    |   12.5   |   4.9    |   16.4   |      12.1    
- PQoQ%:  |   nan    |  171.0   |  162.5   |  -61.2   |  237.7   |      73.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   70.3   |   71.6   |   64.1   |   84.4   |   72.6  
- QoQ%:  |  -13.3   |   1.8    |  -10.5   |   31.8   |  -14.1  
- QOPM%: |   13.7   |   10.7   |   7.9    |   11.9   |   12.1  
- QNPM%: |   6.5    |   5.3    |   3.3    |   6.4    |   6.3   
- QPFT:  |   4.6    |   3.8    |   2.1    |   5.4    |   4.6   
- PQoQ%: |   17.6   |  -17.4   |  -43.4   |  152.1   |  -14.5  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 72.6		63.8		66.4		64.6		66.9
+QoQ%: 	-14.1		-12.1		4.1		-2.6		3.5
+QOPM%: 	12.1		16.2		13.0		16.0		15.6
+QNPM%: 	6.3		5.2		5.6		8.8		6.7
+QPFT: 	4.6		3.3		3.8		5.7		4.5
+PQoQ%: 	-14.5		-28.1		13.6		52.3		-21.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 73% YSales
-- Last 3QPROFIT is about 74% of YProfit
-- YProfits and YSales DOUBLED in Mar2022
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 70% YSales
+- Last 3QPROFIT is about 91% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-303.50cr, QoQ -5.50% & YoY 331.11% SALES;
-32.90cr, QoQ 63.30% & YoY 242.71% OPERATING PROFIT;
-16.40cr, QoQ 237.70% & YoY 811.11% NET PROFIT;
-OPM %: 10.80% vs 6.3%
-NPM %: 5.40% vs 1.5%
+ 31-Mar-2025 #Result
+284.50cr, QoQ -6.20% & YoY 274.34% SALES;
+34.20cr, QoQ 4.20% & YoY 205.36% OPERATING PROFIT;
+15.40cr, QoQ -6.20% & YoY 220.83% NET PROFIT;
+OPM %: 12.00% vs 10.8%
+NPM %: 5.40% vs 5.4%
 

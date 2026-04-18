@@ -1,21 +1,22 @@
-CODES
-PRLIND	
-SECTOR : Logistics
-INDUSTRY : Miscellaneous
+CODES	PRLIND	
+FULLNAME : Premier Roadlines Ltd
+SECTOR : Transport Services
+INDUSTRY : Logistics Solution Provider
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2025, Sales have increased by 26.1% while the Profit QoQ_growth is at 24.3%
 
+***CONS***
+- NO PRODUCT DEMAND
+
 Yearly 
  31-Mar-2025 #Result
-288.30cr, QoQ 26.10% & YoY 207.36% SALES;
-24.10cr, QoQ 13.60% & YoY 447.73% OPERATING PROFIT;
+288.20cr, QoQ 26.10% & YoY 207.25% SALES;
+24.20cr, QoQ 14.00% & YoY 450.00% OPERATING PROFIT;
 15.70cr, QoQ 24.30% & YoY 881.25% NET PROFIT;
 OPM %: 8.40% vs 9.3%
 NPM %: 5.40% vs 5.5%

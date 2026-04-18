@@ -1,40 +1,32 @@
-CODE	NAME
-535667 
-
+CODES	535667	
+FULLNAME : India Finsec Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   17.7   |   17.8   |   23.6   |   45.4   |   63.7   |      53.1    
- SQoQ%:  |   74.0   |   0.8    |   32.6   |   92.5   |   40.2   |      83.4    
- YOPM%:  |   49.4   |   63.6   |   50.8   |   54.9   |   64.5   |              
- YNPM%:  |   10.0   |   20.2   |   21.8   |   6.7    |   12.0   |              
-YPROFIT: |   1.8    |   3.6    |   5.2    |   3.1    |   7.6    |      8.9     
- PQoQ%:  |   -2.7   |  103.4   |   43.1   |  -40.6   |  149.7   |     117.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   16.2   |   16.7   |   16.6   |   18.0   |   18.5  
- QoQ%:  |   2.1    |   3.2    |   -0.9   |   8.9    |   2.8   
- QOPM%: |   64.2   |   61.3   |   69.0   |   72.9   |   71.4  
- QNPM%: |   11.1   |   19.8   |   26.5   |   15.7   |   9.3   
- QPFT:  |   1.8    |   3.3    |   4.4    |   2.8    |   1.7   
- PQoQ%: |   -0.6   |   84.9   |   32.6   |  -35.5   |  -39.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.9		0.9		0.7		0.4		0.8		0.0
+SQoQ%: 	-68.8		-5.5		-20.9		-39.7		90.2		0.0
+YOPM%: 	34.1		45.3		39.7		24.4		20.5
+YNPM%: 	3.3		1.2		19.1		4.9		0.0
+YPROFIT: 0.0		0.0		0.1		0.0		0.0		-0.1
+PQoQ%: 	-102.0		-66.7		1200.0		-84.6		-100.0		-inf
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.1		0.0		0.0		0.0		0.0
+QoQ%: 	-10.0		-100.0		inf		0.0		0.0
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-0.2		-0.0		-0.1		-0.0		-0.0
+PQoQ%: 	40.0		-90.5		300.0		-37.5		-20.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 83% YSales
-- Last 3QPROFIT is about 117% of YProfit
+A DEBT-Free Company
 
 
-YSALES in Mar-2024 is at 63.7 showing a QoQ_growth of 40.2%. The YNETPROFIT grew by 149.7% to 7.6
-
-Yearly 
- 31-Mar-2024 #Result
-63.70cr, QoQ 40.20% & YoY 259.89% SALES;
-41.10cr, QoQ 64.80% & YoY 372.41% OPERATING PROFIT;
-7.60cr, QoQ 149.70% & YoY 322.22% NET PROFIT;
-OPM %: 64.50% vs 54.9%
-NPM %: 12.00% vs 6.7%
-
+***CONS***

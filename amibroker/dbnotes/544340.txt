@@ -1,13 +1,11 @@
-CODE	NAME
-544340 
-
+CODES	544340	
+FULLNAME : Rikhav Securities Ltd
 SECTOR : Finance
 INDUSTRY : Finance & Investments
 PRODUCT DEMAND
 YSD YPD 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -16,6 +14,8 @@ A DEBT-Free Company
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.1
 - YProfits and YSales DOUBLED in Mar2024
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

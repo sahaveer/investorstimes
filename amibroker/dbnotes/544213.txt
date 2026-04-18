@@ -1,16 +1,16 @@
-CODE	NAME
-544213 
-
+CODES	544213	
+FULLNAME : Aelea Commodities Ltd
 SECTOR : FMCG
 INDUSTRY : Food - Processing - Indian
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 
 YSALES in Mar-2024 is at 119.9 showing a QoQ_growth of 50.5%. The YNETPROFIT grew by 2160.0% to 6.8
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

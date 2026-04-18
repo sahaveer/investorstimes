@@ -1,37 +1,46 @@
-CODES
-543986	SOUTHWEST	
-SECTOR : Mining & Mineral products
-INDUSTRY : Mining / Minerals / Metals
+CODES	543986	SOUTHWEST	
+FULLNAME : South West Pinnacle Exploration Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  103.6   |  117.7   |  124.3   |  133.4   |  180.3  
- SQoQ%:  |   20.7   |   13.7   |   5.5    |   7.4    |   35.1  
- YOPM%:  |   22.8   |   21.1   |   16.3   |   18.6   |   18.6  
- YNPM%:  |   9.9    |   9.3    |   7.2    |   6.2    |   9.1   
-YPROFIT: |   10.2   |   10.9   |   9.0    |   8.3    |   16.4  
- PQoQ%:  |  211.6   |   6.8    |  -17.9   |   -7.8   |   98.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   45.0   |   29.4   |   27.4   |   48.9   |   73.8  
- QoQ%:  |   6.8    |  -34.6   |   -7.0   |   78.8   |   51.0  
- QOPM%: |   17.3   |   15.6   |   12.6   |   18.7   |   20.8  
- QNPM%: |   6.2    |   6.4    |   1.5    |   8.5    |   13.5  
- QPFT:  |   2.8    |   1.9    |   0.4    |   4.2    |   10.0  
- PQoQ%: |  -33.3   |  -33.2   |  -78.6   |  940.0   |  140.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 103.6		117.7		124.3		133.4		180.3		165.3
+SQoQ%: 	20.7		13.7		5.5		7.4		35.1		91.7
+YOPM%: 	22.8		21.1		16.3		18.6		18.7
+YNPM%: 	9.9		9.3		7.2		6.2		9.1
+YPROFIT: 10.2		10.9		9.0		8.3		16.4		20.0
+PQoQ%: 	211.6		6.8		-17.9		-7.8		98.7		122.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 48.5		73.8		40.2		62.4		62.7
+QoQ%: 	77.4		52.1		-45.5		55.2		0.4
+QOPM%: 	18.1		20.8		14.4		23.1		27.4
+QNPM%: 	8.6		13.5		6.0		13.4		14.7
+QPFT: 	4.2		10.0		2.4		8.4		9.2
+PQoQ%: 	940.0		140.1		-76.0		248.3		10.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 92% YSales
+- Last 3QPROFIT is about 122% of YProfit
 
 YSALES in Mar-2025 is at 180.3 showing a QoQ_growth of 35.1%. The YNETPROFIT grew by 98.7% to 16.4
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 180.30cr, QoQ 35.10% & YoY 74.03% SALES;
-33.50cr, QoQ 35.10% & YoY 41.95% OPERATING PROFIT;
+33.70cr, QoQ 35.80% & YoY 42.80% OPERATING PROFIT;
 16.40cr, QoQ 98.70% & YoY 60.78% NET PROFIT;
-OPM %: 18.60% vs 18.6%
+OPM %: 18.70% vs 18.6%
 NPM %: 9.10% vs 6.2%
 

@@ -1,36 +1,45 @@
-CODES
-511724	BAIDFIN	
-SECTOR : 
-INDUSTRY : 
+CODES	511724	BAIDFIN	
+FULLNAME : Baid Finserv Ltd
+SECTOR : Finance
+INDUSTRY : Non Banking Financial Company (NBFC)
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   54.0   |   50.0   |   55.7   |   66.0   |   82.0  
- SQoQ%:  |  -13.8   |   -7.3   |   11.5   |   18.4   |   24.3  
- YOPM%:  |   64.0   |   64.0   |   57.4   |   62.5   |   58.1  
- YNPM%:  |   13.9   |   17.6   |   18.6   |   19.6   |   16.4  
-YPROFIT: |   7.5    |   8.8    |   10.4   |   12.9   |   13.4  
- PQoQ%:  |   -1.7   |   17.5   |   18.1   |   24.5   |   4.1   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   15.2   |   18.9   |   19.6   |   21.3   |   22.1  
- QoQ%:  |  -13.5   |   24.7   |   4.0    |   8.6    |   3.7   
- QOPM%: |   57.8   |   57.4   |   53.4   |   64.4   |   56.8  
- QNPM%: |   7.1    |   16.5   |   10.0   |   22.2   |   16.5  
- QPFT:  |   1.1    |   3.1    |   2.0    |   4.7    |   3.6   
- PQoQ%: |  -70.1   |  188.9   |  -37.2   |  141.3   |  -23.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 54.0		50.0		55.7		66.0		82.4		72.2
+SQoQ%: 	-13.8		-7.3		11.5		18.4		24.9		87.6
+YOPM%: 	64.0		64.0		57.4		62.5		58.3
+YNPM%: 	13.9		17.6		18.6		19.6		16.3
+YPROFIT: 7.5		8.8		10.4		12.9		13.4		13.4
+PQoQ%: 	-1.7		17.5		18.1		24.5		4.1		100.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 21.3		22.1		23.8		23.8		24.6
+QoQ%: 	8.6		3.7		7.5		0.3		3.3
+QOPM%: 	64.4		56.8		56.6		59.3		56.0
+QNPM%: 	22.2		16.5		16.9		19.1		19.3
+QPFT: 	4.7		3.6		4.0		4.6		4.8
+PQoQ%: 	141.3		-23.0		10.4		13.2		4.4
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 88% YSales
+- Last 3QPROFIT is about 100% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-82.00cr, QoQ 24.30% & YoY 51.85% SALES;
-47.70cr, QoQ 15.50% & YoY 37.86% OPERATING PROFIT;
+82.40cr, QoQ 24.90% & YoY 52.59% SALES;
+48.00cr, QoQ 16.40% & YoY 38.73% OPERATING PROFIT;
 13.40cr, QoQ 4.10% & YoY 78.67% NET PROFIT;
-OPM %: 58.10% vs 62.5%
-NPM %: 16.40% vs 19.6%
+OPM %: 58.30% vs 62.5%
+NPM %: 16.30% vs 19.6%
 

@@ -1,36 +1,45 @@
-CODES
-543259	HOMEFIRST	
-SECTOR : 
-INDUSTRY : 
+CODES	543259	HOMEFIRST	
+FULLNAME : Home First Finance Company India Ltd
+SECTOR : Finance
+INDUSTRY : Housing Finance Company
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  489.1   |  595.7   |  795.6   |  1156.5  |  1530.0 
- SQoQ%:  |   19.1   |   21.8   |   33.6   |   45.4   |   32.3  
- YOPM%:  |   74.0   |   76.0   |   77.0   |   79.1   |   79.9  
- YNPM%:  |   20.5   |   31.2   |   28.7   |   26.4   |   25.0  
-YPROFIT: |  100.1   |  186.1   |  228.3   |  305.7   |  382.1  
- PQoQ%:  |   25.9   |   85.8   |   22.7   |   33.9   |   25.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  312.8   |  336.4   |  372.9   |  406.0   |  414.7  
- QoQ%:  |   5.6    |   7.6    |   10.8   |   8.9    |   2.1   
- QOPM%: |   81.5   |   79.9   |   80.0   |   80.1   |   79.8  
- QNPM%: |   26.7   |   26.1   |   24.7   |   24.0   |   25.2  
- QPFT:  |   83.5   |   87.8   |   92.2   |   97.4   |  104.7  
- PQoQ%: |   5.9    |   5.2    |   5.1    |   5.6    |   7.5   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 489.1		595.7		795.6		1156.5		1539.1		1413.1
+SQoQ%: 	19.1		21.8		33.6		45.4		33.1		91.8
+YOPM%: 	74.0		76.0		77.0		79.1		80.3
+YNPM%: 	20.5		31.2		28.7		26.4		24.8
+YPROFIT: 100.1		186.1		228.3		305.7		382.1		390.9
+PQoQ%: 	25.9		85.8		22.7		33.9		25.0		102.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 406.0		414.7		453.6		477.3		482.2
+QoQ%: 	8.9		2.1		9.4		5.2		1.0
+QOPM%: 	80.1		79.8		79.3		79.3		78.9
+QNPM%: 	24.0		25.2		26.2		27.6		29.1
+QPFT: 	97.4		104.7		118.9		131.8		140.2
+PQoQ%: 	5.6		7.5		13.6		10.9		6.3
+
+
 
 ***PROS***
+- Last 3QSALES is about 92% YSales
+- Last 3QPROFIT is about 102% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
-As on Mar2025, Sales have increased by 32.3% while the Profit QoQ_growth is at 25.0%
+As on Mar2025, Sales have increased by 33.1% while the Profit QoQ_growth is at 25.0%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-1530.00cr, QoQ 32.30% & YoY 212.82% SALES;
-1223.10cr, QoQ 33.70% & YoY 238.06% OPERATING PROFIT;
+1539.10cr, QoQ 33.10% & YoY 214.68% SALES;
+1235.70cr, QoQ 35.10% & YoY 241.54% OPERATING PROFIT;
 382.10cr, QoQ 25.00% & YoY 281.72% NET PROFIT;
-OPM %: 79.90% vs 79.1%
-NPM %: 25.00% vs 26.4%
+OPM %: 80.30% vs 79.1%
+NPM %: 24.80% vs 26.4%
 

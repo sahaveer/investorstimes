@@ -1,26 +1,32 @@
-CODE	NAME
-532015 
+CODES	532015	
+FULLNAME : Gravity (India) Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 
-SECTOR : Textiles
-INDUSTRY : Textiles - Processing
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2.4		12.7		10.2		2.2		1.2		79.9
+SQoQ%: 	-86.0		437.3		-19.6		-78.2		-45.0		6658.3
+YOPM%: 	0.0		1.3		0.0		0.0		0.0
+YNPM%: 	0.0		0.6		0.0		0.0		0.0
+YPROFIT: -0.3		0.1		-1.0		-6.2		-2.0		6.0
+PQoQ%: 	-190.6		-127.6		-1350.0		516.0		-67.4		-300.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		20.4		59.5
+QoQ%: 	-100.0		nan		nan		inf		191.1
+QOPM%: 	0.0		0.0		0.0		9.5		10.3
+QNPM%: 	inf		0.0		inf		7.1		7.6
+QPFT: 	0.3		-0.3		0.1		1.4		4.5
+PQoQ%: 	-123.9		-190.9		-123.3		1971.4		210.3
+
+
+
+***PROS***
+- Last 3QSALES is about 6658% YSales
 
 ***CONS***
 - NEGATIVE YProfit : -2.0
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   2.4    |   12.7   |   10.2   |   2.2    |   1.2   
- SQoQ%:  |  -86.0   |  437.3   |  -19.6   |  -78.2   |  -45.0  
- YOPM%:  |   0.0    |   1.3    |   0.0    |   0.0    |   0.0   
- YNPM%:  |   0.0    |   0.6    |   0.0    |   0.0    |   0.0   
-YPROFIT: |   -0.3   |   0.1    |   -1.0   |   -6.2   |   -2.0  
- PQoQ%:  |  -190.6  |  -127.6  | -1350.0  |  516.0   |  -67.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   0.2    |   1.1    |   0.1    |   0.0    |   0.0   
- QoQ%:  |  -51.2   |  428.6   |  -91.0   |  -100.0  |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   inf    |   0.0   
- QPFT:  |   -3.7   |   -0.7   |   -1.4   |   0.3    |   -0.3  
- PQoQ%: |   91.3   |  -82.3   |  109.1   |  -123.9  |  -190.9 
-
-***PROS***

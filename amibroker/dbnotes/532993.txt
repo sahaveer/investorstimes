@@ -1,39 +1,48 @@
-CODES
-532993	SEJALLTD	
-SECTOR : Glass & Glass Products
-INDUSTRY : Glass & Glass Products
+CODES	532993	SEJALLTD	
+FULLNAME : Sejal Glass Ltd
+SECTOR : Industrial Products
+INDUSTRY : Glass - Industrial
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   10.0   |   24.3   |   46.4   |  163.8   |  243.6  
- SQoQ%:  |  169.4   |  142.8   |   90.8   |  252.8   |   48.7  
- YOPM%:  |   0.0    |   0.0    |   6.0    |   12.4   |   13.9  
- YNPM%:  |   0.0    |  604.0   |   16.9   |   2.0    |   4.5   
-YPROFIT: |  -18.4   |  147.0   |   7.8    |   3.3    |   11.0  
- PQoQ%:  |  -14.3   |  -897.8  |  -94.7   |  -57.8   |  231.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   49.9   |   52.8   |   61.6   |   61.6   |   67.6  
- QoQ%:  |   5.8    |   5.6    |   16.7   |   0.1    |   9.7   
- QOPM%: |   10.8   |   13.1   |   13.6   |   14.7   |   13.9  
- QNPM%: |   0.6    |   2.6    |   3.9    |   5.5    |   5.6   
- QPFT:  |   0.3    |   1.4    |   2.4    |   3.4    |   3.8   
- PQoQ%: |  -68.3   |  331.2   |   75.4   |   39.3   |   12.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 10.0		24.3		46.4		163.8		243.6		282.0
+SQoQ%: 	169.4		142.8		90.8		252.8		48.7		115.8
+YOPM%: 	0.0		0.0		6.0		12.4		14.0
+YNPM%: 	0.0		604.0		16.9		2.0		4.5
+YPROFIT: -18.4		147.0		7.8		3.3		11.0		17.4
+PQoQ%: 	-14.3		-897.8		-94.7		-57.8		231.1		158.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 61.6		67.6		77.2		104.0		100.8
+QoQ%: 	0.1		9.7		14.1		34.8		-3.1
+QOPM%: 	14.7		13.9		15.1		16.2		14.5
+QNPM%: 	5.5		5.6		5.7		7.7		5.0
+QPFT: 	3.4		3.8		4.4		8.0		5.0
+PQoQ%: 	39.3		12.5		15.3		83.8		-37.6
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 116% YSales
+- Last 3QPROFIT is about 158% of YProfit
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 
 
 YSALES in Mar-2025 is at 243.6 showing a QoQ_growth of 48.7%. The YNETPROFIT grew by 231.1% to 11.0
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 243.60cr, QoQ 48.70% & YoY 2336.00% SALES;
-34.00cr, QoQ 66.60% & YoY -1272.41% OPERATING PROFIT;
+34.10cr, QoQ 67.00% & YoY -1275.86% OPERATING PROFIT;
 11.00cr, QoQ 231.10% & YoY -159.78% NET PROFIT;
-OPM %: 13.90% vs 12.4%
+OPM %: 14.00% vs 12.4%
 NPM %: 4.50% vs 2.0%
 

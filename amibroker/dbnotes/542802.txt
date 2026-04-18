@@ -1,38 +1,45 @@
-CODE	NAME
-542802 
+CODES	542802	
+FULLNAME : Galactico Corporate Services Ltd
+SECTOR : Diversified
+INDUSTRY : Diversified
+PRODUCT DEMAND
+BestQ Dec 2025
 
-SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 15.9		21.6		35.9		24.3		27.9		21.7
+SQoQ%: 	-5.4		35.7		66.3		-32.3		15.0		77.8
+YOPM%: 	25.9		24.8		40.4		17.6		15.3
+YNPM%: 	13.2		19.1		26.5		7.0		6.9
+YPROFIT: 2.1		4.1		9.5		1.7		1.9		1.2
+PQoQ%: 	118.8		95.7		131.1		-82.0		12.3		63.2
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   16.8   |   15.9   |   21.6   |   35.9   |   24.3   |      17.3    
- SQoQ%:  |  -11.5   |   -5.4   |   35.7   |   66.3   |  -32.3   |      71.2    
- YOPM%:  |   18.7   |   25.9   |   24.8   |   40.4   |   17.6   |              
- YNPM%:  |   5.7    |   13.2   |   19.1   |   26.5   |   7.0    |              
-YPROFIT: |   1.0    |   2.1    |   4.1    |   9.5    |   1.7    |      2.0     
- PQoQ%:  |  -17.2   |  118.8   |   95.7   |  131.1   |  -82.0   |     117.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   5.4    |   6.0    |   6.0    |   5.4    |   5.9   
- QoQ%:  |   19.8   |   10.3   |   0.7    |  -10.6   |   8.9   
- QOPM%: |   16.5   |   7.5    |   10.6   |   17.6   |   14.8  
- QNPM%: |   11.2   |   4.8    |   11.4   |   10.4   |   12.2  
- QPFT:  |   0.6    |   0.3    |   0.7    |   0.6    |   0.7   
- PQoQ%: |  103.3   |  -52.5   |  137.9   |  -18.8   |   28.6  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 5.9		8.6		6.4		8.9		6.4
+QoQ%: 	8.9		47.1		-25.7		38.1		-28.3
+QOPM%: 	14.8		0.0		10.7		9.3		9.4
+QNPM%: 	12.2		4.6		8.6		4.8		3.6
+QPFT: 	0.7		0.4		0.6		0.4		0.2
+PQoQ%: 	28.6		-44.4		37.5		-21.8		-46.5
+
+
 
 ***PROS***
-- Last 3QSALES is about 71% YSales
-- Last 3QPROFIT is about 118% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 63% of YProfit
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-24.30cr, QoQ -32.30% & YoY 44.64% SALES;
-4.30cr, QoQ -70.60% & YoY 38.71% OPERATING PROFIT;
-1.70cr, QoQ -82.00% & YoY 70.00% NET PROFIT;
-OPM %: 17.60% vs 40.4%
-NPM %: 7.00% vs 26.5%
+ 31-Mar-2025 #Result
+27.90cr, QoQ 15.00% & YoY 75.47% SALES;
+4.30cr, QoQ 0.50% & YoY 4.88% OPERATING PROFIT;
+1.90cr, QoQ 12.30% & YoY -9.52% NET PROFIT;
+OPM %: 15.30% vs 17.6%
+NPM %: 6.90% vs 7.0%
 

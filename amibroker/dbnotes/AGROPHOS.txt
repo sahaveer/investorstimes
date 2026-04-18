@@ -1,13 +1,15 @@
-CODES
-AGROPHOS	
-SECTOR : Fertilizers
+CODES	AGROPHOS	
+FULLNAME : Agro Phos India Ltd
+SECTOR : Fertilizers & Agrochemicals
 INDUSTRY : Fertilizers
 
-***CONS***
-- NEGATIVE YProfit : -5.3
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- YProfit Turned POSITIVE this year Mar-2025 : 5.0
+
+***CONS***

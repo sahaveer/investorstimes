@@ -1,34 +1,44 @@
-CODES
-500249	KSB	
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Pumps
+CODES	500249	KSB	
+FULLNAME : KSB Ltd
+SECTOR : Industrial Products
+INDUSTRY : Compressors, Pumps & Diesel Engines
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Dec-2020 | Dec-2021 | Dec-2022 | Dec-2023 | Dec-2024
----------+----------+----------+----------+----------+---------
-YSALES:  |  1208.1  |  1497.3  |  1822.0  |  2247.2  |  2533.1 
- SQoQ%:  |   -6.6   |   23.9   |   21.7   |   23.3   |   12.7  
- YOPM%:  |   14.0   |   14.0   |   13.5   |   13.1   |   13.3  
- YNPM%:  |   7.8    |   10.0   |   10.0   |   9.3    |   9.8   
-YPROFIT: |   93.8   |  149.4   |  182.7   |  208.7   |  247.5  
- PQoQ%:  |   -6.9   |   59.3   |   22.3   |   14.2   |   18.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  544.2   |  646.0   |  616.5   |  726.4   |  595.4  
- QoQ%:  |   -9.7   |   18.7   |   -4.6   |   17.8   |  -18.0  
- QOPM%: |   11.2   |   14.0   |   14.2   |   13.5   |   11.4  
- QNPM%: |   8.2    |   10.5   |   10.0   |   10.1   |   8.7   
- QPFT:  |   44.6   |   68.1   |   61.7   |   73.1   |   51.6  
- PQoQ%: |  -18.8   |   52.7   |   -9.4   |   18.5   |  -29.4  
+***YEARLY***
+YPNL: 	Dec-2021	Dec-2022	Dec-2023	Dec-2024	Dec-2025	QSUM:Dec-2025
+YSALES: 1497.3		1822.0		2247.2		2533.1		2695.7		2100.3
+SQoQ%: 	23.9		21.7		23.3		12.7		6.4		77.9
+YOPM%: 	14.0		13.5		13.1		13.3		13.9
+YNPM%: 	10.0		10.0		9.3		9.8		10.0
+YPROFIT: 149.4		182.7		208.7		247.5		270.5		218.9
+PQoQ%: 	59.3		22.3		14.2		18.6		9.3		80.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 726.4		595.4		666.7		649.6		784.0
+QoQ%: 	17.8		-18.0		12.0		-2.6		20.7
+QOPM%: 	13.5		11.4		13.7		13.1		16.5
+QNPM%: 	10.1		8.7		10.6		10.4		10.3
+QPFT: 	73.1		51.6		70.4		67.5		81.0
+PQoQ%: 	18.5		-29.4		36.4		-4.1		20.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 81% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Dec-2024 #Result
-2533.10cr, QoQ 12.70% & YoY 109.68% SALES;
-337.50cr, QoQ 15.00% & YoY 100.18% OPERATING PROFIT;
-247.50cr, QoQ 18.60% & YoY 163.86% NET PROFIT;
-OPM %: 13.30% vs 13.1%
-NPM %: 9.80% vs 9.3%
+ 31-Dec-2025 #Result
+2695.70cr, QoQ 6.40% & YoY 80.04% SALES;
+373.50cr, QoQ 10.70% & YoY 78.03% OPERATING PROFIT;
+270.50cr, QoQ 9.30% & YoY 81.06% NET PROFIT;
+OPM %: 13.90% vs 13.3%
+NPM %: 10.00% vs 9.8%
 

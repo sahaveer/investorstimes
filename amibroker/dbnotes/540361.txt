@@ -1,41 +1,44 @@
-CODE	NAME
-540361 
+CODES	540361	
+FULLNAME : Danube Industries Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+BestQ Dec 2025
 
-SECTOR : Trading
-INDUSTRY : Trading
-PRODUCT DEMAND
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 34.1		38.7		69.1		87.0		109.7		81.7
+SQoQ%: 	180.3		13.6		78.5		25.9		26.0		74.5
+YOPM%: 	1.2		1.0		2.1		3.2		2.8
+YNPM%: 	1.0		2.6		1.1		1.1		1.1
+YPROFIT: 0.4		1.0		0.8		1.0		1.2		1.1
+PQoQ%: 	3400.0		182.9		-23.2		27.6		25.8		91.7
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   12.2   |   34.1   |   38.7   |   69.1   |   87.0   |      72.4    
- SQoQ%:  |   inf    |  180.3   |   13.6   |   78.5   |   25.9   |      83.2    
- YOPM%:  |   0.0    |   1.2    |   1.0    |   2.1    |   3.2    |              
- YNPM%:  |   0.1    |   1.0    |   2.6    |   1.1    |   1.1    |              
-YPROFIT: |   0.0    |   0.4    |   1.0    |   0.8    |   1.0    |      0.6     
- PQoQ%:  |  -94.7   |  3400.0  |  182.9   |  -23.2   |   27.6   |      60.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   16.3   |   31.6   |   19.5   |   18.0   |   34.9  
- QoQ%:  |  -29.4   |   94.2   |  -38.2   |   -7.7   |   93.9  
- QOPM%: |   4.7    |   0.3    |   2.9    |   3.1    |   2.1   
- QNPM%: |   2.2    |   0.0    |   1.1    |   1.1    |   0.6   
- QPFT:  |   0.4    |   -0.4   |   0.2    |   0.2    |   0.2   
- PQoQ%: |  -37.9   |  -197.2  |  -162.9  |  -13.6   |   10.5  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 34.9		37.2		25.6		23.5		32.6
+QoQ%: 	93.9		6.7		-31.4		-8.0		38.7
+QOPM%: 	2.1		3.3		3.6		3.9		4.6
+QNPM%: 	0.6		1.6		1.2		1.4		1.5
+QPFT: 	0.2		0.6		0.3		0.3		0.5
+PQoQ%: 	10.5		185.7		-50.0		10.0		45.5
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 83% YSales
-- Last 3QPROFIT is about 60% of YProfit
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 92% of YProfit
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 26.0% while the Profit QoQ_growth is at 25.8%
 
-YSALES in Mar-2024 is at 87.0 showing a QoQ_growth of 25.9%. The YNETPROFIT grew by 27.6% to 1.0
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-87.00cr, QoQ 25.90% & YoY 613.11% SALES;
-2.80cr, QoQ 93.70% & YoY -2900.00% OPERATING PROFIT;
-1.00cr, QoQ 27.60% & YoY inf% NET PROFIT;
-OPM %: 3.20% vs 2.1%
+ 31-Mar-2025 #Result
+109.70cr, QoQ 26.00% & YoY 221.70% SALES;
+3.10cr, QoQ 10.80% & YoY 675.00% OPERATING PROFIT;
+1.20cr, QoQ 25.80% & YoY 200.00% NET PROFIT;
+OPM %: 2.80% vs 3.2%
 NPM %: 1.10% vs 1.1%
 

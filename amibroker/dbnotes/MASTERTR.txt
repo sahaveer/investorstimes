@@ -1,41 +1,49 @@
-CODES
-511768	MASTERTR	
-SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+CODES	511768	MASTERTR	
+FULLNAME : Master Trust Ltd
+SECTOR : Capital Markets
+INDUSTRY : Stockbroking & Allied
+BestQ Dec 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  135.9   |  224.8   |  331.4   |  339.2   |  500.4   |     462.0    
- SQoQ%:  |   1.0    |   65.5   |   47.4   |   2.4    |   47.5   |      92.3    
- YOPM%:  |   24.2   |   28.2   |   32.9   |   35.4   |   40.7   |              
- YNPM%:  |   9.1    |   15.3   |   16.7   |   19.4   |   21.6   |              
-YPROFIT: |   12.3   |   34.4   |   55.2   |   65.9   |  108.1   |     106.7    
- PQoQ%:  |  -26.0   |  179.2   |   60.5   |   19.4   |   64.0   |      98.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  123.7   |  164.1   |  160.4   |  153.7   |  147.9  
- QoQ%:  |   2.8    |   32.7   |   -2.3   |   -4.1   |   -3.8  
- QOPM%: |   42.5   |   41.9   |   38.6   |   41.7   |   43.4  
- QNPM%: |   22.4   |   23.1   |   21.6   |   24.0   |   23.8  
- QPFT:  |   27.7   |   37.9   |   34.6   |   36.9   |   35.2  
- PQoQ%: |   18.9   |   36.5   |   -8.5   |   6.5    |   -4.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 224.8		331.4		339.2		500.4		583.9		395.3
+SQoQ%: 	65.5		47.4		2.4		47.5		16.7		67.7
+YOPM%: 	28.2		32.9		35.4		40.7		41.6
+YNPM%: 	15.3		16.7		19.4		21.6		22.5
+YPROFIT: 34.4		55.2		65.9		108.1		131.2		90.0
+PQoQ%: 	179.2		60.5		19.4		64.0		21.4		68.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 147.9		122.0		131.7		126.9		136.7
+QoQ%: 	-3.8		-17.5		7.9		-3.6		7.8
+QOPM%: 	43.4		43.3		39.4		46.7		44.7
+QNPM%: 	23.8		20.1		20.6		24.8		23.1
+QPFT: 	35.2		24.6		27.1		31.4		31.5
+PQoQ%: 	-4.7		-30.2		10.4		15.8		0.4
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 24.3%
-- Last 3QSALES is about 92% YSales
-- Last 3QPROFIT is about 99% of YProfit
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+ROCE in Mar2025 is at 21.9%
+- Last 3QSALES is about 68% YSales
+- Last 3QPROFIT is about 69% of YProfit
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 16.7% while the Profit QoQ_growth is much better than Sales itself at 21.4%
 
-YSALES in Mar-2024 is at 500.4 showing a QoQ_growth of 47.5%. The YNETPROFIT grew by 64.0% to 108.1
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-500.40cr, QoQ 47.50% & YoY 268.21% SALES;
-203.80cr, QoQ 70.00% & YoY 521.34% OPERATING PROFIT;
-108.10cr, QoQ 64.00% & YoY 778.86% NET PROFIT;
-OPM %: 40.70% vs 35.4%
-NPM %: 21.60% vs 19.4%
+ 31-Mar-2025 #Result
+583.90cr, QoQ 16.70% & YoY 159.74% SALES;
+243.00cr, QoQ 19.20% & YoY 283.28% OPERATING PROFIT;
+131.20cr, QoQ 21.40% & YoY 281.40% NET PROFIT;
+OPM %: 41.60% vs 40.7%
+NPM %: 22.50% vs 21.6%
 

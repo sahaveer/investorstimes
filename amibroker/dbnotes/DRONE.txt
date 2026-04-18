@@ -1,30 +1,17 @@
-CODES
-DRONE	
-SECTOR : Education
-INDUSTRY : Miscellaneous
+CODES	DRONE	
+FULLNAME : Drone Destination Ltd
+SECTOR : Other Consumer Services
+INDUSTRY : Education
 YSD YPD 2024
 YSD YPD 2023
-LYPD PM 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 - YProfits and YSales DOUBLED in Mar2024
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 163.6% while the Profit QoQ_growth is much better than Sales itself at 176.6%
 
-Yearly 
- 31-Mar-2024 #Result
-31.80cr, QoQ 163.60% SALES;
-13.10cr, QoQ 178.10% OPERATING PROFIT;
-7.10cr, QoQ 176.60% NET PROFIT;
-OPM %: 41.10% vs 38.9%
-NPM %: 22.30% vs 21.2%
 
+***CONS***
+- NO PRODUCT DEMAND

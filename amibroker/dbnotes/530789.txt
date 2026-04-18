@@ -1,38 +1,43 @@
-CODE	NAME
-530789 
-
+CODES	530789	
+FULLNAME : Ceejay Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+INDUSTRY : Non Banking Financial Company (NBFC)
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   17.4   |   16.0   |   18.0   |   19.8   |   20.7   |      18.9    
- SQoQ%:  |   17.2   |   -7.6   |   12.0   |   10.4   |   4.5    |      91.3    
- YOPM%:  |   51.4   |   52.2   |   53.1   |   62.2   |   59.8   |              
- YNPM%:  |   27.8   |   27.9   |   27.7   |   34.5   |   31.7   |              
-YPROFIT: |   4.8    |   4.5    |   5.0    |   6.8    |   6.6    |      5.2     
- PQoQ%:  |   0.0    |   -7.3   |   11.2   |   37.6   |   -3.9   |      78.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   5.0    |   6.0    |   5.4    |   6.3    |   7.2   
- QoQ%:  |   1.8    |   18.9   |  -10.2   |   17.1   |   13.7  
- QOPM%: |   53.9   |   58.0   |   62.8   |   62.0   |   40.8  
- QNPM%: |   26.6   |   31.1   |   33.3   |   36.1   |   15.9  
- QPFT:  |   1.3    |   1.9    |   1.8    |   2.3    |   1.1   
- PQoQ%: |  -11.8   |   38.8   |   -3.8   |   26.8   |  -49.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 16.0		18.0		19.8		20.7		26.3		19.8
+SQoQ%: 	-7.6		12.0		10.4		4.5		26.9		75.3
+YOPM%: 	52.2		53.1		62.2		59.8		51.4
+YNPM%: 	27.9		27.7		34.5		31.7		25.9
+YPROFIT: 4.5		5.0		6.8		6.6		6.8		5.7
+PQoQ%: 	-7.3		11.2		37.6		-3.9		3.5		83.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 7.2		7.5		6.4		6.7		6.7
+QoQ%: 	13.7		4.8		-14.6		4.1		0.5
+QOPM%: 	40.8		44.5		51.7		59.2		50.1
+QNPM%: 	15.9		21.2		27.3		32.7		25.1
+QPFT: 	1.1		1.6		1.8		2.2		1.7
+PQoQ%: 	-49.8		39.5		10.1		24.6		-22.9
+
+
 
 ***PROS***
-- Last 3QSALES is about 91% YSales
-- Last 3QPROFIT is about 79% of YProfit
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 84% of YProfit
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-20.70cr, QoQ 4.50% & YoY 18.97% SALES;
-12.40cr, QoQ 0.40% & YoY 39.33% OPERATING PROFIT;
-6.60cr, QoQ -3.90% & YoY 37.50% NET PROFIT;
-OPM %: 59.80% vs 62.2%
-NPM %: 31.70% vs 34.5%
+ 31-Mar-2025 #Result
+26.30cr, QoQ 26.90% & YoY 64.38% SALES;
+13.50cr, QoQ 9.20% & YoY 60.71% OPERATING PROFIT;
+6.80cr, QoQ 3.50% & YoY 51.11% NET PROFIT;
+OPM %: 51.40% vs 59.8%
+NPM %: 25.90% vs 31.7%
 

@@ -1,13 +1,14 @@
-CODE	NAME
-513252 
+CODES	513252	
+FULLNAME : Jay Ushin Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
 
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

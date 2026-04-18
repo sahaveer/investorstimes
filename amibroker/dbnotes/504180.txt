@@ -1,26 +1,33 @@
-CODE	NAME
-504180 
+CODES	504180	
+FULLNAME : Standard Batteries Ltd
+SECTOR : Finance
+INDUSTRY : Non Banking Financial Company (NBFC)
+LYPD PM 2025
 
-SECTOR : Trading
-INDUSTRY : Trading
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.0		0.0		0.0		0.0		0.0		0.0
+SQoQ%: 	-100.0		nan		nan		nan		nan		nan
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		inf
+YPROFIT: -0.4		-0.8		-5.4		-0.0		0.8		-0.3
+PQoQ%: 	-133.3		108.3		616.0		-99.1		-1740.0		-37.5
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.4    |   0.0    |   0.0    |   0.0    |   0.0    |      0.0     
- SQoQ%:  |  -20.4   |  -100.0  |   nan    |   nan    |   nan    |      nan     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |  276.9   |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   1.1    |   -0.4   |   -0.8   |   -5.4   |   -0.0   |      0.9     
- PQoQ%:  |   -3.6   |  -133.3  |  108.3   |  616.0   |  -99.1   |      -inf    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   nan    |   nan   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   inf    |   inf    |   inf    |   0.0    |   0.0   
- QPFT:  |   0.0    |   0.2    |   1.2    |   -0.1   |   -0.2  
- PQoQ%: |  -120.0  |  700.0   |  656.2   |  -108.3  |   50.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-0.2		-0.1		-0.1		-0.1		-0.1
+PQoQ%: 	50.0		-6.7		0.0		0.0		-35.7
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***

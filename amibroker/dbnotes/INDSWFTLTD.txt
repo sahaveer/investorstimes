@@ -1,38 +1,41 @@
-CODES
-524652	INDSWFTLTD	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Formulations
-BestQ Dec 2024
+CODES	INDSWFTLTD	
+FULLNAME : Ind-Swift Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+
+***YEARLY***
+YPNL: 	Mar-2018	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 269.8		397.7		411.0		502.2		515.2
+SQoQ%: 	2.6		47.4		3.3		22.2		2.6
+YOPM%: 	2.9		11.4		10.2		10.7		4.5
+YNPM%: 	0.0		0.0		6.3		2.8		55.0
+YPROFIT: -50.4		-20.0		26.0		14.2		283.4
+PQoQ%: 	-86.5		-60.3		-230.1		-45.4		1891.9
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2024	Jun-2024	Sep-2024	Dec-2024	Mar-2025
+QSALES: 135.2		113.8		136.4		120.1		144.9
+QoQ%: 	31.9		-15.8		19.8		-11.9		20.6
+QOPM%: 	10.9		2.8		10.6		6.6		0.0
+QNPM%: 	27.8		24.8		3.0		0.0		177.1
+QPFT: 	37.5		28.2		4.1		-5.5		256.6
+PQoQ%: 	-350.8		-24.8		-85.4		-233.8		-4765.5
+
+
+
+***PROS***
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2017 | Mar-2018 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  263.0   |  269.8   |  397.7   |  411.0   |  502.2   |     370.3    
- SQoQ%:  |  -14.5   |   2.6    |   47.4   |   3.3    |   22.2   |      73.7    
- YOPM%:  |   0.0    |   2.9    |   11.4   |   10.2   |   10.7   |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   6.3    |   2.8    |              
-YPROFIT: |  -372.7  |  -50.4   |  -20.0   |   26.0   |   14.2   |      26.8    
- PQoQ%:  |   74.5   |  -86.5   |  -60.3   |  -230.1  |  -45.4   |     188.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  102.6   |  135.2   |  113.8   |  136.4   |  120.1  
- QoQ%:  |  -11.5   |   31.9   |  -15.8   |   19.8   |  -11.9  
- QOPM%: |   4.4    |   10.7   |   2.8    |   10.6   |   6.1   
- QNPM%: |   0.0    |   27.8   |   24.8   |   3.0    |   0.0   
- QPFT:  |  -15.0   |   37.5   |   28.2   |   4.1    |   -5.5  
- PQoQ%: |   39.8   |  -350.8  |  -24.8   |  -85.4   |  -233.8 
-
-***PROS***
-- Last 3QSALES is about 74% YSales
-- Last 3QPROFIT is about 189% of YProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
 
 Yearly 
- 31-Mar-2024 #Result
-502.20cr, QoQ 22.20% & YoY 90.95% SALES;
-54.00cr, QoQ 28.40% & YoY -182.57% OPERATING PROFIT;
-14.20cr, QoQ -45.40% & YoY -103.81% NET PROFIT;
-OPM %: 10.70% vs 10.2%
-NPM %: 2.80% vs 6.3%
+ 31-Mar-2025 #Result
+515.20cr, QoQ 2.60% & YoY 90.96% SALES;
+23.00cr, QoQ -57.40% & YoY 191.14% OPERATING PROFIT;
+283.40cr, QoQ 1891.90% & YoY -662.30% NET PROFIT;
+OPM %: 4.50% vs 10.7%
+NPM %: 55.00% vs 2.8%
 

@@ -1,16 +1,17 @@
-CODE	NAME
-536672 
+CODES	536672	
+FULLNAME : VCU Data Management Ltd
+SECTOR : IT - Hardware
+INDUSTRY : Computers Hardware & Equipments
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-- NO PRODUCT DEMAND
-- NEGATIVE YProfit : -0.2
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
+
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -0.2

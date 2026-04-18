@@ -1,10 +1,11 @@
-CODES
-ONYX	
+CODES	ONYX	
+FULLNAME : Onyx Biotec Ltd
 SECTOR : Pharmaceuticals
 INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

@@ -1,13 +1,11 @@
-CODES
-SATECH	
+CODES	SATECH	
+FULLNAME : S A Tech Software India Ltd
 SECTOR : IT - Software
 INDUSTRY : Computers - Software - Medium / Small
 LYPD PM 2025
 YS15 YPD 2025
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
@@ -16,6 +14,9 @@ ROCE in Mar2025 is at 17.2%
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
 As on Mar2025, Sales have increased by 38.4% while the Profit QoQ_growth is much better than Sales itself at 101.6%
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

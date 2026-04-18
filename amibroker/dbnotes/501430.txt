@@ -1,13 +1,20 @@
-CODE	NAME
-501430 
+CODES	501430	
+FULLNAME : Bombay Cycle & Motor Agency Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+PRODUCT DEMAND
 
-SECTOR : Diversified
-INDUSTRY : Diversified - Medium / Small
-
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 83% YSales
+
+
+***CONS***
+- NEGATIVE YProfit : -3.1

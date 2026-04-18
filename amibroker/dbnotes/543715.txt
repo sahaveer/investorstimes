@@ -1,15 +1,17 @@
-CODES
-543715	IEL	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	543715	IEL	
+FULLNAME : Indiabulls Enterprises Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -136.6
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+
+***CONS***
+- NEGATIVE YProfit : -136.6

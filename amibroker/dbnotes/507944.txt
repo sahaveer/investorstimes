@@ -1,38 +1,42 @@
-CODE	NAME
-507944 
+CODES	507944	
+FULLNAME : Bajaj Steel Industries Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
+PRODUCT DEMAND
 
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 510.5		436.8		548.9		550.7		584.6		407.4
+SQoQ%: 	23.2		-14.4		25.7		0.3		6.1		69.7
+YOPM%: 	18.2		11.9		16.8		14.7		15.9
+YNPM%: 	12.9		8.4		12.3		10.7		14.4
+YPROFIT: 65.6		36.5		67.5		59.0		84.3		34.6
+PQoQ%: 	177.5		-44.4		85.0		-12.6		42.9		41.0
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  414.3   |  510.5   |  436.8   |  548.9   |  550.7   |     431.2    
- SQoQ%:  |   10.1   |   23.2   |  -14.4   |   25.7   |   0.3    |      78.3    
- YOPM%:  |   9.2    |   18.2   |   11.9   |   16.8   |   14.7   |              
- YNPM%:  |   5.7    |   12.9   |   8.4    |   12.3   |   10.7   |              
-YPROFIT: |   23.6   |   65.6   |   36.5   |   67.5   |   59.0   |      66.2    
- PQoQ%:  |   72.4   |  177.5   |  -44.4   |   85.0   |  -12.6   |     112.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  125.9   |  173.9   |  141.0   |  152.2   |  138.0  
- QoQ%:  |  -17.8   |   38.2   |  -18.9   |   7.9    |   -9.3  
- QOPM%: |   13.3   |   14.9   |   15.5   |   16.6   |   15.1  
- QNPM%: |   8.0    |   13.0   |   24.9   |   11.5   |   9.9   
- QPFT:  |   10.0   |   22.6   |   35.1   |   17.4   |   13.7  
- PQoQ%: |  -40.9   |  124.4   |   55.8   |  -50.4   |  -21.3  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 138.0		153.5		107.5		174.6		125.3
+QoQ%: 	-9.3		11.2		-29.9		62.4		-28.3
+QOPM%: 	15.1		15.8		12.6		18.2		7.4
+QNPM%: 	9.9		11.8		6.9		12.2		4.7
+QPFT: 	13.7		18.1		7.4		21.3		5.9
+PQoQ%: 	-21.3		31.7		-59.0		187.6		-72.2
+
+
 
 ***PROS***
-- Last 3QSALES is about 78% YSales
-- Last 3QPROFIT is about 112% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 70% YSales
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-550.70cr, QoQ 0.30% & YoY 32.92% SALES;
-81.10cr, QoQ -11.90% & YoY 113.98% OPERATING PROFIT;
-59.00cr, QoQ -12.60% & YoY 150.00% NET PROFIT;
-OPM %: 14.70% vs 16.8%
-NPM %: 10.70% vs 12.3%
+ 31-Mar-2025 #Result
+584.60cr, QoQ 6.10% & YoY 14.52% SALES;
+92.90cr, QoQ 14.60% & YoY 0.22% OPERATING PROFIT;
+84.30cr, QoQ 42.90% & YoY 28.51% NET PROFIT;
+OPM %: 15.90% vs 14.7%
+NPM %: 14.40% vs 10.7%
 

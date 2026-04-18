@@ -1,35 +1,44 @@
-CODES
-500335	BIRLACORPN	
-SECTOR : Cement
-INDUSTRY : Cement - North India
+CODES	500335	BIRLACORPN	
+FULLNAME : Birla Corporation Ltd
+SECTOR : Cement & Cement Products
+INDUSTRY : Cement & Cement Products
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  6785.4  |  7461.2  |  8682.3  |  9662.7  |  9214.5 
- SQoQ%:  |   -1.9   |   10.0   |   16.4   |   11.3   |   -4.6  
- YOPM%:  |   19.9   |   14.9   |   9.0    |   14.9   |   13.2  
- YNPM%:  |   9.3    |   5.3    |   0.5    |   4.4    |   3.2   
-YPROFIT: |  630.1   |  398.6   |   40.5   |  420.6   |  295.2  
- PQoQ%:  |   24.7   |  -36.7   |  -89.8   |  938.4   |  -29.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2654.4  |  2190.4  |  1952.6  |  2256.6  |  2814.9 
- QoQ%:  |   14.9   |  -17.5   |  -10.9   |   15.6   |   24.7  
- QOPM%: |   17.8   |   11.8   |   9.1    |   11.0   |   19.0  
- QNPM%: |   7.3    |   1.5    |   0.0    |   1.4    |   9.1   
- QPFT:  |  193.3   |   32.6   |  -25.2   |   31.2   |  256.6  
- PQoQ%: |   77.1   |  -83.1   |  -177.2  |  -223.8  |  722.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 6785.4		7461.2		8682.3		9656.2		9214.5		6819.4
+SQoQ%: 	-1.9		10.0		16.4		11.2		-4.6		74.0
+YOPM%: 	19.9		14.9		9.0		14.9		13.2
+YNPM%: 	9.3		5.3		0.5		4.4		3.2
+YPROFIT: 630.1		398.6		40.5		420.6		295.2		262.9
+PQoQ%: 	24.7		-36.7		-89.8		938.4		-29.8		89.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2256.6		2814.9		2454.2		2206.5		2158.7
+QoQ%: 	15.6		24.7		-12.8		-10.1		-2.2
+QOPM%: 	11.0		19.0		14.1		13.8		13.6
+QNPM%: 	1.4		9.1		4.9		4.1		2.4
+QPFT: 	31.2		256.6		119.6		90.5		52.8
+PQoQ%: 	-223.8		722.7		-53.4		-24.3		-41.7
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 89% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 9214.50cr, QoQ -4.60% & YoY 35.80% SALES;
-1217.20cr, QoQ -15.50% & YoY -9.94% OPERATING PROFIT;
+1220.60cr, QoQ -15.20% & YoY -9.69% OPERATING PROFIT;
 295.20cr, QoQ -29.80% & YoY -53.15% NET PROFIT;
 OPM %: 13.20% vs 14.9%
 NPM %: 3.20% vs 4.4%

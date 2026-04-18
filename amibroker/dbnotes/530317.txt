@@ -1,38 +1,46 @@
-CODE	NAME
-530317 
+CODES	530317	
+FULLNAME : Godavari Drugs Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+EXPANSION 2025
+PRODUCT DEMAND
+BestQ Dec 2025
 
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 122.7		161.1		159.6		156.7		113.4		72.6
+SQoQ%: 	28.2		31.3		-0.9		-1.8		-27.7		64.0
+YOPM%: 	8.0		7.0		6.2		8.5		10.4
+YNPM%: 	3.4		3.3		2.4		3.5		3.9
+YPROFIT: 4.1		5.2		3.8		5.6		4.4		2.8
+PQoQ%: 	106.5		27.1		-27.8		46.4		-21.1		63.6
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   95.7   |  122.7   |  161.1   |  159.6   |  156.7   |      87.9    
- SQoQ%:  |   14.6   |   28.2   |   31.3   |   -0.9   |   -1.8   |      56.1    
- YOPM%:  |   6.3    |   8.0    |   7.0    |   6.2    |   8.5    |              
- YNPM%:  |   2.1    |   3.4    |   3.3    |   2.4    |   3.5    |              
-YPROFIT: |   2.0    |   4.1    |   5.2    |   3.8    |   5.6    |      3.5     
- PQoQ%:  |   65.3   |  106.5   |   27.1   |  -27.8   |   46.4   |      62.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   43.1   |   38.6   |   32.2   |   26.1   |   29.6  
- QoQ%:  |   9.0    |  -10.4   |  -16.6   |  -19.0   |   13.3  
- QOPM%: |   8.2    |   11.6   |   10.0   |   11.1   |   8.7   
- QNPM%: |   2.8    |   6.9    |   5.1    |   4.2    |   2.6   
- QPFT:  |   1.2    |   2.7    |   1.6    |   1.1    |   0.8   
- PQoQ%: |   41.9   |  118.0   |  -38.7   |  -33.1   |  -29.4  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 29.6		25.5		23.8		26.6		22.2
+QoQ%: 	13.3		-13.7		-6.6		11.9		-16.8
+QOPM%: 	8.7		12.2		12.2		7.5		11.1
+QNPM%: 	2.6		3.5		4.4		3.8		3.4
+QPFT: 	0.8		0.9		1.0		1.0		0.8
+PQoQ%: 	-29.4		15.6		16.9		-3.8		-24.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 56% YSales
-- Last 3QPROFIT is about 62% of YProfit
+EXPANSION ??- EXPANSION underway in Mar-2025, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 64% YSales
+- Last 3QPROFIT is about 64% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-156.70cr, QoQ -1.80% & YoY 63.74% SALES;
-13.30cr, QoQ 34.00% & YoY 121.67% OPERATING PROFIT;
-5.60cr, QoQ 46.40% & YoY 180.00% NET PROFIT;
-OPM %: 8.50% vs 6.2%
-NPM %: 3.50% vs 2.4%
+ 31-Mar-2025 #Result
+113.40cr, QoQ -27.70% & YoY -7.58% SALES;
+11.80cr, QoQ -11.20% & YoY 20.41% OPERATING PROFIT;
+4.40cr, QoQ -21.10% & YoY 7.32% NET PROFIT;
+OPM %: 10.40% vs 8.5%
+NPM %: 3.90% vs 3.5%
 

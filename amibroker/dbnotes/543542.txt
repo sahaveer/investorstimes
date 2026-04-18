@@ -1,29 +1,24 @@
-CODE	NAME
-543542 
-
+CODES	543542	
+FULLNAME : Kesar India Ltd
 SECTOR : Realty
-INDUSTRY : Construction
-PRODUCT DEMAND
-YSD YPD 2024
-YSD YPD 2022
+INDUSTRY : Residential, Commercial Projects
 
-***CONS***
+***YEARLY***
 
+
+***QUARTERLY***
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- YProfits and YSales DOUBLED in Mar2024
-- YProfits and YSales DOUBLED in Mar2022
+- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2025 is at 499.8%. The QPROFIT QoQ_growth by 1663.2%
 
+***CONS***
 
-YSALES in Mar-2024 is at 52.6 showing a QoQ_growth of 246.5%. The YNETPROFIT grew by 1191.0% to 10.1
-
-Yearly 
- 31-Mar-2024 #Result
-52.60cr, QoQ 246.50% & YoY 10420.00% SALES;
-14.00cr, QoQ 1182.60% & YoY -inf% OPERATING PROFIT;
-10.10cr, QoQ 1191.00% & YoY inf% NET PROFIT;
-OPM %: 26.60% vs 7.2%
-NPM %: 19.10% vs 5.1%
+Quarterly 
+31-Dec-2025 #Result
+91.60cr, QoQ 499.80% SALES;
+23.20cr, QoQ 710.10% OPERATING PROFIT;
+15.30cr, QoQ 1663.20% NET PROFIT;
+OPM %: 25.30% vs 18.7%
+NPM %: 16.70% vs 5.7%
 

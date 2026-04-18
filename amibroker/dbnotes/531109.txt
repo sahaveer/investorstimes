@@ -1,28 +1,50 @@
-CODES
-531109	ISHANCH	
-SECTOR : 
-INDUSTRY : 
-BestQ Dec 2024
+CODES	531109	ISHANCH	
+FULLNAME : Ishan Dyes and chemicals Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
+EXPANSION 2025
+PRODUCT DEMAND
+BestQ Dec 2025
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   80.2   |   81.8   |   87.4   |   64.7   |   76.6   |      84.8    
- SQoQ%:  |   20.0   |   2.0    |   6.9    |  -26.0   |   18.5   |     110.7    
- YOPM%:  |   13.2   |   21.7   |   17.3   |   1.8    |   4.2    |              
- YNPM%:  |   10.2   |   15.7   |   11.6   |   0.0    |   0.2    |              
-YPROFIT: |   8.2    |   12.8   |   10.1   |   -1.2   |   0.1    |      2.2     
- PQoQ%:  |   89.6   |   56.0   |  -21.1   |  -111.9  |  -110.0  |     2200.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   14.5   |   26.6   |   33.0   |   30.6   |   21.2  
- QoQ%:  |  -38.3   |   82.8   |   24.1   |   -7.2   |  -30.7  
- QOPM%: |   0.0    |   16.9   |   5.9    |   7.8    |   10.0  
- QNPM%: |   0.0    |   13.9   |   2.7    |   4.3    |   0.2   
- QPFT:  |   -1.5   |   3.7    |   0.9    |   1.3    |   0.0   
- PQoQ%: |  359.4   |  -350.3  |  -76.1   |   50.0   |  -96.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 81.8		87.4		64.7		76.6		101.4		41.7
+SQoQ%: 	2.0		6.9		-26.0		18.5		32.3		41.1
+YOPM%: 	21.7		17.3		1.8		4.2		6.6
+YNPM%: 	15.7		11.6		0.0		0.2		1.1
+YPROFIT: 12.8		10.1		-1.2		0.1		1.1		-8.5
+PQoQ%: 	56.0		-21.1		-111.9		-110.0		808.3		-772.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 21.2		16.7		16.3		6.7		18.7
+QoQ%: 	-30.7		-21.0		-2.6		-58.6		177.3
+QOPM%: 	10.0		1.8		11.2		0.0		0.0
+QNPM%: 	0.2		0.0		1.8		0.0		0.0
+QPFT: 	0.0		-1.2		0.3		-3.6		-5.2
+PQoQ%: 	-96.2		-2420.0		-125.9		-1306.7		45.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 111% YSales
-- Last 3QPROFIT is about 2200% of YProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 0.1
+EXPANSION ??- EXPANSION underway in Mar-2025, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+- PRODUCT DEMAND is rising since 3 years
+- Double QSales and QProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 101.4 showing a QoQ_growth of 32.3%. The YNETPROFIT grew by 808.3% to 1.1
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+101.40cr, QoQ 32.30% & YoY 23.96% SALES;
+6.70cr, QoQ 107.10% & YoY -62.15% OPERATING PROFIT;
+1.10cr, QoQ 808.30% & YoY -91.41% NET PROFIT;
+OPM %: 6.60% vs 4.2%
+NPM %: 1.10% vs 0.2%
+

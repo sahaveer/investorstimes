@@ -1,39 +1,37 @@
-CODE	NAME
-534063 
-
+CODES	534063	
+FULLNAME : Futuristic Solutions Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Other Financial Services
+PRODUCT DEMAND
 YSD YPD 2023
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.5    |   0.5    |   0.4    |   3.8    |   3.5    |      0.2     
- SQoQ%:  |  -87.9   |   10.4   |  -28.3   |  892.1   |   -6.6   |      5.7     
- YOPM%:  |   0.0    |   30.2   |   2.6    |   90.5   |   57.1   |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   70.8   |   40.1   |              
-YPROFIT: |   -0.8   |   -0.0   |   -0.0   |   2.7    |   1.4    |      0.0     
- PQoQ%:  |  -239.0  |  -97.6   |   50.0   | -9000.0  |  -47.2   |      0.0     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.6    |   1.9    |   0.0    |   0.2    |   0.0   
- QoQ%:  |   13.5   |  227.1   |  -100.0  |   inf    |  -100.0 
- QOPM%: |   0.0    |   86.5   |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   66.8   |   0.0    |   35.0   |   0.0   
- QPFT:  |   -0.0   |   1.3    |   -0.1   |   0.1    |   -0.0  
- PQoQ%: |  -121.1  | -3325.0  |  -105.4  |  -200.0  |  -114.3 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.5		0.4		3.8		3.5		0.8		1.2
+SQoQ%: 	10.4		-28.3		892.1		-6.6		-78.7		150.0
+YOPM%: 	30.2		2.6		90.5		57.1		0.0
+YNPM%: 	0.0		0.0		70.8		40.1		0.0
+YPROFIT: -0.0		-0.0		2.7		1.4		-0.1		0.6
+PQoQ%: 	-97.6		50.0		-9000.0		-47.2		-104.3		-600.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.2		1.0
+QoQ%: 	-100.0		nan		nan		inf		566.7
+QOPM%: 	0.0		0.0		0.0		0.0		60.0
+QNPM%: 	0.0		0.0		0.0		0.0		55.0
+QPFT: 	-0.0		-0.0		-0.0		-0.0		0.6
+PQoQ%: 	-114.3		400.0		-80.0		0.0		-5600.0
+
+
 
 ***PROS***
-DEBT-Free Company for the last 3 yrs
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 150% YSales
 - YProfits and YSales DOUBLED in Mar2023
 
 
-Yearly 
- 31-Mar-2024 #Result
-3.50cr, QoQ -6.60% & YoY 600.00% SALES;
-2.00cr, QoQ -41.10% & YoY -600.00% OPERATING PROFIT;
-1.40cr, QoQ -47.20% & YoY -275.00% NET PROFIT;
-OPM %: 57.10% vs 90.5%
-NPM %: 40.10% vs 70.8%
-
+***CONS***
+- NEGATIVE YProfit : -0.1

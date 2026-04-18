@@ -1,14 +1,15 @@
-CODES
-MPTODAY	
+CODES	MPTODAY	
+FULLNAME : Madhya Pradesh Today Media Ltd
 SECTOR : Media - Print/Television/Radio
 INDUSTRY : Entertainment / Electronic Media Software
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

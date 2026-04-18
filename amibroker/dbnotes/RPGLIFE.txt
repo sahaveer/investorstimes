@@ -1,39 +1,46 @@
-CODES
-532983	RPGLIFE	
-SECTOR : 
-INDUSTRY : 
+CODES	532983	RPGLIFE	
+FULLNAME : RPG Life Sciences Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  389.1   |  440.2   |  512.8   |  582.0   |  653.4  
- SQoQ%:  |   3.6    |   13.1   |   16.5   |   13.5   |   12.3  
- YOPM%:  |   18.2   |   19.8   |   20.3   |   22.2   |   24.4  
- YNPM%:  |   10.3   |   11.7   |   13.2   |   15.1   |   28.0  
-YPROFIT: |   40.0   |   51.5   |   67.6   |   87.7   |  183.2  
- PQoQ%:  |   37.9   |   28.7   |   31.4   |   29.6   |  109.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  127.0   |  165.4   |  172.2   |  172.7   |  143.1  
- QoQ%:  |  -17.4   |   30.3   |   4.1    |   0.3    |  -17.2  
- QOPM%: |   16.3   |   23.6   |   26.7   |   28.5   |   17.8  
- QNPM%: |   10.4   |   16.2   |   2.4    |   20.2   |   82.0  
- QPFT:  |   13.2   |   26.8   |   4.2    |   34.9   |  117.4  
- PQoQ%: |  -50.0   |  102.1   |  -84.3   |  731.7   |  236.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 389.1		440.2		512.8		582.0		653.4		530.6
+SQoQ%: 	3.6		13.1		16.5		13.5		12.3		81.2
+YOPM%: 	18.2		19.8		20.3		22.2		24.6
+YNPM%: 	10.3		11.7		13.2		15.1		28.0
+YPROFIT: 40.0		51.5		67.6		87.7		183.2		85.2
+PQoQ%: 	37.9		28.7		31.4		29.6		109.0		46.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 172.7		143.1		168.9		181.7		180.0
+QoQ%: 	0.3		-17.2		18.1		7.6		-0.9
+QOPM%: 	28.5		17.8		21.0		21.5		22.1
+QNPM%: 	20.2		82.0		15.6		20.3		12.3
+QPFT: 	34.9		117.4		26.3		36.8		22.1
+PQoQ%: 	731.7		236.0		-77.6		40.2		-39.9
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 22.2%
+ROCE in Mar2025 is at 23.1%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 81% YSales
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
 653.40cr, QoQ 12.30% & YoY 67.93% SALES;
-159.60cr, QoQ 23.60% & YoY 125.11% OPERATING PROFIT;
+160.60cr, QoQ 24.40% & YoY 126.52% OPERATING PROFIT;
 183.20cr, QoQ 109.00% & YoY 358.00% NET PROFIT;
-OPM %: 24.40% vs 22.2%
+OPM %: 24.60% vs 22.2%
 NPM %: 28.00% vs 15.1%
 

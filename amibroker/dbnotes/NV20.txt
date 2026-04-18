@@ -1,4 +1,3 @@
-CODES
-NV20	
-SECTOR : 
-INDUSTRY : 
+CODES	NV20	
+FULLNAME : Kotak NV 20 ETF - Dividend Payout Option
+

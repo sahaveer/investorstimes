@@ -1,26 +1,39 @@
-CODE	NAME
-521151 
+CODES	521151	
+FULLNAME : Dhanlaxmi Fabrics Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+EXPANSION 2025
+PRODUCT DEMAND
+BestQ Dec 2025
 
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 46.4		70.5		84.7		19.9		13.1		17.7
+SQoQ%: 	-44.9		51.9		20.1		-76.5		-34.2		135.1
+YOPM%: 	7.6		5.7		5.4		0.0		0.0
+YNPM%: 	1.6		0.9		0.4		0.0		0.7
+YPROFIT: 0.8		0.6		0.4		-7.7		0.1		-1.6
+PQoQ%: 	-60.3		-17.3		-40.3		-2186.5		-101.2		-1600.0
 
-***CONS***
-- NEGATIVE YProfit : -7.7
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   84.3   |   46.4   |   70.5   |   84.7   |   19.9   |      9.1     
- SQoQ%:  |   3.5    |  -44.9   |   51.9   |   20.1   |  -76.5   |      45.7    
- YOPM%:  |   13.4   |   7.6    |   5.7    |   5.4    |   0.0    |              
- YNPM%:  |   2.2    |   1.6    |   0.9    |   0.4    |   0.0    |              
-YPROFIT: |   1.9    |   0.8    |   0.6    |   0.4    |   -7.7   |      0.0     
- PQoQ%:  |  -70.7   |  -60.3   |  -17.3   |  -40.3   | -2186.5  |      -0.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   4.5    |   6.1    |   3.2    |   3.5    |   2.4   
- QoQ%:  |   2.9    |   34.1   |  -47.1   |   9.3    |  -32.4  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   2.6    |   1.3   
- QPFT:  |   -1.9   |   -2.5   |   -0.1   |   0.1    |   0.0   
- PQoQ%: |  634.6   |   28.8   |  -95.5   |  -181.8  |  -66.7  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2.4		4.0		2.3		3.8		11.6
+QoQ%: 	-32.4		68.1		-42.2		66.2		202.1
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	1.3		2.2		0.0		0.0		0.0
+QPFT: 	0.0		0.1		-0.2		-1.3		-0.1
+PQoQ%: 	-66.7		200.0		-277.8		718.8		-94.7
+
+
 
 ***PROS***
+A DEBT-Free Company
+EXPANSION ??- EXPANSION underway in Mar-2025, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 135% YSales
+- Double QSales and QProfit
+- YProfit Turned POSITIVE this year Mar-2025 : 0.1
+
+***CONS***

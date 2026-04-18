@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets (CRITICAL)
+.streamlit/secrets.toml
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Large data files and binary formats
+*.csv
+*.pkl
+*.zip
+*.xlsx
+*.exe
+*.log
+
+# Project specific ignores
+msedgedriver.exe
+edgedriver_win32.zip
+nltk_data/
+screener/
+amibroker/
+watchlist/
+image/
+lottie/
+__pycache__/
+
+# Local scripts
+webapp_startup.bat
+
+# Allow specific text files if they are assets
+!bselist.txt
+!nselist.txt
+!nltk.txt

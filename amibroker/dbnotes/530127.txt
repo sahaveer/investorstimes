@@ -1,31 +1,42 @@
-CODE	NAME
-530127 
-
+CODES	530127	
+FULLNAME : NPR Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-PRODUCT DEMAND
-BestQ Dec 2024
+INDUSTRY : Other Financial Services
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   27.8   |   5.8    |   7.6    |   12.7   |   9.5    |      5.2     
- SQoQ%:  |  -24.1   |  -79.2   |   32.0   |   67.0   |  -25.7   |      54.7    
- YOPM%:  |   8.6    |   0.0    |   15.7   |   0.0    |   10.7   |              
- YNPM%:  |   6.0    |   0.0    |   0.0    |   0.0    |   11.5   |              
-YPROFIT: |   1.7    |   -1.1   |   -0.0   |   -2.4   |   1.1    |      0.6     
- PQoQ%:  |  -34.4   |  -163.9  |  -95.3   |  4740.0  |  -145.0  |      54.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.7    |   1.8    |   1.8    |   1.9    |   1.5   
- QoQ%:  |  -49.5   |   6.0    |   2.8    |   3.8    |  -21.1  
- QOPM%: |   11.9   |   19.7   |   20.2   |   11.1   |   14.0  
- QNPM%: |   0.0    |   7.9    |   12.0   |   0.0    |   35.3  
- QPFT:  |   0.0    |   0.1    |   0.2    |   -0.1   |   0.5   
- PQoQ%: |  -100.0  |   inf    |   57.1   |  -136.4  |  -762.5 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 5.8		7.6		12.7		9.5		7.6		4.1
+SQoQ%: 	-79.2		32.0		67.0		-25.7		-19.2		53.9
+YOPM%: 	0.0		15.7		0.0		10.7		16.5
+YNPM%: 	0.0		0.0		0.0		11.5		7.7
+YPROFIT: -1.1		-0.0		-2.4		1.1		0.6		0.3
+PQoQ%: 	-163.9		-95.3		4740.0		-145.0		-45.9		50.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1.5		2.0		1.1		1.5		1.5
+QoQ%: 	-21.1		30.0		-42.1		29.2		0.0
+QOPM%: 	14.0		0.0		13.3		0.0		19.9
+QNPM%: 	35.3		0.0		12.4		0.0		17.8
+QPFT: 	0.5		-0.1		0.1		-0.1		0.3
+PQoQ%: 	-762.5		-115.1		-275.0		-185.7		-316.7
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 55% YSales
-- Last 3QPROFIT is about 55% of YProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 1.1
+A DEBT-Free Company
+- Last 3QSALES is about 54% YSales
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+7.60cr, QoQ -19.20% & YoY 31.03% SALES;
+1.30cr, QoQ 24.80% & YoY -533.33% OPERATING PROFIT;
+0.60cr, QoQ -45.90% & YoY -154.55% NET PROFIT;
+OPM %: 16.50% vs 10.7%
+NPM %: 7.70% vs 11.5%
+

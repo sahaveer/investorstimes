@@ -1,37 +1,43 @@
-CODE	NAME
-513532 
+CODES	513532	
+FULLNAME : Pradeep Metals Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
 
-SECTOR : Castings, Forgings & Fastners
-INDUSTRY : Castings & Forgings
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 156.0		220.8		267.8		276.7		311.9		247.1
+SQoQ%: 	-20.1		41.5		21.3		3.3		12.7		79.2
+YOPM%: 	16.1		15.7		17.3		15.0		15.0
+YNPM%: 	5.2		9.0		9.8		8.1		8.7
+YPROFIT: 8.1		20.0		26.2		22.3		27.2		20.1
+PQoQ%: 	5.5		147.2		31.3		-15.1		21.9		73.9
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  195.2   |  156.0   |  220.8   |  267.8   |  276.7   |     224.9    
- SQoQ%:  |   2.0    |  -20.1   |   41.5   |   21.3   |   3.3    |      81.3    
- YOPM%:  |   14.9   |   16.1   |   15.7   |   17.3   |   15.0   |              
- YNPM%:  |   3.9    |   5.2    |   9.0    |   9.8    |   8.1    |              
-YPROFIT: |   7.7    |   8.1    |   20.0   |   26.2   |   22.3   |      20.1    
- PQoQ%:  |  -18.0   |   5.5    |  147.2   |   31.3   |  -15.1   |      90.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   67.7   |   79.5   |   71.5   |   74.2   |   79.2  
- QoQ%:  |   -3.2   |   17.3   |  -10.1   |   3.7    |   6.7   
- QOPM%: |   17.5   |   16.7   |   15.1   |   16.0   |   13.9  
- QNPM%: |   10.1   |   9.9    |   9.8    |   8.7    |   8.4   
- QPFT:  |   6.8    |   7.8    |   7.0    |   6.5    |   6.6   
- PQoQ%: |   22.6   |   14.5   |  -10.7   |   -7.4   |   2.3   
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 79.2		87.0		77.5		85.7		83.9
+QoQ%: 	6.7		10.0		-10.9		10.5		-2.1
+QOPM%: 	14.5		14.9		13.2		16.8		14.9
+QNPM%: 	8.4		8.1		7.2		8.6		8.4
+QPFT: 	6.6		7.1		5.6		7.4		7.1
+PQoQ%: 	2.3		7.1		-21.4		32.7		-4.5
+
+
 
 ***PROS***
-- Last 3QSALES is about 81% YSales
-- Last 3QPROFIT is about 90% of YProfit
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 74% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-276.70cr, QoQ 3.30% & YoY 41.75% SALES;
-41.50cr, QoQ -10.50% & YoY 43.10% OPERATING PROFIT;
-22.30cr, QoQ -15.10% & YoY 189.61% NET PROFIT;
-OPM %: 15.00% vs 17.3%
-NPM %: 8.10% vs 9.8%
+ 31-Mar-2025 #Result
+311.90cr, QoQ 12.70% & YoY 99.94% SALES;
+46.60cr, QoQ 12.50% & YoY 85.66% OPERATING PROFIT;
+27.20cr, QoQ 21.90% & YoY 235.80% NET PROFIT;
+OPM %: 15.00% vs 15.0%
+NPM %: 8.70% vs 8.1%
 

@@ -1,38 +1,45 @@
-CODES
-500875	ITC	
-SECTOR : Tobacco Products
-INDUSTRY : Cigarettes
+CODES	500875	ITC	
+FULLNAME : ITC Ltd
+SECTOR : Diversified FMCG
+INDUSTRY : Diversified FMCG
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 49257.4  | 60644.5  | 70919.0  | 70866.2  | 75323.3 
- SQoQ%:  |   -0.3   |   23.1   |   16.9   |   -0.1   |   6.3   
- YOPM%:  |   34.6   |   34.0   |   36.2   |   37.0   |   34.5  
- YNPM%:  |   26.7   |   25.1   |   27.1   |   28.9   |   46.1  
-YPROFIT: | 13161.2  | 15242.7  | 19191.7  | 20458.8  | 34746.6 
- PQoQ%:  |  -14.0   |   15.8   |   25.9   |   6.6    |   69.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 17037.8  | 18457.3  | 19990.4  | 18790.2  | 18765.0 
- QoQ%:  |   -0.9   |   8.3    |   8.3    |   -6.0   |   -0.1  
- QOPM%: |   37.0   |   36.6   |   32.8   |   33.9   |   34.7  
- QNPM%: |   30.1   |   27.6   |   25.0   |   26.3   |  105.1  
- QPFT:  |  5120.6  |  5091.6  |  4992.9  |  4934.8  | 19727.4 
- PQoQ%: |   -4.0   |   -0.6   |   -1.9   |   -1.2   |  299.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 49257.4		60644.5		70919.0		67931.9		75323.3		61043.7
+SQoQ%: 	-0.3		23.1		16.9		-4.2		10.9		81.0
+YOPM%: 	34.6		34.0		36.2		37.1		34.3
+YNPM%: 	26.7		25.1		27.1		30.1		46.1
+YPROFIT: 13161.2		15242.7		19191.7		20458.8		34746.6		15301.5
+PQoQ%: 	-14.0		15.8		25.9		6.6		69.8		44.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 18790.2		18765.0		21494.8		19501.6		20047.3
+QoQ%: 	-6.0		-0.1		14.5		-9.3		2.8
+QOPM%: 	33.9		34.7		31.7		34.3		34.3
+QNPM%: 	26.3		105.1		24.4		26.3		24.6
+QPFT: 	4934.8		19727.4		5244.2		5126.1		4931.2
+PQoQ%: 	-1.2		299.8		-73.4		-2.3		-3.8
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 50.5%
+ROCE in Mar2025 is at 50.1%
+- Last 3QSALES is about 81% YSales
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
-75323.30cr, QoQ 6.30% & YoY 52.92% SALES;
-25978.20cr, QoQ -1.00% & YoY 52.23% OPERATING PROFIT;
+75323.30cr, QoQ 10.90% & YoY 52.92% SALES;
+25839.40cr, QoQ 2.60% & YoY 51.42% OPERATING PROFIT;
 34746.60cr, QoQ 69.80% & YoY 164.01% NET PROFIT;
-OPM %: 34.50% vs 37.0%
-NPM %: 46.10% vs 28.9%
+OPM %: 34.30% vs 37.1%
+NPM %: 46.10% vs 30.1%
 

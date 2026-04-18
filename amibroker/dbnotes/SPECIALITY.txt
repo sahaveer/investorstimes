@@ -1,37 +1,46 @@
-CODES
-534425	SPECIALITY	
-SECTOR : Hotels & Restaurants
-INDUSTRY : Hotels
+CODES	534425	SPECIALITY	
+FULLNAME : Speciality Restaurants Ltd
+SECTOR : Leisure Services
+INDUSTRY : Restaurants
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  150.1   |  252.9   |  375.0   |  404.7   |  436.2  
- SQoQ%:  |  -58.0   |   68.5   |   48.3   |   7.9    |   7.8   
- YOPM%:  |   0.0    |   14.6   |   20.4   |   17.3   |   16.6  
- YNPM%:  |   0.0    |   3.2    |   25.8   |   7.4    |   5.0   
-YPROFIT: |  -29.3   |   8.2    |   96.8   |   30.0   |   21.7  
- PQoQ%:  |  -22.8   |  -127.8  |  1086.2  |  -69.0   |  -27.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   96.2   |  103.1   |  104.4   |  125.8   |  103.0  
- QoQ%:  |  -17.1   |   7.2    |   1.2    |   20.5   |  -18.1  
- QOPM%: |   14.5   |   15.5   |   14.7   |   20.8   |   14.8  
- QNPM%: |   3.2    |   7.2    |   2.6    |   7.4    |   2.3   
- QPFT:  |   3.1    |   7.4    |   2.7    |   9.2    |   2.4   
- PQoQ%: |  -77.6   |  138.1   |  -63.4   |  242.6   |  -74.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 150.1		252.9		375.0		404.7		436.2		360.0
+SQoQ%: 	-58.0		68.5		48.3		7.9		7.8		82.5
+YOPM%: 	0.0		14.6		20.4		17.4		16.6
+YNPM%: 	0.0		3.2		25.8		7.3		5.0
+YPROFIT: -29.3		8.2		96.8		29.4		21.7		18.5
+PQoQ%: 	-22.8		-127.8		1086.2		-69.6		-26.1		85.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 125.8		103.0		108.8		116.4		134.8
+QoQ%: 	20.5		-18.1		5.6		7.1		15.8
+QOPM%: 	20.8		14.8		16.4		16.6		21.1
+QNPM%: 	7.4		2.3		5.0		4.0		6.3
+QPFT: 	9.2		2.4		5.4		4.6		8.5
+PQoQ%: 	242.6		-74.2		125.9		-14.6		84.4
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 85% of YProfit
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 436.20cr, QoQ 7.80% & YoY 190.61% SALES;
-72.60cr, QoQ 3.50% & YoY -8166.67% OPERATING PROFIT;
-21.70cr, QoQ -27.60% & YoY -174.06% NET PROFIT;
-OPM %: 16.60% vs 17.3%
-NPM %: 5.00% vs 7.4%
+72.60cr, QoQ 3.10% & YoY -8166.67% OPERATING PROFIT;
+21.70cr, QoQ -26.10% & YoY -174.06% NET PROFIT;
+OPM %: 16.60% vs 17.4%
+NPM %: 5.00% vs 7.3%
 

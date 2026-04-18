@@ -1,20 +1,25 @@
-CODES
-543954	ATL	
-SECTOR : Marine Port & Services
-INDUSTRY : Miscellaneous
+CODES	543954	ATL	
+FULLNAME : Allcargo Terminals Ltd
+SECTOR : Transport Infrastructure
+INDUSTRY : Port & Port services
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 116% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 757.80cr, QoQ 3.40% SALES;
-128.50cr, QoQ 8.80% OPERATING PROFIT;
+128.50cr, QoQ 8.90% OPERATING PROFIT;
 30.50cr, QoQ -31.40% NET PROFIT;
 OPM %: 17.00% vs 16.1%
 NPM %: 4.00% vs 6.1%

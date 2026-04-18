@@ -1,39 +1,44 @@
-CODES
-543489	GATEWAY	
-SECTOR : Logistics
-INDUSTRY : Miscellaneous
-BestQ Dec 2024
+CODES	543489	GATEWAY	
+FULLNAME : Gateway Distriparks Ltd
+SECTOR : Transport Services
+INDUSTRY : Logistics Solution Provider
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1179.3		1373.7		1420.9		1536.1		1680.6		1678.1
+SQoQ%: 	-8.7		16.5		3.4		8.1		9.4		99.9
+YOPM%: 	26.6		26.9		26.0		24.8		23.0
+YNPM%: 	8.0		16.3		16.9		16.7		22.1
+YPROFIT: 94.4		223.8		239.9		256.2		370.9		195.0
+PQoQ%: 	-8.3		136.9		7.2		6.8		44.7		52.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 402.5		534.9		550.4		567.3		560.4
+QoQ%: 	3.2		32.9		2.9		3.1		-1.2
+QOPM%: 	24.0		20.1		21.7		21.2		21.9
+QNPM%: 	113.1		0.0		10.9		11.8		12.1
+QPFT: 	455.4		-193.1		60.2		67.0		67.8
+PQoQ%: 	660.1		-142.4		-131.2		11.2		1.3
+
+
+
+***PROS***
+- Last 3QSALES is about 100% YSales
+- Last 3QPROFIT is about 53% of YProfit
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1292.0  |  1179.3  |  1373.7  |  1420.9  |  1536.1  |     1145.6   
- SQoQ%:  |   nan    |   -8.7   |   16.5   |   3.4    |   8.1    |      74.6    
- YOPM%:  |   23.9   |   26.6   |   26.9   |   26.0   |   24.8   |              
- YNPM%:  |   8.0    |   8.0    |   16.3   |   16.9   |   16.7   |              
-YPROFIT: |  103.0   |   94.4   |  223.8   |  239.9   |  256.2   |     564.0    
- PQoQ%:  |   nan    |   -8.3   |  136.9   |   7.2    |   6.8    |     220.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  393.0   |  375.0   |  353.1   |  390.0   |  402.5  
- QoQ%:  |   -1.4   |   -4.6   |   -5.8   |   10.4   |   3.2   
- QOPM%: |   24.9   |   22.2   |   24.0   |   24.8   |   24.0  
- QNPM%: |   16.1   |   14.7   |   13.8   |   15.4   |  113.1  
- QPFT:  |   63.3   |   55.0   |   48.7   |   59.9   |  455.4  
- PQoQ%: |  -13.3   |  -13.1   |  -11.5   |   23.1   |  660.1  
-
-***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 75% YSales
-- Last 3QPROFIT is about 220% of YProfit
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
 
 Yearly 
- 31-Mar-2024 #Result
-1536.10cr, QoQ 8.10% & YoY 18.89% SALES;
-380.20cr, QoQ 3.00% & YoY 22.92% OPERATING PROFIT;
-256.20cr, QoQ 6.80% & YoY 148.74% NET PROFIT;
-OPM %: 24.80% vs 26.0%
-NPM %: 16.70% vs 16.9%
+ 31-Mar-2025 #Result
+1680.60cr, QoQ 9.40% & YoY 42.51% SALES;
+386.00cr, QoQ 1.50% & YoY 23.13% OPERATING PROFIT;
+370.90cr, QoQ 44.70% & YoY 292.90% NET PROFIT;
+OPM %: 23.00% vs 24.8%
+NPM %: 22.10% vs 16.7%
 

@@ -1,40 +1,49 @@
-CODE	NAME
-540954 
+CODES	540954	
+FULLNAME : The Indian Wood Products Company Ltd
+SECTOR : Paper, Forest & Jute Products
+INDUSTRY : Forest Products
+PRODUCT DEMAND
+BestQ Dec 2025
+LYPD PM 2025
 
-SECTOR : Tobacco Products
-INDUSTRY : Miscellaneous
-BestQ Dec 2024
-LYPD PM 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 157.4		177.6		182.1		191.7		225.8		160.0
+SQoQ%: 	-19.1		12.8		2.5		5.3		17.8		70.9
+YOPM%: 	6.9		5.1		5.7		7.4		7.0
+YNPM%: 	1.3		0.0		1.0		1.9		2.3
+YPROFIT: 2.1		-0.6		1.8		3.7		5.3		4.5
+PQoQ%: 	-69.9		-127.9		-417.2		98.9		44.5		84.9
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  194.7   |  157.4   |  177.6   |  182.1   |  191.7   |     171.3    
- SQoQ%:  |   -2.9   |  -19.1   |   12.8   |   2.5    |   5.3    |      89.4    
- YOPM%:  |   10.2   |   6.9    |   5.1    |   5.7    |   7.4    |              
- YNPM%:  |   3.6    |   1.3    |   0.0    |   1.0    |   1.9    |              
-YPROFIT: |   6.9    |   2.1    |   -0.6   |   1.8    |   3.7    |      4.5     
- PQoQ%:  |  -59.1   |  -69.9   |  -127.9  |  -417.2  |   98.9   |     121.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   44.5   |   48.6   |   56.3   |   60.0   |   55.0  
- QoQ%:  |   -8.1   |   9.2    |   16.0   |   6.5    |   -8.4  
- QOPM%: |   7.5    |   8.5    |   7.7    |   6.4    |   7.1   
- QNPM%: |   1.4    |   2.9    |   2.2    |   3.3    |   2.2   
- QPFT:  |   0.6    |   1.4    |   1.3    |   2.0    |   1.2   
- PQoQ%: |   -3.1   |  125.8   |  -10.0   |   55.6   |  -37.2  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 55.0		54.4		51.4		55.3		53.3
+QoQ%: 	-8.4		-1.0		-5.5		7.5		-3.5
+QOPM%: 	7.1		6.8		7.7		7.1		7.4
+QNPM%: 	2.2		1.6		2.2		4.1		1.9
+QPFT: 	1.2		0.8		1.2		2.3		1.0
+PQoQ%: 	-37.2		-30.9		35.3		98.3		-56.1
+
+
 
 ***PROS***
-- Last 3QSALES is about 89% YSales
-- Last 3QPROFIT is about 122% of YProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
-- LastYr YProfits Doubled and maintained in Mar2024
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 71% YSales
+- Last 3QPROFIT is about 85% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 225.8 showing a QoQ_growth of 17.8%. The YNETPROFIT grew by 44.5% to 5.3
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-191.70cr, QoQ 5.30% & YoY -1.54% SALES;
-14.30cr, QoQ 38.10% & YoY -28.14% OPERATING PROFIT;
-3.70cr, QoQ 98.90% & YoY -46.38% NET PROFIT;
-OPM %: 7.40% vs 5.7%
-NPM %: 1.90% vs 1.0%
+ 31-Mar-2025 #Result
+225.80cr, QoQ 17.80% & YoY 43.46% SALES;
+15.80cr, QoQ 10.40% & YoY 46.30% OPERATING PROFIT;
+5.30cr, QoQ 44.50% & YoY 152.38% NET PROFIT;
+OPM %: 7.00% vs 7.4%
+NPM %: 2.30% vs 1.9%
 

@@ -1,12 +1,14 @@
-CODES
-542830	IRCTC	
-SECTOR : Railways
-INDUSTRY : Travel Agencies
+CODES	542830	IRCTC	
+FULLNAME : Indian Railway Catering & Tourism Corporation Ltd
+SECTOR : Leisure Services
+INDUSTRY : Tour, Travel Related Services
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

@@ -1,12 +1,47 @@
-CODES
-533982	TERASOFT	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	533982	TERASOFT	
+FULLNAME : Tera Software Ltd
+SECTOR : IT - Services
+INDUSTRY : IT Enabled Services
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 160.7		127.1		130.8		84.5		107.6		163.2
+SQoQ%: 	-40.2		-20.9		2.9		-35.4		27.4		151.7
+YOPM%: 	4.7		6.3		0.0		8.3		11.5
+YNPM%: 	0.5		0.0		2.7		4.6		8.8
+YPROFIT: 0.8		-1.3		3.5		3.9		9.4		17.6
+PQoQ%: 	-87.1		-254.8		-366.9		13.0		140.3		187.2
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 23.9		33.6		32.7		71.4		59.1
+QoQ%: 	-5.7		40.5		-2.4		118.2		-17.2
+QOPM%: 	12.1		10.9		22.9		13.5		16.6
+QNPM%: 	8.9		8.8		14.2		9.2		10.8
+QPFT: 	2.1		3.0		4.6		6.6		6.4
+PQoQ%: 	69.0		38.5		57.6		41.1		-2.9
 
 
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 152% YSales
+- Last 3QPROFIT is about 187% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+YSALES in Mar-2025 is at 107.6 showing a QoQ_growth of 27.4%. The YNETPROFIT grew by 140.3% to 9.4
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+107.60cr, QoQ 27.40% & YoY -33.04% SALES;
+12.30cr, QoQ 75.00% & YoY 64.00% OPERATING PROFIT;
+9.40cr, QoQ 140.30% & YoY 1075.00% NET PROFIT;
+OPM %: 11.50% vs 8.3%
+NPM %: 8.80% vs 4.6%
+

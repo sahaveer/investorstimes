@@ -1,41 +1,41 @@
-CODE	NAME
-538569 
+CODES	538569	
+FULLNAME : Triveni Enterprises Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 
-SECTOR : Trading
-INDUSTRY : Trading
-PRODUCT DEMAND
-BestQ Dec 2024
-YSD YPD 2022
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: -0.0		10.5		8.6		-0.0		3.0		0.0
+SQoQ%: 	0.0		-105100.0		-18.5		-100.1		-30400.0		0.0
+YOPM%: 	0.0		8.4		0.0		0.0		0.0
+YNPM%: 	-800.0		9.4		3.7		-1500.0		6.3
+YPROFIT: 0.1		1.0		0.3		0.2		0.2		0.0
+PQoQ%: 	-33.3		1137.5		-67.7		-53.1		26.7		0.0
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 |  Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+-----------+----------+----------+--------------
-YSALES:  |   -0.0   |   -0.0   |    10.5   |   8.6    |   -0.0   |      2.4     
- SQoQ%:  |   -inf   |   0.0    | -105100.0 |  -18.5   |  -100.1  |      -inf    
- YOPM%:  |   0.0    |   0.0    |    8.4    |   0.0    |   0.0    |              
- YNPM%:  | -1200.0  |  -800.0  |    9.4    |   3.7    | -1500.0  |              
-YPROFIT: |   0.1    |   0.1    |    1.0    |   0.3    |   0.2    |      0.3     
- PQoQ%:  |   33.3   |  -33.3   |   1137.5  |  -67.7   |  -53.1   |     150.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   1.0    |   0.8    |   0.6   
- QoQ%:  |   nan    |   nan    |   inf    |  -15.2   |  -23.8  
- QOPM%: |   0.0    |   0.0    |   2.0    |   1.2    |   3.1   
- QNPM%: |   inf    |   0.0    |   10.1   |   9.5    |   15.6  
- QPFT:  |   0.0    |   0.0    |   0.1    |   0.1    |   0.1   
- PQoQ%: |  -16.7   |  -100.0  |   inf    |  -20.0   |   25.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.6		0.6		0.0		0.0		0.0
+QoQ%: 	inf		-9.4		-100.0		nan		nan
+QOPM%: 	3.1		0.0		0.0		0.0		0.0
+QNPM%: 	15.6		0.0		inf		inf		inf
+QPFT: 	0.1		-0.1		0.0		0.0		0.0
+PQoQ%: 	-9.1		-190.0		-133.3		33.3		-75.0
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.6
-- Last 3QPROFIT is about 150% of YProfit
-- YProfits and YSales DOUBLED in Mar2022
+A DEBT-Free Company
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
--0.00cr, QoQ -100.10% & YoY nan% SALES;
--0.30cr, QoQ 520.00% & YoY -0.00% OPERATING PROFIT;
-0.20cr, QoQ -53.10% & YoY 100.00% NET PROFIT;
+ 31-Mar-2025 #Result
+3.00cr, QoQ -30400.00% & YoY -inf% SALES;
+-0.10cr, QoQ -67.70% & YoY -66.67% OPERATING PROFIT;
+0.20cr, QoQ 26.70% & YoY 100.00% NET PROFIT;
 OPM %: 0.00% vs 0.0%
-NPM %: -1500.00% vs 3.7%
+NPM %: 6.30% vs -1500.0%
 

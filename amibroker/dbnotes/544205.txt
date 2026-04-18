@@ -1,14 +1,15 @@
-CODE	NAME
-544205 
-
+CODES	544205	
+FULLNAME : National Peroxide Ltd
 SECTOR : Chemicals
 INDUSTRY : Chemicals
 
-***CONS***
-- NEGATIVE YProfit : -2.2
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -2.2

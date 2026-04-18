@@ -1,29 +1,37 @@
-CODE	NAME
-532820 
+CODES	532820	
+FULLNAME : E-Land Apparel Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+BestQ Dec 2025
+LYPD PM 2025
 
-SECTOR : Textiles
-INDUSTRY : Textiles - Processing
-LYPD PM 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 121.2		177.6		230.2		215.4		300.4		172.5
+SQoQ%: 	-18.8		46.5		29.7		-6.5		39.5		57.4
+YOPM%: 	0.0		2.9		5.9		5.5		5.9
+YNPM%: 	0.0		0.0		0.0		0.0		4.5
+YPROFIT: -53.0		-28.6		-39.9		-39.8		13.7		-37.0
+PQoQ%: 	1.1		-46.0		39.4		-0.1		-134.3		-270.1
 
-***CONS***
-- NEGATIVE YProfit : -39.8
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  149.4   |  121.2   |  177.6   |  230.2   |  215.4   |     196.8    
- SQoQ%:  |  -13.2   |  -18.8   |   46.5   |   29.7   |   -6.5   |      91.4    
- YOPM%:  |   0.0    |   0.0    |   2.9    |   5.9    |   5.5    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |  -52.4   |  -53.0   |  -28.6   |  -39.9   |  -39.8   |      6.7     
- PQoQ%:  |   26.3   |   1.1    |  -46.0   |   39.4   |   -0.1   |     -16.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   38.3   |   76.5   |   85.2   |   44.4   |   67.2  
- QoQ%:  |   3.3    |  100.0   |   11.3   |  -47.9   |   51.5  
- QOPM%: |   0.0    |   6.8    |   10.5   |   0.5    |   6.3   
- QNPM%: |   0.0    |   0.0    |   4.5    |   0.0    |   4.7   
- QPFT:  |  -14.2   |   -8.0   |   3.9    |   -0.3   |   3.1   
- PQoQ%: |   33.5   |  -44.1   |  -148.6  |  -108.5  | -1048.5 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 67.2		103.6		72.7		33.8		66.0
+QoQ%: 	51.5		54.0		-29.8		-53.6		95.5
+QOPM%: 	6.3		4.2		0.0		0.0		0.0
+QNPM%: 	4.7		6.8		0.0		0.0		0.0
+QPFT: 	3.1		7.0		-5.1		-19.4		-12.5
+PQoQ%: 	-1048.5		124.0		-172.3		283.4		-35.8
+
+
 
 ***PROS***
-- Last 3QSALES is about 91% YSales
-- LastYr YProfits Doubled and maintained in Mar2024
+- Last 3QSALES is about 57% YSales
+- Double QSales and QProfit
+- YProfit Turned POSITIVE this year Mar-2025 : 13.7
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NO PRODUCT DEMAND

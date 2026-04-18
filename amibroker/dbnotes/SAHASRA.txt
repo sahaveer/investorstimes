@@ -1,10 +1,11 @@
-CODES
-SAHASRA	
+CODES	SAHASRA	
+FULLNAME : Sahasra Electronic Solutions Ltd
 SECTOR : Electronics
 INDUSTRY : Electronics - Components
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

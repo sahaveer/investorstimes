@@ -1,36 +1,45 @@
-CODES
-539889	PARAGMILK	
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
+CODES	539889	PARAGMILK	
+FULLNAME : Parag Milk Foods Ltd
+SECTOR : Food Products
+INDUSTRY : Dairy Products
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1841.8  |  2071.8  |  2892.6  |  3138.7  |  3432.2 
- SQoQ%:  |  -24.5   |   12.5   |   39.6   |   8.5    |   9.4   
- YOPM%:  |   6.7    |   0.0    |   4.1    |   6.3    |   7.4   
- YNPM%:  |   1.1    |   0.0    |   1.8    |   2.9    |   3.5   
-YPROFIT: |   20.7   |  -532.5  |   53.2   |   90.6   |  118.8  
- PQoQ%:  |  -77.9   | -2671.2  |  -110.0  |   70.1   |   31.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  790.1   |  757.9   |  871.3   |  884.7   |  918.2  
- QoQ%:  |   -1.3   |   -4.1   |   15.0   |   1.5    |   3.8   
- QOPM%: |   4.7    |   7.4    |   8.0    |   8.4    |   6.8   
- QNPM%: |   1.2    |   3.6    |   3.4    |   4.1    |   2.9   
- QPFT:  |   9.8    |   27.3   |   29.2   |   36.1   |   26.2  
- PQoQ%: |  -71.3   |  178.0   |   7.0    |   23.5   |  -27.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1841.8		2071.8		2892.6		3138.7		3432.2		2872.2
+SQoQ%: 	-24.5		12.5		39.6		8.5		9.4		83.7
+YOPM%: 	6.9		0.0		4.1		6.4		7.4
+YNPM%: 	1.1		0.0		1.8		2.9		3.5
+YPROFIT: 20.7		-532.5		53.2		90.6		118.8		102.8
+PQoQ%: 	-77.9		-2671.2		-110.0		70.1		31.1		86.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 884.7		918.2		851.5		1008.0		1012.7
+QoQ%: 	1.5		3.8		-7.3		18.4		0.5
+QOPM%: 	8.4		6.8		6.8		7.1		6.7
+QNPM%: 	4.1		2.9		3.2		4.5		2.9
+QPFT: 	36.1		26.2		27.6		45.6		29.6
+PQoQ%: 	23.5		-27.3		5.2		65.5		-35.2
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 87% of YProfit
 - YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 3432.20cr, QoQ 9.40% & YoY 86.35% SALES;
-252.70cr, QoQ 27.90% & YoY 103.46% OPERATING PROFIT;
+253.50cr, QoQ 25.30% & YoY 100.55% OPERATING PROFIT;
 118.80cr, QoQ 31.10% & YoY 473.91% NET PROFIT;
-OPM %: 7.40% vs 6.3%
+OPM %: 7.40% vs 6.4%
 NPM %: 3.50% vs 2.9%
 

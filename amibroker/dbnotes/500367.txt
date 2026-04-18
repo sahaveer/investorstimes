@@ -1,37 +1,47 @@
-CODES
-500367	RUBFILA	
-SECTOR : Plantation & Plantation Products
-INDUSTRY : Miscellaneous
-BestQ Dec 2024
+CODES	500367	RUBFILA	
+FULLNAME : Rubfila International Ltd
+SECTOR : Industrial Products
+INDUSTRY : Rubber
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  258.0   |  322.9   |  476.8   |  457.1   |  469.8   |     403.0    
- SQoQ%:  |   20.7   |   25.2   |   47.6   |   -4.1   |   2.8    |      85.8    
- YOPM%:  |   9.2    |   15.2   |   13.6   |   8.2    |   7.7    |              
- YNPM%:  |   6.5    |   10.4   |   9.4    |   5.7    |   5.4    |              
-YPROFIT: |   16.9   |   33.4   |   44.6   |   26.0   |   25.4   |      21.1    
- PQoQ%:  |   -4.7   |   98.2   |   33.5   |  -41.9   |   -2.1   |      83.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  102.9   |  128.6   |  130.2   |  134.8   |  138.0  
- QoQ%:  |  -10.2   |   24.9   |   1.3    |   3.5    |   2.4   
- QOPM%: |   5.5    |   8.7    |   8.4    |   6.9    |   8.6   
- QNPM%: |   2.7    |   5.5    |   5.5    |   4.5    |   5.8   
- QPFT:  |   2.8    |   7.1    |   7.1    |   6.0    |   8.0   
- PQoQ%: |  -62.5   |  151.4   |   0.6    |  -15.3   |   31.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 322.9		476.8		457.1		469.8		550.4		441.8
+SQoQ%: 	25.2		47.6		-4.1		2.8		17.2		80.3
+YOPM%: 	15.2		13.6		8.2		7.7		8.1
+YNPM%: 	10.4		9.4		5.7		5.4		5.3
+YPROFIT: 33.4		44.6		26.0		25.4		29.4		20.2
+PQoQ%: 	98.2		33.5		-41.9		-2.1		15.9		68.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 138.0		147.5		144.9		150.2		146.7
+QoQ%: 	2.4		6.9		-1.7		3.7		-2.3
+QOPM%: 	8.6		8.5		6.8		7.3		5.9
+QNPM%: 	5.8		5.6		4.6		5.3		3.7
+QPFT: 	8.0		8.3		6.7		8.0		5.5
+PQoQ%: 	31.8		4.4		-19.5		19.6		-31.2
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- Last 3QSALES is about 86% YSales
-- Last 3QPROFIT is about 83% of YProfit
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 69% of YProfit
+
+YSALES in Mar-2025 is at 550.4 showing a QoQ_growth of 17.2%. The YNETPROFIT grew by 15.9% to 29.4
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-469.80cr, QoQ 2.80% & YoY 82.09% SALES;
-36.00cr, QoQ -3.80% & YoY 51.90% OPERATING PROFIT;
-25.40cr, QoQ -2.10% & YoY 50.30% NET PROFIT;
-OPM %: 7.70% vs 8.2%
-NPM %: 5.40% vs 5.7%
+ 31-Mar-2025 #Result
+550.40cr, QoQ 17.20% & YoY 70.46% SALES;
+44.70cr, QoQ 24.30% & YoY -8.96% OPERATING PROFIT;
+29.40cr, QoQ 15.90% & YoY -11.98% NET PROFIT;
+OPM %: 8.10% vs 7.7%
+NPM %: 5.30% vs 5.4%
 

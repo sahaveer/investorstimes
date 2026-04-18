@@ -1,14 +1,15 @@
-CODE	NAME
-531673 
+CODES	531673	
+FULLNAME : Anka India Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Leather And Leather Products
 
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
-
-***CONS***
-- NEGATIVE YProfit : -3.4
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -0.4

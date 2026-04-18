@@ -1,22 +1,14 @@
-CODE	NAME
-512453 
-
-SECTOR : Packaging
+CODES	512453	
+FULLNAME : Shri Jagdamba Polymers Ltd
+SECTOR : Industrial Products
 INDUSTRY : Packaging
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 
-Quarterly 
-31-Dec-2024 #Result
-114.70cr, QoQ -8.60% SALES;
-16.90cr, QoQ 5.30% OPERATING PROFIT;
-13.70cr, QoQ 55.00% NET PROFIT;
-OPM %: 14.80% vs 12.8%
-NPM %: 11.90% vs 7.0%
-
+***CONS***

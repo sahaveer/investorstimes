@@ -1,40 +1,49 @@
-CODES
-543917	SIGMA	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	543917	SIGMA	
+FULLNAME : Sigma Solve Ltd
+SECTOR : IT - Services
+INDUSTRY : IT Enabled Services
+BestQ Dec 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   21.2   |   41.1   |   55.4   |   65.0   |   76.2  
- SQoQ%:  |  102.4   |   94.3   |   34.9   |   17.3   |   17.1  
- YOPM%:  |   34.8   |   36.6   |   40.4   |   35.5   |   33.8  
- YNPM%:  |   14.8   |   21.8   |   17.9   |   24.8   |   25.1  
-YPROFIT: |   3.1    |   9.0    |   9.9    |   16.1   |   19.1  
- PQoQ%:  |  112.2   |  187.2   |   10.5   |   63.0   |   18.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   16.2   |   16.0   |   17.0   |   19.6   |   23.5  
- QoQ%:  |   -0.1   |   -1.4   |   6.6    |   14.8   |   20.2  
- QOPM%: |   36.7   |   29.6   |   31.0   |   30.6   |   41.3  
- QNPM%: |   32.8   |   24.6   |   24.1   |   21.6   |   29.0  
- QPFT:  |   5.3    |   3.9    |   4.1    |   4.2    |   6.8   
- PQoQ%: |   15.9   |  -26.1   |   4.6    |   2.9    |   61.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 21.2		41.1		55.4		65.0		76.2		71.0
+SQoQ%: 	102.4		94.3		34.9		17.3		17.1		93.2
+YOPM%: 	34.8		36.6		40.4		35.5		33.9
+YNPM%: 	14.8		21.8		17.9		24.8		25.1
+YPROFIT: 3.1		9.0		9.9		16.1		19.1		18.5
+PQoQ%: 	112.2		187.2		10.5		63.0		18.3		96.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 19.6		23.5		20.7		25.6		24.7
+QoQ%: 	14.8		20.2		-12.2		23.9		-3.4
+QOPM%: 	30.6		41.3		24.1		29.8		31.7
+QNPM%: 	21.6		29.0		25.1		26.0		27.1
+QPFT: 	4.2		6.8		5.2		6.6		6.7
+PQoQ%: 	2.9		61.2		-24.0		28.4		0.6
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 49.6%
+ROCE in Mar2025 is at 49.7%
+- Last 3QSALES is about 93% YSales
+- Last 3QPROFIT is about 97% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 17.1% while the Profit QoQ_growth is much better than Sales itself at 18.3%
 
+***CONS***
+- NO PRODUCT DEMAND
+
 Yearly 
  31-Mar-2025 #Result
 76.20cr, QoQ 17.10% & YoY 259.43% SALES;
-25.70cr, QoQ 11.50% & YoY 247.30% OPERATING PROFIT;
+25.80cr, QoQ 11.70% & YoY 248.65% OPERATING PROFIT;
 19.10cr, QoQ 18.30% & YoY 516.13% NET PROFIT;
-OPM %: 33.80% vs 35.5%
+OPM %: 33.90% vs 35.5%
 NPM %: 25.10% vs 24.8%
 

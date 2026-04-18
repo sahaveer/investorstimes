@@ -1,34 +1,43 @@
-CODES
-500260	RAMCOCEM	
-SECTOR : Cement
-INDUSTRY : Cement - South India
+CODES	500260	RAMCOCEM	
+FULLNAME : The Ramco Cements Ltd
+SECTOR : Cement & Cement Products
+INDUSTRY : Cement & Cement Products
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  5291.0  |  6003.7  |  8157.3  |  9376.4  |  8518.4 
- SQoQ%:  |   -1.8   |   13.5   |   35.9   |   14.9   |   -9.2  
- YOPM%:  |   29.4   |   21.5   |   14.5   |   16.7   |   14.5  
- YNPM%:  |   14.8   |   14.7   |   3.9    |   3.8    |   3.2   
-YPROFIT: |  783.6   |  881.5   |  314.5   |  360.0   |  272.6  
- PQoQ%:  |   29.7   |   12.5   |  -64.3   |   14.4   |  -24.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2678.2  |  2093.6  |  2044.1  |  1983.4  |  2397.3 
- QoQ%:  |   26.9   |  -21.8   |   -2.4   |   -3.0   |   20.9  
- QOPM%: |   15.6   |   15.3   |   15.4   |   14.1   |   13.3  
- QNPM%: |   4.8    |   1.8    |   1.3    |   9.2    |   1.1   
- QPFT:  |  129.0   |   37.2   |   25.7   |  182.4   |   27.4  
- PQoQ%: |   52.7   |  -71.2   |  -30.8   |  609.6   |  -85.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 5291.0		6003.7		8157.3		9376.4		8518.4		6418.4
+SQoQ%: 	-1.8		13.5		35.9		14.9		-9.2		75.3
+YOPM%: 	29.4		21.5		14.5		16.7		14.5
+YNPM%: 	14.8		14.7		3.9		3.8		3.2
+YPROFIT: 783.6		881.5		314.5		360.0		272.6		547.9
+PQoQ%: 	29.7		12.5		-64.3		14.4		-24.3		201.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1983.4		2397.3		2074.0		2238.7		2105.7
+QoQ%: 	-3.0		20.9		-13.5		7.9		-5.9
+QOPM%: 	14.1		13.3		19.2		17.3		13.3
+QNPM%: 	9.2		1.1		4.1		3.5		18.3
+QPFT: 	182.4		27.4		85.0		77.3		385.6
+PQoQ%: 	609.6		-85.0		210.2		-9.0		398.6
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 201% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 8518.40cr, QoQ -9.20% & YoY 61.00% SALES;
-1232.50cr, QoQ -21.30% & YoY -20.88% OPERATING PROFIT;
+1234.10cr, QoQ -21.20% & YoY -20.78% OPERATING PROFIT;
 272.60cr, QoQ -24.30% & YoY -65.21% NET PROFIT;
 OPM %: 14.50% vs 16.7%
 NPM %: 3.20% vs 3.8%

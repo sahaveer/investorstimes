@@ -1,31 +1,40 @@
-CODES
-534758	CIGNITITEC	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	534758	CIGNITITEC	
+FULLNAME : Cigniti Technologies Ltd
+SECTOR : IT - Services
+INDUSTRY : IT Enabled Services
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  896.5   |  1241.8  |  1647.6  |  1815.0  |  2014.3 
- SQoQ%:  |   2.8    |   38.5   |   32.7   |   10.2   |   11.0  
- YOPM%:  |   16.2   |   10.4   |   14.4   |   12.2   |   14.3  
- YNPM%:  |   11.8   |   7.4    |   10.2   |   9.1    |   9.9   
-YPROFIT: |  105.4   |   91.7   |  168.3   |  165.6   |  200.2  
- PQoQ%:  |  -13.4   |  -12.9   |   83.5   |   -1.6   |   20.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  455.6   |  468.5   |  499.2   |  516.4   |  530.3  
- QoQ%:  |   -2.6   |   2.8    |   6.6    |   3.4    |   2.7   
- QOPM%: |   6.6    |   10.6   |   13.0   |   16.5   |   16.9  
- QNPM%: |   6.0    |   2.2    |   10.6   |   12.3   |   13.8  
- QPFT:  |   27.1   |   10.5   |   52.9   |   63.6   |   73.2  
- PQoQ%: |  -43.5   |  -61.2   |  403.2   |   20.1   |   15.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 896.5		1241.8		1647.6		1815.0		2014.3		1680.9
+SQoQ%: 	2.8		38.5		32.7		10.2		11.0		83.4
+YOPM%: 	16.2		10.4		14.4		12.2		14.3
+YNPM%: 	11.8		7.4		10.2		9.1		9.9
+YPROFIT: 105.4		91.7		168.3		165.6		200.2		228.8
+PQoQ%: 	-13.4		-12.9		83.5		-1.6		20.9		114.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 516.4		530.3		534.2		567.3		579.4
+QoQ%: 	3.4		2.7		0.7		6.2		2.1
+QOPM%: 	16.5		16.9		16.6		17.0		17.9
+QNPM%: 	12.3		13.8		12.3		14.6		13.9
+QPFT: 	63.6		73.2		65.9		82.6		80.3
+PQoQ%: 	20.2		15.1		-10.0		25.3		-2.8
+
+
 
 ***PROS***
 A DEBT-Free Company
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 21.6%
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 114% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

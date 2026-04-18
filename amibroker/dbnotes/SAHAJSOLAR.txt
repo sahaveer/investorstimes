@@ -1,13 +1,11 @@
-CODES
-SAHAJSOLAR	
+CODES	SAHAJSOLAR	
+FULLNAME : Sahaj Solar Ltd
 SECTOR : Capital Goods - Electrical Equipment
 INDUSTRY : Electric Equipment
 YSD YPD 2023
 LYPD PM 2025
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,6 +15,9 @@ ROCE in Mar2025 is at 17.7%
 - LastYr YProfits Doubled and maintained in Mar2025
 
 YSALES in Mar-2025 is at 307.1 showing a QoQ_growth of 71.2%. The YNETPROFIT grew by 110.4% to 25.8
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

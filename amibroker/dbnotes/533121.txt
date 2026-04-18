@@ -1,38 +1,44 @@
-CODES
-533121	EXPLEOSOL	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	533121	EXPLEOSOL	
+FULLNAME : Expleo Solutions Ltd
+SECTOR : IT - Services
+INDUSTRY : IT Enabled Services
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  270.2   |  300.9   |  742.5   |  903.3   |  964.9   |     769.1    
- SQoQ%:  |   -4.4   |   11.4   |  146.8   |   21.7   |   6.8    |      79.7    
- YOPM%:  |   19.7   |   23.2   |   16.7   |   22.2   |   15.4   |              
- YNPM%:  |   14.8   |   16.8   |   9.1    |   14.8   |   9.4    |              
-YPROFIT: |   39.9   |   50.4   |   67.7   |  133.9   |   90.4   |      79.2    
- PQoQ%:  |   10.2   |   26.4   |   34.2   |   97.8   |  -32.5   |      87.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  250.2   |  255.4   |  252.2   |  259.3   |  257.6  
- QoQ%:  |   6.9    |   2.1    |   -1.3   |   2.8    |   -0.6  
- QOPM%: |   15.4   |   13.4   |   15.4   |   16.3   |   15.0  
- QNPM%: |   13.6   |   6.1    |   9.5    |   13.7   |   7.7   
- QPFT:  |   34.0   |   15.7   |   23.9   |   35.5   |   19.8  
- PQoQ%: |   65.9   |  -53.9   |   52.2   |   48.5   |  -44.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 300.9		742.5		903.3		964.9		1024.8		821.7
+SQoQ%: 	11.4		146.8		21.7		6.8		6.2		80.2
+YOPM%: 	23.2		16.7		22.2		15.4		16.2
+YNPM%: 	16.8		9.1		14.8		9.4		10.1
+YPROFIT: 50.4		67.7		133.9		90.4		103.2		82.3
+PQoQ%: 	26.4		34.2		97.8		-32.5		14.2		79.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 257.6		255.8		259.6		282.7		279.4
+QoQ%: 	-0.6		-0.7		1.5		8.9		-1.2
+QOPM%: 	15.0		15.6		11.4		16.5		16.5
+QNPM%: 	7.7		9.4		7.9		14.1		7.9
+QPFT: 	19.8		24.1		20.4		39.8		22.1
+PQoQ%: 	-44.3		21.7		-15.2		94.6		-44.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - Last 3QSALES is about 80% YSales
-- Last 3QPROFIT is about 88% of YProfit
+- Last 3QPROFIT is about 80% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-964.90cr, QoQ 6.80% & YoY 257.11% SALES;
-148.50cr, QoQ -25.80% & YoY 179.14% OPERATING PROFIT;
-90.40cr, QoQ -32.50% & YoY 126.57% NET PROFIT;
-OPM %: 15.40% vs 22.2%
-NPM %: 9.40% vs 14.8%
+ 31-Mar-2025 #Result
+1024.80cr, QoQ 6.20% & YoY 240.58% SALES;
+165.70cr, QoQ 11.60% & YoY 137.39% OPERATING PROFIT;
+103.20cr, QoQ 14.20% & YoY 104.76% NET PROFIT;
+OPM %: 16.20% vs 15.4%
+NPM %: 10.10% vs 9.4%
 

@@ -1,37 +1,45 @@
-CODES
-506480	GOCLCORP	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
-BestQ Dec 2024
+CODES	506480	GOCLCORP	
+FULLNAME : GOCL Corporation Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Explosives
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  498.8   |  415.6   |  498.2   |  920.8   |  713.6   |     440.2    
- SQoQ%:  |   -6.3   |  -16.7   |   19.9   |   84.8   |  -22.5   |      61.7    
- YOPM%:  |   3.1    |   2.3    |   0.9    |   0.0    |   0.0    |              
- YNPM%:  |   9.9    |   18.9   |   35.4   |   22.9   |   6.8    |              
-YPROFIT: |   49.6   |   78.7   |  176.1   |  211.2   |   48.2   |     134.0    
- PQoQ%:  |   22.3   |   58.7   |  123.8   |   19.9   |  -77.1   |     278.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  167.1   |  186.0   |  174.3   |  127.7   |  138.2  
- QoQ%:  |   2.3    |   11.3   |   -6.3   |  -26.7   |   8.2   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   9.2    |   2.7    |   20.8   |   4.3    |   66.9  
- QPFT:  |   15.4   |   4.9    |   36.2   |   5.4    |   92.4  
- PQoQ%: |   -1.8   |  -68.0   |  633.8   |  -85.0   |  1598.5 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 415.6		498.2		920.8		610.5		554.6		7.4
+SQoQ%: 	-16.7		19.9		84.8		-33.7		-9.1		1.3
+YOPM%: 	2.3		0.9		0.0		0.0		0.0
+YNPM%: 	18.9		35.4		22.9		7.9		28.3
+YPROFIT: 78.7		176.1		211.2		48.2		157.2		1446.9
+PQoQ%: 	58.7		123.8		19.9		-77.1		225.8		920.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4.6		3.0		3.4		2.2		1.8
+QoQ%: 	33.8		-35.1		13.8		-34.5		-18.0
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	2013.1		775.8		36063.4		632.0		11553.3
+QPFT: 	92.4		23.1		1222.6		14.0		210.3
+PQoQ%: 	1598.5		-75.0		5187.8		-98.9		1398.7
+
+
 
 ***PROS***
-- Last 3QSALES is about 62% YSales
-- Last 3QPROFIT is about 278% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QPROFIT is about 920% of YProfit
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-713.60cr, QoQ -22.50% & YoY 43.06% SALES;
--12.20cr, QoQ -41.60% & YoY -179.74% OPERATING PROFIT;
-48.20cr, QoQ -77.10% & YoY -2.82% NET PROFIT;
+ 31-Mar-2025 #Result
+554.60cr, QoQ -9.10% & YoY 33.45% SALES;
+-26.50cr, QoQ 22.50% & YoY -378.95% OPERATING PROFIT;
+157.20cr, QoQ 225.80% & YoY 99.75% NET PROFIT;
 OPM %: 0.00% vs 0.0%
-NPM %: 6.80% vs 22.9%
+NPM %: 28.30% vs 7.9%
 

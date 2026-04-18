@@ -1,34 +1,43 @@
-CODES
-543412	STARHEALTH	
-SECTOR : 
-INDUSTRY : 
+CODES	543412	STARHEALTH	
+FULLNAME : Star Health & Allied Insurance Company Ltd
+SECTOR : Insurance
+INDUSTRY : General Insurance
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  5050.3  | 10602.0  | 12096.2  | 14022.4  | 16101.2 
- SQoQ%:  |   1.3    |  109.9   |   14.1   |   15.9   |   14.8  
- YOPM%:  |   0.0    |   0.0    |   7.2    |   8.4    |   5.3   
- YNPM%:  |   0.0    |   0.0    |   5.1    |   6.0    |   4.0   
-YPROFIT: | -1085.7  | -1040.7  |  618.6   |  845.0   |  645.9  
- PQoQ%:  |  -505.1  |   -4.1   |  -159.4  |   36.6   |  -23.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  3688.4  |  3815.7  |  4058.4  |  4146.0  |  4081.2 
- QoQ%:  |   3.1    |   3.4    |   6.4    |   2.2    |   -1.6  
- QOPM%: |   5.1    |   11.1   |   3.6    |   6.9    |   0.0   
- QNPM%: |   3.9    |   8.4    |   2.7    |   5.2    |   0.0   
- QPFT:  |  142.3   |  318.9   |  111.3   |  215.1   |   0.5   
- PQoQ%: |  -50.8   |  124.1   |  -65.1   |   93.3   |  -99.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 5050.3		10602.0		12096.2		14021.4		16101.2		13177.0
+SQoQ%: 	1.3		109.9		14.1		15.9		14.8		81.8
+YOPM%: 	0.0		0.0		7.2		8.4		5.7
+YNPM%: 	0.0		0.0		5.1		6.0		4.0
+YPROFIT: -1085.7		-1040.7		618.6		845.0		645.9		445.6
+PQoQ%: 	-505.1		-4.1		-159.4		36.6		-23.6		69.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4146.0		4081.2		4232.9		4377.8		4566.3
+QoQ%: 	2.2		-1.6		3.7		3.4		4.3
+QOPM%: 	6.9		0.0		8.3		1.7		3.8
+QNPM%: 	5.2		0.0		6.2		1.3		2.8
+QPFT: 	215.1		0.5		262.5		54.9		128.2
+PQoQ%: 	93.3		-99.8		51374.5		-79.1		133.6
+
+
 
 ***PROS***
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 69% of YProfit
 - YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 16101.20cr, QoQ 14.80% & YoY 218.82% SALES;
-849.30cr, QoQ -28.20% & YoY -160.79% OPERATING PROFIT;
+921.40cr, QoQ -22.00% & YoY -165.95% OPERATING PROFIT;
 645.90cr, QoQ -23.60% & YoY -159.49% NET PROFIT;
-OPM %: 5.30% vs 8.4%
+OPM %: 5.70% vs 8.4%
 NPM %: 4.00% vs 6.0%
 

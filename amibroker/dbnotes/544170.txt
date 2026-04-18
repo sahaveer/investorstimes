@@ -1,11 +1,11 @@
-CODE	NAME
-544170 
-
+CODES	544170	
+FULLNAME : Sai Swami Metals and Alloys Ltd
 SECTOR : Consumer Durables
 INDUSTRY : Domestic Appliances
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

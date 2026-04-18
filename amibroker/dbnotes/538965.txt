@@ -1,13 +1,26 @@
-CODE	NAME
-538965 
+CODES	538965	
+FULLNAME : Concord Drugs Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+BestQ Dec 2025
 
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
-
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- Last 3QSALES is about 90% YSales
+- Last 3QPROFIT is about 167% of YProfit
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+45.20cr, QoQ 0.70% SALES;
+4.10cr, QoQ 2.50% OPERATING PROFIT;
+0.30cr, QoQ -27.70% NET PROFIT;
+OPM %: 9.20% vs 9.0%
+NPM %: 0.80% vs 1.0%
+

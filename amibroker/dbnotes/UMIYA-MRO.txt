@@ -1,14 +1,14 @@
-CODES
-532376	UMIYA-MRO	
+CODES	532376	UMIYA-MRO	
+FULLNAME : Umiya Buildcon Ltd
 SECTOR : Telecomm Equipment & Infra Services
 INDUSTRY : Telecommunications - Equipment
 PRODUCT DEMAND
 LYPD PM 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
@@ -16,6 +16,8 @@ LYPD PM 2025
 - LastYr YProfits Doubled and maintained in Mar2025
 
 YSALES in Mar-2025 is at 48.6 showing a QoQ_growth of 38.4%. The YNETPROFIT grew by 75.9% to 5.8
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

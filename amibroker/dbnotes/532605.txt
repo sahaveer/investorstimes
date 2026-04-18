@@ -1,33 +1,42 @@
-CODES
-532605	JBMA	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
+CODES	532605	JBMA	
+FULLNAME : JBM Auto Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1982.0		3193.0		3857.4		5009.4		5472.3		4236.1
+SQoQ%: 	1.8		61.1		20.8		29.9		9.2		77.4
+YOPM%: 	10.0		10.4		10.3		11.7		11.7
+YNPM%: 	2.5		4.9		3.2		3.6		3.7
+YPROFIT: 49.3		156.2		124.4		178.8		201.9		144.5
+PQoQ%: 	-28.8		216.8		-20.4		43.8		12.9		71.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1396.2		1645.7		1253.9		1368.2		1614.0
+QoQ%: 	8.6		17.9		-23.8		9.1		18.0
+QOPM%: 	12.0		11.2		9.6		11.0		10.7
+QNPM%: 	3.8		4.0		2.9		3.8		3.4
+QPFT: 	52.6		66.3		36.8		52.6		55.1
+PQoQ%: 	6.3		26.0		-44.5		43.0		4.7
+
+
+
+***PROS***
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 72% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1982.0  |  3193.0  |  3857.4  |  5009.4  |  5472.3 
- SQoQ%:  |   1.8    |   61.1   |   20.8   |   29.9   |   9.2   
- YOPM%:  |   10.0   |   10.4   |   10.3   |   11.7   |   11.7  
- YNPM%:  |   2.5    |   4.9    |   3.2    |   3.6    |   3.7   
-YPROFIT: |   49.3   |  156.2   |  124.4   |  178.8   |  201.9  
- PQoQ%:  |  -28.8   |  216.8   |  -20.4   |   43.8   |   12.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1486.0  |  1144.5  |  1286.0  |  1396.2  |  1645.7 
- QoQ%:  |   10.4   |  -23.0   |   12.4   |   8.6    |   17.9  
- QOPM%: |   11.6   |   11.4   |   12.3   |   12.0   |   11.2  
- QNPM%: |   3.8    |   2.9    |   3.9    |   3.8    |   4.0   
- QPFT:  |   55.8   |   33.4   |   49.5   |   52.6   |   66.3  
- PQoQ%: |   14.6   |  -40.1   |   48.3   |   6.3    |   26.0  
-
-***PROS***
 
 Yearly 
  31-Mar-2025 #Result
 5472.30cr, QoQ 9.20% & YoY 176.10% SALES;
-641.30cr, QoQ 9.80% & YoY 224.54% OPERATING PROFIT;
+642.40cr, QoQ 10.00% & YoY 225.10% OPERATING PROFIT;
 201.90cr, QoQ 12.90% & YoY 309.53% NET PROFIT;
 OPM %: 11.70% vs 11.7%
 NPM %: 3.70% vs 3.6%

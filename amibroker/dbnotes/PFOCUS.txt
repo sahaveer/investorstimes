@@ -1,28 +1,32 @@
-CODES
-532748	PFOCUS	
+CODES	532748	PFOCUS	
+FULLNAME : Prime Focus Ltd
 SECTOR : Entertainment
-INDUSTRY : Entertainment / Electronic Media Software
-PRODUCT DEMAND
+INDUSTRY : Media & Entertainment
 
-***CONS***
-- NEGATIVE YProfit : -404.5
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  2928.3  |  2536.4  |  3385.8  |  4644.3  |  3950.5  |     2619.9   
- SQoQ%:  |   15.3   |  -13.4   |   33.5   |   37.2   |  -14.9   |      66.3    
- YOPM%:  |   13.8   |   23.3   |   23.5   |   21.0   |   6.4    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   3.2    |   0.0    |              
-YPROFIT: |  -131.5  |  -43.4   |  -171.6  |  147.3   |  -404.5  |     -146.2   
- PQoQ%:  |  479.0   |  -67.0   |  295.3   |  -185.8  |  -374.7  |      36.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  840.8   |  873.1   |  813.4   |  897.0   |  909.5  
- QoQ%:  |  -18.1   |   3.8    |   -6.8   |   10.3   |   1.4   
- QOPM%: |   3.1    |   4.8    |   9.2    |   23.5   |   29.5  
- QNPM%: |   0.0    |   0.0    |   0.0    |   3.7    |   0.0   
- QPFT:  |  -55.3   |  -60.4   |  -119.4  |   33.4   |  -60.2  
- PQoQ%: |  -75.0   |   9.2    |   97.8   |  -128.0  |  -280.2 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2536.4		3385.8		4644.3		3950.5		3598.9		3291.3
+SQoQ%: 	-13.4		33.5		37.2		-14.9		-8.9		91.5
+YOPM%: 	23.3		23.5		21.0		6.4		21.9
+YNPM%: 	0.0		0.0		3.2		0.0		0.0
+YPROFIT: -43.4		-171.6		147.3		-404.5		-377.1		136.4
+PQoQ%: 	-67.0		295.3		-185.8		-374.7		-6.8		-36.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 909.5		979.0		1023.2		1060.9		1207.2
+QoQ%: 	1.4		7.6		4.5		3.7		13.8
+QOPM%: 	29.5		23.7		23.9		27.9		32.7
+QNPM%: 	0.0		0.0		6.0		0.3		5.9
+QPFT: 	-60.2		-231.0		61.8		3.6		71.0
+PQoQ%: 	-280.2		283.8		-126.8		-94.2		1870.8
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 66% YSales
+- Last 3QSALES is about 91% YSales
+
+***CONS***
+- NEGATIVE YProfit : -377.1

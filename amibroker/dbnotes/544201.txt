@@ -1,13 +1,11 @@
-CODE	NAME
-544201 
-
+CODES	544201	
+FULLNAME : Dindigul Farm Product Ltd
 SECTOR : FMCG
 INDUSTRY : Food - Processing - Indian
 YSD YPD 2023
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -16,6 +14,8 @@ ROCE in Mar2024 is at 41.7%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
 - YProfits and YSales DOUBLED in Mar2023
 - LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

@@ -1,12 +1,10 @@
-CODE	NAME
-540652 
-
-SECTOR : Castings, Forgings & Fastners
-INDUSTRY : Castings & Forgings
+CODES	540652	
+FULLNAME : Captain Technocast Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -14,6 +12,8 @@ PRODUCT DEMAND
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
 
 YSALES in Mar-2025 is at 81.6 showing a QoQ_growth of 30.3%. The YNETPROFIT grew by 107.6% to 7.7
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

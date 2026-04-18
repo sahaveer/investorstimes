@@ -1,28 +1,31 @@
-CODE	NAME
-517431 
-
+CODES	517431	
+FULLNAME : Narmada Macplast Drip Irrigation Systems Ltd
 SECTOR : Plastic products
 INDUSTRY : Plastics Products
 PRODUCT DEMAND
 YSD YPD 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   3.7    |   12.5   |   10.0   |   1.8    |   7.0   
- SQoQ%:  |   -7.6   |  239.5   |  -19.6   |  -81.9   |  285.6  
- YOPM%:  |   0.3    |   0.0    |   0.0    |   0.0    |   9.7   
- YNPM%:  |   0.0    |   0.1    |   0.1    |   0.0    |   77.2  
-YPROFIT: |   0.0    |   0.0    |   0.0    |   0.0    |   5.4   
- PQoQ%:  |   nan    |   inf    |   0.0    |  -100.0  |   inf   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   0.3    |   0.0    |   1.0    |   3.5    |   2.5   
- QoQ%:  |  -76.1   |  -100.0  |   inf    |  260.2   |  -30.0  
- QOPM%: |   0.0    |   0.0    |   12.2   |   5.7    |   16.6  
- QNPM%: |   0.0    |   0.0    |   19.4   |  134.8   |   17.4  
- QPFT:  |   -0.0   |   0.0    |   0.2    |   4.8    |   0.4   
- PQoQ%: |   50.0   |  -100.0  |   inf    |  2405.3  |  -91.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 	3.7		12.5		10.0		1.8		7.0
+SQoQ%: 	-7.6		239.5		-19.6		-81.9		285.6
+YOPM%: 	0.3		0.0		0.0		0.0		9.7
+YNPM%: 	0.0		0.1		0.1		0.0		77.2
+YPROFIT: 	0.0		0.0		0.0		0.0		5.4
+PQoQ%: 	nan		inf		0.0		-100.0		inf
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2024		Jun-2024	Sep-2024	Dec-2024		Mar-2025
+QSALES: 	0.3		0.0		1.0		3.5		2.5
+QoQ%: 	-76.1		-100.0		inf		260.2		-30.0
+QOPM%: 	0.0		0.0		12.2		5.7		16.6
+QNPM%: 	0.0		0.0		19.4		134.8		17.4
+QPFT: 	-0.0		0.0		0.2		4.8		0.4
+PQoQ%: 	50.0		-100.0		inf		2405.3		-91.0
+
+
 
 ***PROS***
 A DEBT-Free Company
@@ -30,3 +33,5 @@ A DEBT-Free Company
 - YProfits and YSales DOUBLED in Mar2025
 
 YSALES in Mar-2025 is at 7.0 showing a QoQ_growth of 285.6%. The YNETPROFIT grew by inf% to 5.4
+
+***CONS***

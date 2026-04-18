@@ -1,12 +1,14 @@
-CODES
-541206	OBCL	
-SECTOR : Logistics
-INDUSTRY : Miscellaneous
+CODES	541206	OBCL	
+FULLNAME : Orissa Bengal Carrier Ltd
+SECTOR : Transport Services
+INDUSTRY : Logistics Solution Provider
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

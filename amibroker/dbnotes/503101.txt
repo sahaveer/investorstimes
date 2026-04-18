@@ -1,37 +1,46 @@
-CODES
-503101	MARATHON	
+CODES	503101	MARATHON	
+FULLNAME : Marathon Nextgen Realty Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
+BestQ Dec 2025
 YSD YPD 2023
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  205.6   |  306.1   |  716.5   |  704.6   |  580.1  
- SQoQ%:  |  -14.8   |   48.9   |  134.1   |   -1.7   |  -17.7  
- YOPM%:  |   31.0   |   24.3   |   34.3   |   33.0   |   29.8  
- YNPM%:  |   7.4    |   12.6   |   16.9   |   23.6   |   32.2  
-YPROFIT: |   15.2   |   38.5   |  121.0   |  166.5   |  186.6  
- PQoQ%:  |  -36.9   |  153.6   |  214.1   |   37.6   |   12.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  155.4   |  162.2   |  146.0   |  123.4   |  148.6  
- QoQ%:  |  -26.1   |   4.4    |  -10.0   |  -15.5   |   20.5  
- QOPM%: |   30.3   |   32.6   |   29.1   |   29.5   |   27.8  
- QNPM%: |   25.6   |   22.8   |   33.2   |   38.8   |   35.9  
- QPFT:  |   39.8   |   37.0   |   48.4   |   47.9   |   53.3  
- PQoQ%: |  -20.6   |   -7.2   |   31.0   |   -1.1   |   11.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 205.6		306.1		716.5		704.6		580.1		382.5
+SQoQ%: 	-14.8		48.9		134.1		-1.7		-17.7		65.9
+YOPM%: 	31.0		24.3		34.3		33.0		29.8
+YNPM%: 	7.4		12.6		16.9		23.6		32.2
+YPROFIT: 15.2		38.5		121.0		166.5		186.6		158.2
+PQoQ%: 	-36.9		153.6		214.1		37.6		12.1		84.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 123.4		148.6		140.8		116.8		124.9
+QoQ%: 	-15.5		20.5		-5.2		-17.0		6.9
+QOPM%: 	29.5		27.8		22.0		36.0		20.0
+QNPM%: 	38.8		35.9		42.5		56.5		25.9
+QPFT: 	47.9		53.3		59.9		66.0		32.3
+PQoQ%: 	-1.1		11.3		12.3		10.3		-51.1
+
+
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 66% YSales
+- Last 3QPROFIT is about 85% of YProfit
 - YProfits and YSales DOUBLED in Mar2023
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
 580.10cr, QoQ -17.70% & YoY 182.15% SALES;
-173.00cr, QoQ -25.70% & YoY 171.16% OPERATING PROFIT;
+173.10cr, QoQ -25.70% & YoY 171.32% OPERATING PROFIT;
 186.60cr, QoQ 12.10% & YoY 1127.63% NET PROFIT;
 OPM %: 29.80% vs 33.0%
 NPM %: 32.20% vs 23.6%

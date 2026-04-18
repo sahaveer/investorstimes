@@ -1,14 +1,15 @@
-CODES
-UNILEX	
+CODES	UNILEX	
+FULLNAME : Unilex Colour & Chemical Ltd
 SECTOR : Chemicals
 INDUSTRY : Dyes And Pigments
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

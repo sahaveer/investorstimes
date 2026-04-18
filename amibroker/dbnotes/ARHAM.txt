@@ -1,15 +1,16 @@
-CODES
-ARHAM	
+CODES	ARHAM	
+FULLNAME : Arham Technologies Ltd
 SECTOR : Consumer Durables
-INDUSTRY : Electronics - Consumer
+INDUSTRY : Consumer Electronics
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 
 YSALES in Mar-2025 is at 65.2 showing a QoQ_growth of 19.1%. The YNETPROFIT grew by 22.4% to 6.0
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

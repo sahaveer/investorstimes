@@ -1,24 +1,20 @@
-CODE	NAME
-543874 
+CODES	543874	
+FULLNAME : Maiden Forgings Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
 
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
-PRODUCT DEMAND
-LYPD PM 2024
-
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-236.10cr, QoQ 6.90% & YoY 15.68% SALES;
-23.00cr, QoQ 4.70% & YoY 74.24% OPERATING PROFIT;
-9.70cr, QoQ 1.10% & YoY 470.59% NET PROFIT;
-OPM %: 9.80% vs 10.0%
-NPM %: 4.10% vs 4.4%
+ 31-Mar-2025 #Result
+212.90cr, QoQ -9.80% & YoY 6.98% SALES;
+19.30cr, QoQ -16.40% & YoY 44.03% OPERATING PROFIT;
+6.00cr, QoQ -37.80% & YoY 252.94% NET PROFIT;
+OPM %: 9.00% vs 9.8%
+NPM %: 2.80% vs 4.1%
 

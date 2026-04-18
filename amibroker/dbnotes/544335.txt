@@ -1,13 +1,11 @@
-CODE	NAME
-544335 
-
+CODES	544335	
+FULLNAME : B.R.Goyal Infrastructure Ltd
 SECTOR : Infrastructure Developers & Operators
 INDUSTRY : Construction
 PRODUCT DEMAND
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -15,6 +13,8 @@ LYPD PM 2024
 - LastYr YProfits Doubled and maintained in Mar2024
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2024, Sales have increased by 67.6% while the Profit QoQ_growth is at 35.2%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

@@ -1,40 +1,47 @@
-CODE	NAME
-530289 
+CODES	530289	
+FULLNAME : S P Capital Financing Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
+BestQ Dec 2025
 
-SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 5.8		0.8		1.6		2.6		5.4		11.4
+SQoQ%: 	135.9		-85.6		86.9		62.4		113.7		211.1
+YOPM%: 	95.0		51.2		58.6		69.0		78.5
+YNPM%: 	93.0		170.2		40.1		22.4		16.7
+YPROFIT: 5.4		1.4		0.6		0.6		0.9		6.4
+PQoQ%: 	3300.0		-73.7		-55.9		-9.5		59.6		711.1
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   2.5    |   5.8    |   0.8    |   1.6    |   2.6    |      3.9     
- SQoQ%:  |   -1.6   |  135.9   |  -85.6   |   86.9   |   62.4   |     150.0    
- YOPM%:  |   9.3    |   95.0   |   51.2   |   58.6   |   68.6   |              
- YNPM%:  |   6.5    |   93.0   |  170.2   |   40.1   |   22.4   |              
-YPROFIT: |   0.2    |   5.4    |   1.4    |   0.6    |   0.6    |      1.0     
- PQoQ%:  |   6.7    |  3300.0  |  -73.7   |  -55.9   |   -9.5   |     166.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.8    |   0.6    |   1.0    |   1.6    |   1.3   
- QoQ%:  |   30.8   |  -35.3   |   72.7   |   63.2   |  -15.5  
- QOPM%: |   43.5   |   94.5   |   74.7   |   83.9   |   76.3  
- QNPM%: |   15.3   |   43.6   |   30.5   |   36.8   |   6.1   
- QPFT:  |   0.1    |   0.2    |   0.3    |   0.6    |   0.1   
- PQoQ%: |   0.0    |   84.6   |   20.8   |   96.6   |  -86.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1.3		1.7		3.6		4.3		3.5
+QoQ%: 	-15.5		28.2		111.9		20.2		-17.3
+QOPM%: 	76.3		78.0		93.3		93.7		91.8
+QNPM%: 	6.1		0.0		60.4		54.7		52.8
+QPFT: 	0.1		-0.0		2.2		2.3		1.9
+PQoQ%: 	-86.0		-137.5		-7266.7		8.8		-20.1
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 20.4%
-- Last 3QSALES is about 150% YSales
-- Last 3QPROFIT is about 167% of YProfit
+ROCE in Mar2025 is at 451.9%
+- Last 3QSALES is about 211% YSales
+- Last 3QPROFIT is about 711% of YProfit
 
+
+YSALES in Mar-2025 is at 5.4 showing a QoQ_growth of 113.7%. The YNETPROFIT grew by 59.6% to 0.9
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-2.60cr, QoQ 62.40% & YoY 4.00% SALES;
-1.70cr, QoQ 90.20% & YoY 750.00% OPERATING PROFIT;
-0.60cr, QoQ -9.50% & YoY 200.00% NET PROFIT;
-OPM %: 68.60% vs 58.6%
-NPM %: 22.40% vs 40.1%
+ 31-Mar-2025 #Result
+5.40cr, QoQ 113.70% & YoY -6.90% SALES;
+4.30cr, QoQ 143.20% & YoY -23.21% OPERATING PROFIT;
+0.90cr, QoQ 59.60% & YoY -83.33% NET PROFIT;
+OPM %: 78.50% vs 69.0%
+NPM %: 16.70% vs 22.4%
 

@@ -1,14 +1,14 @@
-CODES
-544204	VRAJ	
+CODES	544204	VRAJ	
+FULLNAME : Vraj Iron & Steel Ltd
 SECTOR : Steel
 INDUSTRY : Steel - Sponge Iron
 EXPANSION 2024
 BestQ Dec 2024
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
@@ -17,6 +17,8 @@ EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly
 ROCE in Mar2024 is at 29.8%
 - Last 3QSALES is about 77% YSales
 - Last 3QPROFIT is about 59% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

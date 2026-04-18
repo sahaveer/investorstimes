@@ -1,32 +1,36 @@
-CODES
-532880	OMAXE	
+CODES	532880	OMAXE	
+FULLNAME : Omaxe Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
 PRODUCT DEMAND
 YSD YPD 2024
 
-***CONS***
-- NEGATIVE YProfit : -402.6
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1121.4  |  475.7   |  617.8   |  773.3   |  1614.3  |     1019.7   
- SQoQ%:  |   -3.9   |  -57.6   |   29.9   |   25.2   |  108.7   |      63.2    
- YOPM%:  |   17.6   |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |  -97.2   |  -235.2  |  -159.5  |  -347.9  |  -402.6  |     -537.7   
- PQoQ%:  |  -298.4  |  141.9   |  -32.2   |  118.1   |   15.7   |     133.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  599.2   |  535.6   |  341.6   |  389.2   |  288.9  
- QoQ%:  |  125.2   |  -10.6   |  -36.2   |   13.9   |  -25.8  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |  -66.9   |  -145.0  |  -147.4  |  -239.7  |  -150.6 
- PQoQ%: |  -20.7   |  116.8   |   1.6    |   62.5   |  -37.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 475.7		617.8		773.3		1614.3		1560.9		904.8
+SQoQ%: 	-57.6		29.9		25.2		108.7		-3.3		58.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -235.2		-159.5		-347.9		-402.6		-686.0		-505.6
+PQoQ%: 	141.9		-32.2		118.1		15.7		70.4		73.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 288.9		541.3		282.2		320.8		301.8
+QoQ%: 	-25.8		87.3		-47.9		13.7		-5.9
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-150.6		-148.3		-185.8		-166.6		-153.2
+PQoQ%: 	-37.2		-1.5		25.2		-10.3		-8.0
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 63% YSales
+- Last 3QSALES is about 58% YSales
 - YProfits and YSales DOUBLED in Mar2024
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
-As on Mar2024, Sales have increased by 108.7% while the Profit QoQ_growth is at 15.7%
+
+***CONS***
+- NEGATIVE YProfit : -686.0

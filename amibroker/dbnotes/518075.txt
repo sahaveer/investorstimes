@@ -1,42 +1,43 @@
-CODE	NAME
-518075 
+CODES	518075	
+FULLNAME : Suraj Products Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
+BestQ Dec 2025
 
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
-PRODUCT DEMAND
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 217.7		236.8		285.0		344.7		326.4		204.9
+SQoQ%: 	84.5		8.8		20.3		20.9		-5.3		62.8
+YOPM%: 	14.1		18.4		17.0		14.8		11.4
+YNPM%: 	4.2		10.0		9.1		8.4		6.6
+YPROFIT: 9.2		23.6		26.0		28.9		21.4		11.8
+PQoQ%: 	69.8		157.1		10.3		11.2		-25.9		55.1
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  118.0   |  217.7   |  236.8   |  285.0   |  344.7   |     235.5    
- SQoQ%:  |   1.4    |   84.5   |   8.8    |   20.3   |   20.9   |      68.3    
- YOPM%:  |   14.1   |   14.1   |   18.4   |   17.0   |   14.8   |              
- YNPM%:  |   4.6    |   4.2    |   10.0   |   9.1    |   8.4    |              
-YPROFIT: |   5.4    |   9.2    |   23.6   |   26.0   |   28.9   |      17.2    
- PQoQ%:  |  -14.3   |   69.8   |  157.1   |   10.3   |   11.2   |      59.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   73.6   |   92.1   |   92.6   |   75.7   |   67.2  
- QoQ%:  |   8.6    |   25.1   |   0.6    |  -18.3   |  -11.2  
- QOPM%: |   17.8   |   11.9   |   11.8   |   13.9   |   10.9  
- QNPM%: |   10.1   |   6.3    |   7.2    |   8.6    |   5.9   
- QPFT:  |   7.4    |   5.8    |   6.7    |   6.5    |   4.0   
- PQoQ%: |   1.4    |  -21.5   |   15.3   |   -3.3   |  -38.5  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 67.2		90.8		80.7		58.7		65.5
+QoQ%: 	-11.2		35.1		-11.2		-27.3		11.6
+QOPM%: 	10.9		9.2		9.0		10.0		10.0
+QNPM%: 	5.9		4.7		5.7		5.5		6.2
+QPFT: 	4.0		4.2		4.6		3.2		4.0
+PQoQ%: 	-38.5		6.5		8.0		-30.3		26.2
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 18.6%
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 68% YSales
-- Last 3QPROFIT is about 60% of YProfit
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 63% YSales
+- Last 3QPROFIT is about 55% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-344.70cr, QoQ 20.90% & YoY 192.12% SALES;
-50.90cr, QoQ 5.20% & YoY 206.63% OPERATING PROFIT;
-28.90cr, QoQ 11.20% & YoY 435.19% NET PROFIT;
-OPM %: 14.80% vs 17.0%
-NPM %: 8.40% vs 9.1%
+ 31-Mar-2025 #Result
+326.40cr, QoQ -5.30% & YoY 49.93% SALES;
+37.20cr, QoQ -26.90% & YoY 20.78% OPERATING PROFIT;
+21.40cr, QoQ -25.90% & YoY 132.61% NET PROFIT;
+OPM %: 11.40% vs 14.8%
+NPM %: 6.60% vs 8.4%
 

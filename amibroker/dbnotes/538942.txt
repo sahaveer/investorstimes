@@ -1,29 +1,35 @@
-CODE	NAME
-538942 
+CODES	538942	
+FULLNAME : Mercantile Ventures Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 37.3		37.0		47.2		60.4		72.2		69.7
+SQoQ%: 	-2.5		-0.7		27.3		28.1		19.5		96.5
+YOPM%: 	11.8		5.9		7.2		0.2		1.9
+YNPM%: 	30.4		31.0		33.8		0.0		22.5
+YPROFIT: 11.3		11.5		15.9		-8.0		16.2		3.4
+PQoQ%: 	-56.1		1.5		38.6		-150.1		-303.4		21.0
 
-***CONS***
-- NEGATIVE YProfit : -8.0
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   38.2   |   37.3   |   37.0   |   47.2   |   60.4   |      52.8    
- SQoQ%:  |   11.2   |   -2.5   |   -0.7   |   27.3   |   28.1   |      87.4    
- YOPM%:  |   10.2   |   11.8   |   5.9    |   7.2    |   0.3    |              
- YNPM%:  |   67.4   |   30.4   |   31.0   |   33.8   |   0.0    |              
-YPROFIT: |   25.8   |   11.3   |   11.5   |   15.9   |   -8.0   |      8.2     
- PQoQ%:  |  287.2   |  -56.1   |   1.5    |   38.6   |  -150.1  |     -102.5   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   16.1   |   15.4   |   16.7   |   17.8   |   18.3  
- QoQ%:  |   6.2    |   -4.6   |   8.8    |   6.6    |   2.8   
- QOPM%: |   6.2    |   0.0    |   0.0    |   3.8    |   3.6   
- QNPM%: |   0.0    |   0.0    |   33.6   |   4.5    |   10.1  
- QPFT:  |   -5.1   |   -1.3   |   5.6    |   0.8    |   1.8   
- PQoQ%: |  -459.6  |  -73.6   |  -520.1  |  -85.6   |  128.4  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 18.3		19.3		21.1		23.5		25.1
+QoQ%: 	2.8		5.0		9.4		11.5		6.6
+QOPM%: 	3.6		0.3		0.0		2.3		1.8
+QNPM%: 	10.1		47.2		0.0		6.0		11.4
+QPFT: 	1.8		9.1		-0.9		1.4		2.9
+PQoQ%: 	128.4		391.4		-109.6		-262.1		102.8
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- Last 3QSALES is about 87% YSales
+- Last 3QSALES is about 97% YSales
+- YProfit Turned POSITIVE this year Mar-2025 : 16.2
 
+
+***CONS***
+- NO PRODUCT DEMAND

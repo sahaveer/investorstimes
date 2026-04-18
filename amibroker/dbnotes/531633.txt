@@ -1,37 +1,46 @@
-CODES
-531633	LINCOLN	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Formulations
+CODES	531633	LINCOLN	
+FULLNAME : Lincoln Pharmaceuticals Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  422.9   |  472.1   |  510.3   |  580.6   |  623.2  
- SQoQ%:  |   12.4   |   11.6   |   8.1    |   13.8   |   7.4   
- YOPM%:  |   20.6   |   20.3   |   17.5   |   17.3   |   16.3  
- YNPM%:  |   14.7   |   14.7   |   14.3   |   16.1   |   13.2  
-YPROFIT: |   62.2   |   69.4   |   72.9   |   93.3   |   82.4  
- PQoQ%:  |   25.6   |   11.4   |   5.1    |   28.0   |  -11.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  142.5   |  147.3   |  161.2   |  146.6   |  168.2  
- QoQ%:  |   -2.7   |   3.4    |   9.5    |   -9.1   |   14.8  
- QOPM%: |   12.9   |   15.4   |   17.6   |   16.2   |   15.9  
- QNPM%: |   13.1   |   16.1   |   16.3   |   14.2   |   6.9   
- QPFT:  |   18.6   |   23.7   |   26.3   |   20.8   |   11.6  
- PQoQ%: |  -33.7   |   27.3   |   11.2   |  -21.1   |  -44.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 424.2		472.1		510.3		580.6		623.2		483.8
+SQoQ%: 	9.8		11.3		8.1		13.8		7.4		77.6
+YOPM%: 	20.6		20.3		17.5		17.3		16.3
+YNPM%: 	14.7		14.7		14.3		16.1		13.2
+YPROFIT: 62.2		69.4		72.9		93.3		82.4		76.3
+PQoQ%: 	21.0		11.4		5.1		28.0		-11.7		92.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 146.6		168.2		154.1		163.4		166.3
+QoQ%: 	-9.1		14.8		-8.4		6.0		1.8
+QOPM%: 	16.2		15.9		15.5		15.6		14.2
+QNPM%: 	14.2		6.9		18.0		12.2		17.2
+QPFT: 	20.8		11.6		27.7		20.0		28.6
+PQoQ%: 	-21.1		-44.2		139.0		-27.8		43.1
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 93% of YProfit
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-623.20cr, QoQ 7.40% & YoY 47.36% SALES;
-101.50cr, QoQ 1.30% & YoY 16.40% OPERATING PROFIT;
+623.20cr, QoQ 7.40% & YoY 46.91% SALES;
+101.70cr, QoQ 1.50% & YoY 16.36% OPERATING PROFIT;
 82.40cr, QoQ -11.70% & YoY 32.48% NET PROFIT;
 OPM %: 16.30% vs 17.3%
 NPM %: 13.20% vs 16.1%

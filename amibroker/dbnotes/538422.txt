@@ -1,30 +1,35 @@
-CODE	NAME
-538422 
-
+CODES	538422	
+FULLNAME : Jackson Investments Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Investment Company
+PRODUCT DEMAND
 
-***CONS***
-- NO PRODUCT DEMAND
-- NEGATIVE YProfit : -0.1
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.0    |   1.0    |   2.0    |   1.4    |   0.6    |      0.6     
- SQoQ%:  |  -78.9   |   4.0    |   98.1   |  -30.4   |  -57.7   |     100.0    
- YOPM%:  |   11.1   |   9.7    |   13.7   |   9.2    |   0.0    |              
- YNPM%:  |   1.0    |   7.8    |   10.3   |   21.8   |   0.0    |              
-YPROFIT: |   0.0    |   0.1    |   0.2    |   0.3    |   -0.1   |      0.1     
- PQoQ%:  |  -83.3   |  700.0   |  162.5   |   47.6   |  -138.7  |     -100.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.2    |   0.2    |   0.2    |   0.2    |   0.2   
- QoQ%:  |   7.1    |   6.7    |   -6.2   |   0.0    |   0.0   
- QOPM%: |   6.7    |   0.0    |   20.0   |   40.0   |   20.0  
- QNPM%: |   6.7    |   0.0    |   13.3   |   26.7   |   40.0  
- QPFT:  |   0.0    |   -0.1   |   0.0    |   0.0    |   0.1   
- PQoQ%: |  -80.0   | -1400.0  |  -115.4  |  100.0   |   50.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.0		2.0		1.4		0.6		0.6		0.5
+SQoQ%: 	4.0		98.1		-30.4		-57.7		-1.7		83.3
+YOPM%: 	9.7		13.7		9.2		0.0		0.0
+YNPM%: 	7.8		10.3		21.8		0.0		0.0
+YPROFIT: 0.1		0.2		0.3		-2.0		-0.9		0.2
+PQoQ%: 	700.0		162.5		47.6		-758.1		-57.8		-22.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.2		0.2		0.2		0.2		0.1
+QoQ%: 	0.0		0.0		0.0		0.0		-13.3
+QOPM%: 	20.0		0.0		33.3		40.0		146.2
+QNPM%: 	40.0		0.0		26.7		46.7		107.7
+QPFT: 	0.1		-1.0		0.0		0.1		0.1
+PQoQ%: 	50.0		-1733.3		-104.1		75.0		100.0
+
+
 
 ***PROS***
-DEBT-Free Company for the last 3 yrs
-- Last 3QSALES is about 100% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 83% YSales
 
+
+***CONS***
+- NEGATIVE YProfit : -0.9

@@ -1,42 +1,29 @@
-CODES
-SARTELE	
-SECTOR : Telecomm Equipment & Infra Services
-INDUSTRY : Transmisson Line Towers / Equipment
-PRODUCT DEMAND
-YSD YPD 2024
-YSD YPD 2023
-LYPD PM 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+CODES	SARTELE	
+FULLNAME : Sar Televenture Ltd
+SECTOR : Telecom - Services
+INDUSTRY : Telecom - Infrastructure
+EXPANSION 2025
+YSD YPD 2025
 
-***CONS***
-
-
-
+***YEARLY***
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- YProfits and YSales DOUBLED in Mar2024
-- YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 282.4% while the Profit QoQ_growth is much better than Sales itself at 297.5%
-- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2024 is at 25.3%. The QPROFIT QoQ_growth by 9.4%
+A DEBT-Free Company
+EXPANSION ??- EXPANSION underway in Mar-2025, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- YProfits and YSales DOUBLED in Mar2025
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
 
-Quarterly 
-31-Dec-2024 #Result
-83.50cr, QoQ 25.30% SALES;
-14.60cr, QoQ 25.30% OPERATING PROFIT;
-12.80cr, QoQ 9.40% NET PROFIT;
-OPM %: 17.50% vs 17.5%
-NPM %: 15.40% vs 17.6%
+YSALES in Mar-2025 is at 35.6 showing a QoQ_growth of 455.7%. The YNETPROFIT grew by 443.0% to 5.8
 
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-124.10cr, QoQ 282.40% SALES;
-17.60cr, QoQ 208.90% OPERATING PROFIT;
-15.70cr, QoQ 297.50% NET PROFIT;
-OPM %: 14.20% vs 17.6%
-NPM %: 12.60% vs 12.1%
+ 31-Mar-2025 #Result
+35.60cr, QoQ 455.70% & YoY 3855.56% SALES;
+8.10cr, QoQ 182.90% & YoY 8000.00% OPERATING PROFIT;
+5.80cr, QoQ 443.00% & YoY -inf% NET PROFIT;
+OPM %: 22.80% vs 44.8%
+NPM %: 16.30% vs 16.7%
 

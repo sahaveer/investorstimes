@@ -1,11 +1,11 @@
-CODE	NAME
-544195 
-
+CODES	544195	
+FULLNAME : United Cotfab Ltd
 SECTOR : Textiles
 INDUSTRY : Textiles - Cotton/Blended
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

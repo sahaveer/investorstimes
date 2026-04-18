@@ -1,41 +1,50 @@
-CODES
-500840	EIHOTEL	
-SECTOR : Hotels & Restaurants
-INDUSTRY : Hotels
+CODES	500840	EIHOTEL	
+FULLNAME : EIH Ltd
+SECTOR : Leisure Services
+INDUSTRY : Hotels & Resorts
+BestQ Dec 2025
 YSD YPD 2023
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  493.5   |  985.3   |  2018.8  |  2511.3  |  2743.2 
- SQoQ%:  |  -69.1   |   99.6   |  104.9   |   24.4   |   9.2   
- YOPM%:  |   0.0    |   0.0    |   29.7   |   36.9   |   37.1  
- YNPM%:  |   0.0    |   0.0    |   15.6   |   25.4   |   27.0  
-YPROFIT: |  -369.7  |  -97.5   |  314.6   |  639.1   |  739.4  
- PQoQ%:  |  -348.4  |  -73.6   |  -422.8  |  103.2   |   15.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  741.3   |  526.5   |  589.0   |  800.2   |  827.4  
- QoQ%:  |   0.0    |  -29.0   |   11.9   |   35.9   |   3.4   
- QOPM%: |   41.0   |   25.6   |   29.6   |   44.6   |   42.4  
- QNPM%: |   30.1   |   17.5   |   22.0   |   33.0   |   30.6  
- QPFT:  |  222.9   |   92.2   |  129.9   |  264.4   |  252.9  
- PQoQ%: |   1.7    |  -58.6   |   40.9   |  103.6   |   -4.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 493.5		985.3		2018.8		2511.3		2743.2		2044.4
+SQoQ%: 	-69.1		99.6		104.9		24.4		9.2		74.5
+YOPM%: 	0.0		0.0		29.7		36.9		37.5
+YNPM%: 	0.0		0.0		15.6		25.4		27.0
+YPROFIT: -369.7		-97.5		314.6		639.1		739.4		390.7
+PQoQ%: 	-348.4		-73.6		-422.8		103.2		15.7		52.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 800.2		827.4		573.6		597.9		872.9
+QoQ%: 	35.9		3.4		-30.7		4.2		46.0
+QOPM%: 	44.6		42.4		27.9		25.7		43.1
+QNPM%: 	33.0		30.6		5.9		19.0		27.8
+QPFT: 	264.4		252.9		33.9		113.8		243.0
+PQoQ%: 	103.6		-4.4		-86.6		236.0		113.6
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 15.5%
+ROCE in Mar2025 is at 15.8%
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 53% of YProfit
 - YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2023
 - LastYr YProfits Doubled and maintained in Mar2025
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 2743.20cr, QoQ 9.20% & YoY 455.87% SALES;
-1017.00cr, QoQ 9.70% & YoY -387.37% OPERATING PROFIT;
+1028.20cr, QoQ 10.90% & YoY -390.53% OPERATING PROFIT;
 739.40cr, QoQ 15.70% & YoY -300.00% NET PROFIT;
-OPM %: 37.10% vs 36.9%
+OPM %: 37.50% vs 36.9%
 NPM %: 27.00% vs 25.4%
 

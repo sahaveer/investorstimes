@@ -1,12 +1,10 @@
-CODE	NAME
-544381 
-
+CODES	544381	
+FULLNAME : Super Iron Foundry Ltd
 SECTOR : Castings, Forgings & Fastners
 INDUSTRY : Castings & Forgings
 PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -14,6 +12,8 @@ PRODUCT DEMAND
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
 
 YSALES in Mar-2024 is at 154.8 showing a QoQ_growth of 24.1%. The YNETPROFIT grew by 207.8% to 3.9
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

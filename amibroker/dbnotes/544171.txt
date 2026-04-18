@@ -1,19 +1,19 @@
-CODE	NAME
-544171 
-
+CODES	544171	
+FULLNAME : Storage Technologies & Automation Ltd
 SECTOR : Engineering
 INDUSTRY : Engineering
 LYPD PM 2024
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 - LastYr YProfits Doubled and maintained in Mar2024
 
 YSALES in Mar-2024 is at 88.9 showing a QoQ_growth of 15.9%. The YNETPROFIT grew by 1903.4% to 5.8
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

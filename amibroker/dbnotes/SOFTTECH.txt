@@ -1,34 +1,44 @@
-CODES
-543470	SOFTTECH	
+CODES	543470	SOFTTECH	
+FULLNAME : Softtech Engineers Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+INDUSTRY : Computers - Software & Consulting
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   58.0   |   41.6   |   57.5   |   65.4   |   78.8   |      64.4    
- SQoQ%:  |   -7.7   |  -28.3   |   38.2   |   13.8   |   20.5   |      81.7    
- YOPM%:  |   24.6   |   28.7   |   26.8   |   29.8   |   27.3   |              
- YNPM%:  |   11.2   |   6.6    |   8.3    |   6.1    |   4.5    |              
-YPROFIT: |   6.5    |   2.8    |   4.8    |   4.0    |   3.6    |      1.3     
- PQoQ%:  |  -12.5   |  -57.6   |   74.2   |  -16.5   |  -10.5   |      36.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   18.5   |   22.4   |   19.8   |   23.0   |   21.6  
- QoQ%:  |   -3.3   |   21.0   |  -11.7   |   16.2   |   -6.1  
- QOPM%: |   26.7   |   26.2   |   30.5   |   24.8   |   27.1  
- QNPM%: |   3.8    |   5.7    |   3.2    |   2.0    |   0.8   
- QPFT:  |   0.7    |   1.3    |   0.6    |   0.5    |   0.2   
- PQoQ%: |  -32.4   |   78.9   |  -49.6   |  -28.1   |  -60.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 41.6		57.5		65.4		78.8		95.2		86.3
+SQoQ%: 	-28.3		38.2		13.8		20.5		20.9		90.7
+YOPM%: 	28.7		26.8		29.8		27.3		23.7
+YNPM%: 	6.6		8.3		6.1		4.5		1.4
+YPROFIT: 2.8		4.8		4.0		3.6		1.3		2.6
+PQoQ%: 	-57.6		74.2		-16.5		-10.5		-63.4		200.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 21.6		31.0		27.0		26.8		32.5
+QoQ%: 	-6.1		43.9		-12.9		-0.7		21.2
+QOPM%: 	27.1		15.2		27.3		26.0		30.8
+QNPM%: 	0.8		0.1		3.5		0.7		4.3
+QPFT: 	0.2		0.0		1.0		0.2		1.4
+PQoQ%: 	-60.9		-77.8		2275.0		-81.1		683.3
+
+
 
 ***PROS***
-- Last 3QSALES is about 82% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 91% YSales
+- Last 3QPROFIT is about 200% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-78.80cr, QoQ 20.50% & YoY 35.86% SALES;
-21.50cr, QoQ 10.10% & YoY 51.41% OPERATING PROFIT;
-3.60cr, QoQ -10.50% & YoY -44.62% NET PROFIT;
-OPM %: 27.30% vs 29.8%
-NPM %: 4.50% vs 6.1%
+ 31-Mar-2025 #Result
+95.20cr, QoQ 20.90% & YoY 128.85% SALES;
+22.50cr, QoQ 4.80% & YoY 89.08% OPERATING PROFIT;
+1.30cr, QoQ -63.40% & YoY -53.57% NET PROFIT;
+OPM %: 23.70% vs 27.3%
+NPM %: 1.40% vs 4.5%
 

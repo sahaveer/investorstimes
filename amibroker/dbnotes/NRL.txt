@@ -1,12 +1,14 @@
-CODES
-NRL	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	NRL	
+FULLNAME : Nupur Recyclers Ltd
+SECTOR : Metals & Minerals Trading
+INDUSTRY : Trading - Metals
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

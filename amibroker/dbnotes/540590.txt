@@ -1,20 +1,21 @@
-CODE	NAME
-540590 
-
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	540590	
+FULLNAME : Riddhi Corporate Services Ltd
+SECTOR : IT - Services
+INDUSTRY : IT Enabled Services
 PRODUCT DEMAND
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 
 YSALES in Mar-2020 is at 81.5 showing a QoQ_growth of 36.9%. The YNETPROFIT grew by 177.8% to 1.5
+
+***CONS***
 
 Yearly 
  31-Mar-2020 #Result

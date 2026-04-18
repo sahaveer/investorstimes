@@ -1,37 +1,46 @@
-CODES
-513519	PITTIENG	
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
+CODES	513519	PITTIENG	
+FULLNAME : Pitti Engineering Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  518.2   |  953.8   |  1100.2  |  1201.6  |  1704.6 
- SQoQ%:  |   -1.3   |   84.1   |   15.3   |   9.2    |   41.9  
- YOPM%:  |   15.4   |   13.9   |   13.8   |   14.8   |   15.9  
- YNPM%:  |   5.6    |   5.4    |   5.3    |   7.5    |   7.2   
-YPROFIT: |   28.8   |   51.9   |   58.8   |   90.2   |  122.3  
- PQoQ%:  |   68.2   |   80.4   |   13.4   |   53.3   |   35.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  335.9   |  391.4   |  429.4   |  415.0   |  468.8  
- QoQ%:  |   11.3   |   16.5   |   9.7    |   -3.3   |   13.0  
- QOPM%: |   15.5   |   14.8   |   15.4   |   16.1   |   17.1  
- QNPM%: |   13.7   |   4.9    |   8.9    |   6.9    |   7.7   
- QPFT:  |   46.0   |   19.4   |   38.0   |   28.8   |   36.1  
- PQoQ%: |  192.8   |  -57.9   |   96.4   |  -24.4   |   25.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 518.2		953.8		1100.2		1244.2		1704.6		1411.7
+SQoQ%: 	-1.3		84.1		15.3		13.1		37.0		82.8
+YOPM%: 	15.4		13.9		13.8		14.6		15.9
+YNPM%: 	5.6		5.4		5.3		7.2		7.2
+YPROFIT: 28.8		51.9		58.8		89.7		122.3		91.2
+PQoQ%: 	68.2		80.4		13.4		52.5		36.3		74.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 415.0		468.8		456.6		477.7		477.4
+QoQ%: 	-3.3		13.0		-2.6		4.6		-0.1
+QOPM%: 	16.1		17.1		16.5		16.3		16.9
+QNPM%: 	6.9		7.7		5.0		8.4		5.9
+QPFT: 	28.8		36.1		22.9		40.1		28.2
+PQoQ%: 	-24.4		25.7		-36.7		75.2		-29.6
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 75% of YProfit
 
-YSALES in Mar-2025 is at 1704.6 showing a QoQ_growth of 41.9%. The YNETPROFIT grew by 35.6% to 122.3
+YSALES in Mar-2025 is at 1704.6 showing a QoQ_growth of 37.0%. The YNETPROFIT grew by 36.3% to 122.3
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-1704.60cr, QoQ 41.90% & YoY 228.95% SALES;
-271.10cr, QoQ 52.60% & YoY 240.58% OPERATING PROFIT;
-122.30cr, QoQ 35.60% & YoY 324.65% NET PROFIT;
-OPM %: 15.90% vs 14.8%
-NPM %: 7.20% vs 7.5%
+1704.60cr, QoQ 37.00% & YoY 228.95% SALES;
+271.10cr, QoQ 49.80% & YoY 240.58% OPERATING PROFIT;
+122.30cr, QoQ 36.30% & YoY 324.65% NET PROFIT;
+OPM %: 15.90% vs 14.6%
+NPM %: 7.20% vs 7.2%
 

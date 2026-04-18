@@ -1,13 +1,12 @@
-CODES
-SSEGL	
+CODES	SSEGL	
+FULLNAME : Sathlokhar Synergys E&C Global Ltd
 SECTOR : Infrastructure Developers & Operators
 INDUSTRY : Construction
 YSD YPD 2024
 LYPD PM 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,6 +16,8 @@ ROCE in Mar2025 is at 23.2%
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 61.7% while the Profit QoQ_growth is much better than Sales itself at 63.2%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

@@ -1,14 +1,12 @@
-CODE	NAME
-544091 
-
+CODES	544091	
+FULLNAME : Qualitek Labs Ltd
 SECTOR : Miscellaneous
 INDUSTRY : Miscellaneous
 EXPANSION 2023
 PRODUCT DEMAND
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -18,6 +16,8 @@ EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2024, Sales have increased by 52.5% while the Profit QoQ_growth is at 46.6%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

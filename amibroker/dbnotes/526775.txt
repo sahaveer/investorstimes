@@ -1,44 +1,48 @@
-CODE	NAME
-526775 
-
-SECTOR : Telecomm Equipment & Infra Services
-INDUSTRY : Telecommunications - Equipment
-BestQ Dec 2024
+CODES	526775	
+FULLNAME : Valiant Communications Ltd
+SECTOR : Telecom - Equipment & Accessories
+INDUSTRY : Telecom - Equipment & Accessories
+BestQ Dec 2025
 YSD YPD 2023
-LYPD PM 2024
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   19.7   |   21.7   |   13.2   |   31.5   |   46.3   |      34.8    
- SQoQ%:  |   2.8    |   10.2   |  -39.1   |  138.6   |   47.1   |      75.2    
- YOPM%:  |   5.5    |   6.6    |   0.0    |   13.7   |   22.3   |              
- YNPM%:  |   0.0    |   7.4    |   0.0    |   5.3    |   13.4   |              
-YPROFIT: |   0.0    |   1.6    |   -2.6   |   1.7    |   6.2    |      5.4     
- PQoQ%:  |  -100.0  |   inf    |  -264.4  |  -163.9  |  269.6   |      87.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   12.3   |   13.3   |   13.7   |   12.7   |   8.4   
- QoQ%:  |   10.5   |   8.5    |   2.6    |   -6.9   |  -34.3  
- QOPM%: |   20.1   |   29.5   |   31.1   |   30.2   |   1.3   
- QNPM%: |   11.2   |   18.7   |   22.8   |   22.0   |   0.0   
- QPFT:  |   1.4    |   2.5    |   3.1    |   2.8    |   -0.5  
- PQoQ%: |   -3.5   |   80.4   |   25.3   |  -10.3   |  -118.9 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 21.7		13.2		31.5		46.3		50.8		60.6
+SQoQ%: 	10.2		-39.1		138.6		47.1		9.8		119.3
+YOPM%: 	6.6		0.0		13.7		22.3		27.2
+YNPM%: 	7.4		0.0		5.3		13.4		18.9
+YPROFIT: 1.6		-2.6		1.7		6.2		9.6		16.0
+PQoQ%: 	inf		-264.4		-163.9		269.6		54.8		166.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 8.4		16.1		18.3		20.2		22.1
+QoQ%: 	-34.3		92.8		13.6		10.1		9.8
+QOPM%: 	1.3		34.7		34.4		34.4		34.8
+QNPM%: 	0.0		26.2		25.8		26.1		27.3
+QPFT: 	-0.5		4.2		4.7		5.3		6.0
+PQoQ%: 	-118.9		-896.2		11.8		11.7		14.8
+
+
 
 ***PROS***
-- Last 3QSALES is about 75% YSales
-- Last 3QPROFIT is about 87% of YProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- Last 3QSALES is about 119% YSales
+- Last 3QPROFIT is about 167% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
 
-YSALES in Mar-2024 is at 46.3 showing a QoQ_growth of 47.1%. The YNETPROFIT grew by 269.6% to 6.2
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-46.30cr, QoQ 47.10% & YoY 135.03% SALES;
-10.40cr, QoQ 139.60% & YoY 845.45% OPERATING PROFIT;
-6.20cr, QoQ 269.60% & YoY inf% NET PROFIT;
-OPM %: 22.30% vs 13.7%
-NPM %: 13.40% vs 5.3%
+ 31-Mar-2025 #Result
+50.80cr, QoQ 9.80% & YoY 134.10% SALES;
+13.80cr, QoQ 33.60% & YoY 885.71% OPERATING PROFIT;
+9.60cr, QoQ 54.80% & YoY 500.00% NET PROFIT;
+OPM %: 27.20% vs 22.3%
+NPM %: 18.90% vs 13.4%
 

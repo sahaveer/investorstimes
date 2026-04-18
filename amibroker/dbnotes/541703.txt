@@ -1,12 +1,12 @@
-CODE	NAME
-541703 
-
+CODES	541703	
+FULLNAME : Raconteur Global Resources Ltd
 SECTOR : Entertainment
 INDUSTRY : Entertainment / Electronic Media Software
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 A DEBT-Free Company
+
+***CONS***

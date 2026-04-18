@@ -1,39 +1,34 @@
-CODE	NAME
-542176 
+CODES	542176	
+FULLNAME : Aryan Share & Stock Brokers Ltd
+SECTOR : Finance
+INDUSTRY : Other Financial Services
 
-SECTOR : Stock/ Commodity Brokers
-INDUSTRY : Finance & Investments
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.8		1.3		1.8		1.9		1.2		1.1
+SQoQ%: 	-5.3		-27.8		40.0		6.0		-37.3		91.7
+YOPM%: 	25.6		43.8		41.2		29.0		0.0
+YNPM%: 	16.1		31.5		29.7		26.4		0.0
+YPROFIT: 0.3		0.4		0.5		0.5		-0.3		2.3
+PQoQ%: 	314.3		41.4		31.7		-5.6		-160.8		-766.7
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.9    |   1.8    |   1.3    |   1.8    |   1.9    |      0.9     
- SQoQ%:  |  -22.4   |   -5.3   |  -27.8   |   40.0   |   6.0    |      47.4    
- YOPM%:  |   13.7   |   25.6   |   43.8   |   41.2   |   29.0   |              
- YNPM%:  |   3.7    |   16.1   |   31.5   |   29.7   |   26.4   |              
-YPROFIT: |   0.1    |   0.3    |   0.4    |   0.5    |   0.5    |      -0.1    
- PQoQ%:  |  -82.9   |  314.3   |   41.4   |   31.7   |   -5.6   |     -20.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.1    |   0.3    |   0.5    |   0.4    |   0.0   
- QoQ%:  |  -47.4   |  190.0   |   75.9   |  -21.6   |  -87.5  
- QOPM%: |   0.0    |   0.0    |   0.0    |   12.5   |   0.0   
- QNPM%: |  250.0   |   3.4    |   0.0    |  242.5   |  580.0  
- QPFT:  |   0.2    |   0.0    |   -1.4   |   1.0    |   0.3   
- PQoQ%: |  257.1   |  -96.0   | -14500.0 |  -167.4  |  -70.1  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		-0.1		0.4		0.6		0.1
+QoQ%: 	-87.5		-220.0		-733.3		63.2		-88.7
+QOPM%: 	0.0		-1800.0		7.9		67.7		0.0
+QNPM%: 	580.0		0.0		305.3		119.4		557.1
+QPFT: 	0.3		-0.1		1.2		0.7		0.4
+PQoQ%: 	-70.1		-148.3		-928.6		-36.2		-47.3
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 92% YSales
 
 
-Yearly 
- 31-Mar-2024 #Result
-1.90cr, QoQ 6.00% & YoY 0.00% SALES;
-0.60cr, QoQ -25.30% & YoY 100.00% OPERATING PROFIT;
-0.50cr, QoQ -5.60% & YoY 400.00% NET PROFIT;
-OPM %: 29.00% vs 41.2%
-NPM %: 26.40% vs 29.7%
-
+***CONS***
+- NEGATIVE YProfit : -0.3

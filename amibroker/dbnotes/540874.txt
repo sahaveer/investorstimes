@@ -1,15 +1,16 @@
-CODE	NAME
-540874 
+CODES	540874	
+FULLNAME : 7Seas Entertainment Ltd
+SECTOR : Entertainment
+INDUSTRY : Digital Entertainment
 
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+***YEARLY***
+
+
+***QUARTERLY***
+
+
+***PROS***
 
 ***CONS***
 - NO PRODUCT DEMAND
 - NEGATIVE YProfit : -0.2
-
-
-
-
-
-***PROS***

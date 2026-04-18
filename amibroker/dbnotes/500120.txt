@@ -1,39 +1,42 @@
-CODES
-500120	DIAMINESQ	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
-PRODUCT DEMAND
+CODES	500120	DIAMINESQ	
+FULLNAME : Diamines & Chemicals Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
 
-***CONS***
- YPNL:   | Mar-2016 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   35.6   |   62.8   |   66.0   |  110.3   |  104.0   |      53.5    
- SQoQ%:  |   -9.0   |   76.6   |   5.0    |   67.3   |   -5.8   |      51.4    
- YOPM%:  |   12.5   |   40.8   |   33.5   |   50.4   |   21.8   |              
- YNPM%:  |   0.7    |   33.4   |   25.3   |   38.0   |   14.9   |              
-YPROFIT: |   0.2    |   21.0   |   16.7   |   41.9   |   15.5   |      1.5     
- PQoQ%:  |  -115.7  |  8296.0  |  -20.4   |  150.7   |  -63.1   |      9.7     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   23.0   |   29.4   |   16.8   |   19.2   |   17.5  
- QoQ%:  |   15.6   |   27.6   |  -42.7   |   14.0   |   -8.8  
- QOPM%: |   20.5   |   11.5   |   0.0    |   18.8   |   8.7   
- QNPM%: |   12.2   |   7.7    |   0.0    |   12.8   |   4.3   
- QPFT:  |   2.8    |   2.2    |   -1.8   |   2.5    |   0.8   
- PQoQ%: |  -17.9   |  -19.6   |  -177.8  |  -240.6  |  -69.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 62.8		66.0		110.3		104.0		71.4		29.1
+SQoQ%: 	76.6		5.0		67.3		-5.8		-31.3		40.8
+YOPM%: 	40.8		33.5		50.4		21.8		7.6
+YNPM%: 	33.4		25.3		38.0		14.9		3.8
+YPROFIT: 21.0		16.7		41.9		15.5		2.7		-10.4
+PQoQ%: 	8296.0		-20.4		150.7		-63.1		-82.4		-385.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 17.5		17.9		12.2		9.3		7.6
+QoQ%: 	-8.8		2.4		-31.7		-24.1		-17.8
+QOPM%: 	8.7		9.4		0.0		0.0		0.0
+QNPM%: 	4.3		7.0		0.0		0.0		0.0
+QPFT: 	0.8		1.3		-2.8		-4.2		-3.4
+PQoQ%: 	-69.5		68.0		-323.0		47.7		-18.1
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 51% YSales
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-104.00cr, QoQ -5.80% & YoY 192.13% SALES;
-22.70cr, QoQ -59.20% & YoY 404.44% OPERATING PROFIT;
-15.50cr, QoQ -63.10% & YoY 7650.00% NET PROFIT;
-OPM %: 21.80% vs 50.4%
-NPM %: 14.90% vs 38.0%
+ 31-Mar-2025 #Result
+71.40cr, QoQ -31.30% & YoY 13.69% SALES;
+5.50cr, QoQ -75.90% & YoY -78.52% OPERATING PROFIT;
+2.70cr, QoQ -82.40% & YoY -87.14% NET PROFIT;
+OPM %: 7.60% vs 21.8%
+NPM %: 3.80% vs 14.9%
 

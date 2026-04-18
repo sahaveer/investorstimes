@@ -1,27 +1,38 @@
-CODES
-539917	NAGAFERT	
-SECTOR : Fertilizers
+CODES	539917	NAGAFERT	
+FULLNAME : Nagarjuna Fertilizers & Chemicals Ltd
+SECTOR : Fertilizers & Agrochemicals
 INDUSTRY : Fertilizers
+BestQ Dec 2025
 YSD YPD 2023
+LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -1284.0
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1704.5  |  1574.9  |  2692.3  |  5642.2  |  4765.4  |     703.2    
- SQoQ%:  |  -12.2   |   -7.6   |   71.0   |  109.6   |  -15.5   |      14.8    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |  -458.9  |  -615.3  |  -689.0  |  -900.1  | -1284.0  |     2435.6   
- PQoQ%:  |   -5.6   |   34.1   |   12.0   |   30.6   |   42.6   |     -189.7   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  1207.9  |  1160.1  |  871.1   |   0.9    |  -168.8 
- QoQ%:  |   -8.8   |   -4.0   |  -24.9   |  -99.9   | -18249.5
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |  281.6   |   0.0    |   0.0   
- QPFT:  |  -150.1  |  -199.4  |  2453.2  |  -15.0   |   -2.6  
- PQoQ%: |   16.4   |   32.8   | -1330.2  |  -100.6  |  -82.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1574.9		2692.3		5642.2		4765.4		703.2		8.5
+SQoQ%: 	-7.6		71.0		109.6		-15.5		-85.2		1.2
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		344.8
+YPROFIT: -615.3		-689.0		-900.1		-1284.0		2424.9		-17.1
+PQoQ%: 	34.1		12.0		30.6		42.6		-288.9		-0.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: -168.8		0.0		0.0		0.0		8.5
+QoQ%: 	-18249.5		-100.0		nan		nan		inf
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-2.6		-10.8		-6.3		-5.0		-5.8
+PQoQ%: 	-82.4		308.7		-41.8		-19.8		14.5
+
+
 
 ***PROS***
+- Double QSales and QProfit
+- YProfit Turned POSITIVE this year Mar-2025 : 2424.9
 - YProfits and YSales DOUBLED in Mar2023
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NO PRODUCT DEMAND

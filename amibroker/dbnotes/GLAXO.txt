@@ -1,37 +1,46 @@
-CODES
-500660	GLAXO	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Multinational
+CODES	500660	GLAXO	
+FULLNAME : Glaxosmithkline Pharmaceuticals Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2925.6  |  3278.0  |  3251.7  |  3453.7  |  3749.2 
- SQoQ%:  |   -9.3   |   12.0   |   -0.8   |   6.2    |   8.6   
- YOPM%:  |   20.4   |   23.2   |   24.7   |   26.3   |   31.4  
- YNPM%:  |   12.2   |   51.7   |   18.8   |   17.1   |   24.7  
-YPROFIT: |  358.2   |  1694.7  |  610.7   |  590.0   |  927.6  
- PQoQ%:  |  284.3   |  373.2   |  -64.0   |   -3.4   |   57.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  929.8   |  814.6   |  1010.8  |  949.4   |  974.4  
- QoQ%:  |   15.5   |  -12.4   |   24.1   |   -6.1   |   2.6   
- QOPM%: |   27.7   |   28.3   |   31.8   |   30.7   |   34.2  
- QNPM%: |   20.9   |   22.4   |   25.0   |   24.2   |   27.0  
- QPFT:  |  194.5   |  182.3   |  252.5   |  229.9   |  262.9  
- PQoQ%: |  325.4   |   -6.2   |   38.5   |   -9.0   |   14.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2925.6		3278.0		3251.7		3453.7		3749.2		2826.4
+SQoQ%: 	-9.3		12.0		-0.8		6.2		8.6		75.4
+YOPM%: 	20.4		23.2		24.7		26.3		31.4
+YNPM%: 	12.2		51.7		18.8		17.1		24.7
+YPROFIT: 358.2		1694.7		610.7		590.0		927.6		758.1
+PQoQ%: 	284.3		373.2		-64.0		-3.4		57.2		81.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 949.4		974.4		805.2		979.9		1041.3
+QoQ%: 	-6.1		2.6		-17.4		21.7		6.3
+QOPM%: 	30.7		34.2		31.2		34.3		35.7
+QNPM%: 	24.2		27.0		25.5		26.3		28.4
+QPFT: 	229.9		262.9		205.0		257.5		295.6
+PQoQ%: 	-9.0		14.4		-22.0		25.6		14.8
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 93.9%
+ROCE in Mar2025 is at 94.1%
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 82% of YProfit
 
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
 3749.20cr, QoQ 8.60% & YoY 28.15% SALES;
-1177.40cr, QoQ 29.60% & YoY 96.82% OPERATING PROFIT;
+1178.90cr, QoQ 29.70% & YoY 97.07% OPERATING PROFIT;
 927.60cr, QoQ 57.20% & YoY 158.96% NET PROFIT;
 OPM %: 31.40% vs 26.3%
 NPM %: 24.70% vs 17.1%

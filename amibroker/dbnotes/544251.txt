@@ -1,13 +1,11 @@
-CODE	NAME
-544251 
-
+CODES	544251	
+FULLNAME : Share Samadhan Ltd
 SECTOR : Miscellaneous
 INDUSTRY : Miscellaneous
 PRODUCT DEMAND
 YSD YPD 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -16,6 +14,8 @@ YSD YPD 2024
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
 
 YSALES in Mar-2024 is at 9.3 showing a QoQ_growth of 236.2%. The YNETPROFIT grew by 719.6% to 3.8
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

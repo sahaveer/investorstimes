@@ -1,39 +1,44 @@
-CODE	NAME
-519566 
+CODES	519566	
+FULLNAME : Simran Farms Ltd
+SECTOR : Food Products
+INDUSTRY : Meat Products including Poultry
+PRODUCT DEMAND
 
-SECTOR : FMCG
-INDUSTRY : Miscellaneous
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 322.1		393.7		367.0		486.4		834.4		626.0
+SQoQ%: 	14.6		22.2		-6.8		32.6		71.5		75.0
+YOPM%: 	7.8		2.9		1.9		0.4		1.1
+YNPM%: 	3.9		2.6		1.0		0.1		0.7
+YPROFIT: 12.6		10.3		3.6		0.4		5.9		2.3
+PQoQ%: 	-158.5		-18.2		-65.2		-89.4		1447.4		39.0
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  281.1   |  322.1   |  393.7   |  367.0   |  486.4   |     596.1    
- SQoQ%:  |  -12.1   |   14.6   |   22.2   |   -6.8   |   32.6   |     122.6    
- YOPM%:  |   0.0    |   7.8    |   2.9    |   1.9    |   0.4    |              
- YNPM%:  |   0.0    |   3.9    |   2.6    |   1.0    |   0.1    |              
-YPROFIT: |  -21.5   |   12.6   |   10.3   |   3.6    |   0.4    |      9.0     
- PQoQ%:  |  -628.5  |  -158.5  |  -18.2   |  -65.2   |  -89.4   |     2250.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  123.4   |  138.4   |  176.4   |  174.6   |  245.1  
- QoQ%:  |   3.6    |   12.2   |   27.4   |   -1.0   |   40.4  
- QOPM%: |   0.0    |   0.2    |   7.0    |   0.4    |   0.3   
- QNPM%: |   0.0    |   0.1    |   4.9    |   0.1    |   0.1   
- QPFT:  |   -3.4   |   0.2    |   8.7    |   0.2    |   0.1   
- PQoQ%: |  -213.8  |  -105.6  |  4489.5  |  -97.2   |  -41.7  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 245.1		238.2		204.9		188.5		232.6
+QoQ%: 	40.4		-2.8		-14.0		-8.0		23.4
+QOPM%: 	0.3		0.0		0.8		0.8		1.2
+QNPM%: 	0.1		0.0		0.4		0.2		0.5
+QPFT: 	0.1		-3.2		0.8		0.4		1.1
+PQoQ%: 	-41.7		-2392.9		-123.4		-53.3		222.9
+
+
 
 ***PROS***
-- Last 3QSALES is about 123% YSales
-- Last 3QPROFIT is about 2250% of YProfit
-- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 75% YSales
+
+YSALES in Mar-2025 is at 834.4 showing a QoQ_growth of 71.5%. The YNETPROFIT grew by 1447.4% to 5.9
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-486.40cr, QoQ 32.60% & YoY 73.03% SALES;
-2.10cr, QoQ -70.00% & YoY -108.05% OPERATING PROFIT;
-0.40cr, QoQ -89.40% & YoY -101.86% NET PROFIT;
-OPM %: 0.40% vs 1.9%
-NPM %: 0.10% vs 1.0%
+ 31-Mar-2025 #Result
+834.40cr, QoQ 71.50% & YoY 159.05% SALES;
+9.20cr, QoQ 344.40% & YoY -63.49% OPERATING PROFIT;
+5.90cr, QoQ 1447.40% & YoY -53.17% NET PROFIT;
+OPM %: 1.10% vs 0.4%
+NPM %: 0.70% vs 0.1%
 

@@ -1,12 +1,14 @@
-CODES
-533470	RUSHIL	
-SECTOR : Plywood Boards/Laminates
-INDUSTRY : Miscellaneous
+CODES	533470	RUSHIL	
+FULLNAME : Rushil Decor Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Plywood Boards/ Laminates
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

@@ -1,11 +1,10 @@
-CODES
-MARCO	
-SECTOR : Cables
-INDUSTRY : Cables - Power
+CODES	MARCO	
+FULLNAME : Marco Cables & Conductors Ltd
+SECTOR : Industrial Products
+INDUSTRY : Cables - Electricals
 PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -13,11 +12,13 @@ PRODUCT DEMAND
 
 YSALES in Mar-2025 is at 111.4 showing a QoQ_growth of 55.5%. The YNETPROFIT grew by 71.1% to 5.2
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 111.40cr, QoQ 55.50% & YoY 162.74% SALES;
-13.60cr, QoQ 31.20% & YoY 161.54% OPERATING PROFIT;
+13.80cr, QoQ 33.00% & YoY 165.38% OPERATING PROFIT;
 5.20cr, QoQ 71.10% & YoY 5100.00% NET PROFIT;
-OPM %: 12.30% vs 14.5%
+OPM %: 12.40% vs 14.5%
 NPM %: 4.70% vs 4.2%
 

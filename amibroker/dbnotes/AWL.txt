@@ -1,36 +1,45 @@
-CODES
-543458	AWL	
-SECTOR : Edible Oil
-INDUSTRY : Solvent Extraction
+CODES	543458	AWL	
+FULLNAME : AWL Agri Business Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Edible Oil
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 37090.4		54154.8		58184.8		51261.6		63672.2		53265.9
+SQoQ%: 	25.1		46.0		7.4		-11.9		24.2		83.7
+YOPM%: 	3.6		3.2		1.7		2.2		3.9
+YNPM%: 	2.0		1.5		1.0		0.3		1.9
+YPROFIT: 728.5		803.7		582.1		148.0		1225.8		749.9
+PQoQ%: 	58.1		10.3		-27.6		-74.6		728.4		61.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 16838.9		18229.6		17058.6		17604.6		18602.7
+QoQ%: 	16.4		8.3		-6.4		3.2		5.7
+QOPM%: 	4.7		2.5		2.1		3.9		3.0
+QNPM%: 	2.4		1.0		1.4		1.4		1.4
+QPFT: 	410.6		190.3		236.4		244.7		268.8
+PQoQ%: 	32.0		-53.7		24.3		3.5		9.8
+
+
+
+***PROS***
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 61% of YProfit
+
+YSALES in Mar-2025 is at 63672.2 showing a QoQ_growth of 24.2%. The YNETPROFIT grew by 728.4% to 1225.8
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 37090.4  | 54154.8  | 58184.8  | 51261.6  | 63672.2 
- SQoQ%:  |   25.1   |   46.0   |   7.4    |  -11.9   |   24.2  
- YOPM%:  |   3.6    |   3.2    |   1.7    |   2.2    |   3.9   
- YNPM%:  |   2.0    |   1.5    |   1.0    |   0.3    |   1.9   
-YPROFIT: |  728.5   |  803.7   |  582.1   |  148.0   |  1225.1 
- PQoQ%:  |   58.1   |   10.3   |  -27.6   |  -74.6   |  727.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 13222.8  | 14168.6  | 14460.4  | 16838.9  | 18229.6 
- QoQ%:  |   3.1    |   7.2    |   2.1    |   16.4   |   8.3   
- QOPM%: |   2.7    |   4.4    |   4.3    |   4.7    |   2.5   
- QNPM%: |   1.2    |   2.2    |   2.2    |   2.4    |   1.0   
- QPFT:  |  156.8   |  313.2   |  311.0   |  410.6   |  190.3  
- PQoQ%: |  -22.0   |   99.8   |   -0.7   |   32.0   |  -53.7  
-
-***PROS***
-
-YSALES in Mar-2025 is at 63672.2 showing a QoQ_growth of 24.2%. The YNETPROFIT grew by 727.9% to 1225.1
 
 Yearly 
  31-Mar-2025 #Result
 63672.20cr, QoQ 24.20% & YoY 71.67% SALES;
-2481.70cr, QoQ 118.60% & YoY 87.20% OPERATING PROFIT;
-1225.10cr, QoQ 727.90% & YoY 68.17% NET PROFIT;
+2486.30cr, QoQ 119.00% & YoY 87.55% OPERATING PROFIT;
+1225.80cr, QoQ 728.40% & YoY 68.26% NET PROFIT;
 OPM %: 3.90% vs 2.2%
 NPM %: 1.90% vs 0.3%
 

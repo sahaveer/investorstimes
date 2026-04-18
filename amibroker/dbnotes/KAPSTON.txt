@@ -1,12 +1,14 @@
-CODES
-KAPSTON	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	KAPSTON	
+FULLNAME : Kapston Services Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

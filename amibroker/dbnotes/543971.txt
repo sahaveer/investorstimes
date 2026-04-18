@@ -1,29 +1,42 @@
-CODE	NAME
-543971 
-
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Engineering - Turnkey Services
+CODES	543971	
+FULLNAME : Bondada Engineering Ltd
+SECTOR : Telecom - Services
+INDUSTRY : Telecom - Infrastructure
 YSD YPD 2024
 LYPD PM 2025
-YS15 YPD 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
+***YEARLY***
 
+
+***QUARTERLY***
 
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 22.7%
+ROCE in Mar2025 is at 22.1%
 - YProfits and YSales DOUBLED in Mar2024
 - LastYr YProfits Doubled and maintained in Mar2025
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
-As on Mar2025, Sales have increased by 89.8% while the Profit QoQ_growth is much better than Sales itself at 154.0%
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 96.2% while the Profit QoQ_growth is much better than Sales itself at 150.1%
+- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2025 is at 8.1%. The QPROFIT QoQ_growth by 0.3%
+
+***CONS***
+
+Quarterly 
+31-Dec-2025 #Result
+712.30cr, QoQ 8.10% SALES;
+85.00cr, QoQ 9.00% OPERATING PROFIT;
+53.10cr, QoQ 0.30% NET PROFIT;
+OPM %: 11.90% vs 11.8%
+NPM %: 7.50% vs 8.0%
+
 
 Yearly 
  31-Mar-2025 #Result
-1407.60cr, QoQ 89.80% & YoY 390.28% SALES;
-152.60cr, QoQ 156.80% & YoY 1013.87% OPERATING PROFIT;
-103.10cr, QoQ 154.00% & YoY 759.17% NET PROFIT;
-OPM %: 10.80% vs 8.0%
-NPM %: 7.30% vs 5.5%
+1571.40cr, QoQ 96.20% & YoY 447.34% SALES;
+174.90cr, QoQ 155.40% & YoY 979.63% OPERATING PROFIT;
+111.90cr, QoQ 150.10% & YoY 1116.30% NET PROFIT;
+OPM %: 11.10% vs 8.6%
+NPM %: 7.10% vs 5.6%
 

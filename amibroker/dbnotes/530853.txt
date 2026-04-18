@@ -1,14 +1,18 @@
-CODE	NAME
-530853 
+CODES	530853	
+FULLNAME : Hipolin Ltd
+SECTOR : Household Products
+INDUSTRY : Household Products
+PRODUCT DEMAND
 
-SECTOR : FMCG
-INDUSTRY : Detergents / Intermediates
-
-***CONS***
-- NEGATIVE YProfit : -0.9
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
+
+
+***CONS***
+- NEGATIVE YProfit : -3.3

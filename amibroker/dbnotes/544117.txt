@@ -1,12 +1,14 @@
-CODES
-544117	SIGNPOST	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	544117	SIGNPOST	
+FULLNAME : Signpost India Ltd
+SECTOR : Media
+INDUSTRY : Advertising & Media Agencies
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

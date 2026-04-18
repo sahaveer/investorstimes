@@ -1,49 +1,56 @@
-CODE	NAME
-511764 
-
+CODES	511764	
+FULLNAME : Aastamangalam Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
+YSD YPD 2025
 YSD YPD 2024
 YSD YPD 2023
-LYPD PM 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+LYPD PM 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.3    |   0.6    |   1.3    |   3.4    |   7.0    |      11.1    
- SQoQ%:  |   21.7   |  -52.7   |  106.6   |  165.9   |  109.9   |     158.6    
- YOPM%:  |   8.5    |   88.5   |   21.4   |   92.5   |   92.0   |              
- YNPM%:  |   2.3    |   78.7   |   10.3   |   43.3   |   51.2   |              
-YPROFIT: |   0.0    |   0.5    |   0.1    |   1.4    |   3.6    |      6.8     
- PQoQ%:  |  -93.2   |  1500.0  |  -72.9   |  1015.4  |  148.3   |     188.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   2.3    |   2.2    |   2.9    |   4.0    |   4.2   
- QoQ%:  |   59.2   |   -2.2   |   29.9   |   38.0   |   7.3   
- QOPM%: |   95.1   |   91.0   |   96.5   |   93.4   |   93.9  
- QNPM%: |   58.0   |   53.8   |   58.2   |   63.1   |   60.2  
- QPFT:  |   1.3    |   1.2    |   1.7    |   2.5    |   2.6   
- PQoQ%: |  263.9   |   -9.2   |   40.3   |   49.7   |   2.4   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.6		1.3		3.4		7.0		15.3		11.8
+SQoQ%: 	-52.7		106.6		165.9		109.9		117.2		77.1
+YOPM%: 	88.5		21.4		92.5		92.0		82.4
+YNPM%: 	78.7		10.3		43.3		51.2		54.2
+YPROFIT: 0.5		0.1		1.4		3.6		8.3		7.3
+PQoQ%: 	1500.0		-72.9		1015.4		148.3		130.0		88.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4.2		4.3		4.7		3.6		3.5
+QoQ%: 	7.3		1.2		9.5		-23.1		-2.2
+QOPM%: 	93.9		50.5		96.8		107.5		88.4
+QNPM%: 	60.2		5.8		63.5		65.7		54.0
+QPFT: 	2.6		0.2		3.0		2.4		1.9
+PQoQ%: 	2.4		-90.2		1096.0		-20.4		-19.7
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 159% YSales
-- Last 3QPROFIT is about 189% of YProfit
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 88% of YProfit
+- YProfits and YSales DOUBLED in Mar2025
 - YProfits and YSales DOUBLED in Mar2024
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 109.9% while the Profit QoQ_growth is much better than Sales itself at 148.3%
+As on Mar2025, Sales have increased by 117.2% while the Profit QoQ_growth is much better than Sales itself at 130.0%
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-7.00cr, QoQ 109.90% & YoY 438.46% SALES;
-6.50cr, QoQ 108.70% & YoY 6400.00% OPERATING PROFIT;
-3.60cr, QoQ 148.30% & YoY inf% NET PROFIT;
-OPM %: 92.00% vs 92.5%
-NPM %: 51.20% vs 43.3%
+ 31-Mar-2025 #Result
+15.30cr, QoQ 117.20% & YoY 2450.00% SALES;
+12.60cr, QoQ 94.40% & YoY 2420.00% OPERATING PROFIT;
+8.30cr, QoQ 130.00% & YoY 1560.00% NET PROFIT;
+OPM %: 82.40% vs 92.0%
+NPM %: 54.20% vs 51.2%
 

@@ -1,12 +1,14 @@
-CODES
-SONUINFRA	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
+CODES	SONUINFRA	
+FULLNAME : Sonu Infratech Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

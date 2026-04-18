@@ -1,18 +1,19 @@
-CODES
-UNIHEALTH	
+CODES	UNIHEALTH	
+FULLNAME : Unihealth Hospitals Ltd
 SECTOR : Healthcare
 INDUSTRY : Healthcare
 YSD YPD 2024
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
 - YProfits and YSales DOUBLED in Mar2024
 
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

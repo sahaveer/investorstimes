@@ -1,4 +1,3 @@
-CODES
-543323	BFSI	
-SECTOR : 
-INDUSTRY : 
+CODES	543323	BFSI	
+FULLNAME : Mirae Asset Nifty Financial Services ETF - RG
+

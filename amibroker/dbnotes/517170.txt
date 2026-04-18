@@ -1,31 +1,47 @@
-CODE	NAME
-517170 
-
+CODES	517170	
+FULLNAME : Edvenswa Enterprises Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+INDUSTRY : Computers - Software & Consulting
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.0		37.9		51.4		84.3		119.5		100.9
+SQoQ%: 	nan		3542.3		35.7		63.9		41.7		84.4
+YOPM%: 	0.0		7.9		12.4		13.7		13.3
+YNPM%: 	0.0		9.9		11.2		8.8		9.4
+YPROFIT: -0.1		3.8		5.8		7.4		11.3		7.9
+PQoQ%: 	nan		-5471.4		53.2		28.1		52.6		69.9
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 38.1		32.1		40.4		30.0		30.5
+QoQ%: 	50.9		-15.7		26.0		-25.9		1.8
+QOPM%: 	12.8		12.1		9.3		7.7		7.2
+QNPM%: 	7.4		12.1		10.9		6.0		5.5
+QPFT: 	2.8		3.9		4.4		1.8		1.7
+PQoQ%: 	21.6		37.6		13.4		-58.9		-6.6
 
 
 
 ***PROS***
-DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  increasing for the last 3yrs
-- Last 3QSALES is about 104% YSales
-- Last 3QPROFIT is about 99% of YProfit
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
-As on Mar2024, Sales have increased by 63.9% while the Profit QoQ_growth is at 28.1%
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 70% of YProfit
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 41.7% while the Profit QoQ_growth is much better than Sales itself at 52.6%
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-84.30cr, QoQ 63.90% SALES;
-11.50cr, QoQ 80.70% OPERATING PROFIT;
-7.40cr, QoQ 28.10% NET PROFIT;
-OPM %: 13.70% vs 12.4%
-NPM %: 8.80% vs 11.2%
+ 31-Mar-2025 #Result
+119.50cr, QoQ 41.70% & YoY 11850.00% SALES;
+15.90cr, QoQ 37.80% & YoY -16000.00% OPERATING PROFIT;
+11.30cr, QoQ 52.60% & YoY -11400.00% NET PROFIT;
+OPM %: 13.30% vs 13.7%
+NPM %: 9.40% vs 8.8%
 

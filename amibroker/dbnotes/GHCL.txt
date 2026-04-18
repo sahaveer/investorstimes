@@ -1,37 +1,46 @@
-CODES
-500171	GHCL	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	500171	GHCL	
+FULLNAME : GHCL Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2491.2  |  3052.1  |  4550.9  |  3446.5  |  3183.5 
- SQoQ%:  |  -24.6   |   22.5   |   49.1   |  -24.3   |   -7.6  
- YOPM%:  |   24.3   |   23.9   |   33.0   |   24.7   |   27.5  
- YNPM%:  |   13.1   |   21.3   |   25.1   |   23.0   |   19.6  
-YPROFIT: |  326.1   |  650.0   |  1141.6  |  793.9   |  624.2  
- PQoQ%:  |  -17.8   |   99.3   |   75.6   |  -30.5   |  -21.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  823.4   |  830.5   |  792.8   |  778.7   |  781.5  
- QoQ%:  |   3.1    |   0.9    |   -4.5   |   -1.8   |   0.4   
- QOPM%: |   22.4   |   26.1   |   26.6   |   29.5   |   27.9  
- QNPM%: |   15.2   |   18.1   |   19.5   |   21.6   |   19.2  
- QPFT:  |  124.9   |  150.6   |  154.8   |  168.4   |  150.3  
- PQoQ%: |   25.0   |   20.6   |   2.8    |   8.8    |  -10.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2491.2		3778.4		4545.4		3446.5		3183.5		2273.7
+SQoQ%: 	-24.6		51.7		20.3		-24.2		-7.6		71.4
+YOPM%: 	24.3		26.0		32.9		24.7		27.6
+YNPM%: 	13.1		17.1		25.1		23.0		19.6
+YPROFIT: 326.1		646.7		1141.6		793.9		624.2		356.8
+PQoQ%: 	-17.8		98.3		76.5		-30.5		-21.4		57.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 778.7		781.5		795.9		721.3		756.5
+QoQ%: 	-1.8		0.4		1.8		-9.4		4.9
+QOPM%: 	29.5		27.9		24.8		21.8		21.0
+QNPM%: 	21.6		19.2		18.1		14.8		14.0
+QPFT: 	168.4		150.3		144.1		106.7		106.0
+PQoQ%: 	8.8		-10.8		-4.1		-26.0		-0.6
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 20.5%
+- Last 3QSALES is about 71% YSales
+- Last 3QPROFIT is about 57% of YProfit
 
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
 3183.50cr, QoQ -7.60% & YoY 27.79% SALES;
-876.00cr, QoQ 3.00% & YoY 44.77% OPERATING PROFIT;
+877.40cr, QoQ 3.10% & YoY 45.00% OPERATING PROFIT;
 624.20cr, QoQ -21.40% & YoY 91.41% NET PROFIT;
-OPM %: 27.50% vs 24.7%
+OPM %: 27.60% vs 24.7%
 NPM %: 19.60% vs 23.0%
 

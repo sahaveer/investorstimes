@@ -1,34 +1,43 @@
-CODES
-MITCON	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	MITCON	
+FULLNAME : Mitcon Consultancy & Engineering Services Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Consulting Services
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   61.7   |  106.3   |   83.0   |  128.9   |  112.7  
- SQoQ%:  |   1.3    |   72.4   |  -21.9   |   55.3   |  -12.6  
- YOPM%:  |   15.1   |   15.3   |   19.3   |   22.3   |   24.9  
- YNPM%:  |   0.0    |   1.0    |   5.1    |   4.1    |   4.9   
-YPROFIT: |   -2.0   |   1.1    |   4.2    |   5.3    |   5.6   
- PQoQ%:  |  -205.7  |  -152.2  |  299.1   |   26.0   |   4.3   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   40.0   |   24.4   |   27.8   |   22.3   |   38.1  
- QoQ%:  |   65.5   |  -38.8   |   13.9   |  -19.9   |   70.9  
- QOPM%: |   17.9   |   29.5   |   26.5   |   27.2   |   19.2  
- QNPM%: |   4.1    |   11.0   |   3.3    |   1.2    |   4.4   
- QPFT:  |   1.6    |   2.7    |   0.9    |   0.3    |   1.7   
- PQoQ%: |   57.7   |   64.6   |  -66.3   |  -71.4   |  550.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 61.7		106.3		83.0		128.9		112.7		80.5
+SQoQ%: 	1.3		72.4		-21.9		55.3		-12.6		71.4
+YOPM%: 	15.1		15.3		19.3		22.3		26.0
+YNPM%: 	0.0		1.0		5.1		4.1		4.9
+YPROFIT: -2.0		1.1		4.2		5.3		5.6		3.4
+PQoQ%: 	-205.7		-152.2		299.1		26.0		4.3		60.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 22.3		38.1		24.4		29.5		26.6
+QoQ%: 	-19.9		70.9		-35.9		20.6		-9.9
+QOPM%: 	27.2		19.2		26.2		19.6		24.7
+QNPM%: 	1.2		4.4		4.5		3.2		5.1
+QPFT: 	0.3		1.7		1.1		0.9		1.4
+PQoQ%: 	-71.4		550.0		-35.5		-14.7		45.2
+
+
 
 ***PROS***
+- Last 3QSALES is about 71% YSales
+- Last 3QPROFIT is about 61% of YProfit
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 112.70cr, QoQ -12.60% & YoY 82.66% SALES;
-28.10cr, QoQ -2.30% & YoY 202.15% OPERATING PROFIT;
+29.30cr, QoQ 1.70% & YoY 215.05% OPERATING PROFIT;
 5.60cr, QoQ 4.30% & YoY -380.00% NET PROFIT;
-OPM %: 24.90% vs 22.3%
+OPM %: 26.00% vs 22.3%
 NPM %: 4.90% vs 4.1%
 

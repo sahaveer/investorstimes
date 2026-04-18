@@ -1,12 +1,10 @@
-CODE	NAME
-544383 
-
+CODES	544383	
+FULLNAME : Paradeep Parivahan Ltd
 SECTOR : Logistics
 INDUSTRY : Miscellaneous
 LYPD PM 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -15,6 +13,8 @@ ROCE in Mar2025 is at 15.7%
 - LastYr YProfits Doubled and maintained in Mar2025
 
 YSALES in Mar-2025 is at 335.8 showing a QoQ_growth of 59.2%. The YNETPROFIT grew by 60.9% to 24.2
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

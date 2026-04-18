@@ -1,38 +1,47 @@
-CODES
-543278	KALYANKJIL	
-SECTOR : Diamond, Gems and Jewellery
-INDUSTRY : Diamond Cutting / Jewellery
+CODES	543278	KALYANKJIL	
+FULLNAME : Kalyan Jewellers India Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  8573.3  | 10817.9  | 14071.4  | 18548.3  | 25045.1 
- SQoQ%:  |  -15.1   |   26.2   |   30.1   |   31.8   |   35.0  
- YOPM%:  |   7.3    |   7.9    |   8.3    |   7.4    |   6.1   
- YNPM%:  |   0.0    |   2.1    |   3.1    |   3.2    |   2.9   
-YPROFIT: |   -6.3   |  224.2   |  433.1   |  597.4   |  714.8  
- PQoQ%:  |  -104.4  | -3658.9  |   93.2   |   37.9   |   19.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  4525.0  |  5535.5  |  6065.5  |  7278.1  |  6181.5 
- QoQ%:  |  -13.4   |   22.3   |   9.6    |   20.0   |  -15.1  
- QOPM%: |   6.5    |   6.8    |   5.4    |   5.9    |   6.5   
- QNPM%: |   3.0    |   3.2    |   2.2    |   3.0    |   3.0   
- QPFT:  |  137.6   |  177.8   |  130.6   |  218.8   |  187.6  
- PQoQ%: |  -23.8   |   29.2   |  -26.5   |   67.5   |  -14.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 8573.3		10817.9		14071.4		18548.3		25045.1		25467.9
+SQoQ%: 	-15.1		26.2		30.1		31.8		35.0		101.7
+YOPM%: 	7.3		7.9		8.3		7.4		6.3
+YNPM%: 	0.0		2.1		3.1		3.2		2.9
+YPROFIT: -6.3		224.2		433.1		597.4		714.8		940.9
+PQoQ%: 	-104.4		-3658.9		93.2		37.9		19.7		131.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 7278.1		6181.5		7268.5		7856.0		10343.4
+QoQ%: 	20.0		-15.1		17.6		8.1		31.7
+QOPM%: 	5.9		6.5		7.0		6.3		7.3
+QNPM%: 	3.0		3.0		3.6		3.3		4.0
+QPFT: 	218.8		187.6		264.1		260.5		416.3
+PQoQ%: 	67.5		-14.3		40.8		-1.4		59.8
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 102% YSales
+- Last 3QPROFIT is about 132% of YProfit
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2025, Sales have increased by 35.0% while the Profit QoQ_growth is at 19.7%
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 25045.10cr, QoQ 35.00% & YoY 192.13% SALES;
-1517.20cr, QoQ 10.90% & YoY 142.99% OPERATING PROFIT;
+1584.50cr, QoQ 15.80% & YoY 153.76% OPERATING PROFIT;
 714.80cr, QoQ 19.70% & YoY -11446.03% NET PROFIT;
-OPM %: 6.10% vs 7.4%
+OPM %: 6.30% vs 7.4%
 NPM %: 2.90% vs 3.2%
 

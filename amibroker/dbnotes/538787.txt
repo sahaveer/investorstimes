@@ -1,40 +1,35 @@
-CODE	NAME
-538787 
-
+CODES	538787	
+FULLNAME : Goenka Business & Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   57.4   |  186.5   |  1420.4  |  248.8   |   86.0   |      60.6    
- SQoQ%:  |  976.9   |  224.9   |  661.6   |  -82.5   |  -65.5   |      70.5    
- YOPM%:  |   15.0   |   10.5   |   1.2    |   4.0    |   17.0   |              
- YNPM%:  |   0.0    |   0.2    |   0.0    |   0.1    |   2.5    |              
-YPROFIT: |   -1.4   |   0.4    |   0.6    |   0.1    |   2.2    |      -0.6    
- PQoQ%:  |   59.1   |  -131.4  |   36.4   |  -76.7   |  1464.3  |     -27.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   20.0   |   18.3   |   12.2   |   38.7   |   9.7   
- QoQ%:  |  -31.4   |   -8.7   |  -33.1   |  216.4   |  -74.9  
- QOPM%: |   24.4   |   32.0   |   19.3   |   11.1   |   27.5  
- QNPM%: |   6.8    |   5.5    |   0.0    |   1.7    |   0.0   
- QPFT:  |   1.4    |   1.0    |   -0.6   |   0.7    |   -0.7  
- PQoQ%: |  444.0   |  -26.5   |  -157.0  |  -215.8  |  -209.1 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 186.5		1420.4		248.8		86.0		78.1		121.2
+SQoQ%: 	224.9		661.6		-82.5		-65.5		-9.1		155.2
+YOPM%: 	10.5		1.2		4.0		17.0		21.0
+YNPM%: 	0.2		0.0		0.1		2.5		0.0
+YPROFIT: 0.4		0.6		0.1		2.2		-0.6		0.4
+PQoQ%: 	-131.4		36.4		-76.7		1464.3		-126.5		-66.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 9.7		14.3		7.8		31.4		82.0
+QoQ%: 	-74.9		47.7		-45.3		300.1		161.0
+QOPM%: 	27.5		28.3		49.0		8.0		11.2
+QNPM%: 	0.0		0.7		0.0		0.0		3.3
+QPFT: 	-0.7		0.1		-0.3		-2.0		2.7
+PQoQ%: 	-209.1		-113.9		-440.0		479.4		-235.5
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 51.6%
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 70% YSales
-- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+ROCE in Mar2025 is at 83.3%
+- Last 3QSALES is about 155% YSales
 
-Yearly 
- 31-Mar-2024 #Result
-86.00cr, QoQ -65.50% & YoY 49.83% SALES;
-14.60cr, QoQ 46.80% & YoY 69.77% OPERATING PROFIT;
-2.20cr, QoQ 1464.30% & YoY -257.14% NET PROFIT;
-OPM %: 17.00% vs 4.0%
-NPM %: 2.50% vs 0.1%
-
+***CONS***
+- NEGATIVE YProfit : -0.6

@@ -1,39 +1,42 @@
-CODE	NAME
-530711 
+CODES	530711	
+FULLNAME : Jagan Lamps Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
 
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
-PRODUCT DEMAND
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 30.8		44.7		46.8		51.2		49.8		33.3
+SQoQ%: 	33.3		44.9		4.6		9.4		-2.7		66.9
+YOPM%: 	11.7		7.3		9.4		9.5		11.1
+YNPM%: 	6.7		5.3		5.7		5.7		5.7
+YPROFIT: 2.1		2.4		2.7		2.9		2.8		1.5
+PQoQ%: 	22.4		14.9		11.3		10.5		-3.4		53.6
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   23.1   |   30.8   |   44.7   |   46.8   |   51.2   |      37.5    
- SQoQ%:  |   24.9   |   33.3   |   44.9   |   4.6    |   9.4    |      73.2    
- YOPM%:  |   13.0   |   11.7   |   7.3    |   9.4    |   9.5    |              
- YNPM%:  |   7.3    |   6.7    |   5.3    |   5.7    |   5.7    |              
-YPROFIT: |   1.7    |   2.1    |   2.4    |   2.7    |   2.9    |      1.7     
- PQoQ%:  |   75.3   |   22.4   |   14.9   |   11.3   |   10.5   |      58.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   12.2   |   14.1   |   10.5   |   14.9   |   12.1  
- QoQ%:  |  -15.4   |   15.4   |  -25.5   |   41.4   |  -18.5  
- QOPM%: |   7.6    |   12.3   |   8.4    |   8.1    |   11.6  
- QNPM%: |   4.9    |   8.1    |   3.5    |   4.7    |   4.7   
- QPFT:  |   0.6    |   1.1    |   0.4    |   0.7    |   0.6   
- PQoQ%: |  -11.8   |   90.0   |  -67.5   |   89.2   |  -18.6  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 12.1		12.3		9.0		10.9		13.4
+QoQ%: 	-18.5		1.1		-26.8		21.4		22.5
+QOPM%: 	11.6		16.3		10.6		9.6		7.8
+QNPM%: 	4.7		9.8		4.1		4.6		4.2
+QPFT: 	0.6		1.2		0.4		0.5		0.6
+PQoQ%: 	-18.6		110.5		-69.2		35.1		12.0
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 73% YSales
-- Last 3QPROFIT is about 59% of YProfit
+- Last 3QSALES is about 67% YSales
+- Last 3QPROFIT is about 54% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-51.20cr, QoQ 9.40% & YoY 121.65% SALES;
-4.80cr, QoQ 9.80% & YoY 60.00% OPERATING PROFIT;
-2.90cr, QoQ 10.50% & YoY 70.59% NET PROFIT;
-OPM %: 9.50% vs 9.4%
+ 31-Mar-2025 #Result
+49.80cr, QoQ -2.70% & YoY 61.69% SALES;
+5.50cr, QoQ 14.30% & YoY 52.78% OPERATING PROFIT;
+2.80cr, QoQ -3.40% & YoY 33.33% NET PROFIT;
+OPM %: 11.10% vs 9.5%
 NPM %: 5.70% vs 5.7%
 

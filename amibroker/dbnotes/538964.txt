@@ -1,36 +1,44 @@
-CODE	NAME
-538964 
+CODES	538964	
+FULLNAME : Mercury Laboratories Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+BestQ Dec 2025
 
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Formulations
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 68.6		57.9		75.3		75.6		75.1		55.5
+SQoQ%: 	19.8		-15.6		30.1		0.3		-0.6		73.9
+YOPM%: 	14.0		12.1		11.4		12.0		9.3
+YNPM%: 	7.8		6.1		7.4		7.5		4.2
+YPROFIT: 5.3		3.6		5.6		5.6		3.1		3.6
+PQoQ%: 	65.3		-33.3		56.7		1.3		-44.4		116.1
 
-***CONS***
-  YPNL   |  :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+------+----------+----------+----------+----------+----------+--------------
-YSALES:  | 57.3 |   68.6   |   57.9   |   75.3   |   75.6   |   54.5   |              
- SQoQ%:  | 3.2  |   19.8   |  -15.6   |   30.1   |   0.3    |   72.1   |              
- YOPM%:  | 10.8 |   14.0   |   12.1   |   11.4   |   12.0   |          |              
- YNPM%:  | 5.6  |   7.8    |   6.1    |   7.4    |   7.5    |          |              
-YPROFIT: | 3.2  |   5.3    |   3.6    |   5.6    |   5.6    |   2.0    |              
- PQoQ%:  | 13.7 |   65.3   |  -33.3   |   56.7   |   1.3    |   35.7   |              
-  QPNL  |   :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+-------+----------+----------+----------+----------+---------
-QSALES: |  17.1 |   17.4   |   16.7   |   18.2   |   19.6   |         
- QoQ%:  | -24.8 |   1.5    |   -4.0   |   9.1    |   7.6    |         
- QOPM%: |  13.0 |   15.3   |   9.7    |   7.2    |   10.1   |         
- QNPM%: |  7.2  |   11.0   |   2.0    |   2.7    |   6.1    |         
- QPFT:  |  1.2  |   1.9    |   0.3    |   0.5    |   1.2    |         
- PQoQ%: | -17.9 |   54.0   |  -82.2   |   47.1   |  138.0   |         
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 19.6		20.7		18.1		19.0		18.4
+QoQ%: 	7.6		5.6		-12.2		4.8		-3.5
+QOPM%: 	10.1		10.3		13.0		11.2		13.7
+QNPM%: 	6.1		5.4		5.3		8.6		5.4
+QPFT: 	1.2		1.1		1.0		1.6		1.0
+PQoQ%: 	138.0		-6.7		-12.6		69.1		-39.0
+
+
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 72% YSales
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 116% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-75.60cr, QoQ 0.30% & YoY 31.94% SALES;
-9.00cr, QoQ 5.00% & YoY 45.16% OPERATING PROFIT;
-5.60cr, QoQ 1.30% & YoY 75.00% NET PROFIT;
-OPM %: 12.00% vs 11.4%
-NPM %: 7.50% vs 7.4%
+ 31-Mar-2025 #Result
+75.10cr, QoQ -0.60% & YoY 9.48% SALES;
+7.00cr, QoQ -22.30% & YoY -27.08% OPERATING PROFIT;
+3.10cr, QoQ -44.40% & YoY -41.51% NET PROFIT;
+OPM %: 9.30% vs 12.0%
+NPM %: 4.20% vs 7.5%
 

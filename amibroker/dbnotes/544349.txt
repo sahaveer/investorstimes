@@ -1,14 +1,12 @@
-CODE	NAME
-544349 
-
+CODES	544349	
+FULLNAME : H.M. Electro Mech Ltd
 SECTOR : Infrastructure Developers & Operators
 INDUSTRY : Engineering - Turnkey Services
 PRODUCT DEMAND
 LYPD PM 2024
 PROFIT GROWTH BETTER THAN SALES GROWTH 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -18,6 +16,8 @@ ROCE in Mar2024 is at 21.8%
 - LastYr YProfits Doubled and maintained in Mar2024
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2024, Sales have increased by 15.3% while the Profit QoQ_growth is much better than Sales itself at 36.3%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

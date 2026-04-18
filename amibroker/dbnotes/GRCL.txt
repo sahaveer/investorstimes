@@ -1,10 +1,26 @@
-CODES
-GRCL	
-SECTOR : Plantation & Plantation Products
-INDUSTRY : Miscellaneous
+CODES	GRCL	
+FULLNAME : Gayatri Rubbers and Chemicals Ltd
+SECTOR : Industrial Products
+INDUSTRY : Rubber
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 21.7%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  increasing for the last 3yrs
+
+YSALES in Mar-2025 is at 31.9 showing a QoQ_growth of 30.7%. The YNETPROFIT grew by 82.7% to 2.8
+
+***CONS***
+- NO PRODUCT DEMAND
+
+Yearly 
+ 31-Mar-2025 #Result
+31.90cr, QoQ 30.70% SALES;
+4.70cr, QoQ 71.80% OPERATING PROFIT;
+2.80cr, QoQ 82.70% NET PROFIT;
+OPM %: 14.70% vs 11.2%
+NPM %: 8.90% vs 6.4%
+

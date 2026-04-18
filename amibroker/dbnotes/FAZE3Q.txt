@@ -1,35 +1,42 @@
-CODES
-530079	FAZE3Q	
-SECTOR : Textiles
-INDUSTRY : Textiles - Processing
+CODES	530079	FAZE3Q	
+FULLNAME : Faze Three Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  324.4   |  504.5   |  558.2   |  564.5   |  689.9  
- SQoQ%:  |   7.3    |   55.5   |   10.6   |   1.1    |   22.2  
- YOPM%:  |   14.6   |   16.3   |   18.2   |   17.2   |   11.7  
- YNPM%:  |   7.7    |   10.1   |   10.4   |   8.3    |   5.9   
-YPROFIT: |   24.9   |   51.1   |   58.3   |   46.6   |   40.7  
- PQoQ%:  |   37.4   |  104.9   |   14.1   |  -20.1   |  -12.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  164.4   |  149.1   |  152.1   |  178.2   |  210.6  
- QoQ%:  |   18.9   |   -9.3   |   2.0    |   17.1   |   18.2  
- QOPM%: |   11.2   |   11.0   |   11.6   |   12.3   |   11.7  
- QNPM%: |   5.4    |   4.9    |   4.7    |   5.0    |   8.3   
- QPFT:  |   8.9    |   7.3    |   7.1    |   8.9    |   17.4  
- PQoQ%: |  -29.8   |  -18.6   |   -2.2   |   24.9   |   96.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 324.4		504.5		558.2		564.5		689.9		645.9
+SQoQ%: 	7.3		55.5		10.6		1.1		22.2		93.6
+YOPM%: 	14.6		16.3		18.2		17.2		13.0
+YNPM%: 	7.7		10.1		10.4		8.3		5.9
+YPROFIT: 24.9		51.1		58.3		46.6		40.7		14.0
+PQoQ%: 	37.4		104.9		14.1		-20.1		-12.7		34.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 178.2		210.6		212.0		207.0		226.9
+QoQ%: 	17.1		18.2		0.7		-2.4		9.6
+QOPM%: 	12.3		11.7		11.6		2.6		8.2
+QNPM%: 	5.0		8.3		6.0		0.0		2.8
+QPFT: 	8.9		17.4		12.8		-5.2		6.4
+PQoQ%: 	24.9		96.5		-26.7		-140.7		-223.1
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 94% YSales
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 689.90cr, QoQ 22.20% & YoY 112.67% SALES;
-80.40cr, QoQ -17.30% & YoY 69.26% OPERATING PROFIT;
+90.00cr, QoQ -7.60% & YoY 89.47% OPERATING PROFIT;
 40.70cr, QoQ -12.70% & YoY 63.45% NET PROFIT;
-OPM %: 11.70% vs 17.2%
+OPM %: 13.00% vs 17.2%
 NPM %: 5.90% vs 8.3%
 

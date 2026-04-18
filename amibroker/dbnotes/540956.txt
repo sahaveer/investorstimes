@@ -1,42 +1,44 @@
-CODE	NAME
-540956 
-
-SECTOR : Retail
-INDUSTRY : Trading
+CODES	540956	
+FULLNAME : Bhatia Communications & Retail (India) Ltd
+SECTOR : Retailing
+INDUSTRY : Speciality Retail
 PRODUCT DEMAND
-BestQ Dec 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  168.0   |  172.8   |  233.4   |  342.4   |  413.8   |     338.9    
- SQoQ%:  |   1.8    |   2.9    |   35.1   |   46.7   |   20.9   |      81.9    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   3.6    |   4.1    |              
- YNPM%:  |   3.2    |   2.2    |   2.3    |   2.5    |   2.8    |              
-YPROFIT: |   5.4    |   3.7    |   5.3    |   8.5    |   11.5   |      10.9    
- PQoQ%:  |   7.6    |  -30.6   |   40.9   |   61.1   |   35.7   |      94.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  116.8   |   93.9   |  104.8   |  107.3   |  126.8  
- QoQ%:  |   23.8   |  -19.6   |   11.6   |   2.4    |   18.2  
- QOPM%: |   3.5    |   4.7    |   5.0    |   5.0    |   4.2   
- QNPM%: |   2.1    |   3.2    |   3.5    |   3.4    |   2.8   
- QPFT:  |   2.5    |   3.0    |   3.6    |   3.7    |   3.6   
- PQoQ%: |   0.8    |   19.7   |   22.5   |   0.3    |   -2.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 172.8		233.4		342.4		413.8		442.5		421.2
+SQoQ%: 	2.9		35.1		46.7		20.9		6.9		95.2
+YOPM%: 	0.0		0.0		3.6		4.1		4.5
+YNPM%: 	2.2		2.3		2.5		2.8		3.1
+YPROFIT: 3.7		5.3		8.5		11.5		13.8		12.2
+PQoQ%: 	-30.6		40.9		61.1		35.7		20.0		88.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 126.8		103.8		111.5		134.3		175.4
+QoQ%: 	18.2		-18.2		7.5		20.4		30.6
+QOPM%: 	4.2		3.8		5.0		4.2		4.2
+QNPM%: 	2.8		2.8		3.2		2.8		2.8
+QPFT: 	3.6		2.9		3.6		3.7		4.9
+PQoQ%: 	-2.2		-18.2		22.2		4.2		31.6
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 82% YSales
-- Last 3QPROFIT is about 95% of YProfit
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 20.9% while the Profit QoQ_growth is much better than Sales itself at 35.7%
+- Last 3QSALES is about 95% YSales
+- Last 3QPROFIT is about 88% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-413.80cr, QoQ 20.90% & YoY 146.31% SALES;
-16.80cr, QoQ 35.00% & YoY -284.62% OPERATING PROFIT;
-11.50cr, QoQ 35.70% & YoY 112.96% NET PROFIT;
-OPM %: 4.10% vs 3.6%
-NPM %: 2.80% vs 2.5%
+ 31-Mar-2025 #Result
+442.50cr, QoQ 6.90% & YoY 156.08% SALES;
+19.90cr, QoQ 18.20% & YoY -318.68% OPERATING PROFIT;
+13.80cr, QoQ 20.00% & YoY 272.97% NET PROFIT;
+OPM %: 4.50% vs 4.1%
+NPM %: 3.10% vs 2.8%
 

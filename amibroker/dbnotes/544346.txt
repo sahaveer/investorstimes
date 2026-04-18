@@ -1,16 +1,17 @@
-CODE	NAME
-544346 
-
+CODES	544346	
+FULLNAME : RDB Real Estate Construction Ltd
 SECTOR : Realty
 INDUSTRY : Construction
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
 
 Quarterly 
 31-Dec-2024 #Result

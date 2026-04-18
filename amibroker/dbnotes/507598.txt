@@ -1,37 +1,41 @@
-CODE	NAME
-507598 
+CODES	507598	
+FULLNAME : Kovilpatti Lakshmi Roller Flour Mills Ltd
+SECTOR : Food Products
+INDUSTRY : Other Food Products
+BestQ Sep 2025
 
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Sep-2025
+YSALES: 223.9		273.4		405.4		410.9		426.6		203.4
+SQoQ%: 	-2.6		22.1		48.3		1.4		3.8		47.7
+YOPM%: 	6.0		5.4		5.6		5.8		3.5
+YNPM%: 	2.0		2.8		2.5		1.9		0.3
+YPROFIT: 4.5		7.5		10.1		7.8		1.2		4.4
+PQoQ%: 	5.9		67.3		34.1		-22.8		-85.3		366.7
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  230.0   |  223.9   |  273.4   |  405.4   |  410.9   |     318.4    
- SQoQ%:  |   -0.7   |   -2.6   |   22.1   |   48.3   |   1.4    |      77.5    
- YOPM%:  |   5.3    |   6.0    |   5.4    |   5.6    |   5.8    |              
- YNPM%:  |   1.8    |   2.0    |   2.8    |   2.5    |   1.9    |              
-YPROFIT: |   4.2    |   4.5    |   7.5    |   10.1   |   7.8    |      -1.1    
- PQoQ%:  |  -393.1  |   5.9    |   67.3   |   34.1   |  -22.8   |     -14.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  103.6   |   98.2   |  100.8   |  109.0   |  108.6  
- QoQ%:  |   -7.5   |   -5.2   |   2.7    |   8.1    |   -0.4  
- QOPM%: |   5.8    |   4.4    |   0.4    |   2.2    |   5.6   
- QNPM%: |   1.6    |   1.0    |   0.0    |   0.0    |   1.6   
- QPFT:  |   1.7    |   1.0    |   -2.3   |   -0.6   |   1.8   
- PQoQ%: |  -44.6   |  -40.0   |  -325.5  |  -73.5   |  -391.8 
+
+
+***QUARTERLY***
+QPNL: 	Sep-2024	Dec-2024	Mar-2025	Jun-2025	Sep-2025
+QSALES: 109.0		108.6		108.1		99.6		103.8
+QoQ%: 	8.1		-0.4		-0.4		-7.9		4.3
+QOPM%: 	2.2		5.6		5.4		5.4		4.7
+QNPM%: 	0.0		1.6		1.9		3.7		0.7
+QPFT: 	-0.6		1.8		2.1		3.6		0.8
+PQoQ%: 	-73.5		-391.8		16.9		75.0		-79.4
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 77% YSales
+- Last 2QPROFIT is about 367% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-410.90cr, QoQ 1.40% & YoY 78.65% SALES;
-24.00cr, QoQ 4.70% & YoY 95.12% OPERATING PROFIT;
-7.80cr, QoQ -22.80% & YoY 85.71% NET PROFIT;
-OPM %: 5.80% vs 5.6%
-NPM %: 1.90% vs 2.5%
+ 31-Mar-2025 #Result
+426.60cr, QoQ 3.80% & YoY 90.53% SALES;
+14.80cr, QoQ -38.00% & YoY 10.45% OPERATING PROFIT;
+1.20cr, QoQ -85.30% & YoY -73.33% NET PROFIT;
+OPM %: 3.50% vs 5.8%
+NPM %: 0.30% vs 1.9%
 

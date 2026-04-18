@@ -1,26 +1,14 @@
-CODES
-SAIFL	
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
-EXPANSION 2024
-LYPD PM 2024
+CODES	SAIFL	
+FULLNAME : Sameera Agro and Infra Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Other Agricultural Products
 
-***CONS***
-- NO PRODUCT DEMAND
+***YEARLY***
 
+
+***QUARTERLY***
 
 
 ***PROS***
-EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 17.5%
-- LastYr YProfits Doubled and maintained in Mar2024
 
-Yearly 
- 31-Mar-2024 #Result
-182.10cr, QoQ 31.20% SALES;
-14.60cr, QoQ 6.90% OPERATING PROFIT;
-10.70cr, QoQ 6.80% NET PROFIT;
-OPM %: 8.00% vs 9.9%
-NPM %: 5.90% vs 7.2%
-
+***CONS***

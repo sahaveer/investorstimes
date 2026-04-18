@@ -1,40 +1,40 @@
-CODE	NAME
-531779 
+CODES	531779	
+FULLNAME : Padmanabh Alloys & Polymers Ltd
+SECTOR : Industrial Products
+INDUSTRY : Plastic Products - Industrial
 
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
-PRODUCT DEMAND
-LYPD PM 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 29.3		29.0		41.5		42.2		39.0		33.2
+SQoQ%: 	3.6		-1.0		43.1		1.9		-7.6		85.1
+YOPM%: 	2.0		1.7		2.1		2.9		1.9
+YNPM%: 	0.6		0.1		0.6		1.1		0.6
+YPROFIT: 0.2		0.0		0.2		0.5		0.2		-0.2
+PQoQ%: 	-62.5		-83.3		666.7		108.7		-50.0		-100.0
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   28.3   |   29.3   |   29.0   |   41.5   |   42.2   |      29.8    
- SQoQ%:  |  -18.4   |   3.6    |   -1.0   |   43.1   |   1.9    |      70.6    
- YOPM%:  |   3.9    |   2.0    |   1.7    |   2.1    |   2.9    |              
- YNPM%:  |   1.7    |   0.6    |   0.1    |   0.6    |   1.1    |              
-YPROFIT: |   0.5    |   0.2    |   0.0    |   0.2    |   0.5    |      0.0     
- PQoQ%:  |   -2.0   |  -62.5   |  -83.3   |  666.7   |  108.7   |      0.0     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   10.7   |   9.6    |   9.6    |   10.1   |   10.1  
- QoQ%:  |   0.7    |  -10.8   |   0.5    |   5.0    |   0.3   
- QOPM%: |   2.7    |   0.0    |   1.9    |   2.5    |   1.1   
- QNPM%: |   1.3    |   0.0    |   0.0    |   2.2    |   0.0   
- QPFT:  |   0.1    |   -0.2   |   -0.1   |   0.2    |   -0.1  
- PQoQ%: |  -50.0   |  -207.1  |  -13.3   |  -269.2  |  -131.8 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 10.1		9.2		10.3		11.9		11.0
+QoQ%: 	0.3		-8.9		12.0		15.5		-7.6
+QOPM%: 	1.1		2.3		2.2		1.6		0.6
+QNPM%: 	0.0		2.5		0.0		0.6		0.0
+QPFT: 	-0.1		0.2		-0.3		0.1		0.0
+PQoQ%: 	-131.8		-428.6		-217.4		-125.9		-100.0
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 71% YSales
-- LastYr YProfits Doubled and maintained in Mar2024
+- Last 3QSALES is about 85% YSales
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-42.20cr, QoQ 1.90% & YoY 49.12% SALES;
-1.20cr, QoQ 37.50% & YoY 9.09% OPERATING PROFIT;
-0.50cr, QoQ 108.70% & YoY 0.00% NET PROFIT;
-OPM %: 2.90% vs 2.1%
-NPM %: 1.10% vs 0.6%
+ 31-Mar-2025 #Result
+39.00cr, QoQ -7.60% & YoY 33.11% SALES;
+0.70cr, QoQ -39.70% & YoY 16.67% OPERATING PROFIT;
+0.20cr, QoQ -50.00% & YoY 0.00% NET PROFIT;
+OPM %: 1.90% vs 2.9%
+NPM %: 0.60% vs 1.1%
 

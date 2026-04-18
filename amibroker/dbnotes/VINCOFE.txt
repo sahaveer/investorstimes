@@ -1,25 +1,30 @@
-CODES
-538920	VINCOFE	
-SECTOR : Retail
-INDUSTRY : Trading
+CODES	538920	VINCOFE	
+FULLNAME : Vintage Coffee & Beverages Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+BestQ Dec 2025
 YSD YPD 2025
 YSD YPD 2024
 LYPD PM 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 126% YSales
+- Last 3QPROFIT is about 127% of YProfit
 - YProfits and YSales DOUBLED in Mar2025
 - YProfits and YSales DOUBLED in Mar2024
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 135.4% while the Profit QoQ_growth is much better than Sales itself at 235.1%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

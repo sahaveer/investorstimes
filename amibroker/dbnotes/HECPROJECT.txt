@@ -1,42 +1,47 @@
-CODES
-HECPROJECT	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Engineering - Turnkey Services
-PRODUCT DEMAND
-BestQ Dec 2024
-YS15 YPD 2024
+CODES	HECPROJECT	
+FULLNAME : HEC Infra Projects Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
+BestQ Dec 2025
+LYPD PM 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-  YPNL   |   :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+-------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  39.2 |   37.5   |   43.7   |   51.7   |   73.8   |   65.5   |              
- SQoQ%:  | -51.0 |   -4.3   |   16.4   |   18.2   |   42.7   |   88.8   |              
- YOPM%:  |  8.0  |   6.1    |   6.0    |   6.4    |   7.1    |          |              
- YNPM%:  |  1.4  |   0.8    |   1.2    |   1.5    |   6.4    |          |              
-YPROFIT: |  0.5  |   0.3    |   0.5    |   0.8    |   4.7    |   3.4    |              
- PQoQ%:  | -72.3 |  -42.6   |   64.5   |   54.9   |  497.5   |   72.3   |              
-  QPNL  |   :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+-------+----------+----------+----------+----------+---------
-QSALES: |  17.1 |   28.2   |   18.0   |   20.0   |   27.5   |         
- QoQ%:  |  11.9 |   64.9   |  -36.1   |   11.2   |   37.4   |         
- QOPM%: |  7.8  |   6.3    |   6.8    |   5.9    |   9.5    |         
- QNPM%: |  22.1 |   0.9    |   4.7    |   6.1    |   5.2    |         
- QPFT:  |  3.8  |   0.3    |   0.8    |   1.2    |   1.4    |         
- PQoQ%: | 490.6 |  -93.1   |  223.1   |   46.4   |   16.3   |         
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 37.5		43.7		51.7		73.8		112.0		125.8
+SQoQ%: 	-4.3		16.4		18.2		42.7		51.9		112.3
+YOPM%: 	6.1		6.0		6.4		7.1		12.5
+YNPM%: 	0.8		1.2		1.5		6.4		8.2
+YPROFIT: 0.3		0.5		0.8		4.7		9.2		6.4
+PQoQ%: 	-42.6		64.5		54.9		497.5		95.8		69.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 27.5		46.5		27.9		40.5		57.4
+QoQ%: 	37.4		68.8		-40.0		45.1		41.6
+QOPM%: 	9.5		19.2		9.3		8.7		8.5
+QNPM%: 	5.2		12.2		4.8		5.5		5.1
+QPFT: 	1.4		5.7		1.3		2.2		2.9
+PQoQ%: 	16.3		296.5		-76.5		67.7		30.9
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 89% YSales
-- Last 3QPROFIT is about 72% of YProfit
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
-As on Mar2024, Sales have increased by 42.7% while the Profit QoQ_growth is much better than Sales itself at 497.5%
+- Last 3QSALES is about 112% YSales
+- Last 3QPROFIT is about 70% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 51.9% while the Profit QoQ_growth is much better than Sales itself at 95.8%
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-73.80cr, QoQ 42.70% & YoY 88.27% SALES;
-5.30cr, QoQ 59.20% & YoY 70.97% OPERATING PROFIT;
-4.70cr, QoQ 497.50% & YoY 840.00% NET PROFIT;
-OPM %: 7.10% vs 6.4%
-NPM %: 6.40% vs 1.5%
+ 31-Mar-2025 #Result
+112.00cr, QoQ 51.90% & YoY 198.67% SALES;
+14.00cr, QoQ 165.20% & YoY 508.70% OPERATING PROFIT;
+9.20cr, QoQ 95.80% & YoY 2966.67% NET PROFIT;
+OPM %: 12.50% vs 7.1%
+NPM %: 8.20% vs 6.4%
 

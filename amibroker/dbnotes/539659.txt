@@ -1,27 +1,44 @@
-CODE	NAME
-539659 
-
-SECTOR : Hotels & Restaurants
-INDUSTRY : Hotels
+CODES	539659	
+FULLNAME : Vikram Kamats Hospitality Ltd
+SECTOR : Leisure Services
+INDUSTRY : Restaurants
+PRODUCT DEMAND
 YSD YPD 2023
-LYPD PM 2024
 
-***CONS***
+***YEARLY***
+YPNL: 	Mar-2016	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3.9		8.1		25.1		29.1		38.6		38.9
+SQoQ%: 	nan		110.6		209.0		15.7		32.6		100.8
+YOPM%: 	3.1		2.0		7.2		15.1		18.1
+YNPM%: 	11.4		0.0		5.9		5.4		1.6
+YPROFIT: 0.4		-0.0		1.5		1.6		0.6		-1.4
+PQoQ%: 	nan		-104.5		-7450.0		6.1		-61.5		-233.3
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 10.3		11.6		13.0		12.0		13.9
+QoQ%: 	22.5		12.3		11.5		-7.3		16.0
+QOPM%: 	20.1		16.3		21.9		20.9		16.6
+QNPM%: 	2.2		0.9		0.8		0.2		0.0
+QPFT: 	0.2		0.1		0.1		0.0		-1.5
+PQoQ%: 	91.7		-56.5		10.0		-72.7		-5000.0
 
 
 
 ***PROS***
-- Last 3QSALES is about 93% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 101% YSales
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-29.10cr, QoQ 15.70% SALES;
-4.40cr, QoQ 146.70% OPERATING PROFIT;
-1.60cr, QoQ 6.10% NET PROFIT;
-OPM %: 15.30% vs 7.2%
-NPM %: 5.40% vs 5.9%
+ 31-Mar-2025 #Result
+38.60cr, QoQ 32.60% & YoY 889.74% SALES;
+7.00cr, QoQ 59.60% & YoY 6900.00% OPERATING PROFIT;
+0.60cr, QoQ -61.50% & YoY 50.00% NET PROFIT;
+OPM %: 18.10% vs 15.1%
+NPM %: 1.60% vs 5.4%
 

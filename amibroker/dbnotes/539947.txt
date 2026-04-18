@@ -1,28 +1,31 @@
-CODE	NAME
-539947 
-
+CODES	539947	
+FULLNAME : Jindal Leasefin Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Investment Company
 
-***CONS***
-- NEGATIVE YProfit : -0.2
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.3    |   0.3    |   0.0    |   0.0    |   0.0    |      -1.3    
- SQoQ%:  |  179.2   |  -74.6   |  -85.3   |  -80.0   |   0.0    |      -inf    
- YOPM%:  |   85.1   |   58.8   |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   97.0   |   0.0    |  380.0   |   0.0    |   0.0    |              
-YPROFIT: |   1.3    |   -0.0   |   0.2    |   -0.1   |   -0.2   |      -1.1    
- PQoQ%:  |  1344.4  |  -102.3  |  -733.3  |  -152.6  |   60.0   |     550.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   0.1    |   -1.4  
- QoQ%:  |   nan    |   inf    |  100.0   |  450.0   | -1363.6 
- QOPM%: |   0.0    |   0.0    |   0.0    |   90.9   |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.0   |   -0.1   |   -0.0   |   -0.0   |   -1.1  
- PQoQ%: |  -200.0  |  350.0   |  -66.7   |   33.3   |  2575.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.3		0.0		0.0		0.0		-2.9		-0.1
+SQoQ%: 	-74.6		-85.3		-80.0		0.0		-29400.0		3.4
+YOPM%: 	58.8		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		380.0		0.0		0.0		0.0
+YPROFIT: -0.0		0.2		-0.1		-0.2		-2.4		-0.2
+PQoQ%: 	-102.3		-733.3		-152.6		60.0		1387.5		8.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: -1.4		-1.7		0.0		0.1		-0.2
+QoQ%: 	-1363.6		20.1		-100.0		inf		-261.5
+QOPM%: 	0.0		0.0		0.0		69.2		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-1.1		-1.2		-0.0		-0.0		-0.2
+PQoQ%: 	2575.0		15.9		-96.8		-50.0		900.0
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  increasing for the last 3yrs
 
+***CONS***
+- NEGATIVE YProfit : -2.4

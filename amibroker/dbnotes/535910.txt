@@ -1,38 +1,45 @@
-CODE	NAME
-535910 
-
+CODES	535910	
+FULLNAME : Money Masters Leasing & Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+INDUSTRY : Non Banking Financial Company (NBFC)
+BestQ Dec 2025
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   2.4    |   2.2    |   2.2    |   2.3    |   2.1    |      1.5     
- SQoQ%:  |   -8.3   |  -11.1   |   4.2    |   0.9    |   -8.8   |      71.4    
- YOPM%:  |   59.3   |   59.7   |   58.2   |   64.3   |   33.8   |              
- YNPM%:  |   19.8   |   19.4   |   18.7   |   21.6   |   24.6   |              
-YPROFIT: |   0.5    |   0.4    |   0.4    |   0.5    |   0.5    |      0.5     
- PQoQ%:  |   29.7   |  -12.5   |   0.0    |   16.7   |   4.1    |     100.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.3    |   0.8    |   0.5    |   0.7    |   0.3   
- QoQ%:  |  -55.2   |  223.1   |  -40.5   |   48.0   |  -56.8  
- QOPM%: |   19.2   |   36.9   |   32.0   |   33.8   |   25.0  
- QNPM%: |   19.2   |   35.7   |   32.0   |   33.8   |   21.9  
- QPFT:  |   0.0    |   0.3    |   0.2    |   0.2    |   0.1   
- PQoQ%: |  -75.0   |  500.0   |  -46.7   |   56.2   |  -72.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2.2		2.2		2.3		2.1		2.1		1.4
+SQoQ%: 	-11.1		4.2		0.9		-8.8		3.4		66.7
+YOPM%: 	59.7		58.2		64.3		68.6		58.9
+YNPM%: 	19.4		18.7		21.6		24.6		23.8
+YPROFIT: 0.4		0.4		0.5		0.5		0.5		0.5
+PQoQ%: 	-12.5		0.0		16.7		4.1		0.0		100.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.3		0.6		0.3		0.2		0.9
+QoQ%: 	-56.8		78.1		-43.9		-28.1		278.3
+QOPM%: 	25.0		36.8		34.4		0.0		46.0
+QNPM%: 	21.9		36.8		34.4		0.0		46.0
+QPFT: 	0.1		0.2		0.1		-0.0		0.4
+PQoQ%: 	-72.0		200.0		-47.6		-145.5		-900.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 71% YSales
+- Last 3QSALES is about 67% YSales
+- Double QSales and QProfit
 - Last 3QPROFIT is about 100% of YProfit
 
 
+***CONS***
+
 Yearly 
- 31-Mar-2024 #Result
-2.10cr, QoQ -8.80% & YoY -12.50% SALES;
-0.70cr, QoQ -52.10% & YoY -50.00% OPERATING PROFIT;
-0.50cr, QoQ 4.10% & YoY 0.00% NET PROFIT;
-OPM %: 33.80% vs 64.3%
-NPM %: 24.60% vs 21.6%
+ 31-Mar-2025 #Result
+2.10cr, QoQ 3.40% & YoY -4.55% SALES;
+1.30cr, QoQ -11.30% & YoY 0.00% OPERATING PROFIT;
+0.50cr, QoQ 0.00% & YoY 25.00% NET PROFIT;
+OPM %: 58.90% vs 68.6%
+NPM %: 23.80% vs 24.6%
 

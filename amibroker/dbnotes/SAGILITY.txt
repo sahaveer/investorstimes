@@ -1,19 +1,21 @@
-CODES
-544282	SAGILITY	
+CODES	544282	SAGILITY	
+FULLNAME : Sagility India Ltd
 SECTOR : IT - Software
 INDUSTRY : Computers - Software - Medium / Small
 PRODUCT DEMAND
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 
 YSALES in Mar-2025 is at 5569.9 showing a QoQ_growth of 17.2%. The YNETPROFIT grew by 136.2% to 539.1
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

@@ -1,31 +1,39 @@
-CODE	NAME
-530521 
+CODES	530521	
+FULLNAME : Virat Industries Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Garments & Apparels
+BestQ Dec 2025
 
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 19.6		24.7		37.7		32.4		31.6		21.6
+SQoQ%: 	-25.9		26.1		52.8		-14.0		-2.4		68.4
+YOPM%: 	10.7		11.7		8.1		4.8		3.9
+YNPM%: 	4.0		5.5		4.3		2.3		2.8
+YPROFIT: 0.8		1.4		1.6		0.8		0.9		3.9
+PQoQ%: 	-46.6		70.9		20.0		-53.1		18.4		433.3
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   19.6   |   24.7   |   37.7   |   32.4   |   31.6  
- SQoQ%:  |  -25.9   |   26.1   |   52.8   |  -14.0   |   -2.4  
- YOPM%:  |   10.7   |   11.7   |   8.1    |   4.8    |   3.9   
- YNPM%:  |   4.0    |   5.5    |   4.3    |   2.3    |   2.8   
-YPROFIT: |   0.8    |   1.4    |   1.6    |   0.8    |   0.9   
- PQoQ%:  |  -46.6   |   70.9   |   20.0   |  -53.1   |   18.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   5.7    |   6.0    |   11.6   |   6.3    |   7.7   
- QoQ%:  |  -32.3   |   4.5    |   93.5   |  -45.6   |   22.5  
- QOPM%: |   5.2    |   7.5    |   2.1    |   5.2    |   2.7   
- QNPM%: |   1.7    |   3.7    |   3.4    |   1.9    |   2.3   
- QPFT:  |   0.1    |   0.2    |   0.4    |   0.1    |   0.2   
- PQoQ%: |  -141.7  |  120.0   |   77.3   |  -69.2   |   50.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 6.3		7.7		8.6		7.2		5.8
+QoQ%: 	-45.6		22.5		11.4		-15.9		-19.2
+QOPM%: 	5.2		2.7		3.5		10.2		4.8
+QNPM%: 	1.9		2.3		10.2		25.1		20.2
+QPFT: 	0.1		0.2		0.9		1.8		1.2
+PQoQ%: 	-69.2		50.0		388.9		106.8		-35.2
+
+
 
 ***PROS***
 A DEBT-Free Company
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.5
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.6
+- Last 3QSALES is about 68% YSales
+- Last 3QPROFIT is about 433% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

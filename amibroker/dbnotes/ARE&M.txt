@@ -1,37 +1,43 @@
-CODES
-500008	ARE&M	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
-BestQ Dec 2024
+CODES	500008	ARE&M	
+FULLNAME : Amara Raja Energy & Mobility Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  6839.2  |  7149.8  |  8697.2  | 10392.0  | 11708.4  |     9786.2   
- SQoQ%:  |   0.7    |   4.5    |   21.6   |   19.5   |   12.7   |      83.6    
- YOPM%:  |   16.1   |   15.6   |   11.9   |   13.9   |   14.2   |              
- YNPM%:  |   9.7    |   9.0    |   5.9    |   7.0    |   8.0    |              
-YPROFIT: |  660.8   |  646.8   |  512.6   |  730.8   |  934.4   |     783.1    
- PQoQ%:  |   36.7   |   -2.1   |  -20.8   |   42.6   |   27.9   |      83.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  3044.6  |  2907.9  |  3263.0  |  3250.7  |  3272.5 
- QoQ%:  |   2.9    |   -4.5   |   12.2   |   -0.4   |   0.7   
- QOPM%: |   15.0   |   14.1   |   13.4   |   13.3   |   12.4  
- QNPM%: |   8.8    |   7.9    |   7.6    |   7.2    |   9.1   
- QPFT:  |  267.9   |  229.8   |  249.1   |  235.6   |  298.4  
- PQoQ%: |   12.4   |  -14.2   |   8.4    |   -5.4   |   26.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 7149.8		8697.2		10392.0		11708.4		12846.3		10278.3
+SQoQ%: 	4.5		21.6		19.5		12.7		9.7		80.0
+YOPM%: 	15.6		11.9		13.9		14.2		12.6
+YNPM%: 	9.0		5.9		7.0		8.0		7.4
+YPROFIT: 646.8		512.6		730.8		934.4		944.7		581.5
+PQoQ%: 	-2.1		-20.8		42.6		27.9		1.1		61.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3272.5		3060.1		3401.1		3467.0		3410.2
+QoQ%: 	0.7		-6.5		11.1		1.9		-1.6
+QOPM%: 	12.4		11.1		10.7		10.8		11.0
+QNPM%: 	9.1		5.3		4.8		8.0		4.1
+QPFT: 	298.4		161.6		164.8		276.5		140.2
+PQoQ%: 	26.6		-45.8		2.0		67.8		-49.3
+
+
 
 ***PROS***
-A DEBT-Free Company
-- Last 3QSALES is about 84% YSales
-- Last 3QPROFIT is about 84% of YProfit
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 62% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-11708.40cr, QoQ 12.70% & YoY 71.20% SALES;
-1662.50cr, QoQ 14.90% & YoY 51.34% OPERATING PROFIT;
-934.40cr, QoQ 27.90% & YoY 41.40% NET PROFIT;
-OPM %: 14.20% vs 13.9%
-NPM %: 8.00% vs 7.0%
+ 31-Mar-2025 #Result
+12846.30cr, QoQ 9.70% & YoY 79.67% SALES;
+1621.50cr, QoQ -2.50% & YoY 45.22% OPERATING PROFIT;
+944.70cr, QoQ 1.10% & YoY 46.06% NET PROFIT;
+OPM %: 12.60% vs 14.2%
+NPM %: 7.40% vs 8.0%
 

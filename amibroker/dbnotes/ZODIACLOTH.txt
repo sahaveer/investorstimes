@@ -1,26 +1,34 @@
-CODES
-521163	ZODIACLOTH	
-SECTOR : Readymade Garments/ Apparells
-INDUSTRY : Textiles - Products
+CODES	521163	ZODIACLOTH	
+FULLNAME : Zodiac Clothing Company Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Garments & Apparels
+PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -36.4
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  190.8   |  100.1   |  126.6   |  174.8   |  145.8   |     126.4    
- SQoQ%:  |  -11.6   |  -47.5   |   26.5   |   38.0   |  -16.6   |      86.7    
- YOPM%:  |   4.7    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   9.1    |   0.0    |              
-YPROFIT: |  -29.0   |  -29.4   |  -16.4   |   16.0   |  -36.4   |     -34.1    
- PQoQ%:  |   8.1    |   1.4    |  -44.3   |  -197.6  |  -327.6  |      93.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   36.5   |   44.1   |   37.9   |   42.8   |   45.7  
- QoQ%:  |   13.2   |   20.7   |  -14.0   |   13.2   |   6.7   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -2.7   |  -13.6   |   -9.8   |  -14.1   |  -10.2  
- PQoQ%: |  -75.1   |  398.9   |  -28.0   |   44.1   |  -27.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 100.1		126.6		174.8		145.8		174.4		116.9
+SQoQ%: 	-47.5		26.5		38.0		-16.6		19.6		67.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		9.1		0.0		0.0
+YPROFIT: -29.4		-16.4		16.0		-36.4		-37.2		-29.7
+PQoQ%: 	1.4		-44.3		-197.6		-327.6		2.3		79.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 45.7		47.9		39.1		36.5		41.3
+QoQ%: 	6.7		4.8		-18.4		-6.6		13.0
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-10.2		-3.2		-9.3		-11.8		-8.6
+PQoQ%: 	-27.8		-68.7		193.1		26.8		-26.9
+
+
 
 ***PROS***
-- Last 3QSALES is about 87% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 67% YSales
+
+***CONS***
+- NEGATIVE YProfit : -37.2

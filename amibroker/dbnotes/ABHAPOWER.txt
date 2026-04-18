@@ -1,10 +1,11 @@
-CODES
-ABHAPOWER	
+CODES	ABHAPOWER	
+FULLNAME : Abha Power and Steel Ltd
 SECTOR : Castings, Forgings & Fastners
 INDUSTRY : Castings & Forgings
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

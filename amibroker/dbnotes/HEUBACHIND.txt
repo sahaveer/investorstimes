@@ -1,38 +1,45 @@
-CODES
-506390	HEUBACHIND	
-SECTOR : Chemicals
+CODES	506390	HEUBACHIND	
+FULLNAME : Heubach Colorants India Ltd
+SECTOR : Chemicals & Petrochemicals
 INDUSTRY : Dyes And Pigments
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Sep 2025
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  757.3   |  730.8   |  839.5   |  766.4   |  790.7   |     604.8    
- SQoQ%:  |   5.4    |   -3.5   |   14.9   |   -8.7   |   3.2    |      76.5    
- YOPM%:  |   7.9    |   11.6   |   7.3    |   8.0    |   9.1    |              
- YNPM%:  |   6.7    |   30.1   |   5.2    |   2.5    |   5.2    |              
-YPROFIT: |   50.7   |  219.8   |   43.3   |   19.2   |   41.1   |      40.8    
- PQoQ%:  |  173.2   |  333.4   |  -80.3   |  -55.7   |  114.5   |      99.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  176.1   |  204.9   |  173.4   |  218.4   |  213.0  
- QoQ%:  |  -12.1   |   16.4   |  -15.4   |   26.0   |   -2.5  
- QOPM%: |   8.1    |   4.9    |   6.4    |   12.8   |   11.7  
- QNPM%: |   3.6    |   2.9    |   3.0    |   8.4    |   8.1   
- QPFT:  |   6.4    |   5.8    |   5.2    |   18.4   |   17.2  
- PQoQ%: |  -50.4   |   -8.6   |  -11.5   |  256.1   |   -6.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Sep-2025
+YSALES: 730.8		839.5		766.4		790.7		825.1		393.8
+SQoQ%: 	-3.5		14.9		-8.7		3.2		4.3		47.7
+YOPM%: 	11.6		7.3		8.0		9.1		9.9
+YNPM%: 	30.1		5.2		2.5		5.2		6.2
+YPROFIT: 219.8		43.3		19.2		41.1		51.4		33.4
+PQoQ%: 	333.4		-80.3		-55.7		114.5		25.1		65.0
+
+
+
+***QUARTERLY***
+QPNL: 	Sep-2024	Dec-2024	Mar-2025	Jun-2025	Sep-2025
+QSALES: 218.4		213.0		220.3		210.7		183.1
+QoQ%: 	26.0		-2.5		3.4		-4.3		-13.1
+QOPM%: 	12.8		11.7		8.1		11.6		9.7
+QNPM%: 	8.4		8.1		4.8		8.1		8.9
+QPFT: 	18.4		17.2		10.6		17.1		16.3
+PQoQ%: 	256.1		-6.5		-38.2		60.6		-4.7
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 76% YSales
-- Last 3QPROFIT is about 99% of YProfit
+- Last 2QPROFIT is about 65% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-790.70cr, QoQ 3.20% & YoY 4.41% SALES;
-72.10cr, QoQ 17.20% & YoY 20.37% OPERATING PROFIT;
-41.10cr, QoQ 114.50% & YoY -18.93% NET PROFIT;
-OPM %: 9.10% vs 8.0%
-NPM %: 5.20% vs 2.5%
+ 31-Mar-2025 #Result
+825.10cr, QoQ 4.30% & YoY 12.90% SALES;
+81.80cr, QoQ 13.50% & YoY -3.20% OPERATING PROFIT;
+51.40cr, QoQ 25.10% & YoY -76.62% NET PROFIT;
+OPM %: 9.90% vs 9.1%
+NPM %: 6.20% vs 5.2%
 

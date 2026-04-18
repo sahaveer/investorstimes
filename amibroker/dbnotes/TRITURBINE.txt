@@ -1,40 +1,50 @@
-CODES
-533655	TRITURBINE	
-SECTOR : Capital Goods - Electrical Equipment
-INDUSTRY : Electric Equipment
+CODES	533655	TRITURBINE	
+FULLNAME : Triveni Turbine Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Heavy Electrical Equipment
+BestQ Dec 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 696.9		811.4		1083.2		1378.6		1795.2		1407.2
+SQoQ%: 	-13.9		16.4		33.5		27.3		30.2		78.4
+YOPM%: 	20.3		18.1		16.4		18.3		22.9
+YNPM%: 	12.7		30.7		13.4		15.2		20.9
+YPROFIT: 88.7		249.5		144.9		209.0		374.4		257.7
+PQoQ%: 	-19.4		181.2		-41.9		44.3		79.1		68.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 440.6		490.4		344.6		478.6		584.0
+QoQ%: 	-6.0		11.3		-29.7		38.9		22.0
+QOPM%: 	22.5		24.2		22.3		24.8		23.4
+QNPM%: 	27.5		19.1		19.4		20.0		16.3
+QPFT: 	121.3		93.7		67.0		95.5		95.2
+PQoQ%: 	34.8		-22.8		-28.5		42.5		-0.3
+
+
+
+***PROS***
+DEBT-Free Company for the last 3 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 36.1%
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 69% of YProfit
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 30.2% while the Profit QoQ_growth is much better than Sales itself at 79.1%
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  702.6   |  852.2   |  1247.6  |  1653.9  |  2005.8 
- SQoQ%:  |  -14.1   |   21.3   |   46.4   |   32.6   |   21.3  
- YOPM%:  |   21.2   |   18.9   |   18.9   |   19.4   |   21.8  
- YNPM%:  |   14.6   |   31.7   |   15.4   |   16.3   |   17.8  
-YPROFIT: |  102.5   |  270.2   |  192.6   |  269.1   |  357.2  
- PQoQ%:  |  -15.9   |  163.7   |  -28.7   |   39.8   |   32.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  458.1   |  463.3   |  501.1   |  503.4   |  538.0  
- QoQ%:  |   6.1    |   1.1    |   8.2    |   0.5    |   6.9   
- QOPM%: |   19.6   |   20.6   |   22.2   |   21.7   |   22.4  
- QNPM%: |   16.6   |   17.3   |   18.1   |   18.4   |   17.5  
- QPFT:  |   76.0   |   80.0   |   90.9   |   92.4   |   93.9  
- PQoQ%: |   11.4   |   5.3    |   13.6   |   1.7    |   1.6   
-
-***PROS***
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 31.6%
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2025, Sales have increased by 21.3% while the Profit QoQ_growth is much better than Sales itself at 32.7%
 
 Yearly 
  31-Mar-2025 #Result
-2005.80cr, QoQ 21.30% & YoY 185.48% SALES;
-436.70cr, QoQ 35.90% & YoY 192.50% OPERATING PROFIT;
-357.20cr, QoQ 32.70% & YoY 248.49% NET PROFIT;
-OPM %: 21.80% vs 19.4%
-NPM %: 17.80% vs 16.3%
+1795.20cr, QoQ 30.20% & YoY 157.60% SALES;
+411.20cr, QoQ 63.00% & YoY 191.01% OPERATING PROFIT;
+374.40cr, QoQ 79.10% & YoY 322.10% NET PROFIT;
+OPM %: 22.90% vs 18.3%
+NPM %: 20.90% vs 15.2%
 

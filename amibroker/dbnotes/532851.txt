@@ -1,38 +1,42 @@
-CODES
-532851	INSECTICID	
-SECTOR : Agro Chemicals
-INDUSTRY : Pesticides / Agrochemicals - Indian
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	532851	INSECTICID	
+FULLNAME : Insecticides India Ltd
+SECTOR : Fertilizers & Agrochemicals
+INDUSTRY : Pesticides & Agrochemicals
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1363.2  |  1420.2  |  1504.0  |  1801.3  |  1966.4  |     1641.5   
- SQoQ%:  |   14.2   |   4.2    |   5.9    |   19.8   |   9.2    |      83.5    
- YOPM%:  |   11.5   |   10.8   |   11.4   |   6.8    |   8.3    |              
- YNPM%:  |   6.4    |   6.6    |   7.1    |   3.5    |   5.2    |              
-YPROFIT: |   86.9   |   93.9   |  107.4   |   63.2   |  102.4   |     127.9    
- PQoQ%:  |  -29.2   |   8.0    |   14.4   |  -41.2   |   62.0   |     124.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  357.9   |  272.5   |  656.7   |  627.1   |  357.7  
- QoQ%:  |  -48.6   |  -23.9   |  141.0   |   -4.5   |  -43.0  
- QOPM%: |   7.3    |   3.3    |   10.9   |   14.3   |   8.6   
- QNPM%: |   3.4    |   2.8    |   7.5    |   9.8    |   4.9   
- QPFT:  |   12.3   |   7.8    |   49.0   |   61.5   |   17.4  
- PQoQ%: |  -76.8   |  -37.0   |  531.6   |   25.5   |  -71.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1420.2		1504.0		1801.3		1966.4		2000.0		1713.7
+SQoQ%: 	4.2		5.9		19.8		9.2		1.7		85.7
+YOPM%: 	10.8		11.4		6.8		8.3		11.1
+YNPM%: 	6.6		7.1		3.5		5.2		7.1
+YPROFIT: 93.9		107.4		63.2		102.1		142.0		127.7
+PQoQ%: 	8.0		14.4		-41.2		61.5		39.1		89.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 357.7		358.9		691.1		637.7		384.9
+QoQ%: 	-43.0		0.3		92.6		-7.7		-39.6
+QOPM%: 	8.6		7.9		12.2		14.0		7.1
+QNPM%: 	4.9		3.9		8.4		9.3		2.7
+QPFT: 	17.4		13.9		58.1		59.1		10.5
+PQoQ%: 	-71.8		-20.0		318.4		1.7		-82.3
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 83% YSales
-- Last 3QPROFIT is about 125% of YProfit
+- Last 3QSALES is about 86% YSales
+- Last 3QPROFIT is about 90% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1966.40cr, QoQ 9.20% & YoY 44.25% SALES;
-162.60cr, QoQ 33.30% & YoY 4.10% OPERATING PROFIT;
-102.40cr, QoQ 62.00% & YoY 17.84% NET PROFIT;
-OPM %: 8.30% vs 6.8%
-NPM %: 5.20% vs 3.5%
+ 31-Mar-2025 #Result
+2000.00cr, QoQ 1.70% & YoY 40.83% SALES;
+221.20cr, QoQ 36.30% & YoY 44.86% OPERATING PROFIT;
+142.00cr, QoQ 39.10% & YoY 51.22% NET PROFIT;
+OPM %: 11.10% vs 8.3%
+NPM %: 7.10% vs 5.2%
 

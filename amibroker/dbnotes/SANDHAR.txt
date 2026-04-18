@@ -1,28 +1,37 @@
-CODES
-541163	SANDHAR	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
+CODES	541163	SANDHAR	
+FULLNAME : Sandhar Technologies Limited
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1863.6		2323.7		2908.9		3521.1		3884.5		3545.1
+SQoQ%: 	-4.1		24.7		25.2		21.0		10.3		91.3
+YOPM%: 	9.5		8.3		8.5		9.7		9.9
+YNPM%: 	3.1		2.4		2.5		3.1		3.6
+YPROFIT: 57.8		55.7		73.0		109.8		141.6		134.8
+PQoQ%: 	1.5		-3.5		30.9		50.4		29.0		95.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 973.7		1014.1		1090.1		1270.4		1184.6
+QoQ%: 	-1.1		4.1		7.5		16.5		-6.7
+QOPM%: 	9.8		10.2		7.6		9.3		9.1
+QNPM%: 	3.1		4.2		2.6		5.8		2.8
+QPFT: 	30.0		42.6		28.0		73.4		33.4
+PQoQ%: 	-25.2		42.3		-34.3		162.0		-54.4
+
+
+
+***PROS***
+- Last 3QSALES is about 91% YSales
+- Last 3QPROFIT is about 95% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1863.6  |  2323.7  |  2908.9  |  3521.1  |  3884.5 
- SQoQ%:  |   -4.1   |   24.7   |   25.2   |   21.0   |   10.3  
- YOPM%:  |   9.5    |   8.3    |   8.5    |   9.7    |   9.9   
- YNPM%:  |   3.1    |   2.4    |   2.5    |   3.1    |   3.6   
-YPROFIT: |   57.8   |   55.7   |   73.0   |  109.8   |  141.6  
- PQoQ%:  |   1.5    |   -3.5   |   30.9   |   50.4   |   29.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  917.8   |  912.6   |  984.2   |  973.7   |  1014.1 
- QoQ%:  |   3.2    |   -0.6   |   7.8    |   -1.1   |   4.1   
- QOPM%: |   10.7   |   9.4    |   10.0   |   9.8    |   10.2  
- QNPM%: |   3.9    |   3.2    |   4.1    |   3.1    |   4.2   
- QPFT:  |   35.9   |   29.1   |   40.0   |   30.0   |   42.6  
- PQoQ%: |   42.1   |  -19.0   |   37.7   |  -25.2   |   42.3  
-
-***PROS***
 
 Yearly 
  31-Mar-2025 #Result

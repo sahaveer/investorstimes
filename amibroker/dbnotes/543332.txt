@@ -1,34 +1,43 @@
-CODES
-543332	EPIGRAL	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	543332	EPIGRAL	
+FULLNAME : Epigral Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  828.6   |  1550.9  |  2188.4  |  1929.2  |  2550.1 
- SQoQ%:  |   nan    |   87.2   |   41.1   |  -11.8   |   32.2  
- YOPM%:  |   31.5   |   32.9   |   31.5   |   24.9   |   27.9  
- YNPM%:  |   12.2   |   16.3   |   16.1   |   10.2   |   14.0  
-YPROFIT: |  100.8   |  252.8   |  353.3   |  195.9   |  357.7  
- PQoQ%:  |   nan    |  150.7   |   39.8   |  -44.6   |   82.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  524.6   |  651.2   |  626.1   |  645.2   |  627.6  
- QoQ%:  |   11.3   |   24.1   |   -3.9   |   3.1    |   -2.7  
- QOPM%: |   29.6   |   27.1   |   28.5   |   28.3   |   27.6  
- QNPM%: |   14.7   |   13.2   |   13.0   |   16.1   |   13.8  
- QPFT:  |   77.3   |   85.9   |   81.3   |  103.6   |   86.9  
- PQoQ%: |   57.4   |   11.1   |   -5.3   |   27.5   |  -16.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 828.6		1550.9		2188.4		1929.2		2550.1		1791.0
+SQoQ%: 	nan		87.2		41.1		-11.8		32.2		70.2
+YOPM%: 	31.5		32.9		31.5		24.9		27.9
+YNPM%: 	12.2		16.3		16.1		10.2		14.0
+YPROFIT: 100.8		252.8		353.3		195.9		357.7		251.0
+PQoQ%: 	nan		150.7		39.8		-44.6		82.6		70.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 645.2		627.6		606.5		587.4		597.1
+QoQ%: 	3.1		-2.7		-3.4		-3.2		1.7
+QOPM%: 	28.3		27.6		26.9		22.5		17.2
+QNPM%: 	16.1		13.8		26.5		8.7		6.5
+QPFT: 	103.6		86.9		160.7		51.2		39.1
+PQoQ%: 	27.5		-16.2		84.9		-68.1		-23.6
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 16.9%
+- Last 3QSALES is about 70% YSales
+- Last 3QPROFIT is about 70% of YProfit
 
 
 YSALES in Mar-2025 is at 2550.1 showing a QoQ_growth of 32.2%. The YNETPROFIT grew by 82.6% to 357.7
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

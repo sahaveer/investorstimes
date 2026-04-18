@@ -1,39 +1,45 @@
-CODES
-543280	NAZARA	
-SECTOR : Telecomm-Service
-INDUSTRY : Telecommunications - Service Provider
-BestQ Dec 2024
+CODES	543280	NAZARA	
+FULLNAME : Nazara Technologies Ltd
+SECTOR : Entertainment
+INDUSTRY : Digital Entertainment
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 454.2		621.7		1091.0		1138.3		1623.9		1431.3
+SQoQ%: 	83.5		36.9		75.5		4.3		42.7		88.1
+YOPM%: 	8.5		13.8		9.4		8.7		7.1
+YNPM%: 	2.0		4.6		3.6		5.0		4.7
+YPROFIT: 9.2		28.4		39.4		56.6		75.8		48.8
+PQoQ%: 	-531.9		208.7		38.7		43.6		34.0		64.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 534.7		520.2		498.8		526.5		406.0
+QoQ%: 	67.6		-2.7		-4.1		5.6		-22.9
+QOPM%: 	6.9		5.6		4.6		0.0		16.7
+QNPM%: 	5.7		1.2		13.7		0.0		2.4
+QPFT: 	30.7		6.2		68.4		-29.4		9.8
+PQoQ%: 	39.6		-80.0		1011.9		-142.9		-133.5
+
+
+
+***PROS***
+- Last 3QSALES is about 88% YSales
+- Last 3QPROFIT is about 64% of YProfit
+
+YSALES in Mar-2025 is at 1623.9 showing a QoQ_growth of 42.7%. The YNETPROFIT grew by 34.0% to 75.8
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  247.5   |  454.2   |  621.7   |  1091.0  |  1138.3  |     1103.7   
- SQoQ%:  |   45.9   |   83.5   |   36.9   |   75.5   |   4.3    |      97.0    
- YOPM%:  |   0.0    |   8.5    |   13.8   |   9.4    |   8.7    |              
- YNPM%:  |   0.0    |   2.0    |   4.6    |   3.6    |   5.0    |              
-YPROFIT: |   -2.1   |   9.2    |   28.4   |   39.4   |   56.6   |      75.3    
- PQoQ%:  |  -112.2  |  -531.9  |  208.7   |   38.7   |   43.6   |     133.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  320.4   |  266.2   |  250.1   |  318.9   |  534.7  
- QoQ%:  |   7.8    |  -16.9   |   -6.1   |   27.5   |   67.6  
- QOPM%: |   11.3   |   0.6    |   9.7    |   7.5    |   6.9   
- QNPM%: |   8.0    |   3.2    |   9.0    |   6.9    |   5.7   
- QPFT:  |   25.8   |   8.5    |   22.6   |   22.0   |   30.7  
- PQoQ%: |   30.0   |  -66.9   |  165.6   |   -2.9   |   39.6  
-
-***PROS***
-A DEBT-Free Company
-- Last 3QSALES is about 97% YSales
-- Last 3QPROFIT is about 133% of YProfit
-- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 
 Yearly 
- 31-Mar-2024 #Result
-1138.30cr, QoQ 4.30% & YoY 359.92% SALES;
-98.70cr, QoQ -3.70% & YoY -1416.00% OPERATING PROFIT;
-56.60cr, QoQ 43.60% & YoY -2795.24% NET PROFIT;
-OPM %: 8.70% vs 9.4%
-NPM %: 5.00% vs 3.6%
+ 31-Mar-2025 #Result
+1623.90cr, QoQ 42.70% & YoY 257.53% SALES;
+115.20cr, QoQ 16.70% & YoY 196.91% OPERATING PROFIT;
+75.80cr, QoQ 34.00% & YoY 723.91% NET PROFIT;
+OPM %: 7.10% vs 8.7%
+NPM %: 4.70% vs 5.0%
 

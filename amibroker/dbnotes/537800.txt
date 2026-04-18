@@ -1,14 +1,15 @@
-CODE	NAME
-537800 
-
+CODES	537800	
+FULLNAME : Mangalam Industrial Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
-- NEGATIVE YProfit : -0.1
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -0.1

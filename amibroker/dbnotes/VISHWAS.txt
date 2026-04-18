@@ -1,14 +1,15 @@
-CODES
-VISHWAS	
-SECTOR : FMCG
-INDUSTRY : Miscellaneous
+CODES	VISHWAS	
+FULLNAME : Vishwas Agri Seeds Ltd
+SECTOR : Fast Moving Consumer Goods
+INDUSTRY : Fast Moving Consumer Goods
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

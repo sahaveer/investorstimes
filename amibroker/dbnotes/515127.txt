@@ -1,28 +1,33 @@
-CODE	NAME
-515127 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	515127	
+FULLNAME : Ramasigns Industries Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 LYPD PM 2011
 
-***CONS***
- YPNL:   | Mar-2007 | Mar-2008 | Mar-2009 | Mar-2010 | Mar-2011
----------+----------+----------+----------+----------+---------
-YSALES:  |   0.0    |   0.0    |   0.0    |   -0.0   |   0.0   
- SQoQ%:  |   nan    |   nan    |   nan    |   -inf   |  -100.0 
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   inf   
-YPROFIT: |   -0.0   |   -0.0   |   -0.3   |   -0.4   |   0.3   
- PQoQ%:  |  -85.3   |  -60.0   |  1450.0  |   32.3   |  -168.3 
- QPNL:  | Dec-2009 | Mar-2010 | Jun-2010 | Sep-2010 | Mar-2011
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.0    |   0.0    |   4.5    |   0.0   
- QoQ%:  |   nan    |   nan    |   nan    |   inf    |  -100.0 
- QOPM%: |   0.0    |   0.0    |   0.0    |   68.6   |   0.0   
- QNPM%: |   0.0    |   inf    |   0.0    |   68.6   |   0.0   
- QPFT:  |   -0.0   |   1.4    |   -1.0   |   3.1    |   -0.0  
- PQoQ%: |   0.0    | -14500.0 |  -172.9  |  -391.4  |  -101.0 
+***YEARLY***
+YPNL: 	Mar-2007	Mar-2008	Mar-2009	Mar-2010	Mar-2011
+YSALES: 0.0		0.0		0.0		-0.0		0.0
+SQoQ%: 	nan		nan		nan		-inf		-100.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		inf
+YPROFIT: -0.0		-0.0		-0.3		-0.4		0.3
+PQoQ%: 	-85.3		-60.0		1450.0		32.3		-168.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2009	Mar-2010	Jun-2010	Sep-2010	Mar-2011
+QSALES: 0.0		0.0		0.0		4.5		0.0
+QoQ%: 	nan		nan		nan		inf		-100.0
+QOPM%: 	0.0		0.0		0.0		68.6		0.0
+QNPM%: 	0.0		inf		0.0		68.6		0.0
+QPFT: 	-0.0		1.4		-1.0		3.1		-0.0
+PQoQ%: 	0.0		-14500.0		-172.9		-391.4		-101.0
+
+
 
 ***PROS***
 - YProfit Turned POSITIVE this year Mar-2011 : 0.3
 - LastYr YProfits Doubled and maintained in Mar2011
+
+***CONS***

@@ -1,30 +1,34 @@
-CODE	NAME
-531471 
-
-SECTOR : Oil Drill/Allied
-INDUSTRY : Oil Drilling / Allied Services
+CODES	531471	
+FULLNAME : Duke Offshore Ltd
+SECTOR : Oil
+INDUSTRY : Oil Equipment & Services
 PRODUCT DEMAND
-LYPD PM 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   4.3    |   1.7    |   1.5    |   2.8    |   4.1    |      0.1     
- SQoQ%:  |  -53.9   |  -60.8   |  -12.6   |   90.4   |   48.9   |      2.4     
- YOPM%:  |   12.2   |   0.0    |   0.0    |   0.0    |   29.0   |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   30.0   |              
-YPROFIT: |   -2.7   |   -2.0   |   -4.1   |   -0.4   |   1.2    |      -1.6    
- PQoQ%:  |  -571.9  |  -26.8   |  108.6   |  -89.1   |  -375.6  |     -133.3   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.0    |   1.3    |   0.1    |   0.0    |   0.0   
- QoQ%:  |  108.5   |   33.7   |  -94.7   |  -100.0  |   nan   
- QOPM%: |   35.7   |   51.1   |   0.0    |   0.0    |   0.0   
- QNPM%: |   12.2   |   41.2   |   0.0    |   0.0    |   0.0   
- QPFT:  |   0.1    |   0.5    |   -0.2   |   -0.6   |   -0.8  
- PQoQ%: |  -119.4  |  350.0   |  -144.4  |  166.7   |   21.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.7		1.5		2.8		4.1		0.1		0.0
+SQoQ%: 	-60.8		-12.6		90.4		48.9		-98.3		0.0
+YOPM%: 	0.0		0.0		0.0		29.0		0.0
+YNPM%: 	0.0		0.0		0.0		30.0		0.0
+YPROFIT: -2.0		-4.1		-0.4		1.2		-2.2		0.0
+PQoQ%: 	-26.8		108.6		-89.1		-375.6		-277.4		-0.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		inf
+QPFT: 	-0.8		-0.5		-0.4		-0.5		0.9
+PQoQ%: 	21.9		-30.8		-25.9		32.5		-267.9
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- YProfit Turned POSITIVE this year Mar-2024 : 1.2
-- LastYr YProfits Doubled and maintained in Mar2024
+
+
+***CONS***
+- NEGATIVE YProfit : -2.2

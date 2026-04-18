@@ -1,23 +1,24 @@
-CODE	NAME
-542446 
+CODES	542446	
+FULLNAME : Jonjua Overseas Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Consulting Services
 
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
-PRODUCT DEMAND
-
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+A DEBT-Free Company
 
+
+YSALES in Mar-2025 is at 4.8 showing a QoQ_growth of 20.8%. The YNETPROFIT grew by 103.3% to 2.5
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-4.00cr, QoQ 9.70% & YoY 300.00% SALES;
-1.70cr, QoQ 113.70% & YoY 325.00% OPERATING PROFIT;
-1.20cr, QoQ 3.40% & YoY 500.00% NET PROFIT;
-OPM %: 43.30% vs 22.2%
-NPM %: 30.60% vs 32.5%
+ 31-Mar-2025 #Result
+4.80cr, QoQ 20.80% & YoY 152.63% SALES;
+2.10cr, QoQ 21.60% & YoY 162.50% OPERATING PROFIT;
+2.50cr, QoQ 103.30% & YoY 257.14% NET PROFIT;
+OPM %: 43.60% vs 43.3%
+NPM %: 51.60% vs 30.6%
 

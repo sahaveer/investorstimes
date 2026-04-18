@@ -1,12 +1,14 @@
-CODES
-539992	LLOYDSENGG	
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
+CODES	539992	LLOYDSENGG	
+FULLNAME : Lloyds Engineering Works Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

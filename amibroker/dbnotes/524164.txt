@@ -1,20 +1,25 @@
-CODES
-524164	IOLCP	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+CODES	524164	IOLCP	
+FULLNAME : IOL Chemicals & Pharmaceuticals Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 84% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 2079.20cr, QoQ -2.50% SALES;
-202.30cr, QoQ -12.30% OPERATING PROFIT;
+202.50cr, QoQ -12.20% OPERATING PROFIT;
 101.10cr, QoQ -24.80% NET PROFIT;
 OPM %: 9.70% vs 10.8%
 NPM %: 4.90% vs 6.3%

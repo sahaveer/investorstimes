@@ -1,36 +1,45 @@
-CODES
-532827	PAGEIND	
-SECTOR : 
-INDUSTRY : 
+CODES	532827	PAGEIND	
+FULLNAME : Page Industries Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Garments & Apparels
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2833.0  |  3886.5  |  4714.2  |  4581.7  |  4934.9 
- SQoQ%:  |   -3.8   |   37.2   |   21.3   |   -2.8   |   7.7   
- YOPM%:  |   18.6   |   20.3   |   18.3   |   19.0   |   21.5  
- YNPM%:  |   12.0   |   13.8   |   12.1   |   12.4   |   14.8  
-YPROFIT: |  340.6   |  536.5   |  571.2   |  569.2   |  729.1  
- PQoQ%:  |   -0.8   |   57.5   |   6.5    |   -0.4   |   28.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  992.5   |  1277.5  |  1246.3  |  1313.0  |  1098.1 
- QoQ%:  |  -19.0   |   28.7   |   -2.4   |   5.4    |  -16.4  
- QOPM%: |   16.6   |   19.0   |   22.6   |   23.0   |   21.4  
- QNPM%: |   10.9   |   12.9   |   15.7   |   15.6   |   14.9  
- QPFT:  |  108.2   |  165.2   |  195.3   |  204.7   |  164.0  
- PQoQ%: |  -29.0   |   52.7   |   18.2   |   4.8    |  -19.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2833.0		3886.5		4714.2		4569.2		4934.9		3994.3
+SQoQ%: 	-3.8		37.2		21.3		-3.1		8.0		80.9
+YOPM%: 	18.6		20.3		18.3		18.8		21.5
+YNPM%: 	12.0		13.8		12.1		12.5		14.8
+YPROFIT: 340.6		536.5		571.2		569.2		729.1		585.1
+PQoQ%: 	-0.8		57.5		6.5		-0.4		28.1		80.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1313.0		1098.1		1316.6		1290.9		1386.8
+QoQ%: 	5.4		-16.4		19.9		-2.0		7.4
+QOPM%: 	23.0		21.4		22.4		21.7		22.9
+QNPM%: 	15.6		14.9		15.3		15.1		13.7
+QPFT: 	204.7		164.0		200.8		194.8		189.5
+PQoQ%: 	4.8		-19.9		22.4		-3.0		-2.7
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 44.7%
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 80% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
-4934.90cr, QoQ 7.70% & YoY 74.19% SALES;
-1062.60cr, QoQ 21.80% & YoY 101.36% OPERATING PROFIT;
+4934.90cr, QoQ 8.00% & YoY 74.19% SALES;
+1062.60cr, QoQ 23.60% & YoY 101.36% OPERATING PROFIT;
 729.10cr, QoQ 28.10% & YoY 114.06% NET PROFIT;
-OPM %: 21.50% vs 19.0%
-NPM %: 14.80% vs 12.4%
+OPM %: 21.50% vs 18.8%
+NPM %: 14.80% vs 12.5%
 

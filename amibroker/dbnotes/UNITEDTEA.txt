@@ -1,32 +1,38 @@
-CODES
-UNITEDTEA	
+CODES	UNITEDTEA	
+FULLNAME : United Nilgiri Tea Estates Company Ltd
 SECTOR : Plantation & Plantation Products
 INDUSTRY : Tea
 PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   66.3   |   75.7   |   83.6   |   84.0   |   89.8  
- SQoQ%:  |   5.6    |   14.1   |   10.6   |   0.4    |   6.9   
- YOPM%:  |   16.3   |   14.7   |   16.4   |   19.6   |   17.1  
- YNPM%:  |   18.5   |   13.6   |   14.5   |   19.1   |   20.6  
-YPROFIT: |   12.2   |   10.3   |   12.1   |   16.0   |   18.5  
- PQoQ%:  |   14.4   |  -16.0   |   17.8   |   32.4   |   15.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   21.9   |   23.0   |   25.0   |   22.9   |   18.9  
- QoQ%:  |   -7.2   |   4.9    |   8.8    |   -8.2   |  -17.5  
- QOPM%: |   12.6   |   14.2   |   20.5   |   19.0   |   13.9  
- QNPM%: |   13.9   |   16.2   |   25.8   |   19.7   |   20.2  
- QPFT:  |   3.0    |   3.7    |   6.4    |   4.5    |   3.8   
- PQoQ%: |  -28.7   |   22.0   |   73.1   |  -29.8   |  -15.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 	66.3		75.7		83.6		84.0		89.8
+SQoQ%: 	5.6		14.1		10.6		0.4		6.9
+YOPM%: 	16.3		14.7		16.4		19.6		17.1
+YNPM%: 	18.5		13.6		14.5		19.1		20.6
+YPROFIT: 	12.2		10.3		12.1		16.0		18.5
+PQoQ%: 	14.4		-16.0		17.8		32.4		15.3
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2024		Jun-2024	Sep-2024	Dec-2024		Mar-2025
+QSALES: 	21.9		23.0		25.0		22.9		18.9
+QoQ%: 	-7.2		4.9		8.8		-8.2		-17.5
+QOPM%: 	12.6		14.2		20.5		19.0		13.9
+QNPM%: 	13.9		16.2		25.8		19.7		20.2
+QPFT: 	3.0		3.7		6.4		4.5		3.8
+PQoQ%: 	-28.7		22.0		73.1		-29.8		-15.3
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

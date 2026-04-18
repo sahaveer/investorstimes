@@ -1,13 +1,30 @@
-CODE	NAME
-503663 
+CODES	503663	
+FULLNAME : Tilak Ventures Ltd
+SECTOR : Finance
+INDUSTRY : Investment Company
+LYPD PM 2025
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 15.4%
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 58.3% while the Profit QoQ_growth is at 17.4%
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+26.60cr, QoQ 58.30% SALES;
+8.40cr, QoQ 19.10% OPERATING PROFIT;
+6.20cr, QoQ 17.40% NET PROFIT;
+OPM %: 31.60% vs 42.0%
+NPM %: 23.30% vs 31.5%
+

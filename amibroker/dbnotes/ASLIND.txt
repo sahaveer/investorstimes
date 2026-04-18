@@ -1,16 +1,17 @@
-CODES
-ASLIND	
+CODES	ASLIND	
+FULLNAME : ASL Industries Ltd
 SECTOR : Auto Ancillaries
 INDUSTRY : Auto Ancillaries
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
 
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

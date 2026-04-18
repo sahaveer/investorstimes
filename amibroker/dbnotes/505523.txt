@@ -1,45 +1,47 @@
-CODE	NAME
-505523 
-
-SECTOR : Trading
-INDUSTRY : Trading
-BestQ Dec 2024
-BestQ Dec 2024
+CODES	505523	
+FULLNAME : Maharashtra Corporation Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+PRODUCT DEMAND
 YSD YPD 2023
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.0    |   0.4    |   0.0    |   1.1    |   0.8    |      1.4     
- SQoQ%:  |   nan    |   inf    |  -100.0  |   inf    |  -30.4   |     175.0    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   66.1   |   34.6   |              
- YNPM%:  |   0.0    |   2.5    |   0.0    |   64.3   |   19.2   |              
-YPROFIT: |   -0.1   |   0.0    |   -0.7   |   0.7    |   0.2    |      0.9     
- PQoQ%:  |  -22.2   |  -114.3  | -6700.0  |  -209.1  |  -79.2   |     450.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.6    |   0.2    |   0.6    |   0.2    |   0.6   
- QoQ%:  |   inf    |  -58.2   |  182.6   |  -61.5   |  160.0  
- QOPM%: |   94.5   |   60.9   |   83.1   |   0.0    |   66.2  
- QNPM%: |   89.1   |   13.0   |   78.5   |   0.0    |   61.5  
- QPFT:  |   0.5    |   0.0    |   0.5    |   -0.0   |   0.4   
- PQoQ%: |  -712.5  |  -93.9   |  1600.0  |  -109.8  |  -900.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.4		0.0		1.1		0.8		1.6		0.0
+SQoQ%: 	inf		-100.0		inf		-30.4		98.7		0.0
+YOPM%: 	0.0		0.0		66.1		34.6		20.0
+YNPM%: 	2.5		0.0		64.3		19.2		7.1
+YPROFIT: 0.0		-0.7		0.7		0.2		0.1		-0.3
+PQoQ%: 	-114.3		-6700.0		-209.1		-79.2		-26.7		-300.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.6		0.0		0.0		0.0		0.0
+QoQ%: 	160.0		-100.0		nan		inf		-100.0
+QOPM%: 	66.2		0.0		0.0		40.0		0.0
+QNPM%: 	61.5		0.0		0.0		0.0		0.0
+QPFT: 	0.4		-0.8		-0.3		-0.0		-0.0
+PQoQ%: 	-900.0		-290.0		-60.5		-96.7		300.0
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 175% YSales
-- Double QSales and QProfit
-- Last 3QPROFIT is about 450% of YProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+A DEBT-Free Company
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at -0.3
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2023
 
 
+***CONS***
+
 Yearly 
- 31-Mar-2024 #Result
-0.80cr, QoQ -30.40% & YoY inf% SALES;
-0.30cr, QoQ -63.50% & YoY -400.00% OPERATING PROFIT;
-0.20cr, QoQ -79.20% & YoY -300.00% NET PROFIT;
-OPM %: 34.60% vs 66.1%
-NPM %: 19.20% vs 64.3%
+ 31-Mar-2025 #Result
+1.60cr, QoQ 98.70% & YoY 300.00% SALES;
+0.30cr, QoQ 14.80% & YoY -inf% OPERATING PROFIT;
+0.10cr, QoQ -26.70% & YoY inf% NET PROFIT;
+OPM %: 20.00% vs 34.6%
+NPM %: 7.10% vs 19.2%
 

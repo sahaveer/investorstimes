@@ -1,27 +1,33 @@
-CODES
-532934	PPAP	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
-PRODUCT DEMAND
+CODES	532934	PPAP	
+FULLNAME : PPAP Automotive Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  322.2   |  421.8   |  511.1   |  522.8   |  554.0  
- SQoQ%:  |  -10.4   |   30.9   |   21.2   |   2.3    |   6.0   
- YOPM%:  |   9.9    |   8.4    |   7.2    |   7.5    |   10.3  
- YNPM%:  |   0.7    |   0.0    |   0.0    |   0.0    |   1.3   
-YPROFIT: |   2.1    |   -0.8   |   -5.9   |  -13.0   |   7.0   
- PQoQ%:  |  -88.5   |  -137.6  |  651.9   |  119.5   |  -153.7 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  135.7   |  122.7   |  144.9   |  139.2   |  147.2  
- QoQ%:  |   10.9   |   -9.6   |   18.1   |   -3.9   |   5.7   
- QOPM%: |   8.3    |   9.6    |   11.2   |   10.0   |   10.2  
- QNPM%: |   0.0    |   0.1    |   2.0    |   1.2    |   1.6   
- QPFT:  |   -8.2   |   0.1    |   2.9    |   1.6    |   2.4   
- PQoQ%: |  205.6   |  -101.2  |  2760.0  |  -43.4   |   49.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 322.2		421.8		511.1		522.8		554.0		392.5
+SQoQ%: 	-10.4		30.9		21.2		2.3		6.0		70.8
+YOPM%: 	9.9		8.4		7.2		7.5		10.4
+YNPM%: 	0.7		0.0		0.0		0.0		1.3
+YPROFIT: 2.1		-0.8		-5.9		-13.0		7.0		-2.2
+PQoQ%: 	-88.5		-137.6		651.9		119.5		-153.7		-31.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 139.2		147.2		116.6		137.0		138.9
+QoQ%: 	-3.9		5.7		-20.8		17.4		1.4
+QOPM%: 	10.0		10.2		8.0		9.3		9.0
+QNPM%: 	1.2		1.6		0.0		0.0		0.1
+QPFT: 	1.6		2.4		-2.3		-0.0		0.1
+PQoQ%: 	-43.4		49.4		-193.8		-97.8		-240.0
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 71% YSales
 - YProfit Turned POSITIVE this year Mar-2025 : 7.0
+
+***CONS***
+- NO PRODUCT DEMAND

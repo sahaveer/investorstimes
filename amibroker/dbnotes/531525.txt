@@ -1,44 +1,49 @@
-CODE	NAME
-531525 
-
+CODES	531525	
+FULLNAME : Ace Software Exports Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
-BestQ Dec 2024
+INDUSTRY : Software Products
+BestQ Dec 2025
 YSD YPD 2024
-LYPD PM 2024
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   9.1    |   8.8    |   9.8    |   10.3   |   23.7   |      17.9    
- SQoQ%:  |   14.3   |   -3.2   |   10.5   |   5.5    |  129.8   |      75.5    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   4.3    |   2.7    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   1.5    |   20.9   |              
-YPROFIT: |   -1.7   |   -0.6   |   -0.5   |   0.2    |   5.0    |      2.8     
- PQoQ%:  | -4375.0  |  -64.3   |  -11.5   |  -127.8  |  3200.0  |      56.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   2.1    |   17.8   |   5.3    |   5.8    |   6.8   
- QoQ%:  |   5.6    |  749.3   |  -70.1   |   10.2   |   16.4  
- QOPM%: |   0.0    |   6.0    |   19.4   |   24.4   |   22.3  
- QNPM%: |  134.4   |   8.0    |   13.6   |   14.9   |   18.2  
- QPFT:  |   2.8    |   1.4    |   0.7    |   0.9    |   1.2   
- PQoQ%: |  186.7   |  -49.5   |  -49.3   |   20.8   |   42.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 8.8		9.8		10.3		23.7		31.6		42.1
+SQoQ%: 	-3.2		10.5		5.5		129.8		33.0		133.2
+YOPM%: 	0.0		0.0		4.3		2.7		20.4
+YNPM%: 	0.0		0.0		1.5		20.9		16.1
+YPROFIT: -0.6		-0.5		0.2		5.0		5.1		4.7
+PQoQ%: 	-64.3		-11.5		-127.8		3200.0		2.8		92.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 6.8		13.7		13.2		14.0		14.9
+QoQ%: 	16.4		100.9		-3.1		5.7		6.3
+QOPM%: 	22.3		17.3		11.5		13.6		11.8
+QNPM%: 	18.2		16.6		9.4		13.0		11.7
+QPFT: 	1.2		2.3		1.2		1.8		1.7
+PQoQ%: 	42.5		83.1		-44.9		45.6		-4.4
+
+
 
 ***PROS***
-- Last 3QSALES is about 76% YSales
-- Last 3QPROFIT is about 56% of YProfit
-- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- Last 3QSALES is about 133% YSales
+- Last 3QPROFIT is about 92% of YProfit
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2024
-- LastYr YProfits Doubled and maintained in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
+- YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
 
-YSALES in Mar-2024 is at 23.7 showing a QoQ_growth of 129.8%. The YNETPROFIT grew by 3200.0% to 5.0
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-23.70cr, QoQ 129.80% & YoY 160.44% SALES;
-0.60cr, QoQ 45.50% & YoY -120.00% OPERATING PROFIT;
-5.00cr, QoQ 3200.00% & YoY -394.12% NET PROFIT;
-OPM %: 2.70% vs 4.3%
-NPM %: 20.90% vs 1.5%
+ 31-Mar-2025 #Result
+31.60cr, QoQ 33.00% & YoY 259.09% SALES;
+6.40cr, QoQ 906.20% & YoY -1014.29% OPERATING PROFIT;
+5.10cr, QoQ 2.80% & YoY -950.00% NET PROFIT;
+OPM %: 20.40% vs 2.7%
+NPM %: 16.10% vs 20.9%
 

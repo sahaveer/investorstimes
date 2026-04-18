@@ -1,41 +1,49 @@
-CODE	NAME
-512589 
-
-SECTOR : Finance
-INDUSTRY : Finance & Investments
+CODES	512589	
+FULLNAME : Sita Enterprises Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+BestQ Dec 2025
 YSD YPD 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   1.2    |   0.6    |   1.0    |   0.7    |   3.2    |      0.8     
- SQoQ%:  |  351.9   |  -50.8   |   71.7   |  -34.0   |  366.2   |      25.0    
- YOPM%:  |   48.4   |   55.0   |   63.1   |   67.6   |   93.4   |              
- YNPM%:  |   45.9   |   46.7   |   58.3   |   63.2   |   89.0   |              
-YPROFIT: |   0.6    |   0.3    |   0.6    |   0.4    |   2.8    |      0.5     
- PQoQ%:  |  522.2   |  -50.0   |  114.3   |  -28.3   |  555.8   |      17.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.7    |   0.5    |   1.3    |   0.3    |   -0.8  
- QoQ%:  |  -45.0   |  -28.2   |  162.7   |  -76.9   |  -348.4 
- QOPM%: |   93.0   |   92.2   |   94.0   |   80.6   |   0.0   
- QNPM%: |   85.9   |   84.3   |   83.6   |   64.5   |   0.0   
- QPFT:  |   0.6    |   0.4    |   1.1    |   0.2    |   -0.8  
- PQoQ%: |  -49.2   |  -29.5   |  160.5   |  -82.1   |  -505.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.6		1.0		0.7		3.2		1.5		5.4
+SQoQ%: 	-50.8		71.7		-34.0		366.2		-52.7		360.0
+YOPM%: 	55.0		63.1		67.6		93.4		82.7
+YNPM%: 	46.7		58.3		63.2		89.0		74.7
+YPROFIT: 0.3		0.6		0.4		2.8		1.1		4.7
+PQoQ%: 	-50.0		114.3		-28.3		555.8		-60.3		427.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: -0.8		0.6		2.1		2.6		0.7
+QoQ%: 	-348.4		-180.5		245.2		22.9		-74.1
+QOPM%: 	0.0		90.3		95.3		98.1		92.6
+QNPM%: 	0.0		100.0		92.5		82.9		69.1
+QPFT: 	-0.8		0.6		2.0		2.2		0.5
+PQoQ%: 	-505.0		-176.5		219.4		10.1		-78.4
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 20.7%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 360% YSales
+- Last 3QPROFIT is about 427% of YProfit
 - YProfits and YSales DOUBLED in Mar2024
 
 
-YSALES in Mar-2024 is at 3.2 showing a QoQ_growth of 366.2%. The YNETPROFIT grew by 555.8% to 2.8
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-3.20cr, QoQ 366.20% & YoY 166.67% SALES;
-3.00cr, QoQ 543.50% & YoY 400.00% OPERATING PROFIT;
-2.80cr, QoQ 555.80% & YoY 366.67% NET PROFIT;
-OPM %: 93.40% vs 67.6%
-NPM %: 89.00% vs 63.2%
+ 31-Mar-2025 #Result
+1.50cr, QoQ -52.70% & YoY 150.00% SALES;
+1.20cr, QoQ -58.10% & YoY 300.00% OPERATING PROFIT;
+1.10cr, QoQ -60.30% & YoY 266.67% NET PROFIT;
+OPM %: 82.70% vs 93.4%
+NPM %: 74.70% vs 89.0%
 

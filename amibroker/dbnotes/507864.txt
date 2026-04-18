@@ -1,41 +1,44 @@
-CODE	NAME
-507864 
-
+CODES	507864	
+FULLNAME : Pioneer Investcorp Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Other Financial Services
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   42.8   |   31.1   |   36.0   |   32.3   |   41.0   |      26.3    
- SQoQ%:  |   13.5   |  -27.4   |   15.9   |  -10.2   |   26.8   |      64.1    
- YOPM%:  |   39.1   |   39.8   |   43.7   |   34.2   |   40.4   |              
- YNPM%:  |   7.3    |   2.8    |   10.4   |   6.4    |   9.9    |              
-YPROFIT: |   3.1    |   0.9    |   3.7    |   2.1    |   4.1    |      5.1     
- PQoQ%:  |   61.1   |  -71.7   |  323.9   |  -44.8   |   97.6   |     124.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   8.4    |   11.4   |   8.6    |   8.0    |   9.7   
- QoQ%:  |   14.9   |   35.8   |  -24.5   |   -7.4   |   20.8  
- QOPM%: |   35.1   |   24.6   |   41.0   |   11.8   |   42.3  
- QNPM%: |   3.6    |   29.2   |   38.1   |   3.5    |   15.4  
- QPFT:  |   0.3    |   3.3    |   3.3    |   0.3    |   1.5   
- PQoQ%: |  172.7   |  1013.3  |   -1.5   |  -91.5   |  432.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 31.1		36.0		32.3		41.0		46.6		42.8
+SQoQ%: 	-27.4		15.9		-10.2		26.8		13.7		91.8
+YOPM%: 	39.8		43.7		34.2		40.4		48.7
+YNPM%: 	2.8		10.4		6.4		9.9		16.9
+YPROFIT: 0.9		3.7		2.1		4.1		7.9		14.2
+PQoQ%: 	-71.7		323.9		-44.8		97.6		93.9		179.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 9.7		9.9		15.3		15.6		11.9
+QoQ%: 	20.8		2.6		54.5		1.7		-23.4
+QOPM%: 	42.3		19.7		44.9		50.4		61.5
+QNPM%: 	15.4		28.7		23.6		31.1		48.3
+QPFT: 	1.5		2.8		3.6		4.8		5.8
+PQoQ%: 	432.1		90.6		27.1		34.3		18.8
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 64% YSales
-- Last 3QPROFIT is about 124% of YProfit
+- Last 3QSALES is about 92% YSales
+- Last 3QPROFIT is about 180% of YProfit
 
-YSALES in Mar-2024 is at 41.0 showing a QoQ_growth of 26.8%. The YNETPROFIT grew by 97.6% to 4.1
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-41.00cr, QoQ 26.80% & YoY -4.21% SALES;
-16.60cr, QoQ 49.80% & YoY -0.60% OPERATING PROFIT;
-4.10cr, QoQ 97.60% & YoY 32.26% NET PROFIT;
-OPM %: 40.40% vs 34.2%
-NPM %: 9.90% vs 6.4%
+ 31-Mar-2025 #Result
+46.60cr, QoQ 13.70% & YoY 49.84% SALES;
+22.70cr, QoQ 37.10% & YoY 83.06% OPERATING PROFIT;
+7.90cr, QoQ 93.90% & YoY 777.78% NET PROFIT;
+OPM %: 48.70% vs 40.4%
+NPM %: 16.90% vs 9.9%
 

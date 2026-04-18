@@ -1,12 +1,11 @@
-CODES
-GCHOTELS	
+CODES	GCHOTELS	
+FULLNAME : Grand Continent Hotels Ltd
 SECTOR : Hotels & Restaurants
 INDUSTRY : Hotels
 YSD YPD 2023
 LYPD PM 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,6 +16,8 @@ ROCE in Mar2024 is at 16.2%
 - LastYr YProfits Doubled and maintained in Mar2024
 
 YSALES in Mar-2024 is at 22.9 showing a QoQ_growth of 51.7%. The YNETPROFIT grew by 215.8% to 5.8
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

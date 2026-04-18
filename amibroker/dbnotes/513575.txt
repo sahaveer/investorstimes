@@ -1,32 +1,45 @@
-CODE	NAME
-513575 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	513575	
+FULLNAME : Sterling Powergensys Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 PRODUCT DEMAND
 YSD YPD 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   11.2   |   0.4    |   0.3    |   0.3    |   6.9    |      11.8    
- SQoQ%:  |  1016.0  |  -96.7   |  -16.2   |   6.5    |  1984.8  |     171.0    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   32.3   |   0.0    |   41.3   |              
-YPROFIT: |   -0.5   |   -1.1   |   0.1    |   -0.7   |   2.8    |      -0.1    
- PQoQ%:  |  -24.6   |  111.5   |  -109.1  |  -810.0  |  -500.0  |      -3.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.1    |   6.4    |   10.7   |   0.3    |   0.8   
- QoQ%:  |   -8.3   |  5727.3  |   66.6   |  -96.9   |  142.4  
- QOPM%: |  127.3   |   0.0    |   0.2    |   0.0    |   0.0   
- QNPM%: |  1627.3  |   19.7   |   0.2    |   3.0    |   0.0   
- QPFT:  |   1.8    |   1.3    |   0.0    |   0.0    |   -0.1  
- PQoQ%: | -1218.8  |  -29.6   |  -98.4   |  -50.0   | -1000.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Sep-2025
+YSALES: 0.4		0.3		0.3		6.9		12.6		1.6
+SQoQ%: 	-96.7		-16.2		6.5		1984.8		83.1		12.7
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		32.3		0.0		41.3		1.5
+YPROFIT: -1.1		0.1		-0.7		2.8		0.2		-0.4
+PQoQ%: 	111.5		-109.1		-810.0		-500.0		-93.3		-200.0
+
+
+
+***QUARTERLY***
+QPNL: 	Sep-2024	Dec-2024	Mar-2025	Jun-2025	Sep-2025
+QSALES: 0.3		0.8		0.8		0.8		0.8
+QoQ%: 	-96.9		142.4		0.0		-1.2		5.1
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	3.0		0.0		0.0		0.0		0.0
+QPFT: 	0.0		-0.1		-0.3		-0.2		-0.2
+PQoQ%: 	-50.0		-1000.0		211.1		-35.7		11.1
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 171% YSales
-- YProfit Turned POSITIVE this year Mar-2024 : 2.8
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2024
+
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+12.60cr, QoQ 83.10% & YoY 3050.00% SALES;
+-0.90cr, QoQ 76.90% & YoY 200.00% OPERATING PROFIT;
+0.20cr, QoQ -93.30% & YoY -118.18% NET PROFIT;
+OPM %: 0.00% vs 0.0%
+NPM %: 1.50% vs 41.3%
 

@@ -1,27 +1,34 @@
-CODE	NAME
-526853 
+CODES	526853	
+FULLNAME : Bilcare Ltd
+SECTOR : Healthcare Services
+INDUSTRY : Healthcare Research, Analytics & Technology
+PRODUCT DEMAND
 
-SECTOR : Packaging
-INDUSTRY : Packaging
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 622.7		844.7		981.6		747.2		788.0		545.9
+SQoQ%: 	-65.9		35.6		16.2		-23.9		5.5		69.3
+YOPM%: 	8.2		7.2		5.8		5.3		5.7
+YNPM%: 	0.0		0.0		1.5		0.0		0.0
+YPROFIT: -21.1		-12.6		15.0		-33.2		-28.8		-22.2
+PQoQ%: 	-79.6		-40.3		-219.5		-320.9		-13.4		77.1
 
-***CONS***
-- NEGATIVE YProfit : -33.2
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1827.0  |  622.7   |  844.7   |  981.6   |  747.2   |     593.9    
- SQoQ%:  |  -39.0   |  -65.9   |   35.6   |   16.2   |  -23.9   |      79.5    
- YOPM%:  |   2.5    |   8.2    |   7.2    |   5.8    |   5.3    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   1.5    |   0.0    |              
-YPROFIT: |  -103.5  |  -21.1   |  -12.6   |   15.0   |  -33.2   |     -29.6    
- PQoQ%:  |  -77.3   |  -79.6   |  -40.3   |  -219.5  |  -320.9  |      89.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  174.9   |  200.1   |  194.1   |  201.7   |  198.1  
- QoQ%:  |   -7.9   |   14.4   |   -3.0   |   3.9    |   -1.8  
- QOPM%: |   9.9    |   0.0    |   9.8    |   3.8    |   5.4   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -6.8   |  -10.9   |   -6.4   |  -16.0   |   -7.2  
- PQoQ%: |   -9.7   |   59.0   |  -41.3   |  150.9   |  -55.3  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 198.1		194.0		186.4		178.2		181.3
+QoQ%: 	-1.8		-2.1		-4.0		-4.4		1.8
+QOPM%: 	5.4		3.8		5.9		1.9		7.2
+QNPM%: 	0.0		5.4		0.0		0.0		0.0
+QPFT: 	-7.2		10.6		-3.8		-12.4		-6.0
+PQoQ%: 	-55.3		-247.5		-136.0		225.3		-51.9
+
+
 
 ***PROS***
-- Last 3QSALES is about 79% YSales
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 69% YSales
+
+***CONS***
+- NEGATIVE YProfit : -28.8

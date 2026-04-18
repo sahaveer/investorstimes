@@ -1,12 +1,14 @@
-CODES
-526650	TFCILTD	
+CODES	526650	TFCILTD	
+FULLNAME : Tourism Finance Corporation of India Ltd
 SECTOR : Finance
-INDUSTRY : Finance - Term-Lending Institutions
+INDUSTRY : Financial Institution
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

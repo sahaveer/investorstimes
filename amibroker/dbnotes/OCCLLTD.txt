@@ -1,13 +1,15 @@
-CODES
-544278	OCCLLTD	
+CODES	544278	OCCLLTD	
+FULLNAME : OCCL Ltd
 SECTOR : 
 INDUSTRY : 
 
-***CONS***
-- NEGATIVE YProfit : -0.1
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -0.1

@@ -1,26 +1,35 @@
-CODES
-532392	CREATIVEYE	
-SECTOR : 
-INDUSTRY : 
+CODES	532392	CREATIVEYE	
+FULLNAME : Creative Eye Ltd
+SECTOR : Entertainment
+INDUSTRY : Media & Entertainment
+PRODUCT DEMAND
+YSD YPD 2025
 
-***CONS***
-- NEGATIVE YProfit : -2.6
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   18.1   |   6.1    |   3.1    |   2.0    |   0.5    |      1.4     
- SQoQ%:  |  -37.4   |  -66.2   |  -49.8   |  -36.4   |  -76.0   |     280.0    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   -4.5   |   -0.3   |   -0.9   |   -0.4   |   -2.6   |      -0.9    
- PQoQ%:  |   -9.5   |  -94.0   |  248.1   |  -60.6   |  600.0   |      34.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.0    |   0.2    |   0.2    |   1.2    |   0.0   
- QoQ%:  |   nan    |   inf    |   0.0    |  681.2   |  -100.0 
- QOPM%: |   0.0    |   0.0    |   0.0    |   24.8   |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   36.8   |   0.0   
- QPFT:  |   -0.6   |   -0.5   |   -0.6   |   0.5    |   -0.8  
- PQoQ%: |   -5.8   |  -16.9   |   13.0   |  -175.4  |  -273.9 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 6.1		3.1		2.0		0.5		2.6		0.0
+SQoQ%: 	-66.2		-49.8		-36.4		-76.0		455.3		0.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -0.3		-0.9		-0.4		-2.6		-0.7		-5.0
+PQoQ%: 	-94.0		248.1		-60.6		600.0		-72.2		714.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		1.2		0.0		0.0		0.0
+QoQ%: 	-100.0		inf		-100.0		nan		nan
+QOPM%: 	0.0		24.2		0.0		0.0		0.0
+QNPM%: 	0.0		19.2		0.0		0.0		0.0
+QPFT: 	-0.8		0.2		-0.7		-0.6		-3.7
+PQoQ%: 	-273.9		-128.8		-408.7		-8.5		466.2
+
+
 
 ***PROS***
-- Last 3QSALES is about 280% YSales
+- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -0.7

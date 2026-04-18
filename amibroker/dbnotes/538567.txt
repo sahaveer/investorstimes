@@ -1,19 +1,24 @@
-CODES
-538567	GULFOILLUB	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	538567	GULFOILLUB	
+FULLNAME : Gulf Oil Lubricants India Ltd
+SECTOR : Petroleum Products
+INDUSTRY : Lubricants
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 16.0%
+ROCE in Mar2025 is at 16.2%
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 72% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

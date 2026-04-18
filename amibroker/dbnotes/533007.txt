@@ -1,30 +1,36 @@
-CODE	NAME
-533007 
-
-SECTOR : Castings, Forgings & Fastners
-INDUSTRY : Castings & Forgings
+CODES	533007	
+FULLNAME : LGB Forge Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
 PRODUCT DEMAND
 LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -1.2
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   92.1   |  130.1   |   91.5   |   89.4   |   94.0  
- SQoQ%:  |   -8.9   |   41.2   |  -29.6   |   -2.3   |   5.2   
- YOPM%:  |   10.3   |   7.6    |   0.0    |   0.1    |   1.4   
- YNPM%:  |   3.7    |   2.6    |   0.0    |   0.0    |   0.0   
-YPROFIT: |   3.4    |   3.4    |   -9.3   |   -9.9   |   -1.2  
- PQoQ%:  |  -635.9  |   0.3    |  -370.3  |   6.1    |  -87.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   19.8   |   22.5   |   23.4   |   24.2   |   23.9  
- QoQ%:  |  -13.8   |   13.7   |   3.8    |   3.5    |   -1.1  
- QOPM%: |   0.0    |   0.0    |   1.5    |   2.3    |   3.5   
- QNPM%: |   0.0    |   2.1    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -3.2   |   0.5    |   -0.9   |   -0.4   |   -0.4  
- PQoQ%: |   44.4   |  -114.9  |  -283.3  |  -51.1   |   -7.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 92.1		130.1		91.5		89.4		94.0		77.4
+SQoQ%: 	-8.9		41.2		-29.6		-2.3		5.2		82.3
+YOPM%: 	10.3		7.6		0.0		0.1		1.6
+YNPM%: 	3.7		2.6		0.0		0.0		0.0
+YPROFIT: 3.4		3.4		-9.3		-9.9		-1.2		-1.7
+PQoQ%: 	-635.9		0.3		-370.3		6.1		-87.6		141.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 24.2		23.9		27.6		26.0		23.8
+QoQ%: 	3.5		-1.1		15.5		-5.8		-8.4
+QOPM%: 	2.3		3.5		6.0		1.7		1.2
+QNPM%: 	0.0		0.0		3.2		0.0		0.0
+QPFT: 	-0.4		-0.4		0.9		-0.7		-1.9
+PQoQ%: 	-51.1		-7.0		-320.0		-183.0		154.8
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 82% YSales
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -1.2

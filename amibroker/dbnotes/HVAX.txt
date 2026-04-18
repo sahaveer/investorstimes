@@ -1,15 +1,16 @@
-CODES
-HVAX	
+CODES	HVAX	
+FULLNAME : HVAX Technologies Ltd
 SECTOR : Engineering
 INDUSTRY : Engineering - Turnkey Services
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 
 YSALES in Mar-2025 is at 131.0 showing a QoQ_growth of 23.6%. The YNETPROFIT grew by 17.6% to 11.0
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

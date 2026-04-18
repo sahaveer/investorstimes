@@ -1,37 +1,43 @@
-CODES
-519105	AVTNPL	
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
-BestQ Dec 2024
+CODES	519105	AVTNPL	
+FULLNAME : AVT Natural Products Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Other Agricultural Products
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 485.1		559.4		582.2		517.3		556.0		486.7
+SQoQ%: 	22.4		15.3		4.1		-11.1		7.5		87.5
+YOPM%: 	14.7		18.9		20.8		15.3		12.7
+YNPM%: 	9.3		13.0		13.3		10.3		8.7
+YPROFIT: 45.3		72.8		77.4		53.3		48.2		42.8
+PQoQ%: 	33.2		60.9		6.2		-31.1		-9.5		88.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 172.9		156.8		132.4		160.3		194.0
+QoQ%: 	41.9		-9.3		-15.6		21.1		21.0
+QOPM%: 	17.3		15.7		12.0		9.3		11.9
+QNPM%: 	12.5		9.2		9.2		8.3		9.0
+QPFT: 	21.6		14.4		12.1		13.3		17.4
+PQoQ%: 	242.3		-33.5		-15.6		9.7		30.7
+
+
+
+***PROS***
+- Last 3QSALES is about 88% YSales
+- Last 3QPROFIT is about 89% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  396.4   |  485.1   |  559.4   |  582.2   |  517.3   |     399.2    
- SQoQ%:  |   16.9   |   22.4   |   15.3   |   4.1    |  -11.1   |      77.2    
- YOPM%:  |   14.4   |   14.7   |   18.9   |   20.8   |   15.3   |              
- YNPM%:  |   8.6    |   9.3    |   13.0   |   13.3   |   10.3   |              
-YPROFIT: |   34.0   |   45.3   |   72.8   |   77.4   |   53.3   |      33.9    
- PQoQ%:  |   63.1   |   33.2   |   60.9   |   6.2    |  -31.1   |      63.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  154.2   |  125.0   |  104.5   |  121.8   |  172.9  
- QoQ%:  |   14.0   |  -18.9   |  -16.4   |   16.6   |   41.9  
- QOPM%: |   23.2   |   12.7   |   7.5    |   6.6    |   17.3  
- QNPM%: |   14.5   |   8.8    |   5.7    |   5.2    |   12.5  
- QPFT:  |   22.4   |   11.0   |   6.0    |   6.3    |   21.6  
- PQoQ%: |   93.7   |  -51.1   |  -45.6   |   5.9    |  242.3  
-
-***PROS***
-- Last 3QSALES is about 77% YSales
-- Last 3QPROFIT is about 64% of YProfit
 
 Yearly 
- 31-Mar-2024 #Result
-517.30cr, QoQ -11.10% & YoY 30.50% SALES;
-79.40cr, QoQ -34.40% & YoY 38.81% OPERATING PROFIT;
-53.30cr, QoQ -31.10% & YoY 56.76% NET PROFIT;
-OPM %: 15.30% vs 20.8%
-NPM %: 10.30% vs 13.3%
+ 31-Mar-2025 #Result
+556.00cr, QoQ 7.50% & YoY 14.62% SALES;
+70.30cr, QoQ -11.40% & YoY -1.40% OPERATING PROFIT;
+48.20cr, QoQ -9.50% & YoY 6.40% NET PROFIT;
+OPM %: 12.70% vs 15.3%
+NPM %: 8.70% vs 10.3%
 

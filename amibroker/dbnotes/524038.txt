@@ -1,32 +1,36 @@
-CODE	NAME
-524038 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	524038	
+FULLNAME : Venlon Enterprises Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
 YSD YPD 2024
-YSD YPD 2022
 
-***CONS***
-- NEGATIVE YProfit : -1.3
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   3.3    |   1.1    |   3.8    |   1.2    |   8.0    |      8.5     
- SQoQ%:  |  -86.7   |  -67.0   |  248.6   |  -67.9   |  558.2   |     106.2    
- YOPM%:  |   0.0    |   0.0    |   61.8   |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |  117.4   |   0.0    |   0.0    |              
-YPROFIT: |   -7.3   |   -4.4   |   4.5    |  -33.2   |   -1.3   |      -1.4    
- PQoQ%:  |  -69.1   |  -40.0   |  -202.1  |  -843.3  |  -96.1   |     107.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.6    |   2.9    |   2.4    |   3.1    |   3.0   
- QoQ%:  |   2.0    |   85.3   |  -17.6   |   30.7   |   -2.3  
- QOPM%: |   0.0    |   1.0    |   0.0    |   2.3    |   0.7   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.5   |   -0.4   |   -0.6   |   -0.4   |   -0.4  
- PQoQ%: |   89.3   |  -34.0   |   71.4   |  -30.0   |   4.8   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.1		3.8		1.2		8.7		11.5		5.4
+SQoQ%: 	-67.0		248.6		-67.9		613.1		32.4		47.0
+YOPM%: 	0.0		61.8		0.0		5.7		0.0
+YNPM%: 	0.0		117.4		0.0		0.0		0.0
+YPROFIT: -4.4		4.5		-33.2		-1.3		-13.2		-2.2
+PQoQ%: 	-40.0		-202.1		-843.3		-96.1		929.7		16.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3.0		2.8		1.6		2.5		1.3
+QoQ%: 	-2.3		-7.6		-42.7		57.8		-48.8
+QOPM%: 	0.7		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-0.4		-11.7		-1.0		-0.5		-0.7
+PQoQ%: 	4.8		2563.6		-91.6		-53.5		52.2
+
+
 
 ***PROS***
-- Last 3QSALES is about 106% YSales
 - YProfits and YSales DOUBLED in Mar2024
-- YProfits and YSales DOUBLED in Mar2022
 
+YSALES in Mar-2025 is at 11.5 showing a QoQ_growth of 32.4%. The YNETPROFIT grew by 929.7% to -13.2
+
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -13.2

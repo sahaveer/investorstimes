@@ -1,27 +1,34 @@
-CODES
-542852	VISHWARAJ	
-SECTOR : 
-INDUSTRY : 
+CODES	542852	VISHWARAJ	
+FULLNAME : Vishwaraj Sugar Industries Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Sugar
+PRODUCT DEMAND
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  361.6   |  425.1   |  467.4   |  610.8   |  546.0   |     287.2    
- SQoQ%:  |   26.9   |   17.6   |   10.0   |   30.7   |  -10.6   |      52.6    
- YOPM%:  |   10.6   |   14.6   |   20.0   |   10.8   |   12.3   |              
- YNPM%:  |   0.0    |   2.0    |   12.9   |   0.0    |   2.7    |              
-YPROFIT: |   -7.9   |   8.3    |   60.2   |  -23.4   |   14.5   |     -38.4    
- PQoQ%:  |  -55.3   |  -205.2  |  625.7   |  -139.0  |  -161.8  |     -264.8   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  106.2   |  163.7   |  101.2   |   92.8   |   93.2  
- QoQ%:  |  -23.0   |   54.1   |  -38.2   |   -8.4   |   0.5   
- QOPM%: |   40.8   |   13.7   |   0.0    |   0.0    |   18.5  
- QNPM%: |   29.4   |   1.4    |   0.0    |   0.0    |   0.7   
- QPFT:  |   31.2   |   2.3    |  -17.3   |  -21.7   |   0.6   
- PQoQ%: |  -375.7  |  -92.6   |  -851.7  |   25.7   |  -102.9 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 425.1		467.4		610.8		546.0		452.0		265.8
+SQoQ%: 	17.6		10.0		30.7		-10.6		-17.2		58.8
+YOPM%: 	14.6		20.0		10.8		12.3		2.6
+YNPM%: 	2.0		12.9		0.0		2.7		0.0
+YPROFIT: 8.3		60.2		-23.4		14.5		-37.0		-37.5
+PQoQ%: 	-205.2		625.7		-139.0		-161.8		-355.3		101.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 93.2		166.7		133.1		55.0		77.7
+QoQ%: 	0.5		78.8		-20.2		-58.6		41.1
+QOPM%: 	18.5		7.5		0.0		0.0		0.0
+QNPM%: 	0.7		1.2		0.0		0.0		0.0
+QPFT: 	0.6		2.1		-16.4		-14.4		-6.7
+PQoQ%: 	-102.9		227.0		-895.6		-12.3		-53.3
+
+
 
 ***PROS***
-- Last 3QSALES is about 53% YSales
-- YProfit Turned POSITIVE this year Mar-2024 : 14.5
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 59% YSales
+
+***CONS***
+- NEGATIVE YProfit : -37.0

@@ -1,29 +1,36 @@
-CODES
-542337	SPENCERS	
-SECTOR : Retail
-INDUSTRY : Trading
+CODES	542337	SPENCERS	
+FULLNAME : Spencers Retail Ltd
+SECTOR : Retailing
+INDUSTRY : Diversified Retail
 PRODUCT DEMAND
 LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -246.4
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2428.1  |  2299.7  |  2452.6  |  2345.0  |  1995.2 
- SQoQ%:  |   -8.2   |   -5.3   |   6.6    |   -4.4   |  -14.9  
- YOPM%:  |   0.3    |   1.1    |   0.2    |   0.0    |   0.0   
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
-YPROFIT: |  -163.8  |  -121.5  |  -210.4  |  -266.2  |  -246.4 
- PQoQ%:  |   25.3   |  -25.9   |   73.2   |   26.5   |   -7.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  546.8   |  548.3   |  518.0   |  517.0   |  411.9  
- QoQ%:  |  -16.4   |   0.3    |   -5.5   |   -0.2   |  -20.3  
- QOPM%: |   0.0    |   0.2    |   0.0    |   2.3    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |  -80.7   |  -43.4   |  -87.2   |  -47.3   |  -68.4  
- PQoQ%: |   57.6   |  -46.2   |  100.7   |  -45.7   |   44.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2428.1		2299.7		2452.6		2345.0		1995.2		1363.9
+SQoQ%: 	-8.2		-5.3		6.6		-4.4		-14.9		68.4
+YOPM%: 	0.3		1.1		0.2		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -163.8		-121.5		-210.4		-266.2		-246.4		-183.8
+PQoQ%: 	25.3		-25.9		73.2		26.5		-7.4		74.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 517.0		411.9		415.8		445.2		502.9
+QoQ%: 	-0.2		-20.3		1.0		7.0		13.0
+QOPM%: 	2.3		0.0		0.0		0.0		1.3
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-47.3		-68.4		-61.6		-63.8		-58.4
+PQoQ%: 	-45.7		44.5		-9.9		3.5		-8.5
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 68% YSales
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -246.4

@@ -1,42 +1,43 @@
-CODE	NAME
-537750 
-
+CODES	537750	
+FULLNAME : Kiran Vyapar Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+INDUSTRY : Non Banking Financial Company (NBFC)
+PRODUCT DEMAND
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   59.6   |  141.1   |  159.0   |   67.3   |   92.6   |     101.7    
- SQoQ%:  |  -40.9   |  136.8   |   12.7   |  -57.7   |   37.6   |     109.8    
- YOPM%:  |   8.8    |   71.5   |   76.4   |   57.2   |   62.1   |              
- YNPM%:  |   0.0    |   69.0   |   74.4   |   57.7   |   56.3   |              
-YPROFIT: |   -8.2   |   97.3   |  118.3   |   38.8   |   52.1   |      72.4    
- PQoQ%:  |  -136.3  | -1285.6  |   21.6   |  -67.2   |   34.3   |     139.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   30.3   |   24.2   |   28.6   |   41.7   |   31.4  
- QoQ%:  |  182.7   |  -20.1   |   17.9   |   46.1   |  -24.6  
- QOPM%: |   72.1   |   10.5   |   85.3   |   90.6   |   43.1  
- QNPM%: |   44.5   |   22.7   |  107.3   |   80.9   |   25.7  
- QPFT:  |   13.5   |   5.5    |   30.6   |   33.7   |   8.1   
- PQoQ%: |   60.3   |  -59.3   |  457.7   |   10.1   |  -76.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 141.1		159.0		67.3		133.4		113.4		95.9
+SQoQ%: 	136.8		12.7		-57.7		98.1		-15.0		84.6
+YOPM%: 	71.5		76.4		57.2		71.5		60.4
+YNPM%: 	69.0		74.4		57.7		151.7		53.1
+YPROFIT: 97.3		118.3		38.8		202.3		60.2		14.1
+PQoQ%: 	-1285.6		21.6		-67.2		421.1		-70.3		23.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 31.4		12.1		27.2		33.3		35.4
+QoQ%: 	-24.2		-61.6		125.6		22.2		6.2
+QOPM%: 	43.1		0.0		67.7		38.9		31.2
+QNPM%: 	25.7		0.0		60.1		0.2		0.0
+QPFT: 	8.1		-12.8		16.4		0.1		-2.4
+PQoQ%: 	-74.2		-257.8		-228.5		-99.6		-3600.0
+
+
 
 ***PROS***
-- Last 3QSALES is about 110% YSales
-- Last 3QPROFIT is about 139% of YProfit
-- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 85% YSales
 
 
-YSALES in Mar-2024 is at 92.6 showing a QoQ_growth of 37.6%. The YNETPROFIT grew by 34.3% to 52.1
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-92.60cr, QoQ 37.60% & YoY 55.37% SALES;
-57.50cr, QoQ 49.50% & YoY 1005.77% OPERATING PROFIT;
-52.10cr, QoQ 34.30% & YoY -735.37% NET PROFIT;
-OPM %: 62.10% vs 57.2%
-NPM %: 56.30% vs 57.7%
+ 31-Mar-2025 #Result
+113.40cr, QoQ -15.00% & YoY -19.63% SALES;
+68.50cr, QoQ -28.20% & YoY -32.11% OPERATING PROFIT;
+60.20cr, QoQ -70.30% & YoY -38.13% NET PROFIT;
+OPM %: 60.40% vs 71.5%
+NPM %: 53.10% vs 151.7%
 

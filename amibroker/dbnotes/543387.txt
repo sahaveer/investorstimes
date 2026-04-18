@@ -1,27 +1,32 @@
-CODES
-543387	SJS	
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
+CODES	543387	SJS	
+FULLNAME : S J S Enterprises Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
 PRODUCT DEMAND
+BestQ Dec 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 91% YSales
+- Last 3QPROFIT is about 104% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 21.1% while the Profit QoQ_growth is much better than Sales itself at 38.9%
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
 760.50cr, QoQ 21.10% SALES;
-195.40cr, QoQ 28.00% OPERATING PROFIT;
+195.90cr, QoQ 28.40% OPERATING PROFIT;
 117.80cr, QoQ 38.90% NET PROFIT;
-OPM %: 25.70% vs 24.3%
+OPM %: 25.80% vs 24.3%
 NPM %: 15.50% vs 13.5%
 

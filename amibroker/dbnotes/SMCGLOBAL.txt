@@ -1,34 +1,43 @@
-CODES
-543263	SMCGLOBAL	
-SECTOR : Stock/ Commodity Brokers
-INDUSTRY : Finance & Investments
+CODES	543263	SMCGLOBAL	
+FULLNAME : SMC Global Securities Ltd
+SECTOR : Capital Markets
+INDUSTRY : Stockbroking & Allied
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 902.0		1118.0		1212.4		1642.5		1778.4		1360.2
+SQoQ%: 	15.6		23.9		8.4		35.5		8.3		76.5
+YOPM%: 	21.8		26.5		22.4		26.1		23.8
+YNPM%: 	11.6		15.6		9.9		11.4		8.2
+YPROFIT: 104.9		174.4		120.0		187.3		145.7		80.9
+PQoQ%: 	344.4		66.3		-31.2		56.0		-22.2		55.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 455.5		421.5		425.1		440.3		494.8
+QoQ%: 	1.0		-7.5		0.9		3.6		12.4
+QOPM%: 	24.6		14.9		23.6		19.2		20.6
+QNPM%: 	9.6		0.9		7.0		4.7		6.2
+QPFT: 	43.6		3.7		29.7		20.7		30.5
+PQoQ%: 	-3.6		-91.5		697.3		-30.5		47.8
+
+
+
+***PROS***
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 56% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  902.0   |  1118.0  |  1212.4  |  1642.5  |  1775.7 
- SQoQ%:  |   15.6   |   23.9   |   8.4    |   35.5   |   8.1   
- YOPM%:  |   21.8   |   26.5   |   22.4   |   26.1   |   23.6  
- YNPM%:  |   11.6   |   15.6   |   9.9    |   11.4   |   8.2   
-YPROFIT: |  104.9   |  174.4   |  120.0   |  187.3   |  145.7  
- PQoQ%:  |  344.4   |   66.3   |  -31.2   |   56.0   |  -22.2  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  509.4   |  448.0   |  450.8   |  455.5   |  421.5  
- QoQ%:  |   19.1   |  -12.1   |   0.6    |   1.0    |   -7.5  
- QOPM%: |   27.3   |   27.9   |   26.2   |   24.6   |   14.9  
- QNPM%: |   13.0   |   11.8   |   10.0   |   9.6    |   0.9   
- QPFT:  |   66.0   |   53.0   |   45.3   |   43.6   |   3.7   
- PQoQ%: |   27.8   |  -19.7   |  -14.5   |   -3.6   |  -91.5  
-
-***PROS***
 
 Yearly 
  31-Mar-2025 #Result
-1775.70cr, QoQ 8.10% & YoY 96.86% SALES;
-419.40cr, QoQ -2.30% & YoY 113.54% OPERATING PROFIT;
+1778.40cr, QoQ 8.30% & YoY 97.16% SALES;
+423.10cr, QoQ -1.40% & YoY 115.43% OPERATING PROFIT;
 145.70cr, QoQ -22.20% & YoY 38.89% NET PROFIT;
-OPM %: 23.60% vs 26.1%
+OPM %: 23.80% vs 26.1%
 NPM %: 8.20% vs 11.4%
 

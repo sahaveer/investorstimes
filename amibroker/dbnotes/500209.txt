@@ -1,32 +1,41 @@
-CODES
-500209	INFY	
+CODES	500209	INFY	
+FULLNAME : Infosys Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Large
+INDUSTRY : Computers - Software & Consulting
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 100472.0 | 121641.0 | 146767.0 | 153670.0 | 162990.0
- SQoQ%:  |   10.7   |   21.1   |   20.7   |   4.7    |   6.1   
- YOPM%:  |   27.8   |   25.9   |   23.9   |   23.7   |   24.1  
- YNPM%:  |   19.3   |   18.2   |   16.4   |   17.1   |   16.4  
-YPROFIT: | 19351.0  | 22110.0  | 24095.0  | 26233.0  | 26713.0 
- PQoQ%:  |   16.6   |   14.3   |   9.0    |   8.9    |   1.8   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 37923.0  | 39315.0  | 40986.0  | 41764.0  | 40925.0 
- QoQ%:  |   -2.3   |   3.7    |   4.3    |   1.9    |   -2.0  
- QOPM%: |   23.2   |   24.0   |   23.9   |   24.2   |   24.1  
- QNPM%: |   21.0   |   16.2   |   15.9   |   16.3   |   17.2  
- QPFT:  |  7969.0  |  6368.0  |  6506.0  |  6806.0  |  7033.0 
- PQoQ%: |   30.5   |  -20.1   |   2.2    |   4.6    |   3.3   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 100472.0		121641.0		146767.0		153670.0		162990.0		132248.0
+SQoQ%: 	10.7		21.1		20.7		4.7		6.1		81.1
+YOPM%: 	27.8		25.9		23.9		23.7		24.1
+YNPM%: 	19.3		18.2		16.4		17.1		16.4
+YPROFIT: 19351.0		22110.0		24095.0		26233.0		26713.0		20939.0
+PQoQ%: 	16.6		14.3		9.0		8.9		1.8		78.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 41764.0		40925.0		42279.0		44490.0		45479.0
+QoQ%: 	1.9		-2.0		3.3		5.2		2.2
+QOPM%: 	24.2		24.1		23.5		23.7		23.4
+QNPM%: 	16.3		17.2		16.4		16.6		14.6
+QPFT: 	6806.0		7033.0		6921.0		7364.0		6654.0
+PQoQ%: 	4.6		3.3		-1.6		6.4		-9.6
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 29.6%
+- Last 3QSALES is about 81% YSales
+- Last 3QPROFIT is about 78% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

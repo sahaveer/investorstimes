@@ -1,13 +1,14 @@
-CODE	NAME
-530809 
+CODES	530809	
+FULLNAME : BNR Udyog Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO)
 
-SECTOR : Finance
-INDUSTRY : Finance & Investments
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

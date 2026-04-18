@@ -1,29 +1,37 @@
-CODE	NAME
-514302 
+CODES	514302	
+FULLNAME : Vippy Spinpro Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+BestQ Dec 2025
 
-SECTOR : Textiles
-INDUSTRY : Textiles - Cotton/Blended
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 87.6		139.4		156.3		249.6		279.4		179.5
+SQoQ%: 	-20.9		59.2		12.1		59.7		11.9		64.2
+YOPM%: 	7.9		12.1		10.7		7.1		9.3
+YNPM%: 	4.5		8.7		6.9		1.7		4.1
+YPROFIT: 4.0		12.2		10.7		4.4		11.5		8.6
+PQoQ%: 	4.7		206.5		-12.0		-59.3		163.5		74.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 69.9		70.0		71.2		52.8		55.5
+QoQ%: 	0.8		0.2		1.6		-25.8		5.1
+QOPM%: 	11.2		7.0		11.2		10.9		10.4
+QNPM%: 	5.3		3.6		5.7		5.2		3.3
+QPFT: 	3.7		2.6		4.0		2.8		1.8
+PQoQ%: 	10.7		-31.6		58.0		-31.8		-33.5
+
+
+
+***PROS***
+- Last 3QSALES is about 64% YSales
+- Last 3QPROFIT is about 75% of YProfit
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   87.6   |  139.4   |  156.3   |  249.6   |  279.4  
- SQoQ%:  |  -20.9   |   59.2   |   12.1   |   59.7   |   11.9  
- YOPM%:  |   7.9    |   12.1   |   10.7   |   7.1    |   9.3   
- YNPM%:  |   4.5    |   8.7    |   6.9    |   1.7    |   4.1   
-YPROFIT: |   4.0    |   12.2   |   10.7   |   4.4    |   11.5  
- PQoQ%:  |   4.7    |  206.5   |  -12.0   |  -59.3   |  163.5  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   63.3   |   70.1   |   69.4   |   69.9   |   70.0  
- QoQ%:  |   5.4    |   10.8   |   -1.1   |   0.8    |   0.2   
- QOPM%: |   10.9   |   8.2    |   10.8   |   11.2   |   7.0   
- QNPM%: |   4.4    |   2.6    |   4.9    |   5.3    |   3.6   
- QPFT:  |   2.8    |   1.8    |   3.4    |   3.7    |   2.6   
- PQoQ%: |  261.0   |  -33.8   |   83.2   |   10.7   |  -31.6  
-
-***PROS***
 
 Yearly 
  31-Mar-2025 #Result

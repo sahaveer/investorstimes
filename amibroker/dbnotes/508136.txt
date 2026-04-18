@@ -1,37 +1,43 @@
-CODE	NAME
-508136 
+CODES	508136	
+FULLNAME : B & A Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Tea & Coffee
+BestQ Dec 2025
 
-SECTOR : Plantation & Plantation Products
-INDUSTRY : Tea
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 247.7		290.4		292.2		290.1		264.4		239.4
+SQoQ%: 	19.7		17.2		0.6		-0.7		-8.9		90.5
+YOPM%: 	12.8		14.9		7.9		6.0		3.5
+YNPM%: 	5.8		8.3		3.9		3.7		3.1
+YPROFIT: 14.3		24.1		11.4		10.7		8.2		16.9
+PQoQ%: 	252.5		68.3		-52.6		-6.1		-23.1		206.1
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  207.0   |  247.7   |  290.4   |  292.2   |  290.1   |     221.3    
- SQoQ%:  |   8.4    |   19.7   |   17.2   |   0.6    |   -0.7   |      76.3    
- YOPM%:  |   8.1    |   12.8   |   14.9   |   7.9    |   6.0    |              
- YNPM%:  |   2.0    |   5.8    |   8.3    |   3.9    |   3.5    |              
-YPROFIT: |   4.1    |   14.3   |   24.1   |   11.4   |   10.2   |      17.0    
- PQoQ%:  |  -19.1   |  252.5   |   68.3   |  -52.6   |  -10.3   |     166.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   96.3   |   37.7   |   50.5   |   97.4   |   73.4  
- QoQ%:  |   -5.5   |  -60.8   |   33.9   |   92.8   |  -24.6  
- QOPM%: |   12.3   |   0.0    |   0.0    |   30.5   |   1.7   
- QNPM%: |   9.6    |   0.0    |   0.0    |   26.1   |   0.0   
- QPFT:  |   9.3    |  -16.7   |   -6.2   |   25.4   |   -2.2  
- PQoQ%: |  -63.6   |  -280.3  |  -63.2   |  -513.3  |  -108.5 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 73.4		43.0		55.6		102.9		80.9
+QoQ%: 	-24.6		-41.4		29.3		85.0		-21.4
+QOPM%: 	1.7		0.0		0.0		29.2		0.0
+QNPM%: 	0.0		0.0		0.0		24.8		0.0
+QPFT: 	-2.2		-11.2		-2.8		25.5		-5.8
+PQoQ%: 	-108.5		417.6		-75.1		-1016.9		-122.9
+
+
 
 ***PROS***
-- Last 3QSALES is about 76% YSales
-- Last 3QPROFIT is about 167% of YProfit
+- Last 3QSALES is about 91% YSales
+- Last 3QPROFIT is about 206% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-290.10cr, QoQ -0.70% & YoY 40.14% SALES;
-17.50cr, QoQ -24.10% & YoY 4.17% OPERATING PROFIT;
-10.20cr, QoQ -10.30% & YoY 148.78% NET PROFIT;
-OPM %: 6.00% vs 7.9%
-NPM %: 3.50% vs 3.9%
+ 31-Mar-2025 #Result
+264.40cr, QoQ -8.90% & YoY 6.74% SALES;
+9.40cr, QoQ -46.60% & YoY -70.35% OPERATING PROFIT;
+8.20cr, QoQ -23.10% & YoY -42.66% NET PROFIT;
+OPM %: 3.50% vs 6.0%
+NPM %: 3.10% vs 3.7%
 

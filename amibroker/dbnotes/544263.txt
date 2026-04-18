@@ -1,12 +1,14 @@
-CODES
-544263	KRN	
+CODES	544263	KRN	
+FULLNAME : KRN Heat Exchanger and Refrigeration Ltd
 SECTOR : Engineering
 INDUSTRY : Engineering
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

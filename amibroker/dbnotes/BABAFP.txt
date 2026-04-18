@@ -1,20 +1,21 @@
-CODES
-BABAFP	
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
+CODES	BABAFP	
+FULLNAME : Baba Food Processing India Ltd
+SECTOR : Food Products
+INDUSTRY : Other Food Products
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
-205.80cr, QoQ 12.80% & YoY 93.06% SALES;
+204.20cr, QoQ 11.90% & YoY 91.56% SALES;
 7.70cr, QoQ -34.00% & YoY 67.39% OPERATING PROFIT;
 4.30cr, QoQ -29.80% & YoY 72.00% NET PROFIT;
-OPM %: 3.70% vs 6.4%
+OPM %: 3.80% vs 6.4%
 NPM %: 2.10% vs 3.4%
 

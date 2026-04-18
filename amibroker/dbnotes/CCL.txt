@@ -1,29 +1,38 @@
-CODES
-519600	CCL	
-SECTOR : Plantation & Plantation Products
-INDUSTRY : Tea
+CODES	519600	CCL	
+FULLNAME : CCL Products (India) Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Tea & Coffee
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1242.5  |  1462.0  |  2071.2  |  2653.7  |  3105.8 
- SQoQ%:  |   9.1    |   17.7   |   41.7   |   28.1   |   17.0  
- YOPM%:  |   24.0   |   22.6   |   19.3   |   16.8   |   17.9  
- YNPM%:  |   14.7   |   14.0   |   13.7   |   9.4    |   10.0  
-YPROFIT: |  182.3   |  204.4   |  284.0   |  250.1   |  310.3  
- PQoQ%:  |   9.8    |   12.1   |   39.0   |  -11.9   |   24.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  726.7   |  773.3   |  738.2   |  758.4   |  835.8  
- QoQ%:  |   9.4    |   6.4    |   -4.5   |   2.7    |   10.2  
- QOPM%: |   16.3   |   16.8   |   18.6   |   16.4   |   19.5  
- QNPM%: |   9.0    |   9.2    |   10.0   |   8.3    |   12.2  
- QPFT:  |   65.2   |   71.5   |   74.0   |   63.0   |  101.9  
- PQoQ%: |   3.0    |   9.6    |   3.5    |  -14.8   |   61.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1242.5		1462.0		2071.2		2653.7		3105.8		3232.9
+SQoQ%: 	9.1		17.7		41.7		28.1		17.0		104.1
+YOPM%: 	24.0		22.6		19.3		16.8		17.9
+YNPM%: 	14.7		14.0		13.7		9.4		10.0
+YPROFIT: 182.3		204.4		284.0		250.1		310.3		273.6
+PQoQ%: 	9.8		12.1		39.0		-11.9		24.1		88.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 758.4		835.8		1055.6		1126.7		1050.6
+QoQ%: 	2.7		10.2		26.3		6.7		-6.8
+QOPM%: 	16.4		19.5		15.1		17.5		17.6
+QNPM%: 	8.3		12.2		6.9		9.0		9.5
+QPFT: 	63.0		101.9		72.4		100.9		100.3
+PQoQ%: 	-14.8		61.6		-28.9		39.2		-0.6
+
+
 
 ***PROS***
+- Last 3QSALES is about 104% YSales
+- Last 3QPROFIT is about 88% of YProfit
 
 YSALES in Mar-2025 is at 3105.8 showing a QoQ_growth of 17.0%. The YNETPROFIT grew by 24.1% to 310.3
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

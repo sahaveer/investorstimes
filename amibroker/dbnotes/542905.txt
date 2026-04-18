@@ -1,34 +1,33 @@
-CODES
-542905	HINDWAREAP	
-SECTOR : Retail
-INDUSTRY : Trading
+CODES	542905	HINDWAREAP	
+FULLNAME : Hindware Home Innovation Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Sanitary Ware
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1613.1  |  1775.2  |  2293.6  |  2872.3  |  2800.0  |     1823.9   
- SQoQ%:  |   -3.5   |   10.0   |   29.2   |   25.2   |   -2.5   |      65.1    
- YOPM%:  |   5.5    |   8.1    |   7.7    |   8.5    |   8.5    |              
- YNPM%:  |   1.4    |   3.1    |   8.8    |   2.0    |   0.9    |              
-YPROFIT: |   23.1   |   54.8   |  201.7   |   57.1   |   25.8   |     -37.4    
- PQoQ%:  |  -57.8   |  137.3   |  267.8   |  -71.7   |  -54.8   |     -145.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  692.9   |  772.4   |  599.9   |  629.8   |  594.2  
- QoQ%:  |   -0.0   |   11.5   |  -22.3   |   5.0    |   -5.7  
- QOPM%: |   7.3    |   9.7    |   7.2    |   4.7    |   4.8   
- QNPM%: |   0.7    |   0.3    |   0.0    |   0.0    |   0.0   
- QPFT:  |   4.5    |   2.1    |   -4.0   |  -15.6   |  -17.8  
- PQoQ%: |  -76.3   |  -52.8   |  -287.4  |  288.3   |   14.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1775.2		2293.6		2872.3		2776.3		2523.0		1847.6
+SQoQ%: 	10.0		29.2		25.2		-3.3		-9.1		73.2
+YOPM%: 	8.1		7.7		8.5		9.5		5.7
+YNPM%: 	3.1		8.8		2.0		0.9		0.0
+YPROFIT: 54.8		201.7		57.1		25.8		-68.3		-20.6
+PQoQ%: 	137.3		267.8		-71.7		-54.8		-364.9		30.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 594.2		699.0		531.2		676.3		640.1
+QoQ%: 	-5.7		17.6		-24.0		27.3		-5.4
+QOPM%: 	4.9		5.8		9.2		8.3		7.5
+QNPM%: 	0.0		0.0		0.0		0.7		0.6
+QPFT: 	-17.8		-31.0		-29.1		4.9		3.6
+PQoQ%: 	14.1		74.3		-5.9		-116.9		-27.8
+
+
 
 ***PROS***
-- Last 3QSALES is about 65% YSales
+- Last 3QSALES is about 73% YSales
 
-Yearly 
- 31-Mar-2024 #Result
-2800.00cr, QoQ -2.50% & YoY 73.58% SALES;
-237.80cr, QoQ -3.20% & YoY 169.00% OPERATING PROFIT;
-25.80cr, QoQ -54.80% & YoY 11.69% NET PROFIT;
-OPM %: 8.50% vs 8.5%
-NPM %: 0.90% vs 2.0%
-
+***CONS***
+- NO PRODUCT DEMAND
+- NEGATIVE YProfit : -68.3

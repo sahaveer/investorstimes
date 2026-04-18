@@ -1,12 +1,14 @@
-CODES
-539843	NINSYS	
+CODES	539843	NINSYS	
+FULLNAME : NINtec Systems Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+INDUSTRY : Computers - Software & Consulting
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

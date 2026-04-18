@@ -1,14 +1,12 @@
-CODE	NAME
-543831 
-
+CODES	543831	
+FULLNAME : Bright Outdoor Media Ltd
 SECTOR : Miscellaneous
 INDUSTRY : Miscellaneous
 YSD YPD 2022
 LYPD PM 2024
 YS15 YPD 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,6 +15,8 @@ YS15 YPD 2024
 - LastYr YProfits Doubled and maintained in Mar2024
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
 As on Mar2024, Sales have increased by 16.6% while the Profit QoQ_growth is much better than Sales itself at 125.9%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

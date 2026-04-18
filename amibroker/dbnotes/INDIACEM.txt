@@ -1,27 +1,34 @@
-CODES
-530005	INDIACEM	
-SECTOR : Cement
-INDUSTRY : Cement - South India
+CODES	530005	INDIACEM	
+FULLNAME : India Cements Ltd
+SECTOR : Cement & Cement Products
+INDUSTRY : Cement & Cement Products
 LYPD PM 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 4510.6		4858.4		5608.1		4997.8		4148.8		3256.0
+SQoQ%: 	-13.0		7.7		15.4		-10.9		-17.0		78.5
+YOPM%: 	17.6		10.0		0.0		1.7		0.0
+YNPM%: 	4.6		1.6		0.0		0.0		0.0
+YPROFIT: 206.8		78.5		-126.9		-227.3		-143.7		-126.8
+PQoQ%: 	312.2		-62.1		-261.7		79.2		-36.8		88.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 939.8		1197.3		1024.7		1117.0		1114.3
+QoQ%: 	-8.0		27.4		-14.4		9.0		-0.2
+QOPM%: 	0.0		0.0		8.1		7.3		7.1
+QNPM%: 	13.0		1.2		0.0		0.8		0.0
+QPFT: 	122.3		14.7		-132.9		8.8		-2.7
+PQoQ%: 	-136.1		-88.0		-1005.3		-106.6		-130.3
+
+
+
+***PROS***
+- Last 3QSALES is about 78% YSales
+- LastYr YProfits Doubled and maintained in Mar2025
 
 ***CONS***
 - NEGATIVE YProfit : -143.7
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  4510.6  |  4858.4  |  5608.1  |  5112.2  |  4148.8 
- SQoQ%:  |  -13.0   |   7.7    |   15.4   |   -8.8   |  -18.8  
- YOPM%:  |   17.6   |   10.0   |   0.0    |   2.0    |   0.0   
- YNPM%:  |   4.6    |   1.6    |   0.0    |   0.0    |   0.0   
-YPROFIT: |  206.8   |   78.5   |  -126.9  |  -227.3  |  -143.7 
- PQoQ%:  |  312.2   |  -62.1   |  -261.7  |   79.2   |  -36.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1235.7  |  1026.8  |  1007.9  |  940.8   |  1197.3 
- QoQ%:  |   11.0   |  -16.9   |   -1.8   |   -6.7   |   27.3  
- QOPM%: |   3.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   5.7    |   0.0    |   13.0   |   1.2   
- QPFT:  |  -60.6   |   58.5   |  -339.1  |  122.3   |   14.7  
- PQoQ%: | -9137.3  |  -196.6  |  -680.0  |  -136.1  |  -88.0  
-
-***PROS***
-- LastYr YProfits Doubled and maintained in Mar2025

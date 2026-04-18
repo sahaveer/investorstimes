@@ -1,11 +1,11 @@
-CODE	NAME
-544163 
-
+CODES	544163	
+FULLNAME : Greenhitech Ventures Ltd
 SECTOR : Miscellaneous
 INDUSTRY : Miscellaneous
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

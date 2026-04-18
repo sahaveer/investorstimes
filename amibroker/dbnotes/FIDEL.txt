@@ -1,12 +1,14 @@
-CODES
-FIDEL	
+CODES	FIDEL	
+FULLNAME : Fidel Softech Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+INDUSTRY : Computers - Software & Consulting
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

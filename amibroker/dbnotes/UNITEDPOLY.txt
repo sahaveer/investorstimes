@@ -1,12 +1,14 @@
-CODES
-UNITEDPOLY	
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
+CODES	UNITEDPOLY	
+FULLNAME : United Polyfab Gujarat Ltd
+SECTOR : Consumer Discretionary
+INDUSTRY : Textiles
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

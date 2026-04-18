@@ -1,38 +1,44 @@
-CODE	NAME
-540545 
+CODES	540545	
+FULLNAME : Bhakti Gems & Jewellery Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
+BestQ Dec 2025
+BestQ Dec 2025
 
-SECTOR : Diamond, Gems and Jewellery
-INDUSTRY : Diamond Cutting / Jewellery
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 67.9		87.8		102.9		104.0		113.0		23.5
+SQoQ%: 	23.4		29.2		17.3		1.0		8.6		20.8
+YOPM%: 	0.6		0.5		1.9		1.6		1.0
+YNPM%: 	0.4		1.0		0.8		0.8		0.6
+YPROFIT: 0.3		0.9		0.8		0.8		0.7		0.5
+PQoQ%: 	13.0		238.5		-9.1		-2.5		-12.8		71.4
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   55.0   |   67.9   |   87.8   |  102.9   |  104.0   |      72.8    
- SQoQ%:  |  -11.6   |   23.4   |   29.2   |   17.3   |   1.0    |      70.0    
- YOPM%:  |   0.5    |   0.6    |   0.5    |   1.9    |   1.6    |              
- YNPM%:  |   0.4    |   0.4    |   1.0    |   0.8    |   0.8    |              
-YPROFIT: |   0.2    |   0.3    |   0.9    |   0.8    |   0.8    |      0.4     
- PQoQ%:  |  228.6   |   13.0   |  238.5   |   -9.1   |   -2.5   |      50.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   30.6   |   30.8   |   7.3    |   24.7   |   40.8  
- QoQ%:  |   15.9   |   0.5    |  -76.2   |  236.6   |   65.5  
- QOPM%: |   1.5    |   1.6    |   1.4    |   1.6    |   0.5   
- QNPM%: |   0.4    |   0.7    |   1.0    |   0.8    |   0.3   
- QPFT:  |   0.1    |   0.2    |   0.1    |   0.2    |   0.1   
- PQoQ%: |  -50.0   |   90.9   |  -66.7   |  185.7   |  -45.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 40.8		40.2		9.4		4.1		10.0
+QoQ%: 	65.5		-1.7		-76.6		-56.5		144.1
+QOPM%: 	0.5		1.0		1.6		3.7		3.9
+QNPM%: 	0.3		0.7		1.1		2.7		2.7
+QPFT: 	0.1		0.3		0.1		0.1		0.3
+PQoQ%: 	-45.0		172.7		-66.7		10.0		145.5
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 70% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 71% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-104.00cr, QoQ 1.00% & YoY 89.09% SALES;
-1.60cr, QoQ -19.00% & YoY 433.33% OPERATING PROFIT;
-0.80cr, QoQ -2.50% & YoY 300.00% NET PROFIT;
-OPM %: 1.60% vs 1.9%
-NPM %: 0.80% vs 0.8%
+ 31-Mar-2025 #Result
+113.00cr, QoQ 8.60% & YoY 66.42% SALES;
+1.10cr, QoQ -33.30% & YoY 175.00% OPERATING PROFIT;
+0.70cr, QoQ -12.80% & YoY 133.33% NET PROFIT;
+OPM %: 1.00% vs 1.6%
+NPM %: 0.60% vs 0.8%
 

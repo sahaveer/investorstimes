@@ -1,29 +1,34 @@
-CODES
-504286	DELTAMAGNT	
-SECTOR : Consumer Durables
-INDUSTRY : Electronics - Components
+CODES	504286	DELTAMAGNT	
+FULLNAME : Delta Manufacturing Ltd
+SECTOR : Industrial Products
+INDUSTRY : Other Industrial Products
 PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -10.4
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  124.0   |   70.5   |   88.0   |   79.6   |   83.6   |      50.0    
- SQoQ%:  |   23.1   |  -43.2   |   24.8   |   -9.5   |   4.9    |      59.8    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.0    |   21.9   |   0.0    |   0.0    |              
-YPROFIT: |  -12.3   |   -6.7   |   19.3   |  -16.7   |  -10.4   |     -11.7    
- PQoQ%:  |  269.7   |  -45.5   |  -387.2  |  -186.9  |  -37.9   |     112.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   17.0   |   21.3   |   20.5   |   14.4   |   15.1  
- QoQ%:  |  -17.8   |   25.0   |   -3.6   |  -29.9   |   5.1   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   1.3   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -2.4   |   -2.9   |   -2.9   |   -3.0   |   -5.8  
- PQoQ%: |   -4.0   |   20.7   |   -0.3   |   1.7    |   97.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 70.5		88.0		79.6		67.5		61.0		43.6
+SQoQ%: 	-43.2		24.8		-9.5		-15.3		-9.6		71.5
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		21.9		0.0		0.0		0.0
+YPROFIT: -6.7		19.3		-16.7		-10.4		-12.1		-9.8
+PQoQ%: 	-45.5		-387.2		-186.9		-37.9		16.4		81.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 15.0		15.7		14.3		13.8		15.5
+QoQ%: 	4.3		4.8		-8.9		-3.6		12.5
+QOPM%: 	11.8		0.0		0.0		1.2		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-5.8		-0.4		-2.2		-2.4		-5.2
+PQoQ%: 	97.6		-93.7		489.2		10.6		115.8
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 60% YSales
+- Last 3QSALES is about 71% YSales
 
+***CONS***
+- NEGATIVE YProfit : -12.1

@@ -1,29 +1,50 @@
-CODES
-532707	DYNPRO	
-SECTOR : Chemicals
-INDUSTRY : Dyes And Pigments
-BestQ Dec 2024
+CODES	532707	DYNPRO	
+FULLNAME : Dynemic Products Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
+PRODUCT DEMAND
+BestQ Dec 2025
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  182.3   |  205.6   |  251.9   |  295.9   |  284.0   |     273.3    
- SQoQ%:  |   9.4    |   12.8   |   22.5   |   17.5   |   -4.0   |      96.2    
- YOPM%:  |   19.9   |   21.1   |   17.0   |   9.7    |   11.3   |              
- YNPM%:  |   13.3   |   13.9   |   5.7    |   0.0    |   1.3    |              
-YPROFIT: |   24.2   |   28.5   |   14.3   |   -2.9   |   3.6    |      11.1    
- PQoQ%:  |   34.4   |   17.9   |  -49.8   |  -120.6  |  -223.1  |     308.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   71.6   |   79.0   |   80.0   |   97.8   |   95.5  
- QoQ%:  |   9.4    |   10.3   |   1.4    |   22.2   |   -2.4  
- QOPM%: |   11.0   |   13.2   |   12.5   |   12.8   |   13.5  
- QNPM%: |   1.7    |   5.1    |   3.5    |   4.0    |   4.6   
- QPFT:  |   1.2    |   4.1    |   2.8    |   3.9    |   4.4   
- PQoQ%: |  -134.3  |  230.1   |  -31.5   |   39.9   |   12.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 205.6		251.9		295.9		284.0		367.5		274.4
+SQoQ%: 	12.8		22.5		17.5		-4.0		29.4		74.7
+YOPM%: 	21.1		17.0		9.7		11.3		13.0
+YNPM%: 	13.9		5.7		0.0		1.3		4.1
+YPROFIT: 28.5		14.3		-2.9		3.6		15.0		13.8
+PQoQ%: 	17.9		-49.8		-120.6		-223.1		314.4		92.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 95.5		94.1		94.4		89.3		90.7
+QoQ%: 	-2.4		-1.5		0.4		-5.4		1.5
+QOPM%: 	13.5		13.2		13.5		13.8		14.0
+QNPM%: 	4.6		4.2		5.1		5.0		5.1
+QPFT: 	4.4		3.9		4.8		4.4		4.6
+PQoQ%: 	12.9		-10.3		22.1		-7.7		3.8
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 96% YSales
-- Last 3QPROFIT is about 308% of YProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 3.6
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 92% of YProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+YSALES in Mar-2025 is at 367.5 showing a QoQ_growth of 29.4%. The YNETPROFIT grew by 314.4% to 15.0
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+367.50cr, QoQ 29.40% & YoY 78.75% SALES;
+47.90cr, QoQ 49.60% & YoY 10.37% OPERATING PROFIT;
+15.00cr, QoQ 314.40% & YoY -47.37% NET PROFIT;
+OPM %: 13.00% vs 11.3%
+NPM %: 4.10% vs 1.3%
+

@@ -1,39 +1,42 @@
-CODES
-543626	EMIL	
-SECTOR : Retail
-INDUSTRY : Trading
-BestQ Dec 2024
-PROFIT GROWTH BETTER THAN SALES GROWTH 2024
+CODES	543626	EMIL	
+FULLNAME : Electronics Mart India Ltd
+SECTOR : Retailing
+INDUSTRY : Diversified Retail
+PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  3172.5  |  3201.9  |  4349.3  |  5445.7  |  6285.4  |     5245.8   
- SQoQ%:  |   nan    |   0.9    |   35.8   |   25.2   |   15.4   |      83.5    
- YOPM%:  |   7.2    |   6.4    |   6.7    |   6.2    |   7.2    |              
- YNPM%:  |   2.6    |   1.8    |   2.4    |   2.3    |   2.9    |              
-YPROFIT: |   81.6   |   58.6   |  103.9   |  122.8   |  184.0   |     128.6    
- PQoQ%:  |   nan    |  -28.2   |   77.2   |   18.2   |   49.8   |      69.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  1774.5  |  1524.2  |  1974.9  |  1386.1  |  1884.8 
- QoQ%:  |   35.1   |  -14.1   |   29.6   |  -29.8   |   36.0  
- QOPM%: |   6.5    |   7.1    |   7.8    |   6.1    |   5.2   
- QNPM%: |   2.6    |   2.7    |   3.7    |   1.8    |   1.7   
- QPFT:  |   45.8   |   40.6   |   72.5   |   24.5   |   31.6  
- PQoQ%: |   22.4   |  -11.4   |   78.8   |  -66.1   |   28.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3201.9		4349.3		5445.7		6285.4		6964.8		5270.0
+SQoQ%: 	0.9		35.8		25.2		15.4		10.8		75.7
+YOPM%: 	6.4		6.7		6.2		7.2		6.5
+YNPM%: 	1.8		2.4		2.3		2.9		2.3
+YPROFIT: 58.6		103.9		122.8		184.0		160.0		67.3
+PQoQ%: 	-28.2		77.2		18.2		49.8		-13.0		42.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1805.0		1664.2		1739.4		1591.0		1939.6
+QoQ%: 	35.2		-7.8		4.5		-8.5		21.9
+QOPM%: 	5.6		6.5		6.3		5.1		6.1
+QNPM%: 	1.9		1.6		1.2		1.0		1.5
+QPFT: 	33.5		26.7		21.6		16.1		29.6
+PQoQ%: 	43.1		-20.4		-18.9		-25.3		83.7
+
+
 
 ***PROS***
-- Last 3QSALES is about 83% YSales
-- Last 3QPROFIT is about 70% of YProfit
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2024, Sales have increased by 15.4% while the Profit QoQ_growth is much better than Sales itself at 49.8%
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 76% YSales
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-6285.40cr, QoQ 15.40% & YoY 98.12% SALES;
-449.40cr, QoQ 33.70% & YoY 97.36% OPERATING PROFIT;
-184.00cr, QoQ 49.80% & YoY 125.49% NET PROFIT;
-OPM %: 7.20% vs 6.2%
-NPM %: 2.90% vs 2.3%
+ 31-Mar-2025 #Result
+6964.80cr, QoQ 10.80% & YoY 117.52% SALES;
+451.30cr, QoQ 0.40% & YoY 121.33% OPERATING PROFIT;
+160.00cr, QoQ -13.00% & YoY 173.04% NET PROFIT;
+OPM %: 6.50% vs 7.2%
+NPM %: 2.30% vs 2.9%
 

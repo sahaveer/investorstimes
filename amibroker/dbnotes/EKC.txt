@@ -1,33 +1,42 @@
-CODES
-532684	EKC	
-SECTOR : Packaging
-INDUSTRY : Packaging
+CODES	532684	EKC	
+FULLNAME : Everest Kanto Cylinder Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  949.1   |  1698.8  |  1274.5  |  1223.0  |  1499.2 
- SQoQ%:  |   24.8   |   79.0   |  -25.0   |   -4.0   |   22.6  
- YOPM%:  |   17.5   |   23.5   |   12.6   |   13.5   |   11.7  
- YNPM%:  |   9.5    |   15.6   |   6.0    |   8.1    |   6.5   
-YPROFIT: |   90.0   |  265.2   |   76.1   |   99.2   |   97.9  
- PQoQ%:  |  2921.5  |  194.5   |  -71.3   |   30.3   |   -1.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  325.8   |  342.8   |  367.3   |  367.0   |  422.1  
- QoQ%:  |   -1.1   |   5.2    |   7.1    |   -0.1   |   15.0  
- QOPM%: |   9.4    |   12.1   |   14.5   |   10.9   |   9.0   
- QNPM%: |   4.4    |   8.2    |   10.5   |   4.9    |   3.2   
- QPFT:  |   14.5   |   28.0   |   38.5   |   18.1   |   13.3  
- PQoQ%: |  -60.5   |   93.6   |   37.1   |  -53.0   |  -26.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 949.1		1698.8		1274.5		1223.0		1499.2		1112.4
+SQoQ%: 	24.8		79.0		-25.0		-4.0		22.6		74.2
+YOPM%: 	17.5		23.5		12.6		13.3		11.9
+YNPM%: 	9.5		15.6		6.0		8.1		6.5
+YPROFIT: 90.0		265.2		76.1		99.2		97.9		101.0
+PQoQ%: 	2921.5		194.5		-71.3		30.3		-1.3		103.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 367.0		422.1		386.9		360.4		365.1
+QoQ%: 	-0.1		15.0		-8.3		-6.8		1.3
+QOPM%: 	10.9		9.0		15.8		11.9		16.2
+QNPM%: 	4.9		3.2		13.3		3.8		9.8
+QPFT: 	18.1		13.3		51.6		13.7		35.7
+PQoQ%: 	-53.0		-26.4		287.0		-73.5		161.1
+
+
 
 ***PROS***
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 103% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 1499.20cr, QoQ 22.60% & YoY 57.96% SALES;
-175.50cr, QoQ 6.30% & YoY 5.53% OPERATING PROFIT;
+178.60cr, QoQ 9.60% & YoY 7.33% OPERATING PROFIT;
 97.90cr, QoQ -1.30% & YoY 8.78% NET PROFIT;
-OPM %: 11.70% vs 13.5%
+OPM %: 11.90% vs 13.3%
 NPM %: 6.50% vs 8.1%
 

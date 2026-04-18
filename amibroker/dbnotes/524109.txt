@@ -1,38 +1,40 @@
-CODES
-524109	KABRAEXTRU	
-SECTOR : Capital Goods-Non Electrical Equipment
-INDUSTRY : Engineering
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	524109	KABRAEXTRU	
+FULLNAME : Kabra Extrusion Technik Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  220.2   |  276.2   |  405.9   |  670.0   |  607.8   |     337.4    
- SQoQ%:  |  -10.2   |   25.5   |   46.9   |   65.1   |   -9.3   |      55.5    
- YOPM%:  |   5.7    |   14.8   |   13.5   |   11.0   |   10.0   |              
- YNPM%:  |   3.4    |   8.9    |   7.5    |   5.6    |   5.6    |              
-YPROFIT: |   7.4    |   24.6   |   30.3   |   37.5   |   33.8   |      21.3    
- PQoQ%:  |  -69.6   |  231.4   |   23.2   |   23.9   |   -9.8   |      63.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  123.9   |  168.0   |   88.2   |  128.0   |  121.2  
- QoQ%:  |  -32.1   |   35.6   |  -47.5   |   45.1   |   -5.3  
- QOPM%: |   7.0    |   16.6   |   9.8    |   17.2   |   11.6  
- QNPM%: |   2.8    |   11.3   |   2.3    |   9.6    |   5.8   
- QPFT:  |   3.4    |   19.0   |   2.0    |   12.3   |   7.0   
- PQoQ%: |  -38.7   |  449.9   |  -89.4   |  513.4   |  -42.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 276.2		405.9		670.0		607.8		476.8		330.9
+SQoQ%: 	25.5		46.9		65.1		-9.3		-21.5		69.4
+YOPM%: 	14.8		13.5		11.0		10.0		10.4
+YNPM%: 	8.9		7.5		5.6		5.6		6.8
+YPROFIT: 24.6		30.3		37.5		33.8		32.2		-12.3
+PQoQ%: 	231.4		23.2		23.9		-9.8		-4.8		-38.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 121.2		139.5		86.0		134.6		110.3
+QoQ%: 	-5.3		15.2		-38.4		56.6		-18.0
+QOPM%: 	11.6		3.1		0.0		6.7		1.4
+QNPM%: 	5.8		7.8		0.0		0.2		0.0
+QPFT: 	7.0		10.8		-7.6		0.3		-5.0
+PQoQ%: 	-42.9		53.8		-170.3		-104.3		-1609.1
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 56% YSales
-- Last 3QPROFIT is about 63% of YProfit
+- Last 3QSALES is about 69% YSales
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-607.80cr, QoQ -9.30% & YoY 176.02% SALES;
-60.60cr, QoQ -17.80% & YoY 384.80% OPERATING PROFIT;
-33.80cr, QoQ -9.80% & YoY 356.76% NET PROFIT;
-OPM %: 10.00% vs 11.0%
-NPM %: 5.60% vs 5.6%
+ 31-Mar-2025 #Result
+476.80cr, QoQ -21.50% & YoY 72.63% SALES;
+49.70cr, QoQ -18.10% & YoY 21.81% OPERATING PROFIT;
+32.20cr, QoQ -4.80% & YoY 30.89% NET PROFIT;
+OPM %: 10.40% vs 10.0%
+NPM %: 6.80% vs 5.6%
 

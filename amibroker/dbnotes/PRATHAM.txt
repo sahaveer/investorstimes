@@ -1,26 +1,23 @@
-CODES
-PRATHAM	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
-PRODUCT DEMAND
+CODES	PRATHAM	
+FULLNAME : Pratham EPC Projects Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 15.4%
-- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since.
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 71.1% while the Profit QoQ_growth is at 34.6%
 
-YSALES in Mar-2024 is at 68.8 showing a QoQ_growth of 37.1%. The YNETPROFIT grew by 31.5% to 10.0
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-68.80cr, QoQ 37.10% SALES;
-14.40cr, QoQ 38.00% OPERATING PROFIT;
-10.00cr, QoQ 31.50% NET PROFIT;
-OPM %: 21.00% vs 20.8%
-NPM %: 14.60% vs 15.2%
+ 31-Mar-2025 #Result
+117.80cr, QoQ 71.10% & YoY 284.97% SALES;
+17.40cr, QoQ 20.40% & YoY 596.00% OPERATING PROFIT;
+13.50cr, QoQ 34.60% & YoY 1127.27% NET PROFIT;
+OPM %: 14.80% vs 21.0%
+NPM %: 11.50% vs 14.6%
 

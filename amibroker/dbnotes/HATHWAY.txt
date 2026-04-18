@@ -1,35 +1,44 @@
-CODES
-533162	HATHWAY	
-SECTOR : Telecomm-Service
-INDUSTRY : Telecommunications - Service Provider
+CODES	533162	HATHWAY	
+FULLNAME : Hathway Cable & Datacom Ltd
+SECTOR : Entertainment
+INDUSTRY : TV Broadcasting & Software Production
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1731.8  |  1793.0  |  1858.4  |  1981.0  |  2039.6 
- SQoQ%:  |   -3.7   |   3.5    |   3.6    |   6.6    |   3.0   
- YOPM%:  |   28.4   |   22.5   |   17.2   |   16.8   |   16.7  
- YNPM%:  |   14.6   |   7.2    |   3.5    |   5.0    |   4.5   
-YPROFIT: |  252.7   |  130.0   |   65.3   |   99.3   |   92.5  
- PQoQ%:  |  143.6   |  -48.6   |  -49.8   |   52.1   |   -6.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  493.4   |  502.6   |  512.7   |  511.2   |  513.2  
- QoQ%:  |   -2.2   |   1.9    |   2.0    |   -0.3   |   0.4   
- QOPM%: |   16.3   |   16.1   |   16.8   |   16.3   |   17.7  
- QNPM%: |   7.0    |   3.7    |   5.0    |   2.7    |   6.8   
- QPFT:  |   34.6   |   18.4   |   25.8   |   13.7   |   34.7  
- PQoQ%: |   54.7   |  -46.9   |   40.4   |  -47.0   |  153.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1731.8		1793.0		1858.4		1981.0		2039.6		1603.8
+SQoQ%: 	-3.7		3.5		3.6		6.6		3.0		78.6
+YOPM%: 	28.4		22.5		17.2		16.8		16.9
+YNPM%: 	14.6		7.2		3.5		5.0		4.5
+YPROFIT: 252.7		130.0		65.3		99.3		92.5		71.0
+PQoQ%: 	143.6		-48.6		-49.8		52.1		-6.8		76.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 511.2		513.2		530.5		536.7		536.6
+QoQ%: 	-0.3		0.4		3.4		1.2		-0.0
+QOPM%: 	16.3		17.7		16.5		15.1		14.4
+QNPM%: 	2.7		6.8		5.8		3.4		4.0
+QPFT: 	13.7		34.7		31.0		18.3		21.7
+PQoQ%: 	-47.0		153.7		-10.5		-41.2		18.8
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 77% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result
 2039.60cr, QoQ 3.00% & YoY 17.77% SALES;
-340.80cr, QoQ 2.40% & YoY -30.83% OPERATING PROFIT;
+345.40cr, QoQ 3.80% & YoY -29.90% OPERATING PROFIT;
 92.50cr, QoQ -6.80% & YoY -63.40% NET PROFIT;
-OPM %: 16.70% vs 16.8%
+OPM %: 16.90% vs 16.8%
 NPM %: 4.50% vs 5.0%
 

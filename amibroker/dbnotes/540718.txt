@@ -1,26 +1,28 @@
-CODE	NAME
-540718 
-
-SECTOR : Trading
-INDUSTRY : Trading
-PRODUCT DEMAND
+CODES	540718	
+FULLNAME : Aayush Art and Bullion Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+YSD YPD 2025
 YSD YPD 2023
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- YProfits and YSales DOUBLED in Mar2025
 - YProfits and YSales DOUBLED in Mar2023
 
+YSALES in Mar-2025 is at 73.8 showing a QoQ_growth of 906.4%. The YNETPROFIT grew by 596.2% to 1.8
+
+***CONS***
+
 Yearly 
- 31-Mar-2024 #Result
-7.30cr, QoQ -44.60% & YoY 247.62% SALES;
--0.20cr, QoQ -inf% & YoY -33.33% OPERATING PROFIT;
-0.30cr, QoQ 0.00% & YoY -250.00% NET PROFIT;
-OPM %: 0.00% vs 0.0%
-NPM %: 3.50% vs 2.0%
+ 31-Mar-2025 #Result
+73.80cr, QoQ 906.40% & YoY 2852.00% SALES;
+2.40cr, QoQ -1733.30% & YoY -2500.00% OPERATING PROFIT;
+1.80cr, QoQ 596.20% & YoY -inf% NET PROFIT;
+OPM %: 3.30% vs 0.0%
+NPM %: 2.50% vs 3.5%
 

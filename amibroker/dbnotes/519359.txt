@@ -1,40 +1,47 @@
-CODE	NAME
-519359 
+CODES	519359	
+FULLNAME : Poona Dal and Oil Industries Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Edible Oil
+BestQ Dec 2025
 
-SECTOR : Edible Oil
-INDUSTRY : Solvent Extraction
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 162.4		242.5		185.1		98.4		147.2		105.7
+SQoQ%: 	3.2		49.4		-23.7		-46.8		49.6		71.8
+YOPM%: 	1.2		0.6		0.9		1.3		0.5
+YNPM%: 	0.7		0.6		0.6		0.8		0.9
+YPROFIT: 1.1		1.4		1.2		0.8		1.3		1.0
+PQoQ%: 	21.1		28.4		-17.1		-32.8		71.8		76.9
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  157.3   |  162.4   |  242.5   |  185.1   |   98.4   |     114.2    
- SQoQ%:  |  -14.2   |   3.2    |   49.4   |  -23.7   |  -46.8   |     116.1    
- YOPM%:  |   1.1    |   1.2    |   0.6    |   0.9    |   1.3    |              
- YNPM%:  |   0.6    |   0.7    |   0.6    |   0.6    |   0.8    |              
-YPROFIT: |   0.9    |   1.1    |   1.4    |   1.2    |   0.8    |      0.9     
- PQoQ%:  |  -94.1   |   21.1   |   28.4   |  -17.1   |  -32.8   |     112.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   23.3   |   23.0   |   45.9   |   37.1   |   31.2  
- QoQ%:  |   -5.3   |   -1.2   |   99.5   |  -19.1   |  -15.9  
- QOPM%: |   1.1    |   1.8    |   0.8    |   0.8    |   0.1   
- QNPM%: |   0.7    |   1.0    |   0.6    |   0.5    |   1.1   
- QPFT:  |   0.2    |   0.2    |   0.3    |   0.2    |   0.4   
- PQoQ%: |   6.2    |   41.2   |   8.3    |  -23.1   |   75.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 31.2		33.0		34.6		35.0		36.1
+QoQ%: 	-15.9		6.0		4.8		0.9		3.3
+QOPM%: 	0.1		0.2		0.7		0.5		0.4
+QNPM%: 	1.1		1.6		0.6		0.7		1.3
+QPFT: 	0.4		0.5		0.2		0.3		0.5
+PQoQ%: 	75.0		54.3		-63.0		30.0		76.9
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 116% YSales
-- Last 3QPROFIT is about 112% of YProfit
+- Last 3QSALES is about 72% YSales
+- Last 3QPROFIT is about 77% of YProfit
+
+YSALES in Mar-2025 is at 147.2 showing a QoQ_growth of 49.6%. The YNETPROFIT grew by 71.8% to 1.3
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-98.40cr, QoQ -46.80% & YoY -37.44% SALES;
-1.20cr, QoQ -26.30% & YoY -33.33% OPERATING PROFIT;
-0.80cr, QoQ -32.80% & YoY -11.11% NET PROFIT;
-OPM %: 1.30% vs 0.9%
-NPM %: 0.80% vs 0.6%
+ 31-Mar-2025 #Result
+147.20cr, QoQ 49.60% & YoY -9.36% SALES;
+0.80cr, QoQ -37.40% & YoY -60.00% OPERATING PROFIT;
+1.30cr, QoQ 71.80% & YoY 18.18% NET PROFIT;
+OPM %: 0.50% vs 1.3%
+NPM %: 0.90% vs 0.8%
 

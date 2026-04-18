@@ -1,23 +1,22 @@
-CODES
-ARISTO	
-SECTOR : Agro Chemicals
-INDUSTRY : Pesticides / Agrochemicals - Indian
-LYPD PM 2024
+CODES	ARISTO	
+FULLNAME : Aristo Bio-Tech & Lifescience Ltd
+SECTOR : Fertilizers & Agrochemicals
+INDUSTRY : Pesticides & Agrochemicals
+PRODUCT DEMAND
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- LastYr YProfits Doubled and maintained in Mar2024
+- PRODUCT DEMAND is rising since 3 years
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-245.00cr, QoQ 12.60% & YoY 21.77% SALES;
-8.50cr, QoQ -2.40% & YoY 88.89% OPERATING PROFIT;
-3.90cr, QoQ 9.60% & YoY 290.00% NET PROFIT;
-OPM %: 3.50% vs 4.0%
-NPM %: 1.60% vs 1.6%
+ 31-Mar-2025 #Result
+317.90cr, QoQ 29.80% & YoY 90.47% SALES;
+9.30cr, QoQ 9.30% & YoY 116.28% OPERATING PROFIT;
+4.10cr, QoQ 4.10% & YoY 272.73% NET PROFIT;
+OPM %: 2.90% vs 3.5%
+NPM %: 1.30% vs 1.6%
 

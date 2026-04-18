@@ -1,17 +1,50 @@
-CODES
-533048	TPHQ	
-SECTOR : Trading
-INDUSTRY : Trading
-PRODUCT DEMAND
+CODES	533048	TPHQ	
+FULLNAME : Teamo Productions HQ Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
+EXPANSION 2024
+EXPANSION 2025
+BestQ Dec 2025
+YSD YPD 2023
 
-***CONS***
-- NEGATIVE YProfit : -1.0
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.1		0.1		840.4		62.8		64.8		97.1
+SQoQ%: 	-9.1		10.0		763881.8		-92.5		3.2		149.8
+YOPM%: 	0.0		0.0		0.1		6.2		2.3
+YNPM%: 	0.0		9.1		0.3		7.8		5.2
+YPROFIT: -2.5		0.0		2.9		4.9		3.4		6.3
+PQoQ%: 	6200.0		-100.4		28700.0		69.4		-30.7		185.3
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 19.8		15.8		28.3		51.0		17.8
+QoQ%: 	-86.4		-19.9		78.7		80.5		-65.0
+QOPM%: 	0.0		0.0		0.8		0.6		14.3
+QNPM%: 	2.4		0.8		2.5		1.0		28.7
+QPFT: 	0.5		0.1		0.7		0.5		5.1
+PQoQ%: 	-68.7		-72.3		446.2		-28.2		903.9
 
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+A DEBT-Free Company for the last 2 yrs
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 150% YSales
+- Last 3QPROFIT is about 185% of YProfit
+- YProfits and YSales DOUBLED in Mar2023
 
-YSALES in Mar-2019 is at 0.0 showing a QoQ_growth of 150.0%. The YNETPROFIT grew by 1055.6% to -1.0
+***CONS***
+- NO PRODUCT DEMAND
+
+Yearly 
+ 31-Mar-2025 #Result
+64.80cr, QoQ 3.20% & YoY 64700.00% SALES;
+1.50cr, QoQ -61.50% & YoY -160.00% OPERATING PROFIT;
+3.40cr, QoQ -30.70% & YoY -236.00% NET PROFIT;
+OPM %: 2.30% vs 6.2%
+NPM %: 5.20% vs 7.8%
+

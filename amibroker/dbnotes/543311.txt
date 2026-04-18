@@ -1,25 +1,46 @@
-CODES
-543311	IPL	
-SECTOR : Agro Chemicals
-INDUSTRY : Pesticides / Agrochemicals - Indian
-BestQ Dec 2024
+CODES	543311	IPL	
+FULLNAME : India Pesticides Ltd
+SECTOR : Fertilizers & Agrochemicals
+INDUSTRY : Pesticides & Agrochemicals
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 649.0		716.1		884.9		680.4		828.6		791.0
+SQoQ%: 	nan		10.4		23.6		-23.1		21.8		95.5
+YOPM%: 	28.2		29.8		22.3		12.7		14.4
+YNPM%: 	20.7		22.1		16.2		8.8		9.9
+YPROFIT: 134.5		158.0		143.2		60.2		82.2		89.2
+PQoQ%: 	nan		17.4		-9.3		-58.0		36.6		108.5
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 172.2		207.2		275.2		290.4		225.4
+QoQ%: 	-24.7		20.3		32.8		5.5		-22.4
+QOPM%: 	15.4		15.3		16.4		16.8		16.7
+QNPM%: 	9.3		10.5		12.7		10.9		10.1
+QPFT: 	16.1		21.8		34.9		31.6		22.7
+PQoQ%: 	-38.0		35.5		60.4		-9.5		-28.2
 
 
 
 ***PROS***
-- Last 3QSALES is about 91% YSales
-- Last 3QPROFIT is about 102% of YProfit
+- Last 3QSALES is about 95% YSales
+- Last 3QPROFIT is about 109% of YProfit
 
+
+YSALES in Mar-2025 is at 828.6 showing a QoQ_growth of 21.8%. The YNETPROFIT grew by 36.6% to 82.2
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-680.40cr, QoQ -23.10% SALES;
-86.60cr, QoQ -56.00% OPERATING PROFIT;
-60.20cr, QoQ -58.00% NET PROFIT;
-OPM %: 12.70% vs 22.3%
-NPM %: 8.80% vs 16.2%
+ 31-Mar-2025 #Result
+828.60cr, QoQ 21.80% & YoY 27.67% SALES;
+119.60cr, QoQ 38.10% & YoY -34.68% OPERATING PROFIT;
+82.20cr, QoQ 36.60% & YoY -38.88% NET PROFIT;
+OPM %: 14.40% vs 12.7%
+NPM %: 9.90% vs 8.8%
 

@@ -1,16 +1,18 @@
-CODES
-534615	NECCLTD	
-SECTOR : Logistics
-INDUSTRY : Miscellaneous
+CODES	534615	NECCLTD	
+FULLNAME : North Eastern Carrying Corporation Ltd
+SECTOR : Transport Services
+INDUSTRY : Logistics Solution Provider
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2017 #Result

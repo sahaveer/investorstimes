@@ -1,30 +1,35 @@
-CODE	NAME
-523144 
+CODES	523144	
+FULLNAME : Medi Caps Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+PRODUCT DEMAND
 
-SECTOR : Realty
-INDUSTRY : Construction
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 58.7		69.9		49.4		27.4		25.5		9.0
+SQoQ%: 	36.4		19.0		-29.3		-44.6		-6.8		35.3
+YOPM%: 	20.9		14.4		10.5		0.0		0.0
+YNPM%: 	19.0		14.4		3.6		0.0		0.0
+YPROFIT: 11.1		10.1		1.8		-2.2		-0.6		-6.1
+PQoQ%: 	-290.3		-9.4		-82.5		-227.3		-74.6		1016.7
 
-***CONS***
-- NO PRODUCT DEMAND
-- NEGATIVE YProfit : -2.2
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   43.0   |   58.7   |   69.9   |   49.4   |   27.4   |      18.5    
- SQoQ%:  |  -16.9   |   36.4   |   19.0   |  -29.3   |  -44.6   |      67.5    
- YOPM%:  |   0.0    |   20.9   |   14.4   |   10.5   |   0.0    |              
- YNPM%:  |   0.0    |   19.0   |   14.4   |   3.6    |   0.0    |              
-YPROFIT: |   -5.8   |   11.1   |   10.1   |   1.8    |   -2.2   |      -2.3    
- PQoQ%:  |  -208.5  |  -290.3  |   -9.4   |  -82.5   |  -227.3  |     104.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   7.1    |   7.9    |   6.2    |   8.3    |   4.0   
- QoQ%:  |   17.2   |   11.3   |  -21.2   |   33.7   |  -51.5  
- QOPM%: |   9.9    |   0.0    |   0.0    |   5.4    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   3.7    |   0.0   
- QPFT:  |   -0.2   |   -1.1   |   -0.6   |   0.3    |   -2.0  
- PQoQ%: |  -233.3  |  575.0   |  -48.1   |  -155.4  |  -761.3 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4.0		7.0		2.7		2.0		4.3
+QoQ%: 	-51.5		73.4		-61.4		-24.9		112.9
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		24.7		0.0		0.0		0.0
+QPFT: 	-2.0		1.7		-3.5		-1.8		-0.8
+PQoQ%: 	-761.3		-183.9		-302.9		-47.9		-57.7
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 68% YSales
+
+***CONS***
+- NEGATIVE YProfit : -0.6

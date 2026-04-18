@@ -1,11 +1,10 @@
-CODES
-ATCENERGY	
+CODES	ATCENERGY	
+FULLNAME : ATC Energies System Ltd
 SECTOR : Dry cells
 INDUSTRY : Dry Cells
 PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -15,6 +14,8 @@ ROCE in Mar2024 is at 25.7%
 
 
 YSALES in Mar-2024 is at 51.2 showing a QoQ_growth of 54.5%. The YNETPROFIT grew by 40.3% to 10.9
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

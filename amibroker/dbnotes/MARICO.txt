@@ -1,31 +1,40 @@
-CODES
-531642	MARICO	
-SECTOR : Edible Oil
-INDUSTRY : Solvent Extraction
+CODES	531642	MARICO	
+FULLNAME : Marico Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Edible Oil
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  8048.0  |  9512.0  |  9764.0  |  9653.0  | 10831.0 
- SQoQ%:  |   10.0   |   18.2   |   2.6    |   -1.1   |   12.2  
- YOPM%:  |   19.7   |   17.7   |   18.5   |   21.0   |   19.7  
- YNPM%:  |   14.6   |   12.9   |   13.3   |   15.3   |   15.0  
-YPROFIT: |  1172.0  |  1225.0  |  1302.0  |  1481.0  |  1629.0 
- PQoQ%:  |   14.8   |   4.5    |   6.3    |   13.7   |   10.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2278.0  |  2643.0  |  2664.0  |  2794.0  |  2730.0 
- QoQ%:  |   -5.9   |   16.0   |   0.8    |   4.9    |   -2.3  
- QOPM%: |   19.4   |   23.7   |   19.6   |   19.1   |   16.8  
- QNPM%: |   14.0   |   17.6   |   15.9   |   14.3   |   12.6  
- QPFT:  |  318.0   |  464.0   |  423.0   |  399.0   |  343.0  
- PQoQ%: |  -17.0   |   45.9   |   -8.8   |   -5.7   |  -14.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 8048.0		9512.0		9764.0		9653.0		10831.0		10278.0
+SQoQ%: 	10.0		18.2		2.6		-1.1		12.2		94.9
+YOPM%: 	19.7		17.7		18.5		21.0		19.7
+YNPM%: 	14.6		12.9		13.3		15.3		15.0
+YPROFIT: 1172.0		1225.0		1302.0		1481.0		1629.0		1371.0
+PQoQ%: 	14.8		4.5		6.3		13.7		10.0		84.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 2794.0		2730.0		3259.0		3482.0		3537.0
+QoQ%: 	4.9		-2.3		19.4		6.8		1.6
+QOPM%: 	19.1		16.8		20.1		16.1		16.7
+QNPM%: 	14.3		12.6		15.5		12.1		12.6
+QPFT: 	399.0		343.0		504.0		420.0		447.0
+PQoQ%: 	-5.7		-14.0		46.9		-16.7		6.4
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 51.8%
+- Last 3QSALES is about 95% YSales
+- Last 3QPROFIT is about 84% of YProfit
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

@@ -1,12 +1,28 @@
-CODES
-543957	REDTAPE	
-SECTOR : Retail
-INDUSTRY : Trading
+CODES	543957	REDTAPE	
+FULLNAME : Redtape Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Footwear
+BestQ Dec 2025
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- Last 3QSALES is about 86% YSales
+- Double QSales and QProfit
+- Last 3QPROFIT is about 100% of YProfit
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+2020.90cr, QoQ 9.70% SALES;
+338.60cr, QoQ 6.10% OPERATING PROFIT;
+170.00cr, QoQ -3.50% NET PROFIT;
+OPM %: 16.80% vs 17.3%
+NPM %: 8.40% vs 9.6%
+

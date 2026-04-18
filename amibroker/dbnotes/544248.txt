@@ -1,11 +1,11 @@
-CODE	NAME
-544248 
-
+CODES	544248	
+FULLNAME : Mach Conferences & Events Ltd
 SECTOR : Miscellaneous
 INDUSTRY : Miscellaneous
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

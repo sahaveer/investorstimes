@@ -1,7 +1,7 @@
-CODES
-542851	GENSOL	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Engineering - Turnkey Services
+CODES	542851	GENSOL	
+FULLNAME : Gensol Engineering Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Other Electrical Equipment
 BestQ Dec 2024
 YSD YPD 2024
 YSD YPD 2023
@@ -9,23 +9,27 @@ YSD YPD 2022
 LYPD PM 2024
 PROFIT GROWTH BETTER THAN SALES GROWTH 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   80.7   |   64.0   |  160.4   |  398.0   |  963.1   |     1053.0   
- SQoQ%:  |   -2.7   |  -20.8   |  150.8   |  148.1   |  142.0   |     109.3    
- YOPM%:  |   5.0    |   9.9    |   12.0   |   19.6   |   23.9   |              
- YNPM%:  |   2.7    |   5.0    |   6.9    |   5.9    |   6.2    |              
-YPROFIT: |   2.2    |   3.2    |   11.1   |   23.4   |   59.6   |      78.3    
- PQoQ%:  |  -66.5   |   44.3   |  247.6   |  110.6   |  154.9   |     131.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  220.2   |  398.8   |  362.0   |  346.5   |  344.5  
- QoQ%:  |  -27.7   |   81.1   |   -9.2   |   -4.3   |   -0.6  
- QOPM%: |   28.6   |   19.7   |   20.6   |   30.8   |   20.2  
- QNPM%: |   5.8    |   6.1    |   8.8    |   8.5    |   4.9   
- QPFT:  |   12.8   |   24.3   |   32.0   |   29.4   |   16.9  
- PQoQ%: |  -30.3   |   90.2   |   31.9   |   -8.2   |  -42.4  
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2022	Mar-2023	Mar-2024	QSUM:Dec-2024
+YSALES: 80.7		64.0		160.4		398.0		963.1		1053.0
+SQoQ%: 	-2.7		-20.8		150.8		148.1		142.0		109.3
+YOPM%: 	5.0		9.9		12.0		19.6		23.9
+YNPM%: 	2.7		5.0		6.9		5.9		6.2
+YPROFIT: 2.2		3.2		11.1		23.4		59.6		78.3
+PQoQ%: 	-66.5		44.3		247.6		110.6		154.9		131.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2023	Mar-2024	Jun-2024	Sep-2024	Dec-2024
+QSALES: 220.2		398.8		362.0		346.5		344.5
+QoQ%: 	-27.7		81.1		-9.2		-4.3		-0.6
+QOPM%: 	28.6		19.7		20.6		30.8		20.2
+QNPM%: 	5.8		6.1		8.8		8.5		4.9
+QPFT: 	12.8		24.3		32.0		29.4		16.9
+PQoQ%: 	-30.3		90.2		31.9		-8.2		-42.4
+
+
 
 ***PROS***
 - Last 3QSALES is about 109% YSales
@@ -36,6 +40,8 @@ QSALES: |  220.2   |  398.8   |  362.0   |  346.5   |  344.5
 - LastYr YProfits Doubled and maintained in Mar2024
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2024, Sales have increased by 142.0% while the Profit QoQ_growth is much better than Sales itself at 154.9%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

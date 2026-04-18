@@ -1,29 +1,31 @@
-CODE	NAME
-540614 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	540614	
+FULLNAME : G G Engineering Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Heavy Electrical Equipment
 YSD YPD 2023
 LYPD PM 2023
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2019 | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023
----------+----------+----------+----------+----------+---------
-YSALES:  |   82.0   |   20.2   |   37.4   |   22.6   |   99.6  
- SQoQ%:  |   nan    |  -75.4   |   85.5   |  -39.7   |  341.6  
- YOPM%:  |   4.5    |   4.5    |   2.9    |   7.1    |   0.0   
- YNPM%:  |   2.8    |   0.0    |   0.0    |   0.4    |   8.6   
-YPROFIT: |   2.3    |   -0.6   |   -0.3   |   0.1    |   8.6   
- PQoQ%:  |   nan    |  -125.2  |  -40.4   |  -126.5  |  9466.7 
- QPNL:  | Jun-2022 | Sep-2022 | Dec-2022 | Mar-2023 | Jun-2023
---------+----------+----------+----------+----------+---------
-QSALES: |   12.1   |   37.0   |   29.9   |   24.9   |   19.0  
- QoQ%:  |   46.5   |  204.9   |  -19.1   |  -16.7   |  -24.0  
- QOPM%: |   4.9    |   0.1    |   0.0    |   0.0    |   4.8   
- QNPM%: |   3.1    |   0.0    |   10.7   |   19.2   |   2.7   
- QPFT:  |   0.4    |   0.0    |   3.2    |   4.8    |   0.5   
- PQoQ%: |  -67.5   |  -100.0  |   inf    |   49.4   |  -89.3  
+***YEARLY***
+YPNL: 	Mar-2019	Mar-2020	Mar-2021	Mar-2022	Mar-2023
+YSALES: 82.0		20.2		37.4		22.6		99.6
+SQoQ%: 	nan		-75.4		85.5		-39.7		341.6
+YOPM%: 	4.5		4.5		2.9		7.1		0.0
+YNPM%: 	2.8		0.0		0.0		0.4		8.6
+YPROFIT: 2.3		-0.6		-0.3		0.1		8.6
+PQoQ%: 	nan		-125.2		-40.4		-126.5		9466.7
+
+
+
+***QUARTERLY***
+QPNL: 	Jun-2022	Sep-2022	Dec-2022	Mar-2023	Jun-2023
+QSALES: 12.1		37.0		29.9		24.9		19.0
+QoQ%: 	46.5		204.9		-19.1		-16.7		-24.0
+QOPM%: 	4.9		0.1		0.0		0.0		4.8
+QNPM%: 	3.1		0.0		10.7		19.2		2.7
+QPFT: 	0.4		0.0		3.2		4.8		0.5
+PQoQ%: 	-67.5		-100.0		inf		49.4		-89.3
+
+
 
 ***PROS***
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
@@ -31,6 +33,9 @@ QSALES: |   12.1   |   37.0   |   29.9   |   24.9   |   19.0
 - LastYr YProfits Doubled and maintained in Mar2023
 
 YSALES in Mar-2023 is at 99.6 showing a QoQ_growth of 341.6%. The YNETPROFIT grew by 9466.7% to 8.6
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2023 #Result

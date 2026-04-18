@@ -1,47 +1,50 @@
-CODE	NAME
-526721 
-
-SECTOR : Entertainment
-INDUSTRY : Recreation / Amusement Parks
-BestQ Dec 2024
+CODES	526721	
+FULLNAME : Nicco Parks & Resorts Ltd
+SECTOR : Leisure Services
+INDUSTRY : Amusement Parks/ Other Recreation
+PRODUCT DEMAND
 YSD YPD 2023
-LYPD PM 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   55.1   |   17.5   |   31.3   |   76.6   |   79.3   |      57.4    
- SQoQ%:  |   -0.6   |  -68.2   |   78.9   |  144.5   |   3.5    |      72.4    
- YOPM%:  |   19.2   |   0.0    |   18.6   |   38.6   |   34.4   |              
- YNPM%:  |   13.5   |   0.0    |   15.5   |   29.4   |   31.2   |              
-YPROFIT: |   7.5    |   -3.5   |   4.9    |   22.5   |   24.8   |      19.1    
- PQoQ%:  |  -20.2   |  -147.2  |  -238.4  |  362.8   |   9.8    |      77.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   17.6   |   18.3   |   24.7   |   13.8   |   18.9  
- QoQ%:  |   5.2    |   4.3    |   35.0   |  -44.3   |   37.3  
- QOPM%: |   25.9   |   24.5   |   39.9   |   20.3   |   27.0  
- QNPM%: |   24.0   |   27.0   |   35.5   |   39.5   |   25.7  
- QPFT:  |   4.2    |   4.9    |   8.8    |   5.4    |   4.9   
- PQoQ%: |  -11.6   |   17.3   |   77.9   |  -38.1   |  -10.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 17.5		31.3		76.6		79.3		75.0		51.0
+SQoQ%: 	-68.2		78.9		144.5		3.5		-5.4		68.0
+YOPM%: 	0.0		18.6		38.6		34.4		28.9
+YNPM%: 	0.0		15.5		29.4		31.2		29.9
+YPROFIT: -3.5		4.9		22.5		24.8		22.4		-2.1
+PQoQ%: 	-147.2		-238.4		362.8		9.8		-9.4		-9.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 18.9		17.6		26.3		11.5		13.2
+QoQ%: 	37.3		-7.0		49.5		-56.3		14.8
+QOPM%: 	27.0		22.3		42.3		0.0		0.0
+QNPM%: 	25.7		19.1		0.0		2.1		7.0
+QPFT: 	4.9		3.4		-3.2		0.2		0.9
+PQoQ%: 	-10.7		-30.9		-194.0		-107.6		283.3
+
+
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
+DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 33.9%
+ROCE in Mar2025 is at 29.3%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 72% YSales
-- Last 3QPROFIT is about 77% of YProfit
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- Last 3QSALES is about 68% YSales
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 - YProfits and YSales DOUBLED in Mar2023
-- LastYr YProfits Doubled and maintained in Mar2024
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-79.30cr, QoQ 3.50% & YoY 43.92% SALES;
-27.30cr, QoQ -7.90% & YoY 157.55% OPERATING PROFIT;
-24.80cr, QoQ 9.80% & YoY 230.67% NET PROFIT;
-OPM %: 34.40% vs 38.6%
-NPM %: 31.20% vs 29.4%
+ 31-Mar-2025 #Result
+75.00cr, QoQ -5.40% & YoY 328.57% SALES;
+21.70cr, QoQ -20.40% & YoY -642.50% OPERATING PROFIT;
+22.40cr, QoQ -9.40% & YoY -740.00% NET PROFIT;
+OPM %: 28.90% vs 34.4%
+NPM %: 29.90% vs 31.2%
 

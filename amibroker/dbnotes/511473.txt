@@ -1,36 +1,45 @@
-CODES
-511473	INDBANK	
-SECTOR : 
-INDUSTRY : 
+CODES	511473	INDBANK	
+FULLNAME : Indbank Merchant Banking Services Ltd
+SECTOR : Capital Markets
+INDUSTRY : Stockbroking & Allied
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   14.9   |   20.6   |   18.2   |   24.8   |   26.8  
- SQoQ%:  |   30.0   |   38.3   |  -11.5   |   35.7   |   8.2   
- YOPM%:  |   13.7   |   31.3   |   30.2   |   44.3   |   44.9  
- YNPM%:  |   27.2   |   33.8   |   19.2   |   36.3   |   31.6  
-YPROFIT: |   4.1    |   7.0    |   3.5    |   9.0    |   8.5   
- PQoQ%:  |   94.3   |   71.4   |  -49.7   |  157.1   |   -6.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   6.9    |   7.7    |   8.1    |   5.6    |   5.3   
- QoQ%:  |   3.9    |   12.2   |   5.6    |  -30.8   |   -5.7  
- QOPM%: |   48.4   |   49.9   |   55.5   |   36.1   |   31.3  
- QNPM%: |   36.4   |   37.0   |   40.6   |   20.8   |   21.5  
- QPFT:  |   2.5    |   2.8    |   3.3    |   1.2    |   1.1   
- PQoQ%: |   -2.3   |   14.0   |   15.8   |  -64.5   |   -2.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 14.9		20.6		18.2		24.8		26.6		19.2
+SQoQ%: 	30.0		38.3		-11.5		35.7		7.3		72.2
+YOPM%: 	13.7		31.3		30.2		44.3		45.0
+YNPM%: 	27.2		33.8		19.2		36.3		31.8
+YPROFIT: 4.1		7.0		3.5		9.0		8.5		5.9
+PQoQ%: 	94.3		71.4		-49.7		157.1		-6.0		69.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 5.6		5.3		6.7		6.3		6.2
+QoQ%: 	-30.8		-5.7		26.0		-6.1		-0.5
+QOPM%: 	36.1		31.3		43.5		42.2		42.6
+QNPM%: 	20.8		21.5		32.0		29.6		30.7
+QPFT: 	1.2		1.1		2.1		1.9		1.9
+PQoQ%: 	-64.5		-2.6		87.7		-13.1		3.2
+
+
 
 ***PROS***
 A DEBT-Free Company for the last 2 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 72% YSales
+- Last 3QPROFIT is about 69% of YProfit
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-26.80cr, QoQ 8.20% & YoY 79.87% SALES;
-12.00cr, QoQ 9.80% & YoY 500.00% OPERATING PROFIT;
+26.60cr, QoQ 7.30% & YoY 78.52% SALES;
+12.00cr, QoQ 9.10% & YoY 500.00% OPERATING PROFIT;
 8.50cr, QoQ -6.00% & YoY 107.32% NET PROFIT;
-OPM %: 44.90% vs 44.3%
-NPM %: 31.60% vs 36.3%
+OPM %: 45.00% vs 44.3%
+NPM %: 31.80% vs 36.3%
 

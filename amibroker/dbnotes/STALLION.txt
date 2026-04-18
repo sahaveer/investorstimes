@@ -1,13 +1,13 @@
-CODES
-544342	STALLION	
+CODES	544342	STALLION	
+FULLNAME : Stallion India Fluorochemicals Ltd
 SECTOR : 
 INDUSTRY : 
 PRODUCT DEMAND
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
@@ -16,6 +16,8 @@ A DEBT-Free Company
 
 YSALES in Mar-2025 is at 377.4 showing a QoQ_growth of 61.8%. The YNETPROFIT grew by 118.6% to 32.3
 - RISING QSALES & QPROFIT : QSALES QoQ_Growth in Mar-2025 is at 78.0%. The QPROFIT QoQ_growth by 35.5%
+
+***CONS***
 
 Quarterly 
 31-Mar-2025 #Result

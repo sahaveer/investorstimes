@@ -1,42 +1,42 @@
-CODE	NAME
-513548 
+CODES	513548	
+FULLNAME : Sharda Ispat Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
+BestQ Dec 2025
 
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
-PRODUCT DEMAND
-BestQ Dec 2024
-YS15 YPD 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 93.6		117.8		141.6		223.6		172.7		101.6
+SQoQ%: 	2.6		25.8		20.3		57.9		-22.8		58.8
+YOPM%: 	5.1		4.3		4.2		8.6		5.5
+YNPM%: 	3.7		2.6		2.8		6.2		4.4
+YPROFIT: 3.4		3.0		4.0		14.0		7.6		1.8
+PQoQ%: 	-3.9		-12.5		32.1		250.1		-45.7		23.7
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   91.2   |   93.6   |  117.8   |  141.6   |  223.6   |     134.6    
- SQoQ%:  |  -19.1   |   2.6    |   25.8   |   20.3   |   57.9   |      60.2    
- YOPM%:  |   6.2    |   5.1    |   4.3    |   4.2    |   8.6    |              
- YNPM%:  |   3.9    |   3.7    |   2.6    |   2.8    |   6.2    |              
-YPROFIT: |   3.6    |   3.4    |   3.0    |   4.0    |   14.0   |      6.6     
- PQoQ%:  |  -47.0   |   -3.9   |  -12.5   |   32.1   |  250.1   |      47.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   58.3   |   52.7   |   47.8   |   32.4   |   54.4  
- QoQ%:  |   3.7    |   -9.7   |   -9.3   |  -32.1   |   67.5  
- QOPM%: |   8.2    |   9.2    |   8.2    |   1.6    |   6.7   
- QNPM%: |   6.1    |   7.9    |   6.2    |   1.5    |   5.8   
- QPFT:  |   3.5    |   4.2    |   3.0    |   0.5    |   3.1   
- PQoQ%: |   -9.9   |   18.1   |  -29.2   |  -83.4   |  538.8  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 54.4		40.9		27.8		26.2		47.6
+QoQ%: 	67.5		-24.8		-31.9		-5.9		81.7
+QOPM%: 	6.7		3.3		0.8		0.5		3.8
+QNPM%: 	5.8		2.4		1.0		0.5		3.0
+QPFT: 	3.1		1.0		0.3		0.1		1.4
+PQoQ%: 	538.8		-68.1		-72.0		-53.6		1007.7
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 60% YSales
+- Last 3QSALES is about 59% YSales
 - Double QSales and QProfit
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
-As on Mar2024, Sales have increased by 57.9% while the Profit QoQ_growth is much better than Sales itself at 250.1%
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-223.60cr, QoQ 57.90% & YoY 145.18% SALES;
-19.30cr, QoQ 221.00% & YoY 244.64% OPERATING PROFIT;
-14.00cr, QoQ 250.10% & YoY 288.89% NET PROFIT;
-OPM %: 8.60% vs 4.2%
-NPM %: 6.20% vs 2.8%
+ 31-Mar-2025 #Result
+172.70cr, QoQ -22.80% & YoY 84.51% SALES;
+9.50cr, QoQ -50.80% & YoY 102.13% OPERATING PROFIT;
+7.60cr, QoQ -45.70% & YoY 123.53% NET PROFIT;
+OPM %: 5.50% vs 8.6%
+NPM %: 4.40% vs 6.2%
 

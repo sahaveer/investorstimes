@@ -1,33 +1,40 @@
-CODES
-500031	BAJAJELEC	
+CODES	500031	BAJAJELEC	
+FULLNAME : Bajaj Electricals Ltd
 SECTOR : Consumer Durables
-INDUSTRY : Domestic Appliances
+INDUSTRY : Household Appliances
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 4583.8		4810.6		4889.5		4639.0		4826.3		3222.6
+SQoQ%: 	-8.0		4.9		1.6		-5.1		4.0		66.8
+YOPM%: 	6.6		5.2		7.7		5.6		6.4
+YNPM%: 	4.2		2.7		4.4		2.8		2.8
+YPROFIT: 190.6		128.5		216.2		131.1		133.4		-23.3
+PQoQ%: 	-2153.3		-32.6		68.2		-39.4		1.8		-17.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1289.7		1265.5		1064.6		1107.1		1050.9
+QoQ%: 	15.3		-1.9		-15.9		4.0		-5.1
+QOPM%: 	6.8		7.3		3.1		5.2		0.8
+QNPM%: 	2.6		4.7		0.1		0.9		0.0
+QPFT: 	33.4		59.0		0.9		9.9		-34.1
+PQoQ%: 	158.6		77.0		-98.5		983.5		-445.8
+
+
+
+***PROS***
+- Last 3QSALES is about 67% YSales
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  4583.8  |  4810.6  |  4889.5  |  4639.0  |  4828.4 
- SQoQ%:  |   -8.0   |   4.9    |   1.6    |   -5.1   |   4.1   
- YOPM%:  |   6.6    |   5.2    |   7.7    |   5.6    |   6.4   
- YNPM%:  |   4.2    |   2.7    |   4.4    |   2.8    |   2.8   
-YPROFIT: |  190.6   |  128.5   |  216.2   |  131.1   |  133.4  
- PQoQ%:  | -2153.3  |  -32.6   |   68.2   |  -39.4   |   1.8   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1188.1  |  1154.9  |  1118.3  |  1289.7  |  1265.5 
- QoQ%:  |   -3.3   |   -2.8   |   -3.2   |   15.3   |   -1.9  
- QOPM%: |   4.2    |   6.5    |   4.6    |   6.8    |   7.3   
- QNPM%: |   2.5    |   2.4    |   1.2    |   2.6    |   4.7   
- QPFT:  |   29.3   |   28.1   |   12.9   |   33.4   |   59.0  
- PQoQ%: |  -21.5   |   -4.1   |  -54.1   |  158.6   |   77.0  
-
-***PROS***
 
 Yearly 
  31-Mar-2025 #Result
-4828.40cr, QoQ 4.10% & YoY 5.34% SALES;
-307.50cr, QoQ 18.40% & YoY 1.42% OPERATING PROFIT;
+4826.30cr, QoQ 4.00% & YoY 5.29% SALES;
+307.40cr, QoQ 18.40% & YoY 1.39% OPERATING PROFIT;
 133.40cr, QoQ 1.80% & YoY -30.01% NET PROFIT;
 OPM %: 6.40% vs 5.6%
 NPM %: 2.80% vs 2.8%

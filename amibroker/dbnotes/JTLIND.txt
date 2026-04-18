@@ -1,28 +1,43 @@
-CODES
-534600	JTLIND	
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
-BestQ Dec 2024
+CODES	534600	JTLIND	
+FULLNAME : JTL Industries Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 435.4		975.1		1548.8		2039.7		1914.6		1443.7
+SQoQ%: 	nan		123.9		58.8		31.7		-6.1		75.4
+YOPM%: 	7.5		7.4		8.4		7.5		6.4
+YNPM%: 	4.6		5.1		5.8		5.5		5.2
+YPROFIT: 20.1		50.0		90.1		113.0		98.8		64.0
+PQoQ%: 	nan		149.4		80.2		25.4		-12.6		64.8
 
 
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 451.6		469.5		543.9		429.3		470.5
+QoQ%: 	-5.8		4.0		15.8		-21.1		9.6
+QOPM%: 	7.8		3.8		4.3		8.1		8.2
+QNPM%: 	5.5		3.6		3.0		5.0		5.6
+QPFT: 	24.9		16.8		16.3		21.4		26.3
+PQoQ%: 	-5.4		-32.6		-3.0		31.2		22.9
 
 
 
 ***PROS***
-A DEBT-Free Company
-- Last 3QSALES is about 71% YSales
-- Last 3QPROFIT is about 73% of YProfit
+- Last 3QSALES is about 75% YSales
+- Last 3QPROFIT is about 65% of YProfit
 
-YSALES in Mar-2024 is at 2039.2 showing a QoQ_growth of 31.7%. The YNETPROFIT grew by 25.4% to 113.0
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-2039.20cr, QoQ 31.70% SALES;
-152.20cr, QoQ 17.60% OPERATING PROFIT;
-113.00cr, QoQ 25.40% NET PROFIT;
-OPM %: 7.50% vs 8.4%
-NPM %: 5.50% vs 5.8%
+ 31-Mar-2025 #Result
+1914.60cr, QoQ -6.10% & YoY 339.73% SALES;
+122.90cr, QoQ -19.50% & YoY 274.70% OPERATING PROFIT;
+98.80cr, QoQ -12.60% & YoY 391.54% NET PROFIT;
+OPM %: 6.40% vs 7.5%
+NPM %: 5.20% vs 5.5%
 

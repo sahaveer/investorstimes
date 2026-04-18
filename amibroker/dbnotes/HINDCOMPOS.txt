@@ -1,31 +1,40 @@
-CODES
-509635	HINDCOMPOS	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
+CODES	509635	HINDCOMPOS	
+FULLNAME : Hindustan Composites Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  184.6   |  232.6   |  282.7   |  297.7   |  325.1  
- SQoQ%:  |   3.7    |   26.0   |   21.5   |   5.3    |   9.2   
- YOPM%:  |   14.3   |   14.3   |   14.5   |   17.5   |   18.1  
- YNPM%:  |   10.7   |   9.3    |   9.7    |   11.6   |   10.8  
-YPROFIT: |   19.7   |   21.6   |   27.5   |   34.4   |   35.0  
- PQoQ%:  |   88.3   |   9.5    |   27.2   |   25.3   |   1.7   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   78.6   |   77.2   |   77.0   |   81.8   |   89.2  
- QoQ%:  |   9.6    |   -1.8   |   -0.3   |   6.3    |   8.9   
- QOPM%: |   15.6   |   17.6   |   16.8   |   19.7   |   18.2  
- QNPM%: |   10.1   |   11.2   |   12.1   |   13.4   |   6.8   
- QPFT:  |   8.0    |   8.7    |   9.3    |   11.0   |   6.1   
- PQoQ%: |   23.4   |   8.8    |   7.2    |   18.1   |  -44.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 184.6		232.6		282.7		297.7		325.1		270.2
+SQoQ%: 	3.7		26.0		21.5		5.3		9.2		83.1
+YOPM%: 	14.3		14.3		14.5		17.5		18.1
+YNPM%: 	10.7		9.3		9.7		11.6		10.8
+YPROFIT: 19.7		21.6		27.5		34.4		35.0		19.5
+PQoQ%: 	88.3		9.5		27.2		25.3		1.7		55.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 81.8		89.2		87.1		88.6		94.5
+QoQ%: 	6.3		8.9		-2.3		1.7		6.7
+QOPM%: 	19.7		18.2		15.8		11.9		15.7
+QNPM%: 	13.4		6.8		8.6		6.0		7.1
+QPFT: 	11.0		6.1		7.5		5.3		6.7
+PQoQ%: 	18.1		-44.7		22.9		-29.2		26.3
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 32.8%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 56% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

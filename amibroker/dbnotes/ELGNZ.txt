@@ -1,16 +1,17 @@
-CODES
-ELGNZ	
+CODES	ELGNZ	
+FULLNAME : Eleganz Interiors Ltd
 SECTOR : Miscellaneous
 INDUSTRY : Miscellaneous
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 
 YSALES in Mar-2025 is at 392.7 showing a QoQ_growth of 77.5%. The YNETPROFIT grew by 77.3% to 19.8
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

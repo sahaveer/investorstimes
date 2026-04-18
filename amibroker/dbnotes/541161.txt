@@ -1,16 +1,33 @@
-CODES
-541161	KBCGLOBAL	
-SECTOR : Realty
-INDUSTRY : Construction
-PRODUCT DEMAND
+CODES	541161	KBCGLOBAL	
+FULLNAME : KBC Global Ltd
+SECTOR : Consumer Discretionary
+INDUSTRY : Realty
+YSD YPD 2025
 
-***CONS***
-- NEGATIVE YProfit : -36.6
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 128.8		101.6		91.2		-26.8		18.0
+SQoQ%: 	nan		-21.1		-10.2		-129.3		-167.3
+YOPM%: 	27.2		28.2		0.0		0.0		0.0
+YNPM%: 	15.7		17.0		0.0		0.0		0.0
+YPROFIT: 20.3		17.2		-3.5		-36.6		-38.3
+PQoQ%: 	nan		-14.9		-120.5		933.1		4.8
 
 
+
+***QUARTERLY***
+QPNL: 	Mar-2024	Jun-2024	Sep-2024	Dec-2024	Mar-2025
+QSALES: 12.6		9.3		6.2		1.1		1.4
+QoQ%: 	-0.2		-25.7		-33.5		-82.4		25.7
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-5.6		-15.4		-0.4		-20.0		-2.5
+PQoQ%: 	-80.9		177.7		-97.2		4558.1		-87.7
 
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2025
 
+***CONS***
+- NEGATIVE YProfit : -38.3

@@ -1,31 +1,40 @@
-CODES
-532757	VOLTAMP	
-SECTOR : 
-INDUSTRY : 
+CODES	532757	VOLTAMP	
+FULLNAME : Voltamp Transformers Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Heavy Electrical Equipment
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  692.3   |  1127.2  |  1385.1  |  1616.2  |  1934.2 
- SQoQ%:  |  -19.4   |   62.8   |   22.9   |   16.7   |   19.7  
- YOPM%:  |   11.2   |   12.3   |   16.7   |   19.9   |   18.9  
- YNPM%:  |   16.2   |   11.8   |   14.4   |   19.0   |   16.8  
-YPROFIT: |  112.2   |  132.8   |  199.9   |  307.4   |  325.4  
- PQoQ%:  |   25.6   |   18.4   |   50.5   |   53.7   |   5.9   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  504.2   |  428.2   |  397.7   |  483.5   |  624.8  
- QoQ%:  |   23.4   |  -15.1   |   -7.1   |   21.6   |   29.2  
- QOPM%: |   20.0   |   17.7   |   18.9   |   20.5   |   18.6  
- QNPM%: |   18.6   |   18.6   |   19.0   |   15.2   |   15.5  
- QPFT:  |   93.5   |   79.4   |   75.7   |   73.4   |   96.8  
- PQoQ%: |   -1.1   |  -15.1   |   -4.7   |   -3.1   |   31.9  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 692.3		1127.2		1385.1		1616.2		1934.2		1536.5
+SQoQ%: 	-19.4		62.8		22.9		16.7		19.7		79.4
+YOPM%: 	11.2		12.3		16.7		19.9		18.9
+YNPM%: 	16.2		11.8		14.4		19.0		16.8
+YPROFIT: 112.2		132.8		199.9		307.4		325.4		257.5
+PQoQ%: 	25.6		18.4		50.5		53.7		5.9		79.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 483.5		624.8		423.6		482.6		630.3
+QoQ%: 	21.6		29.2		-32.2		13.9		30.6
+QOPM%: 	20.5		18.6		17.1		19.4		17.1
+QNPM%: 	15.2		15.5		18.8		16.3		15.7
+QPFT: 	73.4		96.8		79.6		78.8		99.1
+PQoQ%: 	-3.1		31.9		-17.8		-0.9		25.7
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 45.7%
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 79% of YProfit
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

@@ -1,37 +1,46 @@
-CODES
-526027	CUBEXTUB	
-SECTOR : 
-INDUSTRY : 
+CODES	526027	CUBEXTUB	
+FULLNAME : Cubex Tubings Ltd
+SECTOR : Industrial Products
+INDUSTRY : Aluminium, Copper & Zinc Products
+BestQ Dec 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 70.0		133.6		191.0		220.8		267.1		198.6
+SQoQ%: 	16.9		90.9		42.9		15.6		21.0		74.4
+YOPM%: 	4.3		1.9		2.4		3.1		3.6
+YNPM%: 	1.9		1.8		1.4		1.8		2.5
+YPROFIT: 1.3		2.4		2.6		4.0		6.7		6.0
+PQoQ%: 	209.3		82.0		9.5		50.6		66.9		89.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 72.8		84.9		49.9		73.7		75.0
+QoQ%: 	31.8		16.7		-41.3		47.8		1.8
+QOPM%: 	3.9		4.3		4.8		4.4		4.9
+QNPM%: 	2.9		2.7		2.5		2.4		4.1
+QPFT: 	2.1		2.3		1.2		1.7		3.1
+PQoQ%: 	64.6		7.5		-46.5		41.5		78.7
+
+
+
+***PROS***
+- Last 3QSALES is about 74% YSales
+- Last 3QPROFIT is about 90% of YProfit
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 21.0% while the Profit QoQ_growth is much better than Sales itself at 66.9%
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   70.0   |  133.6   |  191.0   |  220.8   |  269.2  
- SQoQ%:  |   16.9   |   90.9   |   42.9   |   15.6   |   21.9  
- YOPM%:  |   4.3    |   1.9    |   2.4    |   3.1    |   4.4   
- YNPM%:  |   1.9    |   1.8    |   1.4    |   1.8    |   2.5   
-YPROFIT: |   1.3    |   2.4    |   2.6    |   4.0    |   6.7   
- PQoQ%:  |  209.3   |   82.0   |   9.5    |   50.6   |   66.9  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   50.3   |   54.9   |   55.2   |   73.3   |   84.9  
- QoQ%:  |  -11.7   |   9.3    |   0.5    |   32.8   |   15.8  
- QOPM%: |   3.7    |   2.8    |   4.3    |   4.6    |   4.3   
- QNPM%: |   2.0    |   1.7    |   2.4    |   2.9    |   2.7   
- QPFT:  |   1.0    |   0.9    |   1.3    |   2.1    |   2.3   
- PQoQ%: |   0.0    |   -9.9   |   42.9   |   64.6   |   7.5   
-
-***PROS***
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2025, Sales have increased by 21.9% while the Profit QoQ_growth is much better than Sales itself at 66.9%
 
 Yearly 
  31-Mar-2025 #Result
-269.20cr, QoQ 21.90% & YoY 284.57% SALES;
-11.80cr, QoQ 71.10% & YoY 293.33% OPERATING PROFIT;
+267.10cr, QoQ 21.00% & YoY 281.57% SALES;
+9.70cr, QoQ 41.00% & YoY 223.33% OPERATING PROFIT;
 6.70cr, QoQ 66.90% & YoY 415.38% NET PROFIT;
-OPM %: 4.40% vs 3.1%
+OPM %: 3.60% vs 3.1%
 NPM %: 2.50% vs 1.8%
 

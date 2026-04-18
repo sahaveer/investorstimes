@@ -1,38 +1,42 @@
-CODES
-500003	AEGISLOG	
-SECTOR : Trading
-INDUSTRY : Trading
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	500003	AEGISLOG	
+FULLNAME : Aegis Logistics Ltd
+SECTOR : Gas
+INDUSTRY : Trading - Gas
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  7183.2  |  3843.5  |  4631.0  |  8627.2  |  7045.9  |     5058.7   
- SQoQ%:  |   27.9   |  -46.5   |   20.5   |   86.3   |  -18.3   |      71.8    
- YOPM%:  |   3.9    |   10.1   |   11.5   |   7.8    |   13.1   |              
- YNPM%:  |   1.4    |   5.8    |   7.7    |   5.4    |   8.1    |              
-YPROFIT: |   99.6   |  223.4   |  357.5   |  463.0   |  569.2   |     381.7    
- PQoQ%:  |  -55.0   |  124.3   |   60.1   |   29.5   |   23.0   |      67.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  1873.4  |  1837.2  |  1601.3  |  1750.4  |  1707.0 
- QoQ%:  |   51.7   |   -1.9   |  -12.8   |   9.3    |   -2.5  
- QOPM%: |   11.3   |   16.7   |   14.5   |   12.8   |   13.6  
- QNPM%: |   6.9    |   10.7   |   8.2    |   7.2    |   7.3   
- QPFT:  |  130.1   |  196.3   |  131.5   |  126.0   |  124.2  
- PQoQ%: |   2.5    |   50.8   |  -33.0   |   -4.2   |   -1.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3843.5		4631.0		8627.2		7045.9		6763.8		5738.8
+SQoQ%: 	-46.5		20.5		86.3		-18.3		-4.0		84.8
+YOPM%: 	10.1		11.5		7.8		13.1		16.2
+YNPM%: 	5.8		7.7		5.4		8.1		9.8
+YPROFIT: 223.4		357.5		463.0		569.2		663.4		487.7
+PQoQ%: 	124.3		60.1		29.5		23.0		16.5		73.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1707.0		1705.0		1719.4		2294.0		1725.4
+QoQ%: 	-2.5		-0.1		0.8		33.4		-24.8
+QOPM%: 	13.6		24.0		14.0		12.7		17.2
+QNPM%: 	7.3		16.5		7.6		7.8		10.2
+QPFT: 	124.2		281.7		131.3		179.6		176.8
+PQoQ%: 	-1.4		126.7		-53.4		36.8		-1.6
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 72% YSales
-- Last 3QPROFIT is about 67% of YProfit
+- Last 3QSALES is about 85% YSales
+- Last 3QPROFIT is about 74% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-7045.90cr, QoQ -18.30% & YoY -1.91% SALES;
-922.80cr, QoQ 37.30% & YoY 233.26% OPERATING PROFIT;
-569.20cr, QoQ 23.00% & YoY 471.49% NET PROFIT;
-OPM %: 13.10% vs 7.8%
-NPM %: 8.10% vs 5.4%
+ 31-Mar-2025 #Result
+6763.80cr, QoQ -4.00% & YoY 75.98% SALES;
+1098.10cr, QoQ 19.00% & YoY 183.31% OPERATING PROFIT;
+663.40cr, QoQ 16.50% & YoY 196.96% NET PROFIT;
+OPM %: 16.20% vs 13.1%
+NPM %: 9.80% vs 8.1%
 

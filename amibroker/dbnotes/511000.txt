@@ -1,13 +1,15 @@
-CODE	NAME
-511000 
-
+CODES	511000	
+FULLNAME : Madhusudan Securities Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -0.8

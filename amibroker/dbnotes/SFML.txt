@@ -1,13 +1,13 @@
-CODES
-SFML	
+CODES	SFML	
+FULLNAME : Supreme Facility Management Ltd
 SECTOR : Miscellaneous
 INDUSTRY : Miscellaneous
 BestQ Sep 2024
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
@@ -15,6 +15,8 @@ BestQ Sep 2024
 ROCE in Mar2024 is at 15.6%
 - Last 2QSALES is about 56% YSales
 - Last 2QPROFIT is about 65% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

@@ -1,35 +1,46 @@
-CODES
-533047	IMFA	
-SECTOR : Ferro Alloys
-INDUSTRY : Mining / Minerals / Metals
+CODES	533047	IMFA	
+FULLNAME : Indian Metals & Ferro Alloys Ltd
+SECTOR : Ferrous Metals
+INDUSTRY : Ferro & Silica Manganese
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1844.2  |  2603.0  |  2676.4  |  2780.2  |  2564.6 
- SQoQ%:  |   14.4   |   41.1   |   2.8    |   3.9    |   -7.8  
- YOPM%:  |   18.3   |   31.1   |   18.3   |   21.1   |   20.7  
- YNPM%:  |   9.0    |   19.5   |   8.4    |   14.2   |   14.8  
-YPROFIT: |  166.6   |  507.2   |  225.3   |  394.5   |  378.7  
- PQoQ%:  |  -350.5  |  204.6   |  -55.6   |   75.1   |   -4.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  700.6   |  662.3   |  691.9   |  643.2   |  567.2  
- QoQ%:  |   2.2    |   -5.5   |   4.5    |   -7.0   |  -11.8  
- QOPM%: |   15.0   |   24.4   |   24.6   |   19.9   |   12.4  
- QNPM%: |   5.0    |   17.1   |   18.1   |   14.5   |   8.3   
- QPFT:  |   35.3   |  113.1   |  125.0   |   93.3   |   47.3  
- PQoQ%: |  -67.5   |  220.2   |   10.6   |  -25.4   |  -49.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1844.2		2603.0		2676.4		2780.2		2564.6		2062.9
+SQoQ%: 	14.4		41.1		2.8		3.9		-7.8		80.4
+YOPM%: 	18.3		31.1		18.3		21.1		20.7
+YNPM%: 	9.0		19.5		8.4		12.4		14.8
+YPROFIT: 166.6		507.2		225.3		343.6		378.7		321.1
+PQoQ%: 	-350.5		204.6		-55.6		52.5		10.2		84.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 643.2		567.2		641.5		718.6		702.8
+QoQ%: 	-7.0		-11.8		13.1		12.0		-2.2
+QOPM%: 	19.9		12.4		19.6		19.2		23.4
+QNPM%: 	14.5		8.3		14.4		13.6		18.7
+QPFT: 	93.3		47.3		92.3		97.5		131.3
+PQoQ%: 	-25.4		-49.3		95.0		5.6		34.7
+
+
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 19.5%
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 85% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 2564.60cr, QoQ -7.80% & YoY 39.06% SALES;
-530.50cr, QoQ -9.60% & YoY 57.09% OPERATING PROFIT;
-378.70cr, QoQ -4.00% & YoY 127.31% NET PROFIT;
+530.70cr, QoQ -9.60% & YoY 57.15% OPERATING PROFIT;
+378.70cr, QoQ 10.20% & YoY 127.31% NET PROFIT;
 OPM %: 20.70% vs 21.1%
-NPM %: 14.80% vs 14.2%
+NPM %: 14.80% vs 12.4%
 

@@ -1,37 +1,46 @@
-CODES
-532281	HCLTECH	
+CODES	532281	HCLTECH	
+FULLNAME : HCL Technologies Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Large
+INDUSTRY : Computers - Software & Consulting
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 75379.0  | 85651.0  | 101456.0 | 109913.0 | 117055.0
- SQoQ%:  |   6.7    |   13.6   |   18.5   |   8.3    |   6.5   
- YOPM%:  |   26.6   |   24.0   |   22.3   |   22.0   |   21.8  
- YNPM%:  |   14.8   |   15.8   |   14.6   |   14.3   |   14.9  
-YPROFIT: | 11145.0  | 13499.0  | 14851.0  | 15702.0  | 17399.0 
- PQoQ%:  |   0.8    |   21.1   |   10.0   |   5.7    |   10.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 28499.0  | 28057.0  | 28862.0  | 29890.0  | 30246.0 
- QoQ%:  |   0.2    |   -1.6   |   2.9    |   3.6    |   1.2   
- QOPM%: |   21.5   |   20.6   |   22.1   |   23.0   |   21.4  
- QNPM%: |   14.0   |   15.2   |   14.7   |   15.4   |   14.2  
- QPFT:  |  3986.0  |  4257.0  |  4235.0  |  4591.0  |  4309.0 
- PQoQ%: |   -8.4   |   6.8    |   -0.5   |   8.4    |   -6.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 75379.0		85651.0		101456.0		109913.0		117055.0		96163.0
+SQoQ%: 	6.7		13.6		18.5		8.3		6.5		82.2
+YOPM%: 	26.6		24.0		22.3		22.0		21.8
+YNPM%: 	14.8		15.8		14.6		14.3		14.9
+YPROFIT: 11145.0		13499.0		14851.0		15702.0		17390.0		12154.0
+PQoQ%: 	0.8		21.1		10.0		5.7		10.8		69.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 29890.0		30246.0		30349.0		31942.0		33872.0
+QoQ%: 	3.6		1.2		0.3		5.2		6.0
+QOPM%: 	23.0		21.4		19.9		20.5		21.9
+QNPM%: 	15.4		14.2		12.7		13.3		12.0
+QPFT: 	4591.0		4307.0		3843.0		4235.0		4076.0
+PQoQ%: 	8.4		-6.2		-10.8		10.2		-3.8
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2025 is at 22.8%
+- Last 3QSALES is about 82% YSales
+- Last 3QPROFIT is about 70% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 117055.00cr, QoQ 6.50% & YoY 55.29% SALES;
 25504.00cr, QoQ 5.40% & YoY 27.21% OPERATING PROFIT;
-17399.00cr, QoQ 10.80% & YoY 56.11% NET PROFIT;
+17390.00cr, QoQ 10.80% & YoY 56.03% NET PROFIT;
 OPM %: 21.80% vs 22.0%
 NPM %: 14.90% vs 14.3%
 

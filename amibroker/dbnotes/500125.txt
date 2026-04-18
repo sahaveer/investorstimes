@@ -1,38 +1,46 @@
-CODES
-500125	EIDPARRY	
-SECTOR : Sugar
-INDUSTRY : Sugar
-BestQ Dec 2024
+CODES	500125	EIDPARRY	
+FULLNAME : EID Parry (India) Ltd
+SECTOR : Food Products
+INDUSTRY : Other Food Products
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  | 17128.9  | 18555.9  | 23521.1  | 35243.8  | 29413.1  |    24797.6   
- SQoQ%:  |   3.5    |   8.3    |   26.8   |   49.8   |  -16.5   |      84.3    
- YOPM%:  |   11.0   |   11.3   |   10.1   |   9.0    |   8.8    |              
- YNPM%:  |   2.7    |   2.4    |   3.9    |   2.7    |   3.1    |              
-YPROFIT: |  467.9   |  447.4   |  906.8   |  947.5   |  899.7   |     591.8    
- PQoQ%:  |  204.8   |   -4.4   |  102.7   |   4.5    |   -5.0   |      65.8    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  7770.1  |  5557.0  |  6746.8  |  9330.4  |  8720.4 
- QoQ%:  |  -14.2   |  -28.5   |   21.4   |   38.3   |   -6.5  
- QOPM%: |   5.3    |   8.3    |   6.9    |   10.3   |   8.0   
- QNPM%: |   1.5    |   4.0    |   1.4    |   3.3    |   2.2   
- QPFT:  |  118.2   |  220.3   |   91.3   |  305.6   |  194.9  
- PQoQ%: |  -73.9   |   86.3   |  -58.5   |  234.6   |  -36.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 18555.9		23521.1		35243.8		29413.1		31608.6		30663.7
+SQoQ%: 	8.3		26.8		49.8		-16.5		7.5		97.0
+YOPM%: 	11.3		10.1		9.0		8.8		8.3
+YNPM%: 	2.4		3.9		2.7		3.1		2.8
+YPROFIT: 447.4		906.8		947.5		899.7		878.4		902.9
+PQoQ%: 	-4.4		102.7		4.5		-5.0		-2.4		102.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 8720.4		6811.1		8723.7		11624.4		10315.6
+QoQ%: 	-6.5		-21.9		28.1		33.3		-11.3
+QOPM%: 	8.0		7.5		9.2		10.3		8.1
+QNPM%: 	2.2		4.2		2.8		3.7		2.3
+QPFT: 	194.9		286.5		246.3		424.4		232.2
+PQoQ%: 	-36.2		47.0		-14.0		72.3		-45.3
+
+
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 23.0%
-- Last 3QSALES is about 84% YSales
-- Last 3QPROFIT is about 66% of YProfit
+ROCE in Mar2025 is at 16.4%
+- Last 3QSALES is about 97% YSales
+- Last 3QPROFIT is about 103% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-29413.10cr, QoQ -16.50% & YoY 71.72% SALES;
-2587.60cr, QoQ -18.00% & YoY 37.16% OPERATING PROFIT;
-899.70cr, QoQ -5.00% & YoY 92.28% NET PROFIT;
-OPM %: 8.80% vs 9.0%
-NPM %: 3.10% vs 2.7%
+ 31-Mar-2025 #Result
+31608.60cr, QoQ 7.50% & YoY 70.34% SALES;
+2633.50cr, QoQ 1.80% & YoY 26.05% OPERATING PROFIT;
+878.40cr, QoQ -2.40% & YoY 96.33% NET PROFIT;
+OPM %: 8.30% vs 8.8%
+NPM %: 2.80% vs 3.1%
 

@@ -1,11 +1,9 @@
-CODE	NAME
-544101 
-
+CODES	544101	
+FULLNAME : Brisk Technovision Ltd
 SECTOR : IT - Hardware
 INDUSTRY : Computers - Hardware
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -13,6 +11,8 @@ A DEBT-Free Company
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
 ROCE in Mar2024 is at 26.9%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

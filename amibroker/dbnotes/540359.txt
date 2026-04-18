@@ -1,28 +1,35 @@
-CODE	NAME
-540359 
+CODES	540359	
+FULLNAME : Parmax Pharma Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+PRODUCT DEMAND
+YSD YPD 2025
 
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 26.2		18.2		15.4		11.0		28.2		8.7
+SQoQ%: 	25.1		-30.3		-15.6		-28.4		155.9		30.9
+YOPM%: 	13.1		14.1		14.6		0.0		0.9
+YNPM%: 	2.9		0.8		0.0		0.0		0.0
+YPROFIT: 0.8		0.1		-0.1		-5.8		-2.1		-3.6
+PQoQ%: 	74.4		-81.3		-171.4		5650.0		-63.7		171.4
 
-***CONS***
-- NO PRODUCT DEMAND
-- NEGATIVE YProfit : -5.8
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   20.9   |   26.2   |   18.2   |   15.4   |   11.0   |      23.4    
- SQoQ%:  |   74.5   |   25.1   |  -30.3   |  -15.6   |  -28.4   |     212.7    
- YOPM%:  |   8.5    |   13.1   |   14.1   |   14.6   |   0.0    |              
- YNPM%:  |   2.1    |   2.9    |   0.8    |   0.0    |   0.0    |              
-YPROFIT: |   0.4    |   0.8    |   0.1    |   -0.1   |   -5.8   |      -0.6    
- PQoQ%:  |  437.5   |   74.4   |  -81.3   |  -171.4  |  5680.0  |      10.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   1.3    |   4.3    |   7.8    |   9.3    |   6.3   
- QoQ%:  |  -67.3   |  220.3   |   83.6   |   18.7   |  -32.3  
- QOPM%: |   0.0    |   0.0    |   6.5    |   2.2    |   1.8   
- QNPM%: |   0.0    |   0.0    |   0.1    |   0.0    |   0.0   
- QPFT:  |   -1.8   |   -1.4   |   0.0    |   -0.2   |   -0.4  
- PQoQ%: |   27.7   |  -17.1   |  -100.7  | -2300.0  |   77.3  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 6.3		4.8		1.9		2.5		4.3
+QoQ%: 	-32.3		-23.1		-59.8		30.4		71.1
+QOPM%: 	1.8		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-0.4		-1.5		-0.8		-2.1		-0.7
+PQoQ%: 	77.3		282.1		-49.0		173.7		-64.9
+
+
 
 ***PROS***
-- Last 3QSALES is about 213% YSales
+- PRODUCT DEMAND is rising since 3 years
+- YProfits and YSales DOUBLED in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -2.1

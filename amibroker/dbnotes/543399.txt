@@ -1,12 +1,29 @@
-CODES
-543399	TARSONS	
-SECTOR : Healthcare
-INDUSTRY : Miscellaneous
+CODES	543399	TARSONS	
+FULLNAME : Tarsons Products Ltd
+SECTOR : Healthcare Equipment & Supplies
+INDUSTRY : Medical Equipment & Supplies
+EXPANSION 2024
+PRODUCT DEMAND
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 77% YSales
+
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+392.40cr, QoQ 32.40% SALES;
+110.90cr, QoQ 11.00% OPERATING PROFIT;
+29.80cr, QoQ -30.20% NET PROFIT;
+OPM %: 28.30% vs 33.7%
+NPM %: 7.60% vs 14.4%
+

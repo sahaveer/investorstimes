@@ -1,25 +1,51 @@
-CODES
-QUESTLAB	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Formulations
+CODES	QUESTLAB	
+FULLNAME : Quest Laboratories Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 PRODUCT DEMAND
+BestQ Dec 2025
+LYPD PM 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 30.4		59.5		61.6		82.6		104.0		79.4
+SQoQ%: 	nan		95.9		3.6		33.9		25.9		76.3
+YOPM%: 	4.7		10.9		12.8		18.8		15.4
+YNPM%: 	2.2		6.9		8.2		12.2		13.1
+YPROFIT: 0.7		4.1		5.0		10.1		13.6		12.1
+PQoQ%: 	nan		522.7		22.6		100.2		34.5		89.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 14.8		46.4		23.2		25.6		30.6
+QoQ%: 	-45.8		213.0		-50.1		10.5		19.5
+QOPM%: 	4.4		1.7		16.5		13.2		22.6
+QNPM%: 	5.3		4.2		17.7		15.7		13.2
+QPFT: 	0.8		1.9		4.1		4.0		4.0
+PQoQ%: 	-87.1		148.7		111.3		-2.0		0.2
 
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 31.6%
+ROCE in Mar2025 is at 17.1%
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 89% of YProfit
+- LastYr YProfits Doubled and maintained in Mar2025
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 25.9% while the Profit QoQ_growth is much better than Sales itself at 34.5%
 
-YSALES in Mar-2024 is at 82.6 showing a QoQ_growth of 33.9%. The YNETPROFIT grew by 100.2% to 10.1
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-82.60cr, QoQ 33.90% SALES;
-15.60cr, QoQ 97.50% OPERATING PROFIT;
-10.10cr, QoQ 100.20% NET PROFIT;
-OPM %: 18.80% vs 12.8%
-NPM %: 12.20% vs 8.2%
+ 31-Mar-2025 #Result
+104.00cr, QoQ 25.90% & YoY 242.11% SALES;
+16.00cr, QoQ 2.80% & YoY 1042.86% OPERATING PROFIT;
+13.60cr, QoQ 34.50% & YoY 1842.86% NET PROFIT;
+OPM %: 15.40% vs 18.8%
+NPM %: 13.10% vs 12.2%
 

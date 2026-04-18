@@ -1,41 +1,42 @@
-CODE	NAME
-523566 
-
+CODES	523566	
+FULLNAME : Martin Burn Ltd
 SECTOR : Realty
-INDUSTRY : Construction
-PRODUCT DEMAND
-BestQ Dec 2024
+INDUSTRY : Residential, Commercial Projects
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.6    |   0.3    |   0.6    |   0.3    |   2.0    |      0.3     
- SQoQ%:  |   52.4   |  -57.8   |  137.0   |  -54.7   |  586.2   |      15.0    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |  268.8   |   37.0   |  254.7   |  344.8   |   59.3   |              
-YPROFIT: |   1.7    |   0.1    |   1.6    |   1.0    |   1.2    |      2.0     
- PQoQ%:  |   18.6   |  -94.2   |  1530.0  |  -38.7   |   18.0   |     166.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.1    |   1.6    |   0.1    |   0.1    |   0.1   
- QoQ%:  |  -60.0   |  1950.0  |  -95.1   |   0.0    |   0.0   
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |  650.0   |   0.0    |  600.0   |  837.5   |  1000.0 
- QPFT:  |   0.5    |   -0.2   |   0.5    |   0.7    |   0.8   
- PQoQ%: |   33.3   |  -134.6  |  -366.7  |   39.6   |   19.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.3		0.6		0.3		2.0		0.3		0.0
+SQoQ%: 	-57.8		137.0		-54.7		586.2		-83.9		0.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	37.0		254.7		344.8		59.3		1871.9
+YPROFIT: 0.1		1.6		1.0		1.2		6.0		1.7
+PQoQ%: 	-94.2		1530.0		-38.7		18.0		407.6		28.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.1		0.1		0.0		0.0		0.0
+QoQ%: 	0.0		0.0		-100.0		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	1000.0		5037.5		inf		inf		inf
+QPFT: 	0.8		4.0		0.8		0.6		0.3
+PQoQ%: 	19.4		403.7		-78.9		-30.6		-50.8
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QPROFIT is about 167% of YProfit
+A DEBT-Free Company
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.3
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 
-
-YSALES in Mar-2024 is at 2.0 showing a QoQ_growth of 586.2%. The YNETPROFIT grew by 18.0% to 1.2
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-2.00cr, QoQ 586.20% & YoY 233.33% SALES;
--4.00cr, QoQ 43.00% & YoY 53.85% OPERATING PROFIT;
-1.20cr, QoQ 18.00% & YoY -29.41% NET PROFIT;
+ 31-Mar-2025 #Result
+0.30cr, QoQ -83.90% & YoY 0.00% SALES;
+-8.10cr, QoQ 105.30% & YoY 153.12% OPERATING PROFIT;
+6.00cr, QoQ 407.60% & YoY 5900.00% NET PROFIT;
 OPM %: 0.00% vs 0.0%
-NPM %: 59.30% vs 344.8%
+NPM %: 1871.90% vs 59.3%
 

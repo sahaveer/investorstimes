@@ -1,13 +1,14 @@
-CODE	NAME
-539222 
+CODES	539222	
+FULLNAME : Growington Ventures India Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

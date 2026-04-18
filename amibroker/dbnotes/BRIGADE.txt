@@ -1,34 +1,43 @@
-CODES
-532929	BRIGADE	
+CODES	532929	BRIGADE	
+FULLNAME : Brigade Enterprises Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1950.0  |  2998.8  |  3444.6  |  4896.7  |  5074.2 
- SQoQ%:  |  -25.9   |   53.8   |   14.9   |   42.2   |   3.6   
- YOPM%:  |   24.4   |   25.7   |   25.1   |   24.6   |   27.9  
- YNPM%:  |   0.0    |   2.8    |   8.5    |   9.2    |   13.5  
-YPROFIT: |  -46.3   |   82.8   |  291.4   |  451.6   |  685.8  
- PQoQ%:  |  -135.5  |  -278.7  |  252.1   |   55.0   |   51.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1702.4  |  1077.7  |  1072.2  |  1463.9  |  1460.4 
- QoQ%:  |   45.0   |  -36.7   |   -0.5   |   36.5   |   -0.2  
- QOPM%: |   25.4   |   27.1   |   27.2   |   28.3   |   28.5  
- QNPM%: |   12.1   |   7.8    |   11.1   |   16.1   |   16.9  
- QPFT:  |  206.1   |   83.7   |  119.0   |  236.2   |  246.8  
- PQoQ%: |  180.4   |  -59.4   |   42.1   |   98.6   |   4.5   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1950.0		2998.8		3444.6		4896.7		5074.2		4239.6
+SQoQ%: 	-25.9		53.8		14.9		42.2		3.6		83.6
+YOPM%: 	24.4		25.7		25.1		24.6		28.0
+YNPM%: 	0.0		2.8		8.5		9.2		13.5
+YPROFIT: -46.3		82.8		291.4		451.6		685.8		498.9
+PQoQ%: 	-135.5		-278.7		252.1		55.0		51.8		72.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1463.9		1460.4		1281.1		1383.4		1575.1
+QoQ%: 	36.5		-0.2		-12.3		8.0		13.9
+QOPM%: 	28.3		28.5		25.2		23.7		26.1
+QNPM%: 	16.1		16.9		11.7		11.7		11.8
+QPFT: 	236.2		246.8		149.9		162.5		186.5
+PQoQ%: 	98.6		4.5		-39.3		8.4		14.8
+
+
 
 ***PROS***
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 73% of YProfit
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 5074.20cr, QoQ 3.60% & YoY 160.22% SALES;
-1414.20cr, QoQ 17.60% & YoY 197.23% OPERATING PROFIT;
+1420.50cr, QoQ 18.20% & YoY 198.55% OPERATING PROFIT;
 685.80cr, QoQ 51.80% & YoY -1581.21% NET PROFIT;
-OPM %: 27.90% vs 24.6%
+OPM %: 28.00% vs 24.6%
 NPM %: 13.50% vs 9.2%
 

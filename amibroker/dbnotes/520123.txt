@@ -1,39 +1,43 @@
-CODE	NAME
-520123 
-
-SECTOR : Logistics
-INDUSTRY : Miscellaneous
+CODES	520123	
+FULLNAME : ABC India Ltd
+SECTOR : Transport Services
+INDUSTRY : Road Transport
 PRODUCT DEMAND
-BestQ Dec 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  220.7   |  167.2   |  134.8   |  145.2   |  164.6   |     136.3    
- SQoQ%:  |   24.7   |  -24.2   |  -19.4   |   7.7    |   13.4   |      82.8    
- YOPM%:  |   4.0    |   3.6    |   4.0    |   3.4    |   3.6    |              
- YNPM%:  |   1.9    |   1.5    |   2.0    |   2.9    |   1.4    |              
-YPROFIT: |   4.3    |   2.5    |   2.7    |   4.2    |   2.3    |      2.2     
- PQoQ%:  |  -25.7   |  -42.2   |   10.5   |   54.6   |  -46.0   |      95.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   42.6   |   39.7   |   42.4   |   44.7   |   49.2  
- QoQ%:  |   -7.7   |   -6.8   |   7.0    |   5.2    |   10.2  
- QOPM%: |   3.6    |   3.9    |   3.1    |   2.8    |   3.3   
- QNPM%: |   1.6    |   0.4    |   2.8    |   1.2    |   1.1   
- QPFT:  |   0.7    |   0.2    |   1.2    |   0.5    |   0.5   
- PQoQ%: |   -4.3   |  -75.8   |  631.2   |  -55.6   |   3.8   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 167.2		134.8		145.2		164.6		185.0		118.8
+SQoQ%: 	-24.2		-19.4		7.7		13.4		12.4		64.2
+YOPM%: 	3.6		4.0		3.4		3.6		2.4
+YNPM%: 	1.5		2.0		2.9		1.4		1.3
+YPROFIT: 2.5		2.7		4.2		2.3		2.5		0.0
+PQoQ%: 	-42.2		10.5		54.6		-46.0		8.3		0.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 49.2		48.6		37.9		38.9		42.0
+QoQ%: 	10.2		-1.2		-22.1		2.8		7.9
+QOPM%: 	3.3		0.1		0.8		0.0		0.0
+QNPM%: 	1.1		0.5		0.1		0.1		0.1
+QPFT: 	0.5		0.2		0.0		0.0		0.0
+PQoQ%: 	3.8		-55.6		-91.7		100.0		-25.0
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 83% YSales
-- Last 3QPROFIT is about 96% of YProfit
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 64% YSales
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-164.60cr, QoQ 13.40% & YoY -25.42% SALES;
-5.90cr, QoQ 20.10% & YoY -32.95% OPERATING PROFIT;
-2.30cr, QoQ -46.00% & YoY -46.51% NET PROFIT;
-OPM %: 3.60% vs 3.4%
-NPM %: 1.40% vs 2.9%
+ 31-Mar-2025 #Result
+185.00cr, QoQ 12.40% & YoY 10.65% SALES;
+4.40cr, QoQ -25.00% & YoY -27.87% OPERATING PROFIT;
+2.50cr, QoQ 8.30% & YoY 0.00% NET PROFIT;
+OPM %: 2.40% vs 3.6%
+NPM %: 1.30% vs 1.4%
 

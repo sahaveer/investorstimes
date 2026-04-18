@@ -1,28 +1,32 @@
-CODE	NAME
-511585 
+CODES	511585	
+FULLNAME : Befound Movement Limited
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Consulting Services
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-YSD YPD 2022
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.5		1.7		1.3		1.2		1.4		2.4
+SQoQ%: 	-48.4		245.8		-21.1		-6.1		17.9		171.4
+YOPM%: 	0.0		0.0		0.0		5.7		3.4
+YNPM%: 	0.0		0.0		0.0		3.3		2.1
+YPROFIT: -0.3		-0.0		-0.5		0.0		0.0		0.2
+PQoQ%: 	-inf		-88.9		1433.3		-108.7		-25.0		inf
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		1.2		0.8		1.2		0.4
+QoQ%: 	0.0		2400.0		-40.0		60.0		-62.5
+QOPM%: 	0.0		40.0		0.0		8.3		40.0
+QNPM%: 	0.0		40.8		0.0		5.8		37.8
+QPFT: 	-0.1		0.5		-0.1		0.1		0.2
+PQoQ%: 	-71.4		-737.5		-111.8		-216.7		142.9
+
+
+
+***PROS***
+- Last 3QSALES is about 171% YSales
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.9    |   0.5    |   1.7    |   1.3    |   1.2    |      0.1     
- SQoQ%:  |   50.0   |  -48.4   |  245.8   |  -21.1   |   -6.1   |      8.3     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   5.7    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   3.3    |              
-YPROFIT: |   0.0    |   -0.3   |   -0.0   |   -0.5   |   0.0    |      -0.5    
- PQoQ%:  |  -100.0  |   -inf   |  -88.9   |  1433.3  |  -108.7  |      -inf    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.2    |   0.6    |   0.1    |   0.0    |   0.0   
- QoQ%:  |  -41.4   |  235.3   |  -82.5   |  -50.0   |   0.0   
- QOPM%: |   0.0    |   7.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   3.5    |   0.0    |   0.0    |   0.0   
- QPFT:  |   -0.0   |   0.0    |   -0.1   |   -0.3   |   -0.1  
- PQoQ%: |  -111.1  |  -300.0  |  -700.0  |  133.3   |  -71.4  
-
-***PROS***
-- YProfits and YSales DOUBLED in Mar2022

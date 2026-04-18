@@ -1,16 +1,16 @@
-CODE	NAME
-544160 
-
+CODES	544160	
+FULLNAME : Jay Kailash Namkeen Ltd
 SECTOR : FMCG
 INDUSTRY : Food - Processing - Indian
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 
 YSALES in Mar-2025 is at 15.0 showing a QoQ_growth of 30.4%. The YNETPROFIT grew by 72.9% to 1.2
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

@@ -1,39 +1,44 @@
-CODES
-530961	VIKASECO	
-SECTOR : Diversified
-INDUSTRY : Diversified - Medium / Small
+CODES	530961	VIKASECO	
+FULLNAME : Vikas Ecotech Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
 PRODUCT DEMAND
-BestQ Dec 2024
 
-***CONS***
- YPNL:   | Mar-2012 | Mar-2013 | Mar-2014 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  164.8   |  252.0   |  250.0   |  396.8   |  258.6   |     275.1    
- SQoQ%:  |   43.3   |   53.0   |   -0.8   |   58.7   |  -34.8   |     106.4    
- YOPM%:  |   7.3    |   4.2    |   5.3    |   5.5    |   6.3    |              
- YNPM%:  |   5.5    |   1.5    |   1.4    |   2.4    |   2.6    |              
-YPROFIT: |   9.0    |   3.7    |   3.6    |   9.5    |   6.8    |      12.6    
- PQoQ%:  |   41.8   |  -59.2   |   -1.6   |  164.0   |  -28.1   |     185.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   68.5   |   71.7   |  101.1   |   89.2   |   84.8  
- QoQ%:  |   12.7   |   4.8    |   40.9   |  -11.7   |   -5.0  
- QOPM%: |   5.4    |   3.7    |   2.1    |   5.4    |   1.6   
- QNPM%: |   1.8    |   3.2    |   10.3   |   3.2    |   0.0   
- QPFT:  |   1.2    |   2.3    |   10.4   |   2.8    |   -0.6  
- PQoQ%: |  -30.5   |   87.0   |  351.3   |  -72.5   |  -119.3 
+***YEARLY***
+YPNL: 	Mar-2013	Mar-2014	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 252.0		250.0		396.8		258.6		376.1		237.0
+SQoQ%: 	53.0		-0.8		58.7		-34.8		45.4		63.0
+YOPM%: 	4.2		5.3		5.5		6.3		3.3
+YNPM%: 	1.5		1.4		2.4		2.6		4.5
+YPROFIT: 3.7		3.6		9.5		6.8		17.0		2.5
+PQoQ%: 	-59.2		-1.6		164.0		-28.1		147.9		14.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 84.8		102.6		103.6		64.7		68.7
+QoQ%: 	-5.0		21.1		0.9		-37.5		6.2
+QOPM%: 	1.6		3.5		4.5		4.1		3.0
+QNPM%: 	0.0		4.2		2.3		2.7		0.0
+QPFT: 	-0.6		4.3		2.4		1.8		-1.7
+PQoQ%: 	-119.3		-881.8		-44.9		-26.2		-194.9
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 106% YSales
-- Last 3QPROFIT is about 185% of YProfit
+- Last 3QSALES is about 63% YSales
+
+YSALES in Mar-2025 is at 376.1 showing a QoQ_growth of 45.4%. The YNETPROFIT grew by 147.9% to 17.0
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-258.60cr, QoQ -34.80% & YoY 56.92% SALES;
-16.40cr, QoQ -25.40% & YoY 36.67% OPERATING PROFIT;
-6.80cr, QoQ -28.10% & YoY -24.44% NET PROFIT;
-OPM %: 6.30% vs 5.5%
-NPM %: 2.60% vs 2.4%
+ 31-Mar-2025 #Result
+376.10cr, QoQ 45.40% & YoY 49.25% SALES;
+12.30cr, QoQ -25.00% & YoY 17.14% OPERATING PROFIT;
+17.00cr, QoQ 147.90% & YoY 359.46% NET PROFIT;
+OPM %: 3.30% vs 6.3%
+NPM %: 4.50% vs 2.6%
 

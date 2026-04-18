@@ -1,41 +1,46 @@
-CODE	NAME
-532485 
-
+CODES	532485	
+FULLNAME : Balmer Lawrie Investment Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+INDUSTRY : Non Banking Financial Company (NBFC)
+BestQ Dec 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1573.0  |  1562.6  |  2074.0  |  2335.1  |  2372.8  |     1915.5   
- SQoQ%:  |  -13.4   |   -0.7   |   32.7   |   12.6   |   1.6    |      80.7    
- YOPM%:  |   14.3   |   9.6    |   9.2    |   9.6    |   14.7   |              
- YNPM%:  |   6.7    |   5.1    |   4.3    |   4.8    |   7.1    |              
-YPROFIT: |  105.7   |   79.7   |   88.2   |  110.9   |  168.0   |     123.4    
- PQoQ%:  |  -17.8   |  -24.6   |   10.7   |   25.7   |   51.4   |      73.5    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  587.1   |  579.3   |  640.7   |  641.6   |  633.2  
- QoQ%:  |   -0.1   |   -1.3   |   10.6   |   0.1    |   -1.3  
- QOPM%: |   12.9   |   16.2   |   10.3   |   11.3   |   13.7  
- QNPM%: |   7.3    |   8.2    |   6.4    |   6.3    |   6.6   
- QPFT:  |   43.0   |   47.4   |   41.2   |   40.5   |   41.7  
- PQoQ%: |   5.6    |   10.2   |  -13.1   |   -1.8   |   3.1   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1562.6		2074.0		2335.1		2372.8		2545.4		1981.3
+SQoQ%: 	-0.7		32.7		12.6		1.6		7.3		77.8
+YOPM%: 	9.6		9.2		9.6		14.7		13.8
+YNPM%: 	5.1		4.3		4.8		6.5		6.7
+YPROFIT: 79.7		88.2		110.9		154.5		171.6		124.3
+PQoQ%: 	-24.6		10.7		25.7		39.3		11.1		72.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 633.2		611.0		683.5		638.4		659.4
+QoQ%: 	-1.3		-3.5		11.9		-6.6		3.3
+QOPM%: 	13.7		15.9		12.6		11.0		13.4
+QNPM%: 	6.6		7.9		6.5		5.8		6.5
+QPFT: 	41.7		48.2		44.7		36.9		42.7
+PQoQ%: 	3.1		15.7		-7.4		-17.4		15.9
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 29.6%
+ROCE in Mar2025 is at 26.6%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 81% YSales
-- Last 3QPROFIT is about 73% of YProfit
+- Last 3QSALES is about 78% YSales
+- Last 3QPROFIT is about 72% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-2372.80cr, QoQ 1.60% & YoY 50.85% SALES;
-349.00cr, QoQ 54.90% & YoY 54.70% OPERATING PROFIT;
-168.00cr, QoQ 51.40% & YoY 58.94% NET PROFIT;
-OPM %: 14.70% vs 9.6%
-NPM %: 7.10% vs 4.8%
+ 31-Mar-2025 #Result
+2545.40cr, QoQ 7.30% & YoY 62.90% SALES;
+352.40cr, QoQ 1.00% & YoY 135.09% OPERATING PROFIT;
+171.60cr, QoQ 11.10% & YoY 115.31% NET PROFIT;
+OPM %: 13.80% vs 14.7%
+NPM %: 6.70% vs 6.5%
 

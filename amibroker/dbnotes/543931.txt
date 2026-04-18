@@ -1,26 +1,27 @@
-CODE	NAME
-543931 
+CODES	543931	
+FULLNAME : Veefin Solutions Ltd
+SECTOR : IT - Services
+INDUSTRY : IT Enabled Services
 
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
-YSD YPD 2023
-PROFIT GROWTH BETTER THAN SALES GROWTH 2025
+***YEARLY***
 
-***CONS***
 
+***QUARTERLY***
 
 
 ***PROS***
-- YProfits and YSales DOUBLED in Mar2023
+A DEBT-Free Company
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
-As on Mar2025, Sales have increased by 79.8% while the Profit QoQ_growth is much better than Sales itself at 97.7%
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
+As on Mar2025, Sales have increased by 214.8% while the Profit QoQ_growth is at 80.8%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-37.30cr, QoQ 79.80% & YoY 4562.50% SALES;
-17.10cr, QoQ 87.50% & YoY 17000.00% OPERATING PROFIT;
-11.20cr, QoQ 97.70% & YoY 11100.00% NET PROFIT;
-OPM %: 45.80% vs 43.9%
-NPM %: 29.90% vs 27.2%
+78.60cr, QoQ 214.80% SALES;
+24.40cr, QoQ 124.90% OPERATING PROFIT;
+13.40cr, QoQ 80.80% NET PROFIT;
+OPM %: 31.10% vs 43.5%
+NPM %: 17.00% vs 29.6%
 

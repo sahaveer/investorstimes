@@ -1,25 +1,43 @@
-CODE	NAME
-519174 
+CODES	519174	
+FULLNAME : Ashiana Agro Industries Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Edible Oil
+PRODUCT DEMAND
 
-SECTOR : Trading
-INDUSTRY : Trading
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.6		0.7		0.8		1.0		0.8		0.6
+SQoQ%: 	-30.1		25.9		15.1		15.5		-20.6		75.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	5.2		5.5		0.0		12.4		11.7
+YPROFIT: 0.0		0.0		-0.0		0.1		0.1		0.0
+PQoQ%: 	-400.0		33.3		-175.0		-500.0		-25.0		0.0
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.8    |   0.6    |   0.7    |   0.8    |   1.0    |      0.5     
- SQoQ%:  |   -1.2   |  -30.1   |   25.9   |   15.1   |   15.5   |      50.0    
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   0.0    |   5.2    |   5.5    |   0.0    |   12.4   |              
-YPROFIT: |   -0.0   |   0.0    |   0.0    |   -0.0   |   0.1    |      0.0     
- PQoQ%:  |  -66.7   |  -400.0  |   33.3   |  -175.0  |  -500.0  |      0.0     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.3    |   0.2    |   0.1    |   0.2    |   0.2   
- QoQ%:  |   0.0    |   -7.7   |  -41.7   |   57.1   |   0.0   
- QOPM%: |   0.0    |   4.2    |   0.0    |   4.5    |   0.0   
- QNPM%: |   19.2   |   20.8   |   7.1    |   4.5    |   9.1   
- QPFT:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- PQoQ%: |   66.7   |   0.0    |  -80.0   |   0.0    |  100.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.2		0.2		0.2		0.2		0.2
+QoQ%: 	0.0		-13.6		-5.3		38.9		-28.0
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	9.1		10.5		0.0		8.0		11.1
+QPFT: 	0.0		0.0		-0.0		0.0		0.0
+PQoQ%: 	100.0		0.0		-150.0		-300.0		0.0
+
+
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 75% YSales
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+0.80cr, QoQ -20.60% & YoY 33.33% SALES;
+-0.10cr, QoQ 33.30% & YoY -0.00% OPERATING PROFIT;
+0.10cr, QoQ -25.00% & YoY inf% NET PROFIT;
+OPM %: 0.00% vs 0.0%
+NPM %: 11.70% vs 12.4%
+

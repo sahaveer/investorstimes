@@ -1,23 +1,28 @@
-CODES
-543952	NIITMTS	
-SECTOR : Computer Education
-INDUSTRY : Computers - Education
+CODES	543952	NIITMTS	
+FULLNAME : NIIT Learning Systems Ltd
+SECTOR : Other Consumer Services
+INDUSTRY : Education
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 24.2%
+ROCE in Mar2025 is at 24.8%
+- Last 3QSALES is about 86% YSales
+- Last 3QPROFIT is about 75% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 1653.30cr, QoQ 6.40% SALES;
-355.30cr, QoQ -2.70% OPERATING PROFIT;
+358.70cr, QoQ -1.70% OPERATING PROFIT;
 227.50cr, QoQ 6.70% NET PROFIT;
-OPM %: 21.50% vs 23.5%
+OPM %: 21.70% vs 23.5%
 NPM %: 13.80% vs 13.7%
 

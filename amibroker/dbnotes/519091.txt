@@ -1,39 +1,43 @@
-CODES
-519091	TASTYBITE	
-SECTOR : 
-INDUSTRY : 
-PRODUCT DEMAND
-LYPD PM 2024
+CODES	519091	TASTYBITE	
+FULLNAME : Tasty Bite Eatables Ltd
+SECTOR : Food Products
+INDUSTRY : Packaged Foods
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  425.8   |  385.3   |  372.1   |  475.7   |  540.3   |     420.7    
- SQoQ%:  |   26.4   |   -9.5   |   -3.4   |   27.8   |   13.6   |      77.9    
- YOPM%:  |   10.6   |   14.0   |   9.1    |   13.7   |   14.1   |              
- YNPM%:  |   9.6    |   10.2   |   2.8    |   6.4    |   7.7    |              
-YPROFIT: |   40.9   |   39.3   |   10.3   |   30.2   |   41.5   |      19.4    
- PQoQ%:  |   35.9   |   -3.7   |  -73.7   |  192.4   |   37.4   |      46.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  132.7   |  108.9   |   85.3   |  156.7   |  178.7  
- QoQ%:  |   -8.5   |  -17.9   |  -21.7   |   83.7   |   14.0  
- QOPM%: |   9.9    |   7.6    |   1.9    |   10.6   |   12.7  
- QNPM%: |   4.7    |   2.3    |   0.0    |   6.4    |   7.3   
- QPFT:  |   6.2    |   2.6    |   -3.7   |   10.1   |   13.0  
- PQoQ%: |  -45.0   |  -59.2   |  -244.7  |  -373.2  |   29.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 385.3		372.1		475.7		540.3		554.4		431.0
+SQoQ%: 	-9.5		-3.4		27.8		13.6		2.6		77.7
+YOPM%: 	14.0		9.1		13.7		14.1		9.3
+YNPM%: 	10.2		2.8		6.4		7.7		4.6
+YPROFIT: 39.3		10.3		30.2		41.5		25.6		29.3
+PQoQ%: 	-3.7		-73.7		192.4		37.4		-38.3		114.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 178.7		133.7		121.1		132.9		177.0
+QoQ%: 	14.0		-25.2		-9.4		9.7		33.2
+QOPM%: 	12.7		8.2		12.9		6.6		14.8
+QNPM%: 	7.3		4.6		6.8		2.7		9.9
+QPFT: 	13.0		6.2		8.2		3.6		17.5
+PQoQ%: 	29.3		-52.5		32.3		-55.8		383.1
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
 - Last 3QSALES is about 78% YSales
-- LastYr YProfits Doubled and maintained in Mar2024
+- Last 3QPROFIT is about 114% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-540.30cr, QoQ 13.60% & YoY 26.89% SALES;
-76.00cr, QoQ 16.70% & YoY 68.89% OPERATING PROFIT;
-41.50cr, QoQ 37.40% & YoY 1.47% NET PROFIT;
-OPM %: 14.10% vs 13.7%
-NPM %: 7.70% vs 6.4%
+ 31-Mar-2025 #Result
+554.40cr, QoQ 2.60% & YoY 43.89% SALES;
+51.80cr, QoQ -31.80% & YoY -3.72% OPERATING PROFIT;
+25.60cr, QoQ -38.30% & YoY -34.86% NET PROFIT;
+OPM %: 9.30% vs 14.1%
+NPM %: 4.60% vs 7.7%
 

@@ -1,11 +1,11 @@
-CODE	NAME
-544175 
-
+CODES	544175	
+FULLNAME : TGIF Agribusiness Ltd
 SECTOR : FMCG
 INDUSTRY : Miscellaneous
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

@@ -1,29 +1,36 @@
-CODES
-500032	BAJAJHIND	
-SECTOR : Sugar
+CODES	500032	BAJAJHIND	
+FULLNAME : Bajaj Hindusthan Sugar Ltd
+SECTOR : Agricultural Food & other Products
 INDUSTRY : Sugar
-LYPD PM 2024
+PRODUCT DEMAND
+LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -86.4
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  6669.3  |  6666.0  |  5575.6  |  6338.0  |  6104.3  |     4021.2   
- SQoQ%:  |   -2.0   |   -0.1   |  -16.4   |   13.7   |   -3.7   |      65.9    
- YOPM%:  |   6.8    |   2.5    |   3.1    |   4.1    |   4.1    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |  -50.0   |  -290.8  |  -267.5  |  -134.7  |  -86.4   |     -243.9   
- PQoQ%:  |  -63.4   |  481.8   |   -8.0   |  -49.6   |  -35.9   |     282.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  1740.6  |  1870.3  |  1385.7  |  1159.7  |  1475.8 
- QoQ%:  |   53.6   |   7.4    |  -25.9   |  -16.3   |   27.3  
- QOPM%: |   6.4    |   9.1    |   2.0    |   0.1    |   0.0   
- QNPM%: |   1.2    |   4.9    |   0.0    |   0.0    |   0.0   
- QPFT:  |   20.3   |   90.8   |  -66.5   |  -75.4   |  -102.0 
- PQoQ%: |  -116.5  |  347.7   |  -173.2  |   13.4   |   35.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 6666.0		5575.6		6338.0		6104.3		5574.8		3786.0
+SQoQ%: 	-0.1		-16.4		13.7		-3.7		-8.7		67.9
+YOPM%: 	2.5		3.1		4.1		4.1		5.2
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -290.8		-267.5		-134.7		-86.4		-23.6		-264.1
+PQoQ%: 	481.8		-8.0		-49.6		-35.9		-72.7		1119.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1475.8		1553.7		1248.4		1157.2		1380.4
+QoQ%: 	27.3		5.3		-19.6		-7.3		19.3
+QOPM%: 	0.0		18.4		0.0		0.0		5.3
+QNPM%: 	0.0		14.2		0.0		0.0		1.1
+QPFT: 	-102.0		220.3		-173.8		-105.1		14.8
+PQoQ%: 	35.2		-316.0		-178.9		-39.5		-114.0
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 66% YSales
-- LastYr YProfits Doubled and maintained in Mar2024
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 68% YSales
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -23.6

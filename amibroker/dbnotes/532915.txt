@@ -1,26 +1,45 @@
-CODES
-532915	RELIGARE	
+CODES	532915	RELIGARE	
+FULLNAME : Religare Enterprises Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Investment Company
+PRODUCT DEMAND
 
-***CONS***
-- NEGATIVE YProfit : -37.5
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  113.5   |   27.8   |   32.0   |   23.1   |   6.3   
- SQoQ%:  |  452.6   |  -75.5   |   15.3   |  -27.8   |  -72.9  
- YOPM%:  |   56.7   |   0.0    |   0.0    |   0.0    |   0.0   
- YNPM%:  |   56.4   |   0.0    |   0.0    |   0.0    |   0.0   
-YPROFIT: |   64.0   |  -26.0   |  -15.1   |  -65.4   |  -37.5  
- PQoQ%:  |  -120.6  |  -140.6  |  -42.1   |  333.6   |  -42.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   3.2    |   2.9    |   3.4    |   0.0    |   0.0   
- QoQ%:  |  -10.5   |  -11.1   |   19.5   |  -98.8   |  -25.0  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |  274.3   |   0.0    |   0.0   
- QPFT:  |  -15.0   |  -15.8   |   9.4    |  -13.4   |  -17.7  
- PQoQ%: |  -41.9   |   5.7    |  -159.4  |  -242.1  |   32.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2512.9		3227.4		4679.2		6266.0		7385.1		5994.4
+SQoQ%: 	5.4		28.4		45.0		33.9		17.9		81.2
+YOPM%: 	11.1		0.0		10.3		5.9		4.8
+YNPM%: 	0.0		0.0		65.9		3.7		1.7
+YPROFIT: -508.5		-1543.9		3081.7		232.9		125.2		3.7
+PQoQ%: 	-45.5		203.6		-299.6		-92.4		-46.2		3.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1668.5		2028.4		1861.4		2076.6		2056.4
+QoQ%: 	-14.5		21.6		-8.2		11.6		-1.0
+QOPM%: 	0.0		11.5		0.8		3.2		0.0
+QNPM%: 	0.0		4.9		0.5		1.9		0.0
+QPFT: 	-43.0		99.1		10.2		38.8		-45.3
+PQoQ%: 	-183.8		-330.3		-89.7		279.9		-216.7
+
+
 
 ***PROS***
-A DEBT-Free Company
+- PRODUCT DEMAND is rising since 3 years
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 81% YSales
+- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+7385.10cr, QoQ 17.90% & YoY 193.89% SALES;
+356.30cr, QoQ -3.20% & YoY 28.30% OPERATING PROFIT;
+125.20cr, QoQ -46.20% & YoY -124.62% NET PROFIT;
+OPM %: 4.80% vs 5.9%
+NPM %: 1.70% vs 3.7%
+

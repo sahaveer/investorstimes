@@ -1,21 +1,22 @@
-CODE	NAME
-508980 
-
-SECTOR : Finance
-INDUSTRY : Finance & Investments
+CODES	508980	
+FULLNAME : Frontier Capital Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Diversified Commercial Services
 EXPANSION 2014
 EXPANSION 2015
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
 - Last 3QSALES is about 59% YSales
 
+
+***CONS***
 
 Yearly 
  31-Mar-2015 #Result

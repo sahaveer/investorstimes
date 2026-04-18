@@ -1,27 +1,33 @@
-CODES
-PKTEA	
-SECTOR : Plantation & Plantation Products
-INDUSTRY : Tea
+CODES	PKTEA	
+FULLNAME : The Peria Karamalai Tea & Produce Company Ltd
+SECTOR : Agricultural Food & other Products
+INDUSTRY : Tea & Coffee
 PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024
----------+----------+----------+----------+----------+---------
-YSALES:  |   39.4   |   72.8   |   47.2   |   51.5   |   53.7  
- SQoQ%:  |  -20.0   |   84.8   |  -35.2   |   9.2    |   4.2   
- YOPM%:  |   11.6   |   39.9   |   15.1   |   2.4    |   11.2  
- YNPM%:  |   0.0    |   15.7   |   1.1    |   0.0    |   10.1  
-YPROFIT: |   -3.6   |   11.4   |   0.5    |   -3.4   |   5.4   
- PQoQ%:  |  -223.5  |  -414.9  |  -95.6   |  -772.0  |  -260.7 
- QPNL:  | Mar-2023 | Jun-2023 | Sep-2023 | Dec-2023 | Mar-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   11.7   |   11.1   |   13.2   |   17.8   |   11.6  
- QoQ%:  |  -14.0   |   -5.4   |   19.0   |   34.7   |  -34.8  
- QOPM%: |   0.0    |   36.6   |   0.0    |   11.2   |   5.1   
- QNPM%: |   0.0    |   17.7   |   0.0    |   4.9    |   31.8  
- QPFT:  |   -1.4   |   2.0    |   -1.1   |   0.9    |   3.7   
- PQoQ%: | -4633.3  |  -244.1  |  -157.7  |  -177.9  |  319.3  
+***YEARLY***
+YPNL: 	Mar-2020	Mar-2021	Mar-2022	Mar-2023	Mar-2024
+YSALES: 39.4		72.8		47.2		51.5		53.7
+SQoQ%: 	-20.0		84.8		-35.2		9.2		4.2
+YOPM%: 	11.6		39.9		15.1		2.4		11.2
+YNPM%: 	0.0		15.7		1.1		0.0		10.1
+YPROFIT: -3.6		11.4		0.5		-3.4		5.4
+PQoQ%: 	-223.5		-414.9		-95.6		-772.0		-260.7
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2023	Jun-2023	Sep-2023	Dec-2023	Mar-2024
+QSALES: 11.7		11.1		13.2		17.8		11.6
+QoQ%: 	-14.0		-5.4		19.0		34.7		-34.8
+QOPM%: 	0.0		36.6		0.0		11.2		5.1
+QNPM%: 	0.0		17.7		0.0		4.9		31.8
+QPFT: 	-1.4		2.0		-1.1		0.9		3.7
+PQoQ%: 	-4633.3		-244.1		-157.7		-177.9		319.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - YProfit Turned POSITIVE this year Mar-2024 : 5.4
+
+***CONS***

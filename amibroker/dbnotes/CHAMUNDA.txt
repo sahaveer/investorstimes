@@ -1,18 +1,19 @@
-CODES
-CHAMUNDA	
+CODES	CHAMUNDA	
+FULLNAME : Chamunda Electrical Ltd
 SECTOR : Infrastructure Developers & Operators
 INDUSTRY : Engineering - Turnkey Services
 LYPD PM 2024
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 - LastYr YProfits Doubled and maintained in Mar2024
 
 YSALES in Mar-2024 is at 20.0 showing a QoQ_growth of 43.1%. The YNETPROFIT grew by 693.5% to 2.5
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

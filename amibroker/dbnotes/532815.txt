@@ -1,29 +1,47 @@
-CODES
-532815	SMSPHARMA	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs
-BestQ Dec 2024
+CODES	532815	SMSPHARMA	
+FULLNAME : SMS Pharmaceuticals Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+PRODUCT DEMAND
+BestQ Dec 2025
+LYPD PM 2025
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  412.0   |  563.2   |  519.9   |  522.0   |  709.3   |     534.6    
- SQoQ%:  |  -11.4   |   36.7   |   -7.7   |   0.4    |   35.9   |      75.4    
- YOPM%:  |   19.4   |   21.5   |   22.0   |   10.5   |   16.5   |              
- YNPM%:  |   7.7    |   11.1   |   12.0   |   0.0    |   7.0    |              
-YPROFIT: |   31.6   |   62.5   |   62.2   |   -7.1   |   49.8   |      48.8    
- PQoQ%:  |  -21.2   |   98.1   |   -0.5   |  -111.3  |  -805.8  |      98.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  161.5   |  245.8   |  164.4   |  196.8   |  173.4  
- QoQ%:  |   -3.1   |   52.2   |  -33.1   |   19.6   |  -11.9  
- QOPM%: |   18.0   |   13.7   |   20.4   |   16.0   |   19.2  
- QNPM%: |   7.1    |   7.0    |   10.0   |   7.2    |   10.5  
- QPFT:  |   11.5   |   17.3   |   16.5   |   14.1   |   18.2  
- PQoQ%: |   -2.1   |   50.5   |   -4.6   |  -14.4   |   29.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 563.2		519.9		522.0		709.3		782.8		648.8
+SQoQ%: 	36.7		-7.7		0.4		35.9		10.4		82.9
+YOPM%: 	21.5		22.0		10.5		16.5		17.8
+YNPM%: 	11.1		12.0		0.0		7.0		8.8
+YPROFIT: 62.5		62.2		-7.1		49.8		69.1		69.3
+PQoQ%: 	98.1		-0.5		-111.3		-805.8		38.8		100.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 173.4		248.2		196.0		242.4		210.4
+QoQ%: 	-11.9		43.2		-21.0		23.7		-13.2
+QOPM%: 	19.2		16.4		20.1		20.0		20.7
+QNPM%: 	10.5		8.2		10.5		10.4		11.2
+QPFT: 	18.2		20.3		20.5		25.3		23.5
+PQoQ%: 	29.4		11.4		0.8		23.5		-7.3
+
+
 
 ***PROS***
-- Last 3QSALES is about 75% YSales
-- Last 3QPROFIT is about 98% of YProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 49.8
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 100% of YProfit
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+782.80cr, QoQ 10.40% & YoY 38.99% SALES;
+139.00cr, QoQ 19.00% & YoY 14.78% OPERATING PROFIT;
+69.10cr, QoQ 38.80% & YoY 10.56% NET PROFIT;
+OPM %: 17.80% vs 16.5%
+NPM %: 8.80% vs 7.0%
+

@@ -1,13 +1,14 @@
-CODE	NAME
-517236 
-
+CODES	517236	
+FULLNAME : Calcom Vision Ltd
 SECTOR : Consumer Durables
-INDUSTRY : Electronics - Components
+INDUSTRY : Consumer Electronics
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

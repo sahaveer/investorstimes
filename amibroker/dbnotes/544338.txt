@@ -1,10 +1,11 @@
-CODES
-544338	CAPINVIT	
+CODES	544338	CAPINVIT	
+FULLNAME : Capital Infra Trust
 SECTOR : 
 INDUSTRY : 
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

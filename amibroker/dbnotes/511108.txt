@@ -1,16 +1,21 @@
-CODES
-511108	SHIVATEX	
-SECTOR : Textiles
-INDUSTRY : Textiles - Cotton/Blended
+CODES	511108	SHIVATEX	
+FULLNAME : Shiva Texyarn Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+BestQ Dec 2025
 LYPD PM 2025
 
-***CONS***
-- NO PRODUCT DEMAND
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 82% of YProfit
 - YProfit Turned POSITIVE this year Mar-2025 : 12.1
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NO PRODUCT DEMAND

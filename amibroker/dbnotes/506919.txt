@@ -1,17 +1,34 @@
-CODE	NAME
-506919 
+CODES	506919	
+FULLNAME : Makers Laboratories Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+LYPD PM 2025
 
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Formulations
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 68.6		126.9		101.2		103.7		120.7		104.9
+SQoQ%: 	nan		85.0		-20.2		2.5		16.4		86.9
+YOPM%: 	11.8		14.9		3.3		1.1		7.1
+YNPM%: 	0.0		3.9		0.0		0.0		6.2
+YPROFIT: -0.3		5.0		-4.8		-6.3		7.5		1.2
+PQoQ%: 	nan		-1609.1		-195.4		31.8		-219.6		16.0
 
-***CONS***
-- NEGATIVE YProfit : -6.3
 
 
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 27.7		33.9		35.0		34.2		35.7
+QoQ%: 	-6.4		22.4		3.2		-2.4		4.4
+QOPM%: 	4.7		9.1		8.6		6.7		11.7
+QNPM%: 	0.0		0.0		1.3		0.0		2.6
+QPFT: 	-0.3		-0.0		0.4		-0.1		0.9
+PQoQ%: 	-103.4		-83.3		-980.0		-127.3		-883.3
 
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 84% YSales
+- Last 3QSALES is about 87% YSales
+- YProfit Turned POSITIVE this year Mar-2025 : 7.5
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***

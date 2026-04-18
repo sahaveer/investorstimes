@@ -1,28 +1,32 @@
-CODES
-TEMBO	
+CODES	TEMBO	
+FULLNAME : Tembo Global Industries Ltd
 SECTOR : Retail
 INDUSTRY : Trading
 EXPANSION 2025
 LYPD PM 2025
 YS15 YPD 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  104.1   |  175.9   |  249.8   |  438.5   |  743.2  
- SQoQ%:  |   32.2   |   69.0   |   42.0   |   75.5   |   69.5  
- YOPM%:  |   7.2    |   4.7    |   5.4    |   5.8    |   12.3  
- YNPM%:  |   2.4    |   1.8    |   2.3    |   3.2    |   6.9   
-YPROFIT: |   2.5    |   3.2    |   5.8    |   14.2   |   51.0  
- PQoQ%:  |   4.6    |   26.0   |   83.8   |  145.4   |  258.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  121.6   |  128.4   |  163.8   |  164.5   |  274.0  
- QoQ%:  |   5.4    |   5.6    |   27.6   |   0.4    |   66.6  
- QOPM%: |   1.2    |   6.5    |   9.0    |   16.6   |   10.5  
- QNPM%: |   2.2    |   4.2    |   8.9    |   9.9    |   5.4   
- QPFT:  |   2.6    |   5.4    |   14.6   |   16.3   |   14.7  
- PQoQ%: |  -40.7   |  105.3   |  169.0   |   11.9   |  -10.1  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 	104.1		175.9		249.8		438.5		743.2
+SQoQ%: 	32.2		69.0		42.0		75.5		69.5
+YOPM%: 	7.2		4.7		5.4		5.8		12.3
+YNPM%: 	2.4		1.8		2.3		3.2		6.9
+YPROFIT: 	2.5		3.2		5.8		14.2		51.0
+PQoQ%: 	4.6		26.0		83.8		145.4		258.6
+
+
+
+***QUARTERLY***
+QPNL: 	Mar-2024		Jun-2024	Sep-2024	Dec-2024		Mar-2025
+QSALES: 	121.6		128.4		163.8		164.5		274.0
+QoQ%: 	5.4		5.6		27.6		0.4		66.6
+QOPM%: 	1.2		6.5		9.0		16.6		10.5
+QNPM%: 	2.2		4.2		8.9		9.9		5.4
+QPFT: 	2.6		5.4		14.6		16.3		14.7
+PQoQ%: 	-40.7		105.3		169.0		11.9		-10.1
+
+
 
 ***PROS***
 EXPANSION ??- EXPANSION underway in Mar-2025, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
@@ -31,6 +35,8 @@ ROCE in Mar2025 is at 17.7%
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
 As on Mar2025, Sales have increased by 69.5% while the Profit QoQ_growth is much better than Sales itself at 258.6%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

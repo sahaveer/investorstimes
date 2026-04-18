@@ -1,29 +1,40 @@
-CODES
-540293	PRICOLLTD	
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
+CODES	540293	PRICOLLTD	
+FULLNAME : Pricol Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1413.1  |  1544.7  |  1958.6  |  2271.8  |  2691.9 
- SQoQ%:  |   14.0   |   9.3    |   26.8   |   16.0   |   18.5  
- YOPM%:  |   13.4   |   11.8   |   11.7   |   12.6   |   11.6  
- YNPM%:  |   2.9    |   3.3    |   6.4    |   6.2    |   6.2   
-YPROFIT: |   41.5   |   51.1   |  124.7   |  140.6   |  167.0  
- PQoQ%:  |  -142.0  |   23.1   |  144.1   |   12.8   |   18.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  584.2   |  619.9   |  668.8   |  633.8   |  769.4  
- QoQ%:  |   2.0    |   6.1    |   7.9    |   -5.2   |   21.4  
- QOPM%: |   12.7   |   13.0   |   11.6   |   11.8   |   10.4  
- QNPM%: |   7.1    |   7.3    |   6.7    |   6.5    |   4.5   
- QPFT:  |   41.5   |   45.6   |   45.1   |   41.4   |   35.0  
- PQoQ%: |   22.0   |   9.8    |   -1.1   |   -8.0   |  -15.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1413.1		1544.7		1958.6		2271.8		2691.9		2941.6
+SQoQ%: 	14.0		9.3		26.8		16.0		18.5		109.3
+YOPM%: 	13.4		11.8		11.7		12.6		11.6
+YNPM%: 	2.9		3.3		6.4		6.2		6.2
+YPROFIT: 41.5		51.1		124.7		140.6		167.0		177.6
+PQoQ%: 	-142.0		23.1		144.1		12.8		18.8		106.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 633.8		769.4		895.3		1006.9		1039.4
+QoQ%: 	-5.2		21.4		16.4		12.5		3.2
+QOPM%: 	11.8		10.4		11.1		11.7		11.7
+QNPM%: 	6.5		4.5		5.6		6.4		6.1
+QPFT: 	41.4		35.0		49.9		64.0		63.7
+PQoQ%: 	-8.0		-15.7		42.7		28.3		-0.5
+
+
 
 ***PROS***
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 15.3%
+- Last 3QSALES is about 109% YSales
+- Last 3QPROFIT is about 106% of YProfit
 
 YSALES in Mar-2025 is at 2691.9 showing a QoQ_growth of 18.5%. The YNETPROFIT grew by 18.8% to 167.0
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

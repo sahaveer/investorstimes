@@ -1,18 +1,38 @@
-CODES
-543297	IWEL	
-SECTOR : Power Generation & Distribution
-INDUSTRY : Power Generation And Supply
-PRODUCT DEMAND
+CODES	543297	IWEL	
+FULLNAME : Inox Wind Energy Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Heavy Electrical Equipment
+YSD YPD 2025
 YSD YPD 2024
+LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -67.5
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025
+YSALES: 716.4		597.9		729.9		1746.3		3557.2
+SQoQ%: 	nan		-16.5		22.1		139.2		103.7
+YOPM%: 	0.0		0.0		0.0		15.0		21.3
+YNPM%: 	0.0		0.0		0.0		0.0		3.9
+YPROFIT: -172.2		-119.4		-370.8		-67.5		139.6
+PQoQ%: 	nan		-30.7		210.6		-81.8		-306.7
 
 
+
+***QUARTERLY***
+QPNL: 	Mar-2024	Jun-2024	Sep-2024	Dec-2024	Mar-2025
+QSALES: 528.5		639.6		733.0		912.0		1274.8
+QoQ%: 	4.8		21.0		14.6		24.4		39.8
+QOPM%: 	18.8		21.0		22.7		22.4		19.9
+QNPM%: 	3.6		1.6		3.5		4.3		5.3
+QPFT: 	19.1		10.3		25.7		38.8		67.1
+PQoQ%: 	-342.6		-46.0		149.4		51.2		72.8
 
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 131% YSales
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- YProfit Turned POSITIVE this year Mar-2025 : 139.6
+- YProfits and YSales DOUBLED in Mar2025
 - YProfits and YSales DOUBLED in Mar2024
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***

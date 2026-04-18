@@ -1,12 +1,14 @@
-CODES
-543933	CYIENTDLM	
-SECTOR : Electronics
-INDUSTRY : Electronics - Components
+CODES	543933	CYIENTDLM	
+FULLNAME : Cyient DLM Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

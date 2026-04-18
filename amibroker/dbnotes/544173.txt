@@ -1,14 +1,12 @@
-CODE	NAME
-544173 
-
+CODES	544173	
+FULLNAME : Finelistings Technologies Ltd
 SECTOR : IT - Software
 INDUSTRY : Computers - Software - Medium / Small
 PRODUCT DEMAND
 YSD YPD 2023
 YSD YPD 2022
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -17,6 +15,8 @@ YSD YPD 2022
 ROCE in Mar2024 is at 29.9%
 - YProfits and YSales DOUBLED in Mar2023
 - YProfits and YSales DOUBLED in Mar2022
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

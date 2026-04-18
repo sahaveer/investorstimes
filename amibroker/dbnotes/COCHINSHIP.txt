@@ -1,40 +1,49 @@
-CODES
-540678	COCHINSHIP	
-SECTOR : Aerospace & Defence
-INDUSTRY : Miscellaneous
+CODES	540678	COCHINSHIP	
+FULLNAME : Cochin Shipyard Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Ship Building & Allied Services
 EXPANSION 2024
 PRODUCT DEMAND
+BestQ Dec 2025
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2818.9  |  3191.0  |  2364.6  |  3830.4  |  4820.0 
- SQoQ%:  |  -17.6   |   13.2   |  -25.9   |   62.0   |   25.8  
- YOPM%:  |   25.6   |   19.7   |   11.1   |   23.0   |   18.2  
- YNPM%:  |   21.6   |   17.7   |   12.9   |   20.4   |   17.2  
-YPROFIT: |  608.7   |  564.0   |  304.7   |  783.3   |  827.3  
- PQoQ%:  |   -3.7   |   -7.3   |  -46.0   |  157.1   |   5.6   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1286.0  |  771.5   |  1143.2  |  1147.6  |  1757.6 
- QoQ%:  |   21.7   |  -40.0   |   48.2   |   0.4    |   53.2  
- QOPM%: |   22.4   |   23.0   |   17.3   |   20.7   |   15.1  
- QNPM%: |   20.1   |   22.6   |   16.5   |   15.4   |   16.3  
- QPFT:  |  258.9   |  174.2   |  188.9   |  177.0   |  287.2  
- PQoQ%: |   5.9    |  -32.7   |   8.4    |   -6.3   |   62.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2818.9		3191.0		2364.6		3830.4		4820.0		3537.6
+SQoQ%: 	-17.6		13.2		-25.9		62.0		25.8		73.4
+YOPM%: 	25.6		19.7		11.1		23.0		18.6
+YNPM%: 	21.6		17.7		12.9		20.4		17.2
+YPROFIT: 608.7		564.0		304.7		783.3		827.3		440.0
+PQoQ%: 	-3.7		-7.3		-46.0		157.1		5.6		53.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1147.6		1757.6		1068.6		1118.6		1350.4
+QoQ%: 	0.4		53.2		-39.2		4.7		20.7
+QOPM%: 	20.7		15.1		22.6		6.6		13.8
+QNPM%: 	15.4		16.3		17.6		9.6		10.7
+QPFT: 	177.0		287.2		187.8		107.5		144.7
+PQoQ%: 	-6.3		62.3		-34.6		-42.8		34.5
+
+
 
 ***PROS***
 EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 73% YSales
+- Last 3QPROFIT is about 53% of YProfit
 - LastYr YProfits Doubled and maintained in Mar2025
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 4820.00cr, QoQ 25.80% & YoY 70.99% SALES;
-877.90cr, QoQ -0.40% & YoY 21.46% OPERATING PROFIT;
+894.50cr, QoQ 1.50% & YoY 23.75% OPERATING PROFIT;
 827.30cr, QoQ 5.60% & YoY 35.91% NET PROFIT;
-OPM %: 18.20% vs 23.0%
+OPM %: 18.60% vs 23.0%
 NPM %: 17.20% vs 20.4%
 

@@ -1,36 +1,43 @@
-CODE	NAME
-530589 
+CODES	530589	
+FULLNAME : Prima Plastics Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Plastic Products - Consumer
+BestQ Dec 2025
 
-SECTOR : Plastic products
-INDUSTRY : Plastics Products
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 119.0		147.6		191.7		184.1		193.7		149.6
+SQoQ%: 	-6.1		24.0		29.9		-4.0		5.2		77.2
+YOPM%: 	12.3		7.2		13.2		16.5		11.6
+YNPM%: 	12.6		5.9		8.3		11.8		8.9
+YPROFIT: 15.0		8.7		15.9		21.8		17.2		11.3
+PQoQ%: 	48.3		-42.2		83.7		36.8		-21.1		65.7
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  126.7   |  119.0   |  147.6   |  191.7   |  184.1   |     135.8    
- SQoQ%:  |   -4.4   |   -6.1   |   24.0   |   29.9   |   -4.0   |      73.8    
- YOPM%:  |   10.1   |   12.3   |   7.2    |   13.2   |   16.5   |              
- YNPM%:  |   8.0    |   12.6   |   5.9    |   8.3    |   11.8   |              
-YPROFIT: |   10.1   |   15.0   |   8.7    |   15.9   |   21.8   |      9.9     
- PQoQ%:  |   6.5    |   48.3   |  -42.2   |   83.7   |   36.8   |      45.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   46.1   |   50.7   |   41.0   |   43.6   |   51.2  
- QoQ%:  |   -1.2   |   10.0   |  -19.3   |   6.4    |   17.5  
- QOPM%: |   16.8   |   19.4   |   11.6   |   8.3    |   11.5  
- QNPM%: |   14.6   |   13.4   |   9.2    |   6.4    |   6.4   
- QPFT:  |   6.7    |   6.8    |   3.8    |   2.8    |   3.3   
- PQoQ%: |   38.4   |   1.0    |  -44.8   |  -25.5   |   17.9  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 51.2		57.8		47.1		49.4		53.1
+QoQ%: 	17.5		12.8		-18.5		4.8		7.4
+QOPM%: 	11.5		14.1		11.1		9.7		12.9
+QNPM%: 	6.4		12.7		6.7		6.2		9.5
+QPFT: 	3.3		7.4		3.2		3.0		5.1
+PQoQ%: 	17.9		122.7		-56.7		-4.1		65.9
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 74% YSales
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 66% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-184.10cr, QoQ -4.00% & YoY 45.30% SALES;
-30.40cr, QoQ 19.70% & YoY 135.66% OPERATING PROFIT;
-21.80cr, QoQ 36.80% & YoY 115.84% NET PROFIT;
-OPM %: 16.50% vs 13.2%
-NPM %: 11.80% vs 8.3%
+ 31-Mar-2025 #Result
+193.70cr, QoQ 5.20% & YoY 62.77% SALES;
+22.50cr, QoQ -25.90% & YoY 53.06% OPERATING PROFIT;
+17.20cr, QoQ -21.10% & YoY 14.67% NET PROFIT;
+OPM %: 11.60% vs 16.5%
+NPM %: 8.90% vs 11.8%
 

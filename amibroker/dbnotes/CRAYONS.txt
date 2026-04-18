@@ -1,21 +1,21 @@
-CODES
-CRAYONS	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-LYPD PM 2024
+CODES	CRAYONS	
+FULLNAME : Crayons Advertising Ltd
+SECTOR : Media
+INDUSTRY : Advertising & Media Agencies
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- LastYr YProfits Doubled and maintained in Mar2024
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
- 31-Mar-2024 #Result
-201.60cr, QoQ -26.90% & YoY 25.22% SALES;
-21.30cr, QoQ 8.70% & YoY 587.10% OPERATING PROFIT;
-16.90cr, QoQ 1.90% & YoY 1308.33% NET PROFIT;
-OPM %: 10.60% vs 7.1%
-NPM %: 8.40% vs 6.0%
+ 31-Mar-2025 #Result
+192.30cr, QoQ -4.60% & YoY 83.14% SALES;
+7.20cr, QoQ -66.10% & YoY 323.53% OPERATING PROFIT;
+6.80cr, QoQ -60.10% & YoY 6700.00% NET PROFIT;
+OPM %: 3.80% vs 10.6%
+NPM %: 3.50% vs 8.4%
 

@@ -1,13 +1,13 @@
-CODES
-544345	DENTA	
+CODES	544345	DENTA	
+FULLNAME : Denta Water & Infra Solutions Ltd
 SECTOR : Infrastructure Developers & Operators
 INDUSTRY : Construction
 PRODUCT DEMAND
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
@@ -20,6 +20,8 @@ ROCE in Mar2024 is at 34.5%
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
 As on Mar2024, Sales have increased by 36.9% while the Profit QoQ_growth is at 19.2%
 - RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2024 is at 6.3%. The QPROFIT QoQ_growth by 35.4%
+
+***CONS***
 
 Quarterly 
 31-Dec-2024 #Result

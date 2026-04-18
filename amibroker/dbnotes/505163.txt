@@ -1,37 +1,42 @@
-CODE	NAME
-505163 
+CODES	505163	
+FULLNAME : Z F Steering Gear (India) Ltd
+SECTOR : Auto Components
+INDUSTRY : Auto Components & Equipments
+BestQ Dec 2025
 
-SECTOR : Auto Ancillaries
-INDUSTRY : Auto Ancillaries
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2019	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 439.4		312.8		450.4		477.9		493.9		396.7
+SQoQ%: 	0.9		-28.8		44.0		6.1		3.3		80.3
+YOPM%: 	12.7		13.0		12.5		11.0		10.8
+YNPM%: 	10.0		5.8		5.4		9.1		3.0
+YPROFIT: 43.9		18.3		24.5		43.7		14.9		15.4
+PQoQ%: 	1.5		-58.4		34.3		78.0		-65.9		103.4
 
-***CONS***
- YPNL:   | Mar-2018 | Mar-2019 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  435.6   |  439.4   |  312.8   |  450.4   |  477.8   |     356.9    
- SQoQ%:  |   9.2    |   0.9    |  -28.8   |   44.0   |   6.1    |      74.7    
- YOPM%:  |   19.4   |   12.7   |   13.0   |   12.5   |   11.0   |              
- YNPM%:  |   9.9    |   10.0   |   5.8    |   5.4    |   9.1    |              
-YPROFIT: |   43.2   |   43.9   |   18.3   |   24.5   |   43.7   |      11.0    
- PQoQ%:  |   38.0   |   1.5    |  -58.4   |   34.3   |   78.0   |      25.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  113.5   |  124.1   |  128.1   |  111.2   |  117.6  
- QoQ%:  |   -4.9   |   9.4    |   3.2    |  -13.2   |   5.8   
- QOPM%: |   8.8    |   8.5    |   12.7   |   10.2   |   8.9   
- QNPM%: |   9.9    |   6.6    |   8.0    |   1.5    |   0.0   
- QPFT:  |   11.2   |   8.2    |   10.2   |   1.7    |   -0.9  
- PQoQ%: |  -10.1   |  -26.8   |   23.7   |  -83.1   |  -150.0 
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 117.6		137.0		132.9		120.6		143.2
+QoQ%: 	5.8		16.5		-3.0		-9.3		18.8
+QOPM%: 	8.9		10.9		13.6		10.3		16.4
+QNPM%: 	0.0		2.8		6.0		0.0		5.5
+QPFT: 	-0.9		3.9		8.0		-0.4		7.8
+PQoQ%: 	-150.0		-550.0		105.9		-104.9		-2110.3
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 75% YSales
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 103% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-477.80cr, QoQ 6.10% & YoY 9.69% SALES;
-52.40cr, QoQ -7.30% & YoY -37.91% OPERATING PROFIT;
-43.70cr, QoQ 78.00% & YoY 1.16% NET PROFIT;
-OPM %: 11.00% vs 12.5%
-NPM %: 9.10% vs 5.4%
+ 31-Mar-2025 #Result
+493.90cr, QoQ 3.30% & YoY 12.40% SALES;
+53.10cr, QoQ 1.40% & YoY -5.01% OPERATING PROFIT;
+14.90cr, QoQ -65.90% & YoY -66.06% NET PROFIT;
+OPM %: 10.80% vs 11.0%
+NPM %: 3.00% vs 9.1%
 

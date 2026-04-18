@@ -1,12 +1,14 @@
-CODES
-539957	MGL	
-SECTOR : Gas Distribution
-INDUSTRY : Miscellaneous
+CODES	539957	MGL	
+FULLNAME : Mahanagar Gas Ltd
+SECTOR : Gas
+INDUSTRY : LPG/CNG/PNG/LNG Supplier
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

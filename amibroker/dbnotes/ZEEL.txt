@@ -1,32 +1,41 @@
-CODES
-505537	ZEEL	
+CODES	505537	ZEEL	
+FULLNAME : Zee Entertainment Enterprises Ltd
 SECTOR : Entertainment
-INDUSTRY : Entertainment / Electronic Media Software
+INDUSTRY : TV Broadcasting & Software Production
 PRODUCT DEMAND
+BestQ Dec 2025
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  7729.9  |  8185.7  |  8087.9  |  8637.2  |  8294.1 
- SQoQ%:  |   -4.9   |   5.9    |   -1.2   |   6.8    |   -4.0  
- YOPM%:  |   20.8   |   21.7   |   13.7   |   10.5   |   14.6  
- YNPM%:  |   10.4   |   11.8   |   0.6    |   1.6    |   8.2   
-YPROFIT: |  800.1   |  964.6   |   47.8   |  141.4   |  679.5  
- PQoQ%:  |   52.0   |   20.6   |  -95.0   |  195.8   |  380.6  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  2169.9  |  2130.5  |  2000.7  |  1978.8  |  2184.1 
- QoQ%:  |   6.1    |   -1.8   |   -6.1   |   -1.1   |   10.4  
- QOPM%: |   9.7    |   12.7   |   16.2   |   16.2   |   13.6  
- QNPM%: |   0.6    |   5.5    |   10.5   |   8.3    |   8.6   
- QPFT:  |   13.4   |  118.1   |  209.4   |  163.6   |  188.4  
- PQoQ%: |  -77.1   |  781.3   |   77.3   |  -21.9   |   15.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 7729.9		8185.7		8087.9		8637.2		8294.1		6074.1
+SQoQ%: 	-4.9		5.9		-1.2		6.8		-4.0		73.2
+YOPM%: 	20.8		21.7		13.7		10.5		14.6
+YNPM%: 	10.4		11.8		0.6		1.6		8.2
+YPROFIT: 800.1		964.6		47.8		141.4		679.5		375.5
+PQoQ%: 	52.0		20.6		-95.0		195.8		380.6		55.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1978.8		2184.1		1824.8		1969.2		2280.1
+QoQ%: 	-1.1		10.4		-16.5		7.9		15.8
+QOPM%: 	16.2		13.6		13.1		8.1		11.2
+QNPM%: 	8.3		8.6		7.9		3.9		6.8
+QPFT: 	163.6		188.4		143.7		76.5		155.3
+PQoQ%: 	-21.9		15.2		-23.7		-46.8		103.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 73% YSales
+- Last 3QPROFIT is about 55% of YProfit
 - LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

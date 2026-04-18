@@ -1,10 +1,11 @@
-CODES
-PSRAJ	
+CODES	PSRAJ	
+FULLNAME : P S Raj Steels Ltd
 SECTOR : Steel
 INDUSTRY : Steel - Medium / Small
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

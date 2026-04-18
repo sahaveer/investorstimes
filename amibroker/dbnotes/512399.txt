@@ -1,14 +1,14 @@
-CODE	NAME
-512399 
-
+CODES	512399	
+FULLNAME : Sera Investments & Finance India Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
-- RISING QSALES & QPROFIT : QSALES QoQ_Growth in Mar-2025 is at 352.0%. The QPROFIT QoQ_growth by -138.1%
+
+***CONS***

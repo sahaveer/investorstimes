@@ -1,12 +1,14 @@
-CODES
-PARAMOUNT	
+CODES	PARAMOUNT	
+FULLNAME : Paramount Dye Tec Ltd
 SECTOR : Textiles
 INDUSTRY : Textiles - Spinning - Synthetic / Blended
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

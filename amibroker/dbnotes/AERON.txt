@@ -1,16 +1,17 @@
-CODES
-AERON	
+CODES	AERON	
+FULLNAME : Aeron Composites Ltd
 SECTOR : Plastic products
 INDUSTRY : Plastics Products
 EXPANSION 2025
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 EXPANSION ??- EXPANSION underway in Mar-2025, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

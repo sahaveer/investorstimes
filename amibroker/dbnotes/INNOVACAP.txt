@@ -1,42 +1,46 @@
-CODES
-544067	INNOVACAP	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+CODES	544067	INNOVACAP	
+FULLNAME : Innova Captab Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 EXPANSION 2024
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  373.3   |  410.7   |  800.5   |  926.4   |  1081.3  |     929.0    
- SQoQ%:  |   4.9    |   10.0   |   94.9   |   15.7   |   16.7   |      85.9    
- YOPM%:  |   13.6   |   13.3   |   12.0   |   12.3   |   14.3   |              
- YNPM%:  |   7.5    |   8.4    |   8.0    |   7.3    |   8.7    |              
-YPROFIT: |   27.9   |   34.5   |   64.0   |   68.0   |   94.4   |      98.7    
- PQoQ%:  |   40.3   |   23.7   |   85.4   |   6.3    |   38.9   |     104.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  302.5   |  262.6   |  294.3   |  318.2   |  316.5  
- QoQ%:  |   6.9    |  -13.2   |   12.0   |   8.1    |   -0.5  
- QOPM%: |   14.7   |   14.5   |   14.3   |   15.6   |   14.7  
- QNPM%: |   8.3    |   10.9   |   10.0   |   11.0   |   10.8  
- QPFT:  |   25.1   |   28.7   |   29.5   |   35.0   |   34.2  
- PQoQ%: |   9.7    |   14.3   |   2.6    |   18.7   |   -2.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 410.7		800.5		926.4		1081.3		1243.7		1182.2
+SQoQ%: 	10.0		94.9		15.7		16.7		15.0		95.1
+YOPM%: 	13.3		12.0		12.3		14.3		15.0
+YNPM%: 	8.4		8.0		7.3		8.7		10.3
+YPROFIT: 34.5		64.0		68.0		94.4		128.3		102.9
+PQoQ%: 	23.7		85.4		6.3		38.9		35.9		80.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 316.5		314.7		351.5		380.4		450.3
+QoQ%: 	-0.5		-0.5		11.7		8.2		18.4
+QOPM%: 	14.7		15.1		14.8		13.6		15.4
+QNPM%: 	10.8		9.4		8.8		7.8		9.4
+QPFT: 	34.2		29.6		31.0		29.7		42.2
+PQoQ%: 	-2.3		-13.5		4.9		-4.4		42.1
+
+
 
 ***PROS***
-EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 86% YSales
-- Last 3QPROFIT is about 105% of YProfit
+- Last 3QSALES is about 95% YSales
+- Last 3QPROFIT is about 80% of YProfit
 
-YSALES in Mar-2024 is at 1081.3 showing a QoQ_growth of 16.7%. The YNETPROFIT grew by 38.9% to 94.4
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1081.30cr, QoQ 16.70% & YoY 189.66% SALES;
-154.50cr, QoQ 35.90% & YoY 203.54% OPERATING PROFIT;
-94.40cr, QoQ 38.90% & YoY 238.35% NET PROFIT;
-OPM %: 14.30% vs 12.3%
-NPM %: 8.70% vs 7.3%
+ 31-Mar-2025 #Result
+1243.70cr, QoQ 15.00% & YoY 202.82% SALES;
+186.30cr, QoQ 20.60% & YoY 241.83% OPERATING PROFIT;
+128.30cr, QoQ 35.90% & YoY 271.88% NET PROFIT;
+OPM %: 15.00% vs 14.3%
+NPM %: 10.30% vs 8.7%
 

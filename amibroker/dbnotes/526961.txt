@@ -1,13 +1,14 @@
-CODE	NAME
-526961 
+CODES	526961	
+FULLNAME : Last Mile Enterprises Ltd
+SECTOR : Finance
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-SECTOR : Realty
-INDUSTRY : Construction
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

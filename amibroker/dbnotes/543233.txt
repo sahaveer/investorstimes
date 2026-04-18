@@ -1,37 +1,46 @@
-CODES
-543233	CHEMCON	
-SECTOR : 
-INDUSTRY : 
+CODES	543233	CHEMCON	
+FULLNAME : Chemcon Speciality Chemicals Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  243.5   |  257.1   |  302.9   |  267.1   |  207.4  
- SQoQ%:  |   -7.1   |   5.6    |   17.8   |  -11.8   |  -22.3  
- YOPM%:  |   33.3   |   31.9   |   23.3   |   10.1   |   15.8  
- YNPM%:  |   23.2   |   24.4   |   18.2   |   7.2    |   11.8  
-YPROFIT: |   56.4   |   62.8   |   55.1   |   19.2   |   24.4  
- PQoQ%:  |   15.5   |   11.3   |  -12.2   |  -65.2   |   27.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   59.6   |   45.5   |   52.6   |   54.4   |   54.9  
- QoQ%:  |   12.5   |  -23.6   |   15.6   |   3.4    |   0.9   
- QOPM%: |   7.4    |   15.6   |   16.2   |   20.8   |   10.5  
- QNPM%: |   4.9    |   11.8   |   12.0   |   16.2   |   7.2   
- QPFT:  |   2.9    |   5.4    |   6.3    |   8.8    |   4.0   
- PQoQ%: |  -34.7   |   85.2   |   17.9   |   39.2   |  -55.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 243.5		257.1		302.9		267.1		207.4		164.5
+SQoQ%: 	-7.1		5.6		17.8		-11.8		-22.3		79.3
+YOPM%: 	33.3		31.9		23.3		10.1		15.9
+YNPM%: 	23.2		24.4		18.2		7.2		11.8
+YPROFIT: 56.4		62.8		55.1		19.2		24.4		17.3
+PQoQ%: 	15.5		11.3		-12.2		-65.2		27.4		70.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 54.4		54.9		53.5		53.7		57.3
+QoQ%: 	3.4		0.9		-2.5		0.4		6.7
+QOPM%: 	20.8		10.5		14.5		12.8		11.6
+QNPM%: 	16.2		7.2		11.9		10.7		8.9
+QPFT: 	8.8		4.0		6.4		5.8		5.1
+PQoQ%: 	39.2		-55.2		61.8		-10.0		-11.5
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 71% of YProfit
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 207.40cr, QoQ -22.30% & YoY -14.83% SALES;
-32.90cr, QoQ 22.20% & YoY -59.48% OPERATING PROFIT;
+32.90cr, QoQ 22.40% & YoY -59.48% OPERATING PROFIT;
 24.40cr, QoQ 27.40% & YoY -56.74% NET PROFIT;
-OPM %: 15.80% vs 10.1%
+OPM %: 15.90% vs 10.1%
 NPM %: 11.80% vs 7.2%
 

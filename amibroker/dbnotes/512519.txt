@@ -1,12 +1,14 @@
-CODES
-512519	DONEAR	
-SECTOR : Textiles
-INDUSTRY : Textiles - Processing
+CODES	512519	DONEAR	
+FULLNAME : Donear Industries Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

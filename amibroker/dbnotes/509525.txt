@@ -1,40 +1,45 @@
-CODE	NAME
-509525 
-
+CODES	509525	
+FULLNAME : Empire Industries Ltd
 SECTOR : Diversified
-INDUSTRY : Diversified - Medium / Small
+INDUSTRY : Diversified
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  574.8   |  490.3   |  544.0   |  681.6   |  606.0   |     490.6    
- SQoQ%:  |   9.2    |  -14.7   |   11.0   |   25.3   |  -11.1   |      81.0    
- YOPM%:  |   13.0   |   8.8    |   10.8   |   11.5   |   10.6   |              
- YNPM%:  |   5.9    |   2.7    |   4.4    |   5.2    |   6.1    |              
-YPROFIT: |   34.2   |   13.2   |   23.7   |   35.5   |   37.0   |      30.0    
- PQoQ%:  |  -22.0   |  -61.4   |   79.3   |   49.9   |   4.2    |      81.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  152.8   |  152.0   |  151.7   |  163.4   |  175.5  
- QoQ%:  |   -0.4   |   -0.5   |   -0.2   |   7.7    |   7.4   
- QOPM%: |   4.6    |   14.9   |   10.8   |   11.8   |   10.2  
- QNPM%: |   6.7    |   8.3    |   6.4    |   6.0    |   6.0   
- QPFT:  |   10.2   |   12.6   |   9.7    |   9.8    |   10.5  
- PQoQ%: |   26.8   |   23.3   |  -23.1   |   1.2    |   7.2   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 490.3		544.0		681.6		606.0		677.0		535.8
+SQoQ%: 	-14.7		11.0		25.3		-11.1		11.7		79.1
+YOPM%: 	8.8		10.8		11.5		10.6		10.3
+YNPM%: 	2.7		4.4		5.2		6.1		5.1
+YPROFIT: 13.2		23.7		35.5		37.0		34.4		32.6
+PQoQ%: 	-61.4		79.3		49.9		4.2		-6.9		94.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 175.5		186.4		166.8		180.4		188.6
+QoQ%: 	7.4		6.2		-10.5		8.1		4.6
+QOPM%: 	10.2		8.6		9.3		11.7		9.1
+QNPM%: 	6.0		2.4		5.8		6.9		5.6
+QPFT: 	10.5		4.4		9.6		12.4		10.6
+PQoQ%: 	7.2		-57.8		116.7		28.8		-14.6
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 81% YSales
-- Last 3QPROFIT is about 81% of YProfit
+- Last 3QSALES is about 79% YSales
+- Last 3QPROFIT is about 95% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-606.00cr, QoQ -11.10% & YoY 5.43% SALES;
-64.10cr, QoQ -18.40% & YoY -13.96% OPERATING PROFIT;
-37.00cr, QoQ 4.20% & YoY 8.19% NET PROFIT;
-OPM %: 10.60% vs 11.5%
-NPM %: 6.10% vs 5.2%
+ 31-Mar-2025 #Result
+677.00cr, QoQ 11.70% & YoY 38.08% SALES;
+69.70cr, QoQ 8.60% & YoY 60.97% OPERATING PROFIT;
+34.40cr, QoQ -6.90% & YoY 160.61% NET PROFIT;
+OPM %: 10.30% vs 10.6%
+NPM %: 5.10% vs 6.1%
 

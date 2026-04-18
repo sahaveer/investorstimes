@@ -1,28 +1,32 @@
-CODE	NAME
-540955 
+CODES	540955	
+FULLNAME : Tasty Dairy Specialities Ltd
+SECTOR : Food Products
+INDUSTRY : Dairy Products
 
-SECTOR : FMCG
-INDUSTRY : Food - Processing - Indian
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 328.0		161.6		111.4		39.9		6.4		3.3
+SQoQ%: 	-18.6		-50.7		-31.0		-64.2		-83.8		51.6
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -13.8		-29.0		-0.1		-50.8		-9.9		-4.8
+PQoQ%: 	-436.5		109.4		-99.7		56355.6		-80.5		48.5
 
-***CONS***
-- NEGATIVE YProfit : -50.8
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  403.2   |  328.0   |  161.6   |  111.4   |   39.9   |      4.4     
- SQoQ%:  |   10.4   |  -18.6   |  -50.7   |  -31.0   |  -64.2   |      11.0    
- YOPM%:  |   3.1    |   0.0    |   0.0    |   0.0    |   0.0    |              
- YNPM%:  |   1.0    |   0.0    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |   4.1    |  -13.8   |  -29.0   |   -0.1   |  -50.8   |      -7.4    
- PQoQ%:  |  -30.9   |  -436.5  |  109.4   |  -99.7   | 56355.6  |      14.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   8.0    |   1.7    |   1.4    |   1.3    |   1.7   
- QoQ%:  |   -6.1   |  -78.5   |  -17.9   |   -8.5   |   30.8  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |  -23.1   |  -21.4   |   -2.6   |   -2.4   |   -2.4  
- PQoQ%: |  1032.8  |   -7.5   |  -87.8   |   -8.8   |   -0.4  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1.7		2.0		2.2		1.0		0.1
+QoQ%: 	30.8		18.8		8.9		-52.7		-92.3
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-2.4		-2.5		-2.0		-2.1		-0.7
+PQoQ%: 	-0.4		6.3		-19.4		1.5		-64.1
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 52% YSales
+
+***CONS***
+- NEGATIVE YProfit : -9.9

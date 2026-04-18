@@ -1,38 +1,44 @@
-CODE	NAME
-521097 
+CODES	521097	
+FULLNAME : Amarjothi Spinning Mills Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+PRODUCT DEMAND
+BestQ Dec 2025
 
-SECTOR : Textiles
-INDUSTRY : Textiles - Cotton/Blended
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 179.6		257.5		210.1		201.9		230.3		127.6
+SQoQ%: 	4.2		43.4		-18.4		-3.9		14.1		55.4
+YOPM%: 	20.0		14.2		15.0		14.5		13.8
+YNPM%: 	8.8		8.5		4.9		4.1		4.9
+YPROFIT: 15.7		21.8		10.3		8.2		11.4		6.7
+PQoQ%: 	44.5		38.3		-52.7		-20.6		38.8		58.8
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  172.3   |  179.6   |  257.5   |  210.1   |  201.9   |     173.2    
- SQoQ%:  |  -19.5   |   4.2    |   43.4   |  -18.4   |   -3.9   |      85.8    
- YOPM%:  |   22.5   |   20.0   |   14.2   |   15.0   |   14.5   |              
- YNPM%:  |   6.3    |   8.8    |   8.5    |   4.9    |   4.1    |              
-YPROFIT: |   10.9   |   15.7   |   21.8   |   10.3   |   8.2    |      8.7     
- PQoQ%:  |  -28.5   |   44.5   |   38.3   |  -52.7   |  -20.6   |     106.1    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   34.4   |   81.2   |   78.7   |   53.5   |   41.0  
- QoQ%:  |   -8.2   |  136.4   |   -3.1   |  -32.1   |  -23.3  
- QOPM%: |   18.7   |   11.1   |   10.7   |   14.0   |   14.3  
- QNPM%: |   7.3    |   5.6    |   4.2    |   6.1    |   5.4   
- QPFT:  |   2.5    |   4.5    |   3.3    |   3.2    |   2.2   
- PQoQ%: |  -25.3   |   80.1   |  -27.2   |   -1.2   |  -32.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 41.0		56.8		52.5		47.0		28.1
+QoQ%: 	-23.3		38.5		-7.5		-10.6		-40.1
+QOPM%: 	14.3		16.6		13.7		14.3		17.9
+QNPM%: 	5.4		8.5		4.9		5.7		5.1
+QPFT: 	2.2		4.8		2.6		2.7		1.4
+PQoQ%: 	-32.0		119.0		-46.3		2.3		-45.9
+
+
 
 ***PROS***
-- Last 3QSALES is about 86% YSales
-- Last 3QPROFIT is about 106% of YProfit
+- PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 55% YSales
+- Last 3QPROFIT is about 59% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-201.90cr, QoQ -3.90% & YoY 17.18% SALES;
-29.20cr, QoQ -6.90% & YoY -24.55% OPERATING PROFIT;
-8.20cr, QoQ -20.60% & YoY -24.77% NET PROFIT;
-OPM %: 14.50% vs 15.0%
-NPM %: 4.10% vs 4.9%
+ 31-Mar-2025 #Result
+230.30cr, QoQ 14.10% & YoY 28.23% SALES;
+31.80cr, QoQ 8.70% & YoY -11.42% OPERATING PROFIT;
+11.40cr, QoQ 38.80% & YoY -27.39% NET PROFIT;
+OPM %: 13.80% vs 14.5%
+NPM %: 4.90% vs 4.1%
 

@@ -1,16 +1,18 @@
-CODES
-CLOUD	
-SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+CODES	CLOUD	
+FULLNAME : Varanium Cloud Ltd
+SECTOR : Telecom - Services
+INDUSTRY : Other Telecom Services
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - RISING QSALES & QPROFIT : QSALES QoQ_Growth in Dec-2023 is at 91.2%. The QPROFIT QoQ_growth by 115.6%
+
+***CONS***
 
 Quarterly 
 31-Dec-2023 #Result

@@ -1,37 +1,43 @@
-CODES
-532952	NAHARCAP	
+CODES	532952	NAHARCAP	
+FULLNAME : Nahar Capital & Financial Services Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
-BestQ Dec 2024
+INDUSTRY : Investment Company
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   17.9   |   45.7   |   41.6   |   33.3   |   51.8   |      22.9    
- SQoQ%:  |  -25.3   |  154.6   |   -8.9   |  -20.0   |   55.6   |      44.2    
- YOPM%:  |   24.5   |   88.0   |   81.3   |   75.9   |   31.2   |              
- YNPM%:  |   20.6   |  133.5   |  544.4   |  320.9   |   22.7   |              
-YPROFIT: |   3.7    |   61.0   |  226.5   |  106.7   |   11.8   |      28.6    
- PQoQ%:  |  -85.2   |  1547.8  |  271.4   |  -52.9   |  -89.0   |     242.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   3.9    |   6.3    |   6.6    |   11.7   |   4.6   
- QoQ%:  |  -49.7   |   59.5   |   4.9    |   77.2   |  -60.5  
- QOPM%: |   0.0    |   52.6   |   62.3   |   61.9   |   48.3  
- QNPM%: |   0.0    |  141.5   |  177.5   |   89.5   |  141.1  
- QPFT:  |   -0.2   |   8.9    |   11.7   |   10.4   |   6.5   
- PQoQ%: |  -102.9  | -6013.3  |   31.7   |  -10.7   |  -37.8  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 45.7		41.6		33.3		51.8		46.4		20.0
+SQoQ%: 	154.6		-8.9		-20.0		55.6		-10.4		43.1
+YOPM%: 	88.0		81.3		75.9		31.2		79.2
+YNPM%: 	133.5		544.4		320.9		22.7		107.4
+YPROFIT: 61.0		226.5		106.7		11.8		49.8		45.0
+PQoQ%: 	1547.8		271.4		-52.9		-89.0		323.2		90.4
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4.6		3.3		5.7		9.6		4.7
+QoQ%: 	-60.5		-27.6		70.3		69.7		-50.9
+QOPM%: 	48.3		36.3		52.4		66.1		42.4
+QNPM%: 	141.1		636.9		202.5		211.9		277.1
+QPFT: 	6.5		21.2		11.5		20.4		13.1
+PQoQ%: 	-37.8		226.8		-45.9		77.5		-35.8
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- Last 3QPROFIT is about 242% of YProfit
+- Last 3QPROFIT is about 90% of YProfit
 
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-51.80cr, QoQ 55.60% & YoY 189.39% SALES;
-16.10cr, QoQ -36.10% & YoY 265.91% OPERATING PROFIT;
-11.80cr, QoQ -89.00% & YoY 218.92% NET PROFIT;
-OPM %: 31.20% vs 75.9%
-NPM %: 22.70% vs 320.9%
+ 31-Mar-2025 #Result
+46.40cr, QoQ -10.40% & YoY 1.53% SALES;
+36.70cr, QoQ 127.70% & YoY -8.71% OPERATING PROFIT;
+49.80cr, QoQ 323.20% & YoY -18.36% NET PROFIT;
+OPM %: 79.20% vs 31.2%
+NPM %: 107.40% vs 22.7%
 

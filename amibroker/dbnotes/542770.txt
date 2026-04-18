@@ -1,47 +1,51 @@
-CODE	NAME
-542770 
-
+CODES	542770	
+FULLNAME : Alphalogic Techsys Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
-EXPANSION 2023
+INDUSTRY : Computers - Software & Consulting
 EXPANSION 2024
-BestQ Dec 2024
-YSD YPD 2022
+EXPANSION 2025
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   4.7    |   5.5    |   12.0   |   22.2   |   53.9   |      63.3    
- SQoQ%:  |   nan    |   17.1   |  119.3   |   84.9   |  142.7   |     117.4    
- YOPM%:  |   43.8   |   3.3    |   12.6   |   24.1   |   11.3   |              
- YNPM%:  |   42.9   |   12.6   |   17.1   |   15.3   |   7.7    |              
-YPROFIT: |   2.0    |   0.7    |   2.1    |   3.4    |   4.1    |      3.8     
- PQoQ%:  |   nan    |  -65.7   |  198.6   |   65.5   |   21.4   |      92.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   14.3   |   17.8   |   23.8   |   18.8   |   20.7  
- QoQ%:  |   14.0   |   24.5   |   34.3   |  -21.2   |   10.1  
- QOPM%: |   11.1   |   8.7    |   7.4    |   8.8    |   8.6   
- QNPM%: |   8.2    |   5.5    |   5.4    |   6.8    |   6.0   
- QPFT:  |   1.2    |   1.0    |   1.3    |   1.3    |   1.2   
- PQoQ%: |  -10.0   |  -17.1   |   32.0   |   -0.8   |   -2.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 5.5		12.0		22.2		53.9		78.0		37.8
+SQoQ%: 	17.1		119.3		84.9		142.7		44.6		48.5
+YOPM%: 	3.3		12.6		24.1		11.3		9.1
+YNPM%: 	12.6		17.1		15.3		7.7		6.2
+YPROFIT: 0.7		2.1		3.4		4.1		4.9		4.0
+PQoQ%: 	-65.7		198.6		65.5		21.4		17.4		81.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 20.7		14.6		11.4		16.8		9.6
+QoQ%: 	10.1		-29.2		-21.9		46.9		-43.2
+QOPM%: 	8.6		11.6		14.7		16.0		26.0
+QNPM%: 	6.0		7.3		10.2		8.5		14.3
+QPFT: 	1.2		1.1		1.2		1.4		1.4
+PQoQ%: 	-2.4		-13.7		9.3		22.2		-4.2
+
+
 
 ***PROS***
 EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
+- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 16.4%
-- Last 3QSALES is about 117% YSales
-- Last 3QPROFIT is about 93% of YProfit
-- YProfits and YSales DOUBLED in Mar2022
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
+ROCE in Mar2025 is at 19.2%
+- Last 3QPROFIT is about 82% of YProfit
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
-As on Mar2024, Sales have increased by 142.7% while the Profit QoQ_growth is at 21.4%
+As on Mar2025, Sales have increased by 44.6% while the Profit QoQ_growth is at 17.4%
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-53.90cr, QoQ 142.70% & YoY 1046.81% SALES;
-6.10cr, QoQ 13.50% & YoY 205.00% OPERATING PROFIT;
-4.10cr, QoQ 21.40% & YoY 105.00% NET PROFIT;
-OPM %: 11.30% vs 24.1%
-NPM %: 7.70% vs 15.3%
+ 31-Mar-2025 #Result
+78.00cr, QoQ 44.60% & YoY 1318.18% SALES;
+7.10cr, QoQ 16.80% & YoY 3450.00% OPERATING PROFIT;
+4.90cr, QoQ 17.40% & YoY 600.00% NET PROFIT;
+OPM %: 9.10% vs 11.3%
+NPM %: 6.20% vs 7.7%
 

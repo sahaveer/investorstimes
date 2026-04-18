@@ -1,18 +1,19 @@
-CODES
-NAMOEWASTE	
+CODES	NAMOEWASTE	
+FULLNAME : Namo eWaste Management Ltd
 SECTOR : Miscellaneous
 INDUSTRY : Miscellaneous
 PRODUCT DEMAND
 YS15 YPD 2024
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
 As on Mar2024, Sales have increased by 29.2% while the Profit QoQ_growth is much better than Sales itself at 195.5%
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

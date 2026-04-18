@@ -1,28 +1,18 @@
-CODES
-DHTL	
-SECTOR : Education
-INDUSTRY : Miscellaneous
-EXPANSION 2023
+CODES	DHTL	
+FULLNAME : Docmode Health Technologies Ltd
+SECTOR : Other Consumer Services
+INDUSTRY : E-Learning
 EXPANSION 2024
+EXPANSION 2025
 PRODUCT DEMAND
 YSD YPD 2023
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
 - PRODUCT DEMAND is rising since 3 years
-- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2024 is at 17.4%
 - YProfits and YSales DOUBLED in Mar2023
 
-Yearly 
- 31-Mar-2024 #Result
-39.90cr, QoQ 21.40% & YoY 478.26% SALES;
-1.90cr, QoQ -49.70% & YoY 375.00% OPERATING PROFIT;
-0.20cr, QoQ -90.30% & YoY -33.33% NET PROFIT;
-OPM %: 4.70% vs 11.4%
-NPM %: 0.50% vs 5.9%
-
+***CONS***

@@ -1,29 +1,33 @@
-CODES
-532614	IMPEXFERRO	
-SECTOR : Ferro Alloys
-INDUSTRY : Mining / Minerals / Metals
-PRODUCT DEMAND
-YSD YPD 2022
+CODES	532614	IMPEXFERRO	
+FULLNAME : Impex Ferro Tech Ltd
+SECTOR : Ferrous Metals
+INDUSTRY : Ferro & Silica Manganese
+LYPD PM 2025
 
-***CONS***
-- NEGATIVE YProfit : -29.8
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024
----------+----------+----------+----------+----------+---------
-YSALES:  |   52.9   |  100.0   |  298.5   |  143.4   |   27.5  
- SQoQ%:  |  -47.0   |   89.1   |  198.3   |  -52.0   |  -80.8  
- YOPM%:  |   0.0    |   0.0    |   2.2    |   0.0    |   0.0   
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
-YPROFIT: |  -25.0   |   -8.7   |  -16.8   |  -33.6   |  -29.8  
- PQoQ%:  |   49.6   |  -65.1   |   91.8   |  100.5   |  -11.2  
- QPNL:  | Mar-2023 | Jun-2023 | Sep-2023 | Dec-2023 | Mar-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   3.3    |   0.3    |   2.2    |   0.6    |   24.5  
- QoQ%:  |  -34.9   |  -90.4   |  578.1   |  -74.7   |  4349.1 
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |  272.8   |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |   9.1    |   -3.5   |   -2.3   |   -3.5   |  -20.5  
- PQoQ%: |  -324.9  |  -138.4  |  -33.1   |   50.9   |  479.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 100.0		298.5		143.4		27.5		0.2		0.0
+SQoQ%: 	89.1		198.3		-52.0		-80.8		-99.2		0.0
+YOPM%: 	0.0		2.2		0.0		0.0		0.0
+YNPM%: 	0.0		0.0		0.0		0.0		0.0
+YPROFIT: -8.7		-16.8		-33.6		-29.8		-7.1		-5.5
+PQoQ%: 	-65.1		91.8		100.5		-11.2		-76.3		77.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-1.8		-1.8		-1.9		-1.8		-1.8
+PQoQ%: 	-0.5		-1.1		3.3		-3.2		0.0
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- YProfits and YSales DOUBLED in Mar2022
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+- NEGATIVE YProfit : -7.1

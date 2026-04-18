@@ -1,10 +1,11 @@
-CODES
-CHETANA	
+CODES	CHETANA	
+FULLNAME : Chetana Education Ltd
 SECTOR : Printing & Stationery
 INDUSTRY : Printing & Stationery
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

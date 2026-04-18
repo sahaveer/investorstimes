@@ -1,15 +1,17 @@
-CODES
-544355	JUBLCPL	
+CODES	544355	JUBLCPL	
+FULLNAME : Jubilant Agri & Consumer Products Ltd
 SECTOR : Chemicals
 INDUSTRY : Chemicals
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
 
 Quarterly 
 31-Dec-2024 #Result

@@ -1,13 +1,14 @@
-CODE	NAME
-531387 
-
+CODES	531387	
+FULLNAME : Hasti Finance Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

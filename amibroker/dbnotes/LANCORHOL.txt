@@ -1,32 +1,41 @@
-CODES
-509048	LANCORHOL	
+CODES	509048	LANCORHOL	
+FULLNAME : Lancor Holdings Ltd
 SECTOR : Realty
-INDUSTRY : Construction
-PRODUCT DEMAND
-BestQ Dec 2024
-LYPD PM 2024
+INDUSTRY : Residential, Commercial Projects
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   58.3   |   52.2   |  103.4   |  114.9   |  138.3   |     138.7    
- SQoQ%:  |  -36.7   |  -10.5   |   98.4   |   11.1   |   20.3   |     100.3    
- YOPM%:  |   32.7   |   25.2   |   5.8    |   19.3   |   17.9   |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   4.9    |              
-YPROFIT: |   -5.8   |  -11.6   |  -17.0   |   -0.3   |   6.8    |      4.6     
- PQoQ%:  |  -302.1  |  100.9   |   46.8   |  -98.0   | -2085.3  |      67.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   31.2   |   43.9   |   35.4   |   57.4   |   45.9  
- QoQ%:  |  -12.1   |   40.8   |  -19.4   |   62.4   |  -20.0  
- QOPM%: |   16.6   |   20.6   |   25.9   |   20.9   |   7.4   
- QNPM%: |   4.1    |   6.8    |   8.2    |   6.6    |   0.0   
- QPFT:  |   1.3    |   3.0    |   2.9    |   3.8    |   -2.1  
- PQoQ%: |  -32.3   |  134.4   |   -3.3   |   31.4   |  -154.3 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 52.2		103.4		114.9		138.3		190.3		113.5
+SQoQ%: 	-10.5		98.4		11.1		20.3		37.6		59.6
+YOPM%: 	25.2		5.8		19.3		17.9		16.6
+YNPM%: 	0.0		0.0		0.0		4.9		2.5
+YPROFIT: -11.6		-17.0		-0.3		6.8		4.7		-2.6
+PQoQ%: 	100.9		46.8		-98.0		-2085.3		-30.8		-55.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 45.9		51.6		41.2		33.8		38.5
+QoQ%: 	-20.0		12.4		-20.2		-18.1		14.0
+QOPM%: 	7.4		13.8		15.5		7.2		15.9
+QNPM%: 	0.0		0.1		0.3		0.0		0.0
+QPFT: 	-2.1		0.0		0.1		-2.5		-0.2
+PQoQ%: 	-154.3		-101.4		300.0		-2200.0		-92.5
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 100% YSales
-- Last 3QPROFIT is about 68% of YProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 6.8
-- LastYr YProfits Doubled and maintained in Mar2024
+- Last 3QSALES is about 60% YSales
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+190.30cr, QoQ 37.60% & YoY 264.56% SALES;
+31.70cr, QoQ 28.10% & YoY 141.98% OPERATING PROFIT;
+4.70cr, QoQ -30.80% & YoY -140.52% NET PROFIT;
+OPM %: 16.60% vs 17.9%
+NPM %: 2.50% vs 4.9%
+

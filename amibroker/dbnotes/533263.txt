@@ -1,35 +1,46 @@
-CODES
-533263	GREENPOWER	
-SECTOR : Power Generation & Distribution
-INDUSTRY : Power Generation And Supply
+CODES	533263	GREENPOWER	
+FULLNAME : Orient Green Power Company Ltd
+SECTOR : Power
+INDUSTRY : Power Generation
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  256.8   |  310.6   |  258.3   |  271.0   |  263.4  
- SQoQ%:  |  -30.4   |   21.0   |  -16.8   |   4.9    |   -2.8  
- YOPM%:  |   63.9   |   72.1   |   66.2   |   66.4   |   64.3  
- YNPM%:  |   0.0    |   11.3   |   12.6   |   14.2   |   14.7  
-YPROFIT: |  -57.6   |   35.0   |   32.6   |   38.4   |   38.8  
- PQoQ%:  |  -349.4  |  -160.8  |   -6.8   |   17.8   |   1.1   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   36.0   |   63.4   |  124.0   |   34.5   |   41.5  
- QoQ%:  |   5.9    |   76.3   |   95.5   |  -72.2   |   20.2  
- QOPM%: |   39.7   |   64.3   |   82.4   |   31.2   |   37.6  
- QNPM%: |   0.0    |   10.8   |   53.8   |   0.0    |   0.0   
- QPFT:  |  -25.8   |   6.8    |   66.8   |  -24.0   |  -16.0  
- PQoQ%: |   22.3   |  -126.6  |  875.0   |  -136.0  |  -33.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 256.8		310.6		258.3		259.5		263.4		254.4
+SQoQ%: 	-30.4		21.0		-16.8		0.5		1.5		96.6
+YOPM%: 	63.9		72.1		66.2		67.5		64.3
+YNPM%: 	0.0		11.3		12.6		14.1		14.7
+YPROFIT: -57.6		35.0		32.6		36.5		38.8		87.0
+PQoQ%: 	-349.4		-160.8		-6.8		12.1		6.2		224.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 34.5		41.5		87.4		131.0		36.0
+QoQ%: 	-71.6		20.2		110.7		49.9		-72.5
+QOPM%: 	32.8		37.6		68.8		76.2		36.1
+QNPM%: 	0.0		0.0		33.1		61.8		0.0
+QPFT: 	-24.0		-16.0		28.9		80.9		-22.8
+PQoQ%: 	-136.0		-33.3		-280.3		180.0		-128.2
+
+
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 97% YSales
+- Last 3QPROFIT is about 224% of YProfit
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-263.40cr, QoQ -2.80% & YoY 2.57% SALES;
-169.40cr, QoQ -5.90% & YoY 3.17% OPERATING PROFIT;
-38.80cr, QoQ 1.10% & YoY -167.36% NET PROFIT;
-OPM %: 64.30% vs 66.4%
-NPM %: 14.70% vs 14.2%
+263.40cr, QoQ 1.50% & YoY 2.57% SALES;
+169.40cr, QoQ -3.30% & YoY 3.17% OPERATING PROFIT;
+38.80cr, QoQ 6.20% & YoY -167.36% NET PROFIT;
+OPM %: 64.30% vs 67.5%
+NPM %: 14.70% vs 14.1%
 

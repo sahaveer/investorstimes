@@ -1,45 +1,43 @@
-CODE	NAME
-522289 
-
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-EXPANSION 2023
-EXPANSION 2024
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	522289	
+FULLNAME : NMS Global Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+BestQ Dec 2025
 YSD YPD 2023
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   16.3   |   10.2   |   2.7    |   6.6    |   24.8   |      9.8     
- SQoQ%:  |   nan    |  -37.2   |  -73.2   |  139.4   |  278.5   |      39.5    
- YOPM%:  |   0.0    |   14.3   |   1.8    |   6.4    |   6.8    |              
- YNPM%:  |   1.2    |   5.3    |   0.7    |   4.3    |   1.3    |              
-YPROFIT: |   0.2    |   0.5    |   0.0    |   0.3    |   0.3    |      0.3     
- PQoQ%:  |   nan    |  184.2   |  -96.3   |  1300.0  |   17.9   |     100.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   8.8    |   6.8    |   3.8    |   2.5    |   3.5   
- QoQ%:  |   94.9   |  -23.6   |  -43.3   |  -35.0   |   41.8  
- QOPM%: |   11.2   |   0.0    |   9.7    |   10.8   |   9.6   
- QNPM%: |   6.6    |   0.0    |   3.1    |   3.2    |   2.5   
- QPFT:  |   0.6    |   -0.8   |   0.1    |   0.1    |   0.1   
- PQoQ%: |   81.2   |  -234.5  |  -115.4  |  -33.3   |   12.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 10.2		2.7		6.6		24.8		18.5		7.3
+SQoQ%: 	-37.2		-73.2		139.4		278.5		-25.5		39.5
+YOPM%: 	14.3		1.8		6.4		6.8		9.3
+YNPM%: 	5.3		0.7		4.3		1.3		2.2
+YPROFIT: 0.5		0.0		0.3		0.3		0.4		0.6
+PQoQ%: 	184.2		-96.3		1300.0		17.9		24.2		150.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 3.5		3.8		2.6		2.9		1.8
+QoQ%: 	41.8		8.2		-32.5		11.2		-38.7
+QOPM%: 	9.6		18.8		0.0		25.1		23.9
+QNPM%: 	2.5		5.5		4.3		12.9		4.5
+QPFT: 	0.1		0.2		0.1		0.4		0.1
+PQoQ%: 	12.5		133.3		-47.6		236.4		-78.4
+
+
 
 ***PROS***
-EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QPROFIT is about 100% of YProfit
+- Last 3QPROFIT is about 150% of YProfit
 - YProfits and YSales DOUBLED in Mar2023
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
-As on Mar2024, Sales have increased by 278.5% while the Profit QoQ_growth is at 17.9%
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-24.80cr, QoQ 278.50% & YoY 52.15% SALES;
-1.70cr, QoQ 302.40% & YoY -525.00% OPERATING PROFIT;
-0.30cr, QoQ 17.90% & YoY 50.00% NET PROFIT;
-OPM %: 6.80% vs 6.4%
-NPM %: 1.30% vs 4.3%
+ 31-Mar-2025 #Result
+18.50cr, QoQ -25.50% & YoY 81.37% SALES;
+1.70cr, QoQ 1.20% & YoY 13.33% OPERATING PROFIT;
+0.40cr, QoQ 24.20% & YoY -20.00% NET PROFIT;
+OPM %: 9.30% vs 6.8%
+NPM %: 2.20% vs 1.3%
 

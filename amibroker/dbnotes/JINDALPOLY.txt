@@ -1,39 +1,43 @@
-CODES
-500227	JINDALPOLY	
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
-BestQ Dec 2024
+CODES	500227	JINDALPOLY	
+FULLNAME : Jindal Poly Films Ltd
+SECTOR : Industrial Products
+INDUSTRY : Packaging
+PRODUCT DEMAND
 
-***CONS***
-- NO PRODUCT DEMAND
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  3529.7  |  4074.8  |  5869.2  |  2481.3  |  543.2   |     497.4    
- SQoQ%:  |   -1.8   |   15.4   |   44.0   |  -57.7   |  -78.1   |      91.6    
- YOPM%:  |   18.5   |   27.1   |   24.4   |   17.6   |   5.1    |              
- YNPM%:  |   13.6   |   19.3   |   20.3   |   70.2   |   57.4   |              
-YPROFIT: |  478.8   |  785.6   |  1194.3  |  1741.2  |  312.0   |     379.3    
- PQoQ%:  |  -235.6  |   64.1   |   52.0   |   45.8   |  -82.1   |     121.6    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  140.4   |  148.4   |  134.3   |  176.4   |  186.7  
- QoQ%:  |   -5.7   |   5.7    |   -9.5   |   31.3   |   5.9   
- QOPM%: |   4.3    |   6.1    |   0.0    |   4.2    |   6.2   
- QNPM%: |   62.3   |   20.8   |  146.6   |  104.8   |   0.0   
- QPFT:  |   87.5   |   30.8   |  197.0   |  184.8   |   -2.5  
- PQoQ%: |   36.6   |  -64.8   |  539.4   |   -6.2   |  -101.4 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 4082.3		5877.6		4696.9		3925.6		5334.9		1695.7
+SQoQ%: 	15.1		44.0		-20.1		-16.4		35.9		31.8
+YOPM%: 	27.1		24.4		7.7		0.0		5.1
+YNPM%: 	19.4		20.4		6.8		1.8		2.1
+YPROFIT: 790.9		1196.2		319.0		71.5		109.8		-72.3
+PQoQ%: 	61.9		51.3		-73.3		-77.6		53.6		-65.8
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1185.9		1419.7		913.6		410.4		371.7
+QoQ%: 	4.5		19.7		-35.6		-55.1		-9.4
+QOPM%: 	6.4		4.0		1.6		2.7		0.0
+QNPM%: 	0.3		0.0		4.0		0.0		0.0
+QPFT: 	4.1		-179.0		36.9		-12.8		-96.4
+PQoQ%: 	-96.5		-4455.5		-120.6		-134.7		653.8
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
-- Last 3QSALES is about 92% YSales
-- Last 3QPROFIT is about 122% of YProfit
+- PRODUCT DEMAND is rising since 3 years
 
+YSALES in Mar-2025 is at 5334.9 showing a QoQ_growth of 35.9%. The YNETPROFIT grew by 53.6% to 109.8
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-543.20cr, QoQ -78.10% & YoY -84.61% SALES;
-27.60cr, QoQ -93.70% & YoY -95.77% OPERATING PROFIT;
-312.00cr, QoQ -82.10% & YoY -34.84% NET PROFIT;
-OPM %: 5.10% vs 17.6%
-NPM %: 57.40% vs 70.2%
+ 31-Mar-2025 #Result
+5334.90cr, QoQ 35.90% & YoY 30.68% SALES;
+271.20cr, QoQ 57612.80% & YoY -75.52% OPERATING PROFIT;
+109.80cr, QoQ 53.60% & YoY -86.12% NET PROFIT;
+OPM %: 5.10% vs 0.0%
+NPM %: 2.10% vs 1.8%
 

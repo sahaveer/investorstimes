@@ -1,44 +1,44 @@
-CODE	NAME
-540267 
-
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	540267	
+FULLNAME : Flora Corporation Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
 PRODUCT DEMAND
 YSD YPD 2024
-LYPD PM 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   30.7   |   34.4   |   36.7   |   37.0   |  144.3   |      98.3    
- SQoQ%:  |  -78.7   |   12.0   |   6.5    |   0.9    |  290.0   |      68.1    
- YOPM%:  |   0.1    |   0.2    |   0.2    |   0.4    |   0.4    |              
- YNPM%:  |   0.0    |   0.1    |   0.1    |   0.2    |   0.3    |              
-YPROFIT: |   0.0    |   0.0    |   0.0    |   0.1    |   0.4    |     -10.8    
- PQoQ%:  |  -100.0  |   inf    |  100.0   |  125.0   |  322.2   |    -2700.0   
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   33.8   |   72.2   |   37.3   |   13.6   |   47.4  
- QoQ%:  |   -0.6   |  113.8   |  -48.4   |  -63.5   |  248.5  
- QOPM%: |   0.1    |   0.0    |   0.6    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.4    |   0.0    |   0.0   
- QPFT:  |   -0.1   |   0.0    |   0.2    |   -1.7   |   -9.3  
- PQoQ%: |  -126.1  |  -108.3  |  1500.0  | -1168.8  |  445.6  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 34.4		36.7		37.0		144.3		142.9		58.3
+SQoQ%: 	12.0		6.5		0.9		290.0		-1.0		40.8
+YOPM%: 	0.2		0.2		0.4		0.4		0.1
+YNPM%: 	0.1		0.1		0.2		0.3		0.1
+YPROFIT: 0.0		0.0		0.1		0.4		0.1		-3.9
+PQoQ%: 	inf		100.0		125.0		333.3		-71.8		-3900.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 47.4		49.6		13.2		16.3		28.8
+QoQ%: 	248.5		4.7		-73.3		23.4		76.4
+QOPM%: 	0.0		22.1		0.0		0.0		0.0
+QNPM%: 	0.0		22.1		0.0		0.0		0.0
+QPFT: 	-9.3		11.0		-0.1		-0.7		-3.1
+PQoQ%: 	445.6		-217.7		-101.1		491.7		333.8
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 68% YSales
 - YProfits and YSales DOUBLED in Mar2024
-- LastYr YProfits Doubled and maintained in Mar2024
 
-YSALES in Mar-2024 is at 144.3 showing a QoQ_growth of 290.0%. The YNETPROFIT grew by 322.2% to 0.4
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-144.30cr, QoQ 290.00% & YoY 370.03% SALES;
-0.50cr, QoQ 307.70% & YoY inf% OPERATING PROFIT;
-0.40cr, QoQ 322.20% & YoY inf% NET PROFIT;
-OPM %: 0.40% vs 0.4%
-NPM %: 0.30% vs 0.2%
+ 31-Mar-2025 #Result
+142.90cr, QoQ -1.00% & YoY 315.41% SALES;
+0.20cr, QoQ -67.30% & YoY 100.00% OPERATING PROFIT;
+0.10cr, QoQ -71.80% & YoY inf% NET PROFIT;
+OPM %: 0.10% vs 0.4%
+NPM %: 0.10% vs 0.3%
 

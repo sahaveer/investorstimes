@@ -1,14 +1,15 @@
-CODE	NAME
-501370 
+CODES	501370	
+FULLNAME : Walchand Peoplefirst Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Consulting Services
 
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
-
-***CONS***
-- NEGATIVE YProfit : -3.5
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -3.5

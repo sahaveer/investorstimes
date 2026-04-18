@@ -1,40 +1,42 @@
-CODE	NAME
-540936 
+CODES	540936	
+FULLNAME : Gautam Gems Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
+BestQ Dec 2025
 
-SECTOR : Diamond, Gems and Jewellery
-INDUSTRY : Diamond Cutting / Jewellery
-PRODUCT DEMAND
-BestQ Dec 2024
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 93.6		180.1		91.5		101.3		78.3		59.6
+SQoQ%: 	-71.5		92.4		-49.2		10.8		-22.7		76.1
+YOPM%: 	0.3		0.6		0.9		0.7		0.9
+YNPM%: 	0.4		0.3		0.4		0.4		0.4
+YPROFIT: 0.3		0.5		0.4		0.4		0.3		0.3
+PQoQ%: 	-40.4		52.9		-32.7		8.6		-26.3		100.0
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  328.2   |   93.6   |  180.1   |   91.5   |  101.3   |      55.6    
- SQoQ%:  |  650.4   |  -71.5   |   92.4   |  -49.2   |   10.8   |      54.9    
- YOPM%:  |   0.1    |   0.3    |   0.6    |   0.9    |   0.7    |              
- YNPM%:  |   0.2    |   0.4    |   0.3    |   0.4    |   0.4    |              
-YPROFIT: |   0.6    |   0.3    |   0.5    |   0.4    |   0.4    |      0.3     
- PQoQ%:  |  216.7   |  -40.4   |   52.9   |  -32.7   |   8.6    |      75.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   22.3   |   28.1   |   25.9   |   16.6   |   13.1  
- QoQ%:  |   -6.3   |   26.0   |   -7.8   |  -36.1   |  -20.8  
- QOPM%: |   1.8    |   0.0    |   0.3    |   0.8    |   1.4   
- QNPM%: |   0.9    |   0.0    |   0.2    |   0.6    |   1.0   
- QPFT:  |   0.2    |   -0.2   |   0.1    |   0.1    |   0.1   
- PQoQ%: |  900.0   |  -190.0  |  -133.3  |   66.7   |   30.0  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 13.1		22.8		23.5		23.1		13.0
+QoQ%: 	-20.8		73.7		3.1		-1.8		-43.8
+QOPM%: 	1.4		1.1		0.6		1.1		1.3
+QNPM%: 	1.0		0.1		0.3		0.6		0.7
+QPFT: 	0.1		0.0		0.1		0.1		0.1
+PQoQ%: 	30.0		-76.9		100.0		133.3		-35.7
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
-- Last 3QSALES is about 55% YSales
-- Last 3QPROFIT is about 75% of YProfit
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 100% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-101.30cr, QoQ 10.80% & YoY -69.13% SALES;
-0.70cr, QoQ -6.30% & YoY 250.00% OPERATING PROFIT;
-0.40cr, QoQ 8.60% & YoY -33.33% NET PROFIT;
-OPM %: 0.70% vs 0.9%
+ 31-Mar-2025 #Result
+78.30cr, QoQ -22.70% & YoY -16.35% SALES;
+0.70cr, QoQ -9.50% & YoY 133.33% OPERATING PROFIT;
+0.30cr, QoQ -26.30% & YoY 0.00% NET PROFIT;
+OPM %: 0.90% vs 0.7%
 NPM %: 0.40% vs 0.4%
 

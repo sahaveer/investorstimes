@@ -1,13 +1,14 @@
-CODE	NAME
-512025 
-
+CODES	512025	
+FULLNAME : Banganga Paper Industries Ltd
 SECTOR : Retail
 INDUSTRY : Trading
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

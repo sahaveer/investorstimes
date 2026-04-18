@@ -1,21 +1,20 @@
-CODES
-MDL	
-SECTOR : Textiles
-INDUSTRY : Textiles - Products
-PRODUCT DEMAND
+CODES	MDL	
+FULLNAME : Marvel Decor Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Furniture, Home Furnishing
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-28.80cr, QoQ 4.40% & YoY 0.70% SALES;
-3.50cr, QoQ 103.40% & YoY -25.53% OPERATING PROFIT;
-1.10cr, QoQ 0.90% & YoY -56.00% NET PROFIT;
-OPM %: 12.30% vs 6.3%
-NPM %: 3.90% vs 4.0%
+ 31-Mar-2025 #Result
+32.60cr, QoQ 13.30% & YoY 53.77% SALES;
+3.10cr, QoQ -12.70% & YoY 10.71% OPERATING PROFIT;
+1.20cr, QoQ 5.40% & YoY 500.00% NET PROFIT;
+OPM %: 9.50% vs 12.3%
+NPM %: 3.60% vs 3.9%
 

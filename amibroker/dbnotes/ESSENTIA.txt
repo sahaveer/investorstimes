@@ -1,12 +1,27 @@
-CODES
-535958	ESSENTIA	
-SECTOR : Trading
-INDUSTRY : Trading
+CODES	535958	ESSENTIA	
+FULLNAME : Integra Essentia Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Trading & Distributors
+BestQ Dec 2025
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+- Last 3QSALES is about 77% YSales
+- Last 3QPROFIT is about 74% of YProfit
+
+***CONS***
+- NO PRODUCT DEMAND
+
+Yearly 
+ 31-Mar-2025 #Result
+441.70cr, QoQ 59.50% SALES;
+5.20cr, QoQ 5.90% OPERATING PROFIT;
+3.80cr, QoQ -75.10% NET PROFIT;
+OPM %: 1.20% vs 1.8%
+NPM %: 0.90% vs 5.6%
+

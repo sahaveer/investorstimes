@@ -1,13 +1,14 @@
-CODE	NAME
-539559 
+CODES	539559	
+FULLNAME : Deep Diamond India Ltd
+SECTOR : Consumer Durables
+INDUSTRY : Gems, Jewellery And Watches
 
-SECTOR : Diamond, Gems and Jewellery
-INDUSTRY : Diamond Cutting / Jewellery
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

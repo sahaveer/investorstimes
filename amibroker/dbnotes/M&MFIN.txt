@@ -1,37 +1,46 @@
-CODES
-532720	M&MFIN	
+CODES	532720	M&MFIN	
+FULLNAME : Mahindra & Mahindra Financial Services Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 12381.9		11419.2		12827.9		15962.7		18518.8		15466.6
+SQoQ%: 	3.2		-7.8		12.3		24.4		16.0		83.5
+YOPM%: 	51.2		53.2		63.4		61.1		63.1
+YNPM%: 	6.2		10.0		16.2		12.1		12.2
+YPROFIT: 773.2		1136.9		2072.4		1932.7		2261.9		1916.6
+PQoQ%: 	-28.1		47.0		82.3		-6.7		17.0		84.7
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4796.8		4885.6		4990.6		5026.2		5449.8
+QoQ%: 	7.4		1.9		2.1		0.7		8.4
+QOPM%: 	72.4		59.0		60.6		59.9		64.9
+QNPM%: 	19.1		9.4		10.6		11.2		15.1
+QPFT: 	917.6		457.2		527.9		564.5		824.2
+PQoQ%: 	135.6		-50.2		15.5		6.9		46.0
+
+
+
+***PROS***
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 85% of YProfit
+
+
+YSALES in Mar-2025 is at 18518.8 showing a QoQ_growth of 16.0%. The YNETPROFIT grew by 17.0% to 2261.9
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 12381.9  | 11419.2  | 12827.9  | 15962.7  | 18463.1 
- SQoQ%:  |   3.2    |   -7.8   |   12.3   |   24.4   |   15.7  
- YOPM%:  |   51.2   |   53.2   |   63.4   |   61.1   |   63.0  
- YNPM%:  |   6.2    |   10.0   |   16.2   |   12.1   |   12.3  
-YPROFIT: |  773.2   |  1136.9  |  2072.4  |  1932.7  |  2261.9 
- PQoQ%:  |  -28.1   |   47.0   |   82.3   |   -6.7   |   17.0  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  4280.3  |  4315.5  |  4465.2  |  4796.8  |  4885.6 
- QoQ%:  |   4.4    |   0.8    |   3.5    |   7.4    |   1.9   
- QOPM%: |   64.5   |   61.2   |   59.0   |   72.4   |   59.0  
- QNPM%: |   15.7   |   11.5   |   8.7    |   19.1   |   9.4   
- QPFT:  |  670.4   |  497.7   |  389.4   |  917.6   |  457.2  
- PQoQ%: |   7.7    |  -25.8   |  -21.7   |  135.6   |  -50.2  
-
-***PROS***
-
-
-YSALES in Mar-2025 is at 18463.1 showing a QoQ_growth of 15.7%. The YNETPROFIT grew by 17.0% to 2261.9
 
 Yearly 
  31-Mar-2025 #Result
-18463.10cr, QoQ 15.70% & YoY 49.11% SALES;
-11631.00cr, QoQ 19.20% & YoY 83.58% OPERATING PROFIT;
+18518.80cr, QoQ 16.00% & YoY 49.56% SALES;
+11686.70cr, QoQ 19.80% & YoY 84.46% OPERATING PROFIT;
 2261.90cr, QoQ 17.00% & YoY 192.54% NET PROFIT;
-OPM %: 63.00% vs 61.1%
-NPM %: 12.30% vs 12.1%
+OPM %: 63.10% vs 61.1%
+NPM %: 12.20% vs 12.1%
 

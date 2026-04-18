@@ -1,13 +1,12 @@
-CODES
-BIKEWO	
+CODES	BIKEWO	
+FULLNAME : Bikewo Green Tech Ltd
 SECTOR : Automobile
 INDUSTRY : Automobiles - Motorcycles / Mopeds
 EXPANSION 2023
 EXPANSION 2024
 PRODUCT DEMAND
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -15,6 +14,8 @@ EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SAL
 - PRODUCT DEMAND is rising since 3 years
 
 YSALES in Mar-2024 is at 24.9 showing a QoQ_growth of 21.1%. The YNETPROFIT grew by 1570.0% to 1.7
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

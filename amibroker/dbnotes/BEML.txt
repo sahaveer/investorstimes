@@ -1,34 +1,41 @@
-CODES
-500048	BEML	
-SECTOR : Aerospace & Defence
-INDUSTRY : Engineering
+CODES	500048	BEML	
+FULLNAME : BEML Ltd
+SECTOR : Agricultural, Commercial & Construction Vehicles
+INDUSTRY : Construction Vehicles
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 3596.8		4337.5		3899.0		4054.3		4022.2		2556.4
+SQoQ%: 	18.9		20.6		-10.1		4.0		-0.8		63.6
+YOPM%: 	4.9		7.5		9.5		11.0		12.6
+YNPM%: 	1.9		3.0		4.1		7.0		7.3
+YPROFIT: 68.9		128.8		157.9		281.8		292.6		-38.5
+PQoQ%: 	7.9		86.9		22.6		78.5		3.8		-13.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 875.8		1652.5		634.0		839.1		1083.3
+QoQ%: 	1.9		88.7		-61.6		32.4		29.1
+QOPM%: 	6.9		25.6		0.0		8.7		0.3
+QNPM%: 	2.8		17.4		0.0		5.7		0.0
+QPFT: 	24.4		287.6		-64.1		48.0		-22.4
+PQoQ%: 	-52.2		1078.0		-122.3		-174.9		-146.6
+
+
+
+***PROS***
+- Last 3QSALES is about 64% YSales
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  3596.8  |  4337.5  |  3899.0  |  4054.3  |  4022.2 
- SQoQ%:  |   18.9   |   20.6   |  -10.1   |   4.0    |   -0.8  
- YOPM%:  |   4.9    |   7.5    |   9.5    |   11.0   |   12.6  
- YNPM%:  |   1.9    |   3.0    |   4.1    |   7.0    |   7.3   
-YPROFIT: |   68.9   |  128.8   |  157.9   |  281.8   |  292.5  
- PQoQ%:  |   7.9    |   86.9   |   22.6   |   78.5   |   3.8   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1513.6  |  634.1   |  859.8   |  875.8   |  1652.5 
- QoQ%:  |   44.6   |  -58.1   |   35.6   |   1.9    |   88.7  
- QOPM%: |   24.5   |   0.0    |   8.5    |   6.9    |   25.6  
- QNPM%: |   17.0   |   0.0    |   5.9    |   2.8    |   17.4  
- QPFT:  |  256.8   |  -70.5   |   51.0   |   24.4   |  287.6  
- PQoQ%: |  432.8   |  -127.4  |  -172.4  |  -52.2   |  1078.0 
-
-***PROS***
 
 Yearly 
  31-Mar-2025 #Result
 4022.20cr, QoQ -0.80% & YoY 11.83% SALES;
-505.70cr, QoQ 13.70% & YoY 184.26% OPERATING PROFIT;
-292.50cr, QoQ 3.80% & YoY 324.53% NET PROFIT;
+505.90cr, QoQ 13.70% & YoY 184.37% OPERATING PROFIT;
+292.60cr, QoQ 3.80% & YoY 324.67% NET PROFIT;
 OPM %: 12.60% vs 11.0%
 NPM %: 7.30% vs 7.0%
 

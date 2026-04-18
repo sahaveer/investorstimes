@@ -1,12 +1,14 @@
-CODES
-544364	BAJAJINDEF	
+CODES	544364	BAJAJINDEF	
+FULLNAME : Indef Manufacturing Ltd
 SECTOR : Capital Goods-Non Electrical Equipment
 INDUSTRY : Engineering
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

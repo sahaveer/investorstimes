@@ -1,38 +1,42 @@
-CODES
-531146	MEDICAMEQ	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Formulations
-PRODUCT DEMAND
-BestQ Dec 2024
+CODES	531146	MEDICAMEQ	
+FULLNAME : Medicamen Biotech Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  125.5   |  112.7   |  115.4   |  140.9   |  179.3   |     132.8    
- SQoQ%:  |   2.4    |  -10.2   |   2.4    |   22.0   |   27.3   |      74.1    
- YOPM%:  |   15.6   |   17.5   |   20.9   |   17.3   |   13.1   |              
- YNPM%:  |   10.6   |   10.8   |   12.9   |   10.5   |   6.1    |              
-YPROFIT: |   13.3   |   12.1   |   14.9   |   14.8   |   10.9   |      6.4     
- PQoQ%:  |   10.5   |   -8.7   |   22.8   |   -0.4   |  -26.3   |      58.7    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   46.5   |   47.3   |   43.0   |   44.7   |   45.1  
- QoQ%:  |   6.8    |   1.8    |   -9.0   |   3.9    |   0.9   
- QOPM%: |   10.5   |   12.2   |   8.0    |   11.9   |   14.9  
- QNPM%: |   5.2    |   4.5    |   3.1    |   3.3    |   7.7   
- QPFT:  |   2.4    |   2.1    |   1.4    |   1.5    |   3.5   
- PQoQ%: |   58.9   |  -11.3   |  -36.6   |   8.1    |  137.7  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 112.7		115.4		140.9		179.3		162.6		137.1
+SQoQ%: 	-10.2		2.4		22.0		27.3		-9.3		84.3
+YOPM%: 	17.5		20.9		17.3		13.1		8.9
+YNPM%: 	10.8		12.9		10.5		6.1		4.4
+YPROFIT: 12.1		14.9		14.8		10.9		7.1		7.1
+PQoQ%: 	-8.7		22.8		-0.4		-26.3		-34.9		100.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 45.1		29.6		43.0		47.2		46.9
+QoQ%: 	0.9		-34.4		45.4		9.6		-0.6
+QOPM%: 	14.9		0.0		10.7		10.9		9.3
+QNPM%: 	7.7		8.1		5.0		5.7		4.7
+QPFT: 	3.5		2.4		2.2		2.7		2.2
+PQoQ%: 	137.7		-30.8		-10.4		24.2		-18.0
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 74% YSales
-- Last 3QPROFIT is about 59% of YProfit
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 100% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-179.30cr, QoQ 27.30% & YoY 42.87% SALES;
-23.50cr, QoQ -3.40% & YoY 20.51% OPERATING PROFIT;
-10.90cr, QoQ -26.30% & YoY -18.05% NET PROFIT;
-OPM %: 13.10% vs 17.3%
-NPM %: 6.10% vs 10.5%
+ 31-Mar-2025 #Result
+162.60cr, QoQ -9.30% & YoY 44.28% SALES;
+14.40cr, QoQ -38.60% & YoY -26.90% OPERATING PROFIT;
+7.10cr, QoQ -34.90% & YoY -41.32% NET PROFIT;
+OPM %: 8.90% vs 13.1%
+NPM %: 4.40% vs 6.1%
 

@@ -1,28 +1,35 @@
-CODES
-524000	POONAWALLA	
+CODES	524000	POONAWALLA	
+FULLNAME : Poonawalla Fincorp Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 YSD YPD 2024
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2318.9		1540.0		2177.0		5418.0		4189.8		4674.7
+SQoQ%: 	-7.7		-33.6		41.4		148.9		-22.7		111.6
+YOPM%: 	15.9		59.5		61.5		83.8		33.7
+YNPM%: 	0.0		24.4		31.4		31.1		0.0
+YPROFIT: -559.0		375.1		684.0		1682.8		-98.3		287.0
+PQoQ%: 	-2166.4		-167.1		82.3		146.0		-105.8		-292.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1057.0		1166.3		1314.0		1542.3		1818.4
+QoQ%: 	6.9		10.3		12.7		17.4		17.9
+QOPM%: 	40.2		47.3		49.6		49.2		53.0
+QNPM%: 	1.8		5.3		4.8		4.8		8.3
+QPFT: 	18.7		62.3		62.6		74.2		150.2
+PQoQ%: 	-104.0		232.8		0.4		18.5		102.5
+
+
+
+***PROS***
+- Last 3QSALES is about 112% YSales
+- YProfits and YSales DOUBLED in Mar2024
+
 
 ***CONS***
 - NEGATIVE YProfit : -98.3
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  2318.9  |  1540.0  |  2177.0  |  5418.0  |  4189.8 
- SQoQ%:  |   -7.7   |  -33.6   |   41.4   |  148.9   |  -22.7  
- YOPM%:  |   15.9   |   59.5   |   61.5   |   83.8   |   33.7  
- YNPM%:  |   0.0    |   24.4   |   31.4   |   31.1   |   0.0   
-YPROFIT: |  -559.0  |  375.1   |  684.0   |  1682.8  |  -98.3  
- PQoQ%:  | -2166.4  |  -167.1  |   82.3   |  146.0   |  -105.8 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  915.0   |  977.6   |  988.9   |  1057.0  |  1166.3 
- QoQ%:  |   20.0   |   6.8    |   1.2    |   6.9    |   10.3  
- QOPM%: |   73.6   |   72.2   |   0.0    |   40.2   |   47.3  
- QNPM%: |   36.3   |   29.8   |   0.0    |   1.8    |   5.3   
- QPFT:  |  331.7   |  291.6   |  -471.0  |   18.7   |   62.3  
- PQoQ%: |   25.1   |  -12.1   |  -261.5  |  -104.0  |  232.8  
-
-***PROS***
-- YProfits and YSales DOUBLED in Mar2024
-

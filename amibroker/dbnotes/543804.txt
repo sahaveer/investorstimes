@@ -1,28 +1,25 @@
-CODE	NAME
-543804 
+CODES	543804	
+FULLNAME : Amanaya Ventures Ltd
+SECTOR : Non - Ferrous Metals
+INDUSTRY : Precious Metals
+YS15 YPD 2025
 
-SECTOR : Trading
-INDUSTRY : Trading
-PRODUCT DEMAND
-YSD YPD 2022
-
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
-A DEBT-Free Company for the last 2 yrs
-- PRODUCT DEMAND is rising since 3 years
+DEBT-Free Company for the last 3 yrs
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- YProfits and YSales DOUBLED in Mar2022
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT DOUBLED MARGINS IMPROVED
+As on Mar2025, Sales have increased by 28.3% while the Profit QoQ_growth is much better than Sales itself at 190.0%
 
-YSALES in Mar-2024 is at 30.8 showing a QoQ_growth of 177.8%. The YNETPROFIT grew by 25.0% to 0.1
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-30.80cr, QoQ 177.80% & YoY 600.00% SALES;
-0.10cr, QoQ 8.30% & YoY -inf% OPERATING PROFIT;
-0.10cr, QoQ 25.00% & YoY inf% NET PROFIT;
-OPM %: 0.40% vs 1.1%
-NPM %: 0.30% vs 0.7%
+ 31-Mar-2025 #Result
+39.50cr, QoQ 28.30% & YoY 537.10% SALES;
+0.40cr, QoQ 215.40% & YoY inf% OPERATING PROFIT;
+0.30cr, QoQ 190.00% & YoY inf% NET PROFIT;
+OPM %: 1.00% vs 0.4%
+NPM %: 0.70% vs 0.3%
 

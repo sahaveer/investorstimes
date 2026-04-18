@@ -1,37 +1,46 @@
-CODES
-524715	SUNPHARMA	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Indian - Bulk Drugs & Formln
+CODES	524715	SUNPHARMA	
+FULLNAME : Sun Pharmaceutical Industries Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  | 33498.1  | 38654.5  | 43885.7  | 48496.8  | 52578.4 
- SQoQ%:  |   2.0    |   15.4   |   13.5   |   10.5   |   8.4   
- YOPM%:  |   25.3   |   26.5   |   26.5   |   26.8   |   29.0  
- YNPM%:  |   8.7    |   8.5    |   19.3   |   19.7   |   20.8  
-YPROFIT: |  2903.8  |  3272.7  |  8473.6  |  9576.4  | 10929.0 
- PQoQ%:  |  -22.9   |   12.7   |  158.9   |   13.0   |   14.1  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: | 11982.9  | 12652.8  | 13291.4  | 13675.5  | 12958.8 
- QoQ%:  |   -3.2   |   5.6    |   5.0    |   2.9    |   -5.2  
- QOPM%: |   25.3   |   28.5   |   29.6   |   29.3   |   28.7  
- QNPM%: |   22.2   |   22.4   |   22.9   |   21.2   |   16.6  
- QPFT:  |  2654.6  |  2835.6  |  3040.2  |  2903.4  |  2149.9 
- PQoQ%: |   5.2    |   6.8    |   7.2    |   -4.5   |  -26.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 33498.1		38654.5		43885.7		48496.8		52578.4		43850.2
+SQoQ%: 	2.0		15.4		13.5		10.5		8.4		83.4
+YOPM%: 	25.3		26.5		26.5		26.8		28.7
+YNPM%: 	8.7		8.5		19.3		19.7		20.8
+YPROFIT: 2903.8		3272.7		8473.6		9576.4		10929.0		8765.4
+PQoQ%: 	-22.9		12.7		158.9		13.0		14.1		80.2
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 13675.5		12958.8		13851.4		14478.3		15520.5
+QoQ%: 	2.9		-5.2		6.9		4.5		7.2
+QOPM%: 	29.3		28.7		31.1		31.3		31.9
+QNPM%: 	21.2		16.6		16.5		21.5		21.7
+QPFT: 	2903.4		2149.9		2278.6		3118.0		3368.8
+PQoQ%: 	-4.5		-26.0		6.0		36.8		8.0
+
+
 
 ***PROS***
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 18.0%
+ROCE in Mar2025 is at 19.7%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining by <15% for the last 3yrs
+- Last 3QSALES is about 83% YSales
+- Last 3QPROFIT is about 80% of YProfit
 - YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 52578.40cr, QoQ 8.40% & YoY 56.96% SALES;
-15271.70cr, QoQ 17.30% & YoY 80.30% OPERATING PROFIT;
+15114.50cr, QoQ 16.10% & YoY 78.45% OPERATING PROFIT;
 10929.00cr, QoQ 14.10% & YoY 276.37% NET PROFIT;
-OPM %: 29.00% vs 26.8%
+OPM %: 28.70% vs 26.8%
 NPM %: 20.80% vs 19.7%
 

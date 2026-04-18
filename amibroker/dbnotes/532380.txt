@@ -1,17 +1,18 @@
-CODE	NAME
-532380 
-
+CODES	532380	
+FULLNAME : Baba Arts Ltd
 SECTOR : Entertainment
-INDUSTRY : Entertainment / Electronic Media Software
+INDUSTRY : Film Production, Distribution & Exhibition
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2011 #Result

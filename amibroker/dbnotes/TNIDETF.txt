@@ -1,4 +1,3 @@
-CODES
-TNIDETF	
-SECTOR : 
-INDUSTRY : 
+CODES	TNIDETF	
+FULLNAME : Tata Nifty India Digital ETF
+

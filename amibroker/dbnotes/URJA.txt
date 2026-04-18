@@ -1,37 +1,47 @@
-CODES
-526987	URJA	
-SECTOR : Automobile
-INDUSTRY : Automobiles - Motorcycles / Mopeds
+CODES	526987	URJA	
+FULLNAME : Urja Global Ltd
+SECTOR : Electrical Equipment
+INDUSTRY : Other Electrical Equipment
 EXPANSION 2024
+EXPANSION 2025
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  148.5   |   73.0   |   39.6   |   44.5   |   67.2  
- SQoQ%:  |   -9.2   |  -50.8   |  -45.8   |   12.4   |   51.2  
- YOPM%:  |   0.0    |   0.7    |   4.3    |   5.7    |   2.7   
- YNPM%:  |   1.2    |   1.1    |   3.9    |   4.6    |   1.9   
-YPROFIT: |   1.7    |   0.8    |   1.5    |   2.0    |   1.3   
- PQoQ%:  |   54.5   |  -55.5   |   98.7   |   33.3   |  -37.7  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   13.0   |   10.4   |   19.5   |   20.2   |   17.2  
- QoQ%:  |   18.8   |  -20.3   |   87.8   |   3.6    |  -15.0  
- QOPM%: |   1.6    |   3.9    |   1.8    |   1.6    |   4.2   
- QNPM%: |   3.5    |   3.4    |   1.6    |   2.4    |   0.7   
- QPFT:  |   0.5    |   0.4    |   0.3    |   0.5    |   0.1   
- PQoQ%: |  -48.9   |  -23.9   |   -8.6   |   53.1   |  -75.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 148.5		73.0		39.6		44.5		67.2		49.1
+SQoQ%: 	-9.2		-50.8		-45.8		12.4		51.2		73.1
+YOPM%: 	0.0		0.7		4.3		5.7		3.0
+YNPM%: 	1.2		1.1		3.9		4.6		1.9
+YPROFIT: 1.7		0.8		1.5		2.0		1.3		1.1
+PQoQ%: 	54.5		-55.5		98.7		33.3		-37.7		84.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 20.2		17.2		19.0		15.5		14.6
+QoQ%: 	3.6		-15.0		10.7		-18.5		-5.7
+QOPM%: 	1.6		4.2		3.3		4.3		2.5
+QNPM%: 	2.4		0.7		2.6		2.7		1.7
+QPFT: 	0.5		0.1		0.5		0.4		0.2
+PQoQ%: 	53.1		-75.5		316.7		-16.0		-40.5
+
+
 
 ***PROS***
-EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 73% YSales
+- Last 3QPROFIT is about 85% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
 67.20cr, QoQ 51.20% & YoY -54.75% SALES;
-1.80cr, QoQ -29.80% & YoY -1000.00% OPERATING PROFIT;
+2.00cr, QoQ -20.00% & YoY -1100.00% OPERATING PROFIT;
 1.30cr, QoQ -37.70% & YoY -23.53% NET PROFIT;
-OPM %: 2.70% vs 5.7%
+OPM %: 3.00% vs 5.7%
 NPM %: 1.90% vs 4.6%
 

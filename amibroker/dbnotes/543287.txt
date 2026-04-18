@@ -1,34 +1,43 @@
-CODES
-543287	LODHA	
+CODES	543287	LODHA	
+FULLNAME : Lodha Developers Ltd
 SECTOR : Realty
-INDUSTRY : Construction
+INDUSTRY : Residential, Commercial Projects
 PRODUCT DEMAND
+BestQ Dec 2025
 LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  5448.6  |  9233.2  |  9470.4  | 10316.1  | 13779.5 
- SQoQ%:  |  -56.2   |   69.5   |   2.6    |   8.9    |   33.6  
- YOPM%:  |   25.4   |   23.7   |   21.8   |   25.8   |   28.9  
- YNPM%:  |   0.7    |   13.0   |   5.1    |   15.0   |   20.1  
-YPROFIT: |   40.2   |  1202.4  |  486.7   |  1549.1  |  2764.3 
- PQoQ%:  |  -94.5   |  2894.0  |  -59.5   |  218.3   |   78.4  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  4018.5  |  2846.5  |  2625.7  |  4083.0  |  4224.3 
- QoQ%:  |   37.1   |  -29.2   |   -7.8   |   55.5   |   3.5   
- QOPM%: |   26.0   |   26.6   |   26.8   |   32.0   |   28.9  
- QNPM%: |   16.6   |   16.7   |   16.1   |   23.1   |   21.8  
- QPFT:  |  665.5   |  475.3   |  422.9   |  944.4   |  921.7  
- PQoQ%: |   32.2   |  -28.6   |  -11.0   |  123.3   |   -2.4  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 5448.6		9233.2		9470.4		10316.1		13779.5		11962.7
+SQoQ%: 	-56.2		69.5		2.6		8.9		33.6		86.8
+YOPM%: 	25.4		23.7		21.8		25.8		28.9
+YNPM%: 	0.7		13.0		5.1		15.0		20.1
+YPROFIT: 40.2		1202.4		486.7		1549.1		2764.3		2420.3
+PQoQ%: 	-94.5		2894.0		-59.5		218.3		78.4		87.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 4083.0		4224.3		3491.7		3798.5		4672.5
+QoQ%: 	55.5		3.5		-17.3		8.8		23.0
+QOPM%: 	32.0		28.9		28.2		29.2		30.3
+QNPM%: 	23.1		21.8		19.3		20.8		20.5
+QPFT: 	944.4		921.7		674.7		788.7		956.9
+PQoQ%: 	123.3		-2.4		-26.8		16.9		21.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 87% YSales
+- Last 3QPROFIT is about 88% of YProfit
 - LastYr YProfits Doubled and maintained in Mar2025
 
 YSALES in Mar-2025 is at 13779.5 showing a QoQ_growth of 33.6%. The YNETPROFIT grew by 78.4% to 2764.3
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

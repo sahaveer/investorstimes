@@ -1,12 +1,14 @@
-CODES
-500674	SANOFI	
-SECTOR : Pharmaceuticals
-INDUSTRY : Pharmaceuticals - Multinational
+CODES	500674	SANOFI	
+FULLNAME : Sanofi India Ltd
+SECTOR : Pharmaceuticals & Biotechnology
+INDUSTRY : Pharmaceuticals
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

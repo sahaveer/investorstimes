@@ -1,31 +1,36 @@
-CODE	NAME
-530469 
-
+CODES	530469	
+FULLNAME : GSL Securities Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 YSD YPD 2024
-LYPD PM 2024
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   0.3    |   0.3    |   0.2    |   0.2    |   0.8    |      0.0     
- SQoQ%:  |  -91.9   |  -12.5   |  -17.9   |   0.0    |  265.2   |      0.0     
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   65.5   |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   56.0   |              
-YPROFIT: |   -0.0   |   -0.0   |   -0.1   |   -0.1   |   0.5    |      -0.1    
- PQoQ%:  |  -100.8  |  -33.3   |  500.0   |   -8.3   |  -527.3  |     -20.0    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   0.1    |   0.6    |   0.0    |   0.0    |   0.0   
- QoQ%:  |   0.0    |  662.5   |  -96.7   |  -100.0  |   nan   
- QOPM%: |   25.0   |   88.5   |   0.0    |   0.0    |   0.0   
- QNPM%: |   25.0   |   73.8   |   0.0    |   0.0    |   0.0   
- QPFT:  |   0.0    |   0.4    |   -0.1   |   -0.0   |   -0.0  
- PQoQ%: |  -33.3   |  2150.0  |  -117.8  |  -37.5   |  -40.0  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 0.3		0.2		0.2		0.8		0.0		0.0
+SQoQ%: 	-12.5		-17.9		0.0		265.2		-97.6		nan
+YOPM%: 	0.0		0.0		0.0		65.5		0.0
+YNPM%: 	0.0		0.0		0.0		56.0		0.0
+YPROFIT: -0.0		-0.1		-0.1		0.5		-0.2		-0.5
+PQoQ%: 	-33.3		500.0		-8.3		-527.3		-134.0		250.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.0		0.0		0.0
+QoQ%: 	nan		nan		inf		400.0		-100.0
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		0.0		0.0		0.0		0.0
+QPFT: 	-0.0		-0.0		-0.1		-0.1		-0.3
+PQoQ%: 	-40.0		-66.7		600.0		-14.3		350.0
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-- YProfit Turned POSITIVE this year Mar-2024 : 0.5
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
 - YProfits and YSales DOUBLED in Mar2024
-- LastYr YProfits Doubled and maintained in Mar2024
+
+
+***CONS***
+- NEGATIVE YProfit : -0.2

@@ -1,13 +1,10 @@
-CODE	NAME
-543619 
-
-SECTOR : Capital Goods - Electrical Equipment
-INDUSTRY : Electric Equipment
+CODES	543619	
+FULLNAME : Concord Control Systems Ltd
+SECTOR : Industrial Manufacturing
+INDUSTRY : Industrial Products
 LYPD PM 2025
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
@@ -15,6 +12,9 @@ A DEBT-Free Company
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.3
 - LastYr YProfits Doubled and maintained in Mar2025
 - YMargins improvised by more than 15% since Mar2024 and PROFITS been maintaining ever since.
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

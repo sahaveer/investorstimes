@@ -1,18 +1,20 @@
-CODES
-RULKA	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Engineering - Turnkey Services
+CODES	RULKA	
+FULLNAME : Rulka Electricals Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 
+***CONS***
+- NO PRODUCT DEMAND
+
 Yearly 
  31-Mar-2025 #Result
 79.50cr, QoQ 12.00% & YoY 305.61% SALES;
-4.30cr, QoQ -51.60% & YoY 290.91% OPERATING PROFIT;
+4.30cr, QoQ -51.50% & YoY 290.91% OPERATING PROFIT;
 2.30cr, QoQ -63.00% & YoY 360.00% NET PROFIT;
 OPM %: 5.40% vs 12.5%
 NPM %: 2.80% vs 8.6%

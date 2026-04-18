@@ -15,9 +15,10 @@ import processdriver
 import pandas as pd
 import create_database
 import variables 
+import config
 
-usermail = "sahaveer@gmail.com"
-pswrd = "Qwerty@123"
+# Credentials fetched from Config/Secrets
+usermail, pswrd = config.Config.get_screener_credentials()
 
 download_excel_xpath = "/html/body/main/div[3]/div[1]/form/button"
 login_button_xpath = "/html/body/main/div[2]/div[2]/form/button"
@@ -39,19 +40,21 @@ industry_xpath = "/html/body/main/section[3]/div[1]/div[1]/p[1]/a[4]"
 global driver
 
 with st.sidebar:
-    # PATHS OF THIS COMPUTER
-    #st.info("pls mention here your computer paths")
-    path_bhav = 'C:/Users/sahaveer/OneDrive/Documents/bhavcopy/'                #st.text_input("path_bhav",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/')     #'./bhavcopy/')
-    path_csv = 'C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/'        #st.text_input("path_csv",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy/2022 csv/')        #'./bhavcopy/csv')
-    #path_download = st.text_input("path_download",value='C:/Users/sahaveer/OneDrive/Documents/bhavcopy')
-    path_download = "C:/Users/sahaveer/Downloads/"                              #st.text_input("path_download",value="C:/Users/sahaveer/Downloads/")
-    path_to_save = path_download+"Results/"
+    # Use path from session state (set in Admin Portal) or default
+    path_download = st.session_state.get('path_download', 'C:/Users/Sahaveer/Downloads/')
+    path_bhav = './bhavcopy/'
+    path_csv = './bhavcopy/csv/'
+    path_to_save = os.path.join(path_download, "Results/")
     type_file = "*.xlsx"
 
 def recently_downloaded_file(path_download, type_file):
     sendfile = ''
-    #grabs the last created file in a specified folder
-    pick_xlsx = glob.glob(path_download+type_file)
+    # grabs the last created file in a specified folder
+    pick_xlsx = glob.glob(os.path.join(path_download, type_file))
+    
+    if not pick_xlsx:
+        return None
+        
     last_created_file = max(pick_xlsx, key=os.path.getctime)
     send_file = last_created_file.replace("\\","/")
     return send_file
@@ -122,24 +125,31 @@ def validate_dates_reverse(df):
 def scrape(driver):
     comp_dict = {}
     comp_dict['code_names'] = {}
-    #get BSE code
+    # get BSE code and link
     if driver.find_elements(by=By.XPATH, value=BSE_Code_xpath):
         bse_elements = driver.find_elements(by=By.XPATH, value=BSE_Code_xpath)
-        # Extract the actual text from each WebElement
+        bse_link_elements = driver.find_elements(by=By.XPATH, value=BSE_Code_xpath + "/..")
+        
         bse_list = [element.text for element in bse_elements]
         split_bse_list =  bse_list[0].split(': ')
         comp_dict['code_names']['BSE'] = split_bse_list[-1]
-        # st.success(f"{comp_dict['comp_codes']['BSE']}")                
+        
+        if bse_link_elements:
+            comp_dict['bse_link'] = bse_link_elements[0].get_attribute("href")
 
-    #get NSE code    
+    # get NSE code and link
     if driver.find_elements(by=By.XPATH, value=NSE_Code_xpath):
         nse_elements = driver.find_elements(by=By.XPATH, value=NSE_Code_xpath)
-        # Extract the actual text from each WebElement
+        nse_link_elements = driver.find_elements(by=By.XPATH, value=NSE_Code_xpath + "/..")
+        
         nse_list = [element.text for element in nse_elements]
         # Print or use the extracted texts
         split_nse_list = nse_list[0].split(': ')
         # comp_dict['codes_dict'][split_nse_list[0]] = split_nse_list[1]
         comp_dict['code_names']['NSE'] = split_nse_list[-1]
+        
+        if nse_link_elements:
+            comp_dict['nse_link'] = nse_link_elements[0].get_attribute("href")
     
 
     # get value of comp_fullname_xpath 
@@ -180,6 +190,9 @@ def scrape(driver):
 # lets get all industries and sectors from screener site for stocks already available in database
 def scrape_all_listed(available_in_db:list)->None:
     driver = processdriver.getedgedriver()
+    if driver is None:
+        st.error("Scraping is not available in this environment.")
+        return
     # LOGIN SCREENER SITE
     if driver.find_elements(by=By.XPATH, value='/html/body/nav/div[1]/div/div[1]/div/div[3]/div[1]'):
         pass
@@ -375,9 +388,18 @@ def search_screener1(driver,code:str):
             comp_dict = scrape(driver)
             comp_dict['standalone_available'] = True
             driver.find_element(by=By.XPATH, value=download_excel_xpath).click()
-            time.sleep(random.uniform(1, 5))
-            #read the latest downloaded file
-            latest_file = recently_downloaded_file(path_download, type_file)
+            
+            # Wait for file to appear (polling for 10 seconds)
+            latest_file = None
+            for _ in range(10):
+                time.sleep(1)
+                latest_file = recently_downloaded_file(path_download, type_file)
+                if latest_file:
+                    break
+            
+            if not latest_file:
+                st.error(f"Could not find the downloaded file in {path_download}. Please check your sidebar path.")
+                return
 
             book = openpyxl.load_workbook(latest_file)
             qtr_pnl2, df_comp = fundamentals.get_tables(book[fundamentals.tabs[-1]],
@@ -511,10 +533,19 @@ def search_screener1(driver,code:str):
 
             # excel button, click it                
             driver.find_element(by=By.XPATH, value=download_excel_xpath).click()
-            time.sleep(random.uniform(1, 5))
+            
+            # Wait for file to appear (polling for 10 seconds)
+            latest_file = None
+            for _ in range(10):
+                time.sleep(1)
+                latest_file = recently_downloaded_file(path_download, type_file)
+                if latest_file:
+                    break
+            
+            if not latest_file:
+                st.error(f"Could not find the downloaded file in {path_download}. Please check your sidebar path.")
+                return
 
-            #read the recently downloaded excel file
-            latest_file = recently_downloaded_file(path_download, type_file)
             book = openpyxl.load_workbook(latest_file)
 
             #get dataframes from the opened excel sheet
@@ -636,6 +667,9 @@ def search_screener1(driver,code:str):
 def main():
     last_date_of_quarter="2024-12-31"
     driver = processdriver.getedgedriver()
+    if driver is None:
+        st.error("Scraping is not available in this environment.")
+        return
     # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
     codes = []
     #gets codes from updated alllisted.txt

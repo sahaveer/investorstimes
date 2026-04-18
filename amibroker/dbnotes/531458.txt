@@ -1,14 +1,15 @@
-CODE	NAME
-531458 
-
+CODES	531458	
+FULLNAME : Boston Bio Systems Ltd
 SECTOR : Finance
 INDUSTRY : Finance & Investments
 
-***CONS***
-- NEGATIVE YProfit : -0.1
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -0.1

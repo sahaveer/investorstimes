@@ -5,31 +5,15 @@ import pymongo
 from pymongo import MongoClient
 # from pymongoarrow.api import write
 import datetime
+import os
 
-
-# CONNECTION STRING : mongodb+srv://EODBhavcopy:bhavcopy@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority
-# client = pymongo.MongoClient("mongodb+srv://EODBhavcopy:<password>@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority")
-# db = client.test
-global my_dict
-global db
-global db2
-global NSE_col
-global BSE_col
-global INDEX_col
-global userid_col
-global topics_col
-global OI_col
-global eod_df_col
-global company_metadata_col
-global comp_metadata_col
-global new_metadata_col
+import config
 from datetime import date
 import pprint
 import variables
 
-my_dict = {}
 # CREATING AND CONNECTING TO DATABASE
-Connection_String = "mongodb+srv://EODBhavcopy:bhavcopy@eodbhavcopy.4tbvocy.mongodb.net/?retryWrites=true&w=majority"
+Connection_String = config.get_mongodb_uri()
 client = MongoClient(Connection_String)
 db = client.get_database('Bhavcopy')
 db2 = client.get_database('STOCKSINFO')
@@ -57,6 +41,52 @@ watchlist_col = db["Watchlist"]
 company_metadata_col = db2["CompanyMetadata"]
 comp_metadata_col = db2["CompMetadata"]
 industry_col =  db2["Industry"]
+stocks_list_col = db2["StocksList"]
+reference_data_col = db2["ReferenceData"]
+
+def save_reference_data(key, df):
+    """Save a DataFrame as reference data in MongoDB."""
+    try:
+        data_dict = df.to_dict(orient='records')
+        reference_data_col.update_one(
+            {"_id": key},
+            {"$set": {"data": data_dict, "timestamp": datetime.datetime.now()}},
+            upsert=True
+        )
+        return True
+    except Exception as e:
+        print(f"Error saving reference data: {e}")
+        return False
+
+def get_reference_data(key):
+    """Fetch reference data from MongoDB as a DataFrame."""
+    try:
+        doc = reference_data_col.find_one({"_id": key})
+        if doc:
+            return pd.DataFrame(doc["data"])
+    except Exception as e:
+        print(f"Error fetching reference data: {e}")
+    return pd.DataFrame()
+stocks_list_col = db2["StocksList"]
+
+def get_all_listed_stocks():
+    """Fetch all listed stocks from MongoDB."""
+    try:
+        doc = stocks_list_col.find_one({"_id": "all_listed"})
+        if doc:
+            return doc.get("stocks", [])
+    except Exception as e:
+        print(f"Error fetching stocks from DB: {e}")
+    return []
+
+def seed_stocks_from_file(file_path):
+    """Seed the StocksList collection from a local text file."""
+    if not os.path.exists(file_path):
+        return
+    with open(file_path, 'r') as f:
+        stocks = [line.strip() for line in f.readlines()]
+    stocks_list_col.update_one({"_id": "all_listed"}, {"$set": {"stocks": stocks}}, upsert=True)
+    return stocks
 #EODBhavcopy : Bhavcopy : INDEXbhav
 #EODBhavcopy : Bhavcopy : NSEbhav
 
@@ -130,59 +160,57 @@ def get_metadata(recent_quarter_txt,last_quarter_text):
     latest_quarterly_stocks = []
     available_stocks = []
     not_latest_quarterly = []
-    last_quarter_announced = ""
+    last_announced_quarter1 = ""
 
-    print("Trying to get data from PYMONGODB in create_databse.get_metadata")
+    print("Fetching Stock Metadata from MongoDB (Optimized)...")
     send_metadata = {}
-    #for metadata, we need to use company_metadata_col for now
-    for document in comp_metadata_col.find():
-        key = document['_id']
+    
+    # Fetch metadata and quarterly keys (latest only)
+    projection = {
+        "_id": 1, 
+        "code_names": 1, 
+        "comp_metadata": 1, 
+        "metadata": 1,
+        "CONSOLIDATED.QUARTERLY": {"$slice": -1},
+        "STANDALONE.QUARTERLY": {"$slice": -1}
+    }
+
+    for document in comp_metadata_col.find({}, projection):
+        if document is None:
+            continue
+        
+        key = document.get('_id', 'unknown')
         send_metadata[key] = document
-        # print(f"MEtadata will be saved as KEY of {key}")
-        if document is not None:
-            available_stocks.append(key)
-            if "CONSOLIDATED" in document.keys():
-                listed_dict_keys = list(document['CONSOLIDATED']['QUARTERLY'])
-                if len(listed_dict_keys) > 0:
-                    last_quarter_announced = listed_dict_keys[-1]
-            elif "STANDALONE" in document.keys():
-                listed_dict_keys = list(document['STANDALONE']['QUARTERLY'])
-                if len(listed_dict_keys)>0:
-                    last_quarter_announced = listed_dict_keys[-1]
-            # announced_quarter = document["metadata"]['recent_quarter']
-            # print(last_quarter_announced)
-            if last_quarter_announced !="":
-                last_announced_quarter1 = last_quarter_announced
-            if (last_quarter_announced == recent_quarter_txt or last_quarter_announced==last_quarter_text):
+        available_stocks.append(key)
+        
+        # 1. Try to get last quarter from metadata object
+        meta_obj = document.get('metadata', {})
+        last_q = meta_obj.get('recent_quarter', "")
+        
+        # Convert datetime objects to string if needed
+        if isinstance(last_q, (datetime.datetime, pd.Timestamp)):
+            last_q = last_q.strftime('%Y-%m-%d')
+        
+        # 2. Fallback: Peek at the QUARTERLY keys if metadata is missing/empty
+        if not last_q:
+            if "CONSOLIDATED" in document and document["CONSOLIDATED"].get("QUARTERLY"):
+                keys = list(document["CONSOLIDATED"]["QUARTERLY"].keys())
+                if keys: last_q = keys[-1]
+            elif "STANDALONE" in document and document["STANDALONE"].get("QUARTERLY"):
+                keys = list(document["STANDALONE"]["QUARTERLY"].keys())
+                if keys: last_q = keys[-1]
+        
+        # Final comparison
+        if last_q:
+            last_announced_quarter1 = last_q
+            if str(last_q) == recent_quarter_txt or str(last_q) == last_quarter_text:
                 latest_quarterly_stocks.append(key)
             else:
                 not_latest_quarterly.append(key)
+        else:
+            not_latest_quarterly.append(key)
 
-            # print(f"a total of {len(available_stocks)} out of which {len(latest_quarterly_stocks)} have latest quarterly results.\nAvailable stocks are \n{available_stocks} ")
-            # print(f" Last announced quarter is {last_announced_quarter1}")
-            
-
-        # if 'metadata' in document.keys():
-        #     send_metadata[key] = document["metadata"]
-        #     print(f"MEtadata available is {document["metadata"]}")
-            # if 'recent_quarter' in document["metadata"].keys():
-            #     announced_quarter = document["metadata"]['recent_quarter']
-            #     print(f"Announced quarter is {announced_quarter} and type is {type(announced_quarter)} and the differnece is {datetime.datetime.now() - announced_quarter}")
-            #     if (datetime.datetime.now() - announced_quarter) < timedelta_Q_days1:
-            #         latest_quarterly_stocks.append(key)
-            #         last_announced_quarter1 = datetime.datetime.strftime(announced_quarter,'%b%Y')
-            #     else:
-            #         not_latest_quarterly.append(key)
-            # available_stocks.append(key)
-            # print(f"Available stocks are \n{available_stocks}")
-            # print(f" Last announced quarter is {last_announced_quarter1}")
-        # except Exception as e:
-        #     print(f"Got error while trying {key} as \n{e}")
-        #     send_metadata[key]={}
-        # print(available_stocks)
-        print(f"{document['_id']} FINISHED")     
-    # st.success(send_metadata)
-    return send_metadata, latest_quarterly_stocks,last_announced_quarter1, available_stocks,not_latest_quarterly
+    return send_metadata, latest_quarterly_stocks, last_announced_quarter1, available_stocks, not_latest_quarterly
 
 def insert_stock_metadata(col,dict,id):
     try:
@@ -231,8 +259,6 @@ def insert_dict(col, id_value, save_within_document, dict,task):
         
     except pymongo.errors.ServerSelectionTimeoutError:
         print("Hey buddy, we Couldnt update to the Database. \nOpen NETWORK ACCESS in MongoDB and add your IP address")
-
-
 
 def insert_list(id_value,list_data):
     try:

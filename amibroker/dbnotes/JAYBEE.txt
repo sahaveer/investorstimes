@@ -1,11 +1,10 @@
-CODES
-JAYBEE	
+CODES	JAYBEE	
+FULLNAME : Jay Bee Laminations Ltd
 SECTOR : Steel
 INDUSTRY : Steel - Medium / Small
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
@@ -14,6 +13,8 @@ ROCE in Mar2025 is at 19.3%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 21.4% while the Profit QoQ_growth is much better than Sales itself at 31.2%
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result

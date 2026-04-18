@@ -1,19 +1,20 @@
-CODE	NAME
-543284 
-
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	543284	
+FULLNAME : EKI Energy Services Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Consulting Services
 EXPANSION 2024
 PRODUCT DEMAND
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 A DEBT-Free Company for the last 2 yrs
 EXPANSION ??- There was an Expansion in the Mar-2024, so got to check SALES too
 - PRODUCT DEMAND is rising since 3 years
-- YProfit Turned POSITIVE this year Mar-2025 : 1.4
+
+***CONS***
+- NEGATIVE YProfit : -0.8

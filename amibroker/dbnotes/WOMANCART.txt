@@ -1,5 +1,5 @@
-CODES
-WOMANCART	
+CODES	WOMANCART	
+FULLNAME : Womancart Ltd
 SECTOR : E-Commerce/App based Aggregator
 INDUSTRY : Trading
 YSD YPD 2025
@@ -7,9 +7,7 @@ YSD YPD 2024
 LYPD PM 2025
 PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
@@ -18,6 +16,9 @@ PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 - LastYr YProfits Doubled and maintained in Mar2025
 - QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
 As on Mar2025, Sales have increased by 116.1% while the Profit QoQ_growth is much better than Sales itself at 212.4%
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2025 #Result

@@ -1,36 +1,45 @@
-CODES
-516072	VISHNU	
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+CODES	516072	VISHNU	
+FULLNAME : Vishnu Chemicals Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
+BestQ Dec 2025
+
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 678.7		1069.0		1391.0		1212.6		1446.6		1159.4
+SQoQ%: 	0.8		57.5		30.1		-12.8		19.3		80.1
+YOPM%: 	11.6		14.7		16.6		16.7		15.9
+YNPM%: 	5.1		7.6		9.8		8.3		8.8
+YPROFIT: 34.5		81.4		136.6		101.1		126.6		98.9
+PQoQ%: 	55.2		136.0		67.8		-26.0		25.3		78.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 371.2		392.6		346.9		401.2		411.3
+QoQ%: 	8.0		5.8		-11.6		15.6		2.5
+QOPM%: 	17.1		16.3		16.1		14.5		15.0
+QNPM%: 	9.3		9.9		9.3		8.2		8.2
+QPFT: 	34.4		38.9		32.2		32.9		33.8
+PQoQ%: 	50.6		13.2		-17.3		2.0		2.7
+
+
+
+***PROS***
+- Last 3QSALES is about 80% YSales
+- Last 3QPROFIT is about 78% of YProfit
+
+YSALES in Mar-2025 is at 1446.6 showing a QoQ_growth of 19.3%. The YNETPROFIT grew by 25.3% to 126.6
 
 ***CONS***
 - NO PRODUCT DEMAND
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  678.7   |  1069.0  |  1391.0  |  1212.6  |  1446.6 
- SQoQ%:  |   0.8    |   57.5   |   30.1   |  -12.8   |   19.3  
- YOPM%:  |   11.6   |   14.7   |   16.6   |   16.7   |   15.8  
- YNPM%:  |   5.1    |   7.6    |   9.8    |   8.3    |   8.8   
-YPROFIT: |   34.5   |   81.4   |  136.6   |  101.1   |  126.6  
- PQoQ%:  |   55.2   |  136.0   |   67.8   |  -26.0   |   25.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  300.4   |  338.9   |  343.8   |  371.2   |  392.6  
- QoQ%:  |   -1.1   |   12.8   |   1.5    |   8.0    |   5.8   
- QOPM%: |   21.2   |   16.4   |   13.1   |   17.1   |   16.3  
- QNPM%: |   9.2    |   9.0    |   6.6    |   9.3    |   9.9   
- QPFT:  |   27.7   |   30.5   |   22.8   |   34.4   |   38.9  
- PQoQ%: |   33.6   |   9.9    |  -25.0   |   50.6   |   13.2  
-
-***PROS***
-
-YSALES in Mar-2025 is at 1446.6 showing a QoQ_growth of 19.3%. The YNETPROFIT grew by 25.3% to 126.6
 
 Yearly 
  31-Mar-2025 #Result
 1446.60cr, QoQ 19.30% & YoY 113.14% SALES;
-228.40cr, QoQ 12.90% & YoY 189.85% OPERATING PROFIT;
+229.50cr, QoQ 13.40% & YoY 191.24% OPERATING PROFIT;
 126.60cr, QoQ 25.30% & YoY 266.96% NET PROFIT;
-OPM %: 15.80% vs 16.7%
+OPM %: 15.90% vs 16.7%
 NPM %: 8.80% vs 8.3%
 

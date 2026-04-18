@@ -1,19 +1,19 @@
-CODE	NAME
-544083 
-
+CODES	544083	
+FULLNAME : Shree Marutinandan Tubes Ltd
 SECTOR : Trading
 INDUSTRY : Trading
 LYPD PM 2024
 
-***CONS***
-- NO PRODUCT DEMAND
-
+***YEARLY***
 
 
 ***PROS***
 - LastYr YProfits Doubled and maintained in Mar2024
 
 YSALES in Mar-2024 is at 91.7 showing a QoQ_growth of 94.6%. The YNETPROFIT grew by 42.2% to 2.6
+
+***CONS***
+- NO PRODUCT DEMAND
 
 Yearly 
  31-Mar-2024 #Result

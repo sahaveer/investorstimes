@@ -1,30 +1,36 @@
-CODES
-543265	RAILTEL	
-SECTOR : Telecomm-Service
-INDUSTRY : Telecommunications - Service Provider
+CODES	543265	RAILTEL	
+FULLNAME : Railtel Corporation of India Ltd
+SECTOR : Telecom - Services
+INDUSTRY : Other Telecom Services
 BestQ Sep 2023
 
-***CONS***
- YPNL:   | Mar-2019 | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | QSUM:Sep-2023
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  1003.3  |  1128.0  |  1377.8  |  1548.4  |  1963.5  |     1066.8   
- SQoQ%:  |   1.7    |   12.4   |   22.1   |   12.4   |   26.8   |      54.3    
- YOPM%:  |   30.1   |   29.6   |   23.8   |   23.8   |   19.3   |              
- YNPM%:  |   13.5   |   12.5   |   10.3   |   13.5   |   9.6    |              
-YPROFIT: |  135.4   |  141.1   |  142.4   |  208.9   |  189.1   |     106.6    
- PQoQ%:  |  -14.2   |   4.2    |   1.0    |   46.7   |   -9.5   |      56.4    
- QPNL:  | Sep-2022 | Dec-2022 | Mar-2023 | Jun-2023 | Sep-2023
---------+----------+----------+----------+----------+---------
-QSALES: |  428.7   |  454.3   |  703.6   |  467.6   |  599.2  
- QoQ%:  |   13.8   |   6.0    |   54.9   |  -33.5   |   28.1  
- QOPM%: |   23.4   |   16.4   |   14.0   |   15.9   |   19.2  
- QNPM%: |   12.9   |   7.0    |   10.8   |   8.2    |   11.4  
- QPFT:  |   55.2   |   32.0   |   76.0   |   38.4   |   68.2  
- PQoQ%: |  113.7   |  -42.2   |  138.0   |  -49.5   |   77.5  
+***YEARLY***
+YPNL: 	Mar-2019	Mar-2020	Mar-2021	Mar-2022	Mar-2023	QSUM:Sep-2023
+YSALES: 1003.3		1128.0		1377.8		1548.4		1963.5		1066.8
+SQoQ%: 	1.7		12.4		22.1		12.4		26.8		54.3
+YOPM%: 	30.1		29.6		23.8		23.8		19.3
+YNPM%: 	13.5		12.5		10.3		13.5		9.6
+YPROFIT: 135.4		141.1		142.4		208.9		189.1		106.6
+PQoQ%: 	-14.2		4.2		1.0		46.7		-9.5		56.4
+
+
+
+***QUARTERLY***
+QPNL: 	Sep-2022	Dec-2022	Mar-2023	Jun-2023	Sep-2023
+QSALES: 428.7		454.3		703.6		467.6		599.2
+QoQ%: 	13.8		6.0		54.9		-33.5		28.1
+QOPM%: 	23.4		16.4		14.0		15.9		19.2
+QNPM%: 	12.9		7.0		10.8		8.2		11.4
+QPFT: 	55.2		32.0		76.0		38.4		68.2
+PQoQ%: 	113.7		-42.2		138.0		-49.5		77.5
+
+
 
 ***PROS***
 - Last 2QSALES is about 54% YSales
 - Last 2QPROFIT is about 56% of YProfit
+
+***CONS***
 
 Yearly 
  31-Mar-2023 #Result

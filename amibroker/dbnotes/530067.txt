@@ -1,39 +1,43 @@
-CODES
-530067	CSLFINANCE	
-SECTOR : 
-INDUSTRY : 
-BestQ Dec 2024
+CODES	530067	CSLFINANCE	
+FULLNAME : CSL Finance Ltd
+SECTOR : Finance
+INDUSTRY : Non Banking Financial Company (NBFC)
+BestQ Dec 2025
 
-***CONS***
-  YPNL   |  :   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+------+----------+----------+----------+----------+----------+--------------
-YSALES:  | 60.9 |   61.7   |   74.6   |  117.3   |  165.9   |  158.6   |              
- SQoQ%:  | 5.3  |   1.3    |   21.0   |   57.2   |   41.4   |   95.6   |              
- YOPM%:  | 70.8 |   76.1   |   75.1   |   76.3   |   77.9   |          |              
- YNPM%:  | 36.9 |   44.6   |   44.8   |   38.9   |   38.2   |          |              
-YPROFIT: | 22.5 |   27.5   |   33.4   |   45.6   |   63.4   |   53.1   |              
- PQoQ%:  | -5.5 |   22.5   |   21.5   |   36.4   |   38.9   |   83.8   |              
-  QPNL  |  :   | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+------+----------+----------+----------+----------+---------
-QSALES: | 45.4 |   46.6   |   51.1   |   54.1   |   53.4   |         
- QoQ%:  | 18.5 |   2.8    |   9.5    |   5.8    |   -1.2   |         
- QOPM%: | 77.1 |   79.2   |   76.4   |   74.8   |   74.7   |         
- QNPM%: | 36.8 |   39.8   |   36.2   |   33.0   |   31.4   |         
- QPFT:  | 16.7 |   18.6   |   18.5   |   17.8   |   16.8   |         
- PQoQ%: | 12.8 |   11.1   |   -0.4   |   -3.5   |   -6.1   |         
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 61.7		74.6		117.3		165.9		215.5		187.3
+SQoQ%: 	1.3		21.0		57.2		41.4		29.9		86.9
+YOPM%: 	76.1		75.1		76.3		77.9		75.8
+YNPM%: 	44.6		44.8		38.9		38.2		33.5
+YPROFIT: 27.5		33.4		45.6		63.4		72.1		66.7
+PQoQ%: 	22.5		21.5		36.4		38.9		13.8		92.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 53.4		56.5		59.4		63.7		64.2
+QoQ%: 	-1.2		5.9		5.2		7.1		0.8
+QOPM%: 	74.7		76.4		77.6		78.6		74.1
+QNPM%: 	31.4		33.6		35.9		38.4		32.6
+QPFT: 	16.8		19.0		21.3		24.5		20.9
+PQoQ%: 	-6.1		13.2		12.3		14.7		-14.5
+
+
 
 ***PROS***
-- Last 3QSALES is about 96% YSales
-- Last 3QPROFIT is about 84% of YProfit
-- YMargins improvised by more than 15% since Mar2022 and PROFITS been maintaining ever since
-- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%
-As on Mar2024, Sales have increased by 41.4% while the Profit QoQ_growth is at 38.9%
+- Last 3QSALES is about 87% YSales
+- Last 3QPROFIT is about 93% of YProfit
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-165.90cr, QoQ 41.40% & YoY 172.41% SALES;
-129.30cr, QoQ 44.40% & YoY 200.00% OPERATING PROFIT;
-63.40cr, QoQ 38.90% & YoY 181.78% NET PROFIT;
-OPM %: 77.90% vs 76.3%
-NPM %: 38.20% vs 38.9%
+ 31-Mar-2025 #Result
+215.50cr, QoQ 29.90% & YoY 249.27% SALES;
+163.30cr, QoQ 26.30% & YoY 248.19% OPERATING PROFIT;
+72.10cr, QoQ 13.80% & YoY 162.18% NET PROFIT;
+OPM %: 75.80% vs 77.9%
+NPM %: 33.50% vs 38.2%
 

@@ -1,35 +1,45 @@
-CODES
-521200	SURYALAXMI	
-SECTOR : Textiles
-INDUSTRY : Textiles - Cotton/Blended
+CODES	521200	SURYALAXMI	
+FULLNAME : Suryalakshmi Cotton Mills Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
+PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  538.9   |  485.8   |  778.1   |  851.0   |  782.4   |     545.4    
- SQoQ%:  |  -19.0   |   -9.8   |   60.1   |   9.4    |   -8.1   |      69.7    
- YOPM%:  |   2.4    |   7.1    |   10.2   |   7.3    |   7.0    |              
- YNPM%:  |   0.0    |   0.0    |   0.0    |   1.2    |   0.5    |              
-YPROFIT: |  -31.8   |   -2.8   |   0.2    |   10.4   |   3.6    |      0.8     
- PQoQ%:  |  276.4   |  -91.1   |  -107.8  |  4627.3  |  -65.3   |      22.2    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  184.4   |  238.6   |  158.7   |  193.2   |  193.5  
- QoQ%:  |   -0.1   |   29.4   |  -33.5   |   21.7   |   0.2   
- QOPM%: |   7.0    |   7.3    |   7.7    |   6.5    |   6.2   
- QNPM%: |   0.5    |   0.4    |   0.3    |   0.0    |   0.5   
- QPFT:  |   0.9    |   0.9    |   0.4    |   -0.5   |   0.9   
- PQoQ%: |   22.2   |   3.4    |  -52.7   |  -223.3  |  -273.6 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 485.8		778.1		851.0		782.4		791.8		554.3
+SQoQ%: 	-9.8		60.1		9.4		-8.1		1.2		70.0
+YOPM%: 	7.1		10.2		7.3		7.0		6.4
+YNPM%: 	0.0		0.0		1.2		0.5		0.5
+YPROFIT: -2.8		0.2		10.4		3.6		3.6		2.3
+PQoQ%: 	-91.1		-107.8		4627.3		-65.3		0.6		63.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 193.5		246.4		178.4		192.3		183.6
+QoQ%: 	0.2		27.3		-27.6		7.8		-4.5
+QOPM%: 	6.2		5.7		7.7		5.2		3.6
+QNPM%: 	0.5		1.1		0.8		0.2		0.3
+QPFT: 	0.9		2.8		1.5		0.3		0.5
+PQoQ%: 	-273.6		206.5		-48.2		-78.8		67.7
+
+
 
 ***PROS***
+- PRODUCT DEMAND is rising since 3 years
 - Last 3QSALES is about 70% YSales
-- YPROFIT TURNED POSITIVE 3yrs back, and maintaining ever since
+- Last 3QPROFIT is about 64% of YProfit
+- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-782.40cr, QoQ -8.10% & YoY 45.18% SALES;
-54.70cr, QoQ -11.80% & YoY 324.03% OPERATING PROFIT;
-3.60cr, QoQ -65.30% & YoY -111.32% NET PROFIT;
-OPM %: 7.00% vs 7.3%
-NPM %: 0.50% vs 1.2%
+ 31-Mar-2025 #Result
+791.80cr, QoQ 1.20% & YoY 62.99% SALES;
+50.90cr, QoQ -6.80% & YoY 47.11% OPERATING PROFIT;
+3.60cr, QoQ 0.60% & YoY -228.57% NET PROFIT;
+OPM %: 6.40% vs 7.0%
+NPM %: 0.50% vs 0.5%
 

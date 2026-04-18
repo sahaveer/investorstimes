@@ -1,13 +1,14 @@
-CODE	NAME
-521244 
+CODES	521244	
+FULLNAME : MKP Mobility Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 
-SECTOR : Trading
-INDUSTRY : Trading
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

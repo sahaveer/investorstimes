@@ -1,13 +1,14 @@
-CODE	NAME
-531540 
+CODES	531540	
+FULLNAME : Maruti Infrastructure Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
 
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Construction
-
-***CONS***
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

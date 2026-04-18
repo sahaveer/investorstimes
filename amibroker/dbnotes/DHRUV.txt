@@ -1,12 +1,14 @@
-CODES
-541302	DHRUV	
-SECTOR : Miscellaneous
-INDUSTRY : Miscellaneous
+CODES	541302	DHRUV	
+FULLNAME : Dhruv Consultancy Services Ltd
+SECTOR : Commercial Services & Supplies
+INDUSTRY : Consulting Services
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

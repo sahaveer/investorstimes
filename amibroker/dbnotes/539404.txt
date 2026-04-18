@@ -1,36 +1,45 @@
-CODES
-539404	SATIN	
+CODES	539404	SATIN	
+FULLNAME : Satin Creditcare Network Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Microfinance Institutions
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  1377.1  |  1377.8  |  1549.2  |  2234.0  |  2594.7 
- SQoQ%:  |   -8.2   |   0.0    |   12.4   |   44.2   |   16.1  
- YOPM%:  |   46.5   |   49.2   |   41.2   |   67.2   |   50.3  
- YNPM%:  |   0.0    |   1.5    |   0.3    |   19.5   |   7.2   
-YPROFIT: |  -14.0   |   20.7   |   4.8    |  435.9   |  186.1  
- PQoQ%:  |  -109.0  |  -248.1  |  -76.8   |  8963.2  |  -57.3  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  642.1   |  632.7   |  656.9   |  684.1   |  621.1  
- QoQ%:  |   7.8    |   -1.5   |   3.8    |   4.1    |   -9.2  
- QOPM%: |   66.1   |   62.6   |   50.8   |   41.9   |   46.4  
- QNPM%: |   20.0   |   16.6   |   6.8    |   2.1    |   3.5   
- QPFT:  |  128.2   |  105.3   |   44.7   |   14.3   |   21.9  
- PQoQ%: |   13.4   |  -17.9   |  -57.6   |  -68.1   |   53.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1377.1		1377.8		1549.2		2234.0		2595.3		2244.0
+SQoQ%: 	-8.2		0.0		12.4		44.2		16.2		86.5
+YOPM%: 	46.5		49.2		41.2		67.2		50.3
+YNPM%: 	0.0		1.5		0.3		19.5		7.2
+YPROFIT: -14.0		20.7		4.8		435.9		186.1		170.2
+PQoQ%: 	-109.0		-248.1		-76.8		8963.2		-57.3		91.5
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 684.1		621.1		708.6		787.9		747.5
+QoQ%: 	4.1		-9.2		14.1		11.2		-5.1
+QOPM%: 	41.9		46.4		50.3		52.7		51.5
+QNPM%: 	2.1		3.5		6.4		6.7		9.6
+QPFT: 	14.3		21.9		45.1		53.2		71.9
+PQoQ%: 	-68.1		53.5		106.0		17.9		35.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
+- Last 3QSALES is about 86% YSales
+- Last 3QPROFIT is about 91% of YProfit
 - YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
 
 
+***CONS***
+
 Yearly 
  31-Mar-2025 #Result
-2594.70cr, QoQ 16.10% & YoY 88.42% SALES;
-1304.40cr, QoQ -13.10% & YoY 103.72% OPERATING PROFIT;
+2595.30cr, QoQ 16.20% & YoY 88.46% SALES;
+1305.10cr, QoQ -13.00% & YoY 103.83% OPERATING PROFIT;
 186.10cr, QoQ -57.30% & YoY -1429.29% NET PROFIT;
 OPM %: 50.30% vs 67.2%
 NPM %: 7.20% vs 19.5%

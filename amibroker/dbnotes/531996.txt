@@ -1,38 +1,46 @@
-CODE	NAME
-531996 
-
+CODES	531996	
+FULLNAME : Odyssey Corporation Ltd
 SECTOR : Finance
-INDUSTRY : Finance & Investments
+INDUSTRY : Non Banking Financial Company (NBFC)
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   4.6    |   22.5   |  104.5   |   77.8   |   36.5   |      15.3    
- SQoQ%:  |  -77.4   |  390.4   |  364.3   |  -25.5   |  -53.1   |      41.9    
- YOPM%:  |   61.0   |   13.6   |   6.0    |   2.2    |   10.6   |              
- YNPM%:  |   12.2   |   27.9   |   5.8    |   1.8    |   9.8    |              
-YPROFIT: |   0.6    |   6.3    |   6.0    |   1.4    |   3.6    |      2.1     
- PQoQ%:  |  -104.5  |  1023.2  |   -4.0   |  -76.2   |  148.6   |      58.3    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   5.5    |   8.3    |   1.1    |   0.3    |   13.9  
- QoQ%:  |  -47.2   |   50.9   |  -87.2   |  -73.6   |  4853.6 
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   4.4    |   0.0    |   17.9   |  628.6   |   0.9   
- QPFT:  |   0.2    |   -0.6   |   0.2    |   1.8    |   0.1   
- PQoQ%: |  -76.9   |  -345.8  |  -132.2  |  826.3   |  -93.2  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 22.5		104.5		77.8		36.5		32.1		26.9
+SQoQ%: 	390.4		364.3		-25.5		-53.1		-12.0		83.8
+YOPM%: 	14.4		6.0		2.2		10.7		0.6
+YNPM%: 	28.8		5.8		1.9		10.1		8.8
+YPROFIT: 6.5		6.1		1.4		3.7		2.8		4.4
+PQoQ%: 	353.8		-6.2		-76.2		153.1		-23.2		157.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 13.9		13.1		6.8		12.2		7.9
+QoQ%: 	4853.6		-5.3		-48.6		80.6		-35.3
+QOPM%: 	0.0		0.0		10.2		0.0		0.0
+QNPM%: 	3.7		0.0		19.1		8.4		26.4
+QPFT: 	0.5		-1.2		1.3		1.0		2.1
+PQoQ%: 	-83.0		-332.7		-206.6		-20.9		103.9
+
+
 
 ***PROS***
+DEBT-Free Company for the last 3 yrs
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QPROFIT is about 58% of YProfit
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
+- Last 3QSALES is about 84% YSales
+- Last 3QPROFIT is about 157% of YProfit
+
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-36.50cr, QoQ -53.10% & YoY 693.48% SALES;
-3.90cr, QoQ 125.60% & YoY 39.29% OPERATING PROFIT;
-3.60cr, QoQ 148.60% & YoY 500.00% NET PROFIT;
-OPM %: 10.60% vs 2.2%
-NPM %: 9.80% vs 1.8%
+ 31-Mar-2025 #Result
+32.10cr, QoQ -12.00% & YoY 42.67% SALES;
+0.20cr, QoQ -95.20% & YoY -93.75% OPERATING PROFIT;
+2.80cr, QoQ -23.20% & YoY -56.92% NET PROFIT;
+OPM %: 0.60% vs 10.7%
+NPM %: 8.80% vs 10.1%
 

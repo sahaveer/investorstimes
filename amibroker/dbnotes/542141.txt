@@ -1,45 +1,54 @@
-CODES
-542141	TECHNOE	
-SECTOR : Infrastructure Developers & Operators
-INDUSTRY : Engineering - Turnkey Services
+CODES	542141	TECHNOE	
+FULLNAME : Techno Electric & Engineering Company Ltd
+SECTOR : Construction
+INDUSTRY : Civil Construction
 EXPANSION 2024
+EXPANSION 2025
 PRODUCT DEMAND
-BestQ Dec 2024
+BestQ Dec 2025
+PROFIT GROWTH BETTER THAN SALES GROWTH 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  871.5   |  883.6   |  999.2   |  829.5   |  1502.4  |     1452.9   
- SQoQ%:  |  -11.6   |   1.4    |   13.1   |  -17.0   |   81.1   |      96.7    
- YOPM%:  |   24.9   |   24.4   |   15.9   |   10.5   |   14.0   |              
- YNPM%:  |   20.6   |   20.6   |   26.4   |   22.5   |   17.9   |              
-YPROFIT: |  179.1   |  181.8   |  263.9   |  186.9   |  268.5   |     288.3    
- PQoQ%:  |   -7.4   |   1.5    |   45.2   |  -29.2   |   43.7   |     107.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  326.5   |  439.6   |  375.4   |  441.4   |  636.1  
- QoQ%:  |  -29.4   |   34.6   |  -14.6   |   17.6   |   44.1  
- QOPM%: |   17.3   |   12.4   |   13.9   |   15.9   |   14.2  
- QNPM%: |   28.1   |   17.6   |   26.1   |   21.3   |   15.1  
- QPFT:  |   91.9   |   77.5   |   98.1   |   94.2   |   96.0  
- PQoQ%: |   24.5   |  -15.6   |   26.5   |   -4.0   |   1.9   
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 883.6		999.2		829.5		1502.4		2268.7		2241.6
+SQoQ%: 	1.4		13.1		-17.0		81.1		51.0		98.8
+YOPM%: 	24.4		15.9		10.5		14.0		15.0
+YNPM%: 	20.6		26.4		22.5		17.9		18.6
+YPROFIT: 181.8		263.9		186.9		268.5		423.0		359.3
+PQoQ%: 	1.5		45.2		-29.2		43.7		57.5		84.9
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 636.1		815.8		526.0		843.4		872.2
+QoQ%: 	44.1		28.3		-35.5		60.4		3.4
+QOPM%: 	14.2		15.5		17.6		13.2		14.5
+QNPM%: 	15.1		16.5		25.9		12.3		13.7
+QPFT: 	96.0		134.6		136.1		104.0		119.2
+PQoQ%: 	1.9		40.3		1.1		-23.6		14.7
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
-EXPANSION ??- EXPANSION underway in Mar-2024, Better to Check the next Quarterly Results to see if the expansion is being effectively Utilised
+EXPANSION ??- EXPANSION in the last 2 consequent years. Check if it realised SALES this year
 - PRODUCT DEMAND is rising since 3 years
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- Last 3QSALES is about 97% YSales
-- Last 3QPROFIT is about 107% of YProfit
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 45.7%
+- Last 3QSALES is about 99% YSales
+- Last 3QPROFIT is about 85% of YProfit
+- YMargins improvised by more than 15% since Mar2023 and PROFITS been maintaining ever since
+- QoQ_GROWTH IN YSALES YPROFIT IS MORE THAN 15%- YPROFIT GROWTH IS BETTER THAN YSALES GROWTH
+As on Mar2025, Sales have increased by 51.0% while the Profit QoQ_growth is much better than Sales itself at 57.5%
 
-
-YSALES in Mar-2024 is at 1502.4 showing a QoQ_growth of 81.1%. The YNETPROFIT grew by 43.7% to 268.5
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-1502.40cr, QoQ 81.10% & YoY 72.39% SALES;
-210.00cr, QoQ 140.50% & YoY -3.40% OPERATING PROFIT;
-268.50cr, QoQ 43.70% & YoY 49.92% NET PROFIT;
-OPM %: 14.00% vs 10.5%
-NPM %: 17.90% vs 22.5%
+ 31-Mar-2025 #Result
+2268.70cr, QoQ 51.00% & YoY 156.76% SALES;
+339.50cr, QoQ 61.60% & YoY 57.32% OPERATING PROFIT;
+423.00cr, QoQ 57.50% & YoY 132.67% NET PROFIT;
+OPM %: 15.00% vs 14.0%
+NPM %: 18.60% vs 17.9%
 

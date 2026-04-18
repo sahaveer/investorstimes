@@ -1,29 +1,34 @@
-CODE	NAME
-500449 
+CODES	500449	
+FULLNAME : Hindustan Organic Chemicals Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Commodity Chemicals
+LYPD PM 2025
 
-SECTOR : Chemicals
-INDUSTRY : Chemicals
-PRODUCT DEMAND
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 407.4		433.7		631.4		703.9		535.9		437.4
+SQoQ%: 	25.2		6.5		45.6		11.5		-23.9		81.6
+YOPM%: 	6.6		0.2		1.0		0.0		0.0
+YNPM%: 	0.6		0.0		0.0		0.0		73.1
+YPROFIT: 2.5		-29.6		-53.4		-54.6		391.8		-28.4
+PQoQ%: 	-102.6		-1271.9		80.1		2.3		-817.3		-7.2
 
-***CONS***
-- NEGATIVE YProfit : -54.6
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  325.3   |  407.4   |  433.7   |  631.4   |  703.9   |     399.3    
- SQoQ%:  |  -35.4   |   25.2   |   6.5    |   45.6   |   11.5   |      56.7    
- YOPM%:  |   0.0    |   6.6    |   0.2    |   1.0    |   0.0    |              
- YNPM%:  |   0.0    |   0.6    |   0.0    |   0.0    |   0.0    |              
-YPROFIT: |  -96.2   |   2.5    |  -29.6   |  -53.4   |  -54.6   |     -128.0   
- PQoQ%:  |  -232.8  |  -102.6  | -1271.9  |   80.1   |   2.3    |     234.4    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  186.8   |  182.9   |   59.4   |  174.7   |  165.2  
- QoQ%:  |   -1.0   |   -2.1   |  -67.5   |  194.3   |   -5.5  
- QOPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- QPFT:  |  -17.8   |  -11.9   |  -35.4   |  -13.6   |  -79.0  
- PQoQ%: |  1172.9  |  -33.2   |  197.4   |  -61.5   |  479.1  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 165.2		136.6		163.9		126.3		147.2
+QoQ%: 	-5.5		-17.3		20.0		-23.0		16.6
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	0.0		380.5		0.0		0.0		0.0
+QPFT: 	-79.0		519.8		-6.3		-18.2		-3.9
+PQoQ%: 	479.1		-758.1		-101.2		186.3		-78.4
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 57% YSales
+- Last 3QSALES is about 82% YSales
+- YProfit Turned POSITIVE this year Mar-2025 : 391.8
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***

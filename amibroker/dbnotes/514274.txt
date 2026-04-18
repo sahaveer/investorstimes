@@ -1,13 +1,15 @@
-CODES
-514274	AARVEEDEN	
-SECTOR : Textiles
-INDUSTRY : Textiles - Cotton/Blended
+CODES	514274	AARVEEDEN	
+FULLNAME : Aarvee Denims & Exports Ltd
+SECTOR : Textiles & Apparels
+INDUSTRY : Other Textile Products
 
-***CONS***
-- NEGATIVE YProfit : -41.9
-
+***YEARLY***
 
 
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***
+- NEGATIVE YProfit : -41.9

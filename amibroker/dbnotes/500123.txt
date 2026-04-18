@@ -1,39 +1,49 @@
-CODE	NAME
-500123 
+CODES	500123	
+FULLNAME : Elantas Beck India Ltd
+SECTOR : Chemicals & Petrochemicals
+INDUSTRY : Specialty Chemicals
+PRODUCT DEMAND
+BestQ Dec 2025
 
-SECTOR : Chemicals
-INDUSTRY : Chemicals
+***YEARLY***
+YPNL: 	Dec-2021	Dec-2022	Dec-2023	Dec-2024	Dec-2025	QSUM:Dec-2025
+YSALES: 522.1		644.7		679.9		748.5		847.8		641.7
+SQoQ%: 	36.3		23.5		5.5		10.1		13.3		75.7
+YOPM%: 	15.0		17.1		21.1		19.3		20.3
+YNPM%: 	12.8		15.2		20.2		18.6		17.4
+YPROFIT: 66.9		97.8		137.3		139.6		147.8		115.0
+PQoQ%: 	8.3		46.2		40.4		1.6		5.9		77.8
 
-***CONS***
- YPNL:   | Dec-2020 | Dec-2021 | Dec-2022 | Dec-2023 | Dec-2024
----------+----------+----------+----------+----------+---------
-YSALES:  |  383.1   |  522.1   |  644.7   |  679.9   |  748.5  
- SQoQ%:  |   -2.8   |   36.3   |   23.5   |   5.5    |   10.1  
- YOPM%:  |   18.4   |   15.0   |   17.1   |   21.1   |   19.3  
- YNPM%:  |   16.1   |   12.8   |   15.2   |   20.2   |   18.6  
-YPROFIT: |   61.8   |   66.9   |   97.8   |  137.3   |  139.6  
- PQoQ%:  |   24.6   |   8.3    |   46.2   |   40.4   |   1.6   
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  176.6   |  191.4   |  183.6   |  197.0   |  206.1  
- QoQ%:  |   1.6    |   8.4    |   -4.1   |   7.3    |   4.7   
- QOPM%: |   21.3   |   20.2   |   18.1   |   17.7   |   19.6  
- QNPM%: |   20.9   |   21.9   |   16.9   |   15.1   |   15.9  
- QPFT:  |   36.9   |   41.8   |   31.1   |   29.7   |   32.9  
- PQoQ%: |   -0.2   |   13.4   |  -25.8   |   -4.3   |   10.5  
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 197.0		206.1		209.9		216.6		215.2
+QoQ%: 	7.3		4.7		1.8		3.2		-0.6
+QOPM%: 	17.7		19.6		18.9		21.8		20.9
+QNPM%: 	15.1		15.9		18.7		16.7		18.3
+QPFT: 	29.7		32.9		39.3		36.3		39.4
+PQoQ%: 	-4.3		10.5		19.5		-7.7		8.6
+
+
 
 ***PROS***
 DEBT-Free Company for the last 3 yrs
+- PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Dec2024 is at 18.2%
+ROCE in Dec2025 is at 24.6%
 - RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
-- YMargins improvised by more than 15% since Dec2022 and PROFITS been maintaining ever since
+- Last 3QSALES is about 76% YSales
+- Last 3QPROFIT is about 78% of YProfit
+- YMargins improvised by more than 15% since Dec2023 and PROFITS been maintaining ever since
+
+***CONS***
 
 Yearly 
- 31-Dec-2024 #Result
-748.50cr, QoQ 10.10% & YoY 95.38% SALES;
-144.40cr, QoQ 0.90% & YoY 105.41% OPERATING PROFIT;
-139.60cr, QoQ 1.60% & YoY 125.89% NET PROFIT;
-OPM %: 19.30% vs 21.1%
-NPM %: 18.60% vs 20.2%
+ 31-Dec-2025 #Result
+847.80cr, QoQ 13.30% & YoY 62.38% SALES;
+172.20cr, QoQ 19.30% & YoY 119.92% OPERATING PROFIT;
+147.80cr, QoQ 5.90% & YoY 120.93% NET PROFIT;
+OPM %: 20.30% vs 19.3%
+NPM %: 17.40% vs 18.6%
 

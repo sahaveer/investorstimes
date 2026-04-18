@@ -1,31 +1,36 @@
-CODES
-500500	HINDMOTORS	
-SECTOR : Automobile
-INDUSTRY : Automobiles - Passenger Cars
+CODES	500500	HINDMOTORS	
+FULLNAME : Hindustan Motors Ltd
+SECTOR : Automobiles
+INDUSTRY : Passenger Cars & Utility Vehicles
 YSD YPD 2024
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |   1.2    |   0.0    |   0.0    |   3.2    |   2.2   
- SQoQ%:  |  457.1   |  -100.0  |   nan    |   inf    |  -30.8  
- YOPM%:  |   0.0    |   0.0    |   0.0    |   0.0    |   0.0   
- YNPM%:  |  321.4   |   inf    |   inf    |  782.5   |  692.0  
-YPROFIT: |   3.8    |   18.6   |   0.0    |   25.4   |   15.6  
- PQoQ%:  |  -553.0  |  396.0   |  -99.7   | 50760.0  |  -38.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |   1.9    |   0.9    |   0.8    |   0.6    |   0.0   
- QoQ%:  |   37.2   |  -53.7   |   -9.2   |  -25.3   |  -100.0 
- QOPM%: |   45.7   |   0.0    |   0.0    |   0.0    |   0.0   
- QNPM%: |  856.4   |  928.7   |  615.2   |  566.1   |   0.0   
- QPFT:  |   16.1   |   8.1    |   4.9    |   3.3    |   -0.7  
- PQoQ%: |   43.5   |  -49.8   |  -39.9   |  -31.3   |  -121.3 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 1.2		0.0		0.0		3.2		2.2		0.0
+SQoQ%: 	457.1		-100.0		nan		inf		-30.8		0.0
+YOPM%: 	0.0		0.0		0.0		0.0		0.0
+YNPM%: 	321.4		inf		inf		782.5		691.6
+YPROFIT: 3.8		18.6		0.0		25.4		15.6		4.3
+PQoQ%: 	-553.0		396.0		-99.7		50760.0		-38.8		27.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.6		0.0		0.0		0.0		0.0
+QoQ%: 	-25.3		-100.0		nan		nan		nan
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	566.1		0.0		inf		inf		inf
+QPFT: 	3.3		-0.7		4.2		0.0		0.1
+PQoQ%: 	-31.3		-121.3		-685.9		-99.0		75.0
+
+
 
 ***PROS***
-- RESERVES are increasing at above 15% in the last 3 years with Borrowings are at 0.0
 - YProfits and YSales DOUBLED in Mar2024
 
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
@@ -33,5 +38,5 @@ Yearly
 -3.10cr, QoQ 167.50% & YoY -20.51% OPERATING PROFIT;
 15.60cr, QoQ -38.80% & YoY 310.53% NET PROFIT;
 OPM %: 0.00% vs 0.0%
-NPM %: 692.00% vs 782.5%
+NPM %: 691.60% vs 782.5%
 

@@ -1,12 +1,14 @@
-CODES
-DENTALKART	
-SECTOR : E-Commerce/App based Aggregator
-INDUSTRY : Trading
+CODES	DENTALKART	
+FULLNAME : Vasa Denticity Ltd
+SECTOR : Healthcare Equipment & Supplies
+INDUSTRY : Medical Equipment & Supplies
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
+
+***CONS***

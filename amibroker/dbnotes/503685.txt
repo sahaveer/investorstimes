@@ -1,19 +1,20 @@
-CODE	NAME
-503685 
-
+CODES	503685	
+FULLNAME : Mediaone Global Entertainment Ltd
 SECTOR : Entertainment
-INDUSTRY : Entertainment / Electronic Media Software
+INDUSTRY : Film Production, Distribution & Exhibition
 PRODUCT DEMAND
 
-***CONS***
+***YEARLY***
 
 
-
+***QUARTERLY***
 
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - RISING QSALES & QPROFIT : QSALES QoQ_Growth in Jun-2014 is at 143.7%. The QPROFIT QoQ_growth by -294.7%
+
+***CONS***
 
 Yearly 
  30-Jun-2012 #Result

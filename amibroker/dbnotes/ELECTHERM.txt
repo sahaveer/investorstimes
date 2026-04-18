@@ -1,32 +1,46 @@
-CODES
-526608	ELECTHERM	
-SECTOR : Steel
-INDUSTRY : Steel - Medium / Small
-PRODUCT DEMAND
-BestQ Dec 2024
-LYPD PM 2024
+CODES	526608	ELECTHERM	
+FULLNAME : Electrotherm (India) Ltd
+SECTOR : Industrial Products
+INDUSTRY : Iron & Steel Products
+LYPD PM 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |  3211.9  |  2518.1  |  2831.3  |  3074.0  |  4271.5  |     2954.3   
- SQoQ%:  |  -20.5   |  -21.6   |   12.4   |   8.6    |   39.0   |      69.2    
- YOPM%:  |   4.0    |   8.7    |   3.1    |   4.4    |   9.8    |              
- YNPM%:  |   0.8    |   2.0    |   0.0    |   0.0    |   7.4    |              
-YPROFIT: |   24.1   |   49.5   |  -40.4   |  -11.8   |  317.3   |     256.6    
- PQoQ%:  |  -83.0   |  105.4   |  -181.6  |  -70.7   | -2784.7  |      80.9    
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |  1137.3  |  1217.6  |  1059.4  |  813.7   |  1081.2 
- QoQ%:  |   15.4   |   7.1    |  -13.0   |  -23.2   |   32.9  
- QOPM%: |   11.1   |   10.7   |   12.5   |   8.3    |   9.9   
- QNPM%: |   9.4    |   8.5    |   10.3   |   7.3    |   8.2   
- QPFT:  |  107.1   |  104.0   |  108.8   |   59.5   |   88.3  
- PQoQ%: |   58.6   |   -2.8   |   4.6    |  -45.4   |   48.5  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 2518.1		2831.3		3074.0		4271.5		4115.4		2552.1
+SQoQ%: 	-21.6		12.4		8.6		39.0		-3.7		62.0
+YOPM%: 	8.7		3.1		4.4		9.8		9.0
+YNPM%: 	2.0		0.0		0.0		7.4		10.7
+YPROFIT: 49.5		-40.4		-11.8		317.3		442.2		-29.2
+PQoQ%: 	105.4		-181.6		-70.7		-2784.7		39.3		-6.6
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 1081.2		1161.1		834.0		814.3		903.8
+QoQ%: 	32.9		7.4		-28.2		-2.4		11.0
+QOPM%: 	9.9		5.6		6.2		0.0		0.0
+QNPM%: 	8.2		16.0		3.3		0.0		0.0
+QPFT: 	88.3		185.5		27.8		-21.6		-35.4
+PQoQ%: 	48.5		110.0		-85.0		-177.9		63.8
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 69% YSales
-- Last 3QPROFIT is about 81% of YProfit
-- YProfit Turned POSITIVE this year Mar-2024 : 317.3
-- LastYr YProfits Doubled and maintained in Mar2024
+- ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
+ROCE in Mar2025 is at 35.1%
+- RESERVES are increasing at above 15% in the last 3 years with Borrowings  Declining for last 3yrs
+- Last 3QSALES is about 62% YSales
+- YPROFIT TURNED POSITIVE 2yrs back, and maintaining ever since
+- LastYr YProfits Doubled and maintained in Mar2025
+
+***CONS***
+
+Yearly 
+ 31-Mar-2025 #Result
+4115.40cr, QoQ -3.70% & YoY 63.43% SALES;
+371.50cr, QoQ -11.40% & YoY 69.02% OPERATING PROFIT;
+442.20cr, QoQ 39.30% & YoY 793.33% NET PROFIT;
+OPM %: 9.00% vs 9.8%
+NPM %: 10.70% vs 7.4%
+

@@ -1,11 +1,11 @@
-CODE	NAME
-544388 
-
+CODES	544388	
+FULLNAME : Identixweb Ltd
 SECTOR : IT - Software
 INDUSTRY : Computers - Software - Medium / Small
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
+
+***CONS***

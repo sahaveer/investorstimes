@@ -1,40 +1,44 @@
-CODE	NAME
-501421 
-
+CODES	501421	
+FULLNAME : TechNVision Ventures Ltd
 SECTOR : IT - Software
-INDUSTRY : Computers - Software - Medium / Small
+INDUSTRY : Software Products
 PRODUCT DEMAND
+BestQ Dec 2025
 
-***CONS***
- YPNL:   | Mar-2020 | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | QSUM:Dec-2024
----------+----------+----------+----------+----------+----------+--------------
-YSALES:  |   75.9   |   86.6   |  119.9   |  151.6   |  192.8   |     188.5    
- SQoQ%:  |  -13.2   |   14.1   |   38.4   |   26.5   |   27.1   |      97.8    
- YOPM%:  |   0.0    |   5.7    |   12.3   |   1.2    |   8.9    |              
- YNPM%:  |   0.0    |   4.7    |   10.5   |   0.1    |   7.0    |              
-YPROFIT: |   -2.4   |   4.1    |   12.5   |   0.2    |   13.5   |      1.0     
- PQoQ%:  |  -93.6   |  -267.6  |  206.6   |  -98.2   |  6050.0  |      7.4     
- QPNL:  | Dec-2023 | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024
---------+----------+----------+----------+----------+---------
-QSALES: |   59.8   |   51.7   |   52.4   |   55.1   |   81.0  
- QoQ%:  |   19.5   |  -13.6   |   1.4    |   5.1    |   47.0  
- QOPM%: |   17.5   |   18.2   |   6.1    |   0.0    |   2.1   
- QNPM%: |   14.9   |   17.2   |   4.1    |   0.0    |   1.7   
- QPFT:  |   8.9    |   8.9    |   2.2    |   -2.6   |   1.4   
- PQoQ%: |  249.2   |   -0.8   |  -75.6   |  -219.4  |  -152.7 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 86.6		119.9		151.6		192.8		227.8		202.2
+SQoQ%: 	-30.5		38.4		26.5		27.1		18.2		88.8
+YOPM%: 	5.7		12.3		1.2		8.9		1.7
+YNPM%: 	4.7		10.5		0.1		7.0		0.0
+YPROFIT: 4.1		12.5		0.2		13.5		0.1		4.4
+PQoQ%: 	-267.6		206.6		-98.2		6050.0		-99.2		4400.0
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 81.0		39.4		56.6		71.2		74.4
+QoQ%: 	47.0		-51.4		43.9		25.8		4.4
+QOPM%: 	2.1		1.7		2.3		3.2		6.4
+QNPM%: 	1.7		0.0		0.1		1.0		5.0
+QPFT: 	1.4		-0.8		0.0		0.7		3.7
+PQoQ%: 	-152.7		-161.0		-103.6		2266.7		422.5
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
-- Last 3QSALES is about 98% YSales
-- YPROFIT TURNED POSITIVE 4yrs back, and maintaining ever since
+- Last 3QSALES is about 89% YSales
+- Last 3QPROFIT is about 4400% of YProfit
 
-YSALES in Mar-2024 is at 192.8 showing a QoQ_growth of 27.1%. The YNETPROFIT grew by 6050.0% to 13.5
+***CONS***
 
 Yearly 
- 31-Mar-2024 #Result
-192.80cr, QoQ 27.10% & YoY 154.02% SALES;
-17.10cr, QoQ 853.60% & YoY -1050.00% OPERATING PROFIT;
-13.50cr, QoQ 6050.00% & YoY -662.50% NET PROFIT;
-OPM %: 8.90% vs 1.2%
-NPM %: 7.00% vs 0.1%
+ 31-Mar-2025 #Result
+227.80cr, QoQ 18.20% & YoY 163.05% SALES;
+3.80cr, QoQ -78.00% & YoY -24.00% OPERATING PROFIT;
+0.10cr, QoQ -99.20% & YoY -97.56% NET PROFIT;
+OPM %: 1.70% vs 8.9%
+NPM %: 0.00% vs 7.0%
 

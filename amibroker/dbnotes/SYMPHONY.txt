@@ -1,39 +1,45 @@
-CODES
-517385	SYMPHONY	
+CODES	517385	SYMPHONY	
+FULLNAME : Symphony Ltd
 SECTOR : Consumer Durables
-INDUSTRY : Domestic Appliances
+INDUSTRY : Household Appliances
 PRODUCT DEMAND
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  899.8   |  1039.0  |  1187.6  |  1156.1  |  1576.0 
- SQoQ%:  |  -18.4   |   15.5   |   14.3   |   -2.7   |   36.3  
- YOPM%:  |   15.6   |   15.6   |   11.8   |   14.8   |   19.7  
- YNPM%:  |   11.9   |   11.6   |   9.8    |   12.8   |   13.5  
-YPROFIT: |  107.3   |  120.3   |  116.4   |  148.1   |  213.0  
- PQoQ%:  |  -40.8   |   12.1   |   -3.2   |   27.2   |   43.8  
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  332.0   |  531.0   |  315.0   |  242.0   |  488.0  
- QoQ%:  |   34.4   |   59.9   |  -40.7   |  -23.2   |  101.7  
- QOPM%: |   17.2   |   20.9   |   20.3   |   12.0   |   21.9  
- QNPM%: |   14.5   |   16.6   |   17.8   |   0.0    |   16.2  
- QPFT:  |   48.0   |   88.0   |   56.0   |  -10.0   |   79.0  
- PQoQ%: |   17.1   |   83.3   |  -36.4   |  -117.9  |  -890.0 
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 899.8		1039.0		1187.6		1156.1		1575.7		593.0
+SQoQ%: 	-18.4		15.5		14.3		-2.7		36.3		37.6
+YOPM%: 	15.6		15.6		11.8		14.8		19.8
+YNPM%: 	11.9		11.6		9.8		12.8		13.5
+YPROFIT: 107.3		120.3		116.4		148.1		212.5		81.0
+PQoQ%: 	-40.8		12.1		-3.2		27.2		43.5		38.1
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 242.0		381.0		251.0		163.0		179.0
+QoQ%: 	-16.3		57.4		-34.1		-35.1		9.8
+QOPM%: 	12.0		26.0		10.4		14.7		16.2
+QNPM%: 	0.0		20.7		16.7		11.7		11.2
+QPFT: 	-10.0		79.0		42.0		19.0		20.0
+PQoQ%: 	-117.9		-890.0		-46.8		-54.8		5.3
+
+
 
 ***PROS***
 - PRODUCT DEMAND is rising since 3 years
 - ROCE IS GROWING AT MORE THAN 15% SINCE 2 YEARS.
-ROCE in Mar2025 is at 47.9%
+ROCE in Mar2025 is at 48.2%
 
-YSALES in Mar-2025 is at 1576.0 showing a QoQ_growth of 36.3%. The YNETPROFIT grew by 43.8% to 213.0
+YSALES in Mar-2025 is at 1575.7 showing a QoQ_growth of 36.3%. The YNETPROFIT grew by 43.5% to 212.5
+
+***CONS***
 
 Yearly 
  31-Mar-2025 #Result
-1576.00cr, QoQ 36.30% & YoY 75.15% SALES;
-311.00cr, QoQ 82.10% & YoY 121.51% OPERATING PROFIT;
-213.00cr, QoQ 43.80% & YoY 98.51% NET PROFIT;
-OPM %: 19.70% vs 14.8%
+1575.70cr, QoQ 36.30% & YoY 75.12% SALES;
+312.00cr, QoQ 82.70% & YoY 122.22% OPERATING PROFIT;
+212.50cr, QoQ 43.50% & YoY 98.04% NET PROFIT;
+OPM %: 19.80% vs 14.8%
 NPM %: 13.50% vs 12.8%
 

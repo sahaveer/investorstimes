@@ -1,15 +1,16 @@
-CODES
-INNOMET	
+CODES	INNOMET	
+FULLNAME : Innomet Advanced Materials Ltd
 SECTOR : Mining & Mineral products
 INDUSTRY : Mining / Minerals / Metals
 EXPANSION 2023
 
-***CONS***
-
+***YEARLY***
 
 
 ***PROS***
 EXPANSION ??- There was an Expansion in the Mar-2023, so got to check SALES too
+
+***CONS***
 
 Yearly 
  31-Mar-2024 #Result

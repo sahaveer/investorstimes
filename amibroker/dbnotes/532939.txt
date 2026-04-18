@@ -1,27 +1,32 @@
-CODES
-532939	RPOWER	
-SECTOR : Power Generation & Distribution
-INDUSTRY : Power Generation And Supply
-PRODUCT DEMAND
+CODES	532939	RPOWER	
+FULLNAME : Reliance Power Ltd
+SECTOR : Power
+INDUSTRY : Power Generation
 
-***CONS***
- YPNL:   | Mar-2021 | Mar-2022 | Mar-2023 | Mar-2024 | Mar-2025
----------+----------+----------+----------+----------+---------
-YSALES:  |  7934.0  |  7503.1  |  7513.9  |  7892.6  |  7582.9 
- SQoQ%:  |   4.9    |   -5.4   |   0.1    |   5.0    |   -3.9  
- YOPM%:  |   45.1   |   36.5   |   25.1   |   14.7   |   27.8  
- YNPM%:  |   2.9    |   0.0    |   0.0    |   0.0    |   38.9  
-YPROFIT: |  228.6   |  -964.0  |  -470.8  | -2068.4  |  2947.8 
- PQoQ%:  |  -105.6  |  -521.6  |  -51.2   |  339.4   |  -242.5 
- QPNL:  | Mar-2024 | Jun-2024 | Sep-2024 | Dec-2024 | Mar-2025
---------+----------+----------+----------+----------+---------
-QSALES: |  1996.6  |  1992.2  |  1759.8  |  1852.8  |  1978.0 
- QoQ%:  |   2.7    |   -0.2   |  -11.7   |   5.3    |   6.8   
- QOPM%: |   9.3    |   32.7   |   21.4   |   26.5   |   29.8  
- QNPM%: |   0.0    |   0.0    |  163.5   |   2.3    |   6.3   
- QPFT:  |  -397.6  |  -97.8   |  2878.2  |   42.0   |  125.6  
- PQoQ%: |  -65.0   |  -75.4   | -3041.4  |  -98.5   |  199.3  
+***YEARLY***
+YPNL: 	Mar-2021	Mar-2022	Mar-2023	Mar-2024	Mar-2025	QSUM:Dec-2025
+YSALES: 39.1		40.0		27.8		-1.0		0.0		1.6
+SQoQ%: 	-27.0		2.4		-30.5		-103.6		-100.0		inf
+YOPM%: 	32.6		23.0		0.0		0.0		0.0
+YNPM%: 	141.6		0.0		2354.2		-4846.5		0.0
+YPROFIT: 55.3		-277.3		654.7		49.0		-94.1		5.9
+PQoQ%: 	-114.2		-601.1		-336.1		-92.5		-292.2		-6.3
+
+
+
+***QUARTERLY***
+QPNL: 	Dec-2024	Mar-2025	Jun-2025	Sep-2025	Dec-2025
+QSALES: 0.0		0.0		0.5		1.0		0.1
+QoQ%: 	nan		nan		inf		102.0		-91.3
+QOPM%: 	0.0		0.0		0.0		0.0		0.0
+QNPM%: 	inf		0.0		372.5		459.2		0.0
+QPFT: 	0.3		-101.4		1.9		4.7		-0.7
+PQoQ%: 	-93.4		-31771.9		-101.9		148.9		-114.2
+
+
 
 ***PROS***
-- PRODUCT DEMAND is rising since 3 years
-- YProfit Turned POSITIVE this year Mar-2025 : 2947.8
+
+
+***CONS***
+- NEGATIVE YProfit : -94.1
