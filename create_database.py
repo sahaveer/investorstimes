@@ -48,6 +48,11 @@ def save_reference_data(key, df):
     """Save a DataFrame as reference data in MongoDB."""
     try:
         data_dict = df.to_dict(orient='records')
+        # Simple size check: if more than 50k rows, it's likely too big for a single doc
+        if len(data_dict) > 50000:
+            st.warning(f"⚠️ {key} is too large for single MongoDB document. Skipping cloud backup.")
+            return False
+            
         reference_data_col.update_one(
             {"_id": key},
             {"$set": {"data": data_dict, "timestamp": datetime.datetime.now()}},
@@ -55,7 +60,10 @@ def save_reference_data(key, df):
         )
         return True
     except Exception as e:
-        print(f"Error saving reference data: {e}")
+        if "too large" in str(e):
+            st.error(f"❌ Error: {key} data is too large for MongoDB (16MB limit).")
+        else:
+            print(f"Error saving reference data: {e}")
         return False
 
 def get_reference_data(key):

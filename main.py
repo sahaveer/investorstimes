@@ -1,4 +1,13 @@
 # import pprint
+import sys
+import types
+
+# Python 3.13+ Compatibility Hack for python-telegram-bot
+if 'imghdr' not in sys.modules:
+    m = types.ModuleType('imghdr')
+    m.what = lambda x, h=None: None
+    sys.modules['imghdr'] = m
+
 import time
 import io
 import streamlit as st
@@ -15,7 +24,7 @@ import datetime
 import time
 import pandas as pd
 # import pickle
-#import numpy as np66
+import numpy as np
 import nse_bse_search
 import create_database
 import fundamentals
@@ -159,6 +168,16 @@ if 'listed_stocks' not in st.session_state:
             stocks = []
     st.session_state['listed_stocks'] = stocks
 
+# Initialize metadata in session state
+if 'all_stock_metadata' not in st.session_state:
+    with st.spinner("Loading Stock Metadata..."):
+        all_meta, latest_q, last_q_text, avail_stocks, not_latest = create_database.get_metadata(recent_quarter_txt, last_quarter_text)
+        st.session_state.all_stock_metadata = all_meta
+        st.session_state.latest_quarterly_stocks = latest_q
+        st.session_state.last_announced_quarter = last_q_text
+        st.session_state.available_stocks = avail_stocks
+        st.session_state.not_latest_quarterly = not_latest
+
 if 'latest_quarterly_stocks' not in st.session_state or 'last_announced_quarter' not in st.session_state or  'available_pickles' not in st.session_state or 'no_of_stocks_not_latest' not in st.session_state:
     start = time.perf_counter()
     variables.metadata,st.session_state.latest_quarterly_stocks,st.session_state.last_announced_quarter,st.session_state.available_pickles,st.session_state.no_of_stocks_not_latest = create_database.get_metadata(recent_quarter_txt,last_quarter_text)
@@ -247,8 +266,13 @@ def write_tags_to_txt(metadata):
                         if keys: last_q = keys[-1]
                     
                     if last_q == recent_quarter_txt:
-                        st.success(f"✅ {code} already has latest results ({last_q})")
-                        continue
+                        # Add a 6-hour cooldown check
+                        last_updated = doc_is.get('timestamp')
+                        if last_updated and (datetime.datetime.now() - last_updated).total_seconds() < 6 * 3600:
+                            st.success(f"✅ {code} is fresh (Updated {last_updated.strftime('%H:%M')}). Skipping.")
+                            continue
+                        else:
+                            st.success(f"✅ {code} has latest results ({last_q}) but checking for minor updates.")
             
         # Perform Scrape
         screenerpage.search_screener1(driver, code)
@@ -286,81 +310,10 @@ for each in watchlist:
         industry_dict[get_this_watchlist_db].append(each_stock)
 
 # WATCHLIST OPTIONS
-col1, col2, col3, col4 = st.columns([2, 2, 2, 2])
-# with col3:
 with st.sidebar:
     chose_genre = list(industry_dict.keys())
-    temp_list_len = [f"{each_key} ({len(industry_dict[each_key])})" for each_key in chose_genre]   #to give name with number in the SelectBox
-
-    # genre = st.radio("Watchlist:",chose_genre,)
-    genre = st.selectbox("Watchlist:",chose_genre,)
-
-    # ADMIN PORTAL for CSV Uploads
-    with st.expander("🔐 Admin Portal"):
-        st.caption("Upload reference CSVs to update Cloud Database")
-        bse_file = st.file_uploader("Update BSE Reference (Select.csv)", type=['csv'])
-        if bse_file:
-            bse_df = pd.read_csv(bse_file)
-            if create_database.save_reference_data('bse_select', bse_df):
-                st.success("BSE Data Updated in Cloud!")
-                st.session_state.bse_data = bse_df # Refresh session
-        
-        nse_file = st.file_uploader("Update NSE Reference (Bhavcopy CSV)", type=['csv'])
-        if nse_file:
-            nse_df = pd.read_csv(nse_file)
-            if create_database.save_reference_data('nse_bhav', nse_df):
-                st.success("NSE Data Updated in Cloud!")
-                st.session_state.nse_data = nse_df # Refresh session
-        
-        # Admin Tools - Only visible locally
-        if not config.is_cloud():
-            st.write("---")
-            st.subheader("📦 Master Data Sync")
-            if st.button("🔄 Sync Local AllListed.txt to Cloud"):
-                local_file = './watchlist/alllisted.txt'
-                if os.path.exists(local_file):
-                    new_stocks = create_database.seed_stocks_from_file(local_file)
-                    st.session_state['listed_stocks'] = new_stocks
-                    st.success(f"Successfully synced {len(new_stocks)} stocks to MongoDB!")
-                    time.sleep(1)
-                    st.rerun()
-                else:
-                    st.error("File not found at ./watchlist/alllisted.txt")
-
-            st.write("---")
-            st.subheader("🚀 Targeted Scraper")
-            scrape_input = st.text_area("Option 1: Paste Codes", placeholder="RELIANCE, 500325, INFV", help="Enter NSE symbols or BSE codes.")
-            scrape_file = st.file_uploader("Option 2: Upload .txt File", type=['txt'], help="Upload a text file with one code per line or comma-separated.")
-            
-            if st.button("🔥 Start Targeted Scrape"):
-                all_codes = []
-                
-                # Get codes from text area
-                if scrape_input:
-                    all_codes.extend([c.strip().upper() for c in scrape_input.split(",") if c.strip()])
-                
-                # Get codes from uploaded file
-                if scrape_file:
-                    content = scrape_file.read().decode("utf-8")
-                    # Handle both comma-separated and line-separated
-                    file_codes = content.replace("\n", ",").split(",")
-                    all_codes.extend([c.strip().upper() for c in file_codes if c.strip()])
-
-                # Unique codes only
-                all_codes = list(set(all_codes))
-
-                if all_codes:
-                    st.info(f"Starting scrape for {len(all_codes)} unique stocks...")
-                    save_screener1(all_codes, force=True, status_placeholder=main_status)
-                    st.success(f"Targeted scrape for {len(all_codes)} stocks completed!")
-                else:
-                    st.warning("No valid stock codes found in input or file.")
-        else:
-            st.write("---")
-            st.caption("ℹ️ Admin tools (Scraping/Sync) are disabled in Cloud mode.")
-
-        st.write("---")
-        st.session_state.path_download = st.text_input("Local Download Path", value='C:/Users/Sahaveer/Downloads/', help="Path where your browser saves Screener Excel files.")
+    genre = st.selectbox("Watchlist:", chose_genre, index=chose_genre.index("All Listed") if "All Listed" in chose_genre else 0)
+    st.session_state.path_download = st.text_input("Local Download Path", value='C:/Users/Sahaveer/Downloads/', help="Path where your browser saves Screener Excel files.")
 
 funda_tech_options = ["Funda_Chart", 'Tech_Chart']#, 'Analyse Watchlist']
 show_list_as = industry_dict[genre]
@@ -483,7 +436,19 @@ if selected:
     metadata = {}
     company_code = []
     comp_Name = ""
-    # st.success(selected)
+    st.header(f"{selected}")
+    # Display Last Scraped Timestamp from the metadata object
+    if 'all_stock_metadata' in st.session_state and selected in st.session_state.all_stock_metadata:
+        # Check in both 'metadata' or 'comp_metadata' fields where timestamp might be
+        doc = st.session_state.all_stock_metadata[selected]
+        last_upd = doc.get('timestamp') or doc.get('metadata', {}).get('timestamp')
+        if last_upd:
+            if isinstance(last_upd, (datetime.datetime, pd.Timestamp)):
+                st.caption(f"🕒 Data last synced from Screener: **{last_upd.strftime('%d-%b %H:%M')}**")
+            else:
+                st.caption(f"🕒 Data last synced: **{last_upd}**")
+        else:
+            st.caption("🕒 Data freshness: Unknown (Never scraped)")
     try:
         company_code, comp_Name = nse_bse_search.get_code_name(selected)
     except Exception as TypeError:

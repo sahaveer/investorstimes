@@ -9,21 +9,34 @@ import processdriver
 
 if 'bse_data' not in st.session_state:
     bse_df = pd.DataFrame()
+    # Try local file first (for admin/local)
     if os.path.exists('./Select.csv'):
         bse_df = pd.read_csv('./Select.csv', header=0, index_col=False)
-        create_database.save_reference_data('bse_select', bse_df)
+        # Only try to save if it's not giant
+        if len(bse_df) < 50000:
+            create_database.save_reference_data('bse_select', bse_df)
     else:
+        # Fetch from MongoDB ReferenceData
         bse_df = create_database.get_reference_data('bse_select')
+        
+    # If still empty, we can build a minimal mapping from CompMetadata if needed
+    # but for now we'll just store whatever we found
     st.session_state.bse_data = bse_df
 
 if not st.session_state.bse_data.empty:
     bse_data = st.session_state.bse_data
-    if 'Security_Code' not in bse_data.columns:
-        bse_data.columns = bse_data.columns.str.replace(' ', '_')
-    st.session_state.bse_ISIN = bse_data["ISIN_No"].tolist()
-    st.session_state.bse_ycode = bse_data["Security_Id"].tolist()
-    st.session_state.bsenames_list = bse_data["Security_Name"].tolist()
-    st.session_state.bsecodes_list = bse_data["Security_Code"].tolist()
+    # Ensure column names are clean
+    bse_data.columns = [c.replace(' ', '_') for c in bse_data.columns]
+    
+    st.session_state.bse_ISIN = bse_data["ISIN_No"].tolist() if 'ISIN_No' in bse_data.columns else []
+    st.session_state.bse_ycode = bse_data["Security_Id"].tolist() if 'Security_Id' in bse_data.columns else []
+    st.session_state.bsenames_list = bse_data["Security_Name"].tolist() if 'Security_Name' in bse_data.columns else []
+    st.session_state.bsecodes_list = bse_data["Security_Code"].tolist() if 'Security_Code' in bse_data.columns else []
+else:
+    st.session_state.bse_ISIN = []
+    st.session_state.bse_ycode = []
+    st.session_state.bsenames_list = []
+    st.session_state.bsecodes_list = []
 
 if 'nse_data' not in st.session_state:
     nse_df = pd.DataFrame()
