@@ -100,63 +100,63 @@ def format_financial_text(raw_text: str) -> str:
 
 def ami_notes_from_database1():
     for document in create_database.comp_metadata_col.find():
-        st.success(f"Trying to save notes for {document['code_names']}")
-        sentence = amibroker_notes_insights(metadata=document)
-        #create and write a text file        
-        for each1 in document['code_names']:
+        # Prioritize manual edits from the 'sentence' field if they exist
+        manual_sentence = document.get('metadata', {}).get('sentence', '')
+        
+        if manual_sentence:
+            sentence = manual_sentence
+        else:
+            # Otherwise generate the automated one
+            sentence = amibroker_notes_insights(metadata=document)
+            
+        # create and write a text file        
+        for each1 in document.get('code_names', []):
             with open(f"./amibroker/dbnotes/{each1}.txt", 'w') as f:
                 f.write(sentence)
     
 def amibroker_notes_insights(metadata):
-    # st.success(f"In amibroker_notes_insights FUNC, the Metadata is \n{metadata}")
-    code_names = metadata['code_names']
-    sentence = ""
-    # if len(metadata['code_names']) == 1 and metadata['code_names'][0].isdigit():
-        # sentence += f"CODE\tNAME\n"
-        # sentence += f"{metadata['code_names'][0]} \n" #{st.session_state.bsecodenum_codename[int(metadata['code_names'][0])]}"
-    # else:
-    sentence += f"CODES\t"
-    for each in metadata['code_names']: sentence += f"{each}\t"
+    # Header Info
+    code_names = metadata.get('code_names', [])
+    sentence = "CODES\t" + "\t".join([str(c) for c in code_names]) + "\t\n"
     
-    if 'comp_metadata' in metadata.keys():
-        sentence += f"\nFULLNAME : "
-        if 'comp_fullname' in metadata['comp_metadata'].keys():
-            sentence += f"{metadata['comp_metadata']['comp_fullname']}\n"
-        if 'sector' in metadata['comp_metadata'].keys():
-            sentence += f"SECTOR : {metadata['comp_metadata']['sector']}"
-        if 'industry' in metadata['comp_metadata'].keys():
-            sentence += f"\nINDUSTRY : {metadata['comp_metadata']['industry']}"
-    sentence += "\n"
-    if 'metadata' in metadata.keys():
-        if 'tags' in metadata['metadata'].keys():
-            for each in metadata['metadata']['tags'] : sentence += f"{each}\n"        
-        if 'YPNL_Statement' in metadata['metadata'].keys(): 
-            sentence += "\n***YEARLY***" + metadata['metadata']['YPNL_Statement'] + "\n"
-            #this gives a gud appealing txt file but not suitable for amibroker NOTES
-            # sentence += format_financial_text(raw_text=metadata['metadata']['YPNL_Statement'])
-            sentence += "\n"
-        if 'QPNL_Statement' in metadata['metadata'].keys():     
-            sentence += "\n***QUARTERLY***" + metadata['metadata']['QPNL_Statement'] + "\n"
-            # sentence += format_financial_text(raw_text=metadata['metadata']['QPNL_Statement'])
-            sentence += "\n"
-        if 'pros' in metadata['metadata'].keys():
-            sentence += "\n***PROS***\n"
-            for each in metadata['metadata']['pros']: sentence += f"{each}\n"
-        if 'cons' in metadata['metadata'].keys():
-            sentence += "\n***CONS***\n"
-            for each in metadata['metadata']['cons']: sentence += f"{each}\n"
-        if 'QPNL_tweet' in metadata['metadata'].keys():
-            sentence += f"\n{metadata['metadata']['QPNL_tweet']}\n"
-        if 'YPNL_tweet' in metadata['metadata'].keys():
-            sentence += f"\n{metadata['metadata']['YPNL_tweet']}\n"
-    message = sentence
-    # print(message)
-    # st.info(f"RECEIVED in amibroker.py {code_names}")
-    # for each in code_names:
-    #     each = str(each)
-    #     amibroker_txt = "./amibroker/notes/" + each.strip() + ".txt"
-    #     with open(amibroker_txt, "w") as f:
-    #         f.write(message)
+    comp_meta = metadata.get('comp_metadata', {})
+    sentence += f"FULLNAME : {comp_meta.get('comp_fullname', '')}\n"
+    sentence += f"SECTOR : {comp_meta.get('sector', '')}\n"
+    sentence += f"INDUSTRY : {comp_meta.get('industry', '')}\n\n"
+    
+    # Tags
+    inner_meta = metadata.get('metadata', {})
+    tags = inner_meta.get('tags', [])
+    if tags:
+        sentence += "\n".join(tags) + "\n\n"
+        
+    # Yearly Section
+    if 'YPNL_Statement' in inner_meta:
+        sentence += "***YEARLY***\n"
+        sentence += inner_meta['YPNL_Statement'] + "\n"
+        
+    # Quarterly Section
+    if 'QPNL_Statement' in inner_meta:
+        sentence += "\n***QUARTERLY***\n"
+        sentence += inner_meta['QPNL_Statement'] + "\n\n"
+        
+    # Pros & Cons
+    pros = inner_meta.get('pros', [])
+    if pros:
+        sentence += "***PROS***\n"
+        for p in pros: sentence += f"- {p}\n"
+        
+    cons = inner_meta.get('cons', [])
+    if cons:
+        sentence += "\n***CONS***\n"
+        for c in cons: sentence += f"- {c}\n"
+        
+    # Yearly/Quarterly Results Tweets
+    if 'YPNL_tweet' in inner_meta:
+        sentence += f"\nYearly \n {inner_meta['YPNL_tweet']}\n"
+    elif 'QPNL_tweet' in inner_meta:
+        sentence += f"\nQuarterly \n {inner_meta['QPNL_tweet']}\n"
+        
     return sentence
 
 def amibroker_notes_csv_yearly(code_names, yr_df):
