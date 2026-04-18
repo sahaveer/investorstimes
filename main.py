@@ -277,6 +277,10 @@ def write_tags_to_txt(metadata):
         st.error("Cannot update data from Screener: Webdriver is not available in this environment.")
         return
     
+    # Ensure codes are unique and stripped
+    seen = set()
+    codes = [x.strip().upper() for x in codes if x.strip().upper() not in seen and not seen.add(x.strip().upper())]
+    
     total = len(codes)
     progress_bar = st.progress(0)
     

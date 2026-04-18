@@ -515,8 +515,15 @@ def search_screener1(driver,code:str):
             st.success(f"{NSE_ifnot_BSE[-1]} among {codenames_list} is saved as \n{final_dict3}")
 
     # Consolidated - 
+    standalone_url = driver.current_url
     driver.get('https://www.screener.in/company/' + code + '/consolidated/')
     time.sleep(random.uniform(1, 5))
+    
+    # Check if we were redirected back to Standalone (common if no consolidated data exists)
+    if driver.current_url == standalone_url:
+        st.info(f"Skipping consolidated download for {code} (Same as Standalone)")
+        return
+
     # if download button is available
     if driver.find_elements(by=By.XPATH, value=download_excel_xpath):
                                                                             #get the code from the opened url
