@@ -188,6 +188,9 @@ if 'latest_quarterly_stocks' not in st.session_state or 'last_announced_quarter'
 #     return not_latest_quarterly_stocks
 
 col1_header, col2_header = st.columns([2,1])    
+# Placeholder for Scraper Status updates on main page
+main_status = st.empty()
+
 with col1_header:
     st.title(f"👇 {len(st.session_state['listed_stocks'])} we got {str(len(st.session_state.available_pickles))} available stocks")
     st.caption(f"{str(len(st.session_state.latest_quarterly_stocks))} stocks announced {st.session_state.last_announced_quarter} Quarterly Results;")
@@ -210,57 +213,52 @@ def write_tags_to_txt(metadata):
             # if metadata['code_names'][-1] not in variables.user_data[each]:
             #     with open(text_file, 'a+') as file:
             #         file.write(f"{metadata['code_names'][-1]}\n")
-            #         st.success(f"Updated {metadata['code_names'][-1]} in {text_file}")
-
-def save_screener1(codes,force):
+            #         st.success(f"Updated {metadata['code_names'][-1]} in {text_file}")def save_screener1(codes, force, status_placeholder=None):
     driver = processdriver.getedgedriver()
     if driver is None:
         st.error("Cannot update data from Screener: Webdriver is not available in this environment.")
         return
-    if force == False:
-        # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-        print("Entered save_screener1 FUNC")
-        i=0
-        for code in codes:
-            i+=1
-            print(f"Trying to get details of {code} in saves_screener1 Func")
-            #lets search for code in create_database.comp_metadata_col database by countdocuments
-            last_quarter_announced = ""
-            st.success(f'We have {create_database.comp_metadata_col.count_documents({"code_names": code})} documents saved in DB')
-            
-            if create_database.comp_metadata_col.count_documents({"code_names": code}):
-                doc_is = create_database.comp_metadata_col.find_one({"code_names":code})
-                if doc_is is not None:
-                    # st.success(doc_is)
-                    if "CONSOLIDATED" in doc_is.keys():
-                        # get the last key value saved in the dict of doc_is["CONSOLIDATED"]['QUARTERLY']
-                        listed_dict_keys = list(doc_is['CONSOLIDATED']['QUARTERLY'])
-                        if len(listed_dict_keys) > 0:
-                            last_quarter_announced = listed_dict_keys[-1]
-                    elif "STANDALONE" in doc_is.keys():
-                        # get the last key value saved in the dict of doc_is["CONSOLIDATED"]['QUARTERLY']
-                        listed_dict_keys = list(doc_is['STANDALONE']['QUARTERLY'])
-                        if len(listed_dict_keys)>0:
-                            last_quarter_announced = listed_dict_keys[-1]
-                    else:
-                        screenerpage.search_screener1(driver,code)
-                    st.success(f"last announced quarter is {last_quarter_announced} and the latest quarter fed by user in recent_quarter_txt is {recent_quarter_txt}")
-                    # st.success(type(last_quarter_announced))
-                    if (last_quarter_announced != recent_quarter_txt ):# and (datetime.datetime.now() - doc_is['timestamp']).days>5:
-                        screenerpage.search_screener1(driver,code)
-                    else:
-                        st.success(f"We already got LATEST RESULTS for {code} : {last_quarter_announced}")
-                else:
-                    screenerpage.search_screener1(driver,code)
-            else:
-                screenerpage.search_screener1(driver,code)
-            # lets sleep for random of 1-10 sec when i is added 10 times
-    else:
-        for code in codes:
-            st.success(code)
-            screenerpage.search_screener1(driver,code)
+    
+    total = len(codes)
+    progress_bar = st.progress(0)
+    
+    print("Entered save_screener1 FUNC")
+    for i, code in enumerate(codes):
+        # Update UI Status
+        msg = f"🔍 Processing {i+1}/{total}: **{code}**"
+        if status_placeholder:
+            status_placeholder.info(msg)
+        else:
+            st.write(msg)
+        
+        progress_bar.progress((i + 1) / total)
 
+        if force == False:
+            print(f"Trying to check if {code} exists in DB")
+            if create_database.comp_metadata_col.count_documents({"code_names": code}):
+                doc_is = create_database.comp_metadata_col.find_one({"code_names": code})
+                last_q = ""
+                if doc_is:
+                    if "CONSOLIDATED" in doc_is:
+                        keys = list(doc_is['CONSOLIDATED'].get('QUARTERLY', {}))
+                        if keys: last_q = keys[-1]
+                    elif "STANDALONE" in doc_is:
+                        keys = list(doc_is['STANDALONE'].get('QUARTERLY', {}))
+                        if keys: last_q = keys[-1]
+                    
+                    if last_q == recent_quarter_txt:
+                        st.success(f"✅ {code} already has latest results ({last_q})")
+                        continue
+            
+        # Perform Scrape
+        screenerpage.search_screener1(driver, code)
+        time.sleep(1) # Small delay between requests
+        
+    progress_bar.empty()
+    if status_placeholder:
+        status_placeholder.empty()
     print("Exiting save_screener1 FUNC")
+)
 
 
 # Parse the URL parameters to get the selected stock
@@ -354,7 +352,7 @@ with st.sidebar:
 
                 if all_codes:
                     st.info(f"Starting scrape for {len(all_codes)} unique stocks...")
-                    save_screener1(all_codes, force=True)
+                    save_screener1(all_codes, force=True, status_placeholder=main_status)
                     st.success(f"Targeted scrape for {len(all_codes)} stocks completed!")
                 else:
                     st.warning("No valid stock codes found in input or file.")
@@ -490,7 +488,7 @@ if selected:
     try:
         company_code, comp_Name = nse_bse_search.get_code_name(selected)
     except Exception as TypeError:
-        save_screener1([selected],True)
+        save_screener1([selected], True, status_placeholder=main_status)
         try:
             company_code, comp_Name = nse_bse_search.get_code_name(selected)
         except Exception as TypeError:
