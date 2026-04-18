@@ -38,14 +38,15 @@ class Config:
 
     @staticmethod
     def get_telegram_config():
-        """Returns (token, chat_name) for Telegram"""
+        """Returns (token, chat_name, scraper_chat) for Telegram"""
         try:
             token = st.secrets["TELEGRAM_TOKEN"]
             chat = st.secrets["TELEGRAM_CHAT"]
-            return token, chat
+            scraper_chat = st.secrets.get("TELEGRAM_SCRAPER_CHAT", chat)
+            return token, chat, scraper_chat
         except KeyError as e:
             st.error(f"Missing Secret: {e}. Please add it to secrets.toml")
-            return "", ""
+            return "", "", ""
 
 # Helper functions for backward compatibility
 def get_mongodb_uri():

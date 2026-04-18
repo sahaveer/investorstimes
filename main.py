@@ -182,12 +182,25 @@ if 'all_stock_metadata' not in st.session_state or st.sidebar.button("🔄 Refre
         time.sleep(1)
         st.rerun()
 
-if 'latest_quarterly_stocks' not in st.session_state or 'last_announced_quarter' not in st.session_state or  'available_pickles' not in st.session_state or 'no_of_stocks_not_latest' not in st.session_state:
+# Check if ALL required keys are in session state
+required_keys = ['all_stock_metadata', 'latest_quarterly_stocks', 'available_stocks', 'available_pickles']
+if any(key not in st.session_state for key in required_keys):
     start = time.perf_counter()
-    variables.metadata,st.session_state.latest_quarterly_stocks,st.session_state.last_announced_quarter,st.session_state.available_pickles,st.session_state.no_of_stocks_not_latest = create_database.get_metadata(recent_quarter_txt,last_quarter_text)
+    all_meta, latest_q, last_q_text, avail_stocks, not_latest = create_database.get_metadata(recent_quarter_txt, last_quarter_text)
+    
+    # Sync everything to session state
+    st.session_state.all_stock_metadata = all_meta
+    st.session_state.latest_quarterly_stocks = latest_q
+    st.session_state.last_announced_quarter = last_q_text
+    st.session_state.available_stocks = avail_stocks
+    st.session_state.available_pickles = avail_stocks # Sync for legacy compatibility
+    st.session_state.no_of_stocks_not_latest = not_latest
+    
+    # Sync to variables for legacy functions
+    variables.metadata = all_meta
+    
     end = time.perf_counter()
-    elapsed = end - start
-    print(f"Time taken to fetch metadata: {elapsed:.2f}s")
+    print(f"Metadata loaded in {end - start:0.4f} seconds")
 
 
 
@@ -221,8 +234,30 @@ with col1_header:
                                                                                                                         # Function to save the dictionary to a file
 
 # Telegram Config
-tg_token, tg_chat = config.Config.get_telegram_config()
+tg_token, tg_chat, tg_scraper_chat = config.Config.get_telegram_config()
 bot = Bot(token=tg_token)
+
+with st.sidebar:
+    st.divider()
+    if st.button("🔔 Test Telegram Connections"):
+        # Test 1: Public Chat
+        try:
+            target1 = tg_chat if tg_chat.startswith('-') or tg_chat.isdigit() else f"@{tg_chat}"
+            bot.send_message(chat_id=target1, text="🚀 *Public Chat Test:* Successful!", parse_mode='Markdown')
+            st.success(f"✅ Sent to Public Chat ({tg_chat})")
+        except Exception as e:
+            st.error(f"❌ Public Chat Error: {e}")
+
+        # Test 2: Scraper Chat
+        try:
+            target2 = tg_scraper_chat if tg_scraper_chat.startswith('-') or tg_scraper_chat.isdigit() else f"@{tg_scraper_chat}"
+            bot.send_message(chat_id=target2, text="🛠️ *Scraper Chat Test:* Successful!", parse_mode='Markdown')
+            st.success(f"✅ Sent to Scraper Chat ({tg_scraper_chat})")
+        except Exception as e:
+            st.error(f"❌ Scraper Chat Error: {e}")
+            if "Jarvispostingbot" in str(tg_scraper_chat):
+                st.warning("Tip: A bot cannot message itself. Ensure this is a Group/Channel or your User ID.")
+    st.divider()
 
 check_when_last_checked = datetime.timedelta(days=4)
 # send_to_telegram = st.checkbox("Send To Telegram", value=False)
@@ -249,9 +284,40 @@ def write_tags_to_txt(metadata):
     for i, code in enumerate(codes):
         # Update UI Status
         msg = f"🔍 Processing {i+1}/{total}: **{code}**"
+        
+        # Send 'Trying' Notification (Local Only)
+        if not config.is_cloud():
+            try:
+                # Use scraper-specific chat if defined
+                target = tg_scraper_chat if tg_scraper_chat.startswith('-') or tg_scraper_chat.isdigit() else f"@{tg_scraper_chat}"
+                bot.send_message(chat_id=target, 
+                                 text=f"🔄 *Trying {code}...*", 
+                                 parse_mode='Markdown')
+            except: pass
+
+        # Perform Scrape
+        screenerpage.search_screener1(driver, code)
+        time.sleep(1) 
+        
+        # After successful scrape, get latest quarter for notification
+        latest_q = "Unknown"
+        doc = create_database.comp_metadata_col.find_one({"code_names": code.upper()})
+        if doc:
+            latest_q = doc.get('metadata', {}).get('recent_quarter', "Not Found")
+        
+        # Send 'Result' Notification (Local Only)
+        if not config.is_cloud():
+            try:
+                target = tg_scraper_chat if tg_scraper_chat.startswith('-') or tg_scraper_chat.isdigit() else f"@{tg_scraper_chat}"
+                notification = f"✅ *{code}:* Got results for {latest_q}!"
+                bot.send_message(chat_id=target, 
+                                 text=notification, 
+                                 parse_mode='Markdown')
+            except Exception as e:
+                print(f"Failed to send Telegram update for {code}: {e}")
+            
         if status_placeholder:
-            status_placeholder.info(msg)
-        else:
+            status_placeholder.success(f"✅ {code} ({latest_q}) updated and notified!")
             st.write(msg)
         
         progress_bar.progress((i + 1) / total)
