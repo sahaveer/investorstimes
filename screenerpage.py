@@ -59,6 +59,20 @@ def recently_downloaded_file(path_download, type_file):
     send_file = last_created_file.replace("\\","/")
     return send_file
 
+def is_404(driver):
+    """Check if the current page is a 404 error page."""
+    try:
+        # Screener usually has "Page not found" in title or h1 for 404s
+        if "Page not found" in driver.title or "404" in driver.title:
+            return True
+        h1_elements = driver.find_elements(by=By.TAG_NAME, value="h1")
+        for h1 in h1_elements:
+            if "Page not found" in h1.text or "404" in h1.text:
+                return True
+    except:
+        pass
+    return False
+
 def login_screener(driver):
     driver.get('https://www.screener.in/login/')
     #if driver.find_elements_by_id("id_username"):
@@ -222,7 +236,13 @@ def scrape_all_listed(available_in_db:list)->None:
         
         try:
             driver.get('https://www.screener.in/company/' + code)
-            time.sleep(random.uniform(1, 5))
+            time.sleep(random.uniform(1, 3))
+            
+            if is_404(driver):
+                st.warning(f"🚫 {code} returned 404. Removing from listed list.")
+                create_database.add_to_avoid_list(code)
+                continue
+
             # time.sleep(2)
             # st.info(f"{variables.metadata['no_download_link']}")
             if driver.find_elements(by=By.XPATH, value=download_excel_xpath):
@@ -359,6 +379,7 @@ def search_screener1(driver,code:str):
     NSE_ifnot_BSE = []
     consolidated_available = False
     standalone_available = False
+    any_download_found = False
     # LOGIN SCREENER SITE
     if driver.find_elements(by=By.XPATH, value='/html/body/nav/div[1]/div/div[1]/div/div[3]/div[1]'):
         pass
@@ -374,7 +395,12 @@ def search_screener1(driver,code:str):
     
     # STANDALONE RESULTS
     driver.get('https://www.screener.in/company/' + code)
-    time.sleep(random.uniform(1, 5))
+    time.sleep(random.uniform(1, 3))
+    
+    if is_404(driver):
+        st.error(f"404 Error: Stock {code} not found on Screener.")
+        raise ValueError(f"404 Error for {code}")
+
     # st.info(f"{variables.metadata['no_download_link']}")
     if driver.find_elements(by=By.XPATH, value=download_excel_xpath):
         parsed = urlparse(driver.current_url)
@@ -387,6 +413,7 @@ def search_screener1(driver,code:str):
             #scrape few data from screener site 
             comp_dict = scrape(driver)
             comp_dict['standalone_available'] = True
+            any_download_found = True
             driver.find_element(by=By.XPATH, value=download_excel_xpath).click()
             
             # Wait for file to appear (polling for 10 seconds)
@@ -537,6 +564,7 @@ def search_screener1(driver,code:str):
                                                         #scrape few data like Industry Sector Company Fullname NSEname BSEname from screener site 
             comp_dict = scrape(driver)              #returns scraped 
             comp_dict['consolidated_available'] = True
+            any_download_found = True
 
             # excel button, click it                
             driver.find_element(by=By.XPATH, value=download_excel_xpath).click()
@@ -651,6 +679,10 @@ def search_screener1(driver,code:str):
                 # st.success(f"Saved entire Metadata in Database as {NSE_ifnot_BSE[-1]}")
             except Exception as e:
                 st.error(f"Error: {e}")
+    
+    if not any_download_found:
+        st.warning(f"⚠️ No download button available for {code}. This script might be an ETF or illiquid stock.")
+        raise ValueError(f"No Data Available for {code}")
     else:
         st.error("No Data Available for Consolidated")        #lets save v few data for such stocks
         comp_dict = scrape(driver)
@@ -677,13 +709,10 @@ def main():
     if driver is None:
         st.error("Scraping is not available in this environment.")
         return
-    # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+    # 2. Scraper Configuration
     codes = []
-    #gets codes from updated alllisted.txt
-    alllisted_list = []
-    with open('./alllisted.txt','r') as read_alllisted:
-        for eachline in read_alllisted:
-            alllisted_list.append(eachline.strip())
+    # Fetch master list from MongoDB (Avoids local file dependency)
+    alllisted_list = create_database.get_all_listed_stocks()
 
     if st.button("SCAN ALL LISTED STOCKS"):
         codes = alllisted_list

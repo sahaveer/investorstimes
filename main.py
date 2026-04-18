@@ -289,27 +289,77 @@ def write_tags_to_txt(metadata):
         # Update UI Status
         msg = f"🔍 Processing {i+1}/{total}: **{code}**"
         
-        # Send 'Trying' Notification (Local Only)
+        # 1. Skip if not forced and data is fresh
+        if force == False:
+            print(f"Trying to check if {code} exists in DB")
+            doc_is = create_database.comp_metadata_col.find_one({"code_names": code.upper()})
+            if doc_is:
+                last_q = ""
+                if "CONSOLIDATED" in doc_is:
+                    keys = list(doc_is['CONSOLIDATED'].get('QUARTERLY', {}))
+                    if keys: last_q = keys[-1]
+                elif "STANDALONE" in doc_is:
+                    keys = list(doc_is['STANDALONE'].get('QUARTERLY', {}))
+                    if keys: last_q = keys[-1]
+                
+                if last_q == recent_quarter_txt:
+                    # Add a 6-hour cooldown check
+                    last_updated = doc_is.get('timestamp')
+                    if last_updated and (datetime.datetime.now() - last_updated).total_seconds() < 6 * 3600:
+                        st.success(f"✅ {code} is fresh (Updated {last_updated.strftime('%H:%M')}). Skipping.")
+                        progress_bar.progress((i + 1) / total)
+                        continue
+
+        # 2. Send 'Trying' Notification (Local Only)
         if not config.is_cloud():
             try:
-                # Use scraper-specific chat if defined
                 target = tg_scraper_chat if tg_scraper_chat.startswith('-') or tg_scraper_chat.isdigit() else f"@{tg_scraper_chat}"
                 bot.send_message(chat_id=target, 
                                  text=f"🔄 *Trying {code}...*", 
                                  parse_mode='Markdown')
             except: pass
 
-        # Perform Scrape
-        screenerpage.search_screener1(driver, code)
+        # 3. Perform Scrape
+        try:
+            screenerpage.search_screener1(driver, code)
+        except ValueError as e:
+            err_msg = str(e)
+            if "404 Error" in err_msg or "No Data Available" in err_msg:
+                reason = "returned a 404" if "404 Error" in err_msg else "has no download button (ETF/Other)"
+                st.warning(f"🚫 {code} {reason}. Adding to avoid list.")
+                create_database.add_to_avoid_list(code)
+                # Remove from session state to prevent further attempts in this session
+                if code in st.session_state.get('listed_stocks', []):
+                    st.session_state['listed_stocks'].remove(code)
+                
+                # Notify via Telegram
+                if not config.is_cloud():
+                    try:
+                        target = tg_scraper_chat if tg_scraper_chat.startswith('-') or tg_scraper_chat.isdigit() else f"@{tg_scraper_chat}"
+                        bot.send_message(chat_id=target, 
+                                         text=f"🚫 *{code}:* {reason.capitalize()}! Added to avoid list and removed from All Listed.", 
+                                         parse_mode='Markdown')
+                    except: pass
+                progress_bar.progress((i + 1) / total)
+                continue
+            else:
+                st.error(f"Error scraping {code}: {e}")
+                progress_bar.progress((i + 1) / total)
+                continue
+        except Exception as e:
+            st.error(f"Unexpected error scraping {code}: {e}")
+            progress_bar.progress((i + 1) / total)
+            continue
+
         time.sleep(1) 
         
-        # After successful scrape, get latest quarter for notification
+        # 4. After successful scrape, get latest quarter for notification
         latest_q = "Unknown"
         doc = create_database.comp_metadata_col.find_one({"code_names": code.upper()})
         if doc:
             latest_q = doc.get('metadata', {}).get('recent_quarter', "Not Found")
         
-        # Send 'Result' Notification (Local Only)
+        # 5. Send 'Result' Notification (Local Only)
         if not config.is_cloud():
             try:
                 target = tg_scraper_chat if tg_scraper_chat.startswith('-') or tg_scraper_chat.isdigit() else f"@{tg_scraper_chat}"
@@ -325,32 +375,6 @@ def write_tags_to_txt(metadata):
             st.write(msg)
         
         progress_bar.progress((i + 1) / total)
-
-        if force == False:
-            print(f"Trying to check if {code} exists in DB")
-            if create_database.comp_metadata_col.count_documents({"code_names": code}):
-                doc_is = create_database.comp_metadata_col.find_one({"code_names": code})
-                last_q = ""
-                if doc_is:
-                    if "CONSOLIDATED" in doc_is:
-                        keys = list(doc_is['CONSOLIDATED'].get('QUARTERLY', {}))
-                        if keys: last_q = keys[-1]
-                    elif "STANDALONE" in doc_is:
-                        keys = list(doc_is['STANDALONE'].get('QUARTERLY', {}))
-                        if keys: last_q = keys[-1]
-                    
-                    if last_q == recent_quarter_txt:
-                        # Add a 6-hour cooldown check
-                        last_updated = doc_is.get('timestamp')
-                        if last_updated and (datetime.datetime.now() - last_updated).total_seconds() < 6 * 3600:
-                            st.success(f"✅ {code} is fresh (Updated {last_updated.strftime('%H:%M')}). Skipping.")
-                            continue
-                        else:
-                            st.success(f"✅ {code} has latest results ({last_q}) but checking for minor updates.")
-            
-        # Perform Scrape
-        screenerpage.search_screener1(driver, code)
-        time.sleep(1) # Small delay between requests
         
     progress_bar.empty()
     if status_placeholder:

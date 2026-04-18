@@ -28,6 +28,13 @@ if config.is_cloud():
             nse_df = pd.read_csv(nse_file)
             if create_database.save_reference_data('nse_bhav', nse_df):
                 st.success("NSE Data Updated!")
+        
+        st.subheader("BSE Names Update")
+        sccode_file = st.file_uploader("Upload sccodenames.CSV", type=['csv'], key="cloud_sccode")
+        if sccode_file:
+            sccode_df = pd.read_csv(sccode_file)
+            if create_database.save_reference_data('sccodenames', sccode_df):
+                st.success("BSE Names Updated!")
 else:
     st.info("💻 Running in Local/Admin Mode")
     
@@ -52,12 +59,14 @@ else:
         if uploaded_master:
             if st.button("⬆️ Upload & Sync", use_container_width=True, type="primary"):
                 content = uploaded_master.read().decode("utf-8")
-                # Parse and seed
-                stocks = [line.strip() for line in content.splitlines() if line.strip()]
-                # We can use a modified version of seed_stocks_from_file or just update DB directly
+                # Parse, sanitize, and filter
+                raw_stocks = [line.strip().upper() for line in content.splitlines() if line.strip()]
+                avoid_list = create_database.get_avoid_list()
+                stocks = [s for s in raw_stocks if s not in avoid_list]
+                
                 create_database.stocks_list_col.update_one({"_id": "all_listed"}, {"$set": {"stocks": stocks}}, upsert=True)
                 st.session_state['listed_stocks'] = stocks
-                st.success(f"Uploaded and Synced {len(stocks)} stocks!")
+                st.success(f"Uploaded and Synced {len(stocks)} stocks! (Filtered out {len(raw_stocks) - len(stocks)} avoided stocks)")
                 time.sleep(1)
                 st.rerun()
 
@@ -96,5 +105,21 @@ else:
         else:
             st.warning("No symbols found.")
     
+    st.divider()
+    
+    # 3. Avoid List Management
+    st.subheader("🚫 Avoid List (Invalid/No-Data Stocks)")
+    avoid_list = create_database.get_avoid_list()
+    if avoid_list:
+        st.info(f"The following {len(avoid_list)} stocks are being skipped because they return 404 errors or have no fundamental data (e.g., ETFs).")
+        st.write(", ".join(avoid_list))
+        if st.button("🗑️ Clear Avoid List", use_container_width=True):
+            create_database.stocks_list_col.update_one({"_id": "avoid_list"}, {"$set": {"stocks": []}})
+            st.success("Avoid list cleared!")
+            time.sleep(1)
+            st.rerun()
+    else:
+        st.success("Avoid list is empty. No stocks are currently blacklisted.")
+
     st.divider()
     st.session_state.path_download = st.text_input("Local Download Path", value='C:/Users/Sahaveer/Downloads/')

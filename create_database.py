@@ -78,23 +78,61 @@ def get_reference_data(key):
 stocks_list_col = db2["StocksList"]
 
 def get_all_listed_stocks():
-    """Fetch all listed stocks from MongoDB."""
+    """Fetch all listed stocks from MongoDB, excluding the avoid list."""
     try:
         doc = stocks_list_col.find_one({"_id": "all_listed"})
         if doc:
-            return doc.get("stocks", [])
+            stocks = doc.get("stocks", [])
+            avoid_list = get_avoid_list()
+            return [s for s in stocks if s not in avoid_list]
     except Exception as e:
         print(f"Error fetching stocks from DB: {e}")
     return []
 
 def seed_stocks_from_file(file_path):
-    """Seed the StocksList collection from a local text file."""
+    """Seed the StocksList collection from a local text file, excluding avoid list."""
     if not os.path.exists(file_path):
         return
     with open(file_path, 'r') as f:
-        stocks = [line.strip() for line in f.readlines()]
-    stocks_list_col.update_one({"_id": "all_listed"}, {"$set": {"stocks": stocks}}, upsert=True)
-    return stocks
+        stocks = [line.strip().upper() for line in f.readlines() if line.strip()]
+    
+    # Filter out avoided stocks
+    avoid_list = get_avoid_list()
+    final_stocks = [s for s in stocks if s not in avoid_list]
+    
+    stocks_list_col.update_one({"_id": "all_listed"}, {"$set": {"stocks": final_stocks}}, upsert=True)
+    return final_stocks
+
+def get_avoid_list():
+    """Fetch the list of stocks to avoid (e.g., those that return 404)."""
+    try:
+        doc = stocks_list_col.find_one({"_id": "avoid_list"})
+        if doc:
+            return doc.get("stocks", [])
+    except Exception as e:
+        print(f"Error fetching avoid list from DB: {e}")
+    return []
+
+def add_to_avoid_list(code):
+    """Add a stock code to the avoid list and remove it from the all_listed list."""
+    try:
+        code = code.upper()
+        # Add to avoid list
+        stocks_list_col.update_one(
+            {"_id": "avoid_list"},
+            {"$addToSet": {"stocks": code}},
+            upsert=True
+        )
+        
+        # Remove from all_listed
+        stocks_list_col.update_one(
+            {"_id": "all_listed"},
+            {"$pull": {"stocks": code}}
+        )
+        return True
+    except Exception as e:
+        print(f"Error updating avoid list for {code}: {e}")
+        return False
 def save_insights(code, insights):
     """Save user insights for a stock in CompMetadata."""
     try:

@@ -8,19 +8,16 @@ import screenerpage
 import processdriver
 
 if 'bse_data' not in st.session_state:
-    bse_df = pd.DataFrame()
-    # Try local file first (for admin/local)
-    if os.path.exists('./Select.csv'):
+    # Fetch from MongoDB ReferenceData first
+    bse_df = create_database.get_reference_data('bse_select')
+    
+    # Try local file as fallback if DB is empty
+    if bse_df.empty and os.path.exists('./Select.csv'):
         bse_df = pd.read_csv('./Select.csv', header=0, index_col=False)
         # Only try to save if it's not giant
         if len(bse_df) < 50000:
             create_database.save_reference_data('bse_select', bse_df)
-    else:
-        # Fetch from MongoDB ReferenceData
-        bse_df = create_database.get_reference_data('bse_select')
-        
-    # If still empty, we can build a minimal mapping from CompMetadata if needed
-    # but for now we'll just store whatever we found
+    
     st.session_state.bse_data = bse_df
 
 if not st.session_state.bse_data.empty:
@@ -39,12 +36,14 @@ else:
     st.session_state.bsecodes_list = []
 
 if 'nse_data' not in st.session_state:
-    nse_df = pd.DataFrame()
-    if os.path.exists('./cm21JUN2024bhav.csv'):
+    # Fetch from MongoDB first
+    nse_df = create_database.get_reference_data('nse_bhav')
+    
+    # Fallback to local
+    if nse_df.empty and os.path.exists('./cm21JUN2024bhav.csv'):
         nse_df = pd.read_csv('./cm21JUN2024bhav.csv')
         create_database.save_reference_data('nse_bhav', nse_df)
-    else:
-        nse_df = create_database.get_reference_data('nse_bhav')
+        
     st.session_state.nse_data = nse_df
 
 if not st.session_state.nse_data.empty:
@@ -132,8 +131,6 @@ def dict_from_bse_csv(driver):
             for each in not_in_yahoo:
                 txt.write(each + '\n')
 
-
-
     # Convert the selected rows to a DataFrame
     #selected_df = pd.DataFrame(selected_rows)
     #st.dataframe(selected_df)
@@ -167,13 +164,14 @@ def bsecodenum_bsecodename():
     return bsecodenum_codename,bsecodename_codenum,bsecodenum_fullname,bsecodename_fullname,bsefullname_codenum,bsefullname_codename
 
 def bseSCNAME_SCCODE():
-    # Attempt local read, then fallback to MongoDB ReferenceData
-    if os.path.exists('sccodenames.CSV'):
+    # Attempt MongoDB ReferenceData first
+    bse_csv = create_database.get_reference_data('sccodenames')
+    
+    # Fallback to local
+    if bse_csv.empty and os.path.exists('sccodenames.CSV'):
         bse_csv = pd.read_csv('sccodenames.CSV',header=0,index_col=False,usecols=["SC_CODE","SC_NAME"])
-        # Save to MongoDB for cloud users while we're at it
+        # Save to MongoDB for future use
         create_database.save_reference_data('sccodenames', bse_csv)
-    else:
-        bse_csv = create_database.get_reference_data('sccodenames')
     
     if bse_csv.empty:
         return {}, {}
