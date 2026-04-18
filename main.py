@@ -408,14 +408,37 @@ for each in watchlist:
         industry_dict[get_this_watchlist_db].append(each_stock)
 
 # WATCHLIST OPTIONS
+# SIDEBAR - WATCHLIST & SELECTION
 with st.sidebar:
     chose_genre = list(industry_dict.keys())
     genre = st.selectbox("Watchlist:", chose_genre, index=chose_genre.index("All Listed") if "All Listed" in chose_genre else 0)
+    
+    show_list_as = industry_dict[genre]
+    selected = st.selectbox("Select Stock", show_list_as, index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
+    
+    if selected:
+        # Show Selected Stock ID / Code
+        st.subheader(f"🆔 {selected}")
+    
+    st.divider()
+    
+    # Quick Links to Screener/Exchange
+    st.markdown("### 🔗 Quick Links")
+    col_l1, col_l2 = st.columns(2)
+    # These will be populated later once we have metadata, but we can pre-define them or move the logic up
+    # For now, let's keep them here and use the variables from metadata later if needed, 
+    # but the user explicitly asked for "NSE SCREENER" and "BSE SCREENER" here.
+    with col_l1:
+        st.link_button("🌐 NSE", f"https://www.nseindia.com/get-quote/equity/{selected}", use_container_width=True)
+    with col_l2:
+        st.link_button("🌐 BSE", f"https://www.bseindia.com/stock-share-price/{selected}/{selected}/", use_container_width=True)
+    
+    st.divider()
+    # Fundamentals Menu will be here too
+    sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_menu)
+    
+    st.divider()
     st.session_state.path_download = st.text_input("Local Download Path", value='C:/Users/Sahaveer/Downloads/', help="Path where your browser saves Screener Excel files.")
-
-funda_tech_options = ["Funda_Chart", 'Tech_Chart']#, 'Analyse Watchlist']
-show_list_as = industry_dict[genre]
-selected = st.sidebar.selectbox("Select Stock", show_list_as, index=show_list_as.index(selected_stock) if selected_stock in show_list_as else 0)
         
 
 # '''OLD METHOD OF SELCTING SELECTED'''
@@ -798,8 +821,8 @@ if selected:
             options = st.multiselect("TAGS", ["Favourite"] + tags, tags)
             
 
-            with st.sidebar:  # with col2:
-                sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_menu)
+            # Fundamentals menu is now in sidebar
+            pass
                 # st.title(comp_Name)
 
             # Fetch manual insights from metadata using the 'sentence' field
@@ -812,7 +835,7 @@ if selected:
                 st.subheader("📝 Stock Insights")
                 # Use manual sentence as the primary value, fallback to automated if empty
                 display_val = manual_sentence if manual_sentence else auto_summary
-                textarea_is = st.text_area(label="Your Analysis / Notes", value=display_val, height=350, key="InsightsYQ")
+                textarea_is = st.text_area(label="Your Analysis / Notes", value=display_val, height=350, key=f"Insights_{selected}")
                 
                 col_s1, col_s2 = st.columns(2)
                 with col_s1:
@@ -827,7 +850,7 @@ if selected:
                             st.error("Failed to save insights.")
                 with col_s2:
                     if st.button("📊 Load Auto Summary", use_container_width=True):
-                        st.session_state["InsightsYQ"] = auto_summary
+                        st.session_state[f"Insights_{selected}"] = auto_summary
                         st.rerun()
 
                 # file_like = io.StringIO(sentence)
