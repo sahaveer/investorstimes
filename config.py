@@ -89,9 +89,13 @@ class Config:
             return st.secrets[key]
         return None
 
+    # Pre-calculate at class level for easy access
+    recent_quarter_txt, last_quarter_text = get_recent_quarters()
+
 # Helper functions for backward compatibility
 def get_mongodb_uri():
     return Config.get_mongodb_uri()
 
-# Pre-calculate quarters
-recent_quarter_txt, last_quarter_text = get_recent_quarters()
+# Module-level variables for backward compatibility
+recent_quarter_txt = Config.recent_quarter_txt
+last_quarter_text = Config.last_quarter_text

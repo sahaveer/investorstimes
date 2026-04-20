@@ -133,8 +133,14 @@ stocks_dict = {}
 timedelta_Q_days = pd.Timedelta(days=0)
 timedelta_Q_days1 = pd.Timedelta(days=120)
 
-recent_quarter_txt = config.recent_quarter_txt
-last_quarter_text = config.last_quarter_text
+# Ensure quarters are available (robustly handles import order issues)
+try:
+    recent_quarter_txt = config.recent_quarter_txt
+    last_quarter_text = config.last_quarter_text
+except AttributeError:
+    # Fallback to direct function call if module-level vars are missing
+    recent_quarter_txt, last_quarter_text = config.get_recent_quarters()
+
 recent_reqd_quarter = datetime.datetime.strptime(recent_quarter_txt, "%Y-%m-%d")
 
 # Metadata and Stock Lists are now fetched from MongoDB

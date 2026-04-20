@@ -47,7 +47,10 @@ def save_screener1(codes, force, status_placeholder=None):
     
     tg_token, tg_chat, tg_scraper_chat = config.Config.get_telegram_config()
     bot = config.Config.get_telegram_bot()
-    recent_quarter_txt = config.recent_quarter_txt
+    try:
+        recent_quarter_txt = config.recent_quarter_txt
+    except AttributeError:
+        recent_quarter_txt, _ = config.get_recent_quarters()
     
     # Ensure codes are unique and stripped
     seen = set()
