@@ -438,7 +438,7 @@ with st.sidebar:
     sub_choose = st.selectbox("Fundamentals:", fundamentals.funda_menu)
     
     st.divider()
-    st.session_state.path_download = st.text_input("Local Download Path", value='C:/Users/Sahaveer/Downloads/', help="Path where your browser saves Screener Excel files.")
+    # st.session_state.path_download = st.text_input("Local Download Path", value='C:/Users/Sahaveer/Downloads/', help="Path where your browser saves Screener Excel files.")
 
 funda_tech_options = ["Funda_Chart", 'Tech_Chart']
         

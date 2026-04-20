@@ -39,13 +39,24 @@ industry_xpath = "/html/body/main/section[3]/div[1]/div[1]/p[1]/a[4]"
 
 global driver
 
-with st.sidebar:
-    # Use path from session state (set in Admin Portal) or default
-    path_download = st.session_state.get('path_download', 'C:/Users/Sahaveer/Downloads/')
-    path_bhav = './bhavcopy/'
-    path_csv = './bhavcopy/csv/'
-    path_to_save = os.path.join(path_download, "Results/")
-    type_file = "*.xlsx"
+# Handle download paths dynamically
+if config.is_cloud():
+    path_download = './downloads/'
+    if not os.path.exists(path_download):
+        os.makedirs(path_download)
+    # Hide the sidebar path setting on cloud as it's managed internally
+else:
+    with st.sidebar:
+        # Use path from session state (set in Admin Portal) or default
+        path_download = st.session_state.get('path_download', 'C:/Users/Sahaveer/Downloads/')
+
+path_bhav = './bhavcopy/'
+path_csv = './bhavcopy/csv/'
+path_to_save = os.path.join(path_download, "Results/")
+if not os.path.exists(path_to_save):
+    try: os.makedirs(path_to_save)
+    except: pass
+type_file = "*.xlsx"
 
 def recently_downloaded_file(path_download, type_file):
     sendfile = ''
