@@ -133,26 +133,8 @@ stocks_dict = {}
 timedelta_Q_days = pd.Timedelta(days=0)
 timedelta_Q_days1 = pd.Timedelta(days=120)
 
-def get_recent_quarters():
-    now = datetime.datetime.now()
-    year = now.year
-    month = now.month
-    
-    if 1 <= month <= 3: # JFM -> Latest is Dec (Prev Year)
-        q1 = f"{year-1}-12-31"
-        q2 = f"{year-1}-09-30"
-    elif 4 <= month <= 6: # AMJ -> Latest is Mar (Current Year)
-        q1 = f"{year}-03-31"
-        q2 = f"{year-1}-12-31"
-    elif 7 <= month <= 9: # JAS -> Latest is Jun (Current Year)
-        q1 = f"{year}-06-30"
-        q2 = f"{year}-03-31"
-    else: # OND -> Latest is Sep (Current Year)
-        q1 = f"{year}-09-30"
-        q2 = f"{year}-06-30"
-    return q1, q2
-
-recent_quarter_txt, last_quarter_text = get_recent_quarters()
+recent_quarter_txt = config.recent_quarter_txt
+last_quarter_text = config.last_quarter_text
 recent_reqd_quarter = datetime.datetime.strptime(recent_quarter_txt, "%Y-%m-%d")
 
 # Metadata and Stock Lists are now fetched from MongoDB
@@ -168,39 +150,37 @@ if 'listed_stocks' not in st.session_state:
             stocks = []
     st.session_state['listed_stocks'] = stocks
 
-# Initialize metadata in session state
-if 'all_stock_metadata' not in st.session_state or st.sidebar.button("🔄 Refresh Data Cache"):
-    st.cache_resource.clear() # Clear the @st.cache_resource cache
-    with st.spinner("Loading Stock Metadata..."):
+# Consolidate Session State Initialization
+required_keys = ['all_stock_metadata', 'latest_quarterly_stocks', 'available_stocks', 'available_pickles']
+refresh_clicked = st.sidebar.button("🔄 Refresh Data Cache")
+
+if any(key not in st.session_state for key in required_keys) or refresh_clicked:
+    if refresh_clicked:
+        st.cache_resource.clear()
+        
+    with st.spinner("Loading Stock Metadata from MongoDB..."):
+        start = time.perf_counter()
         all_meta, latest_q, last_q_text, avail_stocks, not_latest = create_database.get_metadata(recent_quarter_txt, last_quarter_text)
+        
+        # Sync to session state
         st.session_state.all_stock_metadata = all_meta
         st.session_state.latest_quarterly_stocks = latest_q
         st.session_state.last_announced_quarter = last_q_text
         st.session_state.available_stocks = avail_stocks
+        st.session_state.available_pickles = avail_stocks # Legacy compatibility
         st.session_state.not_latest_quarterly = not_latest
-        st.success("Metadata Refreshed!")
-        time.sleep(1)
-        st.rerun()
-
-# Check if ALL required keys are in session state
-required_keys = ['all_stock_metadata', 'latest_quarterly_stocks', 'available_stocks', 'available_pickles']
-if any(key not in st.session_state for key in required_keys):
-    start = time.perf_counter()
-    all_meta, latest_q, last_q_text, avail_stocks, not_latest = create_database.get_metadata(recent_quarter_txt, last_quarter_text)
-    
-    # Sync everything to session state
-    st.session_state.all_stock_metadata = all_meta
-    st.session_state.latest_quarterly_stocks = latest_q
-    st.session_state.last_announced_quarter = last_q_text
-    st.session_state.available_stocks = avail_stocks
-    st.session_state.available_pickles = avail_stocks # Sync for legacy compatibility
-    st.session_state.no_of_stocks_not_latest = not_latest
-    
-    # Sync to variables for legacy functions
-    variables.metadata = all_meta
-    
-    end = time.perf_counter()
-    print(f"Metadata loaded in {end - start:0.4f} seconds")
+        st.session_state.no_of_stocks_not_latest = not_latest # Sync for legacy names
+        
+        # Sync to variables for legacy functions
+        variables.metadata = all_meta
+        
+        end = time.perf_counter()
+        print(f"Metadata loaded in {end - start:0.4f} seconds")
+        
+        if refresh_clicked:
+            st.success("Metadata Refreshed!")
+            time.sleep(0.5)
+            st.rerun()
 
 
 
@@ -271,115 +251,7 @@ def write_tags_to_txt(metadata):
             # if metadata['code_names'][-1] not in variables.user_data[each]:
             #     with open(text_file, 'a+') as file:
             #         file.write(f"{metadata['code_names'][-1]}\n")
-            #         st.success(f"Updated {metadata['code_names'][-1]} in {text_file}")def save_screener1(codes, force, status_placeholder=None):
-    driver = processdriver.getedgedriver()
-    if driver is None:
-        st.error("Cannot update data from Screener: Webdriver is not available in this environment.")
-        return
-    
-    # Ensure codes are unique and stripped
-    seen = set()
-    codes = [x.strip().upper() for x in codes if x.strip().upper() not in seen and not seen.add(x.strip().upper())]
-    
-    total = len(codes)
-    progress_bar = st.progress(0)
-    
-    print("Entered save_screener1 FUNC")
-    for i, code in enumerate(codes):
-        # Update UI Status
-        msg = f"🔍 Processing {i+1}/{total}: **{code}**"
-        
-        # 1. Skip if not forced and data is fresh
-        if force == False:
-            print(f"Trying to check if {code} exists in DB")
-            doc_is = create_database.comp_metadata_col.find_one({"code_names": code.upper()})
-            if doc_is:
-                last_q = ""
-                if "CONSOLIDATED" in doc_is:
-                    keys = list(doc_is['CONSOLIDATED'].get('QUARTERLY', {}))
-                    if keys: last_q = keys[-1]
-                elif "STANDALONE" in doc_is:
-                    keys = list(doc_is['STANDALONE'].get('QUARTERLY', {}))
-                    if keys: last_q = keys[-1]
-                
-                if last_q == recent_quarter_txt:
-                    # Add a 6-hour cooldown check
-                    last_updated = doc_is.get('timestamp')
-                    if last_updated and (datetime.datetime.now() - last_updated).total_seconds() < 6 * 3600:
-                        st.success(f"✅ {code} is fresh (Updated {last_updated.strftime('%H:%M')}). Skipping.")
-                        progress_bar.progress((i + 1) / total)
-                        continue
-
-        # 2. Send 'Trying' Notification (Local Only)
-        if not config.is_cloud():
-            try:
-                target = tg_scraper_chat if tg_scraper_chat.startswith('-') or tg_scraper_chat.isdigit() else f"@{tg_scraper_chat}"
-                bot.send_message(chat_id=target, 
-                                 text=f"🔄 *Trying {code}...*", 
-                                 parse_mode='Markdown')
-            except: pass
-
-        # 3. Perform Scrape
-        try:
-            screenerpage.search_screener1(driver, code)
-        except ValueError as e:
-            err_msg = str(e)
-            if "404 Error" in err_msg or "No Data Available" in err_msg:
-                reason = "returned a 404" if "404 Error" in err_msg else "has no download button (ETF/Other)"
-                st.warning(f"🚫 {code} {reason}. Adding to avoid list.")
-                create_database.add_to_avoid_list(code)
-                # Remove from session state to prevent further attempts in this session
-                if code in st.session_state.get('listed_stocks', []):
-                    st.session_state['listed_stocks'].remove(code)
-                
-                # Notify via Telegram
-                if not config.is_cloud():
-                    try:
-                        target = tg_scraper_chat if tg_scraper_chat.startswith('-') or tg_scraper_chat.isdigit() else f"@{tg_scraper_chat}"
-                        bot.send_message(chat_id=target, 
-                                         text=f"🚫 *{code}:* {reason.capitalize()}! Added to avoid list and removed from All Listed.", 
-                                         parse_mode='Markdown')
-                    except: pass
-                progress_bar.progress((i + 1) / total)
-                continue
-            else:
-                st.error(f"Error scraping {code}: {e}")
-                progress_bar.progress((i + 1) / total)
-                continue
-        except Exception as e:
-            st.error(f"Unexpected error scraping {code}: {e}")
-            progress_bar.progress((i + 1) / total)
-            continue
-
-        time.sleep(1) 
-        
-        # 4. After successful scrape, get latest quarter for notification
-        latest_q = "Unknown"
-        doc = create_database.comp_metadata_col.find_one({"code_names": code.upper()})
-        if doc:
-            latest_q = doc.get('metadata', {}).get('recent_quarter', "Not Found")
-        
-        # 5. Send 'Result' Notification (Local Only)
-        if not config.is_cloud():
-            try:
-                target = tg_scraper_chat if tg_scraper_chat.startswith('-') or tg_scraper_chat.isdigit() else f"@{tg_scraper_chat}"
-                notification = f"✅ *{code}:* Got results for {latest_q}!"
-                bot.send_message(chat_id=target, 
-                                 text=notification, 
-                                 parse_mode='Markdown')
-            except Exception as e:
-                print(f"Failed to send Telegram update for {code}: {e}")
-            
-        if status_placeholder:
-            status_placeholder.success(f"✅ {code} ({latest_q}) updated and notified!")
-            st.write(msg)
-        
-        progress_bar.progress((i + 1) / total)
-        
-    progress_bar.empty()
-    if status_placeholder:
-        status_placeholder.empty()
-    print("Exiting save_screener1 FUNC")
+            #         st.success(f"Updated {metadata['code_names'][-1]} in {text_file}")# save_screener1 was moved to screenerpage.py
 
 
 # Parse the URL parameters to get the selected stock
@@ -574,7 +446,7 @@ if selected:
     try:
         company_code, comp_Name = nse_bse_search.get_code_name(selected)
     except Exception as TypeError:
-        save_screener1([selected], True, status_placeholder=main_status)
+        screenerpage.save_screener1([selected], True, status_placeholder=main_status)
         try:
             company_code, comp_Name = nse_bse_search.get_code_name(selected)
         except Exception as TypeError:
@@ -835,6 +707,12 @@ if selected:
             
             with coltw2:
                 st.subheader("📝 Stock Insights")
+                
+                # Add AI Insights if available (fetching from various possible paths in MongoDB)
+                ai_insights = metadata.get('ai_insights') or inner_meta.get('ai_insights')
+                if ai_insights:
+                    st.info(f"🤖 **AI Verdict:** {ai_insights}")
+                
                 # Use manual sentence as the primary value, fallback to automated if empty
                 display_val = manual_sentence if manual_sentence else auto_summary
                 textarea_is = st.text_area(label="Your Analysis / Notes", value=display_val, height=350, key=f"Insights_{selected}")

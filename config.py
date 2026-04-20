@@ -1,26 +1,42 @@
 import streamlit as st
 import os
+import datetime
+import pandas as pd
+from telegram import Bot
 
 def is_cloud():
     """
     Check if the application is running in Streamlit Cloud.
     """
-    # 1. Check st.secrets first
     if "IS_CLOUD" in st.secrets:
         val = st.secrets["IS_CLOUD"]
         if isinstance(val, str):
             return val.lower() == "true"
         return bool(val)
-    
-    # 2. Check environment variables (Streamlit Cloud sets some specific ones)
     if os.environ.get("STREAMLIT_RUNTIME_ENV") == "cloud":
         return True
-    
-    # 3. Fallback: check for a common cloud-only path or variable
     if "STREAMLIT_SERVER_PORT" in os.environ and os.environ.get("USER") == "appuser":
         return True
-        
     return False
+
+def get_recent_quarters():
+    now = datetime.datetime.now()
+    year = now.year
+    month = now.month
+    
+    if 1 <= month <= 3: # JFM -> Latest is Dec (Prev Year)
+        q1 = f"{year-1}-12-31"
+        q2 = f"{year-1}-09-30"
+    elif 4 <= month <= 6: # AMJ -> Latest is Mar (Current Year)
+        q1 = f"{year}-03-31"
+        q2 = f"{year-1}-12-31"
+    elif 7 <= month <= 9: # JAS -> Latest is Jun (Current Year)
+        q1 = f"{year}-06-30"
+        q2 = f"{year}-03-31"
+    else: # OND -> Latest is Sep (Current Year)
+        q1 = f"{year}-09-30"
+        q2 = f"{year}-06-30"
+    return q1, q2
 
 class Config:
     @staticmethod
@@ -40,9 +56,7 @@ class Config:
             email = st.secrets["SCREENER_EMAIL"]
             password = st.secrets["SCREENER_PASSWORD"]
             return email, password
-        except KeyError as e:
-            # On cloud, this should be set in Secrets tab.
-            # Local, it should be in .streamlit/secrets.toml
+        except KeyError:
             return "", ""
 
     @staticmethod
@@ -53,8 +67,19 @@ class Config:
             chat = st.secrets["TELEGRAM_CHAT"]
             scraper_chat = st.secrets.get("TELEGRAM_SCRAPER_CHAT", chat)
             return token, chat, scraper_chat
-        except KeyError as e:
+        except KeyError:
             return "", "", ""
+
+    @staticmethod
+    @st.cache_resource
+    def get_telegram_bot():
+        token, _, _ = Config.get_telegram_config()
+        if token:
+            try:
+                return Bot(token=token)
+            except Exception as e:
+                print(f"Telegram Bot Error: {e}")
+        return None
 
     @staticmethod
     def get_driver_path(driver_type="CHROME"):
@@ -67,3 +92,6 @@ class Config:
 # Helper functions for backward compatibility
 def get_mongodb_uri():
     return Config.get_mongodb_uri()
+
+# Pre-calculate quarters
+recent_quarter_txt, last_quarter_text = get_recent_quarters()

@@ -39,6 +39,108 @@ industry_xpath = "/html/body/main/section[3]/div[1]/div[1]/p[1]/a[4]"
 
 global driver
 
+def save_screener1(codes, force, status_placeholder=None):
+    driver = processdriver.getchromedriver() # Prefer Chrome for stability
+    if driver is None:
+        st.error("Cannot update data from Screener: Webdriver is not available in this environment.")
+        return
+    
+    tg_token, tg_chat, tg_scraper_chat = config.Config.get_telegram_config()
+    bot = config.Config.get_telegram_bot()
+    recent_quarter_txt = config.recent_quarter_txt
+    
+    # Ensure codes are unique and stripped
+    seen = set()
+    codes = [x.strip().upper() for x in codes if x.strip().upper() not in seen and not seen.add(x.strip().upper())]
+    
+    total = len(codes)
+    progress_bar = st.progress(0)
+    
+    print("Entered save_screener1 FUNC")
+    for i, code in enumerate(codes):
+        # Update UI Status
+        msg = f"🔍 Processing {i+1}/{total}: **{code}**"
+        
+        # 1. Skip if not forced and data is fresh
+        if force == False:
+            doc_is = create_database.comp_metadata_col.find_one({"code_names": code.upper()})
+            if doc_is:
+                last_q = ""
+                if "CONSOLIDATED" in doc_is:
+                    keys = list(doc_is['CONSOLIDATED'].get('QUARTERLY', {}))
+                    if keys: last_q = keys[-1]
+                elif "STANDALONE" in doc_is:
+                    keys = list(doc_is['STANDALONE'].get('QUARTERLY', {}))
+                    if keys: last_q = keys[-1]
+                
+                if last_q == recent_quarter_txt:
+                    # Add a 6-hour cooldown check
+                    last_updated = doc_is.get('timestamp')
+                    if last_updated and (datetime.datetime.now() - last_updated).total_seconds() < 6 * 3600:
+                        st.success(f"✅ {code} is fresh (Updated {last_updated.strftime('%H:%M')}). Skipping.")
+                        progress_bar.progress((i + 1) / total)
+                        continue
+
+        # 2. Send 'Trying' Notification (Local Only)
+        if not config.is_cloud() and bot:
+            try:
+                target = tg_scraper_chat if tg_scraper_chat.startswith('-') or tg_scraper_chat.isdigit() else f"@{tg_scraper_chat}"
+                bot.send_message(chat_id=target, text=f"🔄 *Trying {code}...*", parse_mode='Markdown')
+            except: pass
+
+        # 3. Perform Scrape
+        try:
+            search_screener1(driver, code)
+        except ValueError as e:
+            err_msg = str(e)
+            if "404 Error" in err_msg or "No Data Available" in err_msg:
+                reason = "returned a 404" if "404 Error" in err_msg else "has no download button"
+                st.warning(f"🚫 {code} {reason}. Adding to avoid list.")
+                create_database.add_to_avoid_list(code)
+                
+                if not config.is_cloud() and bot:
+                    try:
+                        target = tg_scraper_chat if tg_scraper_chat.startswith('-') or tg_scraper_chat.isdigit() else f"@{tg_scraper_chat}"
+                        bot.send_message(chat_id=target, text=f"🚫 *{code}:* {reason.capitalize()}!", parse_mode='Markdown')
+                    except: pass
+                progress_bar.progress((i + 1) / total)
+                continue
+            else:
+                st.error(f"Error scraping {code}: {e}")
+                progress_bar.progress((i + 1) / total)
+                continue
+        except Exception as e:
+            st.error(f"Unexpected error scraping {code}: {e}")
+            progress_bar.progress((i + 1) / total)
+            continue
+
+        time.sleep(1) 
+        
+        # 4. After successful scrape, get latest quarter for notification
+        latest_q = "Unknown"
+        doc = create_database.comp_metadata_col.find_one({"code_names": code.upper()})
+        if doc:
+            latest_q = doc.get('metadata', {}).get('recent_quarter', "Not Found")
+        
+        # 5. Send 'Result' Notification (Local Only)
+        if not config.is_cloud() and bot:
+            try:
+                target = tg_scraper_chat if tg_scraper_chat.startswith('-') or tg_scraper_chat.isdigit() else f"@{tg_scraper_chat}"
+                notification = f"✅ *{code}:* Got results for {latest_q}!"
+                bot.send_message(chat_id=target, text=notification, parse_mode='Markdown')
+            except: pass
+            
+        if status_placeholder:
+            status_placeholder.success(f"✅ {code} ({latest_q}) updated and notified!")
+        
+        progress_bar.progress((i + 1) / total)
+        
+    progress_bar.empty()
+    if status_placeholder:
+        status_placeholder.empty()
+    driver.quit()
+    print("Exiting save_screener1 FUNC")
+
 # Handle download paths dynamically
 if config.is_cloud():
     path_download = './downloads/'

@@ -4,7 +4,7 @@ import pandas as pd
 import time
 import create_database
 import config
-import main # To access shared functions like save_screener1
+import screenerpage # To access shared functions like save_screener1
 
 st.set_page_config(page_title="iTimes Admin", page_icon="🔐", layout="wide")
 
@@ -89,7 +89,7 @@ if st.button("🔥 Start Scrape Process", type="primary", use_container_width=Tr
     if unique_codes:
         st.info(f"Scraping {len(unique_codes)} stocks in order...")
         status_p = st.empty()
-        main.save_screener1(unique_codes, force=True, status_placeholder=status_p)
+        screenerpage.save_screener1(unique_codes, force=True, status_placeholder=status_p)
         st.success("Batch completed! Clearing cache...")
         st.cache_resource.clear()
         time.sleep(1)
