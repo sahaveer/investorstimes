@@ -186,7 +186,7 @@ def develop_data(qtr_pnl, df_comp):
         'OTHER MFR. EXP'] + pnl['EMPLOYEE COST'] + pnl['SELLING AND ADMIN'] + pnl['OTHER EXPENSES']
     pnl = pnl.drop(
         columns=['RAW MATERIAL COST', 'CHANGE IN INVENTORY', 'POWER AND FUEL', 'OTHER MFR. EXP', 'EMPLOYEE COST',
-                 'SELLING AND ADMIN', 'OTHER EXPENSES'], axis=1)
+                 'SELLING AND ADMIN', 'OTHER EXPENSES'], errors='ignore')
     pnl['OPERATING PROFIT'] = pnl['SALES'] - pnl['EXPENSES']
     pnl['OPM %'] = pnl.apply(OPM, axis=1)
     pnl['NPM %'] = pnl.apply(NPM, axis=1)
@@ -279,7 +279,7 @@ def develop_yearly(df_comp):
         'OTHER MFR. EXP'] + pnl['EMPLOYEE COST'] + pnl['SELLING AND ADMIN'] + pnl['OTHER EXPENSES']
     pnl = pnl.drop(
         columns=['RAW MATERIAL COST', 'CHANGE IN INVENTORY', 'POWER AND FUEL', 'OTHER MFR. EXP', 'EMPLOYEE COST',
-                 'SELLING AND ADMIN', 'OTHER EXPENSES'], axis=1)
+                 'SELLING AND ADMIN', 'OTHER EXPENSES'], errors='ignore')
     pnl['OPERATING PROFIT'] = pnl['SALES'] - pnl['EXPENSES']
     pnl['OPM %'] = pnl.apply(OPM, axis=1)
     pnl['NPM %'] = pnl.apply(NPM, axis=1)
